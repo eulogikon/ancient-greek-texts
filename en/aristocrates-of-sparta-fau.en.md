@@ -2,7 +2,7 @@
 name: Aristocrates of Sparta
 name_greek: Ἀριστοκράτης ὁ Λακεδαιμόνιος
 eul_aid: fau
-canonical: "https://eulogikon.org/en/aristocrates-of-sparta"
+canonical: "https://eulogikon.org/authors/aristocrates-of-sparta-fau"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοκράτης ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `fau` · [HTML page](https://eulogikon.org/en/aristocrates-of-sparta)
+**eul_aid:** `fau` · [HTML page](https://eulogikon.org/authors/aristocrates-of-sparta-fau)
 
 Aristocrates of Sparta, a 4th century BCE historian writing in Doric Greek. Fragments of his work. Free to read and download from the Greek library archive.
 

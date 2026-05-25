@@ -2,7 +2,7 @@
 name: Posidonius of Olbia
 name_greek: Ποσειδώνιος ὁ Ὀλβιοπολίτης
 eul_aid: lzy
-canonical: "https://eulogikon.org/en/posidonius-of-olbia"
+canonical: "https://eulogikon.org/authors/posidonius-of-olbia-lzy"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποσειδώνιος ὁ Ὀλβιοπολίτης*
 
-**eul_aid:** `lzy` · [HTML page](https://eulogikon.org/en/posidonius-of-olbia)
+**eul_aid:** `lzy` · [HTML page](https://eulogikon.org/authors/posidonius-of-olbia-lzy)
 
 Posidonius of Olbia, Hellenistic historian of the 1st century BCE. Historical fragments in later sources. Free to read and download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Choricius the Sophist of Gaza
 name_greek: Χορίκιος ὁ Γαζαῖος
 eul_aid: uvo
-canonical: "https://eulogikon.org/en/choricius-of-gaza"
+canonical: "https://eulogikon.org/authors/choricius-the-sophist-of-gaza-uvo"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χορίκιος ὁ Γαζαῖος*
 
-**eul_aid:** `uvo` · [HTML page](https://eulogikon.org/en/choricius-of-gaza)
+**eul_aid:** `uvo` · [HTML page](https://eulogikon.org/authors/choricius-the-sophist-of-gaza-uvo)
 
 Choricius of Gaza, 6th century Christian sophist and orator. His surviving works include orations. Free to read and download from the Greek library archive.
 

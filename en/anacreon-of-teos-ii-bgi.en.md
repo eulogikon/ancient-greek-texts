@@ -2,7 +2,7 @@
 name: Anacreon of Teos II
 name_greek: Ἀνακρέων ὁ Τήϊος
 eul_aid: bgi
-canonical: "https://eulogikon.org/en/anacreon-of-teos-ii"
+canonical: "https://eulogikon.org/authors/anacreon-of-teos-bgi"
 period: Archaic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνακρέων ὁ Τήϊος*
 
-**eul_aid:** `bgi` · [HTML page](https://eulogikon.org/en/anacreon-of-teos-ii)
+**eul_aid:** `bgi` · [HTML page](https://eulogikon.org/authors/anacreon-of-teos-bgi)
 
 Anacreon, Greek lyric poet of the 6th century BCE from Teos. Fragments of his verse on love and wine. Free to read and download from the Greek library archive.
 

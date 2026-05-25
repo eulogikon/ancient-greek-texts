@@ -2,7 +2,7 @@
 name: Lesbonax the Grammarian
 name_greek: Λεσβῶναξ ὁ Μυτιληναῖος
 eul_aid: nne
-canonical: "https://eulogikon.org/en/lesbonax-the-grammarian"
+canonical: "https://eulogikon.org/authors/lesbonax-of-mytilene-nne"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεσβῶναξ ὁ Μυτιληναῖος*
 
-**eul_aid:** `nne` · [HTML page](https://eulogikon.org/en/lesbonax-the-grammarian)
+**eul_aid:** `nne` · [HTML page](https://eulogikon.org/authors/lesbonax-of-mytilene-nne)
 
 Lesbonax of Mytilene was a first century CE Attic grammarian. His surviving grammatical treatise. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dionysius the Voyager Lives
 name_greek: Διονυσίου τοῦ Περιηγητοῦ Βίοι
 eul_aid: tag
-canonical: "https://eulogikon.org/en/dionysius-the-voyager-lives"
+canonical: "https://eulogikon.org/authors/dionysius-the-voyager-lives-tag"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονυσίου τοῦ Περιηγητοῦ Βίοι*
 
-**eul_aid:** `tag` · [HTML page](https://eulogikon.org/en/dionysius-the-voyager-lives)
+**eul_aid:** `tag` · [HTML page](https://eulogikon.org/authors/dionysius-the-voyager-lives-tag)
 
 Dionysius the Voyager, a Byzantine Greek author of Late Antique biography. Works include the Lives. Free to read and download from the Greek library archive.
 

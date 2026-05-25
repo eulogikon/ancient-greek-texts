@@ -2,7 +2,7 @@
 name: Aristeas Letters
 name_greek: Ἀρισταίου Ἐπιστολαί
 eul_aid: ltu
-canonical: "https://eulogikon.org/en/aristeas-letters"
+canonical: "https://eulogikon.org/authors/aristeas-letters-ltu"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρισταίου Ἐπιστολαί*
 
-**eul_aid:** `ltu` · [HTML page](https://eulogikon.org/en/aristeas-letters)
+**eul_aid:** `ltu` · [HTML page](https://eulogikon.org/authors/aristeas-letters-ltu)
 
 Aristeas, a Hellenistic author of the 2nd century BCE. Known for the theological Letter of Aristeas. Free to read and download from the Greek library archive.
 

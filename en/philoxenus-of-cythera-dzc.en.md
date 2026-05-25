@@ -2,7 +2,7 @@
 name: Philoxenus of Cythera
 name_greek: Φιλόξενος ὁ Κυθήριος
 eul_aid: dzc
-canonical: "https://eulogikon.org/en/philoxenus-of-cythera"
+canonical: "https://eulogikon.org/authors/philoxenus-of-cythera-dzc"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόξενος ὁ Κυθήριος*
 
-**eul_aid:** `dzc` · [HTML page](https://eulogikon.org/en/philoxenus-of-cythera)
+**eul_aid:** `dzc` · [HTML page](https://eulogikon.org/authors/philoxenus-of-cythera-dzc)
 
 Philoxenus of Cythera was a Greek dithyrambic poet of the late Classical period. Surviving fragments of his work. Free to download from the Greek archive.
 

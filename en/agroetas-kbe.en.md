@@ -2,7 +2,7 @@
 name: Agroetas
 name_greek: Ἀγροήτας
 eul_aid: kbe
-canonical: "https://eulogikon.org/en/agroetas"
+canonical: "https://eulogikon.org/authors/agroetas-kbe"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγροήτας*
 
-**eul_aid:** `kbe` · [HTML page](https://eulogikon.org/en/agroetas)
+**eul_aid:** `kbe` · [HTML page](https://eulogikon.org/authors/agroetas-kbe)
 
 Agroetas, a Hellenistic historian of the 3rd century BCE. Surviving fragments of his historical prose. Free to read and download from the Greek library archive.
 

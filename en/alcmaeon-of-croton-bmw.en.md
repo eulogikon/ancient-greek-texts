@@ -2,7 +2,7 @@
 name: Alcmaeon of Croton
 name_greek: Ἀλκμαίων ὁ Κροτωνιάτης
 eul_aid: bmw
-canonical: "https://eulogikon.org/en/alcmaeon-of-croton"
+canonical: "https://eulogikon.org/authors/alcmaeon-of-croton-bmw"
 period: Archaic
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκμαίων ὁ Κροτωνιάτης*
 
-**eul_aid:** `bmw` · [HTML page](https://eulogikon.org/en/alcmaeon-of-croton)
+**eul_aid:** `bmw` · [HTML page](https://eulogikon.org/authors/alcmaeon-of-croton-bmw)
 
 Alcmaeon of Croton, presocratic philosopher and physician. Medical and philosophical fragments. Free to read and download from the Greek library archive.
 

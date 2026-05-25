@@ -2,7 +2,7 @@
 name: Patrocles of Thurii
 name_greek: Πατροκλῆς ὁ Θούριος
 eul_aid: gmc
-canonical: "https://eulogikon.org/en/patrocles-of-thurii"
+canonical: "https://eulogikon.org/authors/patrocles-of-thurii-gmc"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πατροκλῆς ὁ Θούριος*
 
-**eul_aid:** `gmc` · [HTML page](https://eulogikon.org/en/patrocles-of-thurii)
+**eul_aid:** `gmc` · [HTML page](https://eulogikon.org/authors/patrocles-of-thurii-gmc)
 
 Patrocles of Thurii was a 4th century BCE Attic dramatist. One surviving work is preserved. Free to read and download from the Greek library archive.
 

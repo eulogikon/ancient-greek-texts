@@ -2,7 +2,7 @@
 name: Eudoxus of Rhodes
 name_greek: Εὔδοξος ὁ Ῥόδιος
 eul_aid: jwo
-canonical: "https://eulogikon.org/en/eudoxus-of-rhodes"
+canonical: "https://eulogikon.org/authors/eudoxus-of-rhodes-jwo"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔδοξος ὁ Ῥόδιος*
 
-**eul_aid:** `jwo` · [HTML page](https://eulogikon.org/en/eudoxus-of-rhodes)
+**eul_aid:** `jwo` · [HTML page](https://eulogikon.org/authors/eudoxus-of-rhodes-jwo)
 
 Eudoxus of Rhodes was a Hellenistic historian of the 3rd century BCE. His works survive as fragments. Free to read and download from the Greek library archive.
 

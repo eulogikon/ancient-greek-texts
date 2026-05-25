@@ -2,7 +2,7 @@
 name: Menetor the Historian
 name_greek: Μενέτωρ ὁ Ἱστορικός
 eul_aid: gae
-canonical: "https://eulogikon.org/en/menetor-the-historian"
+canonical: "https://eulogikon.org/authors/menetor-the-historian-gae"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενέτωρ ὁ Ἱστορικός*
 
-**eul_aid:** `gae` · [HTML page](https://eulogikon.org/en/menetor-the-historian)
+**eul_aid:** `gae` · [HTML page](https://eulogikon.org/authors/menetor-the-historian-gae)
 
 Menetor the Historian, a Greek historian of the Classical period. His surviving historical works. Free to read and download from the Greek library archive.
 

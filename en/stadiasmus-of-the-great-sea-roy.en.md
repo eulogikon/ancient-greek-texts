@@ -2,7 +2,7 @@
 name: Stadiasmus of the Great Sea
 name_greek: Σταδιασμὸς ἢ περίπλους τῆς μεγάλης θαλάσσης
 eul_aid: roy
-canonical: "https://eulogikon.org/en/stadiasmus-of-the-great-sea"
+canonical: "https://eulogikon.org/authors/stadiasmus-of-the-great-sea-roy"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σταδιασμὸς ἢ περίπλους τῆς μεγάλης θαλάσσης*
 
-**eul_aid:** `roy` · [HTML page](https://eulogikon.org/en/stadiasmus-of-the-great-sea)
+**eul_aid:** `roy` · [HTML page](https://eulogikon.org/authors/stadiasmus-of-the-great-sea-roy)
 
 Anonymous Roman era sailing guide for the Mediterranean Sea. Contains coastal navigation details. Free to read and download from the Greek library archive.
 

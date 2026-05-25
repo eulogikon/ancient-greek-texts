@@ -2,7 +2,7 @@
 name: Dionysius the Thracian
 name_greek: Διονύσιος ὁ Θρᾷξ
 eul_aid: mui
-canonical: "https://eulogikon.org/en/dionysius-the-thracian"
+canonical: "https://eulogikon.org/authors/dionysius-the-thracian-mui"
 period: Hellenistic
 dialect: Attic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Θρᾷξ*
 
-**eul_aid:** `mui` · [HTML page](https://eulogikon.org/en/dionysius-the-thracian)
+**eul_aid:** `mui` · [HTML page](https://eulogikon.org/authors/dionysius-the-thracian-mui)
 
 Dionysius the Thracian was a Hellenistic grammarian. His works include grammatical treatises. Free to read and download from the Greek library archive.
 

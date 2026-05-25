@@ -2,7 +2,7 @@
 name: Dionysius son of Calliphon
 name_greek: Διονύσιος ὁ τοῦ Καλλίφωντος (γεωγράφος)
 eul_aid: jkg
-canonical: "https://eulogikon.org/en/dionysius-son-of-calliphon"
+canonical: "https://eulogikon.org/authors/dionysius-son-of-calliphon-jkg"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ τοῦ Καλλίφωντος (γεωγράφος)*
 
-**eul_aid:** `jkg` · [HTML page](https://eulogikon.org/en/dionysius-son-of-calliphon)
+**eul_aid:** `jkg` · [HTML page](https://eulogikon.org/authors/dionysius-son-of-calliphon-jkg)
 
 Dionysius son of Calliphon, 2nd century BCE geographer. Surviving geographical works in Attic prose. Free to read and download from the Greek library archive.
 

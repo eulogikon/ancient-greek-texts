@@ -2,7 +2,7 @@
 name: Promathion the Historian
 name_greek: Προμαθίων ὁ ἱστορικός
 eul_aid: jis
-canonical: "https://eulogikon.org/en/promathion-the-historian"
+canonical: "https://eulogikon.org/authors/promathion-the-historian-jis"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προμαθίων ὁ ἱστορικός*
 
-**eul_aid:** `jis` · [HTML page](https://eulogikon.org/en/promathion-the-historian)
+**eul_aid:** `jis` · [HTML page](https://eulogikon.org/authors/promathion-the-historian-jis)
 
 Promathion the Historian, a Hellenistic historian of the 3rd century BCE. Surviving historical texts. Free to read and download from the Greek library archive.
 

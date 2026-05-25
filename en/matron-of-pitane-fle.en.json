@@ -44,23 +44,6 @@
   "works_count": 3,
   "works": [
     {
-      "eul_wid": "fle-ab",
-      "title": {
-        "english": "Attic Banquet",
-        "ancient_greek": "Δεῖπνον Ἀττικόν"
-      },
-      "url_slug": "matron-of-pitane-banquet-ab-fle-ab",
-      "passages": 16,
-      "links": {
-        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-ab.epub"
-      }
-    },
-    {
       "eul_wid": "fle-aa",
       "title": {
         "english": "Attic Banquet",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-aa-fle-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-aa-fle-aa.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "fle-ab",
+      "title": {
+        "english": "Attic Banquet",
+        "ancient_greek": "Δεῖπνον Ἀττικόν"
+      },
+      "url_slug": "matron-of-pitane-banquet-ab-fle-ab",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane-banquet-ab-fle-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-ab.epub"
       }
     },
     {

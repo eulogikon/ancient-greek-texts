@@ -2,7 +2,7 @@
 name: Demetrius the Younger
 name_greek: Δημήτριος ὁ νεώτερος (κωμικός)
 eul_aid: khs
-canonical: "https://eulogikon.org/en/demetrius-the-younger"
+canonical: "https://eulogikon.org/authors/demetrius-the-younger-khs"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ νεώτερος (κωμικός)*
 
-**eul_aid:** `khs` · [HTML page](https://eulogikon.org/en/demetrius-the-younger)
+**eul_aid:** `khs` · [HTML page](https://eulogikon.org/authors/demetrius-the-younger-khs)
 
 Demetrius the Younger, Hellenistic comic poet of the 4th-3rd century BCE. Surviving verse fragments. Free to read and download from the Greek library archive.
 

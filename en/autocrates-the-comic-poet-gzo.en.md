@@ -2,7 +2,7 @@
 name: Autocrates the Comic Poet
 name_greek: Αὐτοκράτης ὁ κωμικός
 eul_aid: gzo
-canonical: "https://eulogikon.org/en/autocrates-the-comic-poet"
+canonical: "https://eulogikon.org/authors/autocrates-the-comic-poet-gzo"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αὐτοκράτης ὁ κωμικός*
 
-**eul_aid:** `gzo` · [HTML page](https://eulogikon.org/en/autocrates-the-comic-poet)
+**eul_aid:** `gzo` · [HTML page](https://eulogikon.org/authors/autocrates-the-comic-poet-gzo)
 
 Autocrates was an Athenian comic poet of the late 5th century BCE. Two fragments represent his work. Free to read and download from the Greek library archive.
 

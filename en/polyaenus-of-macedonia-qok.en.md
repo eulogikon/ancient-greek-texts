@@ -2,7 +2,7 @@
 name: Polyaenus of Macedonia
 name_greek: Πολύαινος ὁ Μακεδών
 eul_aid: qok
-canonical: "https://eulogikon.org/en/polyaenus-of-macedonia"
+canonical: "https://eulogikon.org/authors/polyaenus-of-macedonia-qok"
 period: Roman
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύαινος ὁ Μακεδών*
 
-**eul_aid:** `qok` · [HTML page](https://eulogikon.org/en/polyaenus-of-macedonia)
+**eul_aid:** `qok` · [HTML page](https://eulogikon.org/authors/polyaenus-of-macedonia-qok)
 
 Polyaenus of Macedonia, second century CE Roman era orator. Three surviving orations in Koine Greek. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Antiochus of Syracuse
 name_greek: Ἀντίοχος ὁ Συρακούσιος
 eul_aid: dxe
-canonical: "https://eulogikon.org/en/antiochus-of-syracuse"
+canonical: "https://eulogikon.org/authors/antiochus-of-syracuse-dxe"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίοχος ὁ Συρακούσιος*
 
-**eul_aid:** `dxe` · [HTML page](https://eulogikon.org/en/antiochus-of-syracuse)
+**eul_aid:** `dxe` · [HTML page](https://eulogikon.org/authors/antiochus-of-syracuse-dxe)
 
 Antiochus of Syracuse was a 5th century BCE historian from Sicily. His fragments document early Italy. Free to read and download from the Greek library archive.
 

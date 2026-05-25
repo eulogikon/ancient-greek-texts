@@ -2,7 +2,7 @@
 name: Dionysius of Chalcis
 name_greek: Διονύσιος ὁ Χαλκιδεύς
 eul_aid: gpe
-canonical: "https://eulogikon.org/en/dionysius-of-chalcis"
+canonical: "https://eulogikon.org/authors/dionysius-of-chalcis-gpe"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Χαλκιδεύς*
 
-**eul_aid:** `gpe` · [HTML page](https://eulogikon.org/en/dionysius-of-chalcis)
+**eul_aid:** `gpe` · [HTML page](https://eulogikon.org/authors/dionysius-of-chalcis-gpe)
 
 Dionysius of Chalcis was a 4th century BCE historian writing in Attic Greek. His surviving fragments. Free to read and download from the Greek library archive.
 

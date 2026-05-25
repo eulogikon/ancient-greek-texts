@@ -2,7 +2,7 @@
 name: Antigonus of Carystus
 name_greek: Ἀντίγονος ὁ Καρύστιος
 eul_aid: knc
-canonical: "https://eulogikon.org/en/antigonus-of-carystus"
+canonical: "https://eulogikon.org/authors/antigonus-of-carystus-knc"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίγονος ὁ Καρύστιος*
 
-**eul_aid:** `knc` · [HTML page](https://eulogikon.org/en/antigonus-of-carystus)
+**eul_aid:** `knc` · [HTML page](https://eulogikon.org/authors/antigonus-of-carystus-knc)
 
 Antigonus of Carystus was a Hellenistic Greek sculptor and writer. Works of biography and art history. Free to read and download from the Greek library archive.
 

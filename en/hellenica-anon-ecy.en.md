@@ -2,7 +2,7 @@
 name: Hellenica  Anonymous
 name_greek: Ἑλληνικὰ Ἀνώνυμα
 eul_aid: ecy
-canonical: "https://eulogikon.org/en/hellenica-anon"
+canonical: "https://eulogikon.org/authors/hellenica-anon-ecy"
 period: Classical
 dialect: Attic
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑλληνικὰ Ἀνώνυμα*
 
-**eul_aid:** `ecy` · [HTML page](https://eulogikon.org/en/hellenica-anon)
+**eul_aid:** `ecy` · [HTML page](https://eulogikon.org/authors/hellenica-anon-ecy)
 
 Hellenica Anonymous is a 4th century BCE Attic historian. Five surviving works of Greek history. Free to read and download from the Greek library archive.
 

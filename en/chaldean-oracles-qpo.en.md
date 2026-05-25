@@ -2,7 +2,7 @@
 name: Chaldean Oracular Poet Anonymous
 name_greek: Ἀνώνυμος τῶν Χαλδαϊκῶν Ὀρακολόγος
 eul_aid: qpo
-canonical: "https://eulogikon.org/en/chaldean-oracles"
+canonical: "https://eulogikon.org/authors/chaldean-oracular-poet-anon-qpo"
 period: Roman
 dialect: "Koine (phi, frg)"
 affiliation: Hermetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος τῶν Χαλδαϊκῶν Ὀρακολόγος*
 
-**eul_aid:** `qpo` · [HTML page](https://eulogikon.org/en/chaldean-oracles)
+**eul_aid:** `qpo` · [HTML page](https://eulogikon.org/authors/chaldean-oracular-poet-anon-qpo)
 
 Anonymous Chaldean Oracular Poet from the Roman Empire, 2nd-3rd century CE. Greek philosophical fragments. Free to download from the Greek library archive.
 

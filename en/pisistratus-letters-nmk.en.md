@@ -2,7 +2,7 @@
 name: Pisistratus Letters
 name_greek: Πεισιστράτου Ἐπιστολή
 eul_aid: nmk
-canonical: "https://eulogikon.org/en/pisistratus-letters"
+canonical: "https://eulogikon.org/authors/pisistratus-letters-nmk"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πεισιστράτου Ἐπιστολή*
 
-**eul_aid:** `nmk` · [HTML page](https://eulogikon.org/en/pisistratus-letters)
+**eul_aid:** `nmk` · [HTML page](https://eulogikon.org/authors/pisistratus-letters-nmk)
 
 Pisistratus Letters, a Roman era historical text from the 1st-2nd century CE. Surviving epistles in Koine Greek. Free to download from the Greek library.
 

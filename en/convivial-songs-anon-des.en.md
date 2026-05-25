@@ -2,7 +2,7 @@
 name: Convivial Songs Anonymous
 name_greek: Ἄδηλος Συμποσιακά
 eul_aid: des
-canonical: "https://eulogikon.org/en/convivial-songs-anon"
+canonical: "https://eulogikon.org/authors/convivial-songs-anon-des"
 period: Classical
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄδηλος Συμποσιακά*
 
-**eul_aid:** `des` · [HTML page](https://eulogikon.org/en/convivial-songs-anon)
+**eul_aid:** `des` · [HTML page](https://eulogikon.org/authors/convivial-songs-anon-des)
 
 Anonymous author of Greek convivial songs from the 5th-4th century BCE. Sympotic poetry in mixed dialects. Free to read and download from the Greek library.
 

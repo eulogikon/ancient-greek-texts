@@ -2,7 +2,7 @@
 name: Hegesippus of Mecyberna
 name_greek: Ἡγήσιππος ὁ Μεκυβερναῖος
 eul_aid: ihk
-canonical: "https://eulogikon.org/en/hegesippus-of-mecyberna"
+canonical: "https://eulogikon.org/authors/hegesippus-of-mecyberna-ihk"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡγήσιππος ὁ Μεκυβερναῖος*
 
-**eul_aid:** `ihk` · [HTML page](https://eulogikon.org/en/hegesippus-of-mecyberna)
+**eul_aid:** `ihk` · [HTML page](https://eulogikon.org/authors/hegesippus-of-mecyberna-ihk)
 
 Hegesippus of Mecyberna was a 4th century BCE historian. His surviving historical work is in fragments. Free to read and download from the Greek archive.
 

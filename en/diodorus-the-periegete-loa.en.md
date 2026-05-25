@@ -2,7 +2,7 @@
 name: Diodorus the Periegete
 name_greek: Διόδωρος ὁ Περιηγητής
 eul_aid: loa
-canonical: "https://eulogikon.org/en/diodorus-the-periegete"
+canonical: "https://eulogikon.org/authors/diodorus-the-periegete-loa"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόδωρος ὁ Περιηγητής*
 
-**eul_aid:** `loa` · [HTML page](https://eulogikon.org/en/diodorus-the-periegete)
+**eul_aid:** `loa` · [HTML page](https://eulogikon.org/authors/diodorus-the-periegete-loa)
 
 Diodorus the Periegete was a Hellenistic geographer. His surviving geographical prose is preserved. Free to read and download from the Greek library archive.
 

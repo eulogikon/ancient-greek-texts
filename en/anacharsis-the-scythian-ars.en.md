@@ -2,7 +2,7 @@
 name: Anacharsis the Scythian
 name_greek: Ἀνάχαρσις ὁ Σκύθης
 eul_aid: ars
-canonical: "https://eulogikon.org/en/anacharsis-the-scythian"
+canonical: "https://eulogikon.org/authors/anacharsis-the-scythian-ars"
 period: Archaic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνάχαρσις ὁ Σκύθης*
 
-**eul_aid:** `ars` · [HTML page](https://eulogikon.org/en/anacharsis-the-scythian)
+**eul_aid:** `ars` · [HTML page](https://eulogikon.org/authors/anacharsis-the-scythian-ars)
 
 Anacharsis, a Scythian prince and philosopher of the 6th century BCE. Epistles on wisdom and culture. Free to read and download from the Greek library archive.
 

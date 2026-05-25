@@ -2,7 +2,7 @@
 name: Diogenes of Laertia
 name_greek: Διογένης ὁ Λαέρτιος
 eul_aid: rjo
-canonical: "https://eulogikon.org/en/diogenes-of-laertia"
+canonical: "https://eulogikon.org/authors/diogenes-of-laertia-rjo"
 period: Roman
 dialect: Atticizing
 works_count: 13
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Λαέρτιος*
 
-**eul_aid:** `rjo` · [HTML page](https://eulogikon.org/en/diogenes-of-laertia)
+**eul_aid:** `rjo` · [HTML page](https://eulogikon.org/authors/diogenes-of-laertia-rjo)
 
 Diogenes Laertius, 3rd century CE biographer of Greek philosophers. His major work is Lives of Eminent Philosophers. Free to download from the Greek archive.
 

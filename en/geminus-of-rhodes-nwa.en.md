@@ -2,7 +2,7 @@
 name: Geminus of Rhodes
 name_greek: Γεμῖνος ὁ Ῥόδιος
 eul_aid: nwa
-canonical: "https://eulogikon.org/en/geminus-of-rhodes"
+canonical: "https://eulogikon.org/authors/geminus-of-rhodes-nwa"
 period: Roman
 dialect: Technical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γεμῖνος ὁ Ῥόδιος*
 
-**eul_aid:** `nwa` · [HTML page](https://eulogikon.org/en/geminus-of-rhodes)
+**eul_aid:** `nwa` · [HTML page](https://eulogikon.org/authors/geminus-of-rhodes-nwa)
 
 Geminus of Rhodes, a 1st century BCE scientific writer. Works include astronomy and mathematics. Free to read and download from the Greek library archive.
 

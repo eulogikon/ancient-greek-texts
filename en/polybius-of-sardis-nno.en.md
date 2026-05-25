@@ -2,7 +2,7 @@
 name: Polybius of Sardis
 name_greek: Πολύβιος ὁ Σαρδιανός
 eul_aid: nno
-canonical: "https://eulogikon.org/en/polybius-of-sardis"
+canonical: "https://eulogikon.org/authors/polybius-of-sardis-nno"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύβιος ὁ Σαρδιανός*
 
-**eul_aid:** `nno` · [HTML page](https://eulogikon.org/en/polybius-of-sardis)
+**eul_aid:** `nno` · [HTML page](https://eulogikon.org/authors/polybius-of-sardis-nno)
 
 Polybius of Sardis, a Roman era orator writing in Koine Greek. Two surviving orations are preserved. Free to read and download from the Greek library archive.
 

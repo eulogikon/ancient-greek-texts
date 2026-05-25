@@ -2,7 +2,7 @@
 name: Greek Geographer  Anonymous
 name_greek: Ἀνώνυμος γεωγράφος ὁ καλούμενος Ψευδοσκύμνος
 eul_aid: mna
-canonical: "https://eulogikon.org/en/greek-geographer-anonymous"
+canonical: "https://eulogikon.org/authors/greek-geographer-anon-mna"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος γεωγράφος ὁ καλούμενος Ψευδοσκύμνος*
 
-**eul_aid:** `mna` · [HTML page](https://eulogikon.org/en/greek-geographer-anonymous)
+**eul_aid:** `mna` · [HTML page](https://eulogikon.org/authors/greek-geographer-anon-mna)
 
 Anonymous Hellenistic geographer known as Pseudo-Scymnus from the 2nd century BCE. Two surviving works. Free to read and download from the Greek library.
 

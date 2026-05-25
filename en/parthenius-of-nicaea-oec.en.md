@@ -2,7 +2,7 @@
 name: Parthenius of Nicaea the Elegist
 name_greek: Παρθένιος ὁ Νικαεύς
 eul_aid: oec
-canonical: "https://eulogikon.org/en/parthenius-of-nicaea"
+canonical: "https://eulogikon.org/authors/parthenius-of-nicaea-oec"
 period: Roman
 dialect: Literary Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παρθένιος ὁ Νικαεύς*
 
-**eul_aid:** `oec` · [HTML page](https://eulogikon.org/en/parthenius-of-nicaea)
+**eul_aid:** `oec` · [HTML page](https://eulogikon.org/authors/parthenius-of-nicaea-oec)
 
 Parthenius of Nicaea, a Roman era author of Greek prose fiction. Read his surviving works of elegiac mythography. Free to download from the Greek archive.
 

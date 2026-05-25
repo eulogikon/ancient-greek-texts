@@ -2,7 +2,7 @@
 name: Menippus of Pergamon
 name_greek: Μένιππος ὁ Περγαμηνός
 eul_aid: lzo
-canonical: "https://eulogikon.org/en/menippus-of-pergamon"
+canonical: "https://eulogikon.org/authors/menippus-of-pergamon-lzo"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μένιππος ὁ Περγαμηνός*
 
-**eul_aid:** `lzo` · [HTML page](https://eulogikon.org/en/menippus-of-pergamon)
+**eul_aid:** `lzo` · [HTML page](https://eulogikon.org/authors/menippus-of-pergamon-lzo)
 
 Menippus of Pergamon was a Hellenistic geographer. His surviving work is a coastal survey of the Black Sea. Free to read and download from the Greek archive.
 

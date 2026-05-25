@@ -2,7 +2,7 @@
 name: Choerilus of Samos
 name_greek: Χοιρίλος ὁ Σάμιος
 eul_aid: emy
-canonical: "https://eulogikon.org/en/choerilus-of-samos"
+canonical: "https://eulogikon.org/authors/choerilus-of-samos-emy"
 period: Classical
 dialect: Epic (Homeric)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χοιρίλος ὁ Σάμιος*
 
-**eul_aid:** `emy` · [HTML page](https://eulogikon.org/en/choerilus-of-samos)
+**eul_aid:** `emy` · [HTML page](https://eulogikon.org/authors/choerilus-of-samos-emy)
 
 Choerilus of Samos was a 5th century BCE Greek epic poet. Three surviving epic works are preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Diogenes of Oenoanda
 name_greek: Διογένης ὁ Οἰνοανδεύς
 eul_aid: peg
-canonical: "https://eulogikon.org/en/diogenes-of-oenoanda"
+canonical: "https://eulogikon.org/authors/diogenes-of-oenoanda-peg"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Οἰνοανδεύς*
 
-**eul_aid:** `peg` · [HTML page](https://eulogikon.org/en/diogenes-of-oenoanda)
+**eul_aid:** `peg` · [HTML page](https://eulogikon.org/authors/diogenes-of-oenoanda-peg)
 
 Diogenes of Oenoanda, 2nd century CE Epicurean philosopher. His inscription covers ethics and physics. Free to read and download from the Greek library archive.
 

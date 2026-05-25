@@ -2,7 +2,7 @@
 name: Thespis of Icaria
 name_greek: Θέσπις ὁ Ἰκαριεύς
 eul_aid: bfe
-canonical: "https://eulogikon.org/en/thespis-of-icaria"
+canonical: "https://eulogikon.org/authors/thespis-of-icaria-bfe"
 period: Archaic
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέσπις ὁ Ἰκαριεύς*
 
-**eul_aid:** `bfe` · [HTML page](https://eulogikon.org/en/thespis-of-icaria)
+**eul_aid:** `bfe` · [HTML page](https://eulogikon.org/authors/thespis-of-icaria-bfe)
 
 Thespis of Icaria, 6th century BCE dramatist who originated Greek tragedy. Fragments of his works. Free to read and download from the Greek library archive.
 

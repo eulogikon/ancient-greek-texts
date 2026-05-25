@@ -2,7 +2,7 @@
 name: Strato of Lampsacus
 name_greek: Στράτων ὁ Λαμψακηνός
 eul_aid: ipc
-canonical: "https://eulogikon.org/en/strato-of-lampsacus"
+canonical: "https://eulogikon.org/authors/strato-of-lampsacus-ipc"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στράτων ὁ Λαμψακηνός*
 
-**eul_aid:** `ipc` · [HTML page](https://eulogikon.org/en/strato-of-lampsacus)
+**eul_aid:** `ipc` · [HTML page](https://eulogikon.org/authors/strato-of-lampsacus-ipc)
 
 Strato of Lampsacus, Hellenistic Peripatetic philosopher and third head of Lyceum. Philosophical works and fragments. Free to download from the Greek archive.
 

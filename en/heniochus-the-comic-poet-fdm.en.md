@@ -2,7 +2,7 @@
 name: Heniochus the Comic Poet
 name_greek: Ἡνίοχος ὁ Κωμικός
 eul_aid: fdm
-canonical: "https://eulogikon.org/en/heniochus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/heniochus-the-comic-poet-fdm"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡνίοχος ὁ Κωμικός*
 
-**eul_aid:** `fdm` · [HTML page](https://eulogikon.org/en/heniochus-the-comic-poet)
+**eul_aid:** `fdm` · [HTML page](https://eulogikon.org/authors/heniochus-the-comic-poet-fdm)
 
 Heniochus was a 4th century BCE Athenian comic poet of Middle Comedy. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

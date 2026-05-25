@@ -2,7 +2,7 @@
 name: Nicomachus of Gerasa
 name_greek: Νικόμαχος ὁ Γερασηνός
 eul_aid: owy
-canonical: "https://eulogikon.org/en/nicomachus-of-gerasa"
+canonical: "https://eulogikon.org/authors/nicomachus-of-gerasa-owy"
 period: Roman
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικόμαχος ὁ Γερασηνός*
 
-**eul_aid:** `owy` · [HTML page](https://eulogikon.org/en/nicomachus-of-gerasa)
+**eul_aid:** `owy` · [HTML page](https://eulogikon.org/authors/nicomachus-of-gerasa-owy)
 
 Nicomachus of Gerasa, Roman era mathematician and music theorist. Includes Introduction to Arithmetic. Free to read and download from the Greek library archive.
 

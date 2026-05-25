@@ -2,7 +2,7 @@
 name: Eusebius of Myndus
 name_greek: Εὐσέβιος ὁ Μύνδιος
 eul_aid: sio
-canonical: "https://eulogikon.org/en/eusebius-of-myndus"
+canonical: "https://eulogikon.org/authors/eusebius-of-myndus-sio"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐσέβιος ὁ Μύνδιος*
 
-**eul_aid:** `sio` · [HTML page](https://eulogikon.org/en/eusebius-of-myndus)
+**eul_aid:** `sio` · [HTML page](https://eulogikon.org/authors/eusebius-of-myndus-sio)
 
 Eusebius of Myndus was a 4th century CE Neoplatonic philosopher. Surviving philosophical treatises. Free to read and download from the Greek library archive.
 

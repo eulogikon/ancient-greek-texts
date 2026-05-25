@@ -2,7 +2,7 @@
 name: Chilonis Letters
 name_greek: Χιλωνίδος Ἐπιστολή
 eul_aid: fzu
-canonical: "https://eulogikon.org/en/chilonis-letters"
+canonical: "https://eulogikon.org/authors/chilonis-letters-fzu"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χιλωνίδος Ἐπιστολή*
 
-**eul_aid:** `fzu` · [HTML page](https://eulogikon.org/en/chilonis-letters)
+**eul_aid:** `fzu` · [HTML page](https://eulogikon.org/authors/chilonis-letters-fzu)
 
 Chilonis Letters is an Attic epistolary text from the Classical era. One surviving letter is available. Free to download from the Greek library archive.
 

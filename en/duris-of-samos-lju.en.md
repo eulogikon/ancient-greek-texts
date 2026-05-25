@@ -2,7 +2,7 @@
 name: Duris of Samos
 name_greek: Δοῦρις ὁ Σάμιος
 eul_aid: lju
-canonical: "https://eulogikon.org/en/duris-of-samos"
+canonical: "https://eulogikon.org/authors/duris-of-samos-lju"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δοῦρις ὁ Σάμιος*
 
-**eul_aid:** `lju` · [HTML page](https://eulogikon.org/en/duris-of-samos)
+**eul_aid:** `lju` · [HTML page](https://eulogikon.org/authors/duris-of-samos-lju)
 
 Duris of Samos was a Hellenistic historian and tyrant. His surviving historical works are fragments. Free to read and download from the Greek library archive.
 

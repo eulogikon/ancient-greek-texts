@@ -2,7 +2,7 @@
 name: Agias of Troezen
 name_greek: Ἀγίας ὁ Τροιζήνιος
 eul_aid: aby
-canonical: "https://eulogikon.org/en/agias-of-troezen"
+canonical: "https://eulogikon.org/authors/agias-of-troezen-aby"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγίας ὁ Τροιζήνιος*
 
-**eul_aid:** `aby` · [HTML page](https://eulogikon.org/en/agias-of-troezen)
+**eul_aid:** `aby` · [HTML page](https://eulogikon.org/authors/agias-of-troezen-aby)
 
 Agias of Troezen was a 7th-6th century BCE Greek historian. Read his surviving historical fragments. Free to read and download from the Greek library archive.
 

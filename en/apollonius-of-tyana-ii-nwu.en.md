@@ -2,7 +2,7 @@
 name: Apollonius of Tyana II
 name_greek: Ἀπολλώνιος ὁ Τυανεύς
 eul_aid: nwu
-canonical: "https://eulogikon.org/en/apollonius-of-tyana-ii"
+canonical: "https://eulogikon.org/authors/apollonius-of-tyana-nwu"
 period: Roman
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Τυανεύς*
 
-**eul_aid:** `nwu` · [HTML page](https://eulogikon.org/en/apollonius-of-tyana-ii)
+**eul_aid:** `nwu` · [HTML page](https://eulogikon.org/authors/apollonius-of-tyana-nwu)
 
 Apollonius of Tyana, a first century Pythagorean philosopher. Works include his letters and biography. Free to read and download from the Greek library archive.
 

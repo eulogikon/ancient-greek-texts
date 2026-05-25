@@ -2,7 +2,7 @@
 name: Theodoridas of Syracuse
 name_greek: Θεοδωρίδας ὁ Συρακούσιος
 eul_aid: kmi
-canonical: "https://eulogikon.org/en/theodoridas-of-syracuse"
+canonical: "https://eulogikon.org/authors/theodoridas-of-syracuse-kmi"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεοδωρίδας ὁ Συρακούσιος*
 
-**eul_aid:** `kmi` · [HTML page](https://eulogikon.org/en/theodoridas-of-syracuse)
+**eul_aid:** `kmi` · [HTML page](https://eulogikon.org/authors/theodoridas-of-syracuse-kmi)
 
 Theodoridas of Syracuse, a Hellenistic poet of the 3rd century BCE. Two surviving works of verse. Free to read and download from the Greek library archive.
 

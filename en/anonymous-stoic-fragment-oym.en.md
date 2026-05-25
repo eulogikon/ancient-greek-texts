@@ -2,7 +2,7 @@
 name: Stoic Fragment Anonymous
 name_greek: Ἀνώνυμον Στωϊκὸν ἀπόσπασμα
 eul_aid: oym
-canonical: "https://eulogikon.org/en/anonymous-stoic-fragment"
+canonical: "https://eulogikon.org/authors/stoic-fragment-anon-oym"
 period: Roman
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμον Στωϊκὸν ἀπόσπασμα*
 
-**eul_aid:** `oym` · [HTML page](https://eulogikon.org/en/anonymous-stoic-fragment)
+**eul_aid:** `oym` · [HTML page](https://eulogikon.org/authors/stoic-fragment-anon-oym)
 
 Anonymous collection of early Stoic philosophical excerpts. Surviving fragments of Stoic thought. Free to read and download from the Greek library archive.
 

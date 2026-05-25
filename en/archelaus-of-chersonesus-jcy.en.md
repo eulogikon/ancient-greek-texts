@@ -2,7 +2,7 @@
 name: Archelaus of Chersonesus in Egypt
 name_greek: Ἀρχέλαος ὁ Χερσονησίτης
 eul_aid: jcy
-canonical: "https://eulogikon.org/en/archelaus-of-chersonesus"
+canonical: "https://eulogikon.org/authors/archelaus-of-chersonesus-jcy"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχέλαος ὁ Χερσονησίτης*
 
-**eul_aid:** `jcy` · [HTML page](https://eulogikon.org/en/archelaus-of-chersonesus)
+**eul_aid:** `jcy` · [HTML page](https://eulogikon.org/authors/archelaus-of-chersonesus-jcy)
 
 Archelaus of Chersonesus, 3rd century BCE historian. Two surviving historical works in Koine Greek. Free to read and download from the Greek library archive.
 

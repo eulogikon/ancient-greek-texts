@@ -2,7 +2,7 @@
 name: Antyllus the Surgeon
 name_greek: Ἄντυλλος ὁ ἰατρός
 eul_aid: qig
-canonical: "https://eulogikon.org/en/antyllus-the-surgeon"
+canonical: "https://eulogikon.org/authors/antyllus-the-surgeon-qig"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄντυλλος ὁ ἰατρός*
 
-**eul_aid:** `qig` · [HTML page](https://eulogikon.org/en/antyllus-the-surgeon)
+**eul_aid:** `qig` · [HTML page](https://eulogikon.org/authors/antyllus-the-surgeon-qig)
 
 Antyllus, a prominent Greek surgeon of the Roman period. His surviving medical works are fragmentary. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Timagoras of Athens
 name_greek: Τιμαγόρας ὁ Ἀθηναῖος
 eul_aid: csa
-canonical: "https://eulogikon.org/en/timagoras-of-athens"
+canonical: "https://eulogikon.org/authors/timagoras-of-athens-csa"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμαγόρας ὁ Ἀθηναῖος*
 
-**eul_aid:** `csa` · [HTML page](https://eulogikon.org/en/timagoras-of-athens)
+**eul_aid:** `csa` · [HTML page](https://eulogikon.org/authors/timagoras-of-athens-csa)
 
 Timagoras of Athens was a 5th century BCE historian. His surviving historical works are in fragments. Free to read and download from the Greek library archive.
 

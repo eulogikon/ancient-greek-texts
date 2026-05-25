@@ -2,7 +2,7 @@
 name: Xenomedes of Ceos
 name_greek: Ξενομήδης ὁ Κεῖος
 eul_aid: csu
-canonical: "https://eulogikon.org/en/xenomedes-of-ceos"
+canonical: "https://eulogikon.org/authors/xenomedes-of-ceos-csu"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενομήδης ὁ Κεῖος*
 
-**eul_aid:** `csu` · [HTML page](https://eulogikon.org/en/xenomedes-of-ceos)
+**eul_aid:** `csu` · [HTML page](https://eulogikon.org/authors/xenomedes-of-ceos-csu)
 
 Xenomedes of Ceos was a 5th century BCE historian. His surviving fragments document local traditions. Free to read and download from the Greek library archive.
 

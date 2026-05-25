@@ -2,7 +2,7 @@
 name: Hegesander Delphicus
 name_greek: Ἡγήσανδρος ὁ Δελφικός
 eul_aid: jwe
-canonical: "https://eulogikon.org/en/hegesander-delphicus"
+canonical: "https://eulogikon.org/authors/hegesander-delphicus-jwe"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡγήσανδρος ὁ Δελφικός*
 
-**eul_aid:** `jwe` · [HTML page](https://eulogikon.org/en/hegesander-delphicus)
+**eul_aid:** `jwe` · [HTML page](https://eulogikon.org/authors/hegesander-delphicus-jwe)
 
 Hegesander Delphicus, a Hellenistic historian of the 3rd century BCE. Fragments of his works survive. Free to read and download from the Greek library archive.
 

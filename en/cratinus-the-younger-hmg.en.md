@@ -2,7 +2,7 @@
 name: Cratinus the Younger
 name_greek: Κρατῖνος ὁ Νεώτερος
 eul_aid: hmg
-canonical: "https://eulogikon.org/en/cratinus-the-younger"
+canonical: "https://eulogikon.org/authors/cratinus-the-younger-hmg"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρατῖνος ὁ Νεώτερος*
 
-**eul_aid:** `hmg` · [HTML page](https://eulogikon.org/en/cratinus-the-younger)
+**eul_aid:** `hmg` · [HTML page](https://eulogikon.org/authors/cratinus-the-younger-hmg)
 
 Cratinus the Younger was a 4th century BCE Attic comic poet. His surviving fragments are preserved. Free to read and download from the Greek library archive.
 

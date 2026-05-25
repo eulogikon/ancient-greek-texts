@@ -2,7 +2,7 @@
 name: Stephanus the Comic Poet
 name_greek: Στέφανος ὁ Κωμικός
 eul_aid: jzq
-canonical: "https://eulogikon.org/en/stephanus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/stephanus-the-comic-poet-jzq"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στέφανος ὁ Κωμικός*
 
-**eul_aid:** `jzq` · [HTML page](https://eulogikon.org/en/stephanus-the-comic-poet)
+**eul_aid:** `jzq` · [HTML page](https://eulogikon.org/authors/stephanus-the-comic-poet-jzq)
 
 Stephanus was a Hellenistic Athenian comic poet of the 4th-3rd centuries BCE. Two fragmentary works survive. Free to read and download from the Greek library.
 

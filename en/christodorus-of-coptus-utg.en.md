@@ -2,7 +2,7 @@
 name: Christodorus of Coptus
 name_greek: Χριστόδωρος ὁ Κόπτιος
 eul_aid: utg
-canonical: "https://eulogikon.org/en/christodorus-of-coptus"
+canonical: "https://eulogikon.org/authors/christodorus-of-coptus-utg"
 period: Late Antique
 dialect: Epic (Homeric)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χριστόδωρος ὁ Κόπτιος*
 
-**eul_aid:** `utg` · [HTML page](https://eulogikon.org/en/christodorus-of-coptus)
+**eul_aid:** `utg` · [HTML page](https://eulogikon.org/authors/christodorus-of-coptus-utg)
 
 Christodorus of Coptus was a late antique epic poet writing in Homeric dialect. Three works survive. Free to read and download from the Greek library archive.
 

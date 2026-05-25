@@ -2,7 +2,7 @@
 name: Antisthenes of Athens II
 name_greek: Ἀντισθένης ὁ Ἀθηναῖος
 eul_aid: dhu
-canonical: "https://eulogikon.org/en/antisthenes-of-athens-ii"
+canonical: "https://eulogikon.org/authors/antisthenes-of-athens-dhu"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντισθένης ὁ Ἀθηναῖος*
 
-**eul_aid:** `dhu` · [HTML page](https://eulogikon.org/en/antisthenes-of-athens-ii)
+**eul_aid:** `dhu` · [HTML page](https://eulogikon.org/authors/antisthenes-of-athens-dhu)
 
 Antisthenes of Athens, a classical philosopher and pupil of Socrates. Surviving works include philosophical fragments. Free to download from the Greek archive.
 

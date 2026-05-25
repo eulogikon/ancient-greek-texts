@@ -2,7 +2,7 @@
 name: Musonius the Roman
 name_greek: Μουσώνιος ὁ Ῥοῦφος
 eul_aid: nma
-canonical: "https://eulogikon.org/en/musonius-the-roman"
+canonical: "https://eulogikon.org/authors/musonius-the-roman-nma"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μουσώνιος ὁ Ῥοῦφος*
 
-**eul_aid:** `nma` · [HTML page](https://eulogikon.org/en/musonius-the-roman)
+**eul_aid:** `nma` · [HTML page](https://eulogikon.org/authors/musonius-the-roman-nma)
 
 Musonius the Roman, a first century Stoic philosopher from Rome. Surviving philosophical treatises. Free to read and download from the Greek library archive.
 

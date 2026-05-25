@@ -2,7 +2,7 @@
 name: Demetrius of Phaleron II
 name_greek: Δημήτριος ὁ Φαληρεύς
 eul_aid: hsa
-canonical: "https://eulogikon.org/en/demetrius-of-phaleron-ii"
+canonical: "https://eulogikon.org/authors/demetrius-of-phaleron-hsa"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Φαληρεύς*
 
-**eul_aid:** `hsa` · [HTML page](https://eulogikon.org/en/demetrius-of-phaleron-ii)
+**eul_aid:** `hsa` · [HTML page](https://eulogikon.org/authors/demetrius-of-phaleron-hsa)
 
 Demetrius of Phaleron was an Athenian orator and statesman. Works include his treatise on style. Free to read and download from the Greek library archive.
 

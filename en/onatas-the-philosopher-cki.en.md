@@ -2,7 +2,7 @@
 name: Onatas the Philosopher
 name_greek: Ὀνάτας ὁ Φιλόσοφος
 eul_aid: cki
-canonical: "https://eulogikon.org/en/onatas-the-philosopher"
+canonical: "https://eulogikon.org/authors/onatas-the-philosopher-cki"
 period: Classical
 dialect: "Doric (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀνάτας ὁ Φιλόσοφος*
 
-**eul_aid:** `cki` · [HTML page](https://eulogikon.org/en/onatas-the-philosopher)
+**eul_aid:** `cki` · [HTML page](https://eulogikon.org/authors/onatas-the-philosopher-cki)
 
 Onatas, a 4th century BCE Pythagorean philosopher. Surviving philosophical treatise in Doric dialect. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Chrysippus of Soli
 name_greek: Χρύσιππος ὁ Σολεύς
 eul_aid: kms
-canonical: "https://eulogikon.org/en/chrysippus-of-soli"
+canonical: "https://eulogikon.org/authors/chrysippus-of-soli-kms"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χρύσιππος ὁ Σολεύς*
 
-**eul_aid:** `kms` · [HTML page](https://eulogikon.org/en/chrysippus-of-soli)
+**eul_aid:** `kms` · [HTML page](https://eulogikon.org/authors/chrysippus-of-soli-kms)
 
 Chrysippus of Soli, third century BCE Stoic philosopher. Surviving fragments and testimonia. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Parodica Anonyma
 name_greek: Παροδικά Ἀνώνυμα
 eul_aid: rto
-canonical: "https://eulogikon.org/en/anonymous-parodica"
+canonical: "https://eulogikon.org/authors/parodica-anonyma-rto"
 period: Roman
 dialect: Atticizing Literary
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παροδικά Ἀνώνυμα*
 
-**eul_aid:** `rto` · [HTML page](https://eulogikon.org/en/anonymous-parodica)
+**eul_aid:** `rto` · [HTML page](https://eulogikon.org/authors/parodica-anonyma-rto)
 
 Parodica Anonyma, anonymous Roman era poet writing in Atticizing Greek. Surviving parody verse from 2nd to 3rd century CE. Free to download from Greek archive.
 

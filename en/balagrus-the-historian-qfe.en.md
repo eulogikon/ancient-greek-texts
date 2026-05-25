@@ -2,7 +2,7 @@
 name: Balagrus the Historian
 name_greek: Βάλαγρος ὁ ἱστορικός
 eul_aid: qfe
-canonical: "https://eulogikon.org/en/balagrus-the-historian"
+canonical: "https://eulogikon.org/authors/balagrus-the-historian-qfe"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βάλαγρος ὁ ἱστορικός*
 
-**eul_aid:** `qfe` · [HTML page](https://eulogikon.org/en/balagrus-the-historian)
+**eul_aid:** `qfe` · [HTML page](https://eulogikon.org/authors/balagrus-the-historian-qfe)
 
 Balagrus the Historian, a 2nd century CE Roman era writer. Surviving historical works in fragmentary Koine. Free to download from the Greek library archive.
 

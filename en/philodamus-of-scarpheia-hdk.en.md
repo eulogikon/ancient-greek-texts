@@ -2,7 +2,7 @@
 name: Philodamus of Scarpheia the Lyric Poet
 name_greek: Φιλόδαμος ὁ Σκαρφεύς
 eul_aid: hdk
-canonical: "https://eulogikon.org/en/philodamus-of-scarpheia"
+canonical: "https://eulogikon.org/authors/philodamus-of-scarpheia-hdk"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόδαμος ὁ Σκαρφεύς*
 
-**eul_aid:** `hdk` · [HTML page](https://eulogikon.org/en/philodamus-of-scarpheia)
+**eul_aid:** `hdk` · [HTML page](https://eulogikon.org/authors/philodamus-of-scarpheia-hdk)
 
 Philodamus of Scarpheia was a 4th century BCE Attic lyric poet. His surviving works are lyric poetry. Free to read and download from the Greek library archive.
 

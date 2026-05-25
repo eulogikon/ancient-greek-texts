@@ -2,7 +2,7 @@
 name: John Philoponus of Alexandria
 name_greek: Ἰωάννης ὁ Φιλόπονος
 eul_aid: uxc
-canonical: "https://eulogikon.org/en/john-philoponus-of-alexandria"
+canonical: "https://eulogikon.org/authors/john-philoponus-of-alexandria-uxc"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Φιλόπονος*
 
-**eul_aid:** `uxc` · [HTML page](https://eulogikon.org/en/john-philoponus-of-alexandria)
+**eul_aid:** `uxc` · [HTML page](https://eulogikon.org/authors/john-philoponus-of-alexandria-uxc)
 
 John Philoponus, 6th century Christian philosopher and scholar. Philosophical and theological works. Free to read and download from the Greek library archive.
 

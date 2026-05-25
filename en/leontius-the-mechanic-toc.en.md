@@ -2,7 +2,7 @@
 name: Leontius the Mechanic
 name_greek: Λεόντιος ὁ Μηχανικός
 eul_aid: toc
-canonical: "https://eulogikon.org/en/leontius-the-mechanic"
+canonical: "https://eulogikon.org/authors/leontius-the-mechanic-toc"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεόντιος ὁ Μηχανικός*
 
-**eul_aid:** `toc` · [HTML page](https://eulogikon.org/en/leontius-the-mechanic)
+**eul_aid:** `toc` · [HTML page](https://eulogikon.org/authors/leontius-the-mechanic-toc)
 
 Leontius the Mechanic, a late antique technical writer. Works on mechanics and engineering. Free to read and download from the Greek library archive.
 

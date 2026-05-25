@@ -2,7 +2,7 @@
 name: Plato Commentary
 name_greek: Πλατωνικὴ ὑπόμνησις
 eul_aid: uqe
-canonical: "https://eulogikon.org/en/anonymous-plato-commentary"
+canonical: "https://eulogikon.org/authors/plato-commentary-uqe"
 period: Late Antique
 dialect: Atticizing
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλατωνικὴ ὑπόμνησις*
 
-**eul_aid:** `uqe` · [HTML page](https://eulogikon.org/en/anonymous-plato-commentary)
+**eul_aid:** `uqe` · [HTML page](https://eulogikon.org/authors/plato-commentary-uqe)
 
 Plato Commentary, a major genre of Late Antique philosophical writing. Atticizing prose works. Free to read and download from the Greek library archive.
 

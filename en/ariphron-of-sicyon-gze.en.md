@@ -2,7 +2,7 @@
 name: Ariphron of Sicyon
 name_greek: Ἀρίφρων ὁ Σικυώνιος
 eul_aid: gze
-canonical: "https://eulogikon.org/en/ariphron-of-sicyon"
+canonical: "https://eulogikon.org/authors/ariphron-of-sicyon-gze"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίφρων ὁ Σικυώνιος*
 
-**eul_aid:** `gze` · [HTML page](https://eulogikon.org/en/ariphron-of-sicyon)
+**eul_aid:** `gze` · [HTML page](https://eulogikon.org/authors/ariphron-of-sicyon-gze)
 
 Ariphron of Sicyon was a classical Greek poet writing in the Doric dialect. Surviving poetic works. Free to read and download from the Greek library archive.
 

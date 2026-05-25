@@ -2,7 +2,7 @@
 name: Callinicus of Petra
 name_greek: Καλλίνικος ὁ Πετραῖος
 eul_aid: ueg
-canonical: "https://eulogikon.org/en/callinicus-of-petra"
+canonical: "https://eulogikon.org/authors/callinicus-of-petra-ueg"
 period: Late Antique
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίνικος ὁ Πετραῖος*
 
-**eul_aid:** `ueg` · [HTML page](https://eulogikon.org/en/callinicus-of-petra)
+**eul_aid:** `ueg` · [HTML page](https://eulogikon.org/authors/callinicus-of-petra-ueg)
 
 Callinicus of Petra, a 3rd century CE orator. Three surviving works of oratory from Late Antiquity. Free to read and download from the Greek library archive.
 

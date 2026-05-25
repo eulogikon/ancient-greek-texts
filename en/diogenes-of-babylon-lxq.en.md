@@ -2,7 +2,7 @@
 name: Diogenes of Babylon
 name_greek: Διογένης Βαβυλώνιος
 eul_aid: lxq
-canonical: "https://eulogikon.org/en/diogenes-of-babylon"
+canonical: "https://eulogikon.org/authors/diogenes-of-babylon-lxq"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης Βαβυλώνιος*
 
-**eul_aid:** `lxq` · [HTML page](https://eulogikon.org/en/diogenes-of-babylon)
+**eul_aid:** `lxq` · [HTML page](https://eulogikon.org/authors/diogenes-of-babylon-lxq)
 
 Diogenes of Babylon, Stoic philosopher of the 2nd century BCE. Surviving Hellenistic philosophy texts. Free to read and download from the Greek library archive.
 

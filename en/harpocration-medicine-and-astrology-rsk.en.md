@@ -2,7 +2,7 @@
 name: Harpocration Medicine and Astrology Letters
 name_greek: Ἁρποκρατίωνος Ἐπιστολή
 eul_aid: rsk
-canonical: "https://eulogikon.org/en/harpocration-medicine-and-astrology"
+canonical: "https://eulogikon.org/authors/harpocration-letters-rsk"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἁρποκρατίωνος Ἐπιστολή*
 
-**eul_aid:** `rsk` · [HTML page](https://eulogikon.org/en/harpocration-medicine-and-astrology)
+**eul_aid:** `rsk` · [HTML page](https://eulogikon.org/authors/harpocration-letters-rsk)
 
 Harpocration, a Roman era medical writer of the 2nd-3rd century CE. Surviving medical letters. Free to read and download from the Greek library archive.
 

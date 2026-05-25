@@ -2,7 +2,7 @@
 name: Lycon of Alexandria
 name_greek: Λύκων ὁ Ἀλεξανδρεύς
 eul_aid: iwa
-canonical: "https://eulogikon.org/en/lycon-of-alexandria"
+canonical: "https://eulogikon.org/authors/lycon-of-alexandria-iwa"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λύκων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `iwa` · [HTML page](https://eulogikon.org/en/lycon-of-alexandria)
+**eul_aid:** `iwa` · [HTML page](https://eulogikon.org/authors/lycon-of-alexandria-iwa)
 
 Lycon of Alexandria, 3rd century BCE Peripatetic philosopher and student of Strato. His treatise. Free to read and download from the Greek library archive.
 

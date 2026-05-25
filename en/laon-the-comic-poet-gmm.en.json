@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "gmm-aa",
-      "title": {
-        "english": "On Boeotia and Character",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
-      "passages": 5,
-      "links": {
-        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.epub"
-      }
-    },
-    {
       "eul_wid": "gmm-ab",
       "title": {
         "english": "On Boeotia and Character",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-ab-gmm-ab.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "gmm-aa",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet-boeotia-character-aa-gmm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.epub"
       }
     }
   ],

@@ -2,7 +2,7 @@
 name: Diogenes of Sinope
 name_greek: Διογένης ὁ Σινωπεύς
 eul_aid: fak
-canonical: "https://eulogikon.org/en/diogenes-of-sinope"
+canonical: "https://eulogikon.org/authors/diogenes-of-sinope-fak"
 period: Classical
 dialect: Philosophical Koine
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Σινωπεύς*
 
-**eul_aid:** `fak` · [HTML page](https://eulogikon.org/en/diogenes-of-sinope)
+**eul_aid:** `fak` · [HTML page](https://eulogikon.org/authors/diogenes-of-sinope-fak)
 
 Diogenes of Sinope, the 4th century BCE Cynic. Surviving works include dialogues and sayings. Free to read and download from the Greek library archive.
 

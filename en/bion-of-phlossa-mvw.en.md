@@ -2,7 +2,7 @@
 name: Bion of Phlossa near Smyrna
 name_greek: Βίων ὁ Φλοσσαῖος
 eul_aid: mvw
-canonical: "https://eulogikon.org/en/bion-of-phlossa"
+canonical: "https://eulogikon.org/authors/bion-of-phlossa-near-smyrna-mvw"
 period: Hellenistic
 dialect: Doric Bucolic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίων ὁ Φλοσσαῖος*
 
-**eul_aid:** `mvw` · [HTML page](https://eulogikon.org/en/bion-of-phlossa)
+**eul_aid:** `mvw` · [HTML page](https://eulogikon.org/authors/bion-of-phlossa-near-smyrna-mvw)
 
 Bion of Phlossa, Hellenistic bucolic poet in Doric dialect. Fragments of his pastoral poetry survive. Free to read and download from the Greek library archive.
 

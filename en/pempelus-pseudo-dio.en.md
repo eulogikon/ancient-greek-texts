@@ -2,7 +2,7 @@
 name: Pempelus Pseudo
 name_greek: Πέμπελος ὁ Ψευδομυτιληναῖος
 eul_aid: dio
-canonical: "https://eulogikon.org/en/pempelus-pseudo"
+canonical: "https://eulogikon.org/authors/pempelus-ps-dio"
 period: Classical
 dialect: Mixed Dialects (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πέμπελος ὁ Ψευδομυτιληναῖος*
 
-**eul_aid:** `dio` · [HTML page](https://eulogikon.org/en/pempelus-pseudo)
+**eul_aid:** `dio` · [HTML page](https://eulogikon.org/authors/pempelus-ps-dio)
 
 Pempelus Pseudo, an obscure presocratic philosopher. Surviving philosophical treatise works. Free to read and download from the Greek library archive.
 

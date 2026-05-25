@@ -2,7 +2,7 @@
 name: Astydamas the Younger
 name_greek: Ἀστυδάμας ὁ Νεώτερος
 eul_aid: fnw
-canonical: "https://eulogikon.org/en/astydamas-the-younger"
+canonical: "https://eulogikon.org/authors/astydamas-the-younger-fnw"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀστυδάμας ὁ Νεώτερος*
 
-**eul_aid:** `fnw` · [HTML page](https://eulogikon.org/en/astydamas-the-younger)
+**eul_aid:** `fnw` · [HTML page](https://eulogikon.org/authors/astydamas-the-younger-fnw)
 
 Astydamas the Younger, a 4th century BCE Athenian tragic poet. Read surviving fragments of his works. Free to read and download from the Greek library archive.
 

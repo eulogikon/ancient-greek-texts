@@ -2,7 +2,7 @@
 name: Marcellinus the Physician
 name_greek: Μαρκελλῖνος ἰατρός
 eul_aid: rzs
-canonical: "https://eulogikon.org/en/marcellinus-the-physician"
+canonical: "https://eulogikon.org/authors/marcellinus-the-physician-rzs"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρκελλῖνος ἰατρός*
 
-**eul_aid:** `rzs` · [HTML page](https://eulogikon.org/en/marcellinus-the-physician)
+**eul_aid:** `rzs` · [HTML page](https://eulogikon.org/authors/marcellinus-the-physician-rzs)
 
 Marcellinus was a late antique Greek physician of the 4th century CE. His medical treatise survives. Free to read and download from the Greek library archive.
 

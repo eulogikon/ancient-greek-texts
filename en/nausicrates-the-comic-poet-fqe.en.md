@@ -2,7 +2,7 @@
 name: Nausicrates the Comic Poet
 name_greek: Ναυσικράτης ὁ κωμικός
 eul_aid: fqe
-canonical: "https://eulogikon.org/en/nausicrates-the-comic-poet"
+canonical: "https://eulogikon.org/authors/nausicrates-the-comic-poet-fqe"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ναυσικράτης ὁ κωμικός*
 
-**eul_aid:** `fqe` · [HTML page](https://eulogikon.org/en/nausicrates-the-comic-poet)
+**eul_aid:** `fqe` · [HTML page](https://eulogikon.org/authors/nausicrates-the-comic-poet-fqe)
 
 Nausicrates was a 4th century BCE Attic comic poet. Two surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

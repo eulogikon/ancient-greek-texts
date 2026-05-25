@@ -2,7 +2,7 @@
 name: Demosthenes of Athens
 name_greek: Δημοσθένης ὁ Ἀθηναῖος
 eul_aid: fsm
-canonical: "https://eulogikon.org/en/demosthenes-of-athens"
+canonical: "https://eulogikon.org/authors/demosthenes-of-athens-fsm"
 period: Classical
 dialect: Attic
 works_count: 64
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημοσθένης ὁ Ἀθηναῖος*
 
-**eul_aid:** `fsm` · [HTML page](https://eulogikon.org/en/demosthenes-of-athens)
+**eul_aid:** `fsm` · [HTML page](https://eulogikon.org/authors/demosthenes-of-athens-fsm)
 
 Demosthenes, the Athenian orator and statesman. Surviving works include political and legal speeches. Free to read and download from the Greek library archive.
 

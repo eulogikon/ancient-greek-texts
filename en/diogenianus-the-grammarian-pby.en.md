@@ -2,7 +2,7 @@
 name: Diogenianus the Grammarian
 name_greek: Διογενιανὸς ὁ Γραμματικός
 eul_aid: pby
-canonical: "https://eulogikon.org/en/diogenianus-the-grammarian"
+canonical: "https://eulogikon.org/authors/diogenianus-the-grammarian-pby"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογενιανὸς ὁ Γραμματικός*
 
-**eul_aid:** `pby` · [HTML page](https://eulogikon.org/en/diogenianus-the-grammarian)
+**eul_aid:** `pby` · [HTML page](https://eulogikon.org/authors/diogenianus-the-grammarian-pby)
 
 Diogenianus the Grammarian, a 2nd century CE Roman scholar. Philosophical treatise in Koine Greek. Free to read and download from the Greek library archive.
 

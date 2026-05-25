@@ -2,7 +2,7 @@
 name: Stephen of Byzantium
 name_greek: Στέφανος ὁ Βυζάντιος
 eul_aid: uua
-canonical: "https://eulogikon.org/en/stephen-of-byzantium"
+canonical: "https://eulogikon.org/authors/stephen-of-byzantium-uua"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στέφανος ὁ Βυζάντιος*
 
-**eul_aid:** `uua` · [HTML page](https://eulogikon.org/en/stephen-of-byzantium)
+**eul_aid:** `uua` · [HTML page](https://eulogikon.org/authors/stephen-of-byzantium-uua)
 
 Stephen of Byzantium, 6th century CE grammarian and lexicographer. Author of the Ethnica dictionary. Free to read and download from the Greek library archive.
 

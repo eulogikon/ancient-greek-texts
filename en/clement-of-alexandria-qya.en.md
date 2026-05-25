@@ -2,7 +2,7 @@
 name: Clement of Alexandria
 name_greek: Κλήμης ὁ Ἀλεξανδρεύς
 eul_aid: qya
-canonical: "https://eulogikon.org/en/clement-of-alexandria"
+canonical: "https://eulogikon.org/authors/clement-of-alexandria-qya"
 period: Roman
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλήμης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `qya` · [HTML page](https://eulogikon.org/en/clement-of-alexandria)
+**eul_aid:** `qya` · [HTML page](https://eulogikon.org/authors/clement-of-alexandria-qya)
 
 Clement of Alexandria, second century Christian theologian. Works include Protrepticus and Paedagogus. Free to read and download from the Greek library archive.
 

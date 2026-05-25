@@ -2,7 +2,7 @@
 name: Eutychianus the Historian
 name_greek: Εὐτυχιανός
 eul_aid: smu
-canonical: "https://eulogikon.org/en/eutychianus-the-historian"
+canonical: "https://eulogikon.org/authors/eutychianus-the-historian-smu"
 period: Late Antique
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐτυχιανός*
 
-**eul_aid:** `smu` · [HTML page](https://eulogikon.org/en/eutychianus-the-historian)
+**eul_aid:** `smu` · [HTML page](https://eulogikon.org/authors/eutychianus-the-historian-smu)
 
 Eutychianus the Historian, a late antique Greek writer. Historical works in fragmentary transmission. Free to read and download from the Greek library archive.
 

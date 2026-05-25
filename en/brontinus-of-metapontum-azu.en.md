@@ -2,7 +2,7 @@
 name: Brontinus of Metapontum
 name_greek: Βροντῖνος ὁ Μεταποντῖνος
 eul_aid: azu
-canonical: "https://eulogikon.org/en/brontinus-of-metapontum"
+canonical: "https://eulogikon.org/authors/brontinus-of-metapontum-azu"
 period: Archaic
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βροντῖνος ὁ Μεταποντῖνος*
 
-**eul_aid:** `azu` · [HTML page](https://eulogikon.org/en/brontinus-of-metapontum)
+**eul_aid:** `azu` · [HTML page](https://eulogikon.org/authors/brontinus-of-metapontum-azu)
 
 Brontinus, early Pythagorean philosopher from 6th century BCE Metapontum. Surviving fragments. Free to read and download from the Greek library archive.
 

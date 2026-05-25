@@ -2,7 +2,7 @@
 name: Theopompus of Chios
 name_greek: Θεόπομπος ὁ Χῖος
 eul_aid: fjq
-canonical: "https://eulogikon.org/en/theopompus-of-chios"
+canonical: "https://eulogikon.org/authors/theopompus-of-chios-fjq"
 period: Classical
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόπομπος ὁ Χῖος*
 
-**eul_aid:** `fjq` · [HTML page](https://eulogikon.org/en/theopompus-of-chios)
+**eul_aid:** `fjq` · [HTML page](https://eulogikon.org/authors/theopompus-of-chios-fjq)
 
 Theopompus of Chios was a 4th century BCE Greek historian. His historical fragments are preserved. Free to read and download from the Greek library archive.
 

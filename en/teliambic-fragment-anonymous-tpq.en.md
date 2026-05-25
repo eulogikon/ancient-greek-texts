@@ -2,7 +2,7 @@
 name: Teliambic Fragment Anonymous
 name_greek: "Ἀνώνυμον [Φραγμέντιον Τηλιαμβικόν]"
 eul_aid: tpq
-canonical: "https://eulogikon.org/en/teliambic-fragment-anonymous"
+canonical: "https://eulogikon.org/authors/teliambic-fragment-anon-tpq"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμον [Φραγμέντιον Τηλιαμβικόν]*
 
-**eul_aid:** `tpq` · [HTML page](https://eulogikon.org/en/teliambic-fragment-anonymous)
+**eul_aid:** `tpq` · [HTML page](https://eulogikon.org/authors/teliambic-fragment-anon-tpq)
 
 Anonymous author of a Late Antique Greek teliambic fragment. This surviving work is Koine poetry. Free to read and download from the Greek library archive.
 

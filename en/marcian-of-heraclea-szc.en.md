@@ -2,7 +2,7 @@
 name: Marcian of Heraclea
 name_greek: Μαρκιανὸς ὁ Ἡρακλεώτης
 eul_aid: szc
-canonical: "https://eulogikon.org/en/marcian-of-heraclea"
+canonical: "https://eulogikon.org/authors/marcian-of-heraclea-szc"
 period: Late Antique
 dialect: Technical Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρκιανὸς ὁ Ἡρακλεώτης*
 
-**eul_aid:** `szc` · [HTML page](https://eulogikon.org/en/marcian-of-heraclea)
+**eul_aid:** `szc` · [HTML page](https://eulogikon.org/authors/marcian-of-heraclea-szc)
 
 Marcian of Heraclea, a 4th-5th century CE geographer. Works include geographical treatises and periploi. Free to read and download from the Greek archive.
 

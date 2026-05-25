@@ -2,7 +2,7 @@
 name: Socratics Letters
 name_greek: Σωκρατικῶν Ἐπιστολαί
 eul_aid: ciu
-canonical: "https://eulogikon.org/en/socratics-letters"
+canonical: "https://eulogikon.org/authors/socratics-letters-ciu"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωκρατικῶν Ἐπιστολαί*
 
-**eul_aid:** `ciu` · [HTML page](https://eulogikon.org/en/socratics-letters)
+**eul_aid:** `ciu` · [HTML page](https://eulogikon.org/authors/socratics-letters-ciu)
 
 Pseudonymous philosophical letters from the 4th century BCE attributed to Socrates and his circle. Free to read and download from the Greek library archive.
 

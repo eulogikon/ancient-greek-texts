@@ -2,7 +2,7 @@
 name: Nemesius of Emesa
 name_greek: Νεμέσιος ὁ Ἐμέσης
 eul_aid: sxe
-canonical: "https://eulogikon.org/en/nemesius-of-emesa"
+canonical: "https://eulogikon.org/authors/nemesius-bishop-of-emesa-sxe"
 period: Late Antique
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νεμέσιος ὁ Ἐμέσης*
 
-**eul_aid:** `sxe` · [HTML page](https://eulogikon.org/en/nemesius-of-emesa)
+**eul_aid:** `sxe` · [HTML page](https://eulogikon.org/authors/nemesius-bishop-of-emesa-sxe)
 
 Nemesius of Emesa, Christian bishop and theologian. His treatise explores human nature and philosophy. Free to read and download from the Greek library archive.
 

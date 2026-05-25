@@ -2,7 +2,7 @@
 name: Amasis Letters
 name_greek: Ἀμάσιδος Ἐπιστολαί
 eul_aid: etw
-canonical: "https://eulogikon.org/en/amasis-letters"
+canonical: "https://eulogikon.org/authors/amasis-letters-etw"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμάσιδος Ἐπιστολαί*
 
-**eul_aid:** `etw` · [HTML page](https://eulogikon.org/en/amasis-letters)
+**eul_aid:** `etw` · [HTML page](https://eulogikon.org/authors/amasis-letters-etw)
 
 Amasis Letters is a classical epistolary work in Koine Greek from the 5th century BCE or later. Free to read and download from the Greek library archive.
 

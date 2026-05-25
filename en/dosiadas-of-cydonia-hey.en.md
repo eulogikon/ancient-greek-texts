@@ -2,7 +2,7 @@
 name: Dosiadas of Cydonia
 name_greek: Δωσιάδας ὁ Κυδωνιάτης
 eul_aid: hey
-canonical: "https://eulogikon.org/en/dosiadas-of-cydonia"
+canonical: "https://eulogikon.org/authors/dosiadas-of-cydonia-hey"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωσιάδας ὁ Κυδωνιάτης*
 
-**eul_aid:** `hey` · [HTML page](https://eulogikon.org/en/dosiadas-of-cydonia)
+**eul_aid:** `hey` · [HTML page](https://eulogikon.org/authors/dosiadas-of-cydonia-hey)
 
 Dosiadas of Cydonia, a 4th-3rd century BCE Greek historian. His historical works survive as fragments. Free to read and download from the Greek library archive.
 

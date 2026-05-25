@@ -2,7 +2,7 @@
 name: Diophantus of Alexandria
 name_greek: Διόφαντος ὁ Ἀλεξανδρεύς
 eul_aid: rqc
-canonical: "https://eulogikon.org/en/diophantus-of-alexandria"
+canonical: "https://eulogikon.org/authors/diophantus-of-alexandria-rqc"
 period: Roman
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόφαντος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `rqc` · [HTML page](https://eulogikon.org/en/diophantus-of-alexandria)
+**eul_aid:** `rqc` · [HTML page](https://eulogikon.org/authors/diophantus-of-alexandria-rqc)
 
 Diophantus of Alexandria, Greek mathematician of the Roman period. His surviving mathematical works. Free to read and download from the Greek library archive.
 

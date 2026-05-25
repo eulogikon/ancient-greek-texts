@@ -2,7 +2,7 @@
 name: Atticus the Philosopher
 name_greek: Ἀττικός
 eul_aid: rai
-canonical: "https://eulogikon.org/en/atticus-the-philosopher"
+canonical: "https://eulogikon.org/authors/atticus-the-philosopher-rai"
 period: Roman
 dialect: Atticizing
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀττικός*
 
-**eul_aid:** `rai` · [HTML page](https://eulogikon.org/en/atticus-the-philosopher)
+**eul_aid:** `rai` · [HTML page](https://eulogikon.org/authors/atticus-the-philosopher-rai)
 
 Atticus was a 2nd century Roman Platonist philosopher. His surviving treatise exists in fragments. Free to read and download from the Greek library archive.
 

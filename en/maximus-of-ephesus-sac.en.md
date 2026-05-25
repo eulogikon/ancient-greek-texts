@@ -2,7 +2,7 @@
 name: Maximus of Ephesus
 name_greek: Μάξιμος ὁ Ἐφέσιος
 eul_aid: sac
-canonical: "https://eulogikon.org/en/maximus-of-ephesus"
+canonical: "https://eulogikon.org/authors/maximus-of-ephesus-sac"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μάξιμος ὁ Ἐφέσιος*
 
-**eul_aid:** `sac` · [HTML page](https://eulogikon.org/en/maximus-of-ephesus)
+**eul_aid:** `sac` · [HTML page](https://eulogikon.org/authors/maximus-of-ephesus-sac)
 
 Maximus of Ephesus, 4th century CE Neoplatonic philosopher. Works from the Iamblichean tradition. Free to read and download from the Greek library archive.
 

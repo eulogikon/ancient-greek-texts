@@ -2,7 +2,7 @@
 name: Telephus the Grammarian
 name_greek: Τήλεφος ὁ Γραμματικός
 eul_aid: pxm
-canonical: "https://eulogikon.org/en/telephus-the-grammarian"
+canonical: "https://eulogikon.org/authors/telephus-the-grammarian-pxm"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τήλεφος ὁ Γραμματικός*
 
-**eul_aid:** `pxm` · [HTML page](https://eulogikon.org/en/telephus-the-grammarian)
+**eul_aid:** `pxm` · [HTML page](https://eulogikon.org/authors/telephus-the-grammarian-pxm)
 
 Telephus the Grammarian was a 2nd century CE Greek scholar. His surviving grammatical treatise is fragmentary. Free to download from the Greek library archive.
 

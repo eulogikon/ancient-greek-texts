@@ -2,7 +2,7 @@
 name: Isidorus the Tragedian
 name_greek: Ἰσίδωρος ὁ Τραγικός
 eul_aid: mjo
-canonical: "https://eulogikon.org/en/isidorus-the-tragedian"
+canonical: "https://eulogikon.org/authors/isidorus-the-tragedian-mjo"
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰσίδωρος ὁ Τραγικός*
 
-**eul_aid:** `mjo` · [HTML page](https://eulogikon.org/en/isidorus-the-tragedian)
+**eul_aid:** `mjo` · [HTML page](https://eulogikon.org/authors/isidorus-the-tragedian-mjo)
 
 Isidorus the Tragedian, a Hellenistic dramatist of the 3rd-2nd century BCE. Fragments of his Attic drama. Free to download from the Greek library archive.
 

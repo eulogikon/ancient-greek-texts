@@ -2,7 +2,7 @@
 name: John of Alexandria
 name_greek: Ἰωάννης ὁ Ἀλεξανδρεύς
 eul_aid: vwc
-canonical: "https://eulogikon.org/en/john-of-alexandria"
+canonical: "https://eulogikon.org/authors/john-of-alexandria-vwc"
 period: Late Antique
 dialect: Byzantine Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `vwc` · [HTML page](https://eulogikon.org/en/john-of-alexandria)
+**eul_aid:** `vwc` · [HTML page](https://eulogikon.org/authors/john-of-alexandria-vwc)
 
 John of Alexandria, 6th-7th century Byzantine medical writer. Surviving medical treatise. Free to read and download from the Greek library archive.
 

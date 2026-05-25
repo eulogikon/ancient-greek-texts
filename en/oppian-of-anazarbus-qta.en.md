@@ -2,7 +2,7 @@
 name: Oppian of Anazarbus
 name_greek: Ὀππιανὸς ὁ Ἀναζαρβηνός
 eul_aid: qta
-canonical: "https://eulogikon.org/en/oppian-of-anazarbus"
+canonical: "https://eulogikon.org/authors/oppian-of-anazarbus-qta"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀππιανὸς ὁ Ἀναζαρβηνός*
 
-**eul_aid:** `qta` · [HTML page](https://eulogikon.org/en/oppian-of-anazarbus)
+**eul_aid:** `qta` · [HTML page](https://eulogikon.org/authors/oppian-of-anazarbus-qta)
 
 Oppian of Anazarbus, a 2nd century CE Roman epic poet. Works include the Halieutica on fishing. Free to read and download from the Greek library archive.
 

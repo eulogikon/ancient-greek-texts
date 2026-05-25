@@ -2,7 +2,7 @@
 name: Hereas of Megara
 name_greek: Ἡρέας ὁ Μεγαρεύς
 eul_aid: fku
-canonical: "https://eulogikon.org/en/hereas-of-megara"
+canonical: "https://eulogikon.org/authors/hereas-of-megara-fku"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρέας ὁ Μεγαρεύς*
 
-**eul_aid:** `fku` · [HTML page](https://eulogikon.org/en/hereas-of-megara)
+**eul_aid:** `fku` · [HTML page](https://eulogikon.org/authors/hereas-of-megara-fku)
 
 Hereas of Megara was a 4th century BCE historian writing in Attic prose. Surviving historical works. Free to read and download from the Greek library archive.
 

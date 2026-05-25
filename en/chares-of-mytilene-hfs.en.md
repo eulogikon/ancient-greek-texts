@@ -2,7 +2,7 @@
 name: Chares of Mytilene
 name_greek: Χάρης ὁ Μυτιληναῖος
 eul_aid: hfs
-canonical: "https://eulogikon.org/en/chares-of-mytilene"
+canonical: "https://eulogikon.org/authors/chares-of-mytilene-hfs"
 period: Classical
 dialect: Attic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χάρης ὁ Μυτιληναῖος*
 
-**eul_aid:** `hfs` · [HTML page](https://eulogikon.org/en/chares-of-mytilene)
+**eul_aid:** `hfs` · [HTML page](https://eulogikon.org/authors/chares-of-mytilene-hfs)
 
 Chares of Mytilene was a 4th century BCE philosopher. Two fragmentary philosophical works survive. Free to read and download from the Greek library archive.
 

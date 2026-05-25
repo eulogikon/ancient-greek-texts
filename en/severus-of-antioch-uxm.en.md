@@ -2,7 +2,7 @@
 name: Severus of Antioch
 name_greek: Σεβῆρος ὁ Ἀντιοχεύς
 eul_aid: uxm
-canonical: "https://eulogikon.org/en/severus-of-antioch"
+canonical: "https://eulogikon.org/authors/severus-of-antioch-uxm"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σεβῆρος ὁ Ἀντιοχεύς*
 
-**eul_aid:** `uxm` · [HTML page](https://eulogikon.org/en/severus-of-antioch)
+**eul_aid:** `uxm` · [HTML page](https://eulogikon.org/authors/severus-of-antioch-uxm)
 
 Severus of Antioch, a 6th century Christian orator. Read his surviving orations and theological works. Free to read and download from the Greek library archive.
 

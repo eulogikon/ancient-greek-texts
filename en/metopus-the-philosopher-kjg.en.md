@@ -2,7 +2,7 @@
 name: Metopus the Philosopher
 name_greek: Μέτωπος ὁ φιλόσοφος
 eul_aid: kjg
-canonical: "https://eulogikon.org/en/metopus-the-philosopher"
+canonical: "https://eulogikon.org/authors/metopus-the-philosopher-kjg"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέτωπος ὁ φιλόσοφος*
 
-**eul_aid:** `kjg` · [HTML page](https://eulogikon.org/en/metopus-the-philosopher)
+**eul_aid:** `kjg` · [HTML page](https://eulogikon.org/authors/metopus-the-philosopher-kjg)
 
 Metopus was a Hellenistic Pythagorean philosopher. Surviving treatise fragments are preserved. Free to read and download from the Greek library archive.
 

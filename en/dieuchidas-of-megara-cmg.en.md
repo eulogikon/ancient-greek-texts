@@ -2,7 +2,7 @@
 name: Dieuchidas of Megara
 name_greek: Διευχίδας ὁ Μεγαρεύς
 eul_aid: cmg
-canonical: "https://eulogikon.org/en/dieuchidas-of-megara"
+canonical: "https://eulogikon.org/authors/dieuchidas-of-megara-cmg"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διευχίδας ὁ Μεγαρεύς*
 
-**eul_aid:** `cmg` · [HTML page](https://eulogikon.org/en/dieuchidas-of-megara)
+**eul_aid:** `cmg` · [HTML page](https://eulogikon.org/authors/dieuchidas-of-megara-cmg)
 
 Dieuchidas of Megara was a 4th century BCE historian writing in Attic Greek. His surviving historical texts. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Lexicographic Work Anonymous I
 name_greek: Ἀνώνυμον Λεξικογραφικόν Ἔργον
 eul_aid: tqk
-canonical: "https://eulogikon.org/en/anonymous-lexicographer-i"
+canonical: "https://eulogikon.org/authors/lexicographic-work-anon-tqk"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμον Λεξικογραφικόν Ἔργον*
 
-**eul_aid:** `tqk` · [HTML page](https://eulogikon.org/en/anonymous-lexicographer-i)
+**eul_aid:** `tqk` · [HTML page](https://eulogikon.org/authors/lexicographic-work-anon-tqk)
 
 Anonymous lexicographic work from Late Antiquity, a surviving grammatical treatise on Greek. Free to read and download from the Greek library archive.
 

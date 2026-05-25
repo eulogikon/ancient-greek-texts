@@ -2,7 +2,7 @@
 name: Nicaenetus of Samos
 name_greek: Νικαίνετος ὁ Σάμιος
 eul_aid: jqa
-canonical: "https://eulogikon.org/en/nicaenetus-of-samos"
+canonical: "https://eulogikon.org/authors/nicaenetus-of-samos-jqa"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικαίνετος ὁ Σάμιος*
 
-**eul_aid:** `jqa` · [HTML page](https://eulogikon.org/en/nicaenetus-of-samos)
+**eul_aid:** `jqa` · [HTML page](https://eulogikon.org/authors/nicaenetus-of-samos-jqa)
 
 Nicaenetus of Samos was a Hellenistic epic poet of the 3rd century BCE. Works include poetic fragments. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Geographical Works Anonymous
 name_greek: Γεωγραφικὰ Ἀδέσποτα
 eul_aid: mbm
-canonical: "https://eulogikon.org/en/anonymous-geographical-works"
+canonical: "https://eulogikon.org/authors/geographical-works-anon-mbm"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γεωγραφικὰ Ἀδέσποτα*
 
-**eul_aid:** `mbm` · [HTML page](https://eulogikon.org/en/anonymous-geographical-works)
+**eul_aid:** `mbm` · [HTML page](https://eulogikon.org/authors/geographical-works-anon-mbm)
 
 Anonymous geographical works from the Hellenistic period. Texts on ancient geography and topography. Free to read and download from the Greek library archive.
 

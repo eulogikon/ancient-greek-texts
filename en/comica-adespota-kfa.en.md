@@ -2,7 +2,7 @@
 name: Comica Adespota
 name_greek: Κωμικὰ Ἀδέσποτα
 eul_aid: kfa
-canonical: "https://eulogikon.org/en/comica-adespota"
+canonical: "https://eulogikon.org/authors/comica-adespota-kfa"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κωμικὰ Ἀδέσποτα*
 
-**eul_aid:** `kfa` · [HTML page](https://eulogikon.org/en/comica-adespota)
+**eul_aid:** `kfa` · [HTML page](https://eulogikon.org/authors/comica-adespota-kfa)
 
 Comica Adespota are anonymous fragments of ancient Greek comedy from the 5th to 3rd centuries BCE. Free to read and download from the Greek library archive.
 

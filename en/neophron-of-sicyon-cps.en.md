@@ -2,7 +2,7 @@
 name: Neophron of Sicyon
 name_greek: Νεόφρων ὁ Σικυώνιος
 eul_aid: cps
-canonical: "https://eulogikon.org/en/neophron-of-sicyon"
+canonical: "https://eulogikon.org/authors/neophron-of-sicyon-cps"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νεόφρων ὁ Σικυώνιος*
 
-**eul_aid:** `cps` · [HTML page](https://eulogikon.org/en/neophron-of-sicyon)
+**eul_aid:** `cps` · [HTML page](https://eulogikon.org/authors/neophron-of-sicyon-cps)
 
 Neophron of Sicyon, a 5th century BCE Attic dramatist. Surviving fragments of his dramatic works. Free to read and download from the Greek library archive.
 

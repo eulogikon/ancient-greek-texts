@@ -2,7 +2,7 @@
 name: Anaxippus the Comic Poet
 name_greek: Ἀνάξιππος ὁ κωμικός
 eul_aid: hvw
-canonical: "https://eulogikon.org/en/anaxippus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/anaxippus-the-comic-poet-hvw"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνάξιππος ὁ κωμικός*
 
-**eul_aid:** `hvw` · [HTML page](https://eulogikon.org/en/anaxippus-the-comic-poet)
+**eul_aid:** `hvw` · [HTML page](https://eulogikon.org/authors/anaxippus-the-comic-poet-hvw)
 
 Anaxippus was an Athenian comic poet of the early Hellenistic period. Two works represent New Comedy. Free to read and download from the Greek library archive.
 

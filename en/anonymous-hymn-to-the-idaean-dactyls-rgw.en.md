@@ -2,7 +2,7 @@
 name: Hymn to the Idaean Dactyls Anonymous
 name_greek: Ἄνυμος ὕμνος εἰς τοὺς Ἰδαίους Δακτύλους
 eul_aid: rgw
-canonical: "https://eulogikon.org/en/anonymous-hymn-to-the-idaean-dactyls"
+canonical: "https://eulogikon.org/authors/hymn-to-idaean-dactyls-anon-rgw"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνυμος ὕμνος εἰς τοὺς Ἰδαίους Δακτύλους*
 
-**eul_aid:** `rgw` · [HTML page](https://eulogikon.org/en/anonymous-hymn-to-the-idaean-dactyls)
+**eul_aid:** `rgw` · [HTML page](https://eulogikon.org/authors/hymn-to-idaean-dactyls-anon-rgw)
 
 Anonymous author of a Roman era hymn in the Homeric dialect praising the mythical Idaean Dactyls. Free to read and download from the Greek library archive.
 

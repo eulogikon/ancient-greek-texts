@@ -2,7 +2,7 @@
 name: Timostratus the Comic Poet
 name_greek: Τιμόστρατος ὁ Κωμικός
 eul_aid: lxg
-canonical: "https://eulogikon.org/en/timostratus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/timostratus-the-comic-poet-lxg"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόστρατος ὁ Κωμικός*
 
-**eul_aid:** `lxg` · [HTML page](https://eulogikon.org/en/timostratus-the-comic-poet)
+**eul_aid:** `lxg` · [HTML page](https://eulogikon.org/authors/timostratus-the-comic-poet-lxg)
 
 Timostratus was a Hellenistic comic poet writing in Attic Greek. His surviving comedy fragments. Free to read and download from the Greek library archive.
 

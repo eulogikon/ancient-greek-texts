@@ -2,7 +2,7 @@
 name: Aelius Theon the Sophist
 name_greek: Αἴλιος Θέων ὁ σοφιστής
 eul_aid: nxo
-canonical: "https://eulogikon.org/en/aelius-theon-the-sophist"
+canonical: "https://eulogikon.org/authors/aelius-theon-the-sophist-nxo"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἴλιος Θέων ὁ σοφιστής*
 
-**eul_aid:** `nxo` · [HTML page](https://eulogikon.org/en/aelius-theon-the-sophist)
+**eul_aid:** `nxo` · [HTML page](https://eulogikon.org/authors/aelius-theon-the-sophist-nxo)
 
 Aelius Theon was a Greek teacher of rhetoric. Surviving works include his rhetorical exercises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Cratinus the Comic Poet
 name_greek: Κρατῖνος ὁ κωμικός
 eul_aid: czs
-canonical: "https://eulogikon.org/en/cratinus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/cratinus-the-comic-poet-czs"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρατῖνος ὁ κωμικός*
 
-**eul_aid:** `czs` · [HTML page](https://eulogikon.org/en/cratinus-the-comic-poet)
+**eul_aid:** `czs` · [HTML page](https://eulogikon.org/authors/cratinus-the-comic-poet-czs)
 
 Cratinus was a major Athenian playwright of Old Comedy. Surviving fragments from his plays. Free to read and download from the Greek library archive.
 

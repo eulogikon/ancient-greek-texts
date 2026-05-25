@@ -2,7 +2,7 @@
 name: Aristobulus the Jewish Philosopher
 name_greek: Ἀριστόβουλος ὁ Ἰουδαῖος
 eul_aid: lbi
-canonical: "https://eulogikon.org/en/aristobulus-the-jewish-philosopher"
+canonical: "https://eulogikon.org/authors/aristobulus-the-philosopher-lbi"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόβουλος ὁ Ἰουδαῖος*
 
-**eul_aid:** `lbi` · [HTML page](https://eulogikon.org/en/aristobulus-the-jewish-philosopher)
+**eul_aid:** `lbi` · [HTML page](https://eulogikon.org/authors/aristobulus-the-philosopher-lbi)
 
 Aristobulus, a Hellenistic Jewish philosopher of 2nd century BCE. His treatise survives in fragments. Free to read and download from the Greek library archive.
 

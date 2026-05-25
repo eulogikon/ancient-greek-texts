@@ -2,7 +2,7 @@
 name: Dioscorides of Anazarbus
 name_greek: Πεδάνιος Διοσκουρίδης ὁ Ἀναζαρβεύς
 eul_aid: nyi
-canonical: "https://eulogikon.org/en/dioscorides-of-anazarbus"
+canonical: "https://eulogikon.org/authors/dioscorides-of-anazarbus-nyi"
 period: Roman
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πεδάνιος Διοσκουρίδης ὁ Ἀναζαρβεύς*
 
-**eul_aid:** `nyi` · [HTML page](https://eulogikon.org/en/dioscorides-of-anazarbus)
+**eul_aid:** `nyi` · [HTML page](https://eulogikon.org/authors/dioscorides-of-anazarbus-nyi)
 
 Dioscorides of Anazarbus, 1st century CE Greek physician and botanist. Author of De Materia Medica. Free to read and download from the Greek library archive.
 

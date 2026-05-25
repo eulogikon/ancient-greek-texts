@@ -2,7 +2,7 @@
 name: Polemon Laodicea
 name_greek: Πολέμων ὁ Λαοδικεύς
 eul_aid: ozg
-canonical: "https://eulogikon.org/en/polemon-laodicea"
+canonical: "https://eulogikon.org/authors/polemon-laodicea-ozg"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολέμων ὁ Λαοδικεύς*
 
-**eul_aid:** `ozg` · [HTML page](https://eulogikon.org/en/polemon-laodicea)
+**eul_aid:** `ozg` · [HTML page](https://eulogikon.org/authors/polemon-laodicea-ozg)
 
 Polemon of Laodicea was a leading Greek orator of the Second Sophistic. Two orations survive. Free to read and download from the Greek library archive.
 

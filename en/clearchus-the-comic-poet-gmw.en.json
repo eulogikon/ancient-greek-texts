@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "gmw-aa",
-      "title": {
-        "english": "Symposium and Drinking Fragments",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa",
-      "passages": 18,
-      "links": {
-        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.epub"
-      }
-    },
-    {
       "eul_wid": "gmw-ab",
       "title": {
         "english": "Symposium and Drinking Fragments",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "gmw-aa",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.epub"
       }
     }
   ],

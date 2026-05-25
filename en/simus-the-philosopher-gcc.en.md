@@ -2,7 +2,7 @@
 name: Simus the Philosopher
 name_greek: Σίμος
 eul_aid: gcc
-canonical: "https://eulogikon.org/en/simus-the-philosopher"
+canonical: "https://eulogikon.org/authors/simus-the-philosopher-gcc"
 period: Classical
 dialect: Attic Philosophical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σίμος*
 
-**eul_aid:** `gcc` · [HTML page](https://eulogikon.org/en/simus-the-philosopher)
+**eul_aid:** `gcc` · [HTML page](https://eulogikon.org/authors/simus-the-philosopher-gcc)
 
 Simus the Philosopher, a Hellenistic thinker. Surviving philosophical works in the Attic dialect. Free to read and download from the Greek library archive.
 

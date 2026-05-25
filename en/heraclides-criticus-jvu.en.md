@@ -2,7 +2,7 @@
 name: Heraclides Criticus
 name_greek: Ἡρακλείδης ὁ Κριτικός
 eul_aid: jvu
-canonical: "https://eulogikon.org/en/heraclides-criticus"
+canonical: "https://eulogikon.org/authors/heraclides-criticus-jvu"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Κριτικός*
 
-**eul_aid:** `jvu` · [HTML page](https://eulogikon.org/en/heraclides-criticus)
+**eul_aid:** `jvu` · [HTML page](https://eulogikon.org/authors/heraclides-criticus-jvu)
 
 Heraclides Criticus, a 3rd century BCE geographer. His work offers insights into ancient topography. Free to read and download from the Greek library archive.
 

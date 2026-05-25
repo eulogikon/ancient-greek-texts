@@ -2,7 +2,7 @@
 name: David the Invincible
 name_greek: Δαβίδ ὁ Ἀνίκητος
 eul_aid: vcm
-canonical: "https://eulogikon.org/en/david-the-invincible"
+canonical: "https://eulogikon.org/authors/david-the-invincible-vcm"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαβίδ ὁ Ἀνίκητος*
 
-**eul_aid:** `vcm` · [HTML page](https://eulogikon.org/en/david-the-invincible)
+**eul_aid:** `vcm` · [HTML page](https://eulogikon.org/authors/david-the-invincible-vcm)
 
 David the Invincible, 6th century Neoplatonic philosopher. Two surviving philosophical treatises. Free to read and download from the Greek library archive.
 

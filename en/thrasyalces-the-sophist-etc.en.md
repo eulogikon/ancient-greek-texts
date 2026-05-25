@@ -2,7 +2,7 @@
 name: Thrasyalces the Sophist
 name_greek: Θρασυάλκης ὁ Σοφιστής
 eul_aid: etc
-canonical: "https://eulogikon.org/en/thrasyalces-the-sophist"
+canonical: "https://eulogikon.org/authors/thrasyalces-the-sophist-etc"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θρασυάλκης ὁ Σοφιστής*
 
-**eul_aid:** `etc` · [HTML page](https://eulogikon.org/en/thrasyalces-the-sophist)
+**eul_aid:** `etc` · [HTML page](https://eulogikon.org/authors/thrasyalces-the-sophist-etc)
 
 Thrasyalces, a 5th century BCE sophist from Thasos. His surviving works are known from Plato. Free to read and download from the Greek library archive.
 

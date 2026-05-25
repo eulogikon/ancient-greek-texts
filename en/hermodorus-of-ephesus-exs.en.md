@@ -2,7 +2,7 @@
 name: Hermodorus of Ephesus
 name_greek: Ἑρμόδωρος ὁ Ἐφέσιος
 eul_aid: exs
-canonical: "https://eulogikon.org/en/hermodorus-of-ephesus"
+canonical: "https://eulogikon.org/authors/hermodorus-of-ephesus-exs"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμόδωρος ὁ Ἐφέσιος*
 
-**eul_aid:** `exs` · [HTML page](https://eulogikon.org/en/hermodorus-of-ephesus)
+**eul_aid:** `exs` · [HTML page](https://eulogikon.org/authors/hermodorus-of-ephesus-exs)
 
 Hermodorus of Ephesus was a 5th century BCE philosopher and disciple of Heraclitus. Two works survive. Free to read and download from the Greek library archive.
 

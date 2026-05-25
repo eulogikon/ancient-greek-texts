@@ -2,7 +2,7 @@
 name: Palaephatus the Mythographer
 name_greek: Παλαίφατος ὁ παραδοξογράφος
 eul_aid: hlc
-canonical: "https://eulogikon.org/en/palaephatus-the-mythographer"
+canonical: "https://eulogikon.org/authors/palaephatus-the-mythographer-hlc"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παλαίφατος ὁ παραδοξογράφος*
 
-**eul_aid:** `hlc` · [HTML page](https://eulogikon.org/en/palaephatus-the-mythographer)
+**eul_aid:** `hlc` · [HTML page](https://eulogikon.org/authors/palaephatus-the-mythographer-hlc)
 
 Palaephatus, a 4th century BCE mythographer who rationalized myths. Includes On Incredible Tales. Free to read and download from the Greek library archive.
 

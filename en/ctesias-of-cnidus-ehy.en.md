@@ -2,7 +2,7 @@
 name: Ctesias of Cnidus
 name_greek: Κτησίας ὁ Κνίδιος
 eul_aid: ehy
-canonical: "https://eulogikon.org/en/ctesias-of-cnidus"
+canonical: "https://eulogikon.org/authors/ctesias-of-cnidus-ehy"
 period: Classical
 dialect: Ionic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κτησίας ὁ Κνίδιος*
 
-**eul_aid:** `ehy` · [HTML page](https://eulogikon.org/en/ctesias-of-cnidus)
+**eul_aid:** `ehy` · [HTML page](https://eulogikon.org/authors/ctesias-of-cnidus-ehy)
 
 Ctesias of Cnidus was a Greek physician and historian. His surviving works include historical texts. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Rhianus of Crete
 name_greek: Ῥιανὸς ὁ Κρής
 eul_aid: izm
-canonical: "https://eulogikon.org/en/rhianus-of-crete"
+canonical: "https://eulogikon.org/authors/rhianus-of-crete-izm"
 period: Hellenistic
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥιανὸς ὁ Κρής*
 
-**eul_aid:** `izm` · [HTML page](https://eulogikon.org/en/rhianus-of-crete)
+**eul_aid:** `izm` · [HTML page](https://eulogikon.org/authors/rhianus-of-crete-izm)
 
 Rhianus was a Hellenistic poet and scholar from Crete. Five epic works in verse are preserved. Free to read and download from the Greek library archive.
 

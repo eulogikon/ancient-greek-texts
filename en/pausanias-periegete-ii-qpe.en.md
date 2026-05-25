@@ -2,7 +2,7 @@
 name: Pausanias Periegete II
 name_greek: Παυσανίας ὁ Περιηγητής
 eul_aid: qpe
-canonical: "https://eulogikon.org/en/pausanias-periegete-ii"
+canonical: "https://eulogikon.org/authors/pausanias-periegete-qpe"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παυσανίας ὁ Περιηγητής*
 
-**eul_aid:** `qpe` · [HTML page](https://eulogikon.org/en/pausanias-periegete-ii)
+**eul_aid:** `qpe` · [HTML page](https://eulogikon.org/authors/pausanias-periegete-qpe)
 
 Pausanias Periegete, a 2nd century CE Roman geographer. His work is the Description of Greece. Free to read and download from the Greek library archive.
 

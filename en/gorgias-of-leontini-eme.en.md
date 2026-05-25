@@ -2,7 +2,7 @@
 name: Gorgias of Leontini
 name_greek: Γοργίας ὁ Λεοντῖνος
 eul_aid: eme
-canonical: "https://eulogikon.org/en/gorgias-of-leontini"
+canonical: "https://eulogikon.org/authors/gorgias-of-leontini-eme"
 period: Classical
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γοργίας ὁ Λεοντῖνος*
 
-**eul_aid:** `eme` · [HTML page](https://eulogikon.org/en/gorgias-of-leontini)
+**eul_aid:** `eme` · [HTML page](https://eulogikon.org/authors/gorgias-of-leontini-eme)
 
 Gorgias, a major Sophist and teacher of rhetoric. Three surviving works of oratory and rhetorical display. Free to read and download from the Greek library.
 

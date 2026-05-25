@@ -2,7 +2,7 @@
 name: Phoenix of Colophon
 name_greek: Φοῖνιξ ὁ Κολοφώνιος
 eul_aid: ale
-canonical: "https://eulogikon.org/en/phoenix-of-colophon"
+canonical: "https://eulogikon.org/authors/phoenix-of-colophon-ale"
 period: Archaic
 dialect: "Ionic (ia, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φοῖνιξ ὁ Κολοφώνιος*
 
-**eul_aid:** `ale` · [HTML page](https://eulogikon.org/en/phoenix-of-colophon)
+**eul_aid:** `ale` · [HTML page](https://eulogikon.org/authors/phoenix-of-colophon-ale)
 
 Phoenix of Colophon, an archaic Greek iambic poet of the 7th-6th century BCE. Surviving poetic fragments. Free to download from the Greek library archive.
 

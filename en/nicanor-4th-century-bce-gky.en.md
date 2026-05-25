@@ -2,7 +2,7 @@
 name: Nicanor of the 4th c. BCE
 name_greek: Νικάνωρ
 eul_aid: gky
-canonical: "https://eulogikon.org/en/nicanor-4th-century-bce"
+canonical: "https://eulogikon.org/authors/nicanor-of-the-4th-c.-bce-gky"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικάνωρ*
 
-**eul_aid:** `gky` · [HTML page](https://eulogikon.org/en/nicanor-4th-century-bce)
+**eul_aid:** `gky` · [HTML page](https://eulogikon.org/authors/nicanor-of-the-4th-c.-bce-gky)
 
 Nicanor was a 4th century BCE Greek grammarian. His surviving grammatical treatise is available. Free to read and download from the Greek library archive.
 

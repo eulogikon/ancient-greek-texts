@@ -2,7 +2,7 @@
 name: Dionysius of Byzantium
 name_greek: Διονύσιος ὁ Βυζάντιος
 eul_aid: qtk
-canonical: "https://eulogikon.org/en/dionysius-of-byzantium"
+canonical: "https://eulogikon.org/authors/dionysius-of-byzantium-qtk"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Βυζάντιος*
 
-**eul_aid:** `qtk` · [HTML page](https://eulogikon.org/en/dionysius-of-byzantium)
+**eul_aid:** `qtk` · [HTML page](https://eulogikon.org/authors/dionysius-of-byzantium-qtk)
 
 Dionysius of Byzantium, a 2nd century CE Roman geographer. His surviving geographical prose work. Free to read and download from the Greek library archive.
 

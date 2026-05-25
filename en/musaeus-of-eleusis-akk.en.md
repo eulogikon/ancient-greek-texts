@@ -2,7 +2,7 @@
 name: Musaeus of Eleusis
 name_greek: Μουσαῖος ὁ Ἐλευσίνιος
 eul_aid: akk
-canonical: "https://eulogikon.org/en/musaeus-of-eleusis"
+canonical: "https://eulogikon.org/authors/musaeus-of-eleusis-akk"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μουσαῖος ὁ Ἐλευσίνιος*
 
-**eul_aid:** `akk` · [HTML page](https://eulogikon.org/en/musaeus-of-eleusis)
+**eul_aid:** `akk` · [HTML page](https://eulogikon.org/authors/musaeus-of-eleusis-akk)
 
 Musaeus of Eleusis, a semi-legendary poet and religious teacher from the 6th century BCE. Works attributed to him. Free to download from the Greek archive.
 

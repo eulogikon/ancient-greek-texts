@@ -2,7 +2,7 @@
 name: Melanippides of Melos
 name_greek: Μελανιππίδης ὁ Μήλιος
 eul_aid: cye
-canonical: "https://eulogikon.org/en/melanippides-of-melos"
+canonical: "https://eulogikon.org/authors/melanippides-of-melos-cye"
 period: Classical
 dialect: Literary Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μελανιππίδης ὁ Μήλιος*
 
-**eul_aid:** `cye` · [HTML page](https://eulogikon.org/en/melanippides-of-melos)
+**eul_aid:** `cye` · [HTML page](https://eulogikon.org/authors/melanippides-of-melos-cye)
 
 Melanippides of Melos was a 5th century BCE lyric poet. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

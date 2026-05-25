@@ -2,7 +2,7 @@
 name: Aratus Scholia
 name_greek: Ἄρατου Σχόλια
 eul_aid: ngq
-canonical: "https://eulogikon.org/en/aratus-scholia"
+canonical: "https://eulogikon.org/authors/aratus-scholia-ngq"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 6
@@ -13,18 +13,18 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄρατου Σχόλια*
 
-**eul_aid:** `ngq` · [HTML page](https://eulogikon.org/en/aratus-scholia)
+**eul_aid:** `ngq` · [HTML page](https://eulogikon.org/authors/aratus-scholia-ngq)
 
 Aratus Scholia are ancient commentaries on the Phaenomena. Six works of grammatical analysis. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-ab`
 - [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ac-ngq-ac.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-ac`
-- [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-af`
+- [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-ab`
 - [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ad-ngq-ad.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-ad`
 - [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ae-ngq-ae.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-ae`
 - [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-aa`
+- [Scholia-Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.md) — *Σχόλια εἰς Ἄρατον* · `ngq-af`
 
 ## License and provenance
 

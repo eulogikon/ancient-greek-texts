@@ -2,7 +2,7 @@
 name: Mimnermus of Colophon
 name_greek: Μίμνερμος ὁ Κολοφώνιος
 eul_aid: aly
-canonical: "https://eulogikon.org/en/mimnermus-of-colophon"
+canonical: "https://eulogikon.org/authors/mimnermus-of-colophon-aly"
 period: Archaic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μίμνερμος ὁ Κολοφώνιος*
 
-**eul_aid:** `aly` · [HTML page](https://eulogikon.org/en/mimnermus-of-colophon)
+**eul_aid:** `aly` · [HTML page](https://eulogikon.org/authors/mimnermus-of-colophon-aly)
 
 Mimnermus of Colophon, 7th century BCE Greek elegiac poet. Surviving fragments on love and youth. Free to read and download from the Greek library archive.
 

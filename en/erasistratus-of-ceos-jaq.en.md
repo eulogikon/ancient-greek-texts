@@ -2,7 +2,7 @@
 name: Erasistratus of Ceos
 name_greek: Ἐρασίστρατος ὁ Κεῖος
 eul_aid: jaq
-canonical: "https://eulogikon.org/en/erasistratus-of-ceos"
+canonical: "https://eulogikon.org/authors/erasistratus-of-ceos-jaq"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐρασίστρατος ὁ Κεῖος*
 
-**eul_aid:** `jaq` · [HTML page](https://eulogikon.org/en/erasistratus-of-ceos)
+**eul_aid:** `jaq` · [HTML page](https://eulogikon.org/authors/erasistratus-of-ceos-jaq)
 
 Erasistratus of Ceos was a Hellenistic physician and anatomist. His surviving medical works are here. Free to read and download from the Greek library archive.
 

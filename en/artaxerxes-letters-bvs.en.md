@@ -2,7 +2,7 @@
 name: Artaxerxes Letters
 name_greek: Ἀρταξέρξην Ἐπιστολαί
 eul_aid: bvs
-canonical: "https://eulogikon.org/en/artaxerxes-letters"
+canonical: "https://eulogikon.org/authors/artaxerxes-letters-bvs"
 period: Classical
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρταξέρξην Ἐπιστολαί*
 
-**eul_aid:** `bvs` · [HTML page](https://eulogikon.org/en/artaxerxes-letters)
+**eul_aid:** `bvs` · [HTML page](https://eulogikon.org/authors/artaxerxes-letters-bvs)
 
 Artaxerxes Letters, classical historical epistles from the 5th century BCE. Official correspondence. Free to read and download from the Greek library archive.
 

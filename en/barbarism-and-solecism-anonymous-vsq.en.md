@@ -2,7 +2,7 @@
 name: Barbarism and Solecism Treatise
 name_greek: Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ πραγματεία
 eul_aid: vsq
-canonical: "https://eulogikon.org/en/barbarism-and-solecism-anonymous"
+canonical: "https://eulogikon.org/authors/barbarism-and-solecism-vsq"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ πραγματεία*
 
-**eul_aid:** `vsq` · [HTML page](https://eulogikon.org/en/barbarism-and-solecism-anonymous)
+**eul_aid:** `vsq` · [HTML page](https://eulogikon.org/authors/barbarism-and-solecism-vsq)
 
 Late antique grammatical treatise on barbarism solecism from 2nd to 6th century CE. Two works on linguistic correctness. Free to download from Greek archive.
 

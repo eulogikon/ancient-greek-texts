@@ -2,7 +2,7 @@
 name: Collection of Musical Riddles Anonymous
 name_greek: Ἀνώνυμος συλλογὴ αἰνιγμάτων μουσικῶν
 eul_aid: vou
-canonical: "https://eulogikon.org/en/musical-riddles-anonymous"
+canonical: "https://eulogikon.org/authors/musical-riddles-anon-vou"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος συλλογὴ αἰνιγμάτων μουσικῶν*
 
-**eul_aid:** `vou` · [HTML page](https://eulogikon.org/en/musical-riddles-anonymous)
+**eul_aid:** `vou` · [HTML page](https://eulogikon.org/authors/musical-riddles-anon-vou)
 
 Anonymous collection of musical riddles from Late Antiquity. Treatise on musical puzzles and theory. Free to read and download from the Greek library archive.
 

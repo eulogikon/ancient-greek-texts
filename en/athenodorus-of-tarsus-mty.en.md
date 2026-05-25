@@ -2,7 +2,7 @@
 name: Athenodorus of Tarsus Cordylion
 name_greek: Ἀθηνόδωρος Κορδυλίων
 eul_aid: mty
-canonical: "https://eulogikon.org/en/athenodorus-of-tarsus"
+canonical: "https://eulogikon.org/authors/athenodorus-of-tarsus-mty"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθηνόδωρος Κορδυλίων*
 
-**eul_aid:** `mty` · [HTML page](https://eulogikon.org/en/athenodorus-of-tarsus)
+**eul_aid:** `mty` · [HTML page](https://eulogikon.org/authors/athenodorus-of-tarsus-mty)
 
 Athenodorus Cordylion, Stoic philosopher from Tarsus in the 1st century BCE. Philosophical treatise. Free to read and download from the Greek library archive.
 

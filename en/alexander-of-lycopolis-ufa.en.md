@@ -2,7 +2,7 @@
 name: Alexander of Lycopolis
 name_greek: Ἀλέξανδρος Λυκοπολίτης
 eul_aid: ufa
-canonical: "https://eulogikon.org/en/alexander-of-lycopolis"
+canonical: "https://eulogikon.org/authors/alexander-of-lycopolis-ufa"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος Λυκοπολίτης*
 
-**eul_aid:** `ufa` · [HTML page](https://eulogikon.org/en/alexander-of-lycopolis)
+**eul_aid:** `ufa` · [HTML page](https://eulogikon.org/authors/alexander-of-lycopolis-ufa)
 
 Alexander of Lycopolis, a 3rd century pagan philosopher from Egypt. His treatise critiques Manichaean theology. Free to download from the Greek library archive.
 

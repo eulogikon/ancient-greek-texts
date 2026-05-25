@@ -2,7 +2,7 @@
 name: Hermolochus the Lyric Poet
 name_greek: Ἑρμόλοχος ὁ λυρικός
 eul_aid: juq
-canonical: "https://eulogikon.org/en/hermolochus-the-lyric-poet"
+canonical: "https://eulogikon.org/authors/hermolochus-the-lyric-poet-juq"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμόλοχος ὁ λυρικός*
 
-**eul_aid:** `juq` · [HTML page](https://eulogikon.org/en/hermolochus-the-lyric-poet)
+**eul_aid:** `juq` · [HTML page](https://eulogikon.org/authors/hermolochus-the-lyric-poet-juq)
 
 Hermolochus, a Hellenistic lyric poet of the 3rd century BCE. Surviving fragments of his verse. Free to read and download from the Greek library archive.
 

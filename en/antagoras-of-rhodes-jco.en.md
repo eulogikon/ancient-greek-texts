@@ -2,7 +2,7 @@
 name: Antagoras of Rhodes
 name_greek: Ἀνταγόρας ὁ Ῥόδιος
 eul_aid: jco
-canonical: "https://eulogikon.org/en/antagoras-of-rhodes"
+canonical: "https://eulogikon.org/authors/antagoras-of-rhodes-jco"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνταγόρας ὁ Ῥόδιος*
 
-**eul_aid:** `jco` · [HTML page](https://eulogikon.org/en/antagoras-of-rhodes)
+**eul_aid:** `jco` · [HTML page](https://eulogikon.org/authors/antagoras-of-rhodes-jco)
 
 Antagoras of Rhodes was a Hellenistic epic poet in Homeric dialect. Surviving works include fragments. Free to read and download from the Greek library archive.
 

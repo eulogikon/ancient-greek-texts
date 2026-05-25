@@ -2,7 +2,7 @@
 name: Apollodorus of Gela
 name_greek: Ἀπολλόδωρος ὁ Γελῷος
 eul_aid: hee
-canonical: "https://eulogikon.org/en/apollodorus-of-gela"
+canonical: "https://eulogikon.org/authors/apollodorus-of-gela-hee"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Γελῷος*
 
-**eul_aid:** `hee` · [HTML page](https://eulogikon.org/en/apollodorus-of-gela)
+**eul_aid:** `hee` · [HTML page](https://eulogikon.org/authors/apollodorus-of-gela-hee)
 
 Apollodorus of Gela was a 4th century BCE Attic comic poet. His surviving comedy fragments are here. Free to read and download from the Greek library archive.
 

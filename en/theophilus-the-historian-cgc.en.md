@@ -2,7 +2,7 @@
 name: Theophilus the Historian
 name_greek: Θεόφιλος ὁ Ἱστορικός
 eul_aid: cgc
-canonical: "https://eulogikon.org/en/theophilus-the-historian"
+canonical: "https://eulogikon.org/authors/theophilus-the-historian-cgc"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόφιλος ὁ Ἱστορικός*
 
-**eul_aid:** `cgc` · [HTML page](https://eulogikon.org/en/theophilus-the-historian)
+**eul_aid:** `cgc` · [HTML page](https://eulogikon.org/authors/theophilus-the-historian-cgc)
 
 Theophilus the Historian, a 4th century BCE Attic prose writer. His surviving historical work. Free to read and download from the Greek library archive.
 

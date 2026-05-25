@@ -2,7 +2,7 @@
 name: Leucippus the Atomist
 name_greek: Λεύκιππος ὁ Ἀτομιστής
 eul_aid: dra
-canonical: "https://eulogikon.org/en/leucippus-the-atomist"
+canonical: "https://eulogikon.org/authors/leucippus-the-atomist-dra"
 period: Classical
 dialect: Ionic
 affiliation: Atomist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεύκιππος ὁ Ἀτομιστής*
 
-**eul_aid:** `dra` · [HTML page](https://eulogikon.org/en/leucippus-the-atomist)
+**eul_aid:** `dra` · [HTML page](https://eulogikon.org/authors/leucippus-the-atomist-dra)
 
 Leucippus, founder of atomist philosophy in the 5th century BCE. Works on atoms and the void. Free to read and download from the Greek library archive.
 

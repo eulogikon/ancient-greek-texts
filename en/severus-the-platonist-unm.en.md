@@ -2,7 +2,7 @@
 name: Severus the Platonist
 name_greek: Σεουῆρος ὁ Πλατωνικός
 eul_aid: unm
-canonical: "https://eulogikon.org/en/severus-the-platonist"
+canonical: "https://eulogikon.org/authors/severus-the-platonist-unm"
 period: Late Antique
 dialect: Atticizing
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σεουῆρος ὁ Πλατωνικός*
 
-**eul_aid:** `unm` · [HTML page](https://eulogikon.org/en/severus-the-platonist)
+**eul_aid:** `unm` · [HTML page](https://eulogikon.org/authors/severus-the-platonist-unm)
 
 Severus the Platonist was a late antique Neoplatonic philosopher exploring Platonic thought. Free to read and download from the Greek library archive.
 

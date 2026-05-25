@@ -2,7 +2,7 @@
 name: Pseudo-Archytas the Pythagorean
 name_greek: Ψευδο-Ἀρχύτας ὁ Πυθαγόρειος
 eul_aid: mxk
-canonical: "https://eulogikon.org/en/pseudo-archytas-the-pythagorean"
+canonical: "https://eulogikon.org/authors/ps-archytas-the-pythagorean-mxk"
 period: Hellenistic
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Ἀρχύτας ὁ Πυθαγόρειος*
 
-**eul_aid:** `mxk` · [HTML page](https://eulogikon.org/en/pseudo-archytas-the-pythagorean)
+**eul_aid:** `mxk` · [HTML page](https://eulogikon.org/authors/ps-archytas-the-pythagorean-mxk)
 
 Pseudo-Archytas is an unknown Hellenistic author. Surviving philosophical treatises in Doric dialect. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Apollophanes of Athens
 name_greek: Ἀπολλοφάνης ὁ Ἀθηναῖος
 eul_aid: eem
-canonical: "https://eulogikon.org/en/apollophanes-of-athens"
+canonical: "https://eulogikon.org/authors/apollophanes-of-athens-eem"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλοφάνης ὁ Ἀθηναῖος*
 
-**eul_aid:** `eem` · [HTML page](https://eulogikon.org/en/apollophanes-of-athens)
+**eul_aid:** `eem` · [HTML page](https://eulogikon.org/authors/apollophanes-of-athens-eem)
 
 Apollophanes of Athens was a classical Attic comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

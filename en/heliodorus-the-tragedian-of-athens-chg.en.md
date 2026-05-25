@@ -2,7 +2,7 @@
 name: Heliodorus the Tragedian of Athens
 name_greek: Ἡλιόδωρος ὁ τραγικός Ἀθηναῖος
 eul_aid: chg
-canonical: "https://eulogikon.org/en/heliodorus-the-tragedian-of-athens"
+canonical: "https://eulogikon.org/authors/heliodorus-of-athens-chg"
 period: Classical
 dialect: Attic Drama
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡλιόδωρος ὁ τραγικός Ἀθηναῖος*
 
-**eul_aid:** `chg` · [HTML page](https://eulogikon.org/en/heliodorus-the-tragedian-of-athens)
+**eul_aid:** `chg` · [HTML page](https://eulogikon.org/authors/heliodorus-of-athens-chg)
 
 Heliodorus the Tragedian was an Athenian dramatist of the 4th-3rd century BCE. Two surviving works. Free to read and download from the Greek library archive.
 

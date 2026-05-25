@@ -2,7 +2,7 @@
 name: Philemon Syracusius
 name_greek: Φίλημων ὁ Συρακούσιος
 eul_aid: lpe
-canonical: "https://eulogikon.org/en/philemon-syracusius"
+canonical: "https://eulogikon.org/authors/philemon-syracusius-lpe"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλημων ὁ Συρακούσιος*
 
-**eul_aid:** `lpe` · [HTML page](https://eulogikon.org/en/philemon-syracusius)
+**eul_aid:** `lpe` · [HTML page](https://eulogikon.org/authors/philemon-syracusius-lpe)
 
 Philemon Syracusius, Hellenistic poet of Attic Comedy. Surviving fragments of his works are preserved. Free to read and download from the Greek library archive.
 

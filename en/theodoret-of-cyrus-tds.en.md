@@ -2,7 +2,7 @@
 name: Theodoret of Cyrus
 name_greek: Θεοδώρητος ὁ Κύρρου
 eul_aid: tds
-canonical: "https://eulogikon.org/en/theodoret-of-cyrus"
+canonical: "https://eulogikon.org/authors/theodoret-of-cyrus-tds"
 period: Late Antique
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεοδώρητος ὁ Κύρρου*
 
-**eul_aid:** `tds` · [HTML page](https://eulogikon.org/en/theodoret-of-cyrus)
+**eul_aid:** `tds` · [HTML page](https://eulogikon.org/authors/theodoret-of-cyrus-tds)
 
 Theodoret of Cyrus was a 5th century Christian bishop. His works include theological treatises. Free to read and download from the Greek library archive.
 

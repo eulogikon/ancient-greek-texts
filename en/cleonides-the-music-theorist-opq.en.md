@@ -2,7 +2,7 @@
 name: Cleonides the Music Theorist
 name_greek: Κλεονείδης ὁ μουσικός
 eul_aid: opq
-canonical: "https://eulogikon.org/en/cleonides-the-music-theorist"
+canonical: "https://eulogikon.org/authors/cleonides-the-music-theorist-opq"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεονείδης ὁ μουσικός*
 
-**eul_aid:** `opq` · [HTML page](https://eulogikon.org/en/cleonides-the-music-theorist)
+**eul_aid:** `opq` · [HTML page](https://eulogikon.org/authors/cleonides-the-music-theorist-opq)
 
 Cleonides, a 2nd century CE Greek music theorist. His surviving treatise explains harmonic science. Free to read and download from the Greek library archive.
 

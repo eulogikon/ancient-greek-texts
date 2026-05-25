@@ -2,7 +2,7 @@
 name: Pratinas of Phlius
 name_greek: Πρατίνας ὁ Φλιάσιος
 eul_aid: bmc
-canonical: "https://eulogikon.org/en/pratinas-of-phlius"
+canonical: "https://eulogikon.org/authors/pratinas-of-phlius-bmc"
 period: Archaic
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρατίνας ὁ Φλιάσιος*
 
-**eul_aid:** `bmc` · [HTML page](https://eulogikon.org/en/pratinas-of-phlius)
+**eul_aid:** `bmc` · [HTML page](https://eulogikon.org/authors/pratinas-of-phlius-bmc)
 
 Pratinas of Phlius, Archaic Greek playwright from the 6th-5th century BCE. Surviving dramatic works. Free to read and download from the Greek library archive.
 

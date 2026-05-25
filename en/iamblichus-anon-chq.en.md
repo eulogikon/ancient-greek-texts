@@ -2,7 +2,7 @@
 name: Iamblichus Anonymous
 name_greek: Ἰάμβλιχος ὁ Ἀνώνυμος
 eul_aid: chq
-canonical: "https://eulogikon.org/en/iamblichus-anon"
+canonical: "https://eulogikon.org/authors/iamblichus-anon-chq"
 period: Classical
 dialect: Mixed Dialects
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰάμβλιχος ὁ Ἀνώνυμος*
 
-**eul_aid:** `chq` · [HTML page](https://eulogikon.org/en/iamblichus-anon)
+**eul_aid:** `chq` · [HTML page](https://eulogikon.org/authors/iamblichus-anon-chq)
 
 Iamblichus Anonymous, a Neoplatonist philosopher of the late Roman era. Philosophical treatises. Free to read and download from the Greek library archive.
 

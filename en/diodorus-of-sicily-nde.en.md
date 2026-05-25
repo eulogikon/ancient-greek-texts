@@ -2,7 +2,7 @@
 name: Diodorus of Sicily
 name_greek: Διόδωρος ὁ Σικελιώτης
 eul_aid: nde
-canonical: "https://eulogikon.org/en/diodorus-of-sicily"
+canonical: "https://eulogikon.org/authors/diodorus-of-sicily-nde"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόδωρος ὁ Σικελιώτης*
 
-**eul_aid:** `nde` · [HTML page](https://eulogikon.org/en/diodorus-of-sicily)
+**eul_aid:** `nde` · [HTML page](https://eulogikon.org/authors/diodorus-of-sicily-nde)
 
 Diodorus of Sicily, 1st century BCE historian. Works include his universal history Bibliotheca. Free to read and download from the Greek library archive.
 

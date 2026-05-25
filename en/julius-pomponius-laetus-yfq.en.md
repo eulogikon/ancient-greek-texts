@@ -2,7 +2,7 @@
 name: Julius Pomponius Laetus
 name_greek: Ιούλιος Πομπώνιος Λάετος
 eul_aid: yfq
-canonical: "https://eulogikon.org/en/julius-pomponius-laetus"
+canonical: "https://eulogikon.org/authors/julius-pomponius-laetus-yfq"
 period: Byzantine
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ιούλιος Πομπώνιος Λάετος*
 
-**eul_aid:** `yfq` · [HTML page](https://eulogikon.org/en/julius-pomponius-laetus)
+**eul_aid:** `yfq` · [HTML page](https://eulogikon.org/authors/julius-pomponius-laetus-yfq)
 
 Julius Pomponius Laetus, Renaissance humanist and antiquarian. His historical writings in Greek. Free to read and download from the Greek library archive.
 

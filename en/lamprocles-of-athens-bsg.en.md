@@ -2,7 +2,7 @@
 name: Lamprocles the Athenian
 name_greek: Λαμπροκλῆς ὁ Ἀθηναῖος
 eul_aid: bsg
-canonical: "https://eulogikon.org/en/lamprocles-of-athens"
+canonical: "https://eulogikon.org/authors/lamprocles-the-athenian-bsg"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λαμπροκλῆς ὁ Ἀθηναῖος*
 
-**eul_aid:** `bsg` · [HTML page](https://eulogikon.org/en/lamprocles-of-athens)
+**eul_aid:** `bsg` · [HTML page](https://eulogikon.org/authors/lamprocles-the-athenian-bsg)
 
 Lamprocles the Athenian, a 5th century BCE classical poet. Surviving poetic fragments from ancient sources. Free to download from the Greek library archive.
 

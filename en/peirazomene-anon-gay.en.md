@@ -2,7 +2,7 @@
 name: "Peirazomene [Identity Unknown]"
 name_greek: Πειραζομένη
 eul_aid: gay
-canonical: "https://eulogikon.org/en/peirazomene-anon"
+canonical: "https://eulogikon.org/authors/peirazomene-anon-gay"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πειραζομένη*
 
-**eul_aid:** `gay` · [HTML page](https://eulogikon.org/en/peirazomene-anon)
+**eul_aid:** `gay` · [HTML page](https://eulogikon.org/authors/peirazomene-anon-gay)
 
 Peirazomene, an unknown poet from the Classical period. Surviving works include poetic fragments. Free to read and download from the Greek library archive.
 

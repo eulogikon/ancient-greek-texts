@@ -2,7 +2,7 @@
 name: Solon Letters
 name_greek: Σόλωνος Ἐπιστολαί
 eul_aid: anm
-canonical: "https://eulogikon.org/en/solon-letters"
+canonical: "https://eulogikon.org/authors/solon-letters-anm"
 period: Archaic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σόλωνος Ἐπιστολαί*
 
-**eul_aid:** `anm` · [HTML page](https://eulogikon.org/en/solon-letters)
+**eul_aid:** `anm` · [HTML page](https://eulogikon.org/authors/solon-letters-anm)
 
 Solon, Athenian lawgiver and poet of the 6th century BCE. Works include the spurious epistles. Free to read and download from the Greek library archive.
 

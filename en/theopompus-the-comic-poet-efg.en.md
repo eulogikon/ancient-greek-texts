@@ -2,7 +2,7 @@
 name: Theopompus the Comic Poet
 name_greek: Θεόπομπος ὁ Κωμικός
 eul_aid: efg
-canonical: "https://eulogikon.org/en/theopompus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/theopompus-the-comic-poet-efg"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόπομπος ὁ Κωμικός*
 
-**eul_aid:** `efg` · [HTML page](https://eulogikon.org/en/theopompus-the-comic-poet)
+**eul_aid:** `efg` · [HTML page](https://eulogikon.org/authors/theopompus-the-comic-poet-efg)
 
 Theopompus was an Athenian comic poet and rival of Aristophanes. Fragments from his plays are preserved. Free to read and download from the Greek library.
 

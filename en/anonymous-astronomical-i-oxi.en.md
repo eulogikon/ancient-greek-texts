@@ -2,7 +2,7 @@
 name: Astronomical Work Anonymous I
 name_greek: Ἄγνωστος Ἀστρονομικὸς Συγγραφεύς
 eul_aid: oxi
-canonical: "https://eulogikon.org/en/anonymous-astronomical-i"
+canonical: "https://eulogikon.org/authors/astronomical-work-anon-oxi"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄγνωστος Ἀστρονομικὸς Συγγραφεύς*
 
-**eul_aid:** `oxi` · [HTML page](https://eulogikon.org/en/anonymous-astronomical-i)
+**eul_aid:** `oxi` · [HTML page](https://eulogikon.org/authors/astronomical-work-anon-oxi)
 
 Anonymous astronomical author from the Roman era, 1st to 3rd century CE. One surviving treatise. Free to read and download from the Greek library archive.
 

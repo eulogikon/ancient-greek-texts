@@ -2,7 +2,7 @@
 name: Philiscus of Athens
 name_greek: Φίλισκος ὁ Ἀθηναῖος
 eul_aid: gcw
-canonical: "https://eulogikon.org/en/philiscus-of-athens"
+canonical: "https://eulogikon.org/authors/philiscus-of-athens-gcw"
 period: Classical
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλισκος ὁ Ἀθηναῖος*
 
-**eul_aid:** `gcw` · [HTML page](https://eulogikon.org/en/philiscus-of-athens)
+**eul_aid:** `gcw` · [HTML page](https://eulogikon.org/authors/philiscus-of-athens-gcw)
 
 Philiscus of Athens was a 4th century BCE Attic comic poet. Three surviving works of his comedy. Free to read and download from the Greek library archive.
 

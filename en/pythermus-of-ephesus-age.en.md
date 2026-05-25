@@ -2,7 +2,7 @@
 name: Pythermus of Ephesus
 name_greek: Πύθερμος ὁ Ἐφέσιος
 eul_aid: age
-canonical: "https://eulogikon.org/en/pythermus-of-ephesus"
+canonical: "https://eulogikon.org/authors/pythermus-of-ephesus-age"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πύθερμος ὁ Ἐφέσιος*
 
-**eul_aid:** `age` · [HTML page](https://eulogikon.org/en/pythermus-of-ephesus)
+**eul_aid:** `age` · [HTML page](https://eulogikon.org/authors/pythermus-of-ephesus-age)
 
 Pythermus of Ephesus, Archaic era historian writing in Ionic Greek. His historical fragments are preserved. Free to read and download from the Greek archive.
 

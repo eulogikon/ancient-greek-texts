@@ -2,7 +2,7 @@
 name: Chamaeleon of Heraclea Pontica
 name_greek: Χαμαιλέων ὁ Ἡρακλεώτης
 eul_aid: gww
-canonical: "https://eulogikon.org/en/chamaeleon-of-heraclea-pontica"
+canonical: "https://eulogikon.org/authors/chamaeleon-of-heraclea-pontica-gww"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χαμαιλέων ὁ Ἡρακλεώτης*
 
-**eul_aid:** `gww` · [HTML page](https://eulogikon.org/en/chamaeleon-of-heraclea-pontica)
+**eul_aid:** `gww` · [HTML page](https://eulogikon.org/authors/chamaeleon-of-heraclea-pontica-gww)
 
 Chamaeleon was a Peripatetic philosopher from the late 4th century BCE. Two fragmentary treatises survive. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Limenius of Athens
 name_greek: Λιμήνιος ὁ Ἀθηναῖος
 eul_aid: mpi
-canonical: "https://eulogikon.org/en/limenius-of-athens"
+canonical: "https://eulogikon.org/authors/limenius-of-athens-mpi"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λιμήνιος ὁ Ἀθηναῖος*
 
-**eul_aid:** `mpi` · [HTML page](https://eulogikon.org/en/limenius-of-athens)
+**eul_aid:** `mpi` · [HTML page](https://eulogikon.org/authors/limenius-of-athens-mpi)
 
 Limenius of Athens was a Hellenistic poet of the 2nd century BCE. Read his surviving verse works. Free to read and download from the Greek library archive.
 

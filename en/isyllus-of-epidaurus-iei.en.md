@@ -2,7 +2,7 @@
 name: Isyllus of Epidaurus
 name_greek: Ἴσυλλος ὁ Ἐπιδαύριος
 eul_aid: iei
-canonical: "https://eulogikon.org/en/isyllus-of-epidaurus"
+canonical: "https://eulogikon.org/authors/isyllus-of-epidaurus-iei"
 period: Hellenistic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴσυλλος ὁ Ἐπιδαύριος*
 
-**eul_aid:** `iei` · [HTML page](https://eulogikon.org/en/isyllus-of-epidaurus)
+**eul_aid:** `iei` · [HTML page](https://eulogikon.org/authors/isyllus-of-epidaurus-iei)
 
 Isyllus of Epidaurus, a Hellenistic poet in Doric dialect. Surviving poetic works from the 4th–3rd century BCE. Free to download from the Greek archive.
 

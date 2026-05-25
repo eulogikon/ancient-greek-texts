@@ -2,7 +2,7 @@
 name: Rufus of Ephesus
 name_greek: Ῥοῦφος ὁ Ἐφέσιος
 eul_aid: ojc
-canonical: "https://eulogikon.org/en/rufus-of-ephesus"
+canonical: "https://eulogikon.org/authors/rufus-of-ephesus-ojc"
 period: Roman
 dialect: Technical Koine
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥοῦφος ὁ Ἐφέσιος*
 
-**eul_aid:** `ojc` · [HTML page](https://eulogikon.org/en/rufus-of-ephesus)
+**eul_aid:** `ojc` · [HTML page](https://eulogikon.org/authors/rufus-of-ephesus-ojc)
 
 Rufus of Ephesus was a Greek physician under Emperor Trajan. Seven medical treatises on anatomy. Free to read and download from the Greek library archive.
 

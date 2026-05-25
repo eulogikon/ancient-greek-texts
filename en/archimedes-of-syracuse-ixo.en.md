@@ -2,7 +2,7 @@
 name: Archimedes of Syracuse
 name_greek: Ἀρχιμήδης ὁ Συρακούσιος
 eul_aid: ixo
-canonical: "https://eulogikon.org/en/archimedes-of-syracuse"
+canonical: "https://eulogikon.org/authors/archimedes-of-syracuse-ixo"
 period: Hellenistic
 dialect: Doric
 works_count: 14
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχιμήδης ὁ Συρακούσιος*
 
-**eul_aid:** `ixo` · [HTML page](https://eulogikon.org/en/archimedes-of-syracuse)
+**eul_aid:** `ixo` · [HTML page](https://eulogikon.org/authors/archimedes-of-syracuse-ixo)
 
 Archimedes of Syracuse, Hellenistic mathematician and inventor. Treatises on geometry and mechanics. Free to read and download from the Greek library archive.
 

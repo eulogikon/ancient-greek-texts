@@ -2,7 +2,7 @@
 name: Agesilaus II of Sparta
 name_greek: Ἀγησίλαος ὁ Β’ ὁ Λακεδαιμόνιος
 eul_aid: ezg
-canonical: "https://eulogikon.org/en/agesilaus-ii-of-sparta"
+canonical: "https://eulogikon.org/authors/agesilaus-ii-of-sparta-ezg"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγησίλαος ὁ Β’ ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `ezg` · [HTML page](https://eulogikon.org/en/agesilaus-ii-of-sparta)
+**eul_aid:** `ezg` · [HTML page](https://eulogikon.org/authors/agesilaus-ii-of-sparta-ezg)
 
 Agesilaus II was a Spartan king of the classical period. Surviving works include historical accounts. Free to read and download from the Greek library archive.
 

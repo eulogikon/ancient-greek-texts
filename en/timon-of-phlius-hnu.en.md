@@ -2,7 +2,7 @@
 name: Timon of Phlius
 name_greek: Τίμων ὁ Φλιάσιος
 eul_aid: hnu
-canonical: "https://eulogikon.org/en/timon-of-phlius"
+canonical: "https://eulogikon.org/authors/timon-of-phlius-hnu"
 period: Hellenistic
 dialect: Epic (Homeric)
 affiliation: Pyrrhonian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τίμων ὁ Φλιάσιος*
 
-**eul_aid:** `hnu` · [HTML page](https://eulogikon.org/en/timon-of-phlius)
+**eul_aid:** `hnu` · [HTML page](https://eulogikon.org/authors/timon-of-phlius-hnu)
 
 Timon of Phlius, Hellenistic philosopher and poet, follower of Pyrrho. Surviving philosophical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Antidotus the Comic Poet
 name_greek: Ἀντίδοτος ὁ Κωμικός
 eul_aid: cks
-canonical: "https://eulogikon.org/en/antidotus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/antidotus-the-comic-poet-cks"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντίδοτος ὁ Κωμικός*
 
-**eul_aid:** `cks` · [HTML page](https://eulogikon.org/en/antidotus-the-comic-poet)
+**eul_aid:** `cks` · [HTML page](https://eulogikon.org/authors/antidotus-the-comic-poet-cks)
 
 Antidotus, a 4th century BCE Athenian poet of Middle Comedy. Read his surviving fragments. Free to read and download from the Greek library archive.
 

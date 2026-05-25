@@ -2,7 +2,7 @@
 name: Scythinus of Teos I
 name_greek: Σκύθινος ὁ Τήϊος
 eul_aid: has
-canonical: "https://eulogikon.org/en/scythinus-of-teos-i"
+canonical: "https://eulogikon.org/authors/scythinus-of-teos-has"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σκύθινος ὁ Τήϊος*
 
-**eul_aid:** `has` · [HTML page](https://eulogikon.org/en/scythinus-of-teos-i)
+**eul_aid:** `has` · [HTML page](https://eulogikon.org/authors/scythinus-of-teos-has)
 
 Scythinus of Teos, a 5th-4th century BCE Greek philosopher. Surviving philosophical verse works. Free to read and download from the Greek library archive.
 

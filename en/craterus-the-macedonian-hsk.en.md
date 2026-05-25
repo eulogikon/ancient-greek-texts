@@ -2,7 +2,7 @@
 name: Craterus the Macedonian Historian
 name_greek: Κρατερὸς ὁ Μακεδὼν ἱστορικός
 eul_aid: hsk
-canonical: "https://eulogikon.org/en/craterus-the-macedonian"
+canonical: "https://eulogikon.org/authors/craterus-the-macedonian-hsk"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρατερὸς ὁ Μακεδὼν ἱστορικός*
 
-**eul_aid:** `hsk` · [HTML page](https://eulogikon.org/en/craterus-the-macedonian)
+**eul_aid:** `hsk` · [HTML page](https://eulogikon.org/authors/craterus-the-macedonian-hsk)
 
 Craterus the Macedonian historian of the Hellenistic period. Surviving fragments of historical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Timolaus of Cyzicus
 name_greek: Τιμόλαος ὁ Κυζικηνός
 eul_aid: ewo
-canonical: "https://eulogikon.org/en/timolaus-of-cyzicus"
+canonical: "https://eulogikon.org/authors/timolaus-of-cyzicus-ewo"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόλαος ὁ Κυζικηνός*
 
-**eul_aid:** `ewo` · [HTML page](https://eulogikon.org/en/timolaus-of-cyzicus)
+**eul_aid:** `ewo` · [HTML page](https://eulogikon.org/authors/timolaus-of-cyzicus-ewo)
 
 Timolaus of Cyzicus, a 4th century BCE historian. His historical fragments survive in later sources. Free to read and download from the Greek library archive.
 

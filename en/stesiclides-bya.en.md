@@ -2,7 +2,7 @@
 name: Stesiclides
 name_greek: Στησικλείδης
 eul_aid: bya
-canonical: "https://eulogikon.org/en/stesiclides"
+canonical: "https://eulogikon.org/authors/stesiclides-bya"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στησικλείδης*
 
-**eul_aid:** `bya` · [HTML page](https://eulogikon.org/en/stesiclides)
+**eul_aid:** `bya` · [HTML page](https://eulogikon.org/authors/stesiclides-bya)
 
 Stesiclides was a 5th century BCE Ionic historian. His surviving historical prose is available. Free to read and download from the Greek library archive.
 

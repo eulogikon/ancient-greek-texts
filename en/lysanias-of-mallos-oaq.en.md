@@ -2,7 +2,7 @@
 name: Lysanias of Mallos
 name_greek: Λυσανίας ὁ Μαλλώτης
 eul_aid: oaq
-canonical: "https://eulogikon.org/en/lysanias-of-mallos"
+canonical: "https://eulogikon.org/authors/lysanias-of-mallos-oaq"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυσανίας ὁ Μαλλώτης*
 
-**eul_aid:** `oaq` · [HTML page](https://eulogikon.org/en/lysanias-of-mallos)
+**eul_aid:** `oaq` · [HTML page](https://eulogikon.org/authors/lysanias-of-mallos-oaq)
 
 Lysanias of Mallos, a 4th century BCE Greek historian. Historical works preserved in fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Anonymous Commentary on Plato
 name_greek: Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον
 eul_aid: lgs
-canonical: "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus"
+canonical: "https://eulogikon.org/authors/plato's-theaetetus-comm-anon-lgs"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον*
 
-**eul_aid:** `lgs` · [HTML page](https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus)
+**eul_aid:** `lgs` · [HTML page](https://eulogikon.org/authors/plato's-theaetetus-comm-anon-lgs)
 
 Anonymous author of a commentary on Plato's Theaetetus. This fragmentary philosophical treatise is free to read and download from the Greek library archive.
 

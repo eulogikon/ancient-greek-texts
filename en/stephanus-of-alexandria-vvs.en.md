@@ -2,7 +2,7 @@
 name: Stephanus of Alexandria
 name_greek: Στέφανος ὁ Ἀλεξανδρεύς
 eul_aid: vvs
-canonical: "https://eulogikon.org/en/stephanus-of-alexandria"
+canonical: "https://eulogikon.org/authors/stephanus-of-alexandria-vvs"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στέφανος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `vvs` · [HTML page](https://eulogikon.org/en/stephanus-of-alexandria)
+**eul_aid:** `vvs` · [HTML page](https://eulogikon.org/authors/stephanus-of-alexandria-vvs)
 
 Stephanus of Alexandria, a late antique Neoplatonic philosopher. His surviving philosophical treatise. Free to read and download from the Greek library archive.
 

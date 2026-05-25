@@ -2,7 +2,7 @@
 name: Asius of Samos
 name_greek: Ἄσιος ὁ Σάμιος
 eul_aid: auu
-canonical: "https://eulogikon.org/en/asius-of-samos"
+canonical: "https://eulogikon.org/authors/asius-of-samos-auu"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄσιος ὁ Σάμιος*
 
-**eul_aid:** `auu` · [HTML page](https://eulogikon.org/en/asius-of-samos)
+**eul_aid:** `auu` · [HTML page](https://eulogikon.org/authors/asius-of-samos-auu)
 
 Asius of Samos, archaic Greek poet of the 6th century BCE. Epic poetry fragments in Homeric tradition. Free to read and download from the Greek library archive.
 

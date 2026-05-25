@@ -2,7 +2,7 @@
 name: Satyrus of Oxyrhynchus
 name_greek: Σάτυρος ὁ Ὀξυρυγχίτης
 eul_aid: jii
-canonical: "https://eulogikon.org/en/satyrus-of-oxyrhynchus"
+canonical: "https://eulogikon.org/authors/satyrus-of-oxyrhynchus-jii"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σάτυρος ὁ Ὀξυρυγχίτης*
 
-**eul_aid:** `jii` · [HTML page](https://eulogikon.org/en/satyrus-of-oxyrhynchus)
+**eul_aid:** `jii` · [HTML page](https://eulogikon.org/authors/satyrus-of-oxyrhynchus-jii)
 
 Satyrus of Oxyrhynchus, a Hellenistic biographer of the 3rd century BCE. Biographical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Phocylides of Miletus
 name_greek: Φωκυλίδης ὁ Μιλήσιος
 eul_aid: bdg
-canonical: "https://eulogikon.org/en/phocylides-of-miletus"
+canonical: "https://eulogikon.org/authors/phocylides-of-miletus-bdg"
 period: Archaic
 dialect: Ionic Elegiac
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φωκυλίδης ὁ Μιλήσιος*
 
-**eul_aid:** `bdg` · [HTML page](https://eulogikon.org/en/phocylides-of-miletus)
+**eul_aid:** `bdg` · [HTML page](https://eulogikon.org/authors/phocylides-of-miletus-bdg)
 
 Phocylides of Miletus, 6th century BCE Ionic poet. Surviving verse fragments on philosophy and wisdom. Free to read and download from the Greek library archive.
 

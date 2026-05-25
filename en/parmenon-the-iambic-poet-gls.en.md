@@ -2,7 +2,7 @@
 name: Parmenon the Iambic Poet
 name_greek: Παρημένων ὁ ἰαμβογράφος
 eul_aid: gls
-canonical: "https://eulogikon.org/en/parmenon-the-iambic-poet"
+canonical: "https://eulogikon.org/authors/parmenon-the-iambic-poet-gls"
 period: Classical
 dialect: "Ionic (ia, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παρημένων ὁ ἰαμβογράφος*
 
-**eul_aid:** `gls` · [HTML page](https://eulogikon.org/en/parmenon-the-iambic-poet)
+**eul_aid:** `gls` · [HTML page](https://eulogikon.org/authors/parmenon-the-iambic-poet-gls)
 
 Parmenon, a 4th century BCE iambic poet in Ionic dialect. Two surviving fragments are preserved. Free to read and download from the Greek library archive.
 

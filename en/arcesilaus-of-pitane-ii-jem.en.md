@@ -2,7 +2,7 @@
 name: Arcesilaus of Pitane II
 name_greek: Ἀρκεσίλαος ὁ Πιτανεύς
 eul_aid: jem
-canonical: "https://eulogikon.org/en/arcesilaus-of-pitane-ii"
+canonical: "https://eulogikon.org/authors/arcesilaus-of-pitane-jem"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Academic Skeptic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρκεσίλαος ὁ Πιτανεύς*
 
-**eul_aid:** `jem` · [HTML page](https://eulogikon.org/en/arcesilaus-of-pitane-ii)
+**eul_aid:** `jem` · [HTML page](https://eulogikon.org/authors/arcesilaus-of-pitane-jem)
 
 Arcesilaus of Pitane was a Hellenistic philosopher and head of Plato's Academy. Philosophical works. Free to read and download from the Greek library archive.
 

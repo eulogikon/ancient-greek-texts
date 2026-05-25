@@ -2,7 +2,7 @@
 name: Agathon of Samos
 name_greek: Ἀγάθων ὁ Σάμιος
 eul_aid: dca
-canonical: "https://eulogikon.org/en/agathon-of-samos"
+canonical: "https://eulogikon.org/authors/agathon-of-samos-dca"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγάθων ὁ Σάμιος*
 
-**eul_aid:** `dca` · [HTML page](https://eulogikon.org/en/agathon-of-samos)
+**eul_aid:** `dca` · [HTML page](https://eulogikon.org/authors/agathon-of-samos-dca)
 
 Agathon of Samos was a 5th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive.
 

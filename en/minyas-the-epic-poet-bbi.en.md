@@ -2,7 +2,7 @@
 name: Minyas the Epic Poet
 name_greek: Μινύας ὁ Ἐπικός
 eul_aid: bbi
-canonical: "https://eulogikon.org/en/minyas-the-epic-poet"
+canonical: "https://eulogikon.org/authors/minyas-the-epic-poet-bbi"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μινύας ὁ Ἐπικός*
 
-**eul_aid:** `bbi` · [HTML page](https://eulogikon.org/en/minyas-the-epic-poet)
+**eul_aid:** `bbi` · [HTML page](https://eulogikon.org/authors/minyas-the-epic-poet-bbi)
 
 Minyas, an obscure Archaic Greek poet of the 6th century BCE. Surviving epic works are fragmentary. Free to read and download from the Greek library archive.
 

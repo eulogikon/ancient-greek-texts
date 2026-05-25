@@ -2,7 +2,7 @@
 name: Callixenus of Rhodes
 name_greek: Καλλίξενος ὁ Ῥόδιος
 eul_aid: iqq
-canonical: "https://eulogikon.org/en/callixenus-of-rhodes"
+canonical: "https://eulogikon.org/authors/callixenus-of-rhodes-iqq"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίξενος ὁ Ῥόδιος*
 
-**eul_aid:** `iqq` · [HTML page](https://eulogikon.org/en/callixenus-of-rhodes)
+**eul_aid:** `iqq` · [HTML page](https://eulogikon.org/authors/callixenus-of-rhodes-iqq)
 
 Callixenus of Rhodes was a Hellenistic historian of the 3rd century BCE. Fragments document his works. Free to read and download from the Greek library archive.
 

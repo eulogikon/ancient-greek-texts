@@ -2,7 +2,7 @@
 name: Hegemon of Thasos
 name_greek: Ἡγέμων ὁ Θάσιος
 eul_aid: dos
-canonical: "https://eulogikon.org/en/hegemon-of-thasos"
+canonical: "https://eulogikon.org/authors/hegemon-of-thasos-dos"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡγέμων ὁ Θάσιος*
 
-**eul_aid:** `dos` · [HTML page](https://eulogikon.org/en/hegemon-of-thasos)
+**eul_aid:** `dos` · [HTML page](https://eulogikon.org/authors/hegemon-of-thasos-dos)
 
 Hegemon of Thasos was a 5th century BCE poet of Attic comedy. His surviving fragments are preserved. Free to read and download from the Greek library archive.
 

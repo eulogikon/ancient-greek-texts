@@ -2,7 +2,7 @@
 name: Timotheus Pseudo-Historian
 name_greek: Τιμόθεος ὁ Ψευδοϊστορικός
 eul_aid: fxw
-canonical: "https://eulogikon.org/en/timotheus-the-pseudo-historian"
+canonical: "https://eulogikon.org/authors/timotheus-ps-historian-fxw"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόθεος ὁ Ψευδοϊστορικός*
 
-**eul_aid:** `fxw` · [HTML page](https://eulogikon.org/en/timotheus-the-pseudo-historian)
+**eul_aid:** `fxw` · [HTML page](https://eulogikon.org/authors/timotheus-ps-historian-fxw)
 
 Timotheus Pseudo-Historian, a classical writer. Surviving historical fragments in mixed dialects. Free to read and download from the Greek library archive.
 

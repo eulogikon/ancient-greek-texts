@@ -2,7 +2,7 @@
 name: Neoplatonist Philosopher
 name_greek: Νεπουάλιος
 eul_aid: tjw
-canonical: "https://eulogikon.org/en/neoplatonist-philosopher-anonymous"
+canonical: "https://eulogikon.org/authors/neoplatonist-philosopher-tjw"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νεπουάλιος*
 
-**eul_aid:** `tjw` · [HTML page](https://eulogikon.org/en/neoplatonist-philosopher-anonymous)
+**eul_aid:** `tjw` · [HTML page](https://eulogikon.org/authors/neoplatonist-philosopher-tjw)
 
 Nepoualios was a late antique Neoplatonist philosopher. His surviving medical treatise is preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Ephorus of Cyme
 name_greek: Ἔφορος ὁ Κυμαῖος
 eul_aid: fbe
-canonical: "https://eulogikon.org/en/ephorus-of-cyme"
+canonical: "https://eulogikon.org/authors/ephorus-of-cyme-fbe"
 period: Classical
 dialect: Attic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔφορος ὁ Κυμαῖος*
 
-**eul_aid:** `fbe` · [HTML page](https://eulogikon.org/en/ephorus-of-cyme)
+**eul_aid:** `fbe` · [HTML page](https://eulogikon.org/authors/ephorus-of-cyme-fbe)
 
 Ephorus of Cyme was a 4th century BCE Greek historian. Read his historical fragments and accounts. Free to read and download from the Greek library archive.
 

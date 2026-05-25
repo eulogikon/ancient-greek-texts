@@ -2,7 +2,7 @@
 name: Cleobulus of Lindos II
 name_greek: Κλεόβουλος ὁ Λίνδιος
 eul_aid: asc
-canonical: "https://eulogikon.org/en/cleobulus-of-lindos-ii"
+canonical: "https://eulogikon.org/authors/cleobulus-of-lindos-asc"
 period: Archaic
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεόβουλος ὁ Λίνδιος*
 
-**eul_aid:** `asc` · [HTML page](https://eulogikon.org/en/cleobulus-of-lindos-ii)
+**eul_aid:** `asc` · [HTML page](https://eulogikon.org/authors/cleobulus-of-lindos-asc)
 
 Cleobulus of Lindos, a 6th century BCE Greek poet. Surviving poetic fragments in Doric dialect. Free to read and download from the Greek library archive.
 

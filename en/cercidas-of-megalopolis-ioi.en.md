@@ -2,7 +2,7 @@
 name: Cercidas of Megalopolis
 name_greek: Κερκίδας ὁ Μεγαλοπολίτης
 eul_aid: ioi
-canonical: "https://eulogikon.org/en/cercidas-of-megalopolis"
+canonical: "https://eulogikon.org/authors/cercidas-of-megalopolis-ioi"
 period: Hellenistic
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κερκίδας ὁ Μεγαλοπολίτης*
 
-**eul_aid:** `ioi` · [HTML page](https://eulogikon.org/en/cercidas-of-megalopolis)
+**eul_aid:** `ioi` · [HTML page](https://eulogikon.org/authors/cercidas-of-megalopolis-ioi)
 
 Cercidas, a 3rd century BCE poet and statesman from Megalopolis. Fragments of his Doric verse survive. Free to read and download from the Greek library archive.
 

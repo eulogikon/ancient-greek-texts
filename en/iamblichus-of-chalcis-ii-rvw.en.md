@@ -2,7 +2,7 @@
 name: Iamblichus of Chalcis II
 name_greek: Ἰάμβλιχος ὁ Χαλκιδεύς
 eul_aid: rvw
-canonical: "https://eulogikon.org/en/iamblichus-of-chalcis-ii"
+canonical: "https://eulogikon.org/authors/iamblichus-of-chalcis-rvw"
 period: Roman
 dialect: Mixed Dialects (frg)
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰάμβλιχος ὁ Χαλκιδεύς*
 
-**eul_aid:** `rvw` · [HTML page](https://eulogikon.org/en/iamblichus-of-chalcis-ii)
+**eul_aid:** `rvw` · [HTML page](https://eulogikon.org/authors/iamblichus-of-chalcis-rvw)
 
 Iamblichus, a 3rd-4th century CE Syrian Neoplatonist. Surviving works include his philosophical treatises. Free to download from the Greek library archive.
 

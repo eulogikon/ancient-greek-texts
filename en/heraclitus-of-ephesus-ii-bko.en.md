@@ -2,7 +2,7 @@
 name: Heraclitus of Ephesus II
 name_greek: Ἡράκλειτος ὁ Ἐφέσιος
 eul_aid: bko
-canonical: "https://eulogikon.org/en/heraclitus-of-ephesus-ii"
+canonical: "https://eulogikon.org/authors/heraclitus-1-bko"
 period: Archaic
 dialect: Koine
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡράκλειτος ὁ Ἐφέσιος*
 
-**eul_aid:** `bko` · [HTML page](https://eulogikon.org/en/heraclitus-of-ephesus-ii)
+**eul_aid:** `bko` · [HTML page](https://eulogikon.org/authors/heraclitus-1-bko)
 
 Heraclitus of Ephesus, the Obscure philosopher. Surviving fragments on cosmology, change, and logos. Free to read and download from the Greek library archive.
 

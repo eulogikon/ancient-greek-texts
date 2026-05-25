@@ -2,7 +2,7 @@
 name: Herodicus of Selymbria
 name_greek: Ἡρόδικος ὁ Σηλυμβριανός
 eul_aid: cai
-canonical: "https://eulogikon.org/en/herodicus-of-selymbria"
+canonical: "https://eulogikon.org/authors/herodicus-of-selymbria-cai"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρόδικος ὁ Σηλυμβριανός*
 
-**eul_aid:** `cai` · [HTML page](https://eulogikon.org/en/herodicus-of-selymbria)
+**eul_aid:** `cai` · [HTML page](https://eulogikon.org/authors/herodicus-of-selymbria-cai)
 
 Herodicus of Selymbria, a 5th century BCE grammarian writing in Ionic Greek. His surviving treatise. Free to read and download from the Greek library archive.
 

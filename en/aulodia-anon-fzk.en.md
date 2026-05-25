@@ -2,7 +2,7 @@
 name: Aulodia  Anonymous
 name_greek: Ἀνώνυμος ὁ Αὐλωδός
 eul_aid: fzk
-canonical: "https://eulogikon.org/en/aulodia-anon"
+canonical: "https://eulogikon.org/authors/aulodia-anon-fzk"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ὁ Αὐλωδός*
 
-**eul_aid:** `fzk` · [HTML page](https://eulogikon.org/en/aulodia-anon)
+**eul_aid:** `fzk` · [HTML page](https://eulogikon.org/authors/aulodia-anon-fzk)
 
 Aulodia Anonymous, an ancient Greek poet from the Hellenistic period. Works include epic fragments. Free to read and download from the Greek library archive.
 

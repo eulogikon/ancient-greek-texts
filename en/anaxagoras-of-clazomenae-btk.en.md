@@ -2,7 +2,7 @@
 name: Anaxagoras of Clazomenae
 name_greek: Ἀναξαγόρας ὁ Κλαζομένιος
 eul_aid: btk
-canonical: "https://eulogikon.org/en/anaxagoras-of-clazomenae"
+canonical: "https://eulogikon.org/authors/anaxagoras-of-clazomenae-btk"
 period: Classical
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξαγόρας ὁ Κλαζομένιος*
 
-**eul_aid:** `btk` · [HTML page](https://eulogikon.org/en/anaxagoras-of-clazomenae)
+**eul_aid:** `btk` · [HTML page](https://eulogikon.org/authors/anaxagoras-of-clazomenae-btk)
 
 Anaxagoras, a major Presocratic philosopher from Ionia. Surviving fragments on nature and mind. Free to read and download from the Greek library archive.
 

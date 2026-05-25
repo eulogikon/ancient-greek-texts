@@ -2,7 +2,7 @@
 name: Posidippus of Cassandreia the Comic Poet
 name_greek: Ποσείδιππος ὁ Κασσανδρεύς
 eul_aid: ios
-canonical: "https://eulogikon.org/en/posidippus-of-cassandreia"
+canonical: "https://eulogikon.org/authors/posidippus-of-cassandreia-ios"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποσείδιππος ὁ Κασσανδρεύς*
 
-**eul_aid:** `ios` · [HTML page](https://eulogikon.org/en/posidippus-of-cassandreia)
+**eul_aid:** `ios` · [HTML page](https://eulogikon.org/authors/posidippus-of-cassandreia-ios)
 
 Posidippus of Cassandreia, Hellenistic comic poet of the 3rd century BCE. Surviving works include fragments. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Simmias of Rhodes
 name_greek: Σιμμίας ὁ Ῥόδιος
 eul_aid: igq
-canonical: "https://eulogikon.org/en/simmias-of-rhodes"
+canonical: "https://eulogikon.org/authors/simmias-of-rhodes-igq"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σιμμίας ὁ Ῥόδιος*
 
-**eul_aid:** `igq` · [HTML page](https://eulogikon.org/en/simmias-of-rhodes)
+**eul_aid:** `igq` · [HTML page](https://eulogikon.org/authors/simmias-of-rhodes-igq)
 
 Simmias of Rhodes, an early Hellenistic poet. Works include grammatical treatises and poetic fragments. Free to download from the Greek library archive.
 

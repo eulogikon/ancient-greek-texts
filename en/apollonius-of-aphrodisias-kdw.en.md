@@ -2,7 +2,7 @@
 name: Apollonius of Aphrodisias
 name_greek: Ἀπολλώνιος ὁ Ἀφροδισιεύς
 eul_aid: kdw
-canonical: "https://eulogikon.org/en/apollonius-of-aphrodisias"
+canonical: "https://eulogikon.org/authors/apollonius-of-aphrodisias-kdw"
 period: Hellenistic
 dialect: Koine
 affiliation: Aristotelian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Ἀφροδισιεύς*
 
-**eul_aid:** `kdw` · [HTML page](https://eulogikon.org/en/apollonius-of-aphrodisias)
+**eul_aid:** `kdw` · [HTML page](https://eulogikon.org/authors/apollonius-of-aphrodisias-kdw)
 
 Apollonius of Aphrodisias was a Hellenistic historian. His surviving historical work is preserved. Free to read and download from the Greek library archive.
 

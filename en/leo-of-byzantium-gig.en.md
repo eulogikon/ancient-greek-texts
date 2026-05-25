@@ -2,7 +2,7 @@
 name: Leo of Byzantium
 name_greek: Λέων ὁ Βυζάντιος
 eul_aid: gig
-canonical: "https://eulogikon.org/en/leo-of-byzantium"
+canonical: "https://eulogikon.org/authors/leo-of-byzantium-gig"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λέων ὁ Βυζάντιος*
 
-**eul_aid:** `gig` · [HTML page](https://eulogikon.org/en/leo-of-byzantium)
+**eul_aid:** `gig` · [HTML page](https://eulogikon.org/authors/leo-of-byzantium-gig)
 
 Leo of Byzantium, a 4th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive.
 

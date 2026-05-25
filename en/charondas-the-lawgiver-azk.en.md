@@ -2,7 +2,7 @@
 name: Charondas the Lawgiver
 name_greek: Χαρώνδας
 eul_aid: azk
-canonical: "https://eulogikon.org/en/charondas-the-lawgiver"
+canonical: "https://eulogikon.org/authors/charondas-the-lawgiver-azk"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χαρώνδας*
 
-**eul_aid:** `azk` · [HTML page](https://eulogikon.org/en/charondas-the-lawgiver)
+**eul_aid:** `azk` · [HTML page](https://eulogikon.org/authors/charondas-the-lawgiver-azk)
 
 Charondas, an archaic lawgiver from the 6th century BCE. Surviving fragments of his legal treatise. Free to read and download from the Greek library archive.
 

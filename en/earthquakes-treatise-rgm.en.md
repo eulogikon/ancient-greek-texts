@@ -2,7 +2,7 @@
 name: Earthquakes Treatise
 name_greek: Περὶ σεισμῶν πραγματεία
 eul_aid: rgm
-canonical: "https://eulogikon.org/en/earthquakes-treatise"
+canonical: "https://eulogikon.org/authors/earthquakes-treatise-rgm"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ σεισμῶν πραγματεία*
 
-**eul_aid:** `rgm` · [HTML page](https://eulogikon.org/en/earthquakes-treatise)
+**eul_aid:** `rgm` · [HTML page](https://eulogikon.org/authors/earthquakes-treatise-rgm)
 
 Anonymous author of a Roman-era treatise on earthquakes. Explores natural phenomena in Koine Greek. Free to read and download from the Greek library archive.
 

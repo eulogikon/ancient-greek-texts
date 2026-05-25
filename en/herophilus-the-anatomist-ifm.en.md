@@ -2,7 +2,7 @@
 name: Herophilus the Anatomist
 name_greek: Ἡρόφιλος ὁ Χαλκηδόνιος
 eul_aid: ifm
-canonical: "https://eulogikon.org/en/herophilus-the-anatomist"
+canonical: "https://eulogikon.org/authors/herophilus-the-anatomist-ifm"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρόφιλος ὁ Χαλκηδόνιος*
 
-**eul_aid:** `ifm` · [HTML page](https://eulogikon.org/en/herophilus-the-anatomist)
+**eul_aid:** `ifm` · [HTML page](https://eulogikon.org/authors/herophilus-the-anatomist-ifm)
 
 Herophilus the Anatomist, Hellenistic physician and pioneer of human dissection. Surviving works and fragments. Free to download from the Greek archive.
 

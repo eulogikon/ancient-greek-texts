@@ -2,7 +2,7 @@
 name: Celsus the Platonist
 name_greek: Κέλσος ὁ Πλατωνικός
 eul_aid: quy
-canonical: "https://eulogikon.org/en/celsus-the-platonist"
+canonical: "https://eulogikon.org/authors/celsus-the-platonist-quy"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κέλσος ὁ Πλατωνικός*
 
-**eul_aid:** `quy` · [HTML page](https://eulogikon.org/en/celsus-the-platonist)
+**eul_aid:** `quy` · [HTML page](https://eulogikon.org/authors/celsus-the-platonist-quy)
 
 Celsus was a 2nd century Roman Platonist philosopher who wrote a major critique of early Christianity. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hermaeus of Paropamisadae
 name_greek: Ἑρμαῖος ὁ Σωτήρ
 eul_aid: mzi
-canonical: "https://eulogikon.org/en/hermaeus-paropamisadae"
+canonical: "https://eulogikon.org/authors/hermaeus-paropamisadae-mzi"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμαῖος ὁ Σωτήρ*
 
-**eul_aid:** `mzi` · [HTML page](https://eulogikon.org/en/hermaeus-paropamisadae)
+**eul_aid:** `mzi` · [HTML page](https://eulogikon.org/authors/hermaeus-paropamisadae-mzi)
 
 Hermaeus of Paropamisadae, a Hellenistic king of the 1st century BCE. Indo-Greek historical works. Free to read and download from the Greek library archive.
 

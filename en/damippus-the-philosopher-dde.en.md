@@ -2,7 +2,7 @@
 name: Damippus the Philosopher
 name_greek: Δάμιππος ὁ φιλόσοφος
 eul_aid: dde
-canonical: "https://eulogikon.org/en/damippus-the-philosopher"
+canonical: "https://eulogikon.org/authors/damippus-the-philosopher-dde"
 period: Classical
 dialect: "Attic (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δάμιππος ὁ φιλόσοφος*
 
-**eul_aid:** `dde` · [HTML page](https://eulogikon.org/en/damippus-the-philosopher)
+**eul_aid:** `dde` · [HTML page](https://eulogikon.org/authors/damippus-the-philosopher-dde)
 
 Damippus, a classical Greek philosopher of the 5th-4th century BCE. Surviving philosophical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aristocles of Messene
 name_greek: Ἀριστοκλῆς ὁ Μεσσήνιος
 eul_aid: lfo
-canonical: "https://eulogikon.org/en/aristocles-of-messene"
+canonical: "https://eulogikon.org/authors/aristocles-of-messene-lfo"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοκλῆς ὁ Μεσσήνιος*
 
-**eul_aid:** `lfo` · [HTML page](https://eulogikon.org/en/aristocles-of-messene)
+**eul_aid:** `lfo` · [HTML page](https://eulogikon.org/authors/aristocles-of-messene-lfo)
 
 Aristocles of Messene was a Hellenistic Peripatetic philosopher. Treatises in Attic Greek. Free to read and download from the Greek library archive.
 

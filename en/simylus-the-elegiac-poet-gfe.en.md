@@ -2,7 +2,7 @@
 name: Simylus the Elegiac Poet
 name_greek: Σιμύλος ὁ Ἐλεγειακός
 eul_aid: gfe
-canonical: "https://eulogikon.org/en/simylus-the-elegiac-poet"
+canonical: "https://eulogikon.org/authors/simylus-the-elegiac-poet-gfe"
 period: Classical
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σιμύλος ὁ Ἐλεγειακός*
 
-**eul_aid:** `gfe` · [HTML page](https://eulogikon.org/en/simylus-the-elegiac-poet)
+**eul_aid:** `gfe` · [HTML page](https://eulogikon.org/authors/simylus-the-elegiac-poet-gfe)
 
 Simylus was a classical Greek elegiac poet of the 4th century BCE. Two surviving works in the Homeric epic dialect. Free to download from the Greek archive.
 

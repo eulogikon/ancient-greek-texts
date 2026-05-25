@@ -2,7 +2,7 @@
 name: Hero of Alexandria
 name_greek: Ἥρων ὁ Ἀλεξανδρεύς
 eul_aid: odi
-canonical: "https://eulogikon.org/en/hero-of-alexandria"
+canonical: "https://eulogikon.org/authors/hero-of-alexandria-odi"
 period: Roman
 dialect: Technical Koine
 works_count: 16
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἥρων ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `odi` · [HTML page](https://eulogikon.org/en/hero-of-alexandria)
+**eul_aid:** `odi` · [HTML page](https://eulogikon.org/authors/hero-of-alexandria-odi)
 
 Hero of Alexandria, 1st century CE Roman engineer. Sixteen treatises on mechanics and pneumatics. Free to read and download from the Greek library archive.
 

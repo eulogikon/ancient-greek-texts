@@ -2,7 +2,7 @@
 name: Bato the Comic Poet
 name_greek: Βάτων ὁ κωμικός
 eul_aid: ivg
-canonical: "https://eulogikon.org/en/bato-the-comic-poet"
+canonical: "https://eulogikon.org/authors/bato-the-comic-poet-ivg"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βάτων ὁ κωμικός*
 
-**eul_aid:** `ivg` · [HTML page](https://eulogikon.org/en/bato-the-comic-poet)
+**eul_aid:** `ivg` · [HTML page](https://eulogikon.org/authors/bato-the-comic-poet-ivg)
 
 Bato was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

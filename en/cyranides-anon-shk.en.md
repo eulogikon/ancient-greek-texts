@@ -2,7 +2,7 @@
 name: Cyranides  Anonymous
 name_greek: Ἀνώνυμος Κυρανίδες
 eul_aid: shk
-canonical: "https://eulogikon.org/en/cyranides-anon"
+canonical: "https://eulogikon.org/authors/cyranides-anon-shk"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Κυρανίδες*
 
-**eul_aid:** `shk` · [HTML page](https://eulogikon.org/en/cyranides-anon)
+**eul_aid:** `shk` · [HTML page](https://eulogikon.org/authors/cyranides-anon-shk)
 
 Cyranides Anonymous, author of a late antique Greek treatise on magical and medicinal properties. Free to read and download from the Greek library archive.
 

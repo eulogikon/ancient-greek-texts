@@ -2,7 +2,7 @@
 name: Moschion the Tragic Poet
 name_greek: Μοσχίων ὁ Τραγικός
 eul_aid: jme
-canonical: "https://eulogikon.org/en/moschion-the-tragic-poet"
+canonical: "https://eulogikon.org/authors/moschion-the-tragic-poet-jme"
 period: Hellenistic
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μοσχίων ὁ Τραγικός*
 
-**eul_aid:** `jme` · [HTML page](https://eulogikon.org/en/moschion-the-tragic-poet)
+**eul_aid:** `jme` · [HTML page](https://eulogikon.org/authors/moschion-the-tragic-poet-jme)
 
 Moschion was a Hellenistic tragic poet of the 2nd century CE. Surviving fragments of his drama. Free to read and download from the Greek library archive.
 

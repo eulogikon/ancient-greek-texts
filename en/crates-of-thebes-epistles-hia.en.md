@@ -2,7 +2,7 @@
 name: Crates of Thebes II
 name_greek: Κράτης ὁ Θηβαῖος (Ἐπιστολαί)
 eul_aid: hia
-canonical: "https://eulogikon.org/en/crates-of-thebes-epistles"
+canonical: "https://eulogikon.org/authors/crates-of-thebes-hia"
 period: Classical
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράτης ὁ Θηβαῖος (Ἐπιστολαί)*
 
-**eul_aid:** `hia` · [HTML page](https://eulogikon.org/en/crates-of-thebes-epistles)
+**eul_aid:** `hia` · [HTML page](https://eulogikon.org/authors/crates-of-thebes-hia)
 
 Crates of Thebes was a 4th century BCE Cynic philosopher. Read his surviving treatises on ethics. Free to read and download from the Greek library archive.
 

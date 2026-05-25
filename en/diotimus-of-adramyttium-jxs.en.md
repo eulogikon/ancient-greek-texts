@@ -2,7 +2,7 @@
 name: Diotimus of Adramyttium
 name_greek: Διότιμος ὁ Ἀδραμυττηνός
 eul_aid: jxs
-canonical: "https://eulogikon.org/en/diotimus-of-adramyttium"
+canonical: "https://eulogikon.org/authors/diotimus-of-adramyttium-jxs"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διότιμος ὁ Ἀδραμυττηνός*
 
-**eul_aid:** `jxs` · [HTML page](https://eulogikon.org/en/diotimus-of-adramyttium)
+**eul_aid:** `jxs` · [HTML page](https://eulogikon.org/authors/diotimus-of-adramyttium-jxs)
 
 Diotimus of Adramyttium, Hellenistic epic poet of the 3rd century BCE. Homeric verse fragments. Free to read and download from the Greek library archive.
 

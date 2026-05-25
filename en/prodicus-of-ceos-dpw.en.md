@@ -2,7 +2,7 @@
 name: Prodicus of Ceos
 name_greek: Πρόδικος ὁ Κεῖος
 eul_aid: dpw
-canonical: "https://eulogikon.org/en/prodicus-of-ceos"
+canonical: "https://eulogikon.org/authors/prodicus-of-ceos-dpw"
 period: Classical
 dialect: "Attic (phi, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρόδικος ὁ Κεῖος*
 
-**eul_aid:** `dpw` · [HTML page](https://eulogikon.org/en/prodicus-of-ceos)
+**eul_aid:** `dpw` · [HTML page](https://eulogikon.org/authors/prodicus-of-ceos-dpw)
 
 Prodicus of Ceos, a 5th century BCE Sophist. Fragments of his philosophical and rhetorical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hesychius the Alexandrian
 name_greek: Ἡσύχιος ὁ Ἀλεξανδρεύς
 eul_aid: taq
-canonical: "https://eulogikon.org/en/hesychius-of-alexandria"
+canonical: "https://eulogikon.org/authors/hesychius-the-alexandrian-taq"
 period: Late Antique
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡσύχιος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `taq` · [HTML page](https://eulogikon.org/en/hesychius-of-alexandria)
+**eul_aid:** `taq` · [HTML page](https://eulogikon.org/authors/hesychius-the-alexandrian-taq)
 
 Hesychius the Alexandrian was a 5th-6th century CE grammarian. His monumental Greek lexicon survives. Free to read and download from the Greek library archive.
 

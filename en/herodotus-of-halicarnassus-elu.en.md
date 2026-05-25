@@ -2,7 +2,7 @@
 name: Herodotus of Halicarnassus
 name_greek: Ἡρόδοτος ὁ Ἁλικαρνασσεύς
 eul_aid: elu
-canonical: "https://eulogikon.org/en/herodotus-of-halicarnassus"
+canonical: "https://eulogikon.org/authors/herodotus-of-halicarnassus-elu"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρόδοτος ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `elu` · [HTML page](https://eulogikon.org/en/herodotus-of-halicarnassus)
+**eul_aid:** `elu` · [HTML page](https://eulogikon.org/authors/herodotus-of-halicarnassus-elu)
 
 Herodotus, 5th century BCE historian known as the Father of History. Surviving works include The Histories. Free to read and download from the Greek archive.
 

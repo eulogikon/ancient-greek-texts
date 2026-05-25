@@ -2,7 +2,7 @@
 name: Ariston of Ceos
 name_greek: Ἀρίστων ὁ Κεῖος
 eul_aid: kpa
-canonical: "https://eulogikon.org/en/ariston-of-ceos"
+canonical: "https://eulogikon.org/authors/ariston-of-ceos-kpa"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίστων ὁ Κεῖος*
 
-**eul_aid:** `kpa` · [HTML page](https://eulogikon.org/en/ariston-of-ceos)
+**eul_aid:** `kpa` · [HTML page](https://eulogikon.org/authors/ariston-of-ceos-kpa)
 
 Ariston of Ceos, 3rd century BCE Peripatetic philosopher. His surviving treatises are fragmentary. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Diotogenes the Philosopher
 name_greek: Διοτογένης ὁ φιλόσοφος
 eul_aid: ejm
-canonical: "https://eulogikon.org/en/diotogenes-the-philosopher"
+canonical: "https://eulogikon.org/authors/diotogenes-the-philosopher-ejm"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διοτογένης ὁ φιλόσοφος*
 
-**eul_aid:** `ejm` · [HTML page](https://eulogikon.org/en/diotogenes-the-philosopher)
+**eul_aid:** `ejm` · [HTML page](https://eulogikon.org/authors/diotogenes-the-philosopher-ejm)
 
 Diotogenes, a Pythagorean philosopher of uncertain date. Surviving treatise On Kingship. Free to read and download from the Greek library archive.
 

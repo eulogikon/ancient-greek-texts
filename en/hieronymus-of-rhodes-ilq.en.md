@@ -2,7 +2,7 @@
 name: Hieronymus of Rhodes
 name_greek: Ἱερώνυμος ὁ Ῥόδιος
 eul_aid: ilq
-canonical: "https://eulogikon.org/en/hieronymus-of-rhodes"
+canonical: "https://eulogikon.org/authors/hieronymus-of-rhodes-ilq"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱερώνυμος ὁ Ῥόδιος*
 
-**eul_aid:** `ilq` · [HTML page](https://eulogikon.org/en/hieronymus-of-rhodes)
+**eul_aid:** `ilq` · [HTML page](https://eulogikon.org/authors/hieronymus-of-rhodes-ilq)
 
 Hieronymus of Rhodes, 3rd century BCE Peripatetic philosopher. Aristotelian tradition treatises. Free to read and download from the Greek library archive.
 

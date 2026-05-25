@@ -2,7 +2,7 @@
 name: Diotimus of Tyre
 name_greek: Διότιμος ὁ Τύριος
 eul_aid: dmu
-canonical: "https://eulogikon.org/en/diotimus-of-tyre"
+canonical: "https://eulogikon.org/authors/diotimus-of-tyre-dmu"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διότιμος ὁ Τύριος*
 
-**eul_aid:** `dmu` · [HTML page](https://eulogikon.org/en/diotimus-of-tyre)
+**eul_aid:** `dmu` · [HTML page](https://eulogikon.org/authors/diotimus-of-tyre-dmu)
 
 Diotimus of Tyre was a 4th century BCE Stoic philosopher. Fragments of his works are preserved. Free to read and download from the Greek library archive.
 

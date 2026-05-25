@@ -2,7 +2,7 @@
 name: Dionysius of Rhodes the Historian
 name_greek: Διονύσιος ὁ Ῥόδιος
 eul_aid: mki
-canonical: "https://eulogikon.org/en/dionysius-of-rhodes"
+canonical: "https://eulogikon.org/authors/dionysius-of-rhodes-mki"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Ῥόδιος*
 
-**eul_aid:** `mki` · [HTML page](https://eulogikon.org/en/dionysius-of-rhodes)
+**eul_aid:** `mki` · [HTML page](https://eulogikon.org/authors/dionysius-of-rhodes-mki)
 
 Dionysius of Rhodes, a Hellenistic historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

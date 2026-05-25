@@ -2,7 +2,7 @@
 name: Hecataeus of Abdera
 name_greek: Ἑκαταῖος ὁ Ἀβδηρίτης
 eul_aid: hoe
-canonical: "https://eulogikon.org/en/hecataeus-of-abdera"
+canonical: "https://eulogikon.org/authors/hecataeus-of-abdera-hoe"
 period: Hellenistic
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑκαταῖος ὁ Ἀβδηρίτης*
 
-**eul_aid:** `hoe` · [HTML page](https://eulogikon.org/en/hecataeus-of-abdera)
+**eul_aid:** `hoe` · [HTML page](https://eulogikon.org/authors/hecataeus-of-abdera-hoe)
 
 Hecataeus of Abdera was a Hellenistic historian and ethnographer. Works include historical fragments. Free to read and download from the Greek library archive.
 

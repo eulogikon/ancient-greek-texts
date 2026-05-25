@@ -2,7 +2,7 @@
 name: Panyassis of Halicarnassus
 name_greek: Πανύασις ὁ Ἁλικαρνασσεύς
 eul_aid: bok
-canonical: "https://eulogikon.org/en/panyassis-of-halicarnassus"
+canonical: "https://eulogikon.org/authors/panyassis-of-halicarnassus-bok"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πανύασις ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `bok` · [HTML page](https://eulogikon.org/en/panyassis-of-halicarnassus)
+**eul_aid:** `bok` · [HTML page](https://eulogikon.org/authors/panyassis-of-halicarnassus-bok)
 
 Panyassis of Halicarnassus, 5th century BCE epic poet. Surviving fragments of his epic works. Free to read and download from the Greek library archive.
 

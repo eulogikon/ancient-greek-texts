@@ -2,7 +2,7 @@
 name: Amometus the Historian
 name_greek: Ἀμωμητὸς ὁ ἱστορικός
 eul_aid: cnk
-canonical: "https://eulogikon.org/en/amometus-the-historian"
+canonical: "https://eulogikon.org/authors/amometus-the-historian-cnk"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμωμητὸς ὁ ἱστορικός*
 
-**eul_aid:** `cnk` · [HTML page](https://eulogikon.org/en/amometus-the-historian)
+**eul_aid:** `cnk` · [HTML page](https://eulogikon.org/authors/amometus-the-historian-cnk)
 
 Amometus the Historian, a 4th–3rd century BCE Greek historian. Surviving works include historical fragments. Free to download from the Greek library archive.
 

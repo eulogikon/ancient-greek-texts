@@ -2,7 +2,7 @@
 name: Mesomedes of Crete
 name_greek: Μεσομήδης ὁ Κρής
 eul_aid: pfu
-canonical: "https://eulogikon.org/en/mesomedes-of-crete"
+canonical: "https://eulogikon.org/authors/mesomedes-of-crete-pfu"
 period: Roman
 dialect: Literary Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μεσομήδης ὁ Κρής*
 
-**eul_aid:** `pfu` · [HTML page](https://eulogikon.org/en/mesomedes-of-crete)
+**eul_aid:** `pfu` · [HTML page](https://eulogikon.org/authors/mesomedes-of-crete-pfu)
 
 Mesomedes of Crete was a 2nd century CE Greek poet. Two surviving poetic works are preserved. Free to read and download from the Greek library archive.
 

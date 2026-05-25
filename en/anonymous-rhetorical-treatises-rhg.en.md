@@ -2,7 +2,7 @@
 name: Rhetorical Treatise Anonymous
 name_greek: Ἀνώνυμος ῥητορικὸς λόγος
 eul_aid: rhg
-canonical: "https://eulogikon.org/en/anonymous-rhetorical-treatises"
+canonical: "https://eulogikon.org/authors/rhetorical-treatise-anon-rhg"
 period: Roman
 dialect: Technical Koine
 works_count: 22
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ῥητορικὸς λόγος*
 
-**eul_aid:** `rhg` · [HTML page](https://eulogikon.org/en/anonymous-rhetorical-treatises)
+**eul_aid:** `rhg` · [HTML page](https://eulogikon.org/authors/rhetorical-treatise-anon-rhg)
 
 Anonymous rhetorical treatise from the Roman era. Twenty two works on oratory and technical Koine. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Heraclitus of Ephesus
 name_greek: Ἡράκλειτος ὁ Ἐφέσιος
 eul_aid: bky
-canonical: "https://eulogikon.org/en/heraclitus-of-ephesus"
+canonical: "https://eulogikon.org/authors/heraclitus-2-bky"
 period: Archaic
 dialect: Mixed Dialects (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡράκλειτος ὁ Ἐφέσιος*
 
-**eul_aid:** `bky` · [HTML page](https://eulogikon.org/en/heraclitus-of-ephesus)
+**eul_aid:** `bky` · [HTML page](https://eulogikon.org/authors/heraclitus-2-bky)
 
 Heraclitus, presocratic philosopher of the 6th century BCE. Surviving fragments on nature and logos. Free to read and download from the Greek library archive.
 

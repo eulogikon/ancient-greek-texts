@@ -2,7 +2,7 @@
 name: Nicander of Thyatira
 name_greek: Νίκανδρος ὁ Θυατιρεύς
 eul_aid: kzu
-canonical: "https://eulogikon.org/en/nicander-of-thyatira"
+canonical: "https://eulogikon.org/authors/nicander-of-thyatira-kzu"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νίκανδρος ὁ Θυατιρεύς*
 
-**eul_aid:** `kzu` · [HTML page](https://eulogikon.org/en/nicander-of-thyatira)
+**eul_aid:** `kzu` · [HTML page](https://eulogikon.org/authors/nicander-of-thyatira-kzu)
 
 Nicander of Thyatira was a Hellenistic grammarian from Lydia. His surviving grammatical treatise is preserved. Free to download from the Greek library archive.
 

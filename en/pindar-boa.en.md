@@ -2,7 +2,7 @@
 name: Pindar
 name_greek: Πίνδαρος
 eul_aid: boa
-canonical: "https://eulogikon.org/en/pindar"
+canonical: "https://eulogikon.org/authors/pindar-boa"
 period: Archaic
 dialect: Literary Doric
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πίνδαρος*
 
-**eul_aid:** `boa` · [HTML page](https://eulogikon.org/en/pindar)
+**eul_aid:** `boa` · [HTML page](https://eulogikon.org/authors/pindar-boa)
 
 Pindar, Archaic Greek lyric poet composing victory odes. Surviving works include epinician odes. Free to read and download from the Greek library archive.
 

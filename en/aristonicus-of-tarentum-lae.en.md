@@ -2,7 +2,7 @@
 name: Aristonicus of Tarentum
 name_greek: Ἀριστόνικος ὁ Ταραντῖνος
 eul_aid: lae
-canonical: "https://eulogikon.org/en/aristonicus-of-tarentum"
+canonical: "https://eulogikon.org/authors/aristonicus-of-tarentum-lae"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόνικος ὁ Ταραντῖνος*
 
-**eul_aid:** `lae` · [HTML page](https://eulogikon.org/en/aristonicus-of-tarentum)
+**eul_aid:** `lae` · [HTML page](https://eulogikon.org/authors/aristonicus-of-tarentum-lae)
 
 Aristonicus of Tarentum, a Hellenistic historian. Surviving historical works in Koine Greek prose. Free to read and download from the Greek library archive.
 

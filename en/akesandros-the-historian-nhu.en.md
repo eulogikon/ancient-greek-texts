@@ -2,7 +2,7 @@
 name: Akesandros the Historian
 name_greek: Ἀκέσανδρος ὁ ἱστορικός
 eul_aid: nhu
-canonical: "https://eulogikon.org/en/akesandros-the-historian"
+canonical: "https://eulogikon.org/authors/akesandros-the-historian-nhu"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀκέσανδρος ὁ ἱστορικός*
 
-**eul_aid:** `nhu` · [HTML page](https://eulogikon.org/en/akesandros-the-historian)
+**eul_aid:** `nhu` · [HTML page](https://eulogikon.org/authors/akesandros-the-historian-nhu)
 
 Akesandros the Historian, a Hellenistic writer of the 1st century BCE. Two surviving historical works. Free to read and download from the Greek library archive.
 

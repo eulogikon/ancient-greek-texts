@@ -2,7 +2,7 @@
 name: Aeneas of Gaza
 name_greek: Αἰνείας ὁ Γαζαῖος
 eul_aid: tfg
-canonical: "https://eulogikon.org/en/aeneas-of-gaza"
+canonical: "https://eulogikon.org/authors/aeneas-of-gaza-tfg"
 period: Late Antique
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰνείας ὁ Γαζαῖος*
 
-**eul_aid:** `tfg` · [HTML page](https://eulogikon.org/en/aeneas-of-gaza)
+**eul_aid:** `tfg` · [HTML page](https://eulogikon.org/authors/aeneas-of-gaza-tfg)
 
 Aeneas of Gaza, a Christian philosopher and teacher. His surviving works include philosophical orations. Free to download from the Greek library archive.
 

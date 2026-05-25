@@ -2,7 +2,7 @@
 name: Comic Fragments Anonymous II
 name_greek: Κωμικὰ ἀποσπάσματα
 eul_aid: kfu
-canonical: "https://eulogikon.org/en/comic-fragments-anonymous-ii"
+canonical: "https://eulogikon.org/authors/comic-fragments-anon-kfu"
 period: Hellenistic
 dialect: Mixed Dialects
 works_count: 9
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κωμικὰ ἀποσπάσματα*
 
-**eul_aid:** `kfu` · [HTML page](https://eulogikon.org/en/comic-fragments-anonymous-ii)
+**eul_aid:** `kfu` · [HTML page](https://eulogikon.org/authors/comic-fragments-anon-kfu)
 
 Comic Fragments Anonymous II collects unattributed excerpts from Greek comedies. Nine fragments. Free to read and download from the Greek library archive.
 

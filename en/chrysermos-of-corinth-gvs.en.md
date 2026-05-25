@@ -2,7 +2,7 @@
 name: Chrysermos of Corinth
 name_greek: Χρύσημος ὁ Κορίνθιος
 eul_aid: gvs
-canonical: "https://eulogikon.org/en/chrysermos-of-corinth"
+canonical: "https://eulogikon.org/authors/chrysermos-of-corinth-gvs"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χρύσημος ὁ Κορίνθιος*
 
-**eul_aid:** `gvs` · [HTML page](https://eulogikon.org/en/chrysermos-of-corinth)
+**eul_aid:** `gvs` · [HTML page](https://eulogikon.org/authors/chrysermos-of-corinth-gvs)
 
 Chrysermos of Corinth was a 4th century BCE historian. Surviving fragments of his historical work. Free to read and download from the Greek library archive.
 

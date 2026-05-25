@@ -2,7 +2,7 @@
 name: Theodosius of Alexandria
 name_greek: Θεοδόσιος ὁ Ἀλεξανδρεύς
 eul_aid: vdq
-canonical: "https://eulogikon.org/en/theodosius-of-alexandria"
+canonical: "https://eulogikon.org/authors/theodosius-of-alexandria-vdq"
 period: Late Antique
 dialect: Technical Koine
 works_count: 8
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεοδόσιος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `vdq` · [HTML page](https://eulogikon.org/en/theodosius-of-alexandria)
+**eul_aid:** `vdq` · [HTML page](https://eulogikon.org/authors/theodosius-of-alexandria-vdq)
 
 Theodosius of Alexandria was a late antique grammarian. He wrote eight grammatical treatises. Free to read and download from the Greek library archive.
 

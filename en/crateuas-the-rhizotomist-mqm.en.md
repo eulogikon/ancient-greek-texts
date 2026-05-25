@@ -2,7 +2,7 @@
 name: Crateuas the Rhizotomist
 name_greek: Κρατεύας ὁ ῥιζοτόμος
 eul_aid: mqm
-canonical: "https://eulogikon.org/en/crateuas-the-rhizotomist"
+canonical: "https://eulogikon.org/authors/crateuas-the-rhizotomist-mqm"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρατεύας ὁ ῥιζοτόμος*
 
-**eul_aid:** `mqm` · [HTML page](https://eulogikon.org/en/crateuas-the-rhizotomist)
+**eul_aid:** `mqm` · [HTML page](https://eulogikon.org/authors/crateuas-the-rhizotomist-mqm)
 
 Crateuas, a Hellenistic physician and pharmacologist of medicinal roots. Surviving fragments of his work. Free to download from the Greek library archive.
 

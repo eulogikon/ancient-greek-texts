@@ -2,7 +2,7 @@
 name: Xenophilus the Pythagorean
 name_greek: Ξενόφιλος ὁ Πυθαγόρειος
 eul_aid: fwi
-canonical: "https://eulogikon.org/en/xenophilus-the-pythagorean"
+canonical: "https://eulogikon.org/authors/xenophilus-the-pythagorean-fwi"
 period: Classical
 dialect: "Attic (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενόφιλος ὁ Πυθαγόρειος*
 
-**eul_aid:** `fwi` · [HTML page](https://eulogikon.org/en/xenophilus-the-pythagorean)
+**eul_aid:** `fwi` · [HTML page](https://eulogikon.org/authors/xenophilus-the-pythagorean-fwi)
 
 Xenophilus, a Pythagorean philosopher and musician of the 4th century BCE. Fragments on music survive. Free to read and download from the Greek library archive.
 

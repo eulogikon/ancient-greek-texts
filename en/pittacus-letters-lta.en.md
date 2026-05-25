@@ -2,7 +2,7 @@
 name: Pittacus Letters
 name_greek: Πιττάκου Ἐπιστολή
 eul_aid: lta
-canonical: "https://eulogikon.org/en/pittacus-letters"
+canonical: "https://eulogikon.org/authors/pittacus-letters-lta"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πιττάκου Ἐπιστολή*
 
-**eul_aid:** `lta` · [HTML page](https://eulogikon.org/en/pittacus-letters)
+**eul_aid:** `lta` · [HTML page](https://eulogikon.org/authors/pittacus-letters-lta)
 
 Pittacus Letters, Hellenistic epistolary texts from the 3rd century BCE to 3rd century CE. Free to read and download from the Greek library archive.
 

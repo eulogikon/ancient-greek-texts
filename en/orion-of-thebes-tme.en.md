@@ -2,7 +2,7 @@
 name: Orion of Thebes
 name_greek: Ὤριον ὁ Θηβαῖος
 eul_aid: tme
-canonical: "https://eulogikon.org/en/orion-of-thebes"
+canonical: "https://eulogikon.org/authors/orion-of-thebes-tme"
 period: Late Antique
 dialect: Technical Koine
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὤριον ὁ Θηβαῖος*
 
-**eul_aid:** `tme` · [HTML page](https://eulogikon.org/en/orion-of-thebes)
+**eul_aid:** `tme` · [HTML page](https://eulogikon.org/authors/orion-of-thebes-tme)
 
 Orion of Thebes was a 5th century CE grammarian from Egypt. His works include technical language texts. Free to download from the Greek library archive.
 

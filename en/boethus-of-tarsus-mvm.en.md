@@ -2,7 +2,7 @@
 name: Boethus of Tarsus
 name_greek: Βοήθους ὁ Ταρσεύς
 eul_aid: mvm
-canonical: "https://eulogikon.org/en/boethus-of-tarsus"
+canonical: "https://eulogikon.org/authors/boethus-of-tarsus-mvm"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βοήθους ὁ Ταρσεύς*
 
-**eul_aid:** `mvm` · [HTML page](https://eulogikon.org/en/boethus-of-tarsus)
+**eul_aid:** `mvm` · [HTML page](https://eulogikon.org/authors/boethus-of-tarsus-mvm)
 
 Boethus of Tarsus, a 1st century BCE Hellenistic poet. His surviving verse is preserved in Greek tradition. Free to read and download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Hermocles of Cyzicus
 name_greek: Ἑρμόκλης ὁ Κυζικηνός
 eul_aid: hzs
-canonical: "https://eulogikon.org/en/hermocles-of-cyzicus"
+canonical: "https://eulogikon.org/authors/hermocles-of-cyzicus-hzs"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμόκλης ὁ Κυζικηνός*
 
-**eul_aid:** `hzs` · [HTML page](https://eulogikon.org/en/hermocles-of-cyzicus)
+**eul_aid:** `hzs` · [HTML page](https://eulogikon.org/authors/hermocles-of-cyzicus-hzs)
 
 Hermocles of Cyzicus was a Hellenistic poet of the 5th century BCE. His surviving verse is preserved in fragments. Free to download from the Greek archive.
 

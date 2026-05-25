@@ -2,7 +2,7 @@
 name: Hermonax the Epic Poet
 name_greek: Ἑρμῶναξ ὁ Ἐποποιός
 eul_aid: cee
-canonical: "https://eulogikon.org/en/hermonax-the-epic-poet"
+canonical: "https://eulogikon.org/authors/hermonax-the-epic-poet-cee"
 period: Classical
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμῶναξ ὁ Ἐποποιός*
 
-**eul_aid:** `cee` · [HTML page](https://eulogikon.org/en/hermonax-the-epic-poet)
+**eul_aid:** `cee` · [HTML page](https://eulogikon.org/authors/hermonax-the-epic-poet-cee)
 
 Hermonax was a 4th century BCE epic poet in the Homeric tradition. His surviving fragments are here. Free to read and download from the Greek library archive.
 

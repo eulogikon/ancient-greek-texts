@@ -2,7 +2,7 @@
 name: Lucian of Samosata
 name_greek: Λουκιανὸς ὁ Σαμοσατεύς
 eul_aid: pfk
-canonical: "https://eulogikon.org/en/lucian-of-samosata"
+canonical: "https://eulogikon.org/authors/lucian-of-samosata-pfk"
 period: Roman
 dialect: Atticizing
 works_count: 71
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λουκιανὸς ὁ Σαμοσατεύς*
 
-**eul_aid:** `pfk` · [HTML page](https://eulogikon.org/en/lucian-of-samosata)
+**eul_aid:** `pfk` · [HTML page](https://eulogikon.org/authors/lucian-of-samosata-pfk)
 
 Lucian of Samosata, 2nd century CE Roman era satirist. Surviving works include numerous orations. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Petronius Arbiter
 name_greek: Πέτρωνας Ἀρβίτης
 eul_aid: nqg
-canonical: "https://eulogikon.org/en/petronius-arbiter"
+canonical: "https://eulogikon.org/authors/petronius-arbiter-nqg"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πέτρωνας Ἀρβίτης*
 
-**eul_aid:** `nqg` · [HTML page](https://eulogikon.org/en/petronius-arbiter)
+**eul_aid:** `nqg` · [HTML page](https://eulogikon.org/authors/petronius-arbiter-nqg)
 
 Petronius Arbiter, Roman author of the 1st century CE. Works and fragments in the original Greek. Free to read and download from the Greek library archive.
 

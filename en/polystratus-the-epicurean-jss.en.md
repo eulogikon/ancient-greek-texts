@@ -2,7 +2,7 @@
 name: Polystratus the Epicurean
 name_greek: Πολύστρατος ὁ Ἐπικούρειος
 eul_aid: jss
-canonical: "https://eulogikon.org/en/polystratus-the-epicurean"
+canonical: "https://eulogikon.org/authors/polystratus-the-epicurean-jss"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύστρατος ὁ Ἐπικούρειος*
 
-**eul_aid:** `jss` · [HTML page](https://eulogikon.org/en/polystratus-the-epicurean)
+**eul_aid:** `jss` · [HTML page](https://eulogikon.org/authors/polystratus-the-epicurean-jss)
 
 Polystratus, third Epicurean scholarch in 3rd century BCE Athens. Surviving philosophical treatises. Free to read and download from the Greek library archive.
 

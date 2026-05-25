@@ -2,7 +2,7 @@
 name: Hermias of Cyrene
 name_greek: Ἑρμείας ὁ Κυρηναῖος
 eul_aid: jva
-canonical: "https://eulogikon.org/en/hermias-of-cyrene"
+canonical: "https://eulogikon.org/authors/hermias-of-cyrene-jva"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμείας ὁ Κυρηναῖος*
 
-**eul_aid:** `jva` · [HTML page](https://eulogikon.org/en/hermias-of-cyrene)
+**eul_aid:** `jva` · [HTML page](https://eulogikon.org/authors/hermias-of-cyrene-jva)
 
 Hermias of Cyrene, a Hellenistic poet of the 3rd century BCE. Surviving fragments of his verse. Free to read and download from the Greek library archive.
 

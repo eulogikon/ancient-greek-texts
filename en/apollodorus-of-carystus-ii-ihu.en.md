@@ -2,7 +2,7 @@
 name: Apollodorus of Carystus II
 name_greek: Ἀπολλόδωρος ὁ Καρύστιος
 eul_aid: ihu
-canonical: "https://eulogikon.org/en/apollodorus-of-carystus-ii"
+canonical: "https://eulogikon.org/authors/apollodorus-of-carystus-ihu"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλόδωρος ὁ Καρύστιος*
 
-**eul_aid:** `ihu` · [HTML page](https://eulogikon.org/en/apollodorus-of-carystus-ii)
+**eul_aid:** `ihu` · [HTML page](https://eulogikon.org/authors/apollodorus-of-carystus-ihu)
 
 Apollodorus of Carystus, Hellenistic comic poet of the 3rd century BCE. Surviving fragmentary works. Free to read and download from the Greek library archive.
 

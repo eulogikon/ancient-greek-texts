@@ -2,7 +2,7 @@
 name: Rufus of Perinthus
 name_greek: Ῥοῦφος ὁ Περίνθιος
 eul_aid: pws
-canonical: "https://eulogikon.org/en/rufus-of-perinthus"
+canonical: "https://eulogikon.org/authors/rufus-of-perinthus-pws"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ῥοῦφος ὁ Περίνθιος*
 
-**eul_aid:** `pws` · [HTML page](https://eulogikon.org/en/rufus-of-perinthus)
+**eul_aid:** `pws` · [HTML page](https://eulogikon.org/authors/rufus-of-perinthus-pws)
 
 Rufus of Perinthus, a 2nd century CE Roman orator in Koine Greek. One surviving oration is preserved. Free to read and download from the Greek library archive.
 

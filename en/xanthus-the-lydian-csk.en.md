@@ -2,7 +2,7 @@
 name: Xanthus the Lydian Historian
 name_greek: Ξάνθος ὁ Λυδός
 eul_aid: csk
-canonical: "https://eulogikon.org/en/xanthus-the-lydian"
+canonical: "https://eulogikon.org/authors/xanthus-the-lydian-historian-csk"
 period: Classical
 dialect: Ionic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξάνθος ὁ Λυδός*
 
-**eul_aid:** `csk` · [HTML page](https://eulogikon.org/en/xanthus-the-lydian)
+**eul_aid:** `csk` · [HTML page](https://eulogikon.org/authors/xanthus-the-lydian-historian-csk)
 
 Xanthus the Lydian, a 5th century BCE historian. Surviving historical works on Lydia and its history. Free to read and download from the Greek library archive.
 

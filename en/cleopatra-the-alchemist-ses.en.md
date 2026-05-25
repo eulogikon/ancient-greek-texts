@@ -2,7 +2,7 @@
 name: Cleopatra the Alchemist
 name_greek: ἡ Κλεοπάτρα ἡ Χημικός
 eul_aid: ses
-canonical: "https://eulogikon.org/en/cleopatra-the-alchemist"
+canonical: "https://eulogikon.org/authors/cleopatra-the-alchemist-ses"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *ἡ Κλεοπάτρα ἡ Χημικός*
 
-**eul_aid:** `ses` · [HTML page](https://eulogikon.org/en/cleopatra-the-alchemist)
+**eul_aid:** `ses` · [HTML page](https://eulogikon.org/authors/cleopatra-the-alchemist-ses)
 
 Cleopatra the Alchemist, a late antique figure in technical Koine. Treatise on ancient science and alchemy. Free to read and download from the Greek archive.
 

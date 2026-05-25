@@ -2,7 +2,7 @@
 name: Archytas of Amphissa
 name_greek: Ἀρχύτας ὁ Ἀμφισσεύς
 eul_aid: kaa
-canonical: "https://eulogikon.org/en/archytas-of-amphissa"
+canonical: "https://eulogikon.org/authors/archytas-of-amphissa-kaa"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχύτας ὁ Ἀμφισσεύς*
 
-**eul_aid:** `kaa` · [HTML page](https://eulogikon.org/en/archytas-of-amphissa)
+**eul_aid:** `kaa` · [HTML page](https://eulogikon.org/authors/archytas-of-amphissa-kaa)
 
 Archytas of Amphissa, a Hellenistic poet of Homeric verse. Surviving works include his epic poetry. Free to read and download from the Greek library archive.
 

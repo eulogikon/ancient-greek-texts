@@ -2,7 +2,7 @@
 name: Thucydides
 name_greek: Θουκυδίδης
 eul_aid: dny
-canonical: "https://eulogikon.org/en/thucydides"
+canonical: "https://eulogikon.org/authors/thucydides-dny"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θουκυδίδης*
 
-**eul_aid:** `dny` · [HTML page](https://eulogikon.org/en/thucydides)
+**eul_aid:** `dny` · [HTML page](https://eulogikon.org/authors/thucydides-dny)
 
 Thucydides, 5th century BCE Athenian historian of the Peloponnesian War. Surviving work is History. Free to read and download from the Greek library archive.
 

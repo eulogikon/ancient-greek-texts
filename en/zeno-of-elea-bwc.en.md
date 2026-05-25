@@ -2,7 +2,7 @@
 name: Zeno of Elea
 name_greek: Ζήνων ὁ Ἐλεᾱ́της
 eul_aid: bwc
-canonical: "https://eulogikon.org/en/zeno-of-elea"
+canonical: "https://eulogikon.org/authors/zeno-of-elea-bwc"
 period: Classical
 dialect: Ionic (frg)
 affiliation: Eleatic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζήνων ὁ Ἐλεᾱ́της*
 
-**eul_aid:** `bwc` · [HTML page](https://eulogikon.org/en/zeno-of-elea)
+**eul_aid:** `bwc` · [HTML page](https://eulogikon.org/authors/zeno-of-elea-bwc)
 
 Zeno of Elea, pre-Socratic philosopher of the Eleatic school. Surviving fragments of his paradoxes. Free to read and download from the Greek library archive.
 

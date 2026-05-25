@@ -2,7 +2,7 @@
 name: Numenius of Heraclea
 name_greek: Νουμήνιος ὁ Ἡρακλεώτης
 eul_aid: lnq
-canonical: "https://eulogikon.org/en/numenius-of-heraclea"
+canonical: "https://eulogikon.org/authors/numenius-of-heraclea-lnq"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νουμήνιος ὁ Ἡρακλεώτης*
 
-**eul_aid:** `lnq` · [HTML page](https://eulogikon.org/en/numenius-of-heraclea)
+**eul_aid:** `lnq` · [HTML page](https://eulogikon.org/authors/numenius-of-heraclea-lnq)
 
 Numenius of Heraclea, Hellenistic poet writing in Homeric dialect. Surviving poetic works from the 4th-3rd century BCE. Free to download from the Greek archive.
 

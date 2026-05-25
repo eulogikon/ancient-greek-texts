@@ -2,7 +2,7 @@
 name: Pausanias the Periegete
 name_greek: Παυσανίας ὁ Περιηγητής
 eul_aid: pqe
-canonical: "https://eulogikon.org/en/pausanias-the-periegete"
+canonical: "https://eulogikon.org/authors/pausanias-the-periegete-pqe"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παυσανίας ὁ Περιηγητής*
 
-**eul_aid:** `pqe` · [HTML page](https://eulogikon.org/en/pausanias-the-periegete)
+**eul_aid:** `pqe` · [HTML page](https://eulogikon.org/authors/pausanias-the-periegete-pqe)
 
 Pausanias the Periegete, 2nd century CE travel writer. Description of Greece documents ancient sites. Free to read and download from the Greek library archive.
 

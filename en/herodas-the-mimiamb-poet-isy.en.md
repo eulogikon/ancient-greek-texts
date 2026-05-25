@@ -2,7 +2,7 @@
 name: Herodas the Mimiamb Poet
 name_greek: Ἡρώδας ὁ Μιμογράφος
 eul_aid: isy
-canonical: "https://eulogikon.org/en/herodas-the-mimiamb-poet"
+canonical: "https://eulogikon.org/authors/herodas-the-mimiamb-poet-isy"
 period: Hellenistic
 dialect: Ionic Iambic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρώδας ὁ Μιμογράφος*
 
-**eul_aid:** `isy` · [HTML page](https://eulogikon.org/en/herodas-the-mimiamb-poet)
+**eul_aid:** `isy` · [HTML page](https://eulogikon.org/authors/herodas-the-mimiamb-poet-isy)
 
 Herodas, Hellenistic poet of the 3rd century BCE. Works include Ionic iambic mimes and dramatic dialogues. Free to download from the Greek library archive.
 

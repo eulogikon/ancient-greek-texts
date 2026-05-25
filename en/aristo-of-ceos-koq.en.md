@@ -2,7 +2,7 @@
 name: Aristo of Ceos
 name_greek: Ἀρίστων ὁ Κεῖος
 eul_aid: koq
-canonical: "https://eulogikon.org/en/aristo-of-ceos"
+canonical: "https://eulogikon.org/authors/aristo-of-ceos-koq"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίστων ὁ Κεῖος*
 
-**eul_aid:** `koq` · [HTML page](https://eulogikon.org/en/aristo-of-ceos)
+**eul_aid:** `koq` · [HTML page](https://eulogikon.org/authors/aristo-of-ceos-koq)
 
 Aristo of Ceos, 3rd century BCE Peripatetic philosopher. His surviving treatises are fragmentary. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Theon of Smyrna I
 name_greek: Θέων ὁ Σμυρναῖος
 eul_aid: pic
-canonical: "https://eulogikon.org/en/theon-of-smyrna-i"
+canonical: "https://eulogikon.org/authors/theon-of-smyrna-pic"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέων ὁ Σμυρναῖος*
 
-**eul_aid:** `pic` · [HTML page](https://eulogikon.org/en/theon-of-smyrna-i)
+**eul_aid:** `pic` · [HTML page](https://eulogikon.org/authors/theon-of-smyrna-pic)
 
 Theon of Smyrna, a Roman era Greek philosopher and mathematician. His surviving mathematical treatise. Free to read and download from the Greek library archive.
 

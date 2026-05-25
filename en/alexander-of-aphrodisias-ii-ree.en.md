@@ -2,7 +2,7 @@
 name: Alexander of Aphrodisias II
 name_greek: Ἀλέξανδρος ὁ Ἀφροδισιεύς
 eul_aid: ree
-canonical: "https://eulogikon.org/en/alexander-of-aphrodisias-ii"
+canonical: "https://eulogikon.org/authors/alexander-of-aphrodisias-ree"
 period: Roman
 dialect: Mixed Dialects (frg)
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Ἀφροδισιεύς*
 
-**eul_aid:** `ree` · [HTML page](https://eulogikon.org/en/alexander-of-aphrodisias-ii)
+**eul_aid:** `ree` · [HTML page](https://eulogikon.org/authors/alexander-of-aphrodisias-ree)
 
 Alexander of Aphrodisias was a Roman era Peripatetic philosopher. Two treatises are preserved. Free to read and download from the Greek library archive.
 

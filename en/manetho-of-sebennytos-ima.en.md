@@ -2,7 +2,7 @@
 name: Manetho of Sebennytos
 name_greek: Μανέθων ὁ Σεβεννυτικός
 eul_aid: ima
-canonical: "https://eulogikon.org/en/manetho-of-sebennytos"
+canonical: "https://eulogikon.org/authors/manetho-of-sebennytos-ima"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μανέθων ὁ Σεβεννυτικός*
 
-**eul_aid:** `ima` · [HTML page](https://eulogikon.org/en/manetho-of-sebennytos)
+**eul_aid:** `ima` · [HTML page](https://eulogikon.org/authors/manetho-of-sebennytos-ima)
 
 Manetho, Egyptian priest and historian of the 3rd century BCE. Includes fragments of Egyptian chronicles. Free to download from the Greek library archive.
 

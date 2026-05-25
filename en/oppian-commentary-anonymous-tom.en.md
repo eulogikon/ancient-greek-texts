@@ -2,7 +2,7 @@
 name: Oppian Commentary Anonymous
 name_greek: Ἀνώνυμος εἰς τὰ Ὀππιανοῦ
 eul_aid: tom
-canonical: "https://eulogikon.org/en/oppian-commentary-anonymous"
+canonical: "https://eulogikon.org/authors/oppian-commentary-anon-tom"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος εἰς τὰ Ὀππιανοῦ*
 
-**eul_aid:** `tom` · [HTML page](https://eulogikon.org/en/oppian-commentary-anonymous)
+**eul_aid:** `tom` · [HTML page](https://eulogikon.org/authors/oppian-commentary-anon-tom)
 
 Anonymous commentator on Oppian from Late Antiquity. A grammatical commentary on Oppian's works. Free to read and download from the Greek library archive.
 

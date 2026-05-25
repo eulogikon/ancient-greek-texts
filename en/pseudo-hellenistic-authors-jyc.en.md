@@ -2,7 +2,7 @@
 name: Pseudo-Hellenistic Authors
 name_greek: Ψευδο-Ἑλληνισταί
 eul_aid: jyc
-canonical: "https://eulogikon.org/en/pseudo-hellenistic-authors"
+canonical: "https://eulogikon.org/authors/ps-hellenistic-authors-jyc"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Ἑλληνισταί*
 
-**eul_aid:** `jyc` · [HTML page](https://eulogikon.org/en/pseudo-hellenistic-authors)
+**eul_aid:** `jyc` · [HTML page](https://eulogikon.org/authors/ps-hellenistic-authors-jyc)
 
 Pseudo Hellenistic Authors wrote philosophical treatises in Koine Greek during the Hellenistic period. Free to read and download from the Greek library archive.
 

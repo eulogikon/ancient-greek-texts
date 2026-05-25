@@ -2,7 +2,7 @@
 name: Dionysius Scytobrachion of Mytilene
 name_greek: Διονύσιος ὁ Σκυτοβραχίων ὁ Μυτιληναῖος
 eul_aid: kau
-canonical: "https://eulogikon.org/en/dionysius-of-mytilene"
+canonical: "https://eulogikon.org/authors/dionysius-of-mytilene-kau"
 period: Hellenistic
 dialect: Aeolic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Σκυτοβραχίων ὁ Μυτιληναῖος*
 
-**eul_aid:** `kau` · [HTML page](https://eulogikon.org/en/dionysius-of-mytilene)
+**eul_aid:** `kau` · [HTML page](https://eulogikon.org/authors/dionysius-of-mytilene-kau)
 
 Dionysius Scytobrachion, a Hellenistic grammarian of the 3rd century BCE. Grammatical works from the Aeolic tradition. Free to download from the Greek archive.
 

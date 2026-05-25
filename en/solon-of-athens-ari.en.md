@@ -2,7 +2,7 @@
 name: Solon of Athens
 name_greek: Σόλων ὁ Ἀθηναῖος
 eul_aid: ari
-canonical: "https://eulogikon.org/en/solon-of-athens"
+canonical: "https://eulogikon.org/authors/solon-of-athens-ari"
 period: Archaic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σόλων ὁ Ἀθηναῖος*
 
-**eul_aid:** `ari` · [HTML page](https://eulogikon.org/en/solon-of-athens)
+**eul_aid:** `ari` · [HTML page](https://eulogikon.org/authors/solon-of-athens-ari)
 
 Solon, Athenian statesman and lawgiver of the 6th century BCE. Poetic fragments on politics and justice. Free to read and download from the Greek archive.
 

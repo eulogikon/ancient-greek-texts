@@ -2,7 +2,7 @@
 name: Homer and Hesiod Contets Anonymous
 name_greek: Ἀγὼν Ὁμήρου καὶ Ἡσιόδου
 eul_aid: qay
-canonical: "https://eulogikon.org/en/homer-hesiod-contest-anonymous"
+canonical: "https://eulogikon.org/authors/homer-and-hesiod-contets-anon-qay"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγὼν Ὁμήρου καὶ Ἡσιόδου*
 
-**eul_aid:** `qay` · [HTML page](https://eulogikon.org/en/homer-hesiod-contest-anonymous)
+**eul_aid:** `qay` · [HTML page](https://eulogikon.org/authors/homer-and-hesiod-contets-anon-qay)
 
 Anonymous 2nd century CE Roman Contest of Homer and Hesiod. Two surviving prose works in Koine Greek. Free to read and download from the Greek library archive.
 

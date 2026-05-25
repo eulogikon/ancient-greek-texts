@@ -2,7 +2,7 @@
 name: Protagoras of Abdera
 name_greek: Πρωταγόρας ὁ Ἀβδηρίτης
 eul_aid: coy
-canonical: "https://eulogikon.org/en/protagoras-of-abdera"
+canonical: "https://eulogikon.org/authors/protagoras-of-abdera-coy"
 period: Classical
 dialect: Ionic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρωταγόρας ὁ Ἀβδηρίτης*
 
-**eul_aid:** `coy` · [HTML page](https://eulogikon.org/en/protagoras-of-abdera)
+**eul_aid:** `coy` · [HTML page](https://eulogikon.org/authors/protagoras-of-abdera-coy)
 
 Protagoras, the pre-Socratic philosopher and famous Sophist. Read his surviving works and fragments. Free to read and download from the Greek library archive.
 

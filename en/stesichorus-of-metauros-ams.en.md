@@ -2,7 +2,7 @@
 name: Stesichorus of Metauros
 name_greek: Στησίχορος ὁ Μεταυρῖνος
 eul_aid: ams
-canonical: "https://eulogikon.org/en/stesichorus-of-metauros"
+canonical: "https://eulogikon.org/authors/stesichorus-of-metauros-ams"
 period: Archaic
 dialect: Doric (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στησίχορος ὁ Μεταυρῖνος*
 
-**eul_aid:** `ams` · [HTML page](https://eulogikon.org/en/stesichorus-of-metauros)
+**eul_aid:** `ams` · [HTML page](https://eulogikon.org/authors/stesichorus-of-metauros-ams)
 
 Stesichorus, Archaic Greek lyric poet of the 7th-6th century BCE. Contains his choral poetry fragments. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Londoner on Medicine Anonymous
 name_greek: Ἀνώνυμος Λονδινίου Ἰατρικά
 eul_aid: nzm
-canonical: "https://eulogikon.org/en/londoner-on-medicine-anonymous"
+canonical: "https://eulogikon.org/authors/londoner-on-medicine-anon-nzm"
 period: Roman
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Λονδινίου Ἰατρικά*
 
-**eul_aid:** `nzm` · [HTML page](https://eulogikon.org/en/londoner-on-medicine-anonymous)
+**eul_aid:** `nzm` · [HTML page](https://eulogikon.org/authors/londoner-on-medicine-anon-nzm)
 
 Anonymous of London compiled Greek medical knowledge in the Roman era. Two surviving technical works. Free to read and download from the Greek library archive.
 

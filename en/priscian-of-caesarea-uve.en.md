@@ -2,7 +2,7 @@
 name: Priscian of Caesarea
 name_greek: Πρισκιανὸς ὁ Καισαρεύς
 eul_aid: uve
-canonical: "https://eulogikon.org/en/priscian-of-caesarea"
+canonical: "https://eulogikon.org/authors/priscian-of-caesarea-uve"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρισκιανὸς ὁ Καισαρεύς*
 
-**eul_aid:** `uve` · [HTML page](https://eulogikon.org/en/priscian-of-caesarea)
+**eul_aid:** `uve` · [HTML page](https://eulogikon.org/authors/priscian-of-caesarea-uve)
 
 Priscian of Caesarea, a late antique Neoplatonic philosopher. His surviving treatise is preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Molpis of Elea
 name_greek: Μόλπις ὁ Ἐλεάτης
 eul_aid: aic
-canonical: "https://eulogikon.org/en/molpis-of-elea"
+canonical: "https://eulogikon.org/authors/molpis-of-elea-aic"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μόλπις ὁ Ἐλεάτης*
 
-**eul_aid:** `aic` · [HTML page](https://eulogikon.org/en/molpis-of-elea)
+**eul_aid:** `aic` · [HTML page](https://eulogikon.org/authors/molpis-of-elea-aic)
 
 Molpis of Elea, a 6th century BCE Ionic Greek historian. His surviving historical works are fragmentary. Free to read and download from the Greek archive.
 

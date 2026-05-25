@@ -2,7 +2,7 @@
 name: Eudemus of Rhodes I
 name_greek: Εὔδημος ὁ Ῥόδιος
 eul_aid: fuk
-canonical: "https://eulogikon.org/en/eudemus-of-rhodes-i"
+canonical: "https://eulogikon.org/authors/eudemus-of-rhodes-fuk"
 period: Classical
 dialect: Mixed Dialects (frg)
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔδημος ὁ Ῥόδιος*
 
-**eul_aid:** `fuk` · [HTML page](https://eulogikon.org/en/eudemus-of-rhodes-i)
+**eul_aid:** `fuk` · [HTML page](https://eulogikon.org/authors/eudemus-of-rhodes-fuk)
 
 Eudemus of Rhodes was a 4th century BCE Peripatetic philosopher and student of Aristotle. Fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Periander of Corinth
 name_greek: Περίανδρος ὁ Κορίνθιος
 eul_aid: aoq
-canonical: "https://eulogikon.org/en/periander-of-corinth"
+canonical: "https://eulogikon.org/authors/periander-of-corinth-aoq"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περίανδρος ὁ Κορίνθιος*
 
-**eul_aid:** `aoq` · [HTML page](https://eulogikon.org/en/periander-of-corinth)
+**eul_aid:** `aoq` · [HTML page](https://eulogikon.org/authors/periander-of-corinth-aoq)
 
 Periander of Corinth was a 7th-6th century BCE tyrant of Corinth. His surviving work is an epistle. Free to read and download from the Greek library archive.
 

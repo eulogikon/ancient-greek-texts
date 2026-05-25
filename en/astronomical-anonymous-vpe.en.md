@@ -2,7 +2,7 @@
 name: Astronomical Work  Anonymous
 name_greek: Ἀνώνυμος ἀστρονομικός
 eul_aid: vpe
-canonical: "https://eulogikon.org/en/astronomical-anonymous"
+canonical: "https://eulogikon.org/authors/astronomical-work-anon-vpe"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἀστρονομικός*
 
-**eul_aid:** `vpe` · [HTML page](https://eulogikon.org/en/astronomical-anonymous)
+**eul_aid:** `vpe` · [HTML page](https://eulogikon.org/authors/astronomical-work-anon-vpe)
 
 Anonymous author preserving Greek astronomical science. One surviving technical treatise in Koine. Free to read and download from the Greek library archive.
 

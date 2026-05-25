@@ -2,7 +2,7 @@
 name: Xenophon Letters
 name_greek: Ξενοφῶντος Ἐπιστολαί
 eul_aid: dqq
-canonical: "https://eulogikon.org/en/xenophon-letters"
+canonical: "https://eulogikon.org/authors/xenophon-letters-dqq"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφῶντος Ἐπιστολαί*
 
-**eul_aid:** `dqq` · [HTML page](https://eulogikon.org/en/xenophon-letters)
+**eul_aid:** `dqq` · [HTML page](https://eulogikon.org/authors/xenophon-letters-dqq)
 
 Xenophon, classical Greek historian and philosopher of the 5th-4th century BCE. Surviving works and epistles. Free to download from the Greek library archive.
 

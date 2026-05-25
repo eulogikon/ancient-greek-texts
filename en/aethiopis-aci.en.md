@@ -2,7 +2,7 @@
 name: Aethiopis
 name_greek: Αἰθιοπίς
 eul_aid: aci
-canonical: "https://eulogikon.org/en/aethiopis"
+canonical: "https://eulogikon.org/authors/aethiopis-aci"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰθιοπίς*
 
-**eul_aid:** `aci` · [HTML page](https://eulogikon.org/en/aethiopis)
+**eul_aid:** `aci` · [HTML page](https://eulogikon.org/authors/aethiopis-aci)
 
 Aethiopis, a lost epic poem from the early Greek Archaic period. Surviving fragments from the Trojan War. Free to read and download from the Greek library.
 

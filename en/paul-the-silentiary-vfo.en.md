@@ -2,7 +2,7 @@
 name: Paul the Silentiary
 name_greek: Παῦλος ὁ Σιλεντιάριος
 eul_aid: vfo
-canonical: "https://eulogikon.org/en/paul-the-silentiary"
+canonical: "https://eulogikon.org/authors/paul-the-silentiary-vfo"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παῦλος ὁ Σιλεντιάριος*
 
-**eul_aid:** `vfo` · [HTML page](https://eulogikon.org/en/paul-the-silentiary)
+**eul_aid:** `vfo` · [HTML page](https://eulogikon.org/authors/paul-the-silentiary-vfo)
 
 Paul the Silentiary, a 6th century CE Byzantine poet. Surviving works include his ekphrastic poems. Free to read and download from the Greek library archive.
 

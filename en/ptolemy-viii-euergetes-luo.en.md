@@ -2,7 +2,7 @@
 name: Ptolemy VIII Euergetes II
 name_greek: Πτολεμαῖος ὁ Εὐεργέτης ὁ Βʹ (ὁ Φύσκων)
 eul_aid: luo
-canonical: "https://eulogikon.org/en/ptolemy-viii-euergetes"
+canonical: "https://eulogikon.org/authors/ptolemy-viii-euergetes-ii-luo"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῖος ὁ Εὐεργέτης ὁ Βʹ (ὁ Φύσκων)*
 
-**eul_aid:** `luo` · [HTML page](https://eulogikon.org/en/ptolemy-viii-euergetes)
+**eul_aid:** `luo` · [HTML page](https://eulogikon.org/authors/ptolemy-viii-euergetes-ii-luo)
 
 Ptolemy VIII Euergetes II, a Hellenistic king and historian. Surviving historical works from his reign. Free to download from the Greek library archive.
 

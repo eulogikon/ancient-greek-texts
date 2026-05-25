@@ -2,7 +2,7 @@
 name: Compendium of Geography Anonymous
 name_greek: Ἀνωνύμου Γεωγραφίας Ἐξήγησις Σύντομος
 eul_aid: the
-canonical: "https://eulogikon.org/en/compendium-of-geography-anon"
+canonical: "https://eulogikon.org/authors/compendium-of-geography-anon-the"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνωνύμου Γεωγραφίας Ἐξήγησις Σύντομος*
 
-**eul_aid:** `the` · [HTML page](https://eulogikon.org/en/compendium-of-geography-anon)
+**eul_aid:** `the` · [HTML page](https://eulogikon.org/authors/compendium-of-geography-anon-the)
 
 Anonymous author of a Late Antique geographical compendium. Contains the Brief Explanation of Geography. Free to download from the Greek library archive.
 

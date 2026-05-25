@@ -2,7 +2,7 @@
 name: Melampus the Diviner
 name_greek: Μέλαμπους ὁ Μάντις
 eul_aid: nuw
-canonical: "https://eulogikon.org/en/melampus-the-diviner"
+canonical: "https://eulogikon.org/authors/melampus-the-diviner-nuw"
 period: Roman
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέλαμπους ὁ Μάντις*
 
-**eul_aid:** `nuw` · [HTML page](https://eulogikon.org/en/melampus-the-diviner)
+**eul_aid:** `nuw` · [HTML page](https://eulogikon.org/authors/melampus-the-diviner-nuw)
 
 Melampus the Diviner, author of treatises on divination and medicine from the Roman Imperial period. Free to read and download from the Greek library archive.
 

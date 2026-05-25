@@ -2,7 +2,7 @@
 name: Alcman Lacedaemonius
 name_greek: Ἀλκμάν ὁ Λακεδαιμόνιος
 eul_aid: adw
-canonical: "https://eulogikon.org/en/alcman-lacedaemonius"
+canonical: "https://eulogikon.org/authors/alcman-lacedaemonius-adw"
 period: Archaic
 dialect: Doric
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκμάν ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `adw` · [HTML page](https://eulogikon.org/en/alcman-lacedaemonius)
+**eul_aid:** `adw` · [HTML page](https://eulogikon.org/authors/alcman-lacedaemonius-adw)
 
 Alcman, a Doric lyric poet of Sparta from the 7th century BCE. Read his surviving choral poetry. Free to read and download from the Greek library archive.
 

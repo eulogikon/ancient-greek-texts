@@ -2,7 +2,7 @@
 name: Theognis of Rhodes
 name_greek: Θέογνις ὁ Ῥόδιος
 eul_aid: fxm
-canonical: "https://eulogikon.org/en/theognis-of-rhodes"
+canonical: "https://eulogikon.org/authors/theognis-of-rhodes-fxm"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέογνις ὁ Ῥόδιος*
 
-**eul_aid:** `fxm` · [HTML page](https://eulogikon.org/en/theognis-of-rhodes)
+**eul_aid:** `fxm` · [HTML page](https://eulogikon.org/authors/theognis-of-rhodes-fxm)
 
 Theognis of Rhodes, a Hellenistic poet. Surviving fragments of his work are preserved in this archive. Free to read and download from the Greek library archive.
 

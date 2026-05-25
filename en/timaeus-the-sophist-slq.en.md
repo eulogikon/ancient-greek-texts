@@ -2,7 +2,7 @@
 name: Timaeus the Sophist
 name_greek: Τίμαιος ὁ Σοφιστής
 eul_aid: slq
-canonical: "https://eulogikon.org/en/timaeus-the-sophist"
+canonical: "https://eulogikon.org/authors/timaeus-the-sophist-slq"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τίμαιος ὁ Σοφιστής*
 
-**eul_aid:** `slq` · [HTML page](https://eulogikon.org/en/timaeus-the-sophist)
+**eul_aid:** `slq` · [HTML page](https://eulogikon.org/authors/timaeus-the-sophist-slq)
 
 Timaeus Sophist was a Late Antique grammarian writing in technical Koine. His surviving treatise on grammar is preserved. Free to download from Greek archive.
 

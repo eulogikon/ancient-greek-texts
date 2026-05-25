@@ -2,7 +2,7 @@
 name: Damascius of Damascus
 name_greek: Δαμάσκιος ὁ Δαμασκηνός
 eul_aid: uyg
-canonical: "https://eulogikon.org/en/damascius-of-damascus"
+canonical: "https://eulogikon.org/authors/damascius-of-damascus-uyg"
 period: Late Antique
 dialect: Atticizing
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαμάσκιος ὁ Δαμασκηνός*
 
-**eul_aid:** `uyg` · [HTML page](https://eulogikon.org/en/damascius-of-damascus)
+**eul_aid:** `uyg` · [HTML page](https://eulogikon.org/authors/damascius-of-damascus-uyg)
 
 Damascius was a late antique Neoplatonic philosopher and head of the Platonic school. Seven treatises. Free to read and download from the Greek library archive.
 

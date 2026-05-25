@@ -2,7 +2,7 @@
 name: Aeschylus the Tragedian
 name_greek: Αἰσχύλος ὁ τραγικός
 eul_aid: emo
-canonical: "https://eulogikon.org/en/aeschylus"
+canonical: "https://eulogikon.org/authors/aeschylus-the-tragedian-emo"
 period: Classical
 dialect: Attic Drama
 works_count: 10
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσχύλος ὁ τραγικός*
 
-**eul_aid:** `emo` · [HTML page](https://eulogikon.org/en/aeschylus)
+**eul_aid:** `emo` · [HTML page](https://eulogikon.org/authors/aeschylus-the-tragedian-emo)
 
 Aeschylus, Athenian tragedian and veteran of the Persian Wars. Surviving works include the Oresteia. Free to read and download from the Greek library archive.
 

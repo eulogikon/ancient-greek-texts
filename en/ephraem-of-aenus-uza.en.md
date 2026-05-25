@@ -2,7 +2,7 @@
 name: Ephraem of Aenus
 name_greek: Ἐφραίμ ὁ Αἴνιος (Θρᾴκης)
 eul_aid: uza
-canonical: "https://eulogikon.org/en/ephraem-of-aenus"
+canonical: "https://eulogikon.org/authors/ephraem-of-aenus-uza"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐφραίμ ὁ Αἴνιος (Θρᾴκης)*
 
-**eul_aid:** `uza` · [HTML page](https://eulogikon.org/en/ephraem-of-aenus)
+**eul_aid:** `uza` · [HTML page](https://eulogikon.org/authors/ephraem-of-aenus-uza)
 
 Ephraem of Aenus was a 4th century CE historian from Thrace writing in Koine Greek verse. Free to read and download from the Greek library archive.
 

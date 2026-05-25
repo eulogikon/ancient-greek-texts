@@ -2,7 +2,7 @@
 name: Amelius Letters
 name_greek: Ἀμελίου Ἐπιστολή
 eul_aid: rrq
-canonical: "https://eulogikon.org/en/amelius-letters"
+canonical: "https://eulogikon.org/authors/amelius-letters-rrq"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμελίου Ἐπιστολή*
 
-**eul_aid:** `rrq` · [HTML page](https://eulogikon.org/en/amelius-letters)
+**eul_aid:** `rrq` · [HTML page](https://eulogikon.org/authors/amelius-letters-rrq)
 
 Amelius Gentilianus, 3rd century Neoplatonist and disciple of Plotinus. Philosophical epistles and works. Free to download from the Greek library archive.
 

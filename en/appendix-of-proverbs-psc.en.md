@@ -2,7 +2,7 @@
 name: Appendix of Proverbs
 name_greek: Ἡ μαντίσσα τῶν παροιμιῶν
 eul_aid: psc
-canonical: "https://eulogikon.org/en/appendix-of-proverbs"
+canonical: "https://eulogikon.org/authors/appendix-of-proverbs-psc"
 period: Roman
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡ μαντίσσα τῶν παροιμιῶν*
 
-**eul_aid:** `psc` · [HTML page](https://eulogikon.org/en/appendix-of-proverbs)
+**eul_aid:** `psc` · [HTML page](https://eulogikon.org/authors/appendix-of-proverbs-psc)
 
 The Mantissa of Proverbs is a Byzantine collection of wise sayings from the 5th to 10th centuries. Free to read and download from the Greek library archive.
 

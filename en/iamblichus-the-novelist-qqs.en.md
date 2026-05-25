@@ -2,7 +2,7 @@
 name: Iamblichus the Novelist
 name_greek: Ἰάμβλιχος ὁ μυθογράφος
 eul_aid: qqs
-canonical: "https://eulogikon.org/en/iamblichus-the-novelist"
+canonical: "https://eulogikon.org/authors/iamblichus-the-novelist-qqs"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰάμβλιχος ὁ μυθογράφος*
 
-**eul_aid:** `qqs` · [HTML page](https://eulogikon.org/en/iamblichus-the-novelist)
+**eul_aid:** `qqs` · [HTML page](https://eulogikon.org/authors/iamblichus-the-novelist-qqs)
 
 Iamblichus the Novelist, a 2nd century CE Greek romance writer. Surviving works include Babyloniaca. Free to read and download from the Greek library archive.
 

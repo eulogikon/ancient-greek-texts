@@ -2,7 +2,7 @@
 name: Callimachus Scholia
 name_greek: Καλλιμάχου Σχόλια
 eul_aid: vmw
-canonical: "https://eulogikon.org/en/callimachus-scholia"
+canonical: "https://eulogikon.org/authors/callimachus-scholia-vmw"
 period: Late Antique
 dialect: Koine
 works_count: 22
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλιμάχου Σχόλια*
 
-**eul_aid:** `vmw` · [HTML page](https://eulogikon.org/en/callimachus-scholia)
+**eul_aid:** `vmw` · [HTML page](https://eulogikon.org/authors/callimachus-scholia-vmw)
 
 Callimachus Scholia, Late Antique grammatical commentaries from the 4th to 6th centuries CE. Twenty two works. Free to download from the Greek library archive.
 

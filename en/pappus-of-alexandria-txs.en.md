@@ -2,7 +2,7 @@
 name: Pappus of Alexandria
 name_greek: Πάππος ὁ Ἀλεξανδρεύς
 eul_aid: txs
-canonical: "https://eulogikon.org/en/pappus-of-alexandria"
+canonical: "https://eulogikon.org/authors/pappus-of-alexandria-txs"
 period: Late Antique
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πάππος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `txs` · [HTML page](https://eulogikon.org/en/pappus-of-alexandria)
+**eul_aid:** `txs` · [HTML page](https://eulogikon.org/authors/pappus-of-alexandria-txs)
 
 Pappus of Alexandria was a 4th century CE Greek mathematician. Works include mathematical treatises. Free to read and download from the Greek library archive.
 

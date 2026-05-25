@@ -2,7 +2,7 @@
 name: Diogenianus of Heraclea Pontica
 name_greek: Διογενιανὸς ὁ Ἡρακλεώτης (Ποντικός)
 eul_aid: pdm
-canonical: "https://eulogikon.org/en/diogenianus-of-heraclea"
+canonical: "https://eulogikon.org/authors/diogenianus-of-heraclea-pdm"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογενιανὸς ὁ Ἡρακλεώτης (Ποντικός)*
 
-**eul_aid:** `pdm` · [HTML page](https://eulogikon.org/en/diogenianus-of-heraclea)
+**eul_aid:** `pdm` · [HTML page](https://eulogikon.org/authors/diogenianus-of-heraclea-pdm)
 
 Diogenianus, a 2nd century CE Greek grammarian from Heraclea. Two surviving grammatical treatises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dorotheus of Sidon
 name_greek: Δωρόθεος ὁ Σιδώνιος
 eul_aid: ogk
-canonical: "https://eulogikon.org/en/dorotheus-of-sidon"
+canonical: "https://eulogikon.org/authors/dorotheus-of-sidon-ogk"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωρόθεος ὁ Σιδώνιος*
 
-**eul_aid:** `ogk` · [HTML page](https://eulogikon.org/en/dorotheus-of-sidon)
+**eul_aid:** `ogk` · [HTML page](https://eulogikon.org/authors/dorotheus-of-sidon-ogk)
 
 Dorotheus of Sidon, a 1st century CE Roman astrologer. Surviving astrological treatise in Koine Greek. Free to read and download from the Greek library archive.
 

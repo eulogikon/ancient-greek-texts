@@ -2,7 +2,7 @@
 name: Severus the Iatrosophist
 name_greek: Σευήρος ὁ Ἰατροσοφιστής
 eul_aid: tmy
-canonical: "https://eulogikon.org/en/severus-the-iatrosophist"
+canonical: "https://eulogikon.org/authors/severus-the-iatrosophist-tmy"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σευήρος ὁ Ἰατροσοφιστής*
 
-**eul_aid:** `tmy` · [HTML page](https://eulogikon.org/en/severus-the-iatrosophist)
+**eul_aid:** `tmy` · [HTML page](https://eulogikon.org/authors/severus-the-iatrosophist-tmy)
 
 Severus the Iatrosophist, a 5th century CE medical writer. Surviving medical treatise in Koine Greek. Free to read and download from the Greek library archive.
 

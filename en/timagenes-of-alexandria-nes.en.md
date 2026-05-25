@@ -2,7 +2,7 @@
 name: Timagenes of Alexandria
 name_greek: Τιμαγένης ὁ Ἀλεξανδρεύς
 eul_aid: nes
-canonical: "https://eulogikon.org/en/timagenes-of-alexandria"
+canonical: "https://eulogikon.org/authors/timagenes-of-alexandria-nes"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμαγένης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `nes` · [HTML page](https://eulogikon.org/en/timagenes-of-alexandria)
+**eul_aid:** `nes` · [HTML page](https://eulogikon.org/authors/timagenes-of-alexandria-nes)
 
 Timagenes of Alexandria, a Hellenistic historian of the 1st century BCE. Historical fragments and testimonia. Free to read and download from the Greek library.
 

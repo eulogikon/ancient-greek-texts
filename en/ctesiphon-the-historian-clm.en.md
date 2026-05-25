@@ -2,7 +2,7 @@
 name: Ctesiphon Historicus
 name_greek: Κτησιφῶν ὁ Ἱστορικός
 eul_aid: clm
-canonical: "https://eulogikon.org/en/ctesiphon-the-historian"
+canonical: "https://eulogikon.org/authors/ctesiphon-historicus-clm"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κτησιφῶν ὁ Ἱστορικός*
 
-**eul_aid:** `clm` · [HTML page](https://eulogikon.org/en/ctesiphon-the-historian)
+**eul_aid:** `clm` · [HTML page](https://eulogikon.org/authors/ctesiphon-historicus-clm)
 
 Ctesiphon Historicus, a 4th century BCE Attic historian. Historical fragments from the Classical period. Free to read and download from the Greek archive.
 

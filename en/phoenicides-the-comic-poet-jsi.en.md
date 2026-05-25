@@ -2,7 +2,7 @@
 name: Phoenicides the Comic Poet
 name_greek: Φοινικίδης ὁ κωμῳδιοποιός
 eul_aid: jsi
-canonical: "https://eulogikon.org/en/phoenicides-the-comic-poet"
+canonical: "https://eulogikon.org/authors/phoenicides-the-comic-poet-jsi"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φοινικίδης ὁ κωμῳδιοποιός*
 
-**eul_aid:** `jsi` · [HTML page](https://eulogikon.org/en/phoenicides-the-comic-poet)
+**eul_aid:** `jsi` · [HTML page](https://eulogikon.org/authors/phoenicides-the-comic-poet-jsi)
 
 Phoenicides was a Hellenistic Greek comic poet of New Comedy. Two surviving fragments of his works are preserved. Free to download from the Greek library.
 

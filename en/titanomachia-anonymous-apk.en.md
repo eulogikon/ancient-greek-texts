@@ -2,7 +2,7 @@
 name: "Epic: Titanomachia Anonymous"
 name_greek: ἡ Τιτανομαχία
 eul_aid: apk
-canonical: "https://eulogikon.org/en/titanomachia-anonymous"
+canonical: "https://eulogikon.org/authors/titanomachia-anon-apk"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *ἡ Τιτανομαχία*
 
-**eul_aid:** `apk` · [HTML page](https://eulogikon.org/en/titanomachia-anonymous)
+**eul_aid:** `apk` · [HTML page](https://eulogikon.org/authors/titanomachia-anon-apk)
 
 Anonymous Archaic Greek epic poem about the war between Titans and Olympians. One surviving fragment. Free to read and download from the Greek library archive.
 

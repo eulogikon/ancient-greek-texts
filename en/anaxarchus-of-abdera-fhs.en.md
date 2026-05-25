@@ -2,7 +2,7 @@
 name: Anaxarchus of Abdera
 name_greek: Ἀνάξαρχος ὁ Ἀβδηρίτης
 eul_aid: fhs
-canonical: "https://eulogikon.org/en/anaxarchus-of-abdera"
+canonical: "https://eulogikon.org/authors/anaxarchus-of-abdera-fhs"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Democritean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνάξαρχος ὁ Ἀβδηρίτης*
 
-**eul_aid:** `fhs` · [HTML page](https://eulogikon.org/en/anaxarchus-of-abdera)
+**eul_aid:** `fhs` · [HTML page](https://eulogikon.org/authors/anaxarchus-of-abdera-fhs)
 
 Anaxarchus was a Democritean philosopher from Abdera. Surviving fragments of his works are collected. Free to read and download from the Greek library archive.
 

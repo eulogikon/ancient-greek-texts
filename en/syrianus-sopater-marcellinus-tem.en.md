@@ -2,7 +2,7 @@
 name: "Syrianus, Sopater, and Marcellinus"
 name_greek: "Συριανός, Σώπατρος, καὶ Μαρκελλῖνος"
 eul_aid: tem
-canonical: "https://eulogikon.org/en/syrianus-sopater-marcellinus"
+canonical: "https://eulogikon.org/authors/syrianus-sopater-marcellinus-tem"
 period: Late Antique
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Συριανός, Σώπατρος, καὶ Μαρκελλῖνος*
 
-**eul_aid:** `tem` · [HTML page](https://eulogikon.org/en/syrianus-sopater-marcellinus)
+**eul_aid:** `tem` · [HTML page](https://eulogikon.org/authors/syrianus-sopater-marcellinus-tem)
 
 Syrianus, Sopater, and Marcellinus were late antique Atticizing grammarians. Their works are preserved. Free to download from the Greek library archive.
 

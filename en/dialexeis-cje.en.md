@@ -2,7 +2,7 @@
 name: Dialexeis
 name_greek: Διαλέξεις
 eul_aid: cje
-canonical: "https://eulogikon.org/en/dialexeis"
+canonical: "https://eulogikon.org/authors/dialexeis-cje"
 period: Classical
 dialect: Literary Doric
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διαλέξεις*
 
-**eul_aid:** `cje` · [HTML page](https://eulogikon.org/en/dialexeis)
+**eul_aid:** `cje` · [HTML page](https://eulogikon.org/authors/dialexeis-cje)
 
 Dialexeis, an anonymous sophist author of the late Classical period. The surviving work presents twofold arguments. Free to download from the Greek archive.
 

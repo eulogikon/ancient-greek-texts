@@ -2,7 +2,7 @@
 name: Demetrius of Phaleron
 name_greek: Δημήτριος ὁ Φαληρεύς
 eul_aid: hjy
-canonical: "https://eulogikon.org/en/demetrius-of-phaleron"
+canonical: "https://eulogikon.org/authors/demetrius-of-phaleron-hjy"
 period: Classical
 dialect: Koine
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Φαληρεύς*
 
-**eul_aid:** `hjy` · [HTML page](https://eulogikon.org/en/demetrius-of-phaleron)
+**eul_aid:** `hjy` · [HTML page](https://eulogikon.org/authors/demetrius-of-phaleron-hjy)
 
 Demetrius of Phaleron was an Athenian orator and Peripatetic philosopher. Surviving epistles. Free to read and download from the Greek library archive.
 

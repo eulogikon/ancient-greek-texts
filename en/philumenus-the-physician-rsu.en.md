@@ -2,7 +2,7 @@
 name: Philumenus the Physician
 name_greek: Φιλούμενος ὁ Ἰατρός
 eul_aid: rsu
-canonical: "https://eulogikon.org/en/philumenus-the-physician"
+canonical: "https://eulogikon.org/authors/philumenus-the-physician-rsu"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλούμενος ὁ Ἰατρός*
 
-**eul_aid:** `rsu` · [HTML page](https://eulogikon.org/en/philumenus-the-physician)
+**eul_aid:** `rsu` · [HTML page](https://eulogikon.org/authors/philumenus-the-physician-rsu)
 
 Philumenus was a Greek physician of the Roman Imperial period and a Methodist school practitioner. Free to read and download from the Greek library archive.
 

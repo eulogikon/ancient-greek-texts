@@ -2,7 +2,7 @@
 name: Sopater of Paphos
 name_greek: Σώπατρος ὁ Πάφιος
 eul_aid: lhw
-canonical: "https://eulogikon.org/en/sopater-of-paphos"
+canonical: "https://eulogikon.org/authors/sopater-of-paphos-lhw"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σώπατρος ὁ Πάφιος*
 
-**eul_aid:** `lhw` · [HTML page](https://eulogikon.org/en/sopater-of-paphos)
+**eul_aid:** `lhw` · [HTML page](https://eulogikon.org/authors/sopater-of-paphos-lhw)
 
 Sopater of Paphos was a Hellenistic writer of Attic comedy. His surviving fragments are preserved. Free to read and download from the Greek library archive.
 

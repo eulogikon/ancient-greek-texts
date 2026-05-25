@@ -2,7 +2,7 @@
 name: Herodian of Alexandria
 name_greek: Αἴλιος Ἡρωδιανός
 eul_aid: qnq
-canonical: "https://eulogikon.org/en/herodian-of-alexandria"
+canonical: "https://eulogikon.org/authors/herodian-of-alexandria-qnq"
 period: Roman
 dialect: Technical Koine
 works_count: 50
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἴλιος Ἡρωδιανός*
 
-**eul_aid:** `qnq` · [HTML page](https://eulogikon.org/en/herodian-of-alexandria)
+**eul_aid:** `qnq` · [HTML page](https://eulogikon.org/authors/herodian-of-alexandria-qnq)
 
 Herodian of Alexandria was a 2nd century CE Roman grammarian. Technical treatises on Greek grammar. Free to read and download from the Greek library archive.
 

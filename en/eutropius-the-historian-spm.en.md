@@ -2,7 +2,7 @@
 name: Eutropius the Historian
 name_greek: Εὐτρόπιος ὁ ἱστορικός
 eul_aid: spm
-canonical: "https://eulogikon.org/en/eutropius-the-historian"
+canonical: "https://eulogikon.org/authors/eutropius-the-historian-spm"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐτρόπιος ὁ ἱστορικός*
 
-**eul_aid:** `spm` · [HTML page](https://eulogikon.org/en/eutropius-the-historian)
+**eul_aid:** `spm` · [HTML page](https://eulogikon.org/authors/eutropius-the-historian-spm)
 
 Eutropius, a 4th century CE historian of Late Antiquity. His surviving works include a compendium. Free to read and download from the Greek library archive.
 

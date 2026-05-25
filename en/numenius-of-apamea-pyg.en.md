@@ -2,7 +2,7 @@
 name: Numenius of Apamea
 name_greek: Νουμήνιος ὁ ἐξ Ἀπαμείας
 eul_aid: pyg
-canonical: "https://eulogikon.org/en/numenius-of-apamea"
+canonical: "https://eulogikon.org/authors/numenius-of-apamea-pyg"
 period: Roman
 dialect: Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νουμήνιος ὁ ἐξ Ἀπαμείας*
 
-**eul_aid:** `pyg` · [HTML page](https://eulogikon.org/en/numenius-of-apamea)
+**eul_aid:** `pyg` · [HTML page](https://eulogikon.org/authors/numenius-of-apamea-pyg)
 
 Numenius of Apamea, a 2nd century Platonist philosopher. Surviving works and fragments. Free to read and download from the Greek library archive.
 

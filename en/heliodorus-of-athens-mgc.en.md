@@ -2,7 +2,7 @@
 name: Heliodorus of Athens
 name_greek: Ἡλιόδωρος ὁ Ἀθηναῖος
 eul_aid: mgc
-canonical: "https://eulogikon.org/en/heliodorus-of-athens"
+canonical: "https://eulogikon.org/authors/heliodorus-of-athens-mgc"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡλιόδωρος ὁ Ἀθηναῖος*
 
-**eul_aid:** `mgc` · [HTML page](https://eulogikon.org/en/heliodorus-of-athens)
+**eul_aid:** `mgc` · [HTML page](https://eulogikon.org/authors/heliodorus-of-athens-mgc)
 
 Heliodorus of Athens was a 2nd century BCE Hellenistic geographer. His surviving geographical texts. Free to read and download from the Greek library archive.
 

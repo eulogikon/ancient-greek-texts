@@ -2,7 +2,7 @@
 name: Introduction Platonism Anonymous
 name_greek: Ἀνώνυμος Προλεγόμενα εἰς τὴν Πλατωνικὴν Φιλοσοφίαν
 eul_aid: uuk
-canonical: "https://eulogikon.org/en/anonymous-introduction-to-platonism"
+canonical: "https://eulogikon.org/authors/introduction-to-platonism-anon-uuk"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Προλεγόμενα εἰς τὴν Πλατωνικὴν Φιλοσοφίαν*
 
-**eul_aid:** `uuk` · [HTML page](https://eulogikon.org/en/anonymous-introduction-to-platonism)
+**eul_aid:** `uuk` · [HTML page](https://eulogikon.org/authors/introduction-to-platonism-anon-uuk)
 
 Anonymous 6th century Platonist philosopher. Author of the Prolegomena to Platonic Philosophy. Free to read and download from the Greek library archive.
 

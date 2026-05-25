@@ -2,7 +2,7 @@
 name: Zeno Letters
 name_greek: Ζήνωνος Ἐπιστολή
 eul_aid: jfg
-canonical: "https://eulogikon.org/en/zeno-letters"
+canonical: "https://eulogikon.org/authors/zeno-letters-jfg"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζήνωνος Ἐπιστολή*
 
-**eul_aid:** `jfg` · [HTML page](https://eulogikon.org/en/zeno-letters)
+**eul_aid:** `jfg` · [HTML page](https://eulogikon.org/authors/zeno-letters-jfg)
 
 Zeno of Citium, founder of the Stoic school in Athens. Surviving fragments of his epistles and works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Iambic Work Anonymous
 name_greek: Ἰαμβικὰ Ἀδέσποτα
 eul_aid: lmm
-canonical: "https://eulogikon.org/en/anonymous-iambic-works"
+canonical: "https://eulogikon.org/authors/iambic-work-anon-lmm"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰαμβικὰ Ἀδέσποτα*
 
-**eul_aid:** `lmm` · [HTML page](https://eulogikon.org/en/anonymous-iambic-works)
+**eul_aid:** `lmm` · [HTML page](https://eulogikon.org/authors/iambic-work-anon-lmm)
 
 Anonymous iambic poetry from the Hellenistic to Imperial period. Two surviving fragmentary works. Free to read and download from the Greek library archive.
 

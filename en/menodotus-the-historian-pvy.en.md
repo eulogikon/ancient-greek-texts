@@ -2,7 +2,7 @@
 name: Menodotus the Historian
 name_greek: Μηνόδοτος ὁ ἱστορικός
 eul_aid: pvy
-canonical: "https://eulogikon.org/en/menodotus-the-historian"
+canonical: "https://eulogikon.org/authors/menodotus-the-historian-pvy"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μηνόδοτος ὁ ἱστορικός*
 
-**eul_aid:** `pvy` · [HTML page](https://eulogikon.org/en/menodotus-the-historian)
+**eul_aid:** `pvy` · [HTML page](https://eulogikon.org/authors/menodotus-the-historian-pvy)
 
 Menodotus the Historian, a 2nd century CE Greek historian. Historical fragments in Koine Greek. Free to read and download from the Greek library archive.
 

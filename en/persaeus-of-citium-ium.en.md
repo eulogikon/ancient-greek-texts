@@ -2,7 +2,7 @@
 name: Persaeus of Citium
 name_greek: Περσαῖος ὁ Κιτιεύς
 eul_aid: ium
-canonical: "https://eulogikon.org/en/persaeus-of-citium"
+canonical: "https://eulogikon.org/authors/persaeus-of-citium-ium"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περσαῖος ὁ Κιτιεύς*
 
-**eul_aid:** `ium` · [HTML page](https://eulogikon.org/en/persaeus-of-citium)
+**eul_aid:** `ium` · [HTML page](https://eulogikon.org/authors/persaeus-of-citium-ium)
 
 Persaeus of Citium, Stoic philosopher and student of Zeno. Hellenistic philosophical fragments. Free to read and download from the Greek library archive.
 

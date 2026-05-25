@@ -2,7 +2,7 @@
 name: Disciple of Isidore of Miletus Anonymous
 name_greek: Ἀνώνυμος Μαθητής τοῦ Ἰσιδώρου τοῦ Μιλησίου
 eul_aid: upk
-canonical: "https://eulogikon.org/en/anonymous-disciple-of-isidore-of-miletus"
+canonical: "https://eulogikon.org/authors/disciple-of-isidore-anon-upk"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Μαθητής τοῦ Ἰσιδώρου τοῦ Μιλησίου*
 
-**eul_aid:** `upk` · [HTML page](https://eulogikon.org/en/anonymous-disciple-of-isidore-of-miletus)
+**eul_aid:** `upk` · [HTML page](https://eulogikon.org/authors/disciple-of-isidore-anon-upk)
 
 Anonymous disciple of Isidore of Miletus, a 6th century CE technical writer. Technical Koine treatise. Free to read and download from the Greek library archive.
 

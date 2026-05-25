@@ -2,7 +2,7 @@
 name: Ptolemy III Euergetes King of Egypt
 name_greek: Πτολεμαῖος ὁ Εὐεργέτης
 eul_aid: kka
-canonical: "https://eulogikon.org/en/ptolemy-iii-euergetes"
+canonical: "https://eulogikon.org/authors/ptolemy-iii-euergetes-kka"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πτολεμαῖος ὁ Εὐεργέτης*
 
-**eul_aid:** `kka` · [HTML page](https://eulogikon.org/en/ptolemy-iii-euergetes)
+**eul_aid:** `kka` · [HTML page](https://eulogikon.org/authors/ptolemy-iii-euergetes-kka)
 
 Ptolemy III Euergetes, Hellenistic King of Egypt. Surviving poetic works from the Koine period. Free to read and download from the Greek library archive.
 

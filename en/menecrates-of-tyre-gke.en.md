@@ -2,7 +2,7 @@
 name: Menecrates of Tyre
 name_greek: Μενεκράτης ὁ Τύριος
 eul_aid: gke
-canonical: "https://eulogikon.org/en/menecrates-of-tyre"
+canonical: "https://eulogikon.org/authors/menecrates-of-tyre-gke"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκράτης ὁ Τύριος*
 
-**eul_aid:** `gke` · [HTML page](https://eulogikon.org/en/menecrates-of-tyre)
+**eul_aid:** `gke` · [HTML page](https://eulogikon.org/authors/menecrates-of-tyre-gke)
 
 Menecrates of Tyre was a 4th century BCE historian. Surviving fragments of his works are preserved. Free to read and download from the Greek library archive.
 

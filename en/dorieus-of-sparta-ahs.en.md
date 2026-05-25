@@ -2,7 +2,7 @@
 name: Dorieus of Sparta
 name_greek: Δωριεύς ὁ Λακεδαιμόνιος
 eul_aid: ahs
-canonical: "https://eulogikon.org/en/dorieus-of-sparta"
+canonical: "https://eulogikon.org/authors/dorieus-of-sparta-ahs"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωριεύς ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `ahs` · [HTML page](https://eulogikon.org/en/dorieus-of-sparta)
+**eul_aid:** `ahs` · [HTML page](https://eulogikon.org/authors/dorieus-of-sparta-ahs)
 
 Dorieus of Sparta was an Archaic Greek poet writing in Doric dialect. His surviving poetic works preserved as fragments. Free to download from Greek archive.
 

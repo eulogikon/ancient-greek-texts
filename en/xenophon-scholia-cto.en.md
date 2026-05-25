@@ -2,7 +2,7 @@
 name: Xenophon Scholia
 name_greek: Ξενοφῶντος Σχόλια
 eul_aid: cto
-canonical: "https://eulogikon.org/en/xenophon-scholia"
+canonical: "https://eulogikon.org/authors/xenophon-scholia-cto"
 period: Classical
 dialect: Mixed Dialects
 works_count: 12
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφῶντος Σχόλια*
 
-**eul_aid:** `cto` · [HTML page](https://eulogikon.org/en/xenophon-scholia)
+**eul_aid:** `cto` · [HTML page](https://eulogikon.org/authors/xenophon-scholia-cto)
 
 Xenophon Scholia are notes on Xenophon's historical works. Twelve surviving texts provide commentary. Free to read and download from the Greek library archive.
 

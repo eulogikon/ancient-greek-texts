@@ -2,7 +2,7 @@
 name: Eriphus the Comic Poet
 name_greek: Ἔριφος ὁ κωμικός
 eul_aid: eyc
-canonical: "https://eulogikon.org/en/eriphus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/eriphus-the-comic-poet-eyc"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔριφος ὁ κωμικός*
 
-**eul_aid:** `eyc` · [HTML page](https://eulogikon.org/en/eriphus-the-comic-poet)
+**eul_aid:** `eyc` · [HTML page](https://eulogikon.org/authors/eriphus-the-comic-poet-eyc)
 
 Eriphus was an Athenian comic poet of the 5th century BCE. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Macedonius the Lyric Poet
 name_greek: Μακεδόνιος ὁ Λυρικός
 eul_aid: joc
-canonical: "https://eulogikon.org/en/macedonius-the-lyric-poet"
+canonical: "https://eulogikon.org/authors/macedonius-the-lyric-poet-joc"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μακεδόνιος ὁ Λυρικός*
 
-**eul_aid:** `joc` · [HTML page](https://eulogikon.org/en/macedonius-the-lyric-poet)
+**eul_aid:** `joc` · [HTML page](https://eulogikon.org/authors/macedonius-the-lyric-poet-joc)
 
 Macedonius the Lyric Poet, a Hellenistic poet of the 3rd century BCE. Works include his lyric poetry. Free to read and download from the Greek library archive.
 

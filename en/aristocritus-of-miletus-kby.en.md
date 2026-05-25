@@ -2,7 +2,7 @@
 name: Aristocritus of Miletus
 name_greek: Ἀριστόκριτος ὁ Μιλήσιος
 eul_aid: kby
-canonical: "https://eulogikon.org/en/aristocritus-of-miletus"
+canonical: "https://eulogikon.org/authors/aristocritus-of-miletus-kby"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόκριτος ὁ Μιλήσιος*
 
-**eul_aid:** `kby` · [HTML page](https://eulogikon.org/en/aristocritus-of-miletus)
+**eul_aid:** `kby` · [HTML page](https://eulogikon.org/authors/aristocritus-of-miletus-kby)
 
 Aristocritus of Miletus, a Hellenistic historian of the 3rd century BCE. Works in Koine Greek prose. Free to read and download from the Greek library archive.
 

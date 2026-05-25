@@ -2,7 +2,7 @@
 name: Hellanicus of Lesbos
 name_greek: Ἑλλάνικος ὁ Λέσβιος
 eul_aid: cvm
-canonical: "https://eulogikon.org/en/hellanicus-of-lesbos"
+canonical: "https://eulogikon.org/authors/hellanicus-of-lesbos-cvm"
 period: Classical
 dialect: Aeolic (frg)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑλλάνικος ὁ Λέσβιος*
 
-**eul_aid:** `cvm` · [HTML page](https://eulogikon.org/en/hellanicus-of-lesbos)
+**eul_aid:** `cvm` · [HTML page](https://eulogikon.org/authors/hellanicus-of-lesbos-cvm)
 
 Hellanicus of Lesbos, a 5th century BCE historian. Fragmentary historical and mythological works. Free to read and download from the Greek library archive.
 

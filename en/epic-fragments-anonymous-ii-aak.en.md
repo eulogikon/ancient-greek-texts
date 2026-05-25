@@ -2,7 +2,7 @@
 name: Epic Fragments Anonymous II
 name_greek: Ἔπη Ἀδέσποτα
 eul_aid: aak
-canonical: "https://eulogikon.org/en/epic-fragments-anonymous-ii"
+canonical: "https://eulogikon.org/authors/epic-fragments-anon-aak"
 period: Archaic
 dialect: Literary Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔπη Ἀδέσποτα*
 
-**eul_aid:** `aak` · [HTML page](https://eulogikon.org/en/epic-fragments-anonymous-ii)
+**eul_aid:** `aak` · [HTML page](https://eulogikon.org/authors/epic-fragments-anon-aak)
 
 Anonymous author of archaic Greek epic fragments. Two surviving works of verse in the epic tradition. Free to read and download from the Greek library archive.
 

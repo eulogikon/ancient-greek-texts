@@ -2,7 +2,7 @@
 name: Comic Fragments Anonymous III
 name_greek: Κωμικὰ Ἀδέσποτα
 eul_aid: kge
-canonical: "https://eulogikon.org/en/comic-fragments-anonymous-iii"
+canonical: "https://eulogikon.org/authors/comic-fragments-anon-kge"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κωμικὰ Ἀδέσποτα*
 
-**eul_aid:** `kge` · [HTML page](https://eulogikon.org/en/comic-fragments-anonymous-iii)
+**eul_aid:** `kge` · [HTML page](https://eulogikon.org/authors/comic-fragments-anon-kge)
 
 Anonymous Hellenistic comic poet from the 5th to 3rd centuries BCE. Surviving fragments of Attic comedy. Free to download from the Greek library archive.
 

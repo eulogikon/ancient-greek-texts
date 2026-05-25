@@ -2,7 +2,7 @@
 name: Procopius of Caesarea
 name_greek: Προκόπιος ὁ Καισαρεύς
 eul_aid: unc
-canonical: "https://eulogikon.org/en/procopius-of-caesarea"
+canonical: "https://eulogikon.org/authors/procopius-of-caesarea-unc"
 period: Late Antique
 dialect: Atticizing
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προκόπιος ὁ Καισαρεύς*
 
-**eul_aid:** `unc` · [HTML page](https://eulogikon.org/en/procopius-of-caesarea)
+**eul_aid:** `unc` · [HTML page](https://eulogikon.org/authors/procopius-of-caesarea-unc)
 
 Procopius of Caesarea, 6th century CE historian. Works include histories of Justinian's wars. Free to read and download from the Greek library archive.
 

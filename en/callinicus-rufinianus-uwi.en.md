@@ -2,7 +2,7 @@
 name: Callinicus Rufinianus
 name_greek: Not Available
 eul_aid: uwi
-canonical: "https://eulogikon.org/en/callinicus-rufinianus"
+canonical: "https://eulogikon.org/authors/callinicus-rufinianus-uwi"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Not Available*
 
-**eul_aid:** `uwi` · [HTML page](https://eulogikon.org/en/callinicus-rufinianus)
+**eul_aid:** `uwi` · [HTML page](https://eulogikon.org/authors/callinicus-rufinianus-uwi)
 
 Callinicus Rufinianus, Imperial era biographer of the 1st to 4th century CE. Biographical works. Free to read and download from the Greek library archive.
 

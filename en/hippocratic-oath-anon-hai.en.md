@@ -2,7 +2,7 @@
 name: Hippocratic Oath Anonymous
 name_greek: Ὅρκος ὁ Ἱπποκρατικός
 eul_aid: hai
-canonical: "https://eulogikon.org/en/hippocratic-oath-anon"
+canonical: "https://eulogikon.org/authors/hippocratic-oath-anon-hai"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅρκος ὁ Ἱπποκρατικός*
 
-**eul_aid:** `hai` · [HTML page](https://eulogikon.org/en/hippocratic-oath-anon)
+**eul_aid:** `hai` · [HTML page](https://eulogikon.org/authors/hippocratic-oath-anon-hai)
 
 Anonymous author of the foundational medical ethics text. The surviving Hippocratic Oath treatise. Free to read and download from the Greek library archive.
 

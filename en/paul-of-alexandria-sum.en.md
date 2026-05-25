@@ -2,7 +2,7 @@
 name: Paul of Alexandria the Astrologer
 name_greek: Παῦλος ὁ Ἀλεξανδρεύς
 eul_aid: sum
-canonical: "https://eulogikon.org/en/paul-of-alexandria"
+canonical: "https://eulogikon.org/authors/paul-of-alexandria-sum"
 period: Late Antique
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παῦλος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `sum` · [HTML page](https://eulogikon.org/en/paul-of-alexandria)
+**eul_aid:** `sum` · [HTML page](https://eulogikon.org/authors/paul-of-alexandria-sum)
 
 Paul of Alexandria, a 4th century CE astrologer. His surviving works include an astrological treatise. Free to read and download from the Greek library archive.
 

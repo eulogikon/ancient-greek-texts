@@ -2,7 +2,7 @@
 name: Aristotle Lives
 name_greek: Ἀριστοτέλους Βίοι
 eul_aid: tuq
-canonical: "https://eulogikon.org/en/aristotle-lives"
+canonical: "https://eulogikon.org/authors/aristotle-lives-tuq"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοτέλους Βίοι*
 
-**eul_aid:** `tuq` · [HTML page](https://eulogikon.org/en/aristotle-lives)
+**eul_aid:** `tuq` · [HTML page](https://eulogikon.org/authors/aristotle-lives-tuq)
 
 Aristotle Lives is a late antique biographical text from the 4th to 6th century CE. Two surviving Koine Greek works. Free to download from the Greek archive.
 

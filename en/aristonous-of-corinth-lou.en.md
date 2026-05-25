@@ -2,7 +2,7 @@
 name: Aristonous of Corinth
 name_greek: Ἀριστόνους ὁ Κορίνθιος
 eul_aid: lou
-canonical: "https://eulogikon.org/en/aristonous-of-corinth"
+canonical: "https://eulogikon.org/authors/aristonous-of-corinth-lou"
 period: Hellenistic
 dialect: Literary Doric
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόνους ὁ Κορίνθιος*
 
-**eul_aid:** `lou` · [HTML page](https://eulogikon.org/en/aristonous-of-corinth)
+**eul_aid:** `lou` · [HTML page](https://eulogikon.org/authors/aristonous-of-corinth-lou)
 
 Aristonous of Corinth, a Hellenistic poet writing in literary Doric. Two surviving poetic works from 3rd century BCE. Free to download from the Greek archive.
 

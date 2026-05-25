@@ -2,7 +2,7 @@
 name: Strattis the Comic Poet
 name_greek: Στράττις ὁ κωμικός
 eul_aid: eco
-canonical: "https://eulogikon.org/en/strattis-the-comic-poet"
+canonical: "https://eulogikon.org/authors/strattis-the-comic-poet-eco"
 period: Classical
 dialect: Attic Comedy
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στράττις ὁ κωμικός*
 
-**eul_aid:** `eco` · [HTML page](https://eulogikon.org/en/strattis-the-comic-poet)
+**eul_aid:** `eco` · [HTML page](https://eulogikon.org/authors/strattis-the-comic-poet-eco)
 
 Strattis, Athenian comic poet of late 5th century BCE Old Comedy. Surviving fragments from four plays. Free to read and download from the Greek library archive.
 

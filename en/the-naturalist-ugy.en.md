@@ -2,7 +2,7 @@
 name: The Naturalist
 name_greek: Ὁ Φυσιολόγος
 eul_aid: ugy
-canonical: "https://eulogikon.org/en/the-naturalist"
+canonical: "https://eulogikon.org/authors/the-naturalist-ugy"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁ Φυσιολόγος*
 
-**eul_aid:** `ugy` · [HTML page](https://eulogikon.org/en/the-naturalist)
+**eul_aid:** `ugy` · [HTML page](https://eulogikon.org/authors/the-naturalist-ugy)
 
 Physiologus, a late antique author writing in Christian Koine. Treatise on natural science from antiquity. Free to download from the Greek library archive.
 

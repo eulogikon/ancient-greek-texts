@@ -2,7 +2,7 @@
 name: Troilus of Constantinople
 name_greek: Τρώϊλος ὁ Κωνσταντινουπολίτης
 eul_aid: upa
-canonical: "https://eulogikon.org/en/troilus-of-constantinople"
+canonical: "https://eulogikon.org/authors/troilus-of-constantinople-upa"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τρώϊλος ὁ Κωνσταντινουπολίτης*
 
-**eul_aid:** `upa` · [HTML page](https://eulogikon.org/en/troilus-of-constantinople)
+**eul_aid:** `upa` · [HTML page](https://eulogikon.org/authors/troilus-of-constantinople-upa)
 
 Troilus of Constantinople, a late antique orator of the 4th to 5th century CE. His surviving orations. Free to read and download from the Greek library archive.
 

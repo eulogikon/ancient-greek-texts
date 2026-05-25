@@ -2,7 +2,7 @@
 name: Arcadius of Antioch the Grammarian
 name_greek: "Ἀρκάδιος ὁ Ἀντιοχεύς, γραμματικός"
 eul_aid: qke
-canonical: "https://eulogikon.org/en/arcadius-of-antioch"
+canonical: "https://eulogikon.org/authors/arcadius-of-antioch-qke"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρκάδιος ὁ Ἀντιοχεύς, γραμματικός*
 
-**eul_aid:** `qke` · [HTML page](https://eulogikon.org/en/arcadius-of-antioch)
+**eul_aid:** `qke` · [HTML page](https://eulogikon.org/authors/arcadius-of-antioch-qke)
 
 Arcadius of Antioch was a 2nd century Greek grammarian. His grammatical treatise is preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Heraclides the Critic
 name_greek: Ἡρακλείδης ὁ Κριτικός
 eul_aid: lrm
-canonical: "https://eulogikon.org/en/heraclides-the-critic"
+canonical: "https://eulogikon.org/authors/heraclides-the-critic-lrm"
 period: Hellenistic
 dialect: Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Κριτικός*
 
-**eul_aid:** `lrm` · [HTML page](https://eulogikon.org/en/heraclides-the-critic)
+**eul_aid:** `lrm` · [HTML page](https://eulogikon.org/authors/heraclides-the-critic-lrm)
 
 Heraclides the Critic, a Hellenistic Pythagorean author of the 3rd century BCE. Philosophical works. Free to read and download from the Greek library archive.
 

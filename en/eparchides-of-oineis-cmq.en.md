@@ -2,7 +2,7 @@
 name: Eparchides of Oineis
 name_greek: Ἐπαρχίδης ὁ Οἰνηΐτης
 eul_aid: cmq
-canonical: "https://eulogikon.org/en/eparchides-of-oineis"
+canonical: "https://eulogikon.org/authors/eparchides-of-oineis-cmq"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπαρχίδης ὁ Οἰνηΐτης*
 
-**eul_aid:** `cmq` · [HTML page](https://eulogikon.org/en/eparchides-of-oineis)
+**eul_aid:** `cmq` · [HTML page](https://eulogikon.org/authors/eparchides-of-oineis-cmq)
 
 Eparchides of Oineis, a 4th century BCE Attic historian. His historical works survive as fragments. Free to read and download from the Greek library archive.
 

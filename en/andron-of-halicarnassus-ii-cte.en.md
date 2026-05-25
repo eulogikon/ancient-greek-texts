@@ -2,7 +2,7 @@
 name: Andron of Halicarnassus II
 name_greek: Ἄνδρων ὁ Ἁλικαρνασσεύς
 eul_aid: cte
-canonical: "https://eulogikon.org/en/andron-of-halicarnassus-ii"
+canonical: "https://eulogikon.org/authors/andron-of-halicarnassus-cte"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνδρων ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `cte` · [HTML page](https://eulogikon.org/en/andron-of-halicarnassus-ii)
+**eul_aid:** `cte` · [HTML page](https://eulogikon.org/authors/andron-of-halicarnassus-cte)
 
 Andron of Halicarnassus, a 4th century BCE geographer. Surviving fragments of geographical works. Free to read and download from the Greek library archive.
 

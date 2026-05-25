@@ -2,7 +2,7 @@
 name: Anaximenes-pseudo Miletus Letters
 name_greek: Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)
 eul_aid: etm
-canonical: "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters"
+canonical: "https://eulogikon.org/authors/anaximenes-ps-miletus-letters-etm"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)*
 
-**eul_aid:** `etm` · [HTML page](https://eulogikon.org/en/anaximenes-pseudo-miletus-letters)
+**eul_aid:** `etm` · [HTML page](https://eulogikon.org/authors/anaximenes-ps-miletus-letters-etm)
 
 Pseudo Anaximenes, a 4th century BCE rhetorical writer. Works include the Letters of Anaximenes. Free to read and download from the Greek library archive.
 

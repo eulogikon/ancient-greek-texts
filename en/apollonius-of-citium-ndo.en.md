@@ -2,7 +2,7 @@
 name: Apollonius of Citium
 name_greek: Ἀπολλώνιος ὁ Κιτιεύς
 eul_aid: ndo
-canonical: "https://eulogikon.org/en/apollonius-of-citium"
+canonical: "https://eulogikon.org/authors/apollonius-of-citium-ndo"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Κιτιεύς*
 
-**eul_aid:** `ndo` · [HTML page](https://eulogikon.org/en/apollonius-of-citium)
+**eul_aid:** `ndo` · [HTML page](https://eulogikon.org/authors/apollonius-of-citium-ndo)
 
 Apollonius of Citium, a 1st century BCE physician from Cyprus. His surviving medical treatise. Free to read and download from the Greek library archive.
 

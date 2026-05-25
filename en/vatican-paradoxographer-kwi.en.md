@@ -2,7 +2,7 @@
 name: Vatican Paradoxographer
 name_greek: Παραδοξογράφος Βατικανός
 eul_aid: kwi
-canonical: "https://eulogikon.org/en/vatican-paradoxographer"
+canonical: "https://eulogikon.org/authors/vatican-paradoxographer-kwi"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παραδοξογράφος Βατικανός*
 
-**eul_aid:** `kwi` · [HTML page](https://eulogikon.org/en/vatican-paradoxographer)
+**eul_aid:** `kwi` · [HTML page](https://eulogikon.org/authors/vatican-paradoxographer-kwi)
 
 Vatican Paradoxographer, Hellenistic author of paradoxographical works. Texts include the Paradoxa. Free to read and download from the Greek library archive.
 

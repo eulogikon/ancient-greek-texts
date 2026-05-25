@@ -2,7 +2,7 @@
 name: Pyrrhus of Epirus
 name_greek: Πύρρος ὁ Ἠπειρώτης
 eul_aid: ikw
-canonical: "https://eulogikon.org/en/pyrrhus-of-epirus"
+canonical: "https://eulogikon.org/authors/pyrrhus-of-epirus-ikw"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πύρρος ὁ Ἠπειρώτης*
 
-**eul_aid:** `ikw` · [HTML page](https://eulogikon.org/en/pyrrhus-of-epirus)
+**eul_aid:** `ikw` · [HTML page](https://eulogikon.org/authors/pyrrhus-of-epirus-ikw)
 
 Pyrrhus of Epirus, Hellenistic king and commander of the 3rd century BCE. Historical works from antiquity. Free to read and download from the Greek archive.
 

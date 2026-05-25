@@ -2,7 +2,7 @@
 name: Oenomaus of Gadara
 name_greek: Οἰνόμαος ὁ Γαδαρεύς
 eul_aid: pak
-canonical: "https://eulogikon.org/en/oenomaus-of-gadara"
+canonical: "https://eulogikon.org/authors/oenomaus-of-gadara-pak"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Οἰνόμαος ὁ Γαδαρεύς*
 
-**eul_aid:** `pak` · [HTML page](https://eulogikon.org/en/oenomaus-of-gadara)
+**eul_aid:** `pak` · [HTML page](https://eulogikon.org/authors/oenomaus-of-gadara-pak)
 
 Oenomaus of Gadara was a Cynic philosopher of the 2nd century CE. Surviving philosophical treatises. Free to read and download from the Greek library archive.
 

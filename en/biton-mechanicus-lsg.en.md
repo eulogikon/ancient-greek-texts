@@ -2,7 +2,7 @@
 name: Biton Mechanicus
 name_greek: Βίτων ὁ Μηχανικός
 eul_aid: lsg
-canonical: "https://eulogikon.org/en/biton-mechanicus"
+canonical: "https://eulogikon.org/authors/biton-mechanicus-lsg"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίτων ὁ Μηχανικός*
 
-**eul_aid:** `lsg` · [HTML page](https://eulogikon.org/en/biton-mechanicus)
+**eul_aid:** `lsg` · [HTML page](https://eulogikon.org/authors/biton-mechanicus-lsg)
 
 Biton Mechanicus, Hellenistic engineer of the 3rd century BCE. Treatise on military engines. Free to read and download from the Greek library archive.
 

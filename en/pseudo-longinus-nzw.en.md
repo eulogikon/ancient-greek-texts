@@ -2,7 +2,7 @@
 name: Pseudo-Longinus
 name_greek: Ψευδο-Λογγῖνος
 eul_aid: nzw
-canonical: "https://eulogikon.org/en/pseudo-longinus"
+canonical: "https://eulogikon.org/authors/ps-longinus-nzw"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Λογγῖνος*
 
-**eul_aid:** `nzw` · [HTML page](https://eulogikon.org/en/pseudo-longinus)
+**eul_aid:** `nzw` · [HTML page](https://eulogikon.org/authors/ps-longinus-nzw)
 
 Pseudo-Longinus, a Roman era author of Attic oratory. Surviving works include On the Sublime. Free to read and download from the Greek library archive.
 

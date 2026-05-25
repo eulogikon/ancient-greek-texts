@@ -2,7 +2,7 @@
 name: Cassius the Iatrosophist
 name_greek: Κάσσιος ὁ Ἰατροσοφιστής
 eul_aid: qfy
-canonical: "https://eulogikon.org/en/cassius-the-iatrosophist"
+canonical: "https://eulogikon.org/authors/cassius-the-iatrosophist-qfy"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κάσσιος ὁ Ἰατροσοφιστής*
 
-**eul_aid:** `qfy` · [HTML page](https://eulogikon.org/en/cassius-the-iatrosophist)
+**eul_aid:** `qfy` · [HTML page](https://eulogikon.org/authors/cassius-the-iatrosophist-qfy)
 
 Cassius the Iatrosophist, a Roman-era medical writer. Surviving medical treatise in Technical Koine. Free to read and download from the Greek library archive.
 

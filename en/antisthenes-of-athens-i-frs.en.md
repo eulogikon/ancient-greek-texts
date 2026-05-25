@@ -2,7 +2,7 @@
 name: Antisthenes of Athens I
 name_greek: Ἀντισθένης ὁ Ἀθηναῖος
 eul_aid: frs
-canonical: "https://eulogikon.org/en/antisthenes-of-athens-i"
+canonical: "https://eulogikon.org/authors/antisthenes-of-athens-frs"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντισθένης ὁ Ἀθηναῖος*
 
-**eul_aid:** `frs` · [HTML page](https://eulogikon.org/en/antisthenes-of-athens-i)
+**eul_aid:** `frs` · [HTML page](https://eulogikon.org/authors/antisthenes-of-athens-frs)
 
 Antisthenes, Athenian philosopher and founder of Cynicism. Surviving works include philosophical fragments. Free to download from the Greek library archive.
 

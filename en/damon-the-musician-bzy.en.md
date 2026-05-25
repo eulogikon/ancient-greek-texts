@@ -2,7 +2,7 @@
 name: Damon the Musician
 name_greek: Δάμων ὁ Ἀθηναῖος
 eul_aid: bzy
-canonical: "https://eulogikon.org/en/damon-the-musician"
+canonical: "https://eulogikon.org/authors/damon-of-athens-bzy"
 period: Classical
 dialect: Mixed Dialects (frg)
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δάμων ὁ Ἀθηναῖος*
 
-**eul_aid:** `bzy` · [HTML page](https://eulogikon.org/en/damon-the-musician)
+**eul_aid:** `bzy` · [HTML page](https://eulogikon.org/authors/damon-of-athens-bzy)
 
 Damon of Athens was a sophist and music theorist who advised Pericles. Surviving fragments of his writings. Free to download from the Greek library archive.
 

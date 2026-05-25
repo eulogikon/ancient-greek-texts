@@ -2,7 +2,7 @@
 name: Asclepiades of Mendes
 name_greek: Ἀσκληπιάδης ὁ Μενδήσιος
 eul_aid: nio
-canonical: "https://eulogikon.org/en/asclepiades-of-mendes"
+canonical: "https://eulogikon.org/authors/asclepiades-of-mendes-nio"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιάδης ὁ Μενδήσιος*
 
-**eul_aid:** `nio` · [HTML page](https://eulogikon.org/en/asclepiades-of-mendes)
+**eul_aid:** `nio` · [HTML page](https://eulogikon.org/authors/asclepiades-of-mendes-nio)
 
 Asclepiades of Mendes was a Hellenistic grammarian of the 1st century BCE. His grammatical treatise survives. Free to download from the Greek library archive.
 

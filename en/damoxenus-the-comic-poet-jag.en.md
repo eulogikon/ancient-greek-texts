@@ -2,7 +2,7 @@
 name: Damoxenus the Comic Poet
 name_greek: Δαμόξενoς ὁ κωμικός
 eul_aid: jag
-canonical: "https://eulogikon.org/en/damoxenus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/damoxenus-the-comic-poet-jag"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαμόξενoς ὁ κωμικός*
 
-**eul_aid:** `jag` · [HTML page](https://eulogikon.org/en/damoxenus-the-comic-poet)
+**eul_aid:** `jag` · [HTML page](https://eulogikon.org/authors/damoxenus-the-comic-poet-jag)
 
 Damoxenus was an Athenian comic poet of New Comedy. Two fragmentary works survive from his comedies. Free to read and download from the Greek library archive.
 

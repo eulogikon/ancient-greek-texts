@@ -2,7 +2,7 @@
 name: Athanis of Syracuse
 name_greek: Ἄθανις ὁ Συρακούσιος
 eul_aid: gvi
-canonical: "https://eulogikon.org/en/athanis-of-syracuse"
+canonical: "https://eulogikon.org/authors/athanis-of-syracuse-gvi"
 period: Classical
 dialect: Doric (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄθανις ὁ Συρακούσιος*
 
-**eul_aid:** `gvi` · [HTML page](https://eulogikon.org/en/athanis-of-syracuse)
+**eul_aid:** `gvi` · [HTML page](https://eulogikon.org/authors/athanis-of-syracuse-gvi)
 
 Athanis of Syracuse was a 4th century BCE historian. His surviving fragments cover Sicilian history. Free to read and download from the Greek library archive.
 

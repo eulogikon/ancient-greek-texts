@@ -2,7 +2,7 @@
 name: Lycophron of Chalcis
 name_greek: Λυκόφρων ὁ Χαλκιδεύς
 eul_aid: ifw
-canonical: "https://eulogikon.org/en/lycophron-of-chalcis"
+canonical: "https://eulogikon.org/authors/lycophron-of-chalcis-ifw"
 period: Hellenistic
 dialect: Attic Drama
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυκόφρων ὁ Χαλκιδεύς*
 
-**eul_aid:** `ifw` · [HTML page](https://eulogikon.org/en/lycophron-of-chalcis)
+**eul_aid:** `ifw` · [HTML page](https://eulogikon.org/authors/lycophron-of-chalcis-ifw)
 
 Lycophron of Chalcis, Hellenistic dramatist of the 4th–3rd century BCE. Contains the Alexandra and other verse. Free to download from the Greek library archive.
 

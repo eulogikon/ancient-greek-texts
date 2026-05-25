@@ -2,7 +2,7 @@
 name: Polycharmus the Historian
 name_greek: Πολύχαρμος ὁ Ἱστορικός
 eul_aid: cfs
-canonical: "https://eulogikon.org/en/polycharmus-the-historian"
+canonical: "https://eulogikon.org/authors/polycharmus-the-historian-cfs"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πολύχαρμος ὁ Ἱστορικός*
 
-**eul_aid:** `cfs` · [HTML page](https://eulogikon.org/en/polycharmus-the-historian)
+**eul_aid:** `cfs` · [HTML page](https://eulogikon.org/authors/polycharmus-the-historian-cfs)
 
 Polycharmus the Historian, a 4th-3rd century BCE Greek historian. Surviving works in fragments. Free to read and download from the Greek library archive.
 

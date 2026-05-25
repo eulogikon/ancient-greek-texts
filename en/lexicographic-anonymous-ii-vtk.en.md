@@ -2,7 +2,7 @@
 name: Lexicographic Work Anonymous II
 name_greek: Λεξικογραφικὸν ἔργον ἀνώνυμον
 eul_aid: vtk
-canonical: "https://eulogikon.org/en/lexicographic-anonymous-ii"
+canonical: "https://eulogikon.org/authors/lexicographic-work-anon-vtk"
 period: Late Antique
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεξικογραφικὸν ἔργον ἀνώνυμον*
 
-**eul_aid:** `vtk` · [HTML page](https://eulogikon.org/en/lexicographic-anonymous-ii)
+**eul_aid:** `vtk` · [HTML page](https://eulogikon.org/authors/lexicographic-work-anon-vtk)
 
 Anonymous lexicographic work from late antiquity, 2nd-6th centuries CE. A practical scholastic text. Free to read and download from the Greek library archive.
 

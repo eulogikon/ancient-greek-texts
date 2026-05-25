@@ -2,7 +2,7 @@
 name: Xeniades of Corinth
 name_greek: Ξενιάδης ὁ Κορίνθιος
 eul_aid: cjo
-canonical: "https://eulogikon.org/en/xeniades-of-corinth"
+canonical: "https://eulogikon.org/authors/xeniades-of-corinth-cjo"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενιάδης ὁ Κορίνθιος*
 
-**eul_aid:** `cjo` · [HTML page](https://eulogikon.org/en/xeniades-of-corinth)
+**eul_aid:** `cjo` · [HTML page](https://eulogikon.org/authors/xeniades-of-corinth-cjo)
 
 Xeniades of Corinth was a 4th century BCE orator writing in Doric Greek. His surviving works include orations. Free to read and download from the Greek archive.
 

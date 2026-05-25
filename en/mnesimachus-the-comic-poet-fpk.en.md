@@ -2,7 +2,7 @@
 name: Mnesimachus the Comic Poet
 name_greek: Μνησιμάχος ὁ κωμικός
 eul_aid: fpk
-canonical: "https://eulogikon.org/en/mnesimachus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/mnesimachus-the-comic-poet-fpk"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μνησιμάχος ὁ κωμικός*
 
-**eul_aid:** `fpk` · [HTML page](https://eulogikon.org/en/mnesimachus-the-comic-poet)
+**eul_aid:** `fpk` · [HTML page](https://eulogikon.org/authors/mnesimachus-the-comic-poet-fpk)
 
 Mnesimachus was a 4th century BCE Attic comic poet. Fragments from his comedies are preserved. Free to read and download from the Greek library archive.
 

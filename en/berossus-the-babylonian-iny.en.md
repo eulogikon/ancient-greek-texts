@@ -2,7 +2,7 @@
 name: Berossus the Babylonian
 name_greek: Βήρωσσος ὁ Βαβυλώνιος
 eul_aid: iny
-canonical: "https://eulogikon.org/en/berossus-the-babylonian"
+canonical: "https://eulogikon.org/authors/berossus-the-babylonian-iny"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βήρωσσος ὁ Βαβυλώνιος*
 
-**eul_aid:** `iny` · [HTML page](https://eulogikon.org/en/berossus-the-babylonian)
+**eul_aid:** `iny` · [HTML page](https://eulogikon.org/authors/berossus-the-babylonian-iny)
 
 Berossus, a Babylonian priest and scholar. His treatise blends Babylonian and Greek traditions. Free to read and download from the Greek library archive.
 

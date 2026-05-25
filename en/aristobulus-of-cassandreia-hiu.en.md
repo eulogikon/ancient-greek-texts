@@ -2,7 +2,7 @@
 name: Aristobulus of Cassandreia
 name_greek: Ἀριστόβουλος ὁ Κασσανδρεύς
 eul_aid: hiu
-canonical: "https://eulogikon.org/en/aristobulus-of-cassandreia"
+canonical: "https://eulogikon.org/authors/aristobulus-of-cassandreia-hiu"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόβουλος ὁ Κασσανδρεύς*
 
-**eul_aid:** `hiu` · [HTML page](https://eulogikon.org/en/aristobulus-of-cassandreia)
+**eul_aid:** `hiu` · [HTML page](https://eulogikon.org/authors/aristobulus-of-cassandreia-hiu)
 
 Aristobulus of Cassandreia was a 4th century BCE historian of Alexander the Great. His historical fragments. Free to download from the Greek library archive.
 

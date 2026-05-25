@@ -2,7 +2,7 @@
 name: Erinna of Telos
 name_greek: Ἤριννα ἡ Τηλία
 eul_aid: grm
-canonical: "https://eulogikon.org/en/erinna-of-telos"
+canonical: "https://eulogikon.org/authors/erinna-of-telos-grm"
 period: Classical
 dialect: Doric (frg)
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἤριννα ἡ Τηλία*
 
-**eul_aid:** `grm` · [HTML page](https://eulogikon.org/en/erinna-of-telos)
+**eul_aid:** `grm` · [HTML page](https://eulogikon.org/authors/erinna-of-telos-grm)
 
 Erinna of Telos, a 4th century BCE Greek poet. Surviving fragmentary works in Doric dialect. Free to read and download from the Greek library archive.
 

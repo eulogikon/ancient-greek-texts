@@ -2,7 +2,7 @@
 name: Milon the Philosopher
 name_greek: Μίλων ὁ φιλόσοφος
 eul_aid: nos
-canonical: "https://eulogikon.org/en/milon-the-philosopher"
+canonical: "https://eulogikon.org/authors/milon-the-philosopher-nos"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μίλων ὁ φιλόσοφος*
 
-**eul_aid:** `nos` · [HTML page](https://eulogikon.org/en/milon-the-philosopher)
+**eul_aid:** `nos` · [HTML page](https://eulogikon.org/authors/milon-the-philosopher-nos)
 
 Milon the Pythagorean philosopher of the Roman era. His treatise explores Pythagorean thought. Free to read and download from the Greek library archive.
 

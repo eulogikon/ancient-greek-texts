@@ -2,7 +2,7 @@
 name: Marcellinus the Biographer
 name_greek: Μαρκελλῖνος ὁ Βιογράφος
 eul_aid: vmc
-canonical: "https://eulogikon.org/en/marcellinus-the-biographer"
+canonical: "https://eulogikon.org/authors/marcellinus-the-biographer-vmc"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρκελλῖνος ὁ Βιογράφος*
 
-**eul_aid:** `vmc` · [HTML page](https://eulogikon.org/en/marcellinus-the-biographer)
+**eul_aid:** `vmc` · [HTML page](https://eulogikon.org/authors/marcellinus-the-biographer-vmc)
 
 Marcellinus the Biographer, a 6th century Byzantine writer. His work is a biography of Thucydides. Free to read and download from the Greek library archive.
 

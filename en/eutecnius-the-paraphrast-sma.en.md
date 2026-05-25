@@ -2,7 +2,7 @@
 name: Eutecnius the Paraphrast
 name_greek: Εὐτέκνιος
 eul_aid: sma
-canonical: "https://eulogikon.org/en/eutecnius-the-paraphrast"
+canonical: "https://eulogikon.org/authors/eutecnius-the-paraphrast-sma"
 period: Late Antique
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐτέκνιος*
 
-**eul_aid:** `sma` · [HTML page](https://eulogikon.org/en/eutecnius-the-paraphrast)
+**eul_aid:** `sma` · [HTML page](https://eulogikon.org/authors/eutecnius-the-paraphrast-sma)
 
 Eutecnius the Paraphrast, a Late Antique author of the 2nd to 4th century CE. Four surviving orations. Free to read and download from the Greek library archive.
 

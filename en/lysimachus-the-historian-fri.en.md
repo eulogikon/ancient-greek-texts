@@ -2,7 +2,7 @@
 name: Lysimachus the Historian
 name_greek: Λυσίμαχος ὁ Ἱστορικός
 eul_aid: fri
-canonical: "https://eulogikon.org/en/lysimachus-the-historian"
+canonical: "https://eulogikon.org/authors/lysimachus-the-historian-fri"
 period: Classical
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λυσίμαχος ὁ Ἱστορικός*
 
-**eul_aid:** `fri` · [HTML page](https://eulogikon.org/en/lysimachus-the-historian)
+**eul_aid:** `fri` · [HTML page](https://eulogikon.org/authors/lysimachus-the-historian-fri)
 
 Lysimachus the Historian, a 3rd century BCE Greek writer. Two surviving works are preserved. Free to read and download from the Greek library archive.
 

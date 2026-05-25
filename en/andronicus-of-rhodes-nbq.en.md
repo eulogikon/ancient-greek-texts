@@ -2,7 +2,7 @@
 name: Andronicus of Rhodes
 name_greek: Ἀνδρόνικος ὁ Ῥόδιος
 eul_aid: nbq
-canonical: "https://eulogikon.org/en/andronicus-of-rhodes"
+canonical: "https://eulogikon.org/authors/andronicus-of-rhodes-nbq"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδρόνικος ὁ Ῥόδιος*
 
-**eul_aid:** `nbq` · [HTML page](https://eulogikon.org/en/andronicus-of-rhodes)
+**eul_aid:** `nbq` · [HTML page](https://eulogikon.org/authors/andronicus-of-rhodes-nbq)
 
 Andronicus of Rhodes was a Peripatetic philosopher and scholarch of Aristotle's school. Two treatises. Free to read and download from the Greek library archive.
 

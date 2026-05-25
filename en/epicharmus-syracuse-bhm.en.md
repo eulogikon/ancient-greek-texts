@@ -2,7 +2,7 @@
 name: Epicharmus of Syracuse
 name_greek: Ἐπίχαρμος ὁ Συρακόσιος
 eul_aid: bhm
-canonical: "https://eulogikon.org/en/epicharmus-syracuse"
+canonical: "https://eulogikon.org/authors/epicharmus-syracuse-bhm"
 period: Archaic
 dialect: Doric
 works_count: 7
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίχαρμος ὁ Συρακόσιος*
 
-**eul_aid:** `bhm` · [HTML page](https://eulogikon.org/en/epicharmus-syracuse)
+**eul_aid:** `bhm` · [HTML page](https://eulogikon.org/authors/epicharmus-syracuse-bhm)
 
 Epicharmus of Syracuse was an archaic Doric comic playwright. Surviving fragments from seven works. Free to read and download from the Greek library archive.
 

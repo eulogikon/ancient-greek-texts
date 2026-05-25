@@ -2,7 +2,7 @@
 name: Alexander the Ephesian Poet
 name_greek: Ἀλέξανδρος ὁ Ἐφέσιος
 eul_aid: lfy
-canonical: "https://eulogikon.org/en/alexander-of-ephesus-poet"
+canonical: "https://eulogikon.org/authors/alexander-the-ephesian-poet-lfy"
 period: Hellenistic
 dialect: Epic (Homeric)
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Ἐφέσιος*
 
-**eul_aid:** `lfy` · [HTML page](https://eulogikon.org/en/alexander-of-ephesus-poet)
+**eul_aid:** `lfy` · [HTML page](https://eulogikon.org/authors/alexander-the-ephesian-poet-lfy)
 
 Alexander of Ephesus was a Hellenistic poet and sophist. Surviving works include poetry and orations. Free to read and download from the Greek library archive.
 

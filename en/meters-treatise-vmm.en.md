@@ -2,7 +2,7 @@
 name: Meters Treatise
 name_greek: Μετρικὸν σύγγραμμα
 eul_aid: vmm
-canonical: "https://eulogikon.org/en/meters-treatise"
+canonical: "https://eulogikon.org/authors/meters-treatise-vmm"
 period: Late Antique
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μετρικὸν σύγγραμμα*
 
-**eul_aid:** `vmm` · [HTML page](https://eulogikon.org/en/meters-treatise)
+**eul_aid:** `vmm` · [HTML page](https://eulogikon.org/authors/meters-treatise-vmm)
 
 Anonymous author of a handbook on Greek poetic meters. Analyzes metrical patterns in Greek poetry. Free to read and download from the Greek library archive.
 

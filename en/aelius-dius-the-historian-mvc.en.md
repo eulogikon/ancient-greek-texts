@@ -2,7 +2,7 @@
 name: Aelius Dius the Historian
 name_greek: Αἰλίους Δῖος
 eul_aid: mvc
-canonical: "https://eulogikon.org/en/aelius-dius-the-historian"
+canonical: "https://eulogikon.org/authors/aelius-dius-the-historian-mvc"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰλίους Δῖος*
 
-**eul_aid:** `mvc` · [HTML page](https://eulogikon.org/en/aelius-dius-the-historian)
+**eul_aid:** `mvc` · [HTML page](https://eulogikon.org/authors/aelius-dius-the-historian-mvc)
 
 Aelius Dius, a Hellenistic Greek historian of the 1st century BCE. His surviving historical work is fragmentary. Free to download from the Greek archive.
 

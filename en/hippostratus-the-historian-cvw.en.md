@@ -2,7 +2,7 @@
 name: Hippostratus the Historian
 name_greek: Ἱππόστρατος ὁ ἱστορικός
 eul_aid: cvw
-canonical: "https://eulogikon.org/en/hippostratus-the-historian"
+canonical: "https://eulogikon.org/authors/hippostratus-the-historian-cvw"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππόστρατος ὁ ἱστορικός*
 
-**eul_aid:** `cvw` · [HTML page](https://eulogikon.org/en/hippostratus-the-historian)
+**eul_aid:** `cvw` · [HTML page](https://eulogikon.org/authors/hippostratus-the-historian-cvw)
 
 Hippostratus, a classical Greek historian of the 5th-4th century BCE. Surviving historical fragments. Free to read and download from the Greek library archive.
 

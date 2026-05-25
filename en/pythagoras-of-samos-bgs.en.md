@@ -2,7 +2,7 @@
 name: Pythagoras of Samos
 name_greek: Πυθαγόρας ὁ Σάμιος
 eul_aid: bgs
-canonical: "https://eulogikon.org/en/pythagoras-of-samos"
+canonical: "https://eulogikon.org/authors/pythagoras-of-samos-bgs"
 period: Archaic
 dialect: Ionic (frg)
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πυθαγόρας ὁ Σάμιος*
 
-**eul_aid:** `bgs` · [HTML page](https://eulogikon.org/en/pythagoras-of-samos)
+**eul_aid:** `bgs` · [HTML page](https://eulogikon.org/authors/pythagoras-of-samos-bgs)
 
 Pythagoras, 6th century BCE philosopher who founded a school. Five surviving works from his tradition. Free to read and download from the Greek library archive.
 

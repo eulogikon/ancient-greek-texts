@@ -2,7 +2,7 @@
 name: Hippodamus of Miletus
 name_greek: Ἱππόδαμος ὁ Μιλήσιος
 eul_aid: cty
-canonical: "https://eulogikon.org/en/hippodamus-of-miletus"
+canonical: "https://eulogikon.org/authors/hippodamus-of-miletus-cty"
 period: Classical
 dialect: Doric
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππόδαμος ὁ Μιλήσιος*
 
-**eul_aid:** `cty` · [HTML page](https://eulogikon.org/en/hippodamus-of-miletus)
+**eul_aid:** `cty` · [HTML page](https://eulogikon.org/authors/hippodamus-of-miletus-cty)
 
 Hippodamus of Miletus, 5th century BCE Greek philosopher and urban planner. Two surviving works. Free to read and download from the Greek library archive.
 

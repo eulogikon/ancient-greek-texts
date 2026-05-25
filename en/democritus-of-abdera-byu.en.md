@@ -2,7 +2,7 @@
 name: Democritus of Abdera
 name_greek: Δημόκριτος ὁ Ἀβδηρίτης
 eul_aid: byu
-canonical: "https://eulogikon.org/en/democritus-of-abdera"
+canonical: "https://eulogikon.org/authors/democritus-of-abdera-byu"
 period: Classical
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημόκριτος ὁ Ἀβδηρίτης*
 
-**eul_aid:** `byu` · [HTML page](https://eulogikon.org/en/democritus-of-abdera)
+**eul_aid:** `byu` · [HTML page](https://eulogikon.org/authors/democritus-of-abdera-byu)
 
 Democritus, the Classical Greek philosopher from Abdera. Two surviving philosophical works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Sclerias the Tragedian
 name_greek: Σκλήριάς
 eul_aid: geu
-canonical: "https://eulogikon.org/en/sclerias-the-tragedian"
+canonical: "https://eulogikon.org/authors/sclerias-the-tragedian-geu"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σκλήριάς*
 
-**eul_aid:** `geu` · [HTML page](https://eulogikon.org/en/sclerias-the-tragedian)
+**eul_aid:** `geu` · [HTML page](https://eulogikon.org/authors/sclerias-the-tragedian-geu)
 
 Sclerias the Tragedian, a 4th century BCE Attic dramatist. Surviving fragmentary works from classical drama. Free to download from the Greek library archive.
 

@@ -44,23 +44,6 @@
   "works_count": 5,
   "works": [
     {
-      "eul_wid": "ece-ae",
-      "title": {
-        "english": "On the Virtues of Herbs",
-        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
-      },
-      "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
-      "passages": 2,
-      "links": {
-        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.epub"
-      }
-    },
-    {
       "eul_wid": "ece-aa",
       "title": {
         "english": "On the Virtues of Herbs",
@@ -109,6 +92,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "ece-ae",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.epub"
       }
     },
     {

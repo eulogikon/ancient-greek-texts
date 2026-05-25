@@ -2,7 +2,7 @@
 name: Demetrius On Style
 name_greek: Δημήτριος ὁ Περὶ Ἑρμηνείας
 eul_aid: nvg
-canonical: "https://eulogikon.org/en/demetrius-on-style"
+canonical: "https://eulogikon.org/authors/demetrius-on-style-nvg"
 period: Roman
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημήτριος ὁ Περὶ Ἑρμηνείας*
 
-**eul_aid:** `nvg` · [HTML page](https://eulogikon.org/en/demetrius-on-style)
+**eul_aid:** `nvg` · [HTML page](https://eulogikon.org/authors/demetrius-on-style-nvg)
 
 Demetrius On Style, a 2nd century BCE Roman author on rhetoric. Two works on oratory and style. Free to read and download from the Greek library archive.
 

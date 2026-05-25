@@ -2,7 +2,7 @@
 name: Asclepiades of Myrlea
 name_greek: Ἀσκληπιάδης ὁ Μυρλεανός
 eul_aid: mus
-canonical: "https://eulogikon.org/en/asclepiades-of-myrlea"
+canonical: "https://eulogikon.org/authors/asclepiades-of-myrlea-mus"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιάδης ὁ Μυρλεανός*
 
-**eul_aid:** `mus` · [HTML page](https://eulogikon.org/en/asclepiades-of-myrlea)
+**eul_aid:** `mus` · [HTML page](https://eulogikon.org/authors/asclepiades-of-myrlea-mus)
 
 Asclepiades of Myrlea, a Hellenistic grammarian. Read his surviving grammatical treatise fragments. Free to read and download from the Greek library archive.
 

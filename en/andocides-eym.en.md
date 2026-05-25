@@ -2,7 +2,7 @@
 name: Andocides
 name_greek: Ἀνδοκίδης
 eul_aid: eym
-canonical: "https://eulogikon.org/en/andocides"
+canonical: "https://eulogikon.org/authors/andocides-eym"
 period: Classical
 dialect: Attic
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδοκίδης*
 
-**eul_aid:** `eym` · [HTML page](https://eulogikon.org/en/andocides)
+**eul_aid:** `eym` · [HTML page](https://eulogikon.org/authors/andocides-eym)
 
 Andocides, Athenian orator of the 5th century BCE. Five surviving orations document his legal career. Free to read and download from the Greek library archive.
 

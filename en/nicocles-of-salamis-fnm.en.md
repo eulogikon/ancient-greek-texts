@@ -2,7 +2,7 @@
 name: Nicocles of Salamis
 name_greek: Νικοκλῆς ὁ Σαλαμίνιος
 eul_aid: fnm
-canonical: "https://eulogikon.org/en/nicocles-of-salamis"
+canonical: "https://eulogikon.org/authors/nicocles-of-salamis-fnm"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικοκλῆς ὁ Σαλαμίνιος*
 
-**eul_aid:** `fnm` · [HTML page](https://eulogikon.org/en/nicocles-of-salamis)
+**eul_aid:** `fnm` · [HTML page](https://eulogikon.org/authors/nicocles-of-salamis-fnm)
 
 Nicocles of Salamis, a 4th century BCE historian. His surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

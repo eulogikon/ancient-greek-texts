@@ -2,7 +2,7 @@
 name: Menophilus the Poet
 name_greek: Μηνόφιλος ὁ ποιητής
 eul_aid: gao
-canonical: "https://eulogikon.org/en/menophilus-the-poet"
+canonical: "https://eulogikon.org/authors/menophilus-the-poet-gao"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μηνόφιλος ὁ ποιητής*
 
-**eul_aid:** `gao` · [HTML page](https://eulogikon.org/en/menophilus-the-poet)
+**eul_aid:** `gao` · [HTML page](https://eulogikon.org/authors/menophilus-the-poet-gao)
 
 Menophilus the Poet, a Hellenistic or Imperial era Greek poet. Surviving fragmentary verse. Free to read and download from the Greek library archive.
 

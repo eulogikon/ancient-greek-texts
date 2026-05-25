@@ -2,7 +2,7 @@
 name: Euripides the Tragedian
 name_greek: Εὐριπίδης ὁ τραγῳδιοποιός
 eul_aid: cbw
-canonical: "https://eulogikon.org/en/euripides-the-tragedian"
+canonical: "https://eulogikon.org/authors/euripides-the-tragedian-cbw"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐριπίδης ὁ τραγῳδιοποιός*
 
-**eul_aid:** `cbw` · [HTML page](https://eulogikon.org/en/euripides-the-tragedian)
+**eul_aid:** `cbw` · [HTML page](https://eulogikon.org/authors/euripides-the-tragedian-cbw)
 
 Euripides, the 5th century BCE Athenian tragedian. Surviving works include Medea and The Bacchae. Free to read and download from the Greek library archive.
 

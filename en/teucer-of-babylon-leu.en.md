@@ -2,7 +2,7 @@
 name: Teucer of Babylon
 name_greek: Τεῦκρος ὁ Βαβυλώνιος
 eul_aid: leu
-canonical: "https://eulogikon.org/en/teucer-of-babylon"
+canonical: "https://eulogikon.org/authors/teucer-of-babylon-leu"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τεῦκρος ὁ Βαβυλώνιος*
 
-**eul_aid:** `leu` · [HTML page](https://eulogikon.org/en/teucer-of-babylon)
+**eul_aid:** `leu` · [HTML page](https://eulogikon.org/authors/teucer-of-babylon-leu)
 
 Teucer of Babylon was a Hellenistic astrologer and scientist. Two surviving technical treatises. Free to read and download from the Greek library archive.
 

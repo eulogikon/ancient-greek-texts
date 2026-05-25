@@ -2,7 +2,7 @@
 name: Astrampsychus the Magician
 name_greek: Ἀστράμψυχος ὁ μάγος
 eul_aid: ptg
-canonical: "https://eulogikon.org/en/astrampsychus-the-magician"
+canonical: "https://eulogikon.org/authors/astrampsychus-the-magician-ptg"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀστράμψυχος ὁ μάγος*
 
-**eul_aid:** `ptg` · [HTML page](https://eulogikon.org/en/astrampsychus-the-magician)
+**eul_aid:** `ptg` · [HTML page](https://eulogikon.org/authors/astrampsychus-the-magician-ptg)
 
 Astrampsychus the Magician was a Roman era author of scientific works. Two treatises survive. Free to read and download from the Greek library archive.
 

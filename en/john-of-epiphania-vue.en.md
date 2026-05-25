@@ -2,7 +2,7 @@
 name: John of Epiphania
 name_greek: Ἰωάννης ὁ Ἐπιφανεύς
 eul_aid: vue
-canonical: "https://eulogikon.org/en/john-of-epiphania"
+canonical: "https://eulogikon.org/authors/john-of-epiphania-vue"
 period: Late Antique
 dialect: Literary Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Ἐπιφανεύς*
 
-**eul_aid:** `vue` · [HTML page](https://eulogikon.org/en/john-of-epiphania)
+**eul_aid:** `vue` · [HTML page](https://eulogikon.org/authors/john-of-epiphania-vue)
 
 John of Epiphania, a 6th century CE historian writing in Koine Greek. His surviving historical work. Free to read and download from the Greek library archive.
 

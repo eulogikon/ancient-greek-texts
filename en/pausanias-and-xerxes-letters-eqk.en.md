@@ -2,7 +2,7 @@
 name: Pausanias and Xerxes Letters
 name_greek: Παυσανίου καὶ Ξέρξου Ἐπιστολαί
 eul_aid: eqk
-canonical: "https://eulogikon.org/en/pausanias-and-xerxes-letters"
+canonical: "https://eulogikon.org/authors/pausanias-and-xerxes-letters-eqk"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παυσανίου καὶ Ξέρξου Ἐπιστολαί*
 
-**eul_aid:** `eqk` · [HTML page](https://eulogikon.org/en/pausanias-and-xerxes-letters)
+**eul_aid:** `eqk` · [HTML page](https://eulogikon.org/authors/pausanias-and-xerxes-letters-eqk)
 
 Pausanias and Xerxes, a 5th century BCE epistolary tradition. Their surviving exchange of letters. Free to read and download from the Greek library archive.
 

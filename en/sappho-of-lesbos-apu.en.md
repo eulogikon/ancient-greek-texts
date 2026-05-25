@@ -2,7 +2,7 @@
 name: Sappho of Lesbos
 name_greek: Σαπφώ ἡ Λεσβία
 eul_aid: apu
-canonical: "https://eulogikon.org/en/sappho-of-lesbos"
+canonical: "https://eulogikon.org/authors/sappho-of-lesbos-apu"
 period: Archaic
 dialect: Aeolic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σαπφώ ἡ Λεσβία*
 
-**eul_aid:** `apu` · [HTML page](https://eulogikon.org/en/sappho-of-lesbos)
+**eul_aid:** `apu` · [HTML page](https://eulogikon.org/authors/sappho-of-lesbos-apu)
 
 Sappho, the Archaic lyric poet from Lesbos. Her surviving poetry fragments include four major works. Free to read and download from the Greek library archive.
 

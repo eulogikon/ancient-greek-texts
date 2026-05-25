@@ -2,7 +2,7 @@
 name: Cleon of Athens
 name_greek: Κλέων ὁ Ἀθηναῖος
 eul_aid: doi
-canonical: "https://eulogikon.org/en/cleon-of-athens"
+canonical: "https://eulogikon.org/authors/cleon-of-athens-doi"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλέων ὁ Ἀθηναῖος*
 
-**eul_aid:** `doi` · [HTML page](https://eulogikon.org/en/cleon-of-athens)
+**eul_aid:** `doi` · [HTML page](https://eulogikon.org/authors/cleon-of-athens-doi)
 
 Cleon of Athens was a 5th century BCE Attic poet. Surviving poetic works in verse form. Free to read and download from the Greek library archive.
 

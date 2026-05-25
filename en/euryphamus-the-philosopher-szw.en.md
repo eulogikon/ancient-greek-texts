@@ -2,7 +2,7 @@
 name: Euryphamus the Philosopher
 name_greek: Εὐρυφάμος
 eul_aid: szw
-canonical: "https://eulogikon.org/en/euryphamus-the-philosopher"
+canonical: "https://eulogikon.org/authors/euryphamus-the-philosopher-szw"
 period: Late Antique
 dialect: "Koine (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐρυφάμος*
 
-**eul_aid:** `szw` · [HTML page](https://eulogikon.org/en/euryphamus-the-philosopher)
+**eul_aid:** `szw` · [HTML page](https://eulogikon.org/authors/euryphamus-the-philosopher-szw)
 
 Euryphamus was a late antique Pythagorean philosopher. His surviving treatise is fragmentary. Free to read and download from the Greek library archive.
 

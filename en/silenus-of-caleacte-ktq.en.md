@@ -2,7 +2,7 @@
 name: Silenus of Caleacte
 name_greek: Σιληνός ὁ Καλακτηνός
 eul_aid: ktq
-canonical: "https://eulogikon.org/en/silenus-of-caleacte"
+canonical: "https://eulogikon.org/authors/silenus-of-caleacte-ktq"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σιληνός ὁ Καλακτηνός*
 
-**eul_aid:** `ktq` · [HTML page](https://eulogikon.org/en/silenus-of-caleacte)
+**eul_aid:** `ktq` · [HTML page](https://eulogikon.org/authors/silenus-of-caleacte-ktq)
 
 Silenus of Caleacte was a Hellenistic historian. His historical fragments survive in Koine Greek. Free to read and download from the Greek library archive.
 

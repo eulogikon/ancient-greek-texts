@@ -2,7 +2,7 @@
 name: Anthemius of Tralles
 name_greek: Ἀνθέμιος ὁ Τραλλιανός
 eul_aid: vdg
-canonical: "https://eulogikon.org/en/anthemius-of-tralles"
+canonical: "https://eulogikon.org/authors/anthemius-of-tralles-vdg"
 period: Late Antique
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνθέμιος ὁ Τραλλιανός*
 
-**eul_aid:** `vdg` · [HTML page](https://eulogikon.org/en/anthemius-of-tralles)
+**eul_aid:** `vdg` · [HTML page](https://eulogikon.org/authors/anthemius-of-tralles-vdg)
 
 Anthemius of Tralles, a 6th century CE mathematician and architect. Treatises on mathematics and geometry. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Menelaus the Historian
 name_greek: Μενέλαος ὁ ἱστορικός
 eul_aid: njs
-canonical: "https://eulogikon.org/en/menelaus-the-historian"
+canonical: "https://eulogikon.org/authors/menelaus-the-historian-njs"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενέλαος ὁ ἱστορικός*
 
-**eul_aid:** `njs` · [HTML page](https://eulogikon.org/en/menelaus-the-historian)
+**eul_aid:** `njs` · [HTML page](https://eulogikon.org/authors/menelaus-the-historian-njs)
 
 Menelaus the Historian was a Hellenistic writer of the 1st century BCE. His surviving historical works are fragmentary. Free to download from the Greek archive.
 

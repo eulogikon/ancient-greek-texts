@@ -2,7 +2,7 @@
 name: Crobylus the Comic Poet
 name_greek: Κρόβυλος
 eul_aid: lhc
-canonical: "https://eulogikon.org/en/crobylus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/crobylus-the-comic-poet-lhc"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρόβυλος*
 
-**eul_aid:** `lhc` · [HTML page](https://eulogikon.org/en/crobylus-the-comic-poet)
+**eul_aid:** `lhc` · [HTML page](https://eulogikon.org/authors/crobylus-the-comic-poet-lhc)
 
 Crobylus was an Athenian comic poet of the 4th century BCE. Two fragmentary works survive. Free to read and download from the Greek library archive.
 

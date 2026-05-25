@@ -2,7 +2,7 @@
 name: Peisander of Camirus
 name_greek: Πείσανδρος ὁ Καμείριος
 eul_aid: alo
-canonical: "https://eulogikon.org/en/peisander-of-camirus"
+canonical: "https://eulogikon.org/authors/peisander-of-camirus-alo"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πείσανδρος ὁ Καμείριος*
 
-**eul_aid:** `alo` · [HTML page](https://eulogikon.org/en/peisander-of-camirus)
+**eul_aid:** `alo` · [HTML page](https://eulogikon.org/authors/peisander-of-camirus-alo)
 
 Peisander of Camirus, an Archaic epic poet from Rhodes. Two surviving works are attributed to him. Free to read and download from the Greek library archive.
 

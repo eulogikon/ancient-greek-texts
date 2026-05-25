@@ -2,7 +2,7 @@
 name: Cyrus the Rhetorician
 name_greek: Κῦρος ὁ Ῥητορικός
 eul_aid: pve
-canonical: "https://eulogikon.org/en/cyrus-the-rhetorician"
+canonical: "https://eulogikon.org/authors/cyrus-the-rhetorician-pve"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κῦρος ὁ Ῥητορικός*
 
-**eul_aid:** `pve` · [HTML page](https://eulogikon.org/en/cyrus-the-rhetorician)
+**eul_aid:** `pve` · [HTML page](https://eulogikon.org/authors/cyrus-the-rhetorician-pve)
 
 Cyrus the Rhetorician was a Roman era Greek orator. His surviving oration is available. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Athamas of Posidonia
 name_greek: Ἀθάμας ὁ Ποσειδωνιάτης
 eul_aid: dcu
-canonical: "https://eulogikon.org/en/athamas-of-posidonia"
+canonical: "https://eulogikon.org/authors/athamas-of-posidonia-dcu"
 period: Classical
 dialect: "Doric (phi, frg)"
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθάμας ὁ Ποσειδωνιάτης*
 
-**eul_aid:** `dcu` · [HTML page](https://eulogikon.org/en/athamas-of-posidonia)
+**eul_aid:** `dcu` · [HTML page](https://eulogikon.org/authors/athamas-of-posidonia-dcu)
 
 Athamas of Posidonia, a 5th century BCE Pythagorean philosopher. Surviving philosophical fragments. Free to read and download from the Greek library archive.
 

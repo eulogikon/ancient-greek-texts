@@ -2,7 +2,7 @@
 name: Leon of Pella
 name_greek: Λέων ὁ Πελλαῖος
 eul_aid: ktg
-canonical: "https://eulogikon.org/en/leon-of-pella"
+canonical: "https://eulogikon.org/authors/leon-of-pella-ktg"
 period: Hellenistic
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λέων ὁ Πελλαῖος*
 
-**eul_aid:** `ktg` · [HTML page](https://eulogikon.org/en/leon-of-pella)
+**eul_aid:** `ktg` · [HTML page](https://eulogikon.org/authors/leon-of-pella-ktg)
 
 Leon of Pella, a 4th century BCE Hellenistic historian. Surviving works include his historical texts. Free to read and download from the Greek library archive.
 

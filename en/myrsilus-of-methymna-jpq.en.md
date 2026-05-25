@@ -2,7 +2,7 @@
 name: Myrsilus of Methymna
 name_greek: Μύρσιλος ὁ Μηθυμναῖος
 eul_aid: jpq
-canonical: "https://eulogikon.org/en/myrsilus-of-methymna"
+canonical: "https://eulogikon.org/authors/myrsilus-of-methymna-jpq"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μύρσιλος ὁ Μηθυμναῖος*
 
-**eul_aid:** `jpq` · [HTML page](https://eulogikon.org/en/myrsilus-of-methymna)
+**eul_aid:** `jpq` · [HTML page](https://eulogikon.org/authors/myrsilus-of-methymna-jpq)
 
 Myrsilus of Methymna was a Hellenistic historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

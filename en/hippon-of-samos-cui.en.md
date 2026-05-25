@@ -2,7 +2,7 @@
 name: Hippon of Samos
 name_greek: Ἵππων ὁ Σάμιος
 eul_aid: cui
-canonical: "https://eulogikon.org/en/hippon-of-samos"
+canonical: "https://eulogikon.org/authors/hippon-of-samos-cui"
 period: Classical
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππων ὁ Σάμιος*
 
-**eul_aid:** `cui` · [HTML page](https://eulogikon.org/en/hippon-of-samos)
+**eul_aid:** `cui` · [HTML page](https://eulogikon.org/authors/hippon-of-samos-cui)
 
 Hippon of Samos, a Presocratic philosopher of the 5th century BCE. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

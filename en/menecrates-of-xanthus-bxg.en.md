@@ -2,7 +2,7 @@
 name: Menecrates of Xanthus
 name_greek: Μενεκράτης ὁ Ξάνθιος
 eul_aid: bxg
-canonical: "https://eulogikon.org/en/menecrates-of-xanthus"
+canonical: "https://eulogikon.org/authors/menecrates-of-xanthus-bxg"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενεκράτης ὁ Ξάνθιος*
 
-**eul_aid:** `bxg` · [HTML page](https://eulogikon.org/en/menecrates-of-xanthus)
+**eul_aid:** `bxg` · [HTML page](https://eulogikon.org/authors/menecrates-of-xanthus-bxg)
 
 Menecrates of Xanthus, a 4th century BCE Ionic historian. Surviving historical works from the Classical era. Free to read and download from the Greek archive.
 

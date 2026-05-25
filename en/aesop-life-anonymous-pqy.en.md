@@ -2,7 +2,7 @@
 name: Aesop Life-anonymous
 name_greek: Αἰσώπου Βίος-ἀνώνυμος
 eul_aid: pqy
-canonical: "https://eulogikon.org/en/aesop-life-anonymous"
+canonical: "https://eulogikon.org/authors/aesop-life-anon-pqy"
 period: Roman
 dialect: Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσώπου Βίος-ἀνώνυμος*
 
-**eul_aid:** `pqy` · [HTML page](https://eulogikon.org/en/aesop-life-anonymous)
+**eul_aid:** `pqy` · [HTML page](https://eulogikon.org/authors/aesop-life-anon-pqy)
 
 Aesop Life Anonymous is a 2nd century CE Roman biography in Koine Greek prose. Five surviving texts about the fabulist. Free to download from the Greek library.
 

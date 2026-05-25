@@ -2,7 +2,7 @@
 name: Timotheus of Gaza
 name_greek: Τιμόθεος ὁ Γαζαῖος
 eul_aid: usw
-canonical: "https://eulogikon.org/en/timotheus-of-gaza"
+canonical: "https://eulogikon.org/authors/timotheus-of-gaza-usw"
 period: Late Antique
 dialect: Christian Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόθεος ὁ Γαζαῖος*
 
-**eul_aid:** `usw` · [HTML page](https://eulogikon.org/en/timotheus-of-gaza)
+**eul_aid:** `usw` · [HTML page](https://eulogikon.org/authors/timotheus-of-gaza-usw)
 
 Timotheus of Gaza was a late antique grammarian writing in Christian Koine. His surviving works include grammatical texts. Free to download from Greek archive.
 

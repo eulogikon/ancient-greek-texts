@@ -2,7 +2,7 @@
 name: Dionysius of Corinth
 name_greek: Διονύσιος ὁ Κορίνθιος
 eul_aid: qrw
-canonical: "https://eulogikon.org/en/dionysius-of-corinth"
+canonical: "https://eulogikon.org/authors/dionysius-of-corinth-qrw"
 period: Roman
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Κορίνθιος*
 
-**eul_aid:** `qrw` · [HTML page](https://eulogikon.org/en/dionysius-of-corinth)
+**eul_aid:** `qrw` · [HTML page](https://eulogikon.org/authors/dionysius-of-corinth-qrw)
 
 Dionysius of Corinth was a 2nd century Christian bishop. Surviving works include his pastoral letters. Free to read and download from the Greek library archive.
 

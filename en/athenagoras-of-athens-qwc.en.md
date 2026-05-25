@@ -2,7 +2,7 @@
 name: Athenagoras of Athens
 name_greek: Ἀθηναγόρας ὁ Ἀθηναῖος
 eul_aid: qwc
-canonical: "https://eulogikon.org/en/athenagoras-of-athens"
+canonical: "https://eulogikon.org/authors/athenagoras-of-athens-qwc"
 period: Roman
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθηναγόρας ὁ Ἀθηναῖος*
 
-**eul_aid:** `qwc` · [HTML page](https://eulogikon.org/en/athenagoras-of-athens)
+**eul_aid:** `qwc` · [HTML page](https://eulogikon.org/authors/athenagoras-of-athens-qwc)
 
 Athenagoras of Athens, 2nd century Christian philosopher. Includes Apology and On the Resurrection. Free to read and download from the Greek library archive.
 

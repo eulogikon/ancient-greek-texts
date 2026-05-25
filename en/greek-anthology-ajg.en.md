@@ -2,7 +2,7 @@
 name: Greek Anthology
 name_greek: Ἀνθολογία Ἑλληνική
 eul_aid: ajg
-canonical: "https://eulogikon.org/en/greek-anthology"
+canonical: "https://eulogikon.org/authors/greek-anthology-ajg"
 period: Archaic
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνθολογία Ἑλληνική*
 
-**eul_aid:** `ajg` · [HTML page](https://eulogikon.org/en/greek-anthology)
+**eul_aid:** `ajg` · [HTML page](https://eulogikon.org/authors/greek-anthology-ajg)
 
 A vast collection of ancient Greek epigrams spanning centuries, with thousands of poetic works. Free to read and download from the Greek library archive.
 

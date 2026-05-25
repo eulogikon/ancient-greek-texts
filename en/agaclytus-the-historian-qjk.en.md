@@ -2,7 +2,7 @@
 name: Agaclytus the Historian
 name_greek: Ἀγακλύτος ὁ Ἱστορικός
 eul_aid: qjk
-canonical: "https://eulogikon.org/en/agaclytus-the-historian"
+canonical: "https://eulogikon.org/authors/agaclytus-the-historian-qjk"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγακλύτος ὁ Ἱστορικός*
 
-**eul_aid:** `qjk` · [HTML page](https://eulogikon.org/en/agaclytus-the-historian)
+**eul_aid:** `qjk` · [HTML page](https://eulogikon.org/authors/agaclytus-the-historian-qjk)
 
 Agaclytus, Roman era historian writing in Koine Greek. Surviving historical works from the 2nd century CE. Free to download from the Greek library archive.
 

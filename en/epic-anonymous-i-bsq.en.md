@@ -2,7 +2,7 @@
 name: Epic Work Anonymous I
 name_greek: Ἐπικὸν ποίημα Ἀνώνυμον
 eul_aid: bsq
-canonical: "https://eulogikon.org/en/epic-anonymous-i"
+canonical: "https://eulogikon.org/authors/epic-work-anon-bsq"
 period: Classical
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπικὸν ποίημα Ἀνώνυμον*
 
-**eul_aid:** `bsq` · [HTML page](https://eulogikon.org/en/epic-anonymous-i)
+**eul_aid:** `bsq` · [HTML page](https://eulogikon.org/authors/epic-work-anon-bsq)
 
 Anonymous epic poet from the Classical period, 8th to 4th century BCE. Surviving works include one epic poem. Free to download from the Greek library archive.
 

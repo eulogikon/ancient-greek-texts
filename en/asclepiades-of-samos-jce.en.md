@@ -2,7 +2,7 @@
 name: Asclepiades of Samos
 name_greek: Ἀσκληπιάδης ὁ Σάμιος
 eul_aid: jce
-canonical: "https://eulogikon.org/en/asclepiades-of-samos"
+canonical: "https://eulogikon.org/authors/asclepiades-of-samos-jce"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιάδης ὁ Σάμιος*
 
-**eul_aid:** `jce` · [HTML page](https://eulogikon.org/en/asclepiades-of-samos)
+**eul_aid:** `jce` · [HTML page](https://eulogikon.org/authors/asclepiades-of-samos-jce)
 
 Asclepiades of Samos, Hellenistic poet of the 3rd century BCE. Works include epigrams and lyric poems. Free to read and download from the Greek library archive.
 

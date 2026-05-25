@@ -2,7 +2,7 @@
 name: Philodemus of Gadara
 name_greek: Φιλόδημος ὁ Γαδαρεύς
 eul_aid: msu
-canonical: "https://eulogikon.org/en/philodemus-of-gadara"
+canonical: "https://eulogikon.org/authors/philodemus-of-gadara-msu"
 period: Hellenistic
 dialect: Koine
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόδημος ὁ Γαδαρεύς*
 
-**eul_aid:** `msu` · [HTML page](https://eulogikon.org/en/philodemus-of-gadara)
+**eul_aid:** `msu` · [HTML page](https://eulogikon.org/authors/philodemus-of-gadara-msu)
 
 Philodemus was a Hellenistic Epicurean philosopher and poet from Gadara. Read his surviving treatises. Free to read and download from the Greek library archive.
 

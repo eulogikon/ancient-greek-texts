@@ -2,7 +2,7 @@
 name: Timolaus of Larissa
 name_greek: Τιμόλαος ὁ Λαρισσαῖος
 eul_aid: ghc
-canonical: "https://eulogikon.org/en/timolaus-of-larissa"
+canonical: "https://eulogikon.org/authors/timolaus-of-larissa-ghc"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόλαος ὁ Λαρισσαῖος*
 
-**eul_aid:** `ghc` · [HTML page](https://eulogikon.org/en/timolaus-of-larissa)
+**eul_aid:** `ghc` · [HTML page](https://eulogikon.org/authors/timolaus-of-larissa-ghc)
 
 Timolaus of Larissa was a 4th century BCE Attic orator. One surviving oration is preserved. Free to read and download from the Greek library archive.
 

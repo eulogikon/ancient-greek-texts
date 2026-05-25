@@ -2,7 +2,7 @@
 name: Neoptolemus the Grammarian
 name_greek: Νεοπτόλεμος ὁ γραμματικός
 eul_aid: kxc
-canonical: "https://eulogikon.org/en/neoptolemus-the-grammarian"
+canonical: "https://eulogikon.org/authors/neoptolemus-the-grammarian-kxc"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νεοπτόλεμος ὁ γραμματικός*
 
-**eul_aid:** `kxc` · [HTML page](https://eulogikon.org/en/neoptolemus-the-grammarian)
+**eul_aid:** `kxc` · [HTML page](https://eulogikon.org/authors/neoptolemus-the-grammarian-kxc)
 
 Neoptolemus the Grammarian was a 2nd century BCE Hellenistic scholar. His grammatical works survive. Free to read and download from the Greek library archive.
 

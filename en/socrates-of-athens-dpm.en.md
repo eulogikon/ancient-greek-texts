@@ -2,7 +2,7 @@
 name: Socrates of Athens
 name_greek: Σωκράτης ὁ Ἀθηναῖος
 eul_aid: dpm
-canonical: "https://eulogikon.org/en/socrates-of-athens"
+canonical: "https://eulogikon.org/authors/socrates-of-athens-dpm"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωκράτης ὁ Ἀθηναῖος*
 
-**eul_aid:** `dpm` · [HTML page](https://eulogikon.org/en/socrates-of-athens)
+**eul_aid:** `dpm` · [HTML page](https://eulogikon.org/authors/socrates-of-athens-dpm)
 
 Socrates of Athens, classical Greek philosopher of the 5th century BCE. Works from his tradition. Free to read and download from the Greek library archive.
 

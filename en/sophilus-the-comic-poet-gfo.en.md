@@ -2,7 +2,7 @@
 name: Sophilus the Comic Poet
 name_greek: Σώφιλος ὁ κωμικός
 eul_aid: gfo
-canonical: "https://eulogikon.org/en/sophilus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/sophilus-the-comic-poet-gfo"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σώφιλος ὁ κωμικός*
 
-**eul_aid:** `gfo` · [HTML page](https://eulogikon.org/en/sophilus-the-comic-poet)
+**eul_aid:** `gfo` · [HTML page](https://eulogikon.org/authors/sophilus-the-comic-poet-gfo)
 
 Sophilos was a 4th century BCE Attic comic poet. Read surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aelius Dionysius of Halicarnassus
 name_greek: Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς
 eul_aid: psw
-canonical: "https://eulogikon.org/en/aelius-dionysius-of-halicarnassus"
+canonical: "https://eulogikon.org/authors/aelius-dionysius-psw"
 period: Roman
 dialect: Atticizing Technical
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς*
 
-**eul_aid:** `psw` · [HTML page](https://eulogikon.org/en/aelius-dionysius-of-halicarnassus)
+**eul_aid:** `psw` · [HTML page](https://eulogikon.org/authors/aelius-dionysius-psw)
 
 Aelius Dionysius, a 2nd century CE Greek grammarian. His surviving works include technical treatises. Free to read and download from the Greek library archive.
 

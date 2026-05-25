@@ -2,7 +2,7 @@
 name: Cleanthes of Assos
 name_greek: Κλεάνθης ὁ Ἀσσεύς
 eul_aid: jew
-canonical: "https://eulogikon.org/en/cleanthes-of-assos"
+canonical: "https://eulogikon.org/authors/cleanthes-of-assos-jew"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλεάνθης ὁ Ἀσσεύς*
 
-**eul_aid:** `jew` · [HTML page](https://eulogikon.org/en/cleanthes-of-assos)
+**eul_aid:** `jew` · [HTML page](https://eulogikon.org/authors/cleanthes-of-assos-jew)
 
 Cleanthes, Stoic philosopher of the Hellenistic period. Surviving fragments include the Hymn to Zeus. Free to read and download from the Greek library archive.
 

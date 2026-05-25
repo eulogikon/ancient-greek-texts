@@ -2,7 +2,7 @@
 name: Iamblichus of Chalcis
 name_greek: Ἰάμβλιχος ὁ Χαλκιδεύς
 eul_aid: udw
-canonical: "https://eulogikon.org/en/iamblichus-of-chalcis"
+canonical: "https://eulogikon.org/authors/iamblichus-of-chalcis-udw"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰάμβλιχος ὁ Χαλκιδεύς*
 
-**eul_aid:** `udw` · [HTML page](https://eulogikon.org/en/iamblichus-of-chalcis)
+**eul_aid:** `udw` · [HTML page](https://eulogikon.org/authors/iamblichus-of-chalcis-udw)
 
 Iamblichus, a major Syrian Neoplatonist philosopher. Surviving works include treatises and letters. Free to read and download from the Greek library archive.
 

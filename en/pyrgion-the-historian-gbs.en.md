@@ -2,7 +2,7 @@
 name: Pyrgion the Historian
 name_greek: Πυργίων ὁ ἱστορικός
 eul_aid: gbs
-canonical: "https://eulogikon.org/en/pyrgion-the-historian"
+canonical: "https://eulogikon.org/authors/pyrgion-the-historian-gbs"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πυργίων ὁ ἱστορικός*
 
-**eul_aid:** `gbs` · [HTML page](https://eulogikon.org/en/pyrgion-the-historian)
+**eul_aid:** `gbs` · [HTML page](https://eulogikon.org/authors/pyrgion-the-historian-gbs)
 
 Pyrgion the Historian, uncertain Hellenistic or Imperial date. Surviving historical fragments in Koine Greek prose. Free to read and download from Eulogikon
 

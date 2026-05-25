@@ -2,7 +2,7 @@
 name: Diogenes of Sinope the Cynic
 name_greek: Διογένης ὁ Σινωπεύς
 eul_aid: fic
-canonical: "https://eulogikon.org/en/diogenes-of-sinope-the-cynic"
+canonical: "https://eulogikon.org/authors/diogenes-of-sinope-the-cynic-fic"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διογένης ὁ Σινωπεύς*
 
-**eul_aid:** `fic` · [HTML page](https://eulogikon.org/en/diogenes-of-sinope-the-cynic)
+**eul_aid:** `fic` · [HTML page](https://eulogikon.org/authors/diogenes-of-sinope-the-cynic-fic)
 
 Diogenes of Sinope was a 4th century BCE Greek Cynic philosopher. Surviving works include epistles. Free to read and download from the Greek library archive.
 

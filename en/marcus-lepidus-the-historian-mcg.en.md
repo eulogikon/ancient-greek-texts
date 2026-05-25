@@ -2,7 +2,7 @@
 name: Marcus Lepidus the Historian
 name_greek: Μᾶρκος Ληπίδος ὁ ἱστορικός
 eul_aid: mcg
-canonical: "https://eulogikon.org/en/marcus-lepidus-the-historian"
+canonical: "https://eulogikon.org/authors/marcus-lepidus-the-historian-mcg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μᾶρκος Ληπίδος ὁ ἱστορικός*
 
-**eul_aid:** `mcg` · [HTML page](https://eulogikon.org/en/marcus-lepidus-the-historian)
+**eul_aid:** `mcg` · [HTML page](https://eulogikon.org/authors/marcus-lepidus-the-historian-mcg)
 
 Marcus Lepidus, a Hellenistic historian of the 1st century BCE. Surviving historical works in Greek. Free to read and download from the Greek library archive.
 

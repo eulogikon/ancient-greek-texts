@@ -2,7 +2,7 @@
 name: Diodorus the Rhetorician
 name_greek: Διόδωρος ὁ ῥήτωρ
 eul_aid: nse
-canonical: "https://eulogikon.org/en/diodorus-the-rhetorician"
+canonical: "https://eulogikon.org/authors/diodorus-the-rhetorician-nse"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόδωρος ὁ ῥήτωρ*
 
-**eul_aid:** `nse` · [HTML page](https://eulogikon.org/en/diodorus-the-rhetorician)
+**eul_aid:** `nse` · [HTML page](https://eulogikon.org/authors/diodorus-the-rhetorician-nse)
 
 Diodorus the Rhetorician, Roman orator of the 1st-3rd century CE. Koine Greek oration fragments. Free to read and download from the Greek library archive.
 

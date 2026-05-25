@@ -2,7 +2,7 @@
 name: Stesimbrotus of Thasos the Historian
 name_greek: Στησίμβροτος ὁ Θάσιος
 eul_aid: dti
-canonical: "https://eulogikon.org/en/stesimbrotus-of-thasos"
+canonical: "https://eulogikon.org/authors/stesimbrotus-of-thasos-dti"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στησίμβροτος ὁ Θάσιος*
 
-**eul_aid:** `dti` · [HTML page](https://eulogikon.org/en/stesimbrotus-of-thasos)
+**eul_aid:** `dti` · [HTML page](https://eulogikon.org/authors/stesimbrotus-of-thasos-dti)
 
 Stesimbrotus of Thasos, a 5th century BCE historian and biographer. Explore his surviving fragments. Free to read and download from the Greek library archive.
 

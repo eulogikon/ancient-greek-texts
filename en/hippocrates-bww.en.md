@@ -2,7 +2,7 @@
 name: Hippocrates and the Hippocratic Corpus
 name_greek: Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα
 eul_aid: bww
-canonical: "https://eulogikon.org/en/hippocrates"
+canonical: "https://eulogikon.org/authors/hippocrates-and-corpus-bww"
 period: Classical
 dialect: Ionic
 works_count: 65
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα*
 
-**eul_aid:** `bww` · [HTML page](https://eulogikon.org/en/hippocrates)
+**eul_aid:** `bww` · [HTML page](https://eulogikon.org/authors/hippocrates-and-corpus-bww)
 
 Hippocrates, foundational figure of ancient Greek medicine. Surviving works include medical treatises. Free to read and download from the Greek library archive.
 

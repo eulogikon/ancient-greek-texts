@@ -2,7 +2,7 @@
 name: Cephisodorus the Comic Poet
 name_greek: Κηφισόδωρος ὁ κωμικός
 eul_aid: eec
-canonical: "https://eulogikon.org/en/cephisodorus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/cephisodorus-the-comic-poet-eec"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κηφισόδωρος ὁ κωμικός*
 
-**eul_aid:** `eec` · [HTML page](https://eulogikon.org/en/cephisodorus-the-comic-poet)
+**eul_aid:** `eec` · [HTML page](https://eulogikon.org/authors/cephisodorus-the-comic-poet-eec)
 
 Cephisodorus was a classical Athenian comic poet. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

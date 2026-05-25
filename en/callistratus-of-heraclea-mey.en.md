@@ -2,7 +2,7 @@
 name: Callistratus of Heraclea Pontica
 name_greek: Καλλίστρατος ὁ Ἡρακλεώτης
 eul_aid: mey
-canonical: "https://eulogikon.org/en/callistratus-of-heraclea"
+canonical: "https://eulogikon.org/authors/callistratus-of-heraclea-mey"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλίστρατος ὁ Ἡρακλεώτης*
 
-**eul_aid:** `mey` · [HTML page](https://eulogikon.org/en/callistratus-of-heraclea)
+**eul_aid:** `mey` · [HTML page](https://eulogikon.org/authors/callistratus-of-heraclea-mey)
 
 Callistratus of Heraclea Pontica, Hellenistic historian of the 2nd century BCE. Historical fragments. Free to read and download from the Greek library archive.
 

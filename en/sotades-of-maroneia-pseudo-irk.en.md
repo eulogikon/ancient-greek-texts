@@ -2,7 +2,7 @@
 name: Sotades of Maroneia Pseudo
 name_greek: Σωτάδης ὁ Μαρωνεὺς ὁ Ψευδής
 eul_aid: irk
-canonical: "https://eulogikon.org/en/sotades-of-maroneia-pseudo"
+canonical: "https://eulogikon.org/authors/sotades-of-maroneia-ps-irk"
 period: Hellenistic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωτάδης ὁ Μαρωνεὺς ὁ Ψευδής*
 
-**eul_aid:** `irk` · [HTML page](https://eulogikon.org/en/sotades-of-maroneia-pseudo)
+**eul_aid:** `irk` · [HTML page](https://eulogikon.org/authors/sotades-of-maroneia-ps-irk)
 
 Pseudo Sotades of Maroneia, a Hellenistic poet writing in Ionic dialect. Surviving verse attributed to this author. Free to download from the Greek archive.
 

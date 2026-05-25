@@ -2,7 +2,7 @@
 name: Hymn of the Curetes Anonymous
 name_greek: Ἄνυμος Κουρητῶν ὕμνος
 eul_aid: aku
-canonical: "https://eulogikon.org/en/hymn-of-the-curetes-anonymous"
+canonical: "https://eulogikon.org/authors/hymn-of-the-curetes-anon-aku"
 period: Archaic
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνυμος Κουρητῶν ὕμνος*
 
-**eul_aid:** `aku` · [HTML page](https://eulogikon.org/en/hymn-of-the-curetes-anonymous)
+**eul_aid:** `aku` · [HTML page](https://eulogikon.org/authors/hymn-of-the-curetes-anon-aku)
 
 Anonymous Doric hymn from 7th century BCE Archaic Greece. Surviving ritual poetry of the Curetes. Free to read and download from the Greek library archive.
 

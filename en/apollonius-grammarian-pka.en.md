@@ -2,7 +2,7 @@
 name: Apollonius Grammarian
 name_greek: Ἀπολλώνιος ὁ Γραμματικός
 eul_aid: pka
-canonical: "https://eulogikon.org/en/apollonius-grammarian"
+canonical: "https://eulogikon.org/authors/apollonius-grammarian-pka"
 period: Roman
 dialect: Atticizing Technical
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλώνιος ὁ Γραμματικός*
 
-**eul_aid:** `pka` · [HTML page](https://eulogikon.org/en/apollonius-grammarian)
+**eul_aid:** `pka` · [HTML page](https://eulogikon.org/authors/apollonius-grammarian-pka)
 
 Apollonius the Grammarian, a 2nd century Greek scholar. Four surviving works on language and grammar. Free to read and download from the Greek library archive.
 

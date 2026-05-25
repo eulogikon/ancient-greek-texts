@@ -2,7 +2,7 @@
 name: Hegesianax of Alexandria Troas
 name_greek: Ἑγησηναξ Ἀλεξανδρότροιανός
 eul_aid: kqe
-canonical: "https://eulogikon.org/en/hegesianax-of-alexandria-troas"
+canonical: "https://eulogikon.org/authors/hegesianax-of-alexandria-troas-kqe"
 period: Hellenistic
 dialect: Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑγησηναξ Ἀλεξανδρότροιανός*
 
-**eul_aid:** `kqe` · [HTML page](https://eulogikon.org/en/hegesianax-of-alexandria-troas)
+**eul_aid:** `kqe` · [HTML page](https://eulogikon.org/authors/hegesianax-of-alexandria-troas-kqe)
 
 Hegesianax of Alexandria Troas, a Hellenistic author of the 2nd century BCE. Three surviving works. Free to read and download from the Greek library archive.
 

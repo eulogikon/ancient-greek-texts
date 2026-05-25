@@ -2,7 +2,7 @@
 name: Scholia on Homer
 name_greek: τὰ σχόλια εἰς Ὅμηρον
 eul_aid: jmo
-canonical: "https://eulogikon.org/en/scholia-on-homer"
+canonical: "https://eulogikon.org/authors/scholia-on-homer-jmo"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *τὰ σχόλια εἰς Ὅμηρον*
 
-**eul_aid:** `jmo` · [HTML page](https://eulogikon.org/en/scholia-on-homer)
+**eul_aid:** `jmo` · [HTML page](https://eulogikon.org/authors/scholia-on-homer-jmo)
 
 Scholia on Homer are ancient notes on the Iliad and Odyssey. This archive preserves the commentary. Free to read and download from the Greek library archive.
 

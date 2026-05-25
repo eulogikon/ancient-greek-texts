@@ -2,7 +2,7 @@
 name: Theagenes of Rhegium
 name_greek: Θεαγένης ὁ Ῥηγῖνος
 eul_aid: eow
-canonical: "https://eulogikon.org/en/theagenes-of-rhegium"
+canonical: "https://eulogikon.org/authors/theagenes-of-rhegium-eow"
 period: Classical
 dialect: Doric
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεαγένης ὁ Ῥηγῖνος*
 
-**eul_aid:** `eow` · [HTML page](https://eulogikon.org/en/theagenes-of-rhegium)
+**eul_aid:** `eow` · [HTML page](https://eulogikon.org/authors/theagenes-of-rhegium-eow)
 
 Theagenes of Rhegium, a 6th century BCE thinker, pioneered allegorical interpretation of texts. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Demosthenes of Bithynia
 name_greek: Δημοσθένης ὁ Βιθυνός
 eul_aid: mfi
-canonical: "https://eulogikon.org/en/demosthenes-of-bithynia"
+canonical: "https://eulogikon.org/authors/demosthenes-of-bithynia-mfi"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημοσθένης ὁ Βιθυνός*
 
-**eul_aid:** `mfi` · [HTML page](https://eulogikon.org/en/demosthenes-of-bithynia)
+**eul_aid:** `mfi` · [HTML page](https://eulogikon.org/authors/demosthenes-of-bithynia-mfi)
 
 Demosthenes of Bithynia, a 2nd century BCE epic poet. Surviving fragments of his Homeric verse. Free to read and download from the Greek library archive.
 

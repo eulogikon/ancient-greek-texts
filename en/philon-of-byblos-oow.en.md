@@ -2,7 +2,7 @@
 name: Philon of Byblos
 name_greek: Φίλων ὁ Βύβλιος
 eul_aid: oow
-canonical: "https://eulogikon.org/en/philon-of-byblos"
+canonical: "https://eulogikon.org/authors/philon-of-byblos-oow"
 period: Roman
 dialect: Koine (frg)
 works_count: 8
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Βύβλιος*
 
-**eul_aid:** `oow` · [HTML page](https://eulogikon.org/en/philon-of-byblos)
+**eul_aid:** `oow` · [HTML page](https://eulogikon.org/authors/philon-of-byblos-oow)
 
 Philon of Byblos, Greek grammarian and historian. Works include fragments on Phoenician history. Free to read and download from the Greek library archive.
 

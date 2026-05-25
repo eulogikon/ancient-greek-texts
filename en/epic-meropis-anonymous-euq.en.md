@@ -2,7 +2,7 @@
 name: "Epic: Meropis  Anonymous"
 name_greek: Ἀνώνυμος ἔπος Μεροπίς
 eul_aid: euq
-canonical: "https://eulogikon.org/en/epic-meropis-anonymous"
+canonical: "https://eulogikon.org/authors/epic:-meropis-anon-euq"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ἔπος Μεροπίς*
 
-**eul_aid:** `euq` · [HTML page](https://eulogikon.org/en/epic-meropis-anonymous)
+**eul_aid:** `euq` · [HTML page](https://eulogikon.org/authors/epic:-meropis-anon-euq)
 
 Anonymous author of the Meropis, a 4th century BCE Greek epic poem. Fragment in Ionic dialect. Free to read and download from the Greek library archive.
 

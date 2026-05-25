@@ -2,7 +2,7 @@
 name: Dionysius of Alexandria
 name_greek: Διονύσιος ὁ Ἀλεξανδρεύς
 eul_aid: rna
-canonical: "https://eulogikon.org/en/dionysius-of-alexandria"
+canonical: "https://eulogikon.org/authors/dionysius-of-alexandria-rna"
 period: Roman
 dialect: Christian Koine
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `rna` · [HTML page](https://eulogikon.org/en/dionysius-of-alexandria)
+**eul_aid:** `rna` · [HTML page](https://eulogikon.org/authors/dionysius-of-alexandria-rna)
 
 Dionysius of Alexandria was a 3rd century CE geographer writing in Christian Koine. Free to read and download from the Greek library and archive.
 

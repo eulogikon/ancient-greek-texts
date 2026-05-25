@@ -2,7 +2,7 @@
 name: Xenophanes of Colophon
 name_greek: Ξενοφάνης ὁ Κολοφώνιος
 eul_aid: beu
-canonical: "https://eulogikon.org/en/xenophanes-of-colophon"
+canonical: "https://eulogikon.org/authors/xenophanes-of-colophon-beu"
 period: Archaic
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφάνης ὁ Κολοφώνιος*
 
-**eul_aid:** `beu` · [HTML page](https://eulogikon.org/en/xenophanes-of-colophon)
+**eul_aid:** `beu` · [HTML page](https://eulogikon.org/authors/xenophanes-of-colophon-beu)
 
 Xenophanes of Colophon, Ionian poet and presocratic philosopher. Surviving fragments of his verse. Free to read and download from the Greek library archive.
 

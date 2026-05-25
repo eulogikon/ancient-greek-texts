@@ -2,7 +2,7 @@
 name: Timotheus of Miletus
 name_greek: Τιμόθεος ὁ Μιλήσιος
 eul_aid: dhk
-canonical: "https://eulogikon.org/en/timotheus-of-miletus"
+canonical: "https://eulogikon.org/authors/timotheus-of-miletus-dhk"
 period: Classical
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόθεος ὁ Μιλήσιος*
 
-**eul_aid:** `dhk` · [HTML page](https://eulogikon.org/en/timotheus-of-miletus)
+**eul_aid:** `dhk` · [HTML page](https://eulogikon.org/authors/timotheus-of-miletus-dhk)
 
 Timotheus of Miletus, a classical Greek historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive.
 

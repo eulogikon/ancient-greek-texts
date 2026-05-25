@@ -2,7 +2,7 @@
 name: Nicias of Nicaea
 name_greek: Νικίας ὁ Νικαεύς
 eul_aid: lpo
-canonical: "https://eulogikon.org/en/nicias-of-nicaea"
+canonical: "https://eulogikon.org/authors/nicias-of-nicaea-lpo"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικίας ὁ Νικαεύς*
 
-**eul_aid:** `lpo` · [HTML page](https://eulogikon.org/en/nicias-of-nicaea)
+**eul_aid:** `lpo` · [HTML page](https://eulogikon.org/authors/nicias-of-nicaea-lpo)
 
 Nicias of Nicaea was a Hellenistic historian of the 3rd century BCE. His surviving historical works are in Greek. Free to download from the Greek archive.
 

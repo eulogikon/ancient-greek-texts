@@ -2,7 +2,7 @@
 name: Eustochius of Cappadocia
 name_greek: Εὐστόχιος ὁ Καππαδόκης
 eul_aid: ugo
-canonical: "https://eulogikon.org/en/eustochius-of-cappadocia"
+canonical: "https://eulogikon.org/authors/eustochius-of-cappadocia-ugo"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐστόχιος ὁ Καππαδόκης*
 
-**eul_aid:** `ugo` · [HTML page](https://eulogikon.org/en/eustochius-of-cappadocia)
+**eul_aid:** `ugo` · [HTML page](https://eulogikon.org/authors/eustochius-of-cappadocia-ugo)
 
 Eustochius of Cappadocia, 4th century CE orator writing in Koine Greek. His surviving oration. Free to read and download from the Greek library archive.
 

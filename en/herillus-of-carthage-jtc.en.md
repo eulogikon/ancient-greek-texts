@@ -2,7 +2,7 @@
 name: Herillus of Carthage
 name_greek: Ἥριλλος ὁ Καρχηδόνιος
 eul_aid: jtc
-canonical: "https://eulogikon.org/en/herillus-of-carthage"
+canonical: "https://eulogikon.org/authors/herillus-of-carthage-jtc"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἥριλλος ὁ Καρχηδόνιος*
 
-**eul_aid:** `jtc` · [HTML page](https://eulogikon.org/en/herillus-of-carthage)
+**eul_aid:** `jtc` · [HTML page](https://eulogikon.org/authors/herillus-of-carthage-jtc)
 
 Herillus of Carthage, Stoic philosopher and student of Zeno. Hellenistic philosophical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Demonicus the Comic Poet
 name_greek: Δημόνικος ὁ κωμικός
 eul_aid: gzy
-canonical: "https://eulogikon.org/en/demonicus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/demonicus-the-comic-poet-gzy"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δημόνικος ὁ κωμικός*
 
-**eul_aid:** `gzy` · [HTML page](https://eulogikon.org/en/demonicus-the-comic-poet)
+**eul_aid:** `gzy` · [HTML page](https://eulogikon.org/authors/demonicus-the-comic-poet-gzy)
 
 Demonicus was an Athenian comic poet of the Classical period. Two surviving works are preserved as fragments. Free to download from the Greek library archive.
 

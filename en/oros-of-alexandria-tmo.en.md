@@ -2,7 +2,7 @@
 name: Oros of Alexandria
 name_greek: Ὦρος ὁ Ἀλεξανδρεύς
 eul_aid: tmo
-canonical: "https://eulogikon.org/en/oros-of-alexandria"
+canonical: "https://eulogikon.org/authors/oros-of-alexandria-tmo"
 period: Late Antique
 dialect: Attic
 works_count: 3
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὦρος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `tmo` · [HTML page](https://eulogikon.org/en/oros-of-alexandria)
+**eul_aid:** `tmo` · [HTML page](https://eulogikon.org/authors/oros-of-alexandria-tmo)
 
 Oros of Alexandria was a 5th century CE grammarian. Three grammatical treatises are preserved. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ab`
 - [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ac-tmo-ac.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ac`
+- [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ab`
 - [Orthography-the Unpronounced Iota](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-unpronounced-iota-tmo-aa.grc.md) — *περὶ τῆς ι ἀνεκφωνήτου* · `tmo-aa`
 
 ## License and provenance

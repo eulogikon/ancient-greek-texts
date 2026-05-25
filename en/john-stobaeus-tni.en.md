@@ -2,7 +2,7 @@
 name: John Stobaeus of Stobi
 name_greek: Ἰωάννης ὁ Στοβαῖος
 eul_aid: tni
-canonical: "https://eulogikon.org/en/john-stobaeus"
+canonical: "https://eulogikon.org/authors/john-stobaeus-of-stobi-tni"
 period: Late Antique
 dialect: Literary Koine
 affiliation: Eclectic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Στοβαῖος*
 
-**eul_aid:** `tni` · [HTML page](https://eulogikon.org/en/john-stobaeus)
+**eul_aid:** `tni` · [HTML page](https://eulogikon.org/authors/john-stobaeus-of-stobi-tni)
 
 John Stobaeus, a 5th century CE compiler. His anthology collects excerpts from earlier Greek authors. Free to read and download from the Greek library archive.
 

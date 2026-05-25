@@ -2,7 +2,7 @@
 name: Idomeneus of Lampsacus
 name_greek: Ἰδομενεύς ὁ Λαμψακηνός
 eul_aid: hxa
-canonical: "https://eulogikon.org/en/idomeneus-of-lampsacus"
+canonical: "https://eulogikon.org/authors/idomeneus-of-lampsacus-hxa"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰδομενεύς ὁ Λαμψακηνός*
 
-**eul_aid:** `hxa` · [HTML page](https://eulogikon.org/en/idomeneus-of-lampsacus)
+**eul_aid:** `hxa` · [HTML page](https://eulogikon.org/authors/idomeneus-of-lampsacus-hxa)
 
 Idomeneus of Lampsacus, a Hellenistic historian of the 4th-3rd centuries BCE. Historical works in Greek. Free to download from the Greek library archive.
 

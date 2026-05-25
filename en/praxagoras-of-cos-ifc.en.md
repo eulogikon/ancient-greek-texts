@@ -2,7 +2,7 @@
 name: Praxagoras of Cos
 name_greek: Πραξαγόρας ὁ Κῷος
 eul_aid: ifc
-canonical: "https://eulogikon.org/en/praxagoras-of-cos"
+canonical: "https://eulogikon.org/authors/praxagoras-of-cos-ifc"
 period: Hellenistic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πραξαγόρας ὁ Κῷος*
 
-**eul_aid:** `ifc` · [HTML page](https://eulogikon.org/en/praxagoras-of-cos)
+**eul_aid:** `ifc` · [HTML page](https://eulogikon.org/authors/praxagoras-of-cos-ifc)
 
 Praxagoras of Cos, a 4th century BCE Hellenistic historian. His surviving works are in fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Theognetus the Comic Poet
 name_greek: Θεόγνητος ὁ κωμικός
 eul_aid: jjw
-canonical: "https://eulogikon.org/en/theognetus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/theognetus-the-comic-poet-jjw"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόγνητος ὁ κωμικός*
 
-**eul_aid:** `jjw` · [HTML page](https://eulogikon.org/en/theognetus-the-comic-poet)
+**eul_aid:** `jjw` · [HTML page](https://eulogikon.org/authors/theognetus-the-comic-poet-jjw)
 
 Theognetus, a Hellenistic poet of New Comedy in the 3rd century BCE. Two surviving fragments. Free to read and download from the Greek library archive.
 

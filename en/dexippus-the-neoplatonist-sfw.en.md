@@ -2,7 +2,7 @@
 name: Dexippus the Neoplatonist
 name_greek: Δέξιππος ὁ Νεοπλατωνικός
 eul_aid: sfw
-canonical: "https://eulogikon.org/en/dexippus-the-neoplatonist"
+canonical: "https://eulogikon.org/authors/dexippus-the-neoplatonist-sfw"
 period: Late Antique
 dialect: Attic Philosophical
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δέξιππος ὁ Νεοπλατωνικός*
 
-**eul_aid:** `sfw` · [HTML page](https://eulogikon.org/en/dexippus-the-neoplatonist)
+**eul_aid:** `sfw` · [HTML page](https://eulogikon.org/authors/dexippus-the-neoplatonist-sfw)
 
 Dexippus, a 4th century CE Neoplatonist student of Iamblichus. His treatise on Aristotelian categories. Free to download from the Greek library archive.
 

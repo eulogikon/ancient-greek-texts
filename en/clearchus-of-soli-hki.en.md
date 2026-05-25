@@ -2,7 +2,7 @@
 name: Clearchus of Soli
 name_greek: Κλέαρχος ὁ Σολεύς
 eul_aid: hki
-canonical: "https://eulogikon.org/en/clearchus-of-soli"
+canonical: "https://eulogikon.org/authors/clearchus-of-soli-hki"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλέαρχος ὁ Σολεύς*
 
-**eul_aid:** `hki` · [HTML page](https://eulogikon.org/en/clearchus-of-soli)
+**eul_aid:** `hki` · [HTML page](https://eulogikon.org/authors/clearchus-of-soli-hki)
 
 Clearchus of Soli, Peripatetic philosopher and student of Aristotle. Works preserved in fragments. Free to read and download from the Greek library archive.
 

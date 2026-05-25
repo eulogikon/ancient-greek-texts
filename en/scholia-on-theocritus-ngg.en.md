@@ -2,7 +2,7 @@
 name: Scholia on Theocritus
 name_greek: Σχόλια εἰς Θεόκριτον
 eul_aid: ngg
-canonical: "https://eulogikon.org/en/scholia-on-theocritus"
+canonical: "https://eulogikon.org/authors/scholia-on-theocritus-ngg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σχόλια εἰς Θεόκριτον*
 
-**eul_aid:** `ngg` · [HTML page](https://eulogikon.org/en/scholia-on-theocritus)
+**eul_aid:** `ngg` · [HTML page](https://eulogikon.org/authors/scholia-on-theocritus-ngg)
 
 Theocritus Scholia are ancient and medieval grammatical commentaries on the poet's works. Free to read and download from the Greek library archive.
 

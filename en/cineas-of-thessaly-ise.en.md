@@ -2,7 +2,7 @@
 name: Cineas of Thessaly
 name_greek: Κινέας ὁ Θεσσαλός
 eul_aid: ise
-canonical: "https://eulogikon.org/en/cineas-of-thessaly"
+canonical: "https://eulogikon.org/authors/cineas-of-thessaly-ise"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κινέας ὁ Θεσσαλός*
 
-**eul_aid:** `ise` · [HTML page](https://eulogikon.org/en/cineas-of-thessaly)
+**eul_aid:** `ise` · [HTML page](https://eulogikon.org/authors/cineas-of-thessaly-ise)
 
 Cineas of Thessaly, a Hellenistic orator of the 3rd century BCE. Surviving orations from the ancient Greek tradition. Free to download from the Greek library.
 

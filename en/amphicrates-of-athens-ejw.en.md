@@ -2,7 +2,7 @@
 name: Amphicrates Atheniensis
 name_greek: Ἀμφικράτης Ἀθηναῖος
 eul_aid: ejw
-canonical: "https://eulogikon.org/en/amphicrates-of-athens"
+canonical: "https://eulogikon.org/authors/amphicrates-atheniensis-ejw"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμφικράτης Ἀθηναῖος*
 
-**eul_aid:** `ejw` · [HTML page](https://eulogikon.org/en/amphicrates-of-athens)
+**eul_aid:** `ejw` · [HTML page](https://eulogikon.org/authors/amphicrates-atheniensis-ejw)
 
 Amphicrates of Athens, a 4th century BCE sophist and orator, student of Isocrates. One surviving oration is preserved. Free to download from the Greek archive.
 

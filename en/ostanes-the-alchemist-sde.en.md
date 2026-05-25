@@ -2,7 +2,7 @@
 name: Ostanes the Alchemist
 name_greek: Ὀστάνης ὁ Ἀλχημιστής
 eul_aid: sde
-canonical: "https://eulogikon.org/en/ostanes-the-alchemist"
+canonical: "https://eulogikon.org/authors/ostanes-the-alchemist-sde"
 period: Late Antique
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀστάνης ὁ Ἀλχημιστής*
 
-**eul_aid:** `sde` · [HTML page](https://eulogikon.org/en/ostanes-the-alchemist)
+**eul_aid:** `sde` · [HTML page](https://eulogikon.org/authors/ostanes-the-alchemist-sde)
 
 Ostanes the Alchemist, a semi-legendary Persian magus. Surviving alchemical treatise in fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Oribasius of Pergamon
 name_greek: Ὀρειβάσιος ὁ Περγαμηνός
 eul_aid: soi
-canonical: "https://eulogikon.org/en/oribasius-of-pergamon"
+canonical: "https://eulogikon.org/authors/oribasius-of-pergamon-soi"
 period: Late Antique
 dialect: Technical Koine
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀρειβάσιος ὁ Περγαμηνός*
 
-**eul_aid:** `soi` · [HTML page](https://eulogikon.org/en/oribasius-of-pergamon)
+**eul_aid:** `soi` · [HTML page](https://eulogikon.org/authors/oribasius-of-pergamon-soi)
 
 Oribasius, a 4th century Greek physician and imperial doctor. Six surviving medical treatises. Free to read and download from the Greek library archive.
 

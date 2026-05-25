@@ -2,7 +2,7 @@
 name: Hermetica
 name_greek: Ἑρμητικά
 eul_aid: oqk
-canonical: "https://eulogikon.org/en/hermetica"
+canonical: "https://eulogikon.org/authors/hermetica-oqk"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Hermetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμητικά*
 
-**eul_aid:** `oqk` · [HTML page](https://eulogikon.org/en/hermetica)
+**eul_aid:** `oqk` · [HTML page](https://eulogikon.org/authors/hermetica-oqk)
 
 The Hermetica are philosophical texts from Roman Egypt. Twenty one treatises on cosmology and spirituality. Free to read and download from the Greek library.
 

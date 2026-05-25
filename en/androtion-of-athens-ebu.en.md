@@ -2,7 +2,7 @@
 name: Androtion Atheniensis
 name_greek: Ἀνδροτίων ὁ Ἀθηναῖος
 eul_aid: ebu
-canonical: "https://eulogikon.org/en/androtion-of-athens"
+canonical: "https://eulogikon.org/authors/androtion-atheniensis-ebu"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδροτίων ὁ Ἀθηναῖος*
 
-**eul_aid:** `ebu` · [HTML page](https://eulogikon.org/en/androtion-of-athens)
+**eul_aid:** `ebu` · [HTML page](https://eulogikon.org/authors/androtion-atheniensis-ebu)
 
 Androtion was a 4th century BCE Athenian historian. His surviving historical works are preserved as fragments. Free to download from the Greek library archive.
 

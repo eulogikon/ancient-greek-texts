@@ -2,7 +2,7 @@
 name: Asclepius the Physician
 name_greek: Ἀσκληπιός ὁ Ἰατρός
 eul_aid: ave
-canonical: "https://eulogikon.org/en/asclepius-the-physician"
+canonical: "https://eulogikon.org/authors/asclepius-the-physician-ave"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιός ὁ Ἰατρός*
 
-**eul_aid:** `ave` · [HTML page](https://eulogikon.org/en/asclepius-the-physician)
+**eul_aid:** `ave` · [HTML page](https://eulogikon.org/authors/asclepius-the-physician-ave)
 
 Asclepius the Physician, a 5th century BCE Greek medical writer. Two surviving works in Epic dialect. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Oppian Lives
 name_greek: Ὀππιανοῦ Βίοι
 eul_aid: qvi
-canonical: "https://eulogikon.org/en/oppian-lives"
+canonical: "https://eulogikon.org/authors/oppian-lives-qvi"
 period: Roman
 dialect: Mixed Dialects
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀππιανοῦ Βίοι*
 
-**eul_aid:** `qvi` · [HTML page](https://eulogikon.org/en/oppian-lives)
+**eul_aid:** `qvi` · [HTML page](https://eulogikon.org/authors/oppian-lives-qvi)
 
 Oppian Lives is a biographical text from the Roman era, containing four surviving prose sections. Free to read and download from the Greek library archive.
 

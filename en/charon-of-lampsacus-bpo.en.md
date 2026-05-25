@@ -2,7 +2,7 @@
 name: Charon of Lampsacus
 name_greek: Χάρων ὁ Λαμψακηνός
 eul_aid: bpo
-canonical: "https://eulogikon.org/en/charon-of-lampsacus"
+canonical: "https://eulogikon.org/authors/charon-of-lampsacus-bpo"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χάρων ὁ Λαμψακηνός*
 
-**eul_aid:** `bpo` · [HTML page](https://eulogikon.org/en/charon-of-lampsacus)
+**eul_aid:** `bpo` · [HTML page](https://eulogikon.org/authors/charon-of-lampsacus-bpo)
 
 Charon of Lampsacus was a 5th century BCE Greek historian. His surviving historical fragments. Free to read and download from the Greek library archive.
 

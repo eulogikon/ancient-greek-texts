@@ -2,7 +2,7 @@
 name: Bion of Smyrna
 name_greek: Βίων ὁ Σμυρναῖος
 eul_aid: mwq
-canonical: "https://eulogikon.org/en/bion-of-smyrna"
+canonical: "https://eulogikon.org/authors/bion-of-smyrna-mwq"
 period: Hellenistic
 dialect: Doric Bucolic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίων ὁ Σμυρναῖος*
 
-**eul_aid:** `mwq` · [HTML page](https://eulogikon.org/en/bion-of-smyrna)
+**eul_aid:** `mwq` · [HTML page](https://eulogikon.org/authors/bion-of-smyrna-mwq)
 
 Bion of Smyrna was a Hellenistic Greek poet of bucolic verse. Works include the Lament for Adonis. Free to read and download from the Greek library archive.
 

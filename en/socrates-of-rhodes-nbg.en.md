@@ -2,7 +2,7 @@
 name: Socrates of Rhodes
 name_greek: Σωκράτης ὁ Ῥόδιος
 eul_aid: nbg
-canonical: "https://eulogikon.org/en/socrates-of-rhodes"
+canonical: "https://eulogikon.org/authors/socrates-of-rhodes-nbg"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωκράτης ὁ Ῥόδιος*
 
-**eul_aid:** `nbg` · [HTML page](https://eulogikon.org/en/socrates-of-rhodes)
+**eul_aid:** `nbg` · [HTML page](https://eulogikon.org/authors/socrates-of-rhodes-nbg)
 
 Socrates of Rhodes was a 1st century BCE Hellenistic historian. His surviving works are preserved as fragments. Free to download from the Greek library archive.
 

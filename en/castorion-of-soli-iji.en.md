@@ -2,7 +2,7 @@
 name: Castorion of Soli
 name_greek: Καστορίων ὁ Σολεύς
 eul_aid: iji
-canonical: "https://eulogikon.org/en/castorion-of-soli"
+canonical: "https://eulogikon.org/authors/castorion-of-soli-iji"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καστορίων ὁ Σολεύς*
 
-**eul_aid:** `iji` · [HTML page](https://eulogikon.org/en/castorion-of-soli)
+**eul_aid:** `iji` · [HTML page](https://eulogikon.org/authors/castorion-of-soli-iji)
 
 Castorion of Soli, Hellenistic poet of the 4th to 3rd centuries BCE. Poetic fragments in Koine Greek. Free to read and download from the Greek library archive.
 

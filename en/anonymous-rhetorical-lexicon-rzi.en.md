@@ -2,7 +2,7 @@
 name: Rhetorical Lexicon  Anonymous
 name_greek: Ἀνώνυμον Λεξικὸν Ῥητορικόν τὸ Κανταβριγενσε
 eul_aid: rzi
-canonical: "https://eulogikon.org/en/anonymous-rhetorical-lexicon"
+canonical: "https://eulogikon.org/authors/rhetorical-lexicon-anon-rzi"
 period: Late Antique
 dialect: Byzantine Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμον Λεξικὸν Ῥητορικόν τὸ Κανταβριγενσε*
 
-**eul_aid:** `rzi` · [HTML page](https://eulogikon.org/en/anonymous-rhetorical-lexicon)
+**eul_aid:** `rzi` · [HTML page](https://eulogikon.org/authors/rhetorical-lexicon-anon-rzi)
 
 Anonymous author of a 15th century Byzantine rhetorical lexicon. A glossary of rhetorical terms. Free to read and download from the Greek library archive.
 

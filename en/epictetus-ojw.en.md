@@ -2,7 +2,7 @@
 name: Epictetus the Stoic
 name_greek: Ἐπίκτητος ὁ Στωϊκός
 eul_aid: ojw
-canonical: "https://eulogikon.org/en/epictetus"
+canonical: "https://eulogikon.org/authors/epictetus-the-stoic-ojw"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίκτητος ὁ Στωϊκός*
 
-**eul_aid:** `ojw` · [HTML page](https://eulogikon.org/en/epictetus)
+**eul_aid:** `ojw` · [HTML page](https://eulogikon.org/authors/epictetus-the-stoic-ojw)
 
 Epictetus, a Roman Stoic philosopher and former slave. Works include the Discourses and Enchiridion. Free to read and download from the Greek library archive.
 

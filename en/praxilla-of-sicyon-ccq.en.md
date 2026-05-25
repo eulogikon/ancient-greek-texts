@@ -2,7 +2,7 @@
 name: Praxilla of Sicyon
 name_greek: Πράξιλλα ἡ Σικυωνία
 eul_aid: ccq
-canonical: "https://eulogikon.org/en/praxilla-of-sicyon"
+canonical: "https://eulogikon.org/authors/praxilla-of-sicyon-ccq"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πράξιλλα ἡ Σικυωνία*
 
-**eul_aid:** `ccq` · [HTML page](https://eulogikon.org/en/praxilla-of-sicyon)
+**eul_aid:** `ccq` · [HTML page](https://eulogikon.org/authors/praxilla-of-sicyon-ccq)
 
 Praxilla of Sicyon, a 5th century BCE Doric poet. Surviving poetic fragments and verses. Free to read and download from the Greek library archive.
 

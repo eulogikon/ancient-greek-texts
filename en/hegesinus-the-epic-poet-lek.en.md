@@ -2,7 +2,7 @@
 name: Hegesinus the Epic Poet
 name_greek: Ἡγησῖνος ὁ ἐποποιός
 eul_aid: lek
-canonical: "https://eulogikon.org/en/hegesinus-the-epic-poet"
+canonical: "https://eulogikon.org/authors/hegesinus-the-epic-poet-lek"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡγησῖνος ὁ ἐποποιός*
 
-**eul_aid:** `lek` · [HTML page](https://eulogikon.org/en/hegesinus-the-epic-poet)
+**eul_aid:** `lek` · [HTML page](https://eulogikon.org/authors/hegesinus-the-epic-poet-lek)
 
 Hegesinus, a Hellenistic Greek epic poet. His surviving works are preserved as fragments. Free to read and download from the Greek library archive.
 

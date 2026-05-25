@@ -2,7 +2,7 @@
 name: Hyperochus of Cumae
 name_greek: Ὑπέροχος ὁ Κυμαῖος
 eul_aid: mmq
-canonical: "https://eulogikon.org/en/hyperochus-of-cumae"
+canonical: "https://eulogikon.org/authors/hyperochus-of-cumae-mmq"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὑπέροχος ὁ Κυμαῖος*
 
-**eul_aid:** `mmq` · [HTML page](https://eulogikon.org/en/hyperochus-of-cumae)
+**eul_aid:** `mmq` · [HTML page](https://eulogikon.org/authors/hyperochus-of-cumae-mmq)
 
 Hyperochus of Cumae was a Hellenistic historian. Surviving fragments of his historical works are preserved. Free to read and download from the Greek archive.
 

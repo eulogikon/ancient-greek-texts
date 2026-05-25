@@ -2,7 +2,7 @@
 name: Aegimius
 name_greek: Αἰγίμιος
 eul_aid: ayg
-canonical: "https://eulogikon.org/en/aegimius"
+canonical: "https://eulogikon.org/authors/aegimius-ayg"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰγίμιος*
 
-**eul_aid:** `ayg` · [HTML page](https://eulogikon.org/en/aegimius)
+**eul_aid:** `ayg` · [HTML page](https://eulogikon.org/authors/aegimius-ayg)
 
 Aegimius, an archaic Greek epic poet of the 6th century BCE. Fragments of the lost epic poem Aegimius. Free to read and download from the Greek library archive.
 

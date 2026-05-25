@@ -2,7 +2,7 @@
 name: Hedylus of Samos
 name_greek: Ἥδυλος ὁ Σάμιος
 eul_aid: jug
-canonical: "https://eulogikon.org/en/hedylus-of-samos"
+canonical: "https://eulogikon.org/authors/hedylus-of-samos-jug"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἥδυλος ὁ Σάμιος*
 
-**eul_aid:** `jug` · [HTML page](https://eulogikon.org/en/hedylus-of-samos)
+**eul_aid:** `jug` · [HTML page](https://eulogikon.org/authors/hedylus-of-samos-jug)
 
 Hedylus of Samos, a Hellenistic poet of the 3rd century BCE. Includes epigrams and verse fragments. Free to read and download from the Greek library archive.
 

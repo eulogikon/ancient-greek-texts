@@ -2,7 +2,7 @@
 name: Dionysius of Argos
 name_greek: Διονύσιος ὁ Ἀργεῖος
 eul_aid: dzw
-canonical: "https://eulogikon.org/en/dionysius-of-argos"
+canonical: "https://eulogikon.org/authors/dionysius-of-argos-dzw"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Ἀργεῖος*
 
-**eul_aid:** `dzw` · [HTML page](https://eulogikon.org/en/dionysius-of-argos)
+**eul_aid:** `dzw` · [HTML page](https://eulogikon.org/authors/dionysius-of-argos-dzw)
 
 Dionysius of Argos, 4th-3rd century BCE historian. His surviving historical texts in Attic Greek. Free to read and download from the Greek library archive.
 

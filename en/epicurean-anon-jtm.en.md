@@ -2,7 +2,7 @@
 name: Epicurean Anonymous
 name_greek: Ἀνώνυμος Ἐπικούρειος
 eul_aid: jtm
-canonical: "https://eulogikon.org/en/epicurean-anon"
+canonical: "https://eulogikon.org/authors/epicurean-anon-jtm"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Epicurean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Ἐπικούρειος*
 
-**eul_aid:** `jtm` · [HTML page](https://eulogikon.org/en/epicurean-anon)
+**eul_aid:** `jtm` · [HTML page](https://eulogikon.org/authors/epicurean-anon-jtm)
 
 Anonymous Epicurean school follower from the 3rd century BCE. Two surviving philosophical treatises. Free to read and download from the Greek library archive.
 

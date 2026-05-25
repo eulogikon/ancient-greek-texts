@@ -2,7 +2,7 @@
 name: Callicratidas the Spartan Navarch
 name_greek: Καλλικρατίδας ὁ Λακεδαιμόνιος
 eul_aid: eho
-canonical: "https://eulogikon.org/en/callicratidas-the-spartan"
+canonical: "https://eulogikon.org/authors/callicratidas-the-spartan-eho"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Καλλικρατίδας ὁ Λακεδαιμόνιος*
 
-**eul_aid:** `eho` · [HTML page](https://eulogikon.org/en/callicratidas-the-spartan)
+**eul_aid:** `eho` · [HTML page](https://eulogikon.org/authors/callicratidas-the-spartan-eho)
 
 Callicratidas, a Spartan naval commander of the 5th century BCE. Philosophical treatise on providence. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Lyric Poetry  Anonymous
 name_greek: τὰ ἄδεσποτα λυρικὰ
 eul_aid: dgq
-canonical: "https://eulogikon.org/en/lyric-poetry-anonymous"
+canonical: "https://eulogikon.org/authors/lyric-poetry-anon-dgq"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *τὰ ἄδεσποτα λυρικὰ*
 
-**eul_aid:** `dgq` · [HTML page](https://eulogikon.org/en/lyric-poetry-anonymous)
+**eul_aid:** `dgq` · [HTML page](https://eulogikon.org/authors/lyric-poetry-anon-dgq)
 
 Anonymous lyric poetry from the 7th to 5th centuries BCE. Surviving fragmentary classical Greek verse. Free to read and download from the Greek library archive.
 

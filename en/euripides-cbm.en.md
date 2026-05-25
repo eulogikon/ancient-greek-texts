@@ -2,7 +2,7 @@
 name: Euripides
 name_greek: Εὐριπίδης
 eul_aid: cbm
-canonical: "https://eulogikon.org/en/euripides"
+canonical: "https://eulogikon.org/authors/euripides-cbm"
 period: Classical
 dialect: Attic Drama
 works_count: 32
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐριπίδης*
 
-**eul_aid:** `cbm` · [HTML page](https://eulogikon.org/en/euripides)
+**eul_aid:** `cbm` · [HTML page](https://eulogikon.org/authors/euripides-cbm)
 
 Euripides, Athenian tragic playwright of the 5th century BCE. Works include Medea and The Bacchae. Free to read and download from the Greek library archive.
 

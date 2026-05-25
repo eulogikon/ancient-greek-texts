@@ -2,7 +2,7 @@
 name: Oppian of Apamea
 name_greek: Ὀππιανὸς ὁ ἐξ Ἀπαμείας
 eul_aid: rje
-canonical: "https://eulogikon.org/en/oppian-of-apamea"
+canonical: "https://eulogikon.org/authors/oppian-of-apamea-rje"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὀππιανὸς ὁ ἐξ Ἀπαμείας*
 
-**eul_aid:** `rje` · [HTML page](https://eulogikon.org/en/oppian-of-apamea)
+**eul_aid:** `rje` · [HTML page](https://eulogikon.org/authors/oppian-of-apamea-rje)
 
 Oppian of Apamea, a 3rd century CE Roman epic poet. Works include the didactic epic Halieutica. Free to read and download from the Greek library archive.
 

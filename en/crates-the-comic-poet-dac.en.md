@@ -2,7 +2,7 @@
 name: Crates the Comic Poet
 name_greek: Κράτης ὁ Κωμικός
 eul_aid: dac
-canonical: "https://eulogikon.org/en/crates-the-comic-poet"
+canonical: "https://eulogikon.org/authors/crates-the-comic-poet-dac"
 period: Classical
 dialect: Attic Comedy
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κράτης ὁ Κωμικός*
 
-**eul_aid:** `dac` · [HTML page](https://eulogikon.org/en/crates-the-comic-poet)
+**eul_aid:** `dac` · [HTML page](https://eulogikon.org/authors/crates-the-comic-poet-dac)
 
 Crates was an Athenian comic playwright of 5th century BCE Old Comedy. Works include his fragments. Free to read and download from the Greek library archive.
 

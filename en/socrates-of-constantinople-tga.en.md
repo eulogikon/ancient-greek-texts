@@ -2,7 +2,7 @@
 name: Socrates of Constantinople
 name_greek: Σωκράτης ὁ Σχολαστικός
 eul_aid: tga
-canonical: "https://eulogikon.org/en/socrates-of-constantinople"
+canonical: "https://eulogikon.org/authors/socrates-of-constantinople-tga"
 period: Late Antique
 dialect: Byzantine Christian
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωκράτης ὁ Σχολαστικός*
 
-**eul_aid:** `tga` · [HTML page](https://eulogikon.org/en/socrates-of-constantinople)
+**eul_aid:** `tga` · [HTML page](https://eulogikon.org/authors/socrates-of-constantinople-tga)
 
 Socrates Scholasticus, 5th century Byzantine historian. His Ecclesiastical History chronicles the early church. Free to read and download from Greek library.
 

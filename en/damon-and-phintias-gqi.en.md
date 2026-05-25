@@ -2,7 +2,7 @@
 name: Damon and Phintias
 name_greek: Δάμων καὶ Φιντίας
 eul_aid: gqi
-canonical: "https://eulogikon.org/en/damon-and-phintias"
+canonical: "https://eulogikon.org/authors/damon-and-phintias-gqi"
 period: Classical
 dialect: Doric
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δάμων καὶ Φιντίας*
 
-**eul_aid:** `gqi` · [HTML page](https://eulogikon.org/en/damon-and-phintias)
+**eul_aid:** `gqi` · [HTML page](https://eulogikon.org/authors/damon-and-phintias-gqi)
 
 Damon and Phintias were Pythagorean philosophers from Syracuse, known for their legendary friendship. Free to read and download from the Greek library archive.
 

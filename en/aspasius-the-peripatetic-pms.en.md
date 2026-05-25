@@ -2,7 +2,7 @@
 name: Aspasius the Peripatetic
 name_greek: Ἀσπάσιος ὁ Περιπατητικός
 eul_aid: pms
-canonical: "https://eulogikon.org/en/aspasius-the-peripatetic"
+canonical: "https://eulogikon.org/authors/aspasius-the-peripatetic-pms"
 period: Roman
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσπάσιος ὁ Περιπατητικός*
 
-**eul_aid:** `pms` · [HTML page](https://eulogikon.org/en/aspasius-the-peripatetic)
+**eul_aid:** `pms` · [HTML page](https://eulogikon.org/authors/aspasius-the-peripatetic-pms)
 
 Aspasius was a Peripatetic philosopher of the early Roman Imperial period. His treatise on Aristotelian ethics. Free to download from the Greek library archive.
 

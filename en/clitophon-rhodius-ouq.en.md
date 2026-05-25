@@ -2,7 +2,7 @@
 name: Clitophon Rhodius
 name_greek: Κλειτόφων Ῥόδιος
 eul_aid: ouq
-canonical: "https://eulogikon.org/en/clitophon-rhodius"
+canonical: "https://eulogikon.org/authors/clitophon-rhodius-ouq"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλειτόφων Ῥόδιος*
 
-**eul_aid:** `ouq` · [HTML page](https://eulogikon.org/en/clitophon-rhodius)
+**eul_aid:** `ouq` · [HTML page](https://eulogikon.org/authors/clitophon-rhodius-ouq)
 
 Clitophon Rhodius was a Roman era historian writing in Koine Greek. His surviving historical fragments are preserved. Free to download from the Greek archive.
 

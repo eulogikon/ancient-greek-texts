@@ -2,7 +2,7 @@
 name: Acusilaus of Argos
 name_greek: Ἀκουσίλαος ὁ Ἀργεῖος
 eul_aid: bls
-canonical: "https://eulogikon.org/en/acusilaus-of-argos"
+canonical: "https://eulogikon.org/authors/acusilaus-of-argos-bls"
 period: Archaic
 dialect: Ionic (frg)
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀκουσίλαος ὁ Ἀργεῖος*
 
-**eul_aid:** `bls` · [HTML page](https://eulogikon.org/en/acusilaus-of-argos)
+**eul_aid:** `bls` · [HTML page](https://eulogikon.org/authors/acusilaus-of-argos-bls)
 
 Acusilaus of Argos was a 6th century BCE Greek historian. His historical fragments are preserved. Free to read and download from the Greek library archive.
 

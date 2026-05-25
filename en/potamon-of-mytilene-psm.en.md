@@ -2,7 +2,7 @@
 name: Potamon of Mytilene
 name_greek: Ποτάμων ὁ Μυτιληναῖος
 eul_aid: psm
-canonical: "https://eulogikon.org/en/potamon-of-mytilene"
+canonical: "https://eulogikon.org/authors/potamon-of-mytilene-psm"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποτάμων ὁ Μυτιληναῖος*
 
-**eul_aid:** `psm` · [HTML page](https://eulogikon.org/en/potamon-of-mytilene)
+**eul_aid:** `psm` · [HTML page](https://eulogikon.org/authors/potamon-of-mytilene-psm)
 
 Potamon of Mytilene was a second century CE Roman historian. His surviving works are in Koine prose. Free to read and download from the Greek library archive.
 

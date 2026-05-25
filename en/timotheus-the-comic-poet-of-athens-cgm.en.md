@@ -2,7 +2,7 @@
 name: Timotheus the Comic Poet of Athens
 name_greek: Τιμόθεος ὁ Ἀθηναῖος κωμῳδιοποιός
 eul_aid: cgm
-canonical: "https://eulogikon.org/en/timotheus-the-comic-poet-of-athens"
+canonical: "https://eulogikon.org/authors/timotheus-the-comic-poet-cgm"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιμόθεος ὁ Ἀθηναῖος κωμῳδιοποιός*
 
-**eul_aid:** `cgm` · [HTML page](https://eulogikon.org/en/timotheus-the-comic-poet-of-athens)
+**eul_aid:** `cgm` · [HTML page](https://eulogikon.org/authors/timotheus-the-comic-poet-cgm)
 
 Timotheus was a 4th century BCE Athenian comic poet. Two surviving works of Attic comedy are preserved. Free to read and download from the Greek library.
 

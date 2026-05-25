@@ -2,7 +2,7 @@
 name: Perictione I Mother of Plato
 name_greek: Περικτιόνη ἡ Πλάτωνος
 eul_aid: cqm
-canonical: "https://eulogikon.org/en/perictione-i-mother-of-plato"
+canonical: "https://eulogikon.org/authors/perictione-i-mother-of-plato-cqm"
 period: Classical
 dialect: Ionic
 affiliation: Pythagorean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περικτιόνη ἡ Πλάτωνος*
 
-**eul_aid:** `cqm` · [HTML page](https://eulogikon.org/en/perictione-i-mother-of-plato)
+**eul_aid:** `cqm` · [HTML page](https://eulogikon.org/authors/perictione-i-mother-of-plato-cqm)
 
 Perictione was a noblewoman of Athens and mother of Plato. One philosophical treatise survives. Free to read and download from the Greek library archive.
 

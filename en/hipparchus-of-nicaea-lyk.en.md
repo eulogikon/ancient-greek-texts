@@ -2,7 +2,7 @@
 name: Hipparchus of Nicaea
 name_greek: Ἵππαρχος ὁ Νικαεύς
 eul_aid: lyk
-canonical: "https://eulogikon.org/en/hipparchus-of-nicaea"
+canonical: "https://eulogikon.org/authors/hipparchus-of-nicaea-lyk"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππαρχος ὁ Νικαεύς*
 
-**eul_aid:** `lyk` · [HTML page](https://eulogikon.org/en/hipparchus-of-nicaea)
+**eul_aid:** `lyk` · [HTML page](https://eulogikon.org/authors/hipparchus-of-nicaea-lyk)
 
 Hipparchus of Nicaea, Hellenistic astronomer of the 2nd century BCE. Surviving astronomical works. Free to read and download from the Greek library archive.
 

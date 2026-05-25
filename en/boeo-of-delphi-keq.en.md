@@ -2,7 +2,7 @@
 name: Boeo of Delphi
 name_greek: Βοιὼ ἡ Δελφίς
 eul_aid: keq
-canonical: "https://eulogikon.org/en/boeo-of-delphi"
+canonical: "https://eulogikon.org/authors/boeo-of-delphi-keq"
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βοιὼ ἡ Δελφίς*
 
-**eul_aid:** `keq` · [HTML page](https://eulogikon.org/en/boeo-of-delphi)
+**eul_aid:** `keq` · [HTML page](https://eulogikon.org/authors/boeo-of-delphi-keq)
 
 Boeo of Delphi, a Hellenistic era poet from the 6th century BCE. Surviving fragments of epic verse. Free to read and download from the Greek library archive.
 

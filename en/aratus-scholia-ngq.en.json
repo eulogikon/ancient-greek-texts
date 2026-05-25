@@ -44,23 +44,6 @@
   "works_count": 6,
   "works": [
     {
-      "eul_wid": "ngq-ab",
-      "title": {
-        "english": "Scholia-Aratus",
-        "ancient_greek": "Σχόλια εἰς Ἄρατον"
-      },
-      "url_slug": "aratus-scholia-text-ab-ngq-ab",
-      "passages": 1,
-      "links": {
-        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.epub"
-      }
-    },
-    {
       "eul_wid": "ngq-ac",
       "title": {
         "english": "Scholia-Aratus",
@@ -78,20 +61,20 @@
       }
     },
     {
-      "eul_wid": "ngq-af",
+      "eul_wid": "ngq-ab",
       "title": {
         "english": "Scholia-Aratus",
         "ancient_greek": "Σχόλια εἰς Ἄρατον"
       },
-      "url_slug": "aratus-scholia-text-af-ngq-af",
+      "url_slug": "aratus-scholia-text-ab-ngq-ab",
       "passages": 1,
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-scholia/text-af",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.epub"
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-ab-ngq-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.epub"
       }
     },
     {
@@ -143,6 +126,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-aa-ngq-aa.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ngq-af",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-af-ngq-af",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia-text-af-ngq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.epub"
       }
     }
   ],

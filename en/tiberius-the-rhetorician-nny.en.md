@@ -2,7 +2,7 @@
 name: Tiberius the Rhetorician
 name_greek: Τιβέριος ὁ Ῥήτωρ
 eul_aid: nny
-canonical: "https://eulogikon.org/en/tiberius-the-rhetorician"
+canonical: "https://eulogikon.org/authors/tiberius-the-rhetorician-nny"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τιβέριος ὁ Ῥήτωρ*
 
-**eul_aid:** `nny` · [HTML page](https://eulogikon.org/en/tiberius-the-rhetorician)
+**eul_aid:** `nny` · [HTML page](https://eulogikon.org/authors/tiberius-the-rhetorician-nny)
 
 Tiberius the Rhetorician, a Roman orator of the 1st century CE. One surviving oration in Koine Greek. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Mnaseas of Patara
 name_greek: Μνασέας ὁ Πατρεύς
 eul_aid: kpu
-canonical: "https://eulogikon.org/en/mnaseas-of-patara"
+canonical: "https://eulogikon.org/authors/mnaseas-of-patara-kpu"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μνασέας ὁ Πατρεύς*
 
-**eul_aid:** `kpu` · [HTML page](https://eulogikon.org/en/mnaseas-of-patara)
+**eul_aid:** `kpu` · [HTML page](https://eulogikon.org/authors/mnaseas-of-patara-kpu)
 
 Mnaseas of Patara was a Hellenistic geographer. Fragments of his geographical works are preserved. Free to read and download from the Greek library archive.
 

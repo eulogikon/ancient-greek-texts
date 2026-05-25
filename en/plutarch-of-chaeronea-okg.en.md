@@ -2,7 +2,7 @@
 name: Plutarch of Chaeronea
 name_greek: Πλούταρχος ὁ Χαιρωνεύς
 eul_aid: okg
-canonical: "https://eulogikon.org/en/plutarch-of-chaeronea"
+canonical: "https://eulogikon.org/authors/plutarch-of-chaeronea-okg"
 period: Roman
 dialect: Atticizing
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πλούταρχος ὁ Χαιρωνεύς*
 
-**eul_aid:** `okg` · [HTML page](https://eulogikon.org/en/plutarch-of-chaeronea)
+**eul_aid:** `okg` · [HTML page](https://eulogikon.org/authors/plutarch-of-chaeronea-okg)
 
 Plutarch, Greek philosopher and biographer of the Roman era. Works include biographies and moral essays. Free to download from the Greek library archive.
 

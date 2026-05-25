@@ -2,7 +2,7 @@
 name: Simplicius of Cilicia
 name_greek: Σιμπλίκιος ὁ Κίλιξ
 eul_aid: uzu
-canonical: "https://eulogikon.org/en/simplicius-of-cilicia"
+canonical: "https://eulogikon.org/authors/simplicius-of-cilicia-uzu"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σιμπλίκιος ὁ Κίλιξ*
 
-**eul_aid:** `uzu` · [HTML page](https://eulogikon.org/en/simplicius-of-cilicia)
+**eul_aid:** `uzu` · [HTML page](https://eulogikon.org/authors/simplicius-of-cilicia-uzu)
 
 Simplicius of Cilicia, 6th century CE Neoplatonic philosopher and commentator on Aristotle. Free to read and download from the Greek library archive.
 

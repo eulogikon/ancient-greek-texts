@@ -2,7 +2,7 @@
 name: Andromachus the Elder Physician of Crete
 name_greek: Ἀνδρόμαχος ὁ Κρητικός
 eul_aid: obk
-canonical: "https://eulogikon.org/en/andromachus-the-elder-of-crete"
+canonical: "https://eulogikon.org/authors/andromachus-the-elder-obk"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδρόμαχος ὁ Κρητικός*
 
-**eul_aid:** `obk` · [HTML page](https://eulogikon.org/en/andromachus-the-elder-of-crete)
+**eul_aid:** `obk` · [HTML page](https://eulogikon.org/authors/andromachus-the-elder-obk)
 
 Andromachus the Elder, a 1st century CE Cretan physician. His medical poetry includes pharmacological verse. Free to download from the Greek library archive.
 

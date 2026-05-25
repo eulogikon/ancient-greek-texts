@@ -2,7 +2,7 @@
 name: Dicaeogenes
 name_greek: Δικαίογνης
 eul_aid: grw
-canonical: "https://eulogikon.org/en/dicaeogenes"
+canonical: "https://eulogikon.org/authors/dicaeogenes-grw"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δικαίογνης*
 
-**eul_aid:** `grw` · [HTML page](https://eulogikon.org/en/dicaeogenes)
+**eul_aid:** `grw` · [HTML page](https://eulogikon.org/authors/dicaeogenes-grw)
 
 Dicaeogenes was a 4th century BCE Attic dramatist. Surviving fragments of his works are preserved. Free to read and download from the Greek library archive.
 

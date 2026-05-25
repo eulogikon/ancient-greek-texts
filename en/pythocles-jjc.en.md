@@ -2,7 +2,7 @@
 name: Pythocles
 name_greek: Πυθόκλης
 eul_aid: jjc
-canonical: "https://eulogikon.org/en/pythocles"
+canonical: "https://eulogikon.org/authors/pythocles-jjc"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πυθόκλης*
 
-**eul_aid:** `jjc` · [HTML page](https://eulogikon.org/en/pythocles)
+**eul_aid:** `jjc` · [HTML page](https://eulogikon.org/authors/pythocles-jjc)
 
 Pythocles, a Hellenistic historian of the 3rd century BCE. Surviving fragments of his historical prose. Free to read and download from the Greek library.
 

@@ -2,7 +2,7 @@
 name: Nicias of Miletus
 name_greek: Νικίας ὁ Μιλήσιος
 eul_aid: khi
-canonical: "https://eulogikon.org/en/nicias-of-miletus"
+canonical: "https://eulogikon.org/authors/nicias-of-miletus-khi"
 period: Hellenistic
 dialect: Literary Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Νικίας ὁ Μιλήσιος*
 
-**eul_aid:** `khi` · [HTML page](https://eulogikon.org/en/nicias-of-miletus)
+**eul_aid:** `khi` · [HTML page](https://eulogikon.org/authors/nicias-of-miletus-khi)
 
 Nicias of Miletus, a Hellenistic poet of the 4th to 3rd century BCE. Surviving poetic works in Koine. Free to read and download from the Greek library archive.
 

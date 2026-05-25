@@ -2,7 +2,7 @@
 name: Memnon of Heraclea
 name_greek: Μέμνων ὁ Ἡρακλεώτης
 eul_aid: qju
-canonical: "https://eulogikon.org/en/memnon-of-heraclea"
+canonical: "https://eulogikon.org/authors/memnon-of-heraclea-qju"
 period: Roman
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μέμνων ὁ Ἡρακλεώτης*
 
-**eul_aid:** `qju` · [HTML page](https://eulogikon.org/en/memnon-of-heraclea)
+**eul_aid:** `qju` · [HTML page](https://eulogikon.org/authors/memnon-of-heraclea-qju)
 
 Memnon of Heraclea, a Roman-era historian of the 1st-2nd century CE. Surviving fragments of his historical work. Free to download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Sthenidas
 name_greek: Σθένιδας
 eul_aid: ggi
-canonical: "https://eulogikon.org/en/sthenidas"
+canonical: "https://eulogikon.org/authors/sthenidas-ggi"
 period: Classical
 dialect: Attic Philosophical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σθένιδας*
 
-**eul_aid:** `ggi` · [HTML page](https://eulogikon.org/en/sthenidas)
+**eul_aid:** `ggi` · [HTML page](https://eulogikon.org/authors/sthenidas-ggi)
 
 Sthenidas, Roman Imperial philosopher blending Platonist and Neopythagorean thought. Read his treatise. Free to download from the Greek library archive.
 

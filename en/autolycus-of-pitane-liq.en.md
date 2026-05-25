@@ -2,7 +2,7 @@
 name: Autolycus of Pitane
 name_greek: Αὐτόλυκος ὁ Πιταναῖος
 eul_aid: liq
-canonical: "https://eulogikon.org/en/autolycus-of-pitane"
+canonical: "https://eulogikon.org/authors/autolycus-of-pitane-liq"
 period: Hellenistic
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αὐτόλυκος ὁ Πιταναῖος*
 
-**eul_aid:** `liq` · [HTML page](https://eulogikon.org/en/autolycus-of-pitane)
+**eul_aid:** `liq` · [HTML page](https://eulogikon.org/authors/autolycus-of-pitane-liq)
 
 Autolycus of Pitane, Hellenistic astronomer and mathematician. Two treatises on spherical astronomy. Free to read and download from the Greek library archive.
 

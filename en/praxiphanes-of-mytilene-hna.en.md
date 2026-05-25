@@ -2,7 +2,7 @@
 name: Praxiphanes of Mytilene
 name_greek: Πραξιφάνης ὁ Μυτιληναῖος
 eul_aid: hna
-canonical: "https://eulogikon.org/en/praxiphanes-of-mytilene"
+canonical: "https://eulogikon.org/authors/praxiphanes-of-mytilene-hna"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πραξιφάνης ὁ Μυτιληναῖος*
 
-**eul_aid:** `hna` · [HTML page](https://eulogikon.org/en/praxiphanes-of-mytilene)
+**eul_aid:** `hna` · [HTML page](https://eulogikon.org/authors/praxiphanes-of-mytilene-hna)
 
 Praxiphanes of Mytilene was a Hellenistic Peripatetic philosopher and scholar. Read his works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hippias of Erythrae
 name_greek: Ἱππίας ὁ Ἐρυθραῖος
 eul_aid: hyy
-canonical: "https://eulogikon.org/en/hippias-of-erythrae"
+canonical: "https://eulogikon.org/authors/hippias-of-erythrae-hyy"
 period: Hellenistic
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππίας ὁ Ἐρυθραῖος*
 
-**eul_aid:** `hyy` · [HTML page](https://eulogikon.org/en/hippias-of-erythrae)
+**eul_aid:** `hyy` · [HTML page](https://eulogikon.org/authors/hippias-of-erythrae-hyy)
 
 Hippias of Erythrae was a Hellenistic historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive.
 

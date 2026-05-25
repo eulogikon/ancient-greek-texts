@@ -2,7 +2,7 @@
 name: Little Song of the Disciples
 name_greek: Ἡ καντιονίσκος τῶν μαθητῶν
 eul_aid: yew
-canonical: "https://eulogikon.org/en/little-song-of-the-disciples"
+canonical: "https://eulogikon.org/authors/little-song-of-the-disciples-yew"
 period: Byzantine
 dialect: Byzantine Christian
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡ καντιονίσκος τῶν μαθητῶν*
 
-**eul_aid:** `yew` · [HTML page](https://eulogikon.org/en/little-song-of-the-disciples)
+**eul_aid:** `yew` · [HTML page](https://eulogikon.org/authors/little-song-of-the-disciples-yew)
 
 Anonymous author of a late medieval Byzantine Christian poem. Surviving work is Little Song of the Disciples. Free to download from the Greek library archive.
 

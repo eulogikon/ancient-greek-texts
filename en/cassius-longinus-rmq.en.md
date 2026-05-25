@@ -2,7 +2,7 @@
 name: Cassius Longinus the Philosopher
 name_greek: Κάσσιος Λογγῖνος
 eul_aid: rmq
-canonical: "https://eulogikon.org/en/cassius-longinus"
+canonical: "https://eulogikon.org/authors/cassius-longinus-rmq"
 period: Roman
 dialect: Philosophical Koine
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κάσσιος Λογγῖνος*
 
-**eul_aid:** `rmq` · [HTML page](https://eulogikon.org/en/cassius-longinus)
+**eul_aid:** `rmq` · [HTML page](https://eulogikon.org/authors/cassius-longinus-rmq)
 
 Cassius Longinus, 3rd century CE Platonist philosopher. Three surviving philosophical orations. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Herodes Atticus of Athens
 name_greek: Ἡρῴδης ὁ Ἀττικός
 eul_aid: qoa
-canonical: "https://eulogikon.org/en/herodes-atticus-of-athens"
+canonical: "https://eulogikon.org/authors/herodes-atticus-of-athens-qoa"
 period: Roman
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρῴδης ὁ Ἀττικός*
 
-**eul_aid:** `qoa` · [HTML page](https://eulogikon.org/en/herodes-atticus-of-athens)
+**eul_aid:** `qoa` · [HTML page](https://eulogikon.org/authors/herodes-atticus-of-athens-qoa)
 
 Herodes Atticus was a Greek aristocrat and orator of the Second Sophistic. Surviving orations from Rome. Free to download from the Greek library archive.
 

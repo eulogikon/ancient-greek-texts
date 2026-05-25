@@ -2,7 +2,7 @@
 name: Pamphila of Epidaurus
 name_greek: Παμφίλη Ἐπιδαυρία
 eul_aid: nmu
-canonical: "https://eulogikon.org/en/pamphila-of-epidaurus"
+canonical: "https://eulogikon.org/authors/pamphila-of-epidaurus-nmu"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Παμφίλη Ἐπιδαυρία*
 
-**eul_aid:** `nmu` · [HTML page](https://eulogikon.org/en/pamphila-of-epidaurus)
+**eul_aid:** `nmu` · [HTML page](https://eulogikon.org/authors/pamphila-of-epidaurus-nmu)
 
 Pamphila of Epidaurus was a 1st century CE historian. Her historical miscellany is available. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Straton Comicus
 name_greek: Στράτων ὁ Κωμικός
 eul_aid: evu
-canonical: "https://eulogikon.org/en/straton-comicus"
+canonical: "https://eulogikon.org/authors/straton-comicus-evu"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στράτων ὁ Κωμικός*
 
-**eul_aid:** `evu` · [HTML page](https://eulogikon.org/en/straton-comicus)
+**eul_aid:** `evu` · [HTML page](https://eulogikon.org/authors/straton-comicus-evu)
 
 Straton Comicus, Athenian comic poet of the 4th-3rd centuries BCE. Three fragmentary comedies survive. Free to read and download from the Greek library archive.
 

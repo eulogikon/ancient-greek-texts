@@ -2,7 +2,7 @@
 name: Pseudo-Hippocrates
 name_greek: Ψευδο-Ἱπποκράτης
 eul_aid: oyw
-canonical: "https://eulogikon.org/en/pseudo-hippocrates"
+canonical: "https://eulogikon.org/authors/ps-hippocrates-oyw"
 period: Roman
 dialect: Koine
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Ἱπποκράτης*
 
-**eul_aid:** `oyw` · [HTML page](https://eulogikon.org/en/pseudo-hippocrates)
+**eul_aid:** `oyw` · [HTML page](https://eulogikon.org/authors/ps-hippocrates-oyw)
 
 Pseudo-Hippocrates refers to unknown authors of medical texts. Six surviving treatises. Free to read and download from the Greek library archive.
 

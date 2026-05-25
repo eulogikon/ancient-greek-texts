@@ -2,7 +2,7 @@
 name: Longus the Novelist
 name_greek: Λόγγος ὁ μυθιστοριογράφος
 eul_aid: rte
-canonical: "https://eulogikon.org/en/longus"
+canonical: "https://eulogikon.org/authors/longus-the-novelist-rte"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λόγγος ὁ μυθιστοριογράφος*
 
-**eul_aid:** `rte` · [HTML page](https://eulogikon.org/en/longus)
+**eul_aid:** `rte` · [HTML page](https://eulogikon.org/authors/longus-the-novelist-rte)
 
 Longus, Roman era novelist of the 2nd-3rd century CE. Author of the pastoral romance Daphnis and Chloe. Free to read and download from the Greek archive.
 

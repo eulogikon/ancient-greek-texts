@@ -2,7 +2,7 @@
 name: Apollophanes the Stoic
 name_greek: Ἀπολλοφάνης ὁ Στωικός
 eul_aid: jzg
-canonical: "https://eulogikon.org/en/apollophanes-the-stoic"
+canonical: "https://eulogikon.org/authors/apollophanes-the-stoic-jzg"
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπολλοφάνης ὁ Στωικός*
 
-**eul_aid:** `jzg` · [HTML page](https://eulogikon.org/en/apollophanes-the-stoic)
+**eul_aid:** `jzg` · [HTML page](https://eulogikon.org/authors/apollophanes-the-stoic-jzg)
 
 Apollophanes was a Stoic philosopher of the 3rd century BCE. Surviving works are fragmentary. Free to read and download from the Greek library archive.
 

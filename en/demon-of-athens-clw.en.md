@@ -2,7 +2,7 @@
 name: Demon of Athens
 name_greek: Δήμων ὁ Ἀθηναῖος
 eul_aid: clw
-canonical: "https://eulogikon.org/en/demon-of-athens"
+canonical: "https://eulogikon.org/authors/demon-of-athens-clw"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δήμων ὁ Ἀθηναῖος*
 
-**eul_aid:** `clw` · [HTML page](https://eulogikon.org/en/demon-of-athens)
+**eul_aid:** `clw` · [HTML page](https://eulogikon.org/authors/demon-of-athens-clw)
 
 Demon of Athens, a 4th century BCE Attic historian. His historical works survive in fragments. Free to read and download from the Greek library archive.
 

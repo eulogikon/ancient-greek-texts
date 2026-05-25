@@ -2,7 +2,7 @@
 name: Paron of Miletus
 name_greek: Πάρων ὁ Μιλήσιος
 eul_aid: avy
-canonical: "https://eulogikon.org/en/paron-of-miletus"
+canonical: "https://eulogikon.org/authors/paron-of-miletus-avy"
 period: Archaic
 dialect: Ionic
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πάρων ὁ Μιλήσιος*
 
-**eul_aid:** `avy` · [HTML page](https://eulogikon.org/en/paron-of-miletus)
+**eul_aid:** `avy` · [HTML page](https://eulogikon.org/authors/paron-of-miletus-avy)
 
 Paron of Miletus, a 5th century BCE Ionic Presocratic philosopher. One surviving work is preserved. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Soranus of Ephesus
 name_greek: Σωρανὸς ὁ Ἑφέσιος
 eul_aid: omy
-canonical: "https://eulogikon.org/en/soranus-of-ephesus"
+canonical: "https://eulogikon.org/authors/soranus-of-ephesus-omy"
 period: Roman
 dialect: Technical Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωρανὸς ὁ Ἑφέσιος*
 
-**eul_aid:** `omy` · [HTML page](https://eulogikon.org/en/soranus-of-ephesus)
+**eul_aid:** `omy` · [HTML page](https://eulogikon.org/authors/soranus-of-ephesus-omy)
 
 Soranus of Ephesus, Greek physician in Rome under Trajan and Hadrian. Four medical treatises survive. Free to read and download from the Greek library archive.
 

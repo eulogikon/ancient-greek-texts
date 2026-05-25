@@ -2,7 +2,7 @@
 name: Philostratus Athenian
 name_greek: Φιλόστρατος ὁ Ἀθηναῖος
 eul_aid: rlw
-canonical: "https://eulogikon.org/en/philostratus-athenian"
+canonical: "https://eulogikon.org/authors/philostratus-athenian-rlw"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόστρατος ὁ Ἀθηναῖος*
 
-**eul_aid:** `rlw` · [HTML page](https://eulogikon.org/en/philostratus-athenian)
+**eul_aid:** `rlw` · [HTML page](https://eulogikon.org/authors/philostratus-athenian-rlw)
 
 Philostratus Athenian, Roman era biographer of the 2nd-3rd century CE. Features his biographical works. Free to download from the Greek library archive.
 

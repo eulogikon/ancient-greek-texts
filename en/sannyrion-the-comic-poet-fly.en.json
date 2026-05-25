@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "fly-aa",
-      "title": {
-        "english": "Comic Fragments on Gods and Mortals",
-        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
-      },
-      "url_slug": "sannyrion-the-comic-poet-comic-fragments-aa-fly-aa",
-      "passages": 12,
-      "links": {
-        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.epub"
-      }
-    },
-    {
       "eul_wid": "fly-ab",
       "title": {
         "english": "Comic Fragments on Gods and Mortals",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fly-aa",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-aa-fly-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.epub"
       }
     }
   ],

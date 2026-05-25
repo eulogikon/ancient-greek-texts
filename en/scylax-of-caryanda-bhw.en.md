@@ -2,7 +2,7 @@
 name: Scylax of Caryanda
 name_greek: Σκύλαξ ὁ Καρυανδεύς
 eul_aid: bhw
-canonical: "https://eulogikon.org/en/scylax-of-caryanda"
+canonical: "https://eulogikon.org/authors/scylax-of-caryanda-bhw"
 period: Archaic
 dialect: Ionic
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σκύλαξ ὁ Καρυανδεύς*
 
-**eul_aid:** `bhw` · [HTML page](https://eulogikon.org/en/scylax-of-caryanda)
+**eul_aid:** `bhw` · [HTML page](https://eulogikon.org/authors/scylax-of-caryanda-bhw)
 
 Scylax of Caryanda, 6th century BCE Greek geographer. Accounts of voyages and geography. Free to read and download from the Greek library archive.
 

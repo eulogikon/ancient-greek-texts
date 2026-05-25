@@ -2,7 +2,7 @@
 name: Aristodemus the Historian
 name_greek: Ἀριστόδημος ὁ ἱστορικός
 eul_aid: nie
-canonical: "https://eulogikon.org/en/aristodemus-the-historian"
+canonical: "https://eulogikon.org/authors/aristodemus-the-historian-nie"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστόδημος ὁ ἱστορικός*
 
-**eul_aid:** `nie` · [HTML page](https://eulogikon.org/en/aristodemus-the-historian)
+**eul_aid:** `nie` · [HTML page](https://eulogikon.org/authors/aristodemus-the-historian-nie)
 
 Aristodemus the Historian, a Hellenistic era writer. Surviving historical fragments and works. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Syrianus of Athens
 name_greek: Συριανός
 eul_aid: tfq
-canonical: "https://eulogikon.org/en/syrianus-of-athens"
+canonical: "https://eulogikon.org/authors/syrianus-of-athens-tfq"
 period: Late Antique
 dialect: Attic Philosophical
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Συριανός*
 
-**eul_aid:** `tfq` · [HTML page](https://eulogikon.org/en/syrianus-of-athens)
+**eul_aid:** `tfq` · [HTML page](https://eulogikon.org/authors/syrianus-of-athens-tfq)
 
 Syrianus, 5th century Neoplatonic scholarch of Athens. His surviving philosophical treatises. Free to read and download from the Greek library archive.
 

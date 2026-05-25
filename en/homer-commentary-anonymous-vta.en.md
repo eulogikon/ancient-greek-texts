@@ -2,7 +2,7 @@
 name: Homer Commentary
 name_greek: Ὁμηρικὴ ὑπόμνησις
 eul_aid: vta
-canonical: "https://eulogikon.org/en/homer-commentary-anonymous"
+canonical: "https://eulogikon.org/authors/homer-commentary-vta"
 period: Late Antique
 dialect: Atticizing
 works_count: 8
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὁμηρικὴ ὑπόμνησις*
 
-**eul_aid:** `vta` · [HTML page](https://eulogikon.org/en/homer-commentary-anonymous)
+**eul_aid:** `vta` · [HTML page](https://eulogikon.org/authors/homer-commentary-vta)
 
 The Homer Commentary tradition features late antique analysis of Homeric epics. Eight surviving works. Free to read and download from the Greek library archive.
 

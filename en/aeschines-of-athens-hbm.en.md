@@ -2,7 +2,7 @@
 name: Aeschines of Athens
 name_greek: Αἰσχίνης ὁ Ἀθηναῖος
 eul_aid: hbm
-canonical: "https://eulogikon.org/en/aeschines-of-athens"
+canonical: "https://eulogikon.org/authors/aeschines-of-athens-hbm"
 period: Classical
 dialect: Attic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσχίνης ὁ Ἀθηναῖος*
 
-**eul_aid:** `hbm` · [HTML page](https://eulogikon.org/en/aeschines-of-athens)
+**eul_aid:** `hbm` · [HTML page](https://eulogikon.org/authors/aeschines-of-athens-hbm)
 
 Aeschines was a classical Athenian orator of the 4th century BCE. Three of his speeches remain. Free to read and download from the Greek library archive.
 

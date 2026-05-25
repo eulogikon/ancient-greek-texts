@@ -2,7 +2,7 @@
 name: Greek Lyric Fragments Anonymous
 name_greek: Ἀδέσποτα ποιήματα
 eul_aid: dgg
-canonical: "https://eulogikon.org/en/greek-lyric-fragments-anonymous"
+canonical: "https://eulogikon.org/authors/greek-lyric-fragments-anon-dgg"
 period: Classical
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀδέσποτα ποιήματα*
 
-**eul_aid:** `dgg` · [HTML page](https://eulogikon.org/en/greek-lyric-fragments-anonymous)
+**eul_aid:** `dgg` · [HTML page](https://eulogikon.org/authors/greek-lyric-fragments-anon-dgg)
 
 Anonymous Greek lyric fragments from the 7th to 5th centuries BCE. Surviving poetic works in mixed dialects. Free to download from the Greek library archive.
 

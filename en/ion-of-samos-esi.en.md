@@ -2,7 +2,7 @@
 name: Ion of Samos
 name_greek: Ἴων ὁ Σάμιος
 eul_aid: esi
-canonical: "https://eulogikon.org/en/ion-of-samos"
+canonical: "https://eulogikon.org/authors/ion-of-samos-esi"
 period: Classical
 dialect: Ionic Elegiac
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴων ὁ Σάμιος*
 
-**eul_aid:** `esi` · [HTML page](https://eulogikon.org/en/ion-of-samos)
+**eul_aid:** `esi` · [HTML page](https://eulogikon.org/authors/ion-of-samos-esi)
 
 Ion of Samos was a 5th century BCE Ionic elegiac poet. Two surviving works of verse are preserved. Free to read and download from the Greek library archive.
 

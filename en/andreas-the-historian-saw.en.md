@@ -2,7 +2,7 @@
 name: Andreas the Historian
 name_greek: Ἀνδρέας ὁ ἱστορικός
 eul_aid: saw
-canonical: "https://eulogikon.org/en/andreas-the-historian"
+canonical: "https://eulogikon.org/authors/andreas-the-historian-saw"
 period: Late Antique
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνδρέας ὁ ἱστορικός*
 
-**eul_aid:** `saw` · [HTML page](https://eulogikon.org/en/andreas-the-historian)
+**eul_aid:** `saw` · [HTML page](https://eulogikon.org/authors/andreas-the-historian-saw)
 
 Andreas the Historian was a late antique Greek historian. His surviving historical works are preserved as fragments. Free to download from the Greek library.
 

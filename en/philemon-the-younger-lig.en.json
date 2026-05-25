@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "lig-ab",
-      "title": {
-        "english": "Culinary and Medical Dialogues",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "philemon-the-younger-culinary-medical-dialogues-ab-lig-ab",
-      "passages": 12,
-      "links": {
-        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-ab.epub"
-      }
-    },
-    {
       "eul_wid": "lig-aa",
       "title": {
         "english": "Culinary and Medical Dialogues",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lig-ab",
+      "title": {
+        "english": "Culinary and Medical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-the-younger-culinary-medical-dialogues-ab-lig-ab",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-ab.epub"
       }
     }
   ],

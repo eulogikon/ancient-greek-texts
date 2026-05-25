@@ -2,7 +2,7 @@
 name: Crito of Alopece
 name_greek: Κρίτων Ἀλωπεκῆθεν ὁ κωμικός
 eul_aid: lrc
-canonical: "https://eulogikon.org/en/crito-of-alopece"
+canonical: "https://eulogikon.org/authors/crito-of-alopece-lrc"
 period: Hellenistic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρίτων Ἀλωπεκῆθεν ὁ κωμικός*
 
-**eul_aid:** `lrc` · [HTML page](https://eulogikon.org/en/crito-of-alopece)
+**eul_aid:** `lrc` · [HTML page](https://eulogikon.org/authors/crito-of-alopece-lrc)
 
 Crito of Alopece was a Hellenistic comic poet. Read surviving fragments of his Attic comedies. Free to read and download from the Greek library archive.
 

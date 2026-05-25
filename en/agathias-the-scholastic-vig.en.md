@@ -2,7 +2,7 @@
 name: Agathias the Scholastic
 name_greek: Ἀγαθίας ὁ Σχολαστικός
 eul_aid: vig
-canonical: "https://eulogikon.org/en/agathias-the-scholastic"
+canonical: "https://eulogikon.org/authors/agathias-the-scholastic-vig"
 period: Late Antique
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαθίας ὁ Σχολαστικός*
 
-**eul_aid:** `vig` · [HTML page](https://eulogikon.org/en/agathias-the-scholastic)
+**eul_aid:** `vig` · [HTML page](https://eulogikon.org/authors/agathias-the-scholastic-vig)
 
 Agathias the Scholastic, a 6th century CE historian writing in Koine Greek. Surviving works include historical verse. Free to download from the Greek archive.
 

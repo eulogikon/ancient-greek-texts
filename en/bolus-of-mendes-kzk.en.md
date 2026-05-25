@@ -2,7 +2,7 @@
 name: Bolus of Mendes
 name_greek: Βῶλος ὁ Μενδήσιος
 eul_aid: kzk
-canonical: "https://eulogikon.org/en/bolus-of-mendes"
+canonical: "https://eulogikon.org/authors/bolus-of-mendes-kzk"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 6
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βῶλος ὁ Μενδήσιος*
 
-**eul_aid:** `kzk` · [HTML page](https://eulogikon.org/en/bolus-of-mendes)
+**eul_aid:** `kzk` · [HTML page](https://eulogikon.org/authors/bolus-of-mendes-kzk)
 
 Bolus of Mendes, Hellenistic medical writer of the 3rd century BCE. Six fragmentary treatises. Free to read and download from the Greek library archive.
 

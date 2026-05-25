@@ -2,7 +2,7 @@
 name: Assembly of the Birds
 name_greek: Σύλλογος τῶν Ὀρνέων
 eul_aid: ttm
-canonical: "https://eulogikon.org/en/assembly-of-the-birds"
+canonical: "https://eulogikon.org/authors/assembly-of-the-birds-ttm"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σύλλογος τῶν Ὀρνέων*
 
-**eul_aid:** `ttm` · [HTML page](https://eulogikon.org/en/assembly-of-the-birds)
+**eul_aid:** `ttm` · [HTML page](https://eulogikon.org/authors/assembly-of-the-birds-ttm)
 
 Assembly of the Birds, a Late Antique Byzantine poet. Works include the verse Assembly of the Birds. Free to read and download from the Greek library archive.
 

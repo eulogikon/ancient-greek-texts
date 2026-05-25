@@ -2,7 +2,7 @@
 name: Epicrates the Comic
 name_greek: Ἐπικράτης ὁ κωμικός
 eul_aid: fka
-canonical: "https://eulogikon.org/en/epicrates-the-comic"
+canonical: "https://eulogikon.org/authors/epicrates-the-comic-fka"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπικράτης ὁ κωμικός*
 
-**eul_aid:** `fka` · [HTML page](https://eulogikon.org/en/epicrates-the-comic)
+**eul_aid:** `fka` · [HTML page](https://eulogikon.org/authors/epicrates-the-comic-fka)
 
 Epicrates, an Athenian comic poet of the early 4th century BCE. Surviving fragments from his comedies. Free to read and download from the Greek library archive.
 

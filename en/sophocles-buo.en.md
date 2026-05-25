@@ -2,7 +2,7 @@
 name: Sophocles
 name_greek: Σοφοκλῆς
 eul_aid: buo
-canonical: "https://eulogikon.org/en/sophocles"
+canonical: "https://eulogikon.org/authors/sophocles-buo"
 period: Classical
 dialect: Attic Drama
 works_count: 10
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σοφοκλῆς*
 
-**eul_aid:** `buo` · [HTML page](https://eulogikon.org/en/sophocles)
+**eul_aid:** `buo` · [HTML page](https://eulogikon.org/authors/sophocles-buo)
 
 Sophocles, Athenian tragedian of the 5th century BCE. Works include Oedipus Rex and Antigone. Free to read and download from the Greek library archive.
 

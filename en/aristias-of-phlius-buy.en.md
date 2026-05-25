@@ -2,7 +2,7 @@
 name: Aristias of Phlius
 name_greek: Ἀριστίας ὁ Φλιάσιος
 eul_aid: buy
-canonical: "https://eulogikon.org/en/aristias-of-phlius"
+canonical: "https://eulogikon.org/authors/aristias-of-phlius-buy"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστίας ὁ Φλιάσιος*
 
-**eul_aid:** `buy` · [HTML page](https://eulogikon.org/en/aristias-of-phlius)
+**eul_aid:** `buy` · [HTML page](https://eulogikon.org/authors/aristias-of-phlius-buy)
 
 Aristias of Phlius, a 5th century BCE dramatist. Surviving fragments of his works from the Classical period. Free to download from the Greek library archive.
 

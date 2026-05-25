@@ -2,7 +2,7 @@
 name: Aristaenetus the Epistolographer
 name_greek: Ἀρισταίνετος
 eul_aid: vrc
-canonical: "https://eulogikon.org/en/aristaenetus-the-epistolographer"
+canonical: "https://eulogikon.org/authors/aristaenetus-the-writer-vrc"
 period: Late Antique
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρισταίνετος*
 
-**eul_aid:** `vrc` · [HTML page](https://eulogikon.org/en/aristaenetus-the-epistolographer)
+**eul_aid:** `vrc` · [HTML page](https://eulogikon.org/authors/aristaenetus-the-writer-vrc)
 
 Aristaenetus, a late antique Greek epistolographer. Surviving collection of fictional love letters. Free to read and download from the Greek library archive.
 

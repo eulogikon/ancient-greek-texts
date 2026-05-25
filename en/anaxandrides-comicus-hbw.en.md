@@ -2,7 +2,7 @@
 name: Anaxandrides Comicus
 name_greek: Ἀναξανδρίδης ὁ κωμικός
 eul_aid: hbw
-canonical: "https://eulogikon.org/en/anaxandrides-comicus"
+canonical: "https://eulogikon.org/authors/anaxandrides-comicus-hbw"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξανδρίδης ὁ κωμικός*
 
-**eul_aid:** `hbw` · [HTML page](https://eulogikon.org/en/anaxandrides-comicus)
+**eul_aid:** `hbw` · [HTML page](https://eulogikon.org/authors/anaxandrides-comicus-hbw)
 
 Anaxandrides was a 4th century BCE Athenian comic poet of Middle Comedy. Surviving fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Staphylus of Naucratis
 name_greek: Στάφυλος ὁ Ναυκρατίτης
 eul_aid: rik
-canonical: "https://eulogikon.org/en/staphylus-of-naucratis"
+canonical: "https://eulogikon.org/authors/staphylus-of-naucratis-rik"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στάφυλος ὁ Ναυκρατίτης*
 
-**eul_aid:** `rik` · [HTML page](https://eulogikon.org/en/staphylus-of-naucratis)
+**eul_aid:** `rik` · [HTML page](https://eulogikon.org/authors/staphylus-of-naucratis-rik)
 
 Staphylus of Naucratis, a Hellenistic historian and mythographer from the 3rd-2nd century BCE. Free to read and download from the Greek library archive.
 

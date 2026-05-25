@@ -2,7 +2,7 @@
 name: Megasthenes
 name_greek: Μεγασθένης
 eul_aid: lng
-canonical: "https://eulogikon.org/en/megasthenes"
+canonical: "https://eulogikon.org/authors/megasthenes-lng"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μεγασθένης*
 
-**eul_aid:** `lng` · [HTML page](https://eulogikon.org/en/megasthenes)
+**eul_aid:** `lng` · [HTML page](https://eulogikon.org/authors/megasthenes-lng)
 
 Megasthenes, a Greek historian and diplomat. His surviving work provides an account of ancient India. Free to read and download from the Greek library archive.
 

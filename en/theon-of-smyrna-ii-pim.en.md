@@ -2,7 +2,7 @@
 name: Theon of Smyrna II
 name_greek: Θέων ὁ Σμυρναῖος
 eul_aid: pim
-canonical: "https://eulogikon.org/en/theon-of-smyrna-ii"
+canonical: "https://eulogikon.org/authors/theon-of-smyrna-pim"
 period: Roman
 dialect: Atticizing Technical
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θέων ὁ Σμυρναῖος*
 
-**eul_aid:** `pim` · [HTML page](https://eulogikon.org/en/theon-of-smyrna-ii)
+**eul_aid:** `pim` · [HTML page](https://eulogikon.org/authors/theon-of-smyrna-pim)
 
 Theon of Smyrna, a 2nd century CE Roman mathematician. Treatises on arithmetic and astronomy. Free to read and download from the Greek library archive.
 

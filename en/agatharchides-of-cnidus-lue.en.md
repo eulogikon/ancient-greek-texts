@@ -2,7 +2,7 @@
 name: Agatharchides of Cnidus
 name_greek: Ἀγαθαρχίδης ὁ Κνίδιος
 eul_aid: lue
-canonical: "https://eulogikon.org/en/agatharchides-of-cnidus"
+canonical: "https://eulogikon.org/authors/agatharchides-of-cnidus-lue"
 period: Hellenistic
 dialect: Attic
 affiliation: Peripatetic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαθαρχίδης ὁ Κνίδιος*
 
-**eul_aid:** `lue` · [HTML page](https://eulogikon.org/en/agatharchides-of-cnidus)
+**eul_aid:** `lue` · [HTML page](https://eulogikon.org/authors/agatharchides-of-cnidus-lue)
 
 Agatharchides of Cnidus, Hellenistic geographer. Works include geographical and ethnographic fragments. Free to download from the Greek library archive.
 

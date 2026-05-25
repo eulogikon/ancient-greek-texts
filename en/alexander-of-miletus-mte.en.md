@@ -2,7 +2,7 @@
 name: Alexander of Miletus
 name_greek: Ἀλέξανδρος ὁ Μιλήσιος ὁ Πολυΐστωρ
 eul_aid: mte
-canonical: "https://eulogikon.org/en/alexander-of-miletus"
+canonical: "https://eulogikon.org/authors/alexander-of-miletus-mte"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Μιλήσιος ὁ Πολυΐστωρ*
 
-**eul_aid:** `mte` · [HTML page](https://eulogikon.org/en/alexander-of-miletus)
+**eul_aid:** `mte` · [HTML page](https://eulogikon.org/authors/alexander-of-miletus-mte)
 
 Alexander of Miletus, a 1st century BCE grammarian. Grammatical treatises survive in fragments. Free to read and download from the Greek library archive.
 

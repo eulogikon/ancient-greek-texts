@@ -2,7 +2,7 @@
 name: Tryphon Grammarian
 name_greek: Τρύφων ὁ γραμματικός
 eul_aid: nei
-canonical: "https://eulogikon.org/en/tryphon-grammarian"
+canonical: "https://eulogikon.org/authors/tryphon-grammarian-nei"
 period: Hellenistic
 dialect: Atticizing Technical
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τρύφων ὁ γραμματικός*
 
-**eul_aid:** `nei` · [HTML page](https://eulogikon.org/en/tryphon-grammarian)
+**eul_aid:** `nei` · [HTML page](https://eulogikon.org/authors/tryphon-grammarian-nei)
 
 Alexandrian grammarian Tryphon of the 1st century BCE. His grammatical treatises survive in fragments. Free to read and download from the Greek library archive.
 

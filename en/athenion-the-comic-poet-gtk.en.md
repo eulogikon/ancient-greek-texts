@@ -2,7 +2,7 @@
 name: Athenion the Comic Poet
 name_greek: Ἀθηνίων ὁ κωμικός
 eul_aid: gtk
-canonical: "https://eulogikon.org/en/athenion-the-comic-poet"
+canonical: "https://eulogikon.org/authors/athenion-the-comic-poet-gtk"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθηνίων ὁ κωμικός*
 
-**eul_aid:** `gtk` · [HTML page](https://eulogikon.org/en/athenion-the-comic-poet)
+**eul_aid:** `gtk` · [HTML page](https://eulogikon.org/authors/athenion-the-comic-poet-gtk)
 
 Athenion, a Greek comic poet of the 4th-3rd century BCE. Fragments of his comedies are preserved. Free to read and download from the Greek library archive.
 

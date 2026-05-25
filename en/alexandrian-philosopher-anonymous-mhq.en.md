@@ -2,7 +2,7 @@
 name: Alexandrian Philosopher Anonymous
 name_greek: Ἀνώνυμος ὁ Ἀλεξανδρεύς
 eul_aid: mhq
-canonical: "https://eulogikon.org/en/alexandrian-philosopher-anonymous"
+canonical: "https://eulogikon.org/authors/alexandrian-philosopher-anon-mhq"
 period: Hellenistic
 dialect: Philosophical Koine
 affiliation: Jewish
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `mhq` · [HTML page](https://eulogikon.org/en/alexandrian-philosopher-anonymous)
+**eul_aid:** `mhq` · [HTML page](https://eulogikon.org/authors/alexandrian-philosopher-anon-mhq)
 
 Alexandrian Philosopher Anonymous, a Hellenistic Jewish thinker. Read his philosophical treatise. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Aesop the Fabulist
 name_greek: Αἴσωπος ὁ μυθολόγος
 eul_aid: aqo
-canonical: "https://eulogikon.org/en/aesop"
+canonical: "https://eulogikon.org/authors/aesop-the-fabulist-aqo"
 period: Archaic
 dialect: Mixed Dialects
 works_count: 17
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἴσωπος ὁ μυθολόγος*
 
-**eul_aid:** `aqo` · [HTML page](https://eulogikon.org/en/aesop)
+**eul_aid:** `aqo` · [HTML page](https://eulogikon.org/authors/aesop-the-fabulist-aqo)
 
 Aesop, the legendary fabulist of the 6th century BCE. Surviving works include moral fables like The Fox and the Grapes. Free to download from the Greek archive.
 

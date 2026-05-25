@@ -2,7 +2,7 @@
 name: Aristarchus of Tegea
 name_greek: Ἀρίσταρχος ὁ Τεγεάτης
 eul_aid: ddy
-canonical: "https://eulogikon.org/en/aristarchus-of-tegea"
+canonical: "https://eulogikon.org/authors/aristarchus-of-tegea-ddy"
 period: Classical
 dialect: "Attic (dr, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρίσταρχος ὁ Τεγεάτης*
 
-**eul_aid:** `ddy` · [HTML page](https://eulogikon.org/en/aristarchus-of-tegea)
+**eul_aid:** `ddy` · [HTML page](https://eulogikon.org/authors/aristarchus-of-tegea-ddy)
 
 Aristarchus of Tegea was a 5th century BCE Attic dramatist. Surviving fragments of his dramatic works. Free to read and download from the Greek library archive.
 

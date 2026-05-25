@@ -2,7 +2,7 @@
 name: Pelagius the Theologian
 name_greek: Πελάγιος ὁ Θεολόγος
 eul_aid: sxo
-canonical: "https://eulogikon.org/en/pelagius-the-theologian"
+canonical: "https://eulogikon.org/authors/pelagius-the-theologian-sxo"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πελάγιος ὁ Θεολόγος*
 
-**eul_aid:** `sxo` · [HTML page](https://eulogikon.org/en/pelagius-the-theologian)
+**eul_aid:** `sxo` · [HTML page](https://eulogikon.org/authors/pelagius-the-theologian-sxo)
 
 Pelagius the Theologian, a 4th-5th century CE Christian writer. Works include a scientific treatise. Free to read and download from the Greek library archive.
 

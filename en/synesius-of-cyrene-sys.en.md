@@ -2,7 +2,7 @@
 name: Synesius of Cyrene
 name_greek: Συνέσιος ὁ Κυρηναῖος
 eul_aid: sys
-canonical: "https://eulogikon.org/en/synesius-of-cyrene"
+canonical: "https://eulogikon.org/authors/synesius-of-cyrene-sys"
 period: Late Antique
 dialect: Atticizing
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Συνέσιος ὁ Κυρηναῖος*
 
-**eul_aid:** `sys` · [HTML page](https://eulogikon.org/en/synesius-of-cyrene)
+**eul_aid:** `sys` · [HTML page](https://eulogikon.org/authors/synesius-of-cyrene-sys)
 
 Synesius of Cyrene was a Neoplatonist philosopher and bishop. Works include treatises and letters. Free to read and download from the Greek library archive.
 

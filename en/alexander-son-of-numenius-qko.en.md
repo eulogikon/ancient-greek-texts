@@ -2,7 +2,7 @@
 name: Alexander Son of Numenius
 name_greek: Ἀλέξανδρος ὁ τοῦ Νουμήνιου
 eul_aid: qko
-canonical: "https://eulogikon.org/en/alexander-son-of-numenius"
+canonical: "https://eulogikon.org/authors/alexander-son-of-numenius-qko"
 period: Roman
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ τοῦ Νουμήνιου*
 
-**eul_aid:** `qko` · [HTML page](https://eulogikon.org/en/alexander-son-of-numenius)
+**eul_aid:** `qko` · [HTML page](https://eulogikon.org/authors/alexander-son-of-numenius-qko)
 
 Alexander son of Numenius, 2nd century CE Greek sophist. Two surviving orations on rhetoric. Free to read and download from the Greek library archive.
 

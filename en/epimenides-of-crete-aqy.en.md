@@ -2,7 +2,7 @@
 name: Epimenides of Crete
 name_greek: Ἐπιμενίδης ὁ Κρής
 eul_aid: aqy
-canonical: "https://eulogikon.org/en/epimenides-of-crete"
+canonical: "https://eulogikon.org/authors/epimenides-of-crete-aqy"
 period: Archaic
 dialect: Epic (Homeric)
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπιμενίδης ὁ Κρής*
 
-**eul_aid:** `aqy` · [HTML page](https://eulogikon.org/en/epimenides-of-crete)
+**eul_aid:** `aqy` · [HTML page](https://eulogikon.org/authors/epimenides-of-crete-aqy)
 
 Epimenides of Crete, Archaic poet and philosopher. Works include oracles and theological fragments. Free to read and download from the Greek library archive.
 

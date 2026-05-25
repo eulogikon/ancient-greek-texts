@@ -2,7 +2,7 @@
 name: Critolaus of Phaselis Historian
 name_greek: Κριτόλαος ὁ Φασηλίτης
 eul_aid: kyg
-canonical: "https://eulogikon.org/en/critolaus-of-phaselis-historian"
+canonical: "https://eulogikon.org/authors/critolaus-of-phaselis-hist-kyg"
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κριτόλαος ὁ Φασηλίτης*
 
-**eul_aid:** `kyg` · [HTML page](https://eulogikon.org/en/critolaus-of-phaselis-historian)
+**eul_aid:** `kyg` · [HTML page](https://eulogikon.org/authors/critolaus-of-phaselis-hist-kyg)
 
 Critolaus of Phaselis, a Hellenistic historian of the 2nd century BCE. Includes historical fragments. Free to read and download from the Greek library archive.
 

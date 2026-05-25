@@ -2,7 +2,7 @@
 name: Lexicon of the Art of Grammar Anonymous
 name_greek: Λέξικον τῆς τέχνης τῆς γραμματικῆς
 eul_aid: voa
-canonical: "https://eulogikon.org/en/lexicon-of-grammar-anonymous"
+canonical: "https://eulogikon.org/authors/art-of-grammar-anon-voa"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λέξικον τῆς τέχνης τῆς γραμματικῆς*
 
-**eul_aid:** `voa` · [HTML page](https://eulogikon.org/en/lexicon-of-grammar-anonymous)
+**eul_aid:** `voa` · [HTML page](https://eulogikon.org/authors/art-of-grammar-anon-voa)
 
 Anonymous author of a Late Antique lexicon on grammar. This surviving work defines terms of the art. Free to read and download from the Greek library archive.
 

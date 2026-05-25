@@ -2,7 +2,7 @@
 name: Pseudo-Phocylides
 name_greek: Ψευδο-Φωκυλίδης ὁ Γνωμολόγος
 eul_aid: oss
-canonical: "https://eulogikon.org/en/pseudo-phocylides"
+canonical: "https://eulogikon.org/authors/ps-phocylides-oss"
 period: Roman
 dialect: Koine
 affiliation: Jewish
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Φωκυλίδης ὁ Γνωμολόγος*
 
-**eul_aid:** `oss` · [HTML page](https://eulogikon.org/en/pseudo-phocylides)
+**eul_aid:** `oss` · [HTML page](https://eulogikon.org/authors/ps-phocylides-oss)
 
 Pseudo-Phocylides, a Jewish author writing ethical maxims in Greek verse during the early Roman era. Free to read and download from the Greek library archive.
 

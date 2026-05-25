@@ -2,7 +2,7 @@
 name: Proclus the Successor
 name_greek: Πρόκλος ὁ Διάδοχος
 eul_aid: uqy
-canonical: "https://eulogikon.org/en/proclus-the-successor"
+canonical: "https://eulogikon.org/authors/proclus-the-successor-uqy"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρόκλος ὁ Διάδοχος*
 
-**eul_aid:** `uqy` · [HTML page](https://eulogikon.org/en/proclus-the-successor)
+**eul_aid:** `uqy` · [HTML page](https://eulogikon.org/authors/proclus-the-successor-uqy)
 
 Proclus, 5th century CE Neoplatonist philosopher. Surviving works include philosophical treatises. Free to read and download from the Greek library archive.
 

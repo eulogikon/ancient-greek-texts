@@ -44,23 +44,6 @@
   "works_count": 3,
   "works": [
     {
-      "eul_wid": "tmo-ab",
-      "title": {
-        "english": "Collection of Attic Words",
-        "ancient_greek": "Συναγωγὴ Ἀττικῶν Λέξεων"
-      },
-      "url_slug": "oros-of-alexandria-attic-words-ab-tmo-ab",
-      "passages": 106,
-      "links": {
-        "html": "https://eulogikon.org/grc/oros-of-alexandria/attic-words-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria/attic-words-ab.epub"
-      }
-    },
-    {
       "eul_wid": "tmo-ac",
       "title": {
         "english": "Collection of Attic Words",
@@ -75,6 +58,23 @@
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ac-tmo-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ac-tmo-ac.grc.json",
         "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria/attic-words-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "tmo-ab",
+      "title": {
+        "english": "Collection of Attic Words",
+        "ancient_greek": "Συναγωγὴ Ἀττικῶν Λέξεων"
+      },
+      "url_slug": "oros-of-alexandria-attic-words-ab-tmo-ab",
+      "passages": 106,
+      "links": {
+        "html": "https://eulogikon.org/grc/oros-of-alexandria/attic-words-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria-attic-words-ab-tmo-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-of-alexandria/attic-words-ab.epub"
       }
     },
     {

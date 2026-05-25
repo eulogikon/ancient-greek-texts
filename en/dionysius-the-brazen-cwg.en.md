@@ -2,7 +2,7 @@
 name: Dionysius the Brazen
 name_greek: Διονύσιος ὁ Χαλκοῦς
 eul_aid: cwg
-canonical: "https://eulogikon.org/en/dionysius-the-brazen"
+canonical: "https://eulogikon.org/authors/dionysius-the-brazen-cwg"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Χαλκοῦς*
 
-**eul_aid:** `cwg` · [HTML page](https://eulogikon.org/en/dionysius-the-brazen)
+**eul_aid:** `cwg` · [HTML page](https://eulogikon.org/authors/dionysius-the-brazen-cwg)
 
 Dionysius the Brazen was a 5th century BCE Attic poet. Surviving works include his poetic fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Dionysius of Antioch
 name_greek: Διονύσιος ὁ Ἀντιοχεύς
 eul_aid: oug
-canonical: "https://eulogikon.org/en/dionysius-of-antioch"
+canonical: "https://eulogikon.org/authors/dionysius-of-antioch-oug"
 period: Roman
 dialect: Byzantine Greek
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διονύσιος ὁ Ἀντιοχεύς*
 
-**eul_aid:** `oug` · [HTML page](https://eulogikon.org/en/dionysius-of-antioch)
+**eul_aid:** `oug` · [HTML page](https://eulogikon.org/authors/dionysius-of-antioch-oug)
 
 Dionysius of Antioch, a 1st-2nd century CE Roman orator. His surviving epistles are preserved in Greek. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Themistius the Philosopher
 name_greek: Θεμίστιος ὁ Εὐφραδής
 eul_aid: rye
-canonical: "https://eulogikon.org/en/themistius"
+canonical: "https://eulogikon.org/authors/themistius-the-philosopher-rye"
 period: Late Antique
 dialect: Atticizing
 affiliation: Eclectic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεμίστιος ὁ Εὐφραδής*
 
-**eul_aid:** `rye` · [HTML page](https://eulogikon.org/en/themistius)
+**eul_aid:** `rye` · [HTML page](https://eulogikon.org/authors/themistius-the-philosopher-rye)
 
 Themistius, a 4th century philosopher and statesman. His surviving works include forty one orations. Free to read and download from the Greek library archive.
 

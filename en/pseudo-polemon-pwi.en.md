@@ -2,7 +2,7 @@
 name: Pseudo-Polemon
 name_greek: Ψευδο-Πολέμων
 eul_aid: pwi
-canonical: "https://eulogikon.org/en/pseudo-polemon"
+canonical: "https://eulogikon.org/authors/ps-polemon-pwi"
 period: Roman
 dialect: Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ψευδο-Πολέμων*
 
-**eul_aid:** `pwi` · [HTML page](https://eulogikon.org/en/pseudo-polemon)
+**eul_aid:** `pwi` · [HTML page](https://eulogikon.org/authors/ps-polemon-pwi)
 
 Pseudo-Polemon, anonymous 2nd century CE Roman sophist. Surviving physiognomy treatises on character. Free to read and download from the Greek library archive.
 

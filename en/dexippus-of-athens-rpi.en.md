@@ -2,7 +2,7 @@
 name: Dexippus of Athens
 name_greek: Δέξιππος ὁ Ἀθηναῖος
 eul_aid: rpi
-canonical: "https://eulogikon.org/en/dexippus-of-athens"
+canonical: "https://eulogikon.org/authors/dexippus-of-athens-rpi"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δέξιππος ὁ Ἀθηναῖος*
 
-**eul_aid:** `rpi` · [HTML page](https://eulogikon.org/en/dexippus-of-athens)
+**eul_aid:** `rpi` · [HTML page](https://eulogikon.org/authors/dexippus-of-athens-rpi)
 
 Dexippus of Athens, a 3rd century CE Roman historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive.
 

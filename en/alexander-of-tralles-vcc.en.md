@@ -2,7 +2,7 @@
 name: Alexander of Tralles
 name_greek: Ἀλέξανδρος ὁ Τραλλιανός
 eul_aid: vcc
-canonical: "https://eulogikon.org/en/alexander-of-tralles"
+canonical: "https://eulogikon.org/authors/alexander-of-tralles-vcc"
 period: Late Antique
 dialect: Technical Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλέξανδρος ὁ Τραλλιανός*
 
-**eul_aid:** `vcc` · [HTML page](https://eulogikon.org/en/alexander-of-tralles)
+**eul_aid:** `vcc` · [HTML page](https://eulogikon.org/authors/alexander-of-tralles-vcc)
 
 Alexander of Tralles, a 6th century Greek physician. Five medical treatises from late antiquity. Free to read and download from the Greek library archive.
 

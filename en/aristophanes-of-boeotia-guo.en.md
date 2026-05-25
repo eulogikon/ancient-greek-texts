@@ -2,7 +2,7 @@
 name: Aristophanes of Boeotia
 name_greek: Ἀριστοφάνης ὁ Βοιωτός
 eul_aid: guo
-canonical: "https://eulogikon.org/en/aristophanes-of-boeotia"
+canonical: "https://eulogikon.org/authors/aristophanes-of-boeotia-guo"
 period: Classical
 dialect: Aeolic (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστοφάνης ὁ Βοιωτός*
 
-**eul_aid:** `guo` · [HTML page](https://eulogikon.org/en/aristophanes-of-boeotia)
+**eul_aid:** `guo` · [HTML page](https://eulogikon.org/authors/aristophanes-of-boeotia-guo)
 
 Aristophanes of Boeotia, a 4th century BCE Aeolic Greek historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

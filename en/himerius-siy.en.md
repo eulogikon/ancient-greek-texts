@@ -2,7 +2,7 @@
 name: Himerius the Sophist
 name_greek: Ἱμέριος ὁ Σοφιστής
 eul_aid: siy
-canonical: "https://eulogikon.org/en/himerius"
+canonical: "https://eulogikon.org/authors/himerius-the-sophist-siy"
 period: Late Antique
 dialect: Atticizing Literary
 works_count: 3
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱμέριος ὁ Σοφιστής*
 
-**eul_aid:** `siy` · [HTML page](https://eulogikon.org/en/himerius)
+**eul_aid:** `siy` · [HTML page](https://eulogikon.org/authors/himerius-the-sophist-siy)
 
 Himerius, a 4th century CE Greek teacher and orator. Three surviving orations from his career. Free to read and download from the Greek library archive.
 

@@ -1,7 +1,7 @@
 ---
 name: Anonymous Commentary on Aristotle (Posterior Analytics 2)
 eul_aid: wmg
-canonical: "https://eulogikon.org/en/anonymous-commentary-on-aristotle-posterior-analytics-2"
+canonical: "https://eulogikon.org/authors/anonymous-comm-aristotle-post-analytics-2-wmg"
 period: Uncertain
 works_count: 1
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -9,7 +9,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 # Anonymous Commentary on Aristotle (Posterior Analytics 2)
 
-**eul_aid:** `wmg` · [HTML page](https://eulogikon.org/en/anonymous-commentary-on-aristotle-posterior-analytics-2)
+**eul_aid:** `wmg` · [HTML page](https://eulogikon.org/authors/anonymous-comm-aristotle-post-analytics-2-wmg)
 
 ## Works
 

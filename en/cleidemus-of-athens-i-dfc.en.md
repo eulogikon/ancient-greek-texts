@@ -2,7 +2,7 @@
 name: Cleidemus of Athens I
 name_greek: Κλείδημος ὁ Ἀθηναῖος
 eul_aid: dfc
-canonical: "https://eulogikon.org/en/cleidemus-of-athens-i"
+canonical: "https://eulogikon.org/authors/cleidemus-of-athens-dfc"
 period: Classical
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλείδημος ὁ Ἀθηναῖος*
 
-**eul_aid:** `dfc` · [HTML page](https://eulogikon.org/en/cleidemus-of-athens-i)
+**eul_aid:** `dfc` · [HTML page](https://eulogikon.org/authors/cleidemus-of-athens-dfc)
 
 Cleidemus of Athens, a 5th century BCE Attic philosopher. Surviving fragments of his philosophical works. Free to read and download from the Greek library.
 

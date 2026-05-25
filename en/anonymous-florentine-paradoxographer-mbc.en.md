@@ -2,7 +2,7 @@
 name: Florentine Paradoxographer Anonymous
 name_greek: Ἀνώνυμος ὁ Παράδοξογράφος ὁ Φλωρεντινός
 eul_aid: mbc
-canonical: "https://eulogikon.org/en/anonymous-florentine-paradoxographer"
+canonical: "https://eulogikon.org/authors/florentine-paradox-anon-mbc"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ὁ Παράδοξογράφος ὁ Φλωρεντινός*
 
-**eul_aid:** `mbc` · [HTML page](https://eulogikon.org/en/anonymous-florentine-paradoxographer)
+**eul_aid:** `mbc` · [HTML page](https://eulogikon.org/authors/florentine-paradox-anon-mbc)
 
 Anonymous Hellenistic author of paradoxographical works from the 1st century BCE. A work of historical curiosities. Free to download from the Greek archive.
 

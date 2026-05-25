@@ -2,7 +2,7 @@
 name: Leo of Constantinople
 name_greek: Λέων ὁ Κωνσταντινουπολίτης
 eul_aid: pqo
-canonical: "https://eulogikon.org/en/leo-of-constantinople"
+canonical: "https://eulogikon.org/authors/leo-of-constantinople-pqo"
 period: Roman
 dialect: "Koine (phi, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λέων ὁ Κωνσταντινουπολίτης*
 
-**eul_aid:** `pqo` · [HTML page](https://eulogikon.org/en/leo-of-constantinople)
+**eul_aid:** `pqo` · [HTML page](https://eulogikon.org/authors/leo-of-constantinople-pqo)
 
 Leo of Constantinople, a 2nd century CE Roman philosopher. Two surviving philosophical treatises. Free to read and download from the Greek library archive.
 

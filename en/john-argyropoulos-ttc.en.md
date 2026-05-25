@@ -2,7 +2,7 @@
 name: John Argyropoulos
 name_greek: Ἰωάννης Ἀργυρόπουλος
 eul_aid: ttc
-canonical: "https://eulogikon.org/en/john-argyropoulos"
+canonical: "https://eulogikon.org/authors/john-argyropoulos-ttc"
 period: Late Antique
 dialect: Philosophical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης Ἀργυρόπουλος*
 
-**eul_aid:** `ttc` · [HTML page](https://eulogikon.org/en/john-argyropoulos)
+**eul_aid:** `ttc` · [HTML page](https://eulogikon.org/authors/john-argyropoulos-ttc)
 
 John Argyropoulos, 15th century grammarian in Philosophical Koine. His surviving grammatical treatise. Free to read and download from the Greek library archive.
 

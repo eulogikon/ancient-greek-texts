@@ -2,7 +2,7 @@
 name: Cratylus the Heraclitean
 name_greek: Κρατύλος ὁ Ἡρακλείτειος
 eul_aid: bmm
-canonical: "https://eulogikon.org/en/cratylus-the-heraclitean"
+canonical: "https://eulogikon.org/authors/cratylus-the-heraclitean-bmm"
 period: Archaic
 dialect: "Attic (phi, frg)"
 affiliation: Heraclitean
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κρατύλος ὁ Ἡρακλείτειος*
 
-**eul_aid:** `bmm` · [HTML page](https://eulogikon.org/en/cratylus-the-heraclitean)
+**eul_aid:** `bmm` · [HTML page](https://eulogikon.org/authors/cratylus-the-heraclitean-bmm)
 
 Cratylus, Athenian philosopher and follower of Heraclitus. Surviving fragments on language and flux. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Favorinus of Arelate
 name_greek: Φαβωρῖνος ὁ Ἀρελάτης
 eul_aid: peq
-canonical: "https://eulogikon.org/en/favorinus-of-arelate"
+canonical: "https://eulogikon.org/authors/favorinus-of-arelate-peq"
 period: Roman
 dialect: Atticizing
 affiliation: Pyrrhonian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φαβωρῖνος ὁ Ἀρελάτης*
 
-**eul_aid:** `peq` · [HTML page](https://eulogikon.org/en/favorinus-of-arelate)
+**eul_aid:** `peq` · [HTML page](https://eulogikon.org/authors/favorinus-of-arelate-peq)
 
 Favorinus of Arelate, a 2nd-century CE Roman sophist. His surviving philosophical writings. Free to read and download from the Greek library archive.
 

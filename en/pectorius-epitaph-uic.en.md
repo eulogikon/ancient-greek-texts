@@ -2,7 +2,7 @@
 name: Pectorius Epitaph Anonymous
 name_greek: Ἐπιτάφιος τοῦ Πεκτορίου
 eul_aid: uic
-canonical: "https://eulogikon.org/en/pectorius-epitaph"
+canonical: "https://eulogikon.org/authors/pectorius-epitaph-anon-uic"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπιτάφιος τοῦ Πεκτορίου*
 
-**eul_aid:** `uic` · [HTML page](https://eulogikon.org/en/pectorius-epitaph)
+**eul_aid:** `uic` · [HTML page](https://eulogikon.org/authors/pectorius-epitaph-anon-uic)
 
 Anonymous author of a Late Antique Christian Koine verse epitaph. A poetic funerary inscription. Free to read and download from the Greek library archive.
 

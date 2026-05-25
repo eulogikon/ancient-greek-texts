@@ -2,7 +2,7 @@
 name: Andron of Ephesus the Historian
 name_greek: Ἄνδρων ὁ Ἐφέσιος
 eul_aid: fmi
-canonical: "https://eulogikon.org/en/andron-of-ephesus"
+canonical: "https://eulogikon.org/authors/andron-of-ephesus-fmi"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄνδρων ὁ Ἐφέσιος*
 
-**eul_aid:** `fmi` · [HTML page](https://eulogikon.org/en/andron-of-ephesus)
+**eul_aid:** `fmi` · [HTML page](https://eulogikon.org/authors/andron-of-ephesus-fmi)
 
 Andron of Ephesus, a 4th century BCE Ionic historian. Surviving historical fragments from his works. Free to read and download from the Greek library archive.
 

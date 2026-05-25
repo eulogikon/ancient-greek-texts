@@ -2,7 +2,7 @@
 name: Dositheus the Grammarian
 name_greek: Δωσίθεος ὁ γραμματικός
 eul_aid: sie
-canonical: "https://eulogikon.org/en/dositheus-the-grammarian"
+canonical: "https://eulogikon.org/authors/dositheus-the-grammarian-sie"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δωσίθεος ὁ γραμματικός*
 
-**eul_aid:** `sie` · [HTML page](https://eulogikon.org/en/dositheus-the-grammarian)
+**eul_aid:** `sie` · [HTML page](https://eulogikon.org/authors/dositheus-the-grammarian-sie)
 
 Dositheus the Grammarian was a 4th century CE scholar of technical Koine. His grammatical treatise. Free to read and download from the Greek library archive.
 

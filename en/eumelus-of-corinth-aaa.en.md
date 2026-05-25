@@ -2,7 +2,7 @@
 name: Eumelus of Corinth
 name_greek: Εὔμηλος ὁ Κορίνθιος
 eul_aid: aaa
-canonical: "https://eulogikon.org/en/eumelus-of-corinth"
+canonical: "https://eulogikon.org/authors/eumelus-of-corinth-aaa"
 period: Archaic
 dialect: Epic (Homeric) (frg)
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔμηλος ὁ Κορίνθιος*
 
-**eul_aid:** `aaa` · [HTML page](https://eulogikon.org/en/eumelus-of-corinth)
+**eul_aid:** `aaa` · [HTML page](https://eulogikon.org/authors/eumelus-of-corinth-aaa)
 
 Eumelus of Corinth, archaic Greek poet of the 8th-7th century BCE. Surviving fragments of epic poetry. Free to read and download from the Greek library archive.
 

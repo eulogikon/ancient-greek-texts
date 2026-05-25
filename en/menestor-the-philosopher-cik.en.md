@@ -2,7 +2,7 @@
 name: Menestor the Philosopher
 name_greek: Μενήστωρ ὁ φιλόσοφος
 eul_aid: cik
-canonical: "https://eulogikon.org/en/menestor-the-philosopher"
+canonical: "https://eulogikon.org/authors/menestor-the-philosopher-cik"
 period: Classical
 dialect: "Attic (phi, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μενήστωρ ὁ φιλόσοφος*
 
-**eul_aid:** `cik` · [HTML page](https://eulogikon.org/en/menestor-the-philosopher)
+**eul_aid:** `cik` · [HTML page](https://eulogikon.org/authors/menestor-the-philosopher-cik)
 
 Menestor, a Greek philosopher of the 4th to 3rd centuries BCE. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

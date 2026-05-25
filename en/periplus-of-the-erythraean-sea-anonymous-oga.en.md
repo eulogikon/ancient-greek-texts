@@ -2,7 +2,7 @@
 name: Periplus of the Erythraean Sea Anonymous
 name_greek: Περίπλους τῆς Ἐρυθρᾶς Θαλάσσης
 eul_aid: oga
-canonical: "https://eulogikon.org/en/periplus-of-the-erythraean-sea-anonymous"
+canonical: "https://eulogikon.org/authors/periplus-erythraean-anon-oga"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περίπλους τῆς Ἐρυθρᾶς Θαλάσσης*
 
-**eul_aid:** `oga` · [HTML page](https://eulogikon.org/en/periplus-of-the-erythraean-sea-anonymous)
+**eul_aid:** `oga` · [HTML page](https://eulogikon.org/authors/periplus-erythraean-anon-oga)
 
 Anonymous 1st century CE Roman geography text detailing trade routes of the Red Sea and Indian Ocean. Free to read and download from the Greek library archive.
 

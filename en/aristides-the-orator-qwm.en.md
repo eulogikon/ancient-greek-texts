@@ -2,7 +2,7 @@
 name: Aristides the Orator
 name_greek: Ἀριστείδης ὁ ῥήτωρ
 eul_aid: qwm
-canonical: "https://eulogikon.org/en/aristides-the-orator"
+canonical: "https://eulogikon.org/authors/aristides-the-orator-qwm"
 period: Roman
 dialect: Atticizing
 works_count: 57
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστείδης ὁ ῥήτωρ*
 
-**eul_aid:** `qwm` · [HTML page](https://eulogikon.org/en/aristides-the-orator)
+**eul_aid:** `qwm` · [HTML page](https://eulogikon.org/authors/aristides-the-orator-qwm)
 
 Aelius Aristides, a leading Greek orator of the Roman period. Works include orations and prose hymns. Free to read and download from the Greek library archive.
 

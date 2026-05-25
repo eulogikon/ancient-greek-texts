@@ -2,7 +2,7 @@
 name: Clytus the Historian
 name_greek: Κλύτος ὁ ἱστορικός
 eul_aid: gnq
-canonical: "https://eulogikon.org/en/clytus-the-historian"
+canonical: "https://eulogikon.org/authors/clytus-the-historian-gnq"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλύτος ὁ ἱστορικός*
 
-**eul_aid:** `gnq` · [HTML page](https://eulogikon.org/en/clytus-the-historian)
+**eul_aid:** `gnq` · [HTML page](https://eulogikon.org/authors/clytus-the-historian-gnq)
 
 Clytus the Historian, a 4th century BCE Greek historian. Historical works preserved in fragments. Free to read and download from the Greek library archive.
 

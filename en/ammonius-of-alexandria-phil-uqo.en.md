@@ -2,7 +2,7 @@
 name: Ammonius of Alexandria Phil
 name_greek: Ἀμμώνιος ὁ Ἀλεξανδρεύς
 eul_aid: uqo
-canonical: "https://eulogikon.org/en/ammonius-of-alexandria-phil"
+canonical: "https://eulogikon.org/authors/ammonius-of-alexandria-phil-uqo"
 period: Late Antique
 dialect: Atticizing
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀμμώνιος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `uqo` · [HTML page](https://eulogikon.org/en/ammonius-of-alexandria-phil)
+**eul_aid:** `uqo` · [HTML page](https://eulogikon.org/authors/ammonius-of-alexandria-phil-uqo)
 
 Ammonius of Alexandria was a Neoplatonic philosopher. Five surviving philosophical treatises. Free to read and download from the Greek library archive.
 

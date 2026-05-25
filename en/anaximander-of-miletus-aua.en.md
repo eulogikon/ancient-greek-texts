@@ -2,7 +2,7 @@
 name: Anaximander of Miletus
 name_greek: Ἀναξίμανδρος ὁ Μιλήσιος
 eul_aid: aua
-canonical: "https://eulogikon.org/en/anaximander-of-miletus"
+canonical: "https://eulogikon.org/authors/anaximander-of-miletus-aua"
 period: Archaic
 dialect: Ionic (frg)
 affiliation: Presocratic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξίμανδρος ὁ Μιλήσιος*
 
-**eul_aid:** `aua` · [HTML page](https://eulogikon.org/en/anaximander-of-miletus)
+**eul_aid:** `aua` · [HTML page](https://eulogikon.org/authors/anaximander-of-miletus-aua)
 
 Anaximander, a pioneering Milesian philosopher of the sixth century BCE. His surviving philosophical works. Free to download from the Greek library archive.
 

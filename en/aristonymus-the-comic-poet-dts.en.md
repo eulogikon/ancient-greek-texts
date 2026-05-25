@@ -2,7 +2,7 @@
 name: Aristonymus the Comic Poet
 name_greek: Ἀριστώνυμος ὁ Κωμικός
 eul_aid: dts
-canonical: "https://eulogikon.org/en/aristonymus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/aristonymus-the-comic-poet-dts"
 period: Classical
 dialect: Attic Comedy
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀριστώνυμος ὁ Κωμικός*
 
-**eul_aid:** `dts` · [HTML page](https://eulogikon.org/en/aristonymus-the-comic-poet)
+**eul_aid:** `dts` · [HTML page](https://eulogikon.org/authors/aristonymus-the-comic-poet-dts)
 
 Aristonymus was an Athenian comic poet of Old Comedy. Surviving fragments from his lost plays. Free to read and download from the Greek library archive.
 

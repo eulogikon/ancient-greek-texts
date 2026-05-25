@@ -2,7 +2,7 @@
 name: Origen of Alexandria
 name_greek: Ὠριγένης ὁ Ἀλεξανδρεύς
 eul_aid: uhs
-canonical: "https://eulogikon.org/en/origen-of-alexandria"
+canonical: "https://eulogikon.org/authors/origen-of-alexandria-uhs"
 period: Late Antique
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὠριγένης ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `uhs` · [HTML page](https://eulogikon.org/en/origen-of-alexandria)
+**eul_aid:** `uhs` · [HTML page](https://eulogikon.org/authors/origen-of-alexandria-uhs)
 
 Origen of Alexandria, major Christian theologian of late antiquity. Works include theological texts. Free to read and download from the Greek library archive.
 

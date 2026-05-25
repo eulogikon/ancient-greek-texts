@@ -2,7 +2,7 @@
 name: Teucer of Cyzicus
 name_greek: Τεῦκρος ὁ Κυζικηνός
 eul_aid: myo
-canonical: "https://eulogikon.org/en/teucer-of-cyzicus"
+canonical: "https://eulogikon.org/authors/teucer-of-cyzicus-myo"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τεῦκρος ὁ Κυζικηνός*
 
-**eul_aid:** `myo` · [HTML page](https://eulogikon.org/en/teucer-of-cyzicus)
+**eul_aid:** `myo` · [HTML page](https://eulogikon.org/authors/teucer-of-cyzicus-myo)
 
 Teucer of Cyzicus was a Hellenistic historian of the 1st century BCE. His historical fragments survive. Free to download from the Greek library archive.
 

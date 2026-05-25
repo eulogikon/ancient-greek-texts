@@ -2,7 +2,7 @@
 name: Archinus the Historian
 name_greek: Ἀρχῖνος ὁ Ἱστορικός
 eul_aid: cnu
-canonical: "https://eulogikon.org/en/archinus-the-historian"
+canonical: "https://eulogikon.org/authors/archinus-the-historian-cnu"
 period: Classical
 dialect: Koine (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρχῖνος ὁ Ἱστορικός*
 
-**eul_aid:** `cnu` · [HTML page](https://eulogikon.org/en/archinus-the-historian)
+**eul_aid:** `cnu` · [HTML page](https://eulogikon.org/authors/archinus-the-historian-cnu)
 
 Archinus the Historian, a Greek historian of the 4th–2nd century BCE. Surviving historical fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Anonymous Commentary on Aphthonius
 name_greek: Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον
 eul_aid: vng
-canonical: "https://eulogikon.org/en/aphthonius-commentary-anonymous"
+canonical: "https://eulogikon.org/authors/aphthonius-commentary-anon-vng"
 period: Late Antique
 dialect: Technical Koine
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον*
 
-**eul_aid:** `vng` · [HTML page](https://eulogikon.org/en/aphthonius-commentary-anonymous)
+**eul_aid:** `vng` · [HTML page](https://eulogikon.org/authors/aphthonius-commentary-anon-vng)
 
 Anonymous late antique teacher and scholar of the 5th or 6th century CE. Works on oratory and rhetoric. Free to download from the Greek library archive.
 

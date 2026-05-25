@@ -2,7 +2,7 @@
 name: Aretaeus the Cappadocian
 name_greek: Ἀρεταῖος ὁ Καππάδοξ
 eul_aid: qao
-canonical: "https://eulogikon.org/en/aretaeus-the-cappadocian"
+canonical: "https://eulogikon.org/authors/aretaeus-the-cappadocian-qao"
 period: Roman
 dialect: Ionic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀρεταῖος ὁ Καππάδοξ*
 
-**eul_aid:** `qao` · [HTML page](https://eulogikon.org/en/aretaeus-the-cappadocian)
+**eul_aid:** `qao` · [HTML page](https://eulogikon.org/authors/aretaeus-the-cappadocian-qao)
 
 Aretaeus, a Greek physician from Cappadocia. Surviving treatises on acute and chronic diseases. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Monimus of Syracuse
 name_greek: Μόνιμος ὁ Συρακόσιος
 eul_aid: fpu
-canonical: "https://eulogikon.org/en/monimus-of-syracuse"
+canonical: "https://eulogikon.org/authors/monimus-of-syracuse-fpu"
 period: Classical
 dialect: "Attic (phi, frg)"
 affiliation: Cynic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μόνιμος ὁ Συρακόσιος*
 
-**eul_aid:** `fpu` · [HTML page](https://eulogikon.org/en/monimus-of-syracuse)
+**eul_aid:** `fpu` · [HTML page](https://eulogikon.org/authors/monimus-of-syracuse-fpu)
 
 Monimus of Syracuse, a 4th century BCE Cynic philosopher. Surviving fragments of his treatise. Free to read and download from the Greek library archive.
 

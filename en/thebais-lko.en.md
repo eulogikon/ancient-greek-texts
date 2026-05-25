@@ -2,7 +2,7 @@
 name: Thebaïs
 name_greek: ἡ Θηβαΐς
 eul_aid: lko
-canonical: "https://eulogikon.org/en/thebais"
+canonical: "https://eulogikon.org/authors/thebaÿs-lko"
 period: Hellenistic
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *ἡ Θηβαΐς*
 
-**eul_aid:** `lko` · [HTML page](https://eulogikon.org/en/thebais)
+**eul_aid:** `lko` · [HTML page](https://eulogikon.org/authors/thebaÿs-lko)
 
 Anonymous author of the Hellenistic epic Thebaïs from the 3rd century BCE. A continuation of the Homeric tradition. Free to download from the Greek archive.
 

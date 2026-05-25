@@ -2,7 +2,7 @@
 name: Sententiae Sexti
 name_greek: Σεντεντιῶν Σέκστου
 eul_aid: pxc
-canonical: "https://eulogikon.org/en/sententiae-sexti"
+canonical: "https://eulogikon.org/authors/sententiae-sexti-pxc"
 period: Roman
 dialect: Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σεντεντιῶν Σέκστου*
 
-**eul_aid:** `pxc` · [HTML page](https://eulogikon.org/en/sententiae-sexti)
+**eul_aid:** `pxc` · [HTML page](https://eulogikon.org/authors/sententiae-sexti-pxc)
 
 Sextus the Pythagorean, pseudonymous author of 2nd century CE ethical wisdom. Moral sayings. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Heraclides Lembus the Historian
 name_greek: Ἡρακλείδης ὁ Λέμβος
 eul_aid: lbs
-canonical: "https://eulogikon.org/en/heraclides-lembus"
+canonical: "https://eulogikon.org/authors/heraclides-lembus-lbs"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡρακλείδης ὁ Λέμβος*
 
-**eul_aid:** `lbs` · [HTML page](https://eulogikon.org/en/heraclides-lembus)
+**eul_aid:** `lbs` · [HTML page](https://eulogikon.org/authors/heraclides-lembus-lbs)
 
 Heraclides Lembus was a 2nd century BCE historian. Surviving works include historical excerpts. Free to read and download from the Greek library archive.
 

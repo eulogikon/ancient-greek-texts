@@ -2,7 +2,7 @@
 name: Cosmas Indicopleustes
 name_greek: Κοσμᾶς Ἰνδικοπλεύστης
 eul_aid: vbi
-canonical: "https://eulogikon.org/en/cosmas-indicopleustes"
+canonical: "https://eulogikon.org/authors/cosmas-indicopleustes-vbi"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κοσμᾶς Ἰνδικοπλεύστης*
 
-**eul_aid:** `vbi` · [HTML page](https://eulogikon.org/en/cosmas-indicopleustes)
+**eul_aid:** `vbi` · [HTML page](https://eulogikon.org/authors/cosmas-indicopleustes-vbi)
 
 Cosmas Indicopleustes, 6th century merchant and monk, author of the Christian Topography on geography. Free to read and download from the Greek library archive.
 

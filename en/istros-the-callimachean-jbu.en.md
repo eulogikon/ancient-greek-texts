@@ -2,7 +2,7 @@
 name: Istros the Callimachean
 name_greek: Ἴστρος ὁ Καλλιμάχειος
 eul_aid: jbu
-canonical: "https://eulogikon.org/en/istros-the-callimachean"
+canonical: "https://eulogikon.org/authors/istros-the-callimachean-jbu"
 period: Hellenistic
 dialect: Koine (frg)
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἴστρος ὁ Καλλιμάχειος*
 
-**eul_aid:** `jbu` · [HTML page](https://eulogikon.org/en/istros-the-callimachean)
+**eul_aid:** `jbu` · [HTML page](https://eulogikon.org/authors/istros-the-callimachean-jbu)
 
 Istros the Callimachean, a 3rd century BCE Hellenistic historian. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

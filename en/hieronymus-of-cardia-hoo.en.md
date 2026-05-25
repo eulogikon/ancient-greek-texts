@@ -2,7 +2,7 @@
 name: Hieronymus of Cardia
 name_greek: Ἱερώνυμος ὁ Καρδιανός
 eul_aid: hoo
-canonical: "https://eulogikon.org/en/hieronymus-of-cardia"
+canonical: "https://eulogikon.org/authors/hieronymus-of-cardia-hoo"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱερώνυμος ὁ Καρδιανός*
 
-**eul_aid:** `hoo` · [HTML page](https://eulogikon.org/en/hieronymus-of-cardia)
+**eul_aid:** `hoo` · [HTML page](https://eulogikon.org/authors/hieronymus-of-cardia-hoo)
 
 Hieronymus of Cardia was a Hellenistic historian of the 4th-3rd centuries BCE. His historical fragments. Free to download from the Greek library archive.
 

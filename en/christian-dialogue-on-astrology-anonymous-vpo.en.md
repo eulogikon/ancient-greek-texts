@@ -2,7 +2,7 @@
 name: Christian Dialogue on Astrology  Anonymous
 name_greek: "Ἀνώνυμος Χριστιανός, Ἕρμιππος Περὶ ἀστρολογίας διάλογος"
 eul_aid: vpo
-canonical: "https://eulogikon.org/en/christian-dialogue-on-astrology-anonymous"
+canonical: "https://eulogikon.org/authors/christian-on-astrology-anon-vpo"
 period: Late Antique
 dialect: Christian Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνώνυμος Χριστιανός, Ἕρμιππος Περὶ ἀστρολογίας διάλογος*
 
-**eul_aid:** `vpo` · [HTML page](https://eulogikon.org/en/christian-dialogue-on-astrology-anonymous)
+**eul_aid:** `vpo` · [HTML page](https://eulogikon.org/authors/christian-on-astrology-anon-vpo)
 
 Anonymous Christian author of Late Antiquity. Treatise Hermippus debates astrological science. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Damastes of Sigeum
 name_greek: Δαμάστης ὁ Σιγειεύς
 eul_aid: dji
-canonical: "https://eulogikon.org/en/damastes-of-sigeum"
+canonical: "https://eulogikon.org/authors/damastes-of-sigeum-dji"
 period: Classical
 dialect: Ionic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαμάστης ὁ Σιγειεύς*
 
-**eul_aid:** `dji` · [HTML page](https://eulogikon.org/en/damastes-of-sigeum)
+**eul_aid:** `dji` · [HTML page](https://eulogikon.org/authors/damastes-of-sigeum-dji)
 
 Damastes of Sigeum was a 5th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive.
 

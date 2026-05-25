@@ -2,7 +2,7 @@
 name: Attalus of Rhodes
 name_greek: Ἄτταλος ὁ Ῥόδιος
 eul_aid: meo
-canonical: "https://eulogikon.org/en/attalus-of-rhodes"
+canonical: "https://eulogikon.org/authors/attalus-of-rhodes-meo"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄτταλος ὁ Ῥόδιος*
 
-**eul_aid:** `meo` · [HTML page](https://eulogikon.org/en/attalus-of-rhodes)
+**eul_aid:** `meo` · [HTML page](https://eulogikon.org/authors/attalus-of-rhodes-meo)
 
 Attalus of Rhodes, a Hellenistic scientific author of the 2nd century BCE. Features his astronomical treatise. Free to download from the Greek library archive.
 

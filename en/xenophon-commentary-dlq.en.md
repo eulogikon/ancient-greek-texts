@@ -2,7 +2,7 @@
 name: Xenophon Commentary
 name_greek: Ξενοφῶντος ὑπόμνησις
 eul_aid: dlq
-canonical: "https://eulogikon.org/en/xenophon-commentary"
+canonical: "https://eulogikon.org/authors/xenophon-commentary-dlq"
 period: Classical
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοφῶντος ὑπόμνησις*
 
-**eul_aid:** `dlq` · [HTML page](https://eulogikon.org/en/xenophon-commentary)
+**eul_aid:** `dlq` · [HTML page](https://eulogikon.org/authors/xenophon-commentary-dlq)
 
 Xenophon Commentary is a grammatical work from the 2nd to 6th centuries CE. It analyzes classical Greek texts. Free to read and download from the Greek library.
 

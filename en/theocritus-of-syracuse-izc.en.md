@@ -2,7 +2,7 @@
 name: Theocritus of Syracuse
 name_greek: Θεόκριτος ὁ Συρακούσιος
 eul_aid: izc
-canonical: "https://eulogikon.org/en/theocritus-of-syracuse"
+canonical: "https://eulogikon.org/authors/theocritus-of-syracuse-izc"
 period: Hellenistic
 dialect: Doric Bucolic
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεόκριτος ὁ Συρακούσιος*
 
-**eul_aid:** `izc` · [HTML page](https://eulogikon.org/en/theocritus-of-syracuse)
+**eul_aid:** `izc` · [HTML page](https://eulogikon.org/authors/theocritus-of-syracuse-izc)
 
 Theocritus of Syracuse, Hellenistic poet writing in Doric Greek. Works include bucolic idylls. Free to read and download from the Greek library archive.
 

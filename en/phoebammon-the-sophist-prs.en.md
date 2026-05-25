@@ -2,7 +2,7 @@
 name: Phoebammon the Sophist
 name_greek: Φοίβαμμον ὁ Σοφιστής
 eul_aid: prs
-canonical: "https://eulogikon.org/en/phoebammon-the-sophist"
+canonical: "https://eulogikon.org/authors/phoebammon-the-sophist-prs"
 period: Roman
 dialect: Atticizing
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φοίβαμμον ὁ Σοφιστής*
 
-**eul_aid:** `prs` · [HTML page](https://eulogikon.org/en/phoebammon-the-sophist)
+**eul_aid:** `prs` · [HTML page](https://eulogikon.org/authors/phoebammon-the-sophist-prs)
 
 Phoebammon was a Greek sophist and teacher of rhetoric. His surviving oration is Atticizing oratory. Free to read and download from the Greek library archive.
 

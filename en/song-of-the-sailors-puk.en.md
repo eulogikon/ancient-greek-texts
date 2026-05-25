@@ -2,7 +2,7 @@
 name: Song of the Sailors
 name_greek: Ναυτῶν Καντιονκύλη
 eul_aid: puk
-canonical: "https://eulogikon.org/en/song-of-the-sailors"
+canonical: "https://eulogikon.org/authors/song-of-the-sailors-puk"
 period: Roman
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ναυτῶν Καντιονκύλη*
 
-**eul_aid:** `puk` · [HTML page](https://eulogikon.org/en/song-of-the-sailors)
+**eul_aid:** `puk` · [HTML page](https://eulogikon.org/authors/song-of-the-sailors-puk)
 
 Song of the Sailors, Roman era Koine poet of the 2nd-3rd century CE. Two surviving nautical poems. Free to read and download from the Greek library archive.
 

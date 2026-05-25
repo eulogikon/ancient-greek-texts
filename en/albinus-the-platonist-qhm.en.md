@@ -2,7 +2,7 @@
 name: Albinus the Platonist
 name_greek: Ἀλβῖνος ὁ Πλατωνικός
 eul_aid: qhm
-canonical: "https://eulogikon.org/en/albinus-the-platonist"
+canonical: "https://eulogikon.org/authors/albinus-the-platonist-qhm"
 period: Roman
 dialect: Attic Philosophical
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλβῖνος ὁ Πλατωνικός*
 
-**eul_aid:** `qhm` · [HTML page](https://eulogikon.org/en/albinus-the-platonist)
+**eul_aid:** `qhm` · [HTML page](https://eulogikon.org/authors/albinus-the-platonist-qhm)
 
 Albinus was a Roman Platonist philosopher in Smyrna. Two surviving philosophical treatises. Free to read and download from the Greek library archive.
 

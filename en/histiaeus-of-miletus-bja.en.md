@@ -2,7 +2,7 @@
 name: Histiaeus of Miletus
 name_greek: Ἱστιαῖος ὁ Μιλήσιος
 eul_aid: bja
-canonical: "https://eulogikon.org/en/histiaeus-of-miletus"
+canonical: "https://eulogikon.org/authors/histiaeus-of-miletus-bja"
 period: Archaic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱστιαῖος ὁ Μιλήσιος*
 
-**eul_aid:** `bja` · [HTML page](https://eulogikon.org/en/histiaeus-of-miletus)
+**eul_aid:** `bja` · [HTML page](https://eulogikon.org/authors/histiaeus-of-miletus-bja)
 
 Histiaeus of Miletus, 6th century BCE Ionian tyrant. Surviving fragments document his political life. Free to read and download from the Greek library archive.
 

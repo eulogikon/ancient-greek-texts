@@ -2,7 +2,7 @@
 name: Phillis of Delos
 name_greek: Φιλλὶς ἡ Δηλία (ἱστορικός)
 eul_aid: kiw
-canonical: "https://eulogikon.org/en/phillis-of-delos"
+canonical: "https://eulogikon.org/authors/phillis-of-delos-kiw"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλλὶς ἡ Δηλία (ἱστορικός)*
 
-**eul_aid:** `kiw` · [HTML page](https://eulogikon.org/en/phillis-of-delos)
+**eul_aid:** `kiw` · [HTML page](https://eulogikon.org/authors/phillis-of-delos-kiw)
 
 Phillis of Delos was a Hellenistic historian. Her surviving historical works are preserved. Free to read and download from the Greek library archive.
 

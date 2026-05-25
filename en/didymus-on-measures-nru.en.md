@@ -2,7 +2,7 @@
 name: Didymus the Writer on Measures
 name_greek: Δίδυμος ὁ περὶ μέτρων συγγραφεύς
 eul_aid: nru
-canonical: "https://eulogikon.org/en/didymus-on-measures"
+canonical: "https://eulogikon.org/authors/didymus-the-writer-nru"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δίδυμος ὁ περὶ μέτρων συγγραφεύς*
 
-**eul_aid:** `nru` · [HTML page](https://eulogikon.org/en/didymus-on-measures)
+**eul_aid:** `nru` · [HTML page](https://eulogikon.org/authors/didymus-the-writer-nru)
 
 Didymus the Writer was a Greek scholar of the Roman Imperial period. His treatise on measures is extant. Free to download from the Greek library archive.
 

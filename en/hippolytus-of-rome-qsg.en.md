@@ -2,7 +2,7 @@
 name: Hippolytus of Rome
 name_greek: Ἱππόλυτος ὁ Ῥωμαῖος
 eul_aid: qsg
-canonical: "https://eulogikon.org/en/hippolytus-of-rome"
+canonical: "https://eulogikon.org/authors/hippolytus-of-rome-qsg"
 period: Roman
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππόλυτος ὁ Ῥωμαῖος*
 
-**eul_aid:** `qsg` · [HTML page](https://eulogikon.org/en/hippolytus-of-rome)
+**eul_aid:** `qsg` · [HTML page](https://eulogikon.org/authors/hippolytus-of-rome-qsg)
 
 Hippolytus of Rome, third century Christian theologian. Theological treatises and exegetical writings. Free to read and download from the Greek library archive.
 

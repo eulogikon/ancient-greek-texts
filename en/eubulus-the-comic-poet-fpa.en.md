@@ -2,7 +2,7 @@
 name: Eubulus the Comic Poet
 name_greek: Εὔβουλος ὁ κωμικός
 eul_aid: fpa
-canonical: "https://eulogikon.org/en/eubulus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/eubulus-the-comic-poet-fpa"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὔβουλος ὁ κωμικός*
 
-**eul_aid:** `fpa` · [HTML page](https://eulogikon.org/en/eubulus-the-comic-poet)
+**eul_aid:** `fpa` · [HTML page](https://eulogikon.org/authors/eubulus-the-comic-poet-fpa)
 
 Eubulus was an Athenian comic poet of Middle Comedy in the 4th century BCE. Surviving fragments. Free to read and download from the Greek library archive.
 

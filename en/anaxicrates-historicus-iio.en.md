@@ -2,7 +2,7 @@
 name: Anaxicrates Historicus
 name_greek: Ἀναξικράτης ὁ Ἱστορικός
 eul_aid: iio
-canonical: "https://eulogikon.org/en/anaxicrates-historicus"
+canonical: "https://eulogikon.org/authors/anaxicrates-historicus-iio"
 period: Hellenistic
 dialect: Attic (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀναξικράτης ὁ Ἱστορικός*
 
-**eul_aid:** `iio` · [HTML page](https://eulogikon.org/en/anaxicrates-historicus)
+**eul_aid:** `iio` · [HTML page](https://eulogikon.org/authors/anaxicrates-historicus-iio)
 
 Anaxicrates Historicus, a Hellenistic historian of the 4th–3rd century BCE. Historical fragments. Free to read and download from the Greek library archive.
 

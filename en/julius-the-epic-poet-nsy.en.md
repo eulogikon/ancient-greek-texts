@@ -2,7 +2,7 @@
 name: Julius the Epic Poet
 name_greek: Ἰούλιος ὁ ἐποποιός
 eul_aid: nsy
-canonical: "https://eulogikon.org/en/julius-the-epic-poet"
+canonical: "https://eulogikon.org/authors/julius-the-epic-poet-nsy"
 period: Roman
 dialect: Epic (Homeric)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰούλιος ὁ ἐποποιός*
 
-**eul_aid:** `nsy` · [HTML page](https://eulogikon.org/en/julius-the-epic-poet)
+**eul_aid:** `nsy` · [HTML page](https://eulogikon.org/authors/julius-the-epic-poet-nsy)
 
 Julius the Epic Poet, Roman era poet writing in Homeric Greek. Surviving epic fragments from the Imperial period. Free to download from the Greek archive.
 

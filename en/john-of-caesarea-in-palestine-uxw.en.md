@@ -2,7 +2,7 @@
 name: John of Caesarea in Palestine
 name_greek: Ἰωάννης ὁ Καισαρείας τῆς Παλαιστίνης
 eul_aid: uxw
-canonical: "https://eulogikon.org/en/john-of-caesarea-in-palestine"
+canonical: "https://eulogikon.org/authors/john-of-caesarea-in-palestine-uxw"
 period: Late Antique
 dialect: Christian Koine
 works_count: 8
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰωάννης ὁ Καισαρείας τῆς Παλαιστίνης*
 
-**eul_aid:** `uxw` · [HTML page](https://eulogikon.org/en/john-of-caesarea-in-palestine)
+**eul_aid:** `uxw` · [HTML page](https://eulogikon.org/authors/john-of-caesarea-in-palestine-uxw)
 
 John of Caesarea, 6th century CE grammarian. Eight surviving works including his grammatical treatise. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Antoninus the Mythographer
 name_greek: Ἀντωνῖνος Λιβεράλις
 eul_aid: rey
-canonical: "https://eulogikon.org/en/antoninus-the-mythographer"
+canonical: "https://eulogikon.org/authors/antoninus-the-mythographer-rey"
 period: Roman
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντωνῖνος Λιβεράλις*
 
-**eul_aid:** `rey` · [HTML page](https://eulogikon.org/en/antoninus-the-mythographer)
+**eul_aid:** `rey` · [HTML page](https://eulogikon.org/authors/antoninus-the-mythographer-rey)
 
 Antoninus Liberalis compiled Greek mythology. His work is the Metamorphoses, a collection of transformation myths. Free to download from the Greek archive.
 

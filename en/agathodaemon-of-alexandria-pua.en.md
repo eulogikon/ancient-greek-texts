@@ -2,7 +2,7 @@
 name: Agathodaemon of Alexandria
 name_greek: Ἀγαθοδαίμων Ἀλεξανδρεὺς
 eul_aid: pua
-canonical: "https://eulogikon.org/en/agathodaemon-of-alexandria"
+canonical: "https://eulogikon.org/authors/agathodaemon-of-alexandria-pua"
 period: Roman
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀγαθοδαίμων Ἀλεξανδρεὺς*
 
-**eul_aid:** `pua` · [HTML page](https://eulogikon.org/en/agathodaemon-of-alexandria)
+**eul_aid:** `pua` · [HTML page](https://eulogikon.org/authors/agathodaemon-of-alexandria-pua)
 
 Agathodaemon of Alexandria, a 4th century CE scientific writer. Works include his geography treatise. Free to read and download from the Greek library archive.
 

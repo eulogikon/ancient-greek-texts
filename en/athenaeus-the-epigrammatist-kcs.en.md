@@ -2,7 +2,7 @@
 name: Athenaeus the Epigrammatist
 name_greek: Ἀθήναιος ὁ Ἐπιγραμματοποιός
 eul_aid: kcs
-canonical: "https://eulogikon.org/en/athenaeus-the-epigrammatist"
+canonical: "https://eulogikon.org/authors/athenaeus-the-epigrammatist-kcs"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀθήναιος ὁ Ἐπιγραμματοποιός*
 
-**eul_aid:** `kcs` · [HTML page](https://eulogikon.org/en/athenaeus-the-epigrammatist)
+**eul_aid:** `kcs` · [HTML page](https://eulogikon.org/authors/athenaeus-the-epigrammatist-kcs)
 
 Athenaeus the Epigrammatist, Hellenistic poet of the 3rd-2nd centuries BCE. Two surviving epigrams. Free to read and download from the Greek library archive.
 

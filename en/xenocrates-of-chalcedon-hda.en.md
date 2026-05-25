@@ -2,7 +2,7 @@
 name: Xenocrates of Chalcedon
 name_greek: Ξενοκράτης ὁ Χαλκηδόνιος
 eul_aid: hda
-canonical: "https://eulogikon.org/en/xenocrates-of-chalcedon"
+canonical: "https://eulogikon.org/authors/xenocrates-of-chalcedon-hda"
 period: Classical
 dialect: Attic Philosophical
 affiliation: Platonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ξενοκράτης ὁ Χαλκηδόνιος*
 
-**eul_aid:** `hda` · [HTML page](https://eulogikon.org/en/xenocrates-of-chalcedon)
+**eul_aid:** `hda` · [HTML page](https://eulogikon.org/authors/xenocrates-of-chalcedon-hda)
 
 Xenocrates of Chalcedon, 4th century BCE Platonist philosopher. Surviving philosophical treatises. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Thearidas the Early Greek Philosopher
 name_greek: Θεαρίδας ὁ φιλόσοφος
 eul_aid: aka
-canonical: "https://eulogikon.org/en/thearidas-the-philosopher"
+canonical: "https://eulogikon.org/authors/thearidas-early-philosopher-aka"
 period: Archaic
 dialect: Ionic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θεαρίδας ὁ φιλόσοφος*
 
-**eul_aid:** `aka` · [HTML page](https://eulogikon.org/en/thearidas-the-philosopher)
+**eul_aid:** `aka` · [HTML page](https://eulogikon.org/authors/thearidas-early-philosopher-aka)
 
 Thearidas, an early Greek philosopher of the 7th century BCE. Philosophical treatise in Ionic dialect. Free to read and download from the Greek library archive.
 

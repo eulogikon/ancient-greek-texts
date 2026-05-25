@@ -2,7 +2,7 @@
 name: Hephaestion of Thebes
 name_greek: Ἡφαιστίων ὁ Θηβαῖος
 eul_aid: tco
-canonical: "https://eulogikon.org/en/hephaestion-of-thebes"
+canonical: "https://eulogikon.org/authors/hephaestion-of-thebes-tco"
 period: Late Antique
 dialect: Technical Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἡφαιστίων ὁ Θηβαῖος*
 
-**eul_aid:** `tco` · [HTML page](https://eulogikon.org/en/hephaestion-of-thebes)
+**eul_aid:** `tco` · [HTML page](https://eulogikon.org/authors/hephaestion-of-thebes-tco)
 
 Hephaestion of Thebes was a late antique author of technical treatises. Five works are preserved. Free to read and download from the Greek library archive.
 

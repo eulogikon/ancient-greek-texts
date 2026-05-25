@@ -2,7 +2,7 @@
 name: Hippias of Elis
 name_greek: Ἱππίας ὁ Ἠλεῖος
 eul_aid: dqg
-canonical: "https://eulogikon.org/en/hippias-of-elis"
+canonical: "https://eulogikon.org/authors/hippias-of-elis-dqg"
 period: Classical
 dialect: Attic
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱππίας ὁ Ἠλεῖος*
 
-**eul_aid:** `dqg` · [HTML page](https://eulogikon.org/en/hippias-of-elis)
+**eul_aid:** `dqg` · [HTML page](https://eulogikon.org/authors/hippias-of-elis-dqg)
 
 Hippias of Elis was a classical Greek sophist and contemporary of Socrates. Read his surviving works. Free to read and download from the Greek library archive.
 

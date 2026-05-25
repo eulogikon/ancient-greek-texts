@@ -2,7 +2,7 @@
 name: Sotades of Maroneia Grammarian
 name_greek: Σωτάδης ὁ Μαρωνίτης ὁ Γραμματικός
 eul_aid: its
-canonical: "https://eulogikon.org/en/sotades-of-maroneia-grammarian"
+canonical: "https://eulogikon.org/authors/sotades-of-maroneia-grammarian-its"
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σωτάδης ὁ Μαρωνίτης ὁ Γραμματικός*
 
-**eul_aid:** `its` · [HTML page](https://eulogikon.org/en/sotades-of-maroneia-grammarian)
+**eul_aid:** `its` · [HTML page](https://eulogikon.org/authors/sotades-of-maroneia-grammarian-its)
 
 Sotades of Maroneia, a 3rd century BCE poet. Surviving poetic fragments in Ionic iambic verse. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Theseus the Historian
 name_greek: Θησεύς ὁ ἱστορικός
 eul_aid: jmy
-canonical: "https://eulogikon.org/en/theseus-the-historian"
+canonical: "https://eulogikon.org/authors/theseus-the-historian-jmy"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θησεύς ὁ ἱστορικός*
 
-**eul_aid:** `jmy` · [HTML page](https://eulogikon.org/en/theseus-the-historian)
+**eul_aid:** `jmy` · [HTML page](https://eulogikon.org/authors/theseus-the-historian-jmy)
 
 Theseus the Historian was a Hellenistic writer of Koine Greek prose. His surviving historical works. Free to read and download from the Greek library archive.
 

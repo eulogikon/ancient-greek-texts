@@ -2,7 +2,7 @@
 name: Aeschylus Scholia
 name_greek: Αἰσχύλου Σχόλια
 eul_aid: tro
-canonical: "https://eulogikon.org/en/aeschylus-scholia"
+canonical: "https://eulogikon.org/authors/aeschylus-scholia-tro"
 period: Late Antique
 dialect: Byzantine Greek
 works_count: 15
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Αἰσχύλου Σχόλια*
 
-**eul_aid:** `tro` · [HTML page](https://eulogikon.org/en/aeschylus-scholia)
+**eul_aid:** `tro` · [HTML page](https://eulogikon.org/authors/aeschylus-scholia-tro)
 
 Aeschylus Scholia are Byzantine Greek grammatical commentaries. Fifteen surviving works of ancient notes. Free to read and download from the Greek library.
 

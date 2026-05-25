@@ -2,7 +2,7 @@
 name: Diagoras of Melos
 name_greek: Διαγόρας ὁ Μήλιος
 eul_aid: dse
-canonical: "https://eulogikon.org/en/diagoras-of-melos"
+canonical: "https://eulogikon.org/authors/diagoras-of-melos-dse"
 period: Classical
 dialect: Doric
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διαγόρας ὁ Μήλιος*
 
-**eul_aid:** `dse` · [HTML page](https://eulogikon.org/en/diagoras-of-melos)
+**eul_aid:** `dse` · [HTML page](https://eulogikon.org/authors/diagoras-of-melos-dse)
 
 Diagoras of Melos was a 5th century BCE poet writing in Doric dialect. Surviving poetic works in verse. Free to read and download from the Greek archive.
 

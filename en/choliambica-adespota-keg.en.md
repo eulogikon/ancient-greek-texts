@@ -2,7 +2,7 @@
 name: Choliambica Adespota
 name_greek: Χολιαμβικὰ Ἀδέσποτα
 eul_aid: keg
-canonical: "https://eulogikon.org/en/choliambica-adespota"
+canonical: "https://eulogikon.org/authors/choliambica-adespota-keg"
 period: Hellenistic
 dialect: Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χολιαμβικὰ Ἀδέσποτα*
 
-**eul_aid:** `keg` · [HTML page](https://eulogikon.org/en/choliambica-adespota)
+**eul_aid:** `keg` · [HTML page](https://eulogikon.org/authors/choliambica-adespota-keg)
 
 Anonymous choliambic verse from the Hellenistic to Roman period. Two surviving works of scazon poetry. Free to read and download from the Greek library archive.
 

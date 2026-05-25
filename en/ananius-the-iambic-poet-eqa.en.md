@@ -2,7 +2,7 @@
 name: Ananius the Iambic Poet
 name_greek: Ἀνανίος ὁ Ἰαμβοποιός
 eul_aid: eqa
-canonical: "https://eulogikon.org/en/ananius-the-iambic-poet"
+canonical: "https://eulogikon.org/authors/ananius-the-iambic-poet-eqa"
 period: Classical
 dialect: "Ionic (ia, frg)"
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνανίος ὁ Ἰαμβοποιός*
 
-**eul_aid:** `eqa` · [HTML page](https://eulogikon.org/en/ananius-the-iambic-poet)
+**eul_aid:** `eqa` · [HTML page](https://eulogikon.org/authors/ananius-the-iambic-poet-eqa)
 
 Ananius the Iambic Poet, a classical Greek poet in Ionic dialect. Surviving iambic verse fragments. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Hipparchus of Nicaea II
 name_greek: Ἵππαρχος ὁ Νικαεύς
 eul_aid: lwc
-canonical: "https://eulogikon.org/en/hipparchus-of-nicaea-ii"
+canonical: "https://eulogikon.org/authors/hipparchus-of-nicaea-lwc"
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππαρχος ὁ Νικαεύς*
 
-**eul_aid:** `lwc` · [HTML page](https://eulogikon.org/en/hipparchus-of-nicaea-ii)
+**eul_aid:** `lwc` · [HTML page](https://eulogikon.org/authors/hipparchus-of-nicaea-lwc)
 
 Hipparchus of Nicaea, Hellenistic astronomer of the 2nd century BCE. Scientific works and treatises. Free to read and download from the Greek library archive.
 

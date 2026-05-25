@@ -2,7 +2,7 @@
 name: Philo of Byzantium
 name_greek: Φίλων ὁ Βυζάντιος
 eul_aid: jhe
-canonical: "https://eulogikon.org/en/philo-of-byzantium"
+canonical: "https://eulogikon.org/authors/philo-of-byzantium-jhe"
 period: Hellenistic
 dialect: Technical Koine
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φίλων ὁ Βυζάντιος*
 
-**eul_aid:** `jhe` · [HTML page](https://eulogikon.org/en/philo-of-byzantium)
+**eul_aid:** `jhe` · [HTML page](https://eulogikon.org/authors/philo-of-byzantium-jhe)
 
 Philo of Byzantium, a 3rd century BCE Greek engineer. Technical treatises on mechanics and pneumatics. Free to read and download from the Greek library archive.
 

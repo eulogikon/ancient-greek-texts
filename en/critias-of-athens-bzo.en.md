@@ -2,7 +2,7 @@
 name: Critias of Athens
 name_greek: Κριτίας ὁ Ἀθηναῖος
 eul_aid: bzo
-canonical: "https://eulogikon.org/en/critias-of-athens"
+canonical: "https://eulogikon.org/authors/critias-of-athens-bzo"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κριτίας ὁ Ἀθηναῖος*
 
-**eul_aid:** `bzo` · [HTML page](https://eulogikon.org/en/critias-of-athens)
+**eul_aid:** `bzo` · [HTML page](https://eulogikon.org/authors/critias-of-athens-bzo)
 
 Critias, Athenian aristocrat and sophist of the 5th century BCE. Philosophical and poetic fragments. Free to read and download from the Greek library archive.
 

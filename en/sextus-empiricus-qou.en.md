@@ -2,7 +2,7 @@
 name: Sextus the Empiricist
 name_greek: Σέξτος ὁ Ἐμπειρικός
 eul_aid: qou
-canonical: "https://eulogikon.org/en/sextus-empiricus"
+canonical: "https://eulogikon.org/authors/sextus-the-empiricist-qou"
 period: Roman
 dialect: Koine
 affiliation: Pyrrhonian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σέξτος ὁ Ἐμπειρικός*
 
-**eul_aid:** `qou` · [HTML page](https://eulogikon.org/en/sextus-empiricus)
+**eul_aid:** `qou` · [HTML page](https://eulogikon.org/authors/sextus-the-empiricist-qou)
 
 Sextus Empiricus, a Greek physician and Pyrrhonian skeptic. His surviving treatises are available. Free to read and download from the Greek library archive.
 

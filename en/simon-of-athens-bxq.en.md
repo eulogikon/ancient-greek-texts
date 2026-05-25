@@ -2,7 +2,7 @@
 name: Simon of Athens
 name_greek: Σίμων ὁ Ἀθηναῖος
 eul_aid: bxq
-canonical: "https://eulogikon.org/en/simon-of-athens"
+canonical: "https://eulogikon.org/authors/simon-of-athens-bxq"
 period: Classical
 dialect: Attic
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σίμων ὁ Ἀθηναῖος*
 
-**eul_aid:** `bxq` · [HTML page](https://eulogikon.org/en/simon-of-athens)
+**eul_aid:** `bxq` · [HTML page](https://eulogikon.org/authors/simon-of-athens-bxq)
 
 Simon of Athens, a 5th century BCE shoemaker and Socratic associate. Two surviving philosophical texts. Free to download from the Greek library archive.
 

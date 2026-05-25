@@ -2,7 +2,7 @@
 name: Susarion of Megara
 name_greek: Σουσαρίων ὁ Μεγαρεύς
 eul_aid: atg
-canonical: "https://eulogikon.org/en/susarion-of-megara"
+canonical: "https://eulogikon.org/authors/susarion-of-megara-atg"
 period: Archaic
 dialect: Doric (frg)
 works_count: 3
@@ -13,14 +13,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σουσαρίων ὁ Μεγαρεύς*
 
-**eul_aid:** `atg` · [HTML page](https://eulogikon.org/en/susarion-of-megara)
+**eul_aid:** `atg` · [HTML page](https://eulogikon.org/authors/susarion-of-megara-atg)
 
 Susarion of Megara, early comic poet of the 6th century BCE. Surviving fragments of Doric comedy. Free to read and download from the Greek library archive.
 
 ## Works
 
-- [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md) — *Ἀπόσπασμα* · `atg-ac`
 - [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md) — *Ἀπόσπασμα* · `atg-ab`
+- [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md) — *Ἀπόσπασμα* · `atg-ac`
 - [On the Nature of Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.md) — *Ἀπόσπασμα* · `atg-aa`
 
 ## License and provenance

@@ -2,7 +2,7 @@
 name: Choerilus of Athens
 name_greek: Χοιρίλος ὁ Ἀθηναῖος
 eul_aid: epg
-canonical: "https://eulogikon.org/en/choerilus-of-athens"
+canonical: "https://eulogikon.org/authors/choerilus-of-athens-epg"
 period: Classical
 dialect: Attic Drama
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χοιρίλος ὁ Ἀθηναῖος*
 
-**eul_aid:** `epg` · [HTML page](https://eulogikon.org/en/choerilus-of-athens)
+**eul_aid:** `epg` · [HTML page](https://eulogikon.org/authors/choerilus-of-athens-epg)
 
 Choerilus of Athens, a 5th century BCE Attic dramatist. Surviving fragments of his works. Free to read and download from the Greek library archive.
 

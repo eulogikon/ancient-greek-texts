@@ -2,7 +2,7 @@
 name: Aratus of Sicyon
 name_greek: Ἄρατος ὁ Σικυώνιος
 eul_aid: jba
-canonical: "https://eulogikon.org/en/aratus-of-sicyon"
+canonical: "https://eulogikon.org/authors/aratus-of-sicyon-jba"
 period: Hellenistic
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄρατος ὁ Σικυώνιος*
 
-**eul_aid:** `jba` · [HTML page](https://eulogikon.org/en/aratus-of-sicyon)
+**eul_aid:** `jba` · [HTML page](https://eulogikon.org/authors/aratus-of-sicyon-jba)
 
 Aratus of Sicyon, a Hellenistic historian of the 3rd century BCE. His work is preserved in fragments. Free to read and download from the Greek library archive.
 

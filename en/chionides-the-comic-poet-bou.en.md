@@ -2,7 +2,7 @@
 name: Chionides the Comic Poet
 name_greek: Χιονίδης
 eul_aid: bou
-canonical: "https://eulogikon.org/en/chionides-the-comic-poet"
+canonical: "https://eulogikon.org/authors/chionides-the-comic-poet-bou"
 period: Archaic
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χιονίδης*
 
-**eul_aid:** `bou` · [HTML page](https://eulogikon.org/en/chionides-the-comic-poet)
+**eul_aid:** `bou` · [HTML page](https://eulogikon.org/authors/chionides-the-comic-poet-bou)
 
 Chionides, an early Athenian comic poet of the 5th century BCE. Includes surviving comedy fragments. Free to read and download from the Greek library archive.
 

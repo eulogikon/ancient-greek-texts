@@ -2,7 +2,7 @@
 name: Eusebius of Caesarea
 name_greek: Εὐσέβιος ὁ Καίσαρειας
 eul_aid: tva
-canonical: "https://eulogikon.org/en/eusebius-of-caesarea"
+canonical: "https://eulogikon.org/authors/eusebius-of-caesarea-tva"
 period: Late Antique
 dialect: Christian Koine
 affiliation: Christian
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐσέβιος ὁ Καίσαρειας*
 
-**eul_aid:** `tva` · [HTML page](https://eulogikon.org/en/eusebius-of-caesarea)
+**eul_aid:** `tva` · [HTML page](https://eulogikon.org/authors/eusebius-of-caesarea-tva)
 
 Eusebius of Caesarea, Christian bishop and historian. Theological treatises and historical writings. Free to read and download from the Greek library archive.
 

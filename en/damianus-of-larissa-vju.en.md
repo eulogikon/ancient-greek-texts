@@ -2,7 +2,7 @@
 name: Damianus of Larissa
 name_greek: Δαμιανὸς ὁ Λαρισαῖος
 eul_aid: vju
-canonical: "https://eulogikon.org/en/damianus-of-larissa"
+canonical: "https://eulogikon.org/authors/damianus-of-larissa-vju"
 period: Late Antique
 dialect: Technical Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Δαμιανὸς ὁ Λαρισαῖος*
 
-**eul_aid:** `vju` · [HTML page](https://eulogikon.org/en/damianus-of-larissa)
+**eul_aid:** `vju` · [HTML page](https://eulogikon.org/authors/damianus-of-larissa-vju)
 
 Damianus of Larissa, a 5th-6th century CE mathematician. His surviving treatise on optics. Free to read and download from the Greek library archive.
 

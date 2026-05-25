@@ -2,7 +2,7 @@
 name: Diophantus of Alexandria II
 name_greek: Διόφαντος ὁ Ἀλεξανδρεύς
 eul_aid: rqm
-canonical: "https://eulogikon.org/en/diophantus-of-alexandria-ii"
+canonical: "https://eulogikon.org/authors/diophantus-of-alexandria-rqm"
 period: Roman
 dialect: Technical Koine
 works_count: 5
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Διόφαντος ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `rqm` · [HTML page](https://eulogikon.org/en/diophantus-of-alexandria-ii)
+**eul_aid:** `rqm` · [HTML page](https://eulogikon.org/authors/diophantus-of-alexandria-rqm)
 
 Diophantus of Alexandria, a 3rd century CE mathematician. Works on mathematics and number theory. Free to read and download from the Greek library archive.
 

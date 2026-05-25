@@ -2,7 +2,7 @@
 name: Lyric Poets Anonymous
 name_greek: Ἀδήσποτα Λυρικά
 eul_aid: gya
-canonical: "https://eulogikon.org/en/lyric-poets-anonymous"
+canonical: "https://eulogikon.org/authors/lyric-poets-anon-gya"
 period: Classical
 dialect: Mixed Dialects
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀδήσποτα Λυρικά*
 
-**eul_aid:** `gya` · [HTML page](https://eulogikon.org/en/lyric-poets-anonymous)
+**eul_aid:** `gya` · [HTML page](https://eulogikon.org/authors/lyric-poets-anon-gya)
 
 Anonymous classical Greek lyric poets from the 8th to 4th centuries BCE. Their surviving works of mixed dialect. Free to download from the Greek archive.
 

@@ -2,7 +2,7 @@
 name: Alcidamas of Elaea
 name_greek: Ἀλκιδάμας ὁ Ἐλαεύς
 eul_aid: dkm
-canonical: "https://eulogikon.org/en/alcidamas-of-elaea"
+canonical: "https://eulogikon.org/authors/alcidamas-of-elaea-dkm"
 period: Classical
 dialect: Attic
 affiliation: Sophist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλκιδάμας ὁ Ἐλαεύς*
 
-**eul_aid:** `dkm` · [HTML page](https://eulogikon.org/en/alcidamas-of-elaea)
+**eul_aid:** `dkm` · [HTML page](https://eulogikon.org/authors/alcidamas-of-elaea-dkm)
 
 Alcidamas, a classical Greek sophist and student of Gorgias. His surviving oration is On the Sophists. Free to read and download from the Greek library archive.
 

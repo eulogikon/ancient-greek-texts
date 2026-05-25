@@ -2,7 +2,7 @@
 name: Hierocles of Alexandria
 name_greek: Ἱεροκλῆς ὁ Ἀλεξανδρεύς
 eul_aid: tbu
-canonical: "https://eulogikon.org/en/hierocles-of-alexandria"
+canonical: "https://eulogikon.org/authors/hierocles-of-alexandria-tbu"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἱεροκλῆς ὁ Ἀλεξανδρεύς*
 
-**eul_aid:** `tbu` · [HTML page](https://eulogikon.org/en/hierocles-of-alexandria)
+**eul_aid:** `tbu` · [HTML page](https://eulogikon.org/authors/hierocles-of-alexandria-tbu)
 
 Hierocles of Alexandria, a 5th century CE Neoplatonic philosopher. His work On Providence survives. Free to read and download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Alexander the Great Letters
 name_greek: Ἀλεξάνδρου τοῦ Μεγάλου Ἐπιστολαί
 eul_aid: hgm
-canonical: "https://eulogikon.org/en/alexander-the-great-letters"
+canonical: "https://eulogikon.org/authors/alexander-the-great-letters-hgm"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλεξάνδρου τοῦ Μεγάλου Ἐπιστολαί*
 
-**eul_aid:** `hgm` · [HTML page](https://eulogikon.org/en/alexander-the-great-letters)
+**eul_aid:** `hgm` · [HTML page](https://eulogikon.org/authors/alexander-the-great-letters-hgm)
 
 Alexander the Great, Macedonian king and conqueror. Surviving epistles attributed to him. Free to read and download from the Greek library archive.
 

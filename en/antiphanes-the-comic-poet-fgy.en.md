@@ -2,7 +2,7 @@
 name: Antiphanes the Comic Poet
 name_greek: Ἀντιφάνης ὁ κωμικός
 eul_aid: fgy
-canonical: "https://eulogikon.org/en/antiphanes-the-comic-poet"
+canonical: "https://eulogikon.org/authors/antiphanes-the-comic-poet-fgy"
 period: Classical
 dialect: "Attic (com, frg)"
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀντιφάνης ὁ κωμικός*
 
-**eul_aid:** `fgy` · [HTML page](https://eulogikon.org/en/antiphanes-the-comic-poet)
+**eul_aid:** `fgy` · [HTML page](https://eulogikon.org/authors/antiphanes-the-comic-poet-fgy)
 
 Antiphanes was a major 4th century BCE playwright of Middle Comedy. His surviving works are preserved as fragments. Free to download from the Greek archive.
 

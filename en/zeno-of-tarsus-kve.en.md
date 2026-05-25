@@ -2,7 +2,7 @@
 name: Zeno of Tarsus
 name_greek: Ζήνων ὁ Ταρσεύς
 eul_aid: kve
-canonical: "https://eulogikon.org/en/zeno-of-tarsus"
+canonical: "https://eulogikon.org/authors/zeno-of-tarsus-kve"
 period: Hellenistic
 dialect: Koine (frg)
 affiliation: Stoic
@@ -14,7 +14,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ζήνων ὁ Ταρσεύς*
 
-**eul_aid:** `kve` · [HTML page](https://eulogikon.org/en/zeno-of-tarsus)
+**eul_aid:** `kve` · [HTML page](https://eulogikon.org/authors/zeno-of-tarsus-kve)
 
 Zeno of Tarsus was a Hellenistic Stoic philosopher and student of Chrysippus. His surviving works. Free to read and download from the Greek library archive.
 

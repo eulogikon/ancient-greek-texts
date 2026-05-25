@@ -2,7 +2,7 @@
 name: Josephus the Historian
 name_greek: Ἰώσηπος ὁ ἱστορικός
 eul_aid: ofq
-canonical: "https://eulogikon.org/en/josephus"
+canonical: "https://eulogikon.org/authors/josephus-the-historian-ofq"
 period: Roman
 dialect: Koine
 works_count: 4
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἰώσηπος ὁ ἱστορικός*
 
-**eul_aid:** `ofq` · [HTML page](https://eulogikon.org/en/josephus)
+**eul_aid:** `ofq` · [HTML page](https://eulogikon.org/authors/josephus-the-historian-ofq)
 
 Josephus, a first-century Roman-era historian writing in Koine Greek. Surviving historical works. Free to read and download from the Greek library archive.
 

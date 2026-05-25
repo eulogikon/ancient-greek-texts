@@ -2,7 +2,7 @@
 name: Hipparchus the Comic Poet
 name_greek: Ἵππαρχος ὁ κωμικός
 eul_aid: jns
-canonical: "https://eulogikon.org/en/hipparchus-the-comic-poet"
+canonical: "https://eulogikon.org/authors/hipparchus-the-comic-poet-jns"
 period: Hellenistic
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἵππαρχος ὁ κωμικός*
 
-**eul_aid:** `jns` · [HTML page](https://eulogikon.org/en/hipparchus-the-comic-poet)
+**eul_aid:** `jns` · [HTML page](https://eulogikon.org/authors/hipparchus-the-comic-poet-jns)
 
 Hipparchus, a Hellenistic comic poet. Two surviving works from this 3rd century BCE Attic author. Free to read and download from the Greek library archive.
 

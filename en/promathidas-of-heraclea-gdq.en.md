@@ -2,7 +2,7 @@
 name: Promathidas of Heraclea
 name_greek: Προμαθίδας ὁ Ἡρακλεώτης
 eul_aid: gdq
-canonical: "https://eulogikon.org/en/promathidas-of-heraclea"
+canonical: "https://eulogikon.org/authors/promathidas-of-heraclea-gdq"
 period: Classical
 dialect: Koine
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προμαθίδας ὁ Ἡρακλεώτης*
 
-**eul_aid:** `gdq` · [HTML page](https://eulogikon.org/en/promathidas-of-heraclea)
+**eul_aid:** `gdq` · [HTML page](https://eulogikon.org/authors/promathidas-of-heraclea-gdq)
 
 Promathidas of Heraclea, a 4th century BCE historian. His surviving historical works are preserved as fragments. Free to download from the Greek archive.
 

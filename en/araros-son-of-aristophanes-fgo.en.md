@@ -2,7 +2,7 @@
 name: Araros Son of Aristophanes
 name_greek: Ἀραρὼς ὁ τοῦ Ἀριστοφάνους
 eul_aid: fgo
-canonical: "https://eulogikon.org/en/araros-son-of-aristophanes"
+canonical: "https://eulogikon.org/authors/araros-son-of-aristophanes-fgo"
 period: Classical
 dialect: Attic Comedy
 works_count: 2
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀραρὼς ὁ τοῦ Ἀριστοφάνους*
 
-**eul_aid:** `fgo` · [HTML page](https://eulogikon.org/en/araros-son-of-aristophanes)
+**eul_aid:** `fgo` · [HTML page](https://eulogikon.org/authors/araros-son-of-aristophanes-fgo)
 
 Araros, son of Aristophanes, was a 4th century BCE Athenian comic poet. Two surviving works of Attic comedy. Free to download from the Greek library archive.
 

@@ -2,7 +2,7 @@
 name: Sophaenetus of Stymphalus
 name_greek: Σοφαίνετος ὁ Στυμφάλιος
 eul_aid: eva
-canonical: "https://eulogikon.org/en/sophaenetus-of-stymphalus"
+canonical: "https://eulogikon.org/authors/sophaenetus-of-stymphalus-eva"
 period: Classical
 dialect: Attic
 works_count: 1
@@ -13,7 +13,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σοφαίνετος ὁ Στυμφάλιος*
 
-**eul_aid:** `eva` · [HTML page](https://eulogikon.org/en/sophaenetus-of-stymphalus)
+**eul_aid:** `eva` · [HTML page](https://eulogikon.org/authors/sophaenetus-of-stymphalus-eva)
 
 Sophaenetus of Stymphalus, a 5th-4th century BCE historian. Surviving works from the Classical period. Free to read and download from the Greek library archive.
 
