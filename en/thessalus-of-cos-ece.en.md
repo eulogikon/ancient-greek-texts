@@ -19,11 +19,11 @@ Thessalus of Cos, Greek physician and son of Hippocrates. Five surviving medical
 
 ## Works
 
-- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-aa`
 - [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ab-ece-ab.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ab`
-- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ac`
-- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ae`
 - [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ad-ece-ad.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ad`
+- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ae-ece-ae.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ae`
+- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-ac-ece-ac.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-ac`
+- [On the Virtues of Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos-virtues-herbs-aa-ece-aa.grc.md) — *Περὶ τῶν ἀρετῶν τῶν βοτάνων* · `ece-aa`
 
 ## License and provenance
 

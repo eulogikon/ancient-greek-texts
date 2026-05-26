@@ -19,8 +19,8 @@ Philyllius, Athenian comic poet of the late 5th century BCE. Surviving fragments
 
 ## Works
 
-- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet-comic-feast-aa-fdc-aa.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `fdc-aa`
 - [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet-comic-feast-ab-fdc-ab.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `fdc-ab`
+- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet-comic-feast-aa-fdc-aa.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `fdc-aa`
 
 ## License and provenance
 

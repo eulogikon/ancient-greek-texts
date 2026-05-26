@@ -19,8 +19,8 @@ Xenarchus, a 4th century BCE comic poet and son of Sophron. Surviving fragments 
 
 ## Works
 
-- [Fragments on Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης* · `lli-aa`
 - [Fragments on Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης* · `lli-ab`
+- [Fragments on Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης* · `lli-aa`
 
 ## License and provenance
 

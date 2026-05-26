@@ -5,7 +5,7 @@ eul_aid: dmu
 canonical: "https://eulogikon.org/authors/diotimus-of-tyre-dmu"
 period: Classical
 dialect: "Attic (phi, frg)"
-affiliation: Stoic
+affiliation: Democritean
 works_count: 1
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

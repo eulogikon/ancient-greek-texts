@@ -19,8 +19,8 @@ Diocles Comicus, Athenian comic poet of 5th century BCE. Surviving fragments fro
 
 ## Works
 
-- [Domestic Comedy Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.md) — *Ἀποσπάσματα* · `dam-ab`
 - [Domestic Comedy Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-aa-dam-aa.grc.md) — *Ἀποσπάσματα* · `dam-aa`
+- [Domestic Comedy Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.md) — *Ἀποσπάσματα* · `dam-ab`
 
 ## License and provenance
 

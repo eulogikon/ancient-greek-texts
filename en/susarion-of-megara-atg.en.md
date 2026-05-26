@@ -19,8 +19,8 @@ Susarion of Megara, early comic poet of the 6th century BCE. Surviving fragments
 
 ## Works
 
-- [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md) — *Ἀπόσπασμα* · `atg-ab`
 - [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md) — *Ἀπόσπασμα* · `atg-ac`
+- [On the Evils of Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md) — *Ἀπόσπασμα* · `atg-ab`
 - [On the Nature of Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.md) — *Ἀπόσπασμα* · `atg-aa`
 
 ## License and provenance

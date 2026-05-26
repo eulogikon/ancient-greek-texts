@@ -19,8 +19,8 @@ Autocrates was an Athenian comic poet of the late 5th century BCE. Two fragments
 
 ## Works
 
-- [Fragments on Lydian Maidens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md) — *Ἀποσπάσματα περὶ Λυδῶν Κορῶν* · `gzo-aa`
 - [Fragments on Lydian Maidens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.md) — *Ἀποσπάσματα περὶ Λυδῶν Κορῶν* · `gzo-ab`
+- [Fragments on Lydian Maidens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md) — *Ἀποσπάσματα περὶ Λυδῶν Κορῶν* · `gzo-aa`
 
 ## License and provenance
 

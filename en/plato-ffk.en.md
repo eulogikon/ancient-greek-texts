@@ -24,8 +24,8 @@ Plato, classical Athenian philosopher of the 4th century BCE. Dialogues include 
 - [Alcibiades B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.md) — *Ἀλκιβιάδης βʹ* · `ffk-af`
 - [Apology of Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-apology-ffk-aa.grc.md) — *Ἀπολογία Σωκράτους* · `ffk-aa`
 - [Charmides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.md) — *Χαρμίδης* · `ffk-an`
-- [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.md) — *Κλειτοφῶν* · `ffk-ao`
 - [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.md) — *Κλειτοφῶν* · `ffk-ab`
+- [Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.md) — *Κλειτοφῶν* · `ffk-ao`
 - [Cratylus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.md) — *Κρατύλος* · `ffk-at`
 - [Critias](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.md) — *Κριτίας* · `ffk-ba`
 - [Crito](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-crito-ffk-bj.grc.md) — *Κρίτων* · `ffk-bj`

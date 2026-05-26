@@ -5,7 +5,7 @@ eul_aid: nso
 canonical: "https://eulogikon.org/authors/eudromus-the-philosopher-nso"
 period: Roman
 dialect: Koine
-affiliation: Platonist
+affiliation: Stoic
 works_count: 1
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

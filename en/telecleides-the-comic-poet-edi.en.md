@@ -19,8 +19,8 @@ Telecleides was an Athenian comic playwright of Old Comedy in the 5th century BC
 
 ## Works
 
-- [Golden Age of Plenty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.md) — *Ἀποσπάσματα* · `edi-ab`
 - [Golden Age of Plenty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.md) — *Ἀποσπάσματα* · `edi-aa`
+- [Golden Age of Plenty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.md) — *Ἀποσπάσματα* · `edi-ab`
 
 ## License and provenance
 
