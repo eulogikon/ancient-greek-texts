@@ -1211,12 +1211,12 @@
       },
       "url_slug": "empedocles-of-acragas-epigrams-die-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/epigrams",
+        "html": "https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/epigrams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-epigrams-die-ac.epub"
       }
     },
     {
@@ -1227,16 +1227,32 @@
       },
       "url_slug": "empedocles-of-acragas-testimonies-die-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/testimonies",
+        "html": "https://eulogikon.org/works/empedocles-acragas-testimonies-die-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-testimonies-die-aa.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "vls-aa",
+      "title": {
+        "english": "Concise Tradition of Modes of Sophistic Importunities",
+        "ancient_greek": "Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν"
+      },
+      "url_slug": "sophistical-refutations-anonymous-modes-importunities-vls-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/anon-soph-ref-modes-importunities-vls-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-modes-importunities-vls-aa.epub"
+      }
+    },
     {
       "eul_wid": "hgw-az",
       "title": {
@@ -1245,44 +1261,12 @@
       },
       "url_slug": "aristotle-dialogic-fragments-hgw-az",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "html": "https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "pzk-aa",
-      "title": {
-        "english": "Life of Secundus",
-        "ancient_greek": "Βίος Σεκούνδου"
-      },
-      "url_slug": "secundus-the-silent-life-pzk-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/secundus-the-silent/life",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-es",
-      "title": {
-        "english": "Lysander",
-        "ancient_greek": "Λύσανδρος"
-      },
-      "url_slug": "plutarch-of-chaeronea-lysander-okg-es",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-dialogic-fragments-hgw-az.epub"
       }
     },
     {
@@ -1293,44 +1277,76 @@
       },
       "url_slug": "aristotle-indivisible-lines-hgw-as",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/indivisible-lines",
+        "html": "https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/indivisible-lines.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-indivisible-lines-hgw-as.epub"
       }
     },
     {
-      "eul_wid": "vgs-ac",
+      "eul_wid": "okg-et",
       "title": {
-        "english": "On Porphyry's Isagoge",
-        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+        "english": "Pericles",
+        "ancient_greek": "Περικλῆς"
       },
-      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "url_slug": "plutarch-of-chaeronea-pericles-okg-et",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-pericles-okg-et",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-pericles-okg-et.epub"
       }
     },
     {
-      "eul_wid": "udm-ab",
+      "eul_wid": "udm-ac",
       "title": {
-        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
-        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+        "english": "Remains of Homeric Questions Pertaining to the Iliad",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ἰλιάδα"
       },
-      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "url_slug": "porphyry-of-tyre-homeric-questions-iliad-udm-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-homeric-questions-iliad-udm-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-homeric-questions-iliad-udm-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "pzk-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "secundus-the-silent-sentences-pzk-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/secundus-sentences-pzk-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/secundus-sentences-pzk-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ag",
+      "title": {
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
+      },
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-helios-salustius-sno-ag.epub"
       }
     },
     {
@@ -1341,38 +1357,22 @@
       },
       "url_slug": "julian-the-apostate-to-themistius-sno-af",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
+        "html": "https://eulogikon.org/works/julian-apostate-to-themistius-sno-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-ae",
-      "title": {
-        "english": "encom to Emperor Constantius",
-        "ancient_greek": "Ἐγκώμιον εἰς τὸν αὐτοκράτορα Κωνστάντιον"
-      },
-      "url_slug": "julian-the-apostate-encomium-constantius-sno-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/encomium-constantius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encomium-constantius-sno-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encomium-constantius-sno-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encomium-constantius-sno-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encomium-constantius-sno-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encomium-constantius.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-to-themistius-sno-af.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/empedocles-of-acragas/nature-perception",
+    "html": "https://eulogikon.org/works/empedocles-acragas-nature-perception-die-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/nature-perception.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-nature-perception-die-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

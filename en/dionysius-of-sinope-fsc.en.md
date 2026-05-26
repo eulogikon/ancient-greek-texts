@@ -19,8 +19,8 @@ Dionysius of Sinope, 5th century BCE comic poet of Old Comedy. His surviving fra
 
 ## Works
 
-- [Fragments on Cooking and Strategy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς* · `fsc-aa`
 - [Fragments on Cooking and Strategy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς* · `fsc-ab`
+- [Fragments on Cooking and Strategy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς* · `fsc-aa`
 
 ## License and provenance
 

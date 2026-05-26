@@ -134,12 +134,12 @@
       },
       "url_slug": "herophilus-the-anatomist-method-nourishment-ifm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment",
+        "html": "https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/herophilus-method-nourishment-ifm-ab.epub"
       }
     }
   ],
@@ -152,12 +152,12 @@
       },
       "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "html": "https://eulogikon.org/works/phaenias-eresus-aristotelian-philosophy-flo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phaenias-eresus-aristotelian-philosophy-flo-aa.epub"
       }
     },
     {
@@ -168,44 +168,28 @@
       },
       "url_slug": "ptolemais-of-cyrene-music-jla-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/ptolemais-of-cyrene/music",
+        "html": "https://eulogikon.org/works/ptolemais-cyrene-music-jla-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene-music-jla-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene-music-jla-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene-music-jla-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene-music-jla-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene/music.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ptolemais-cyrene-music-jla-aa.epub"
       }
     },
     {
-      "eul_wid": "oqk-ao",
+      "eul_wid": "udw-ae",
       "title": {
-        "english": "Hermes Trismegistus Key",
-        "ancient_greek": "Κλείς"
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν Μυστηρίων"
       },
-      "url_slug": "hermetica-key-oqk-ao",
+      "url_slug": "iamblichus-of-chalcis-mysteries-udw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/key",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.epub"
-      }
-    },
-    {
-      "eul_wid": "udw-ac",
-      "title": {
-        "english": "On Common Mathematical Knowledge",
-        "ancient_greek": "Περί της κοινής μαθηματικής επιστήμης"
-      },
-      "url_slug": "iamblichus-of-chalcis-common-mathematics-udw-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/common-mathematics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/common-mathematics.epub"
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-mysteries-udw-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-mysteries-udw-ae.epub"
       }
     },
     {
@@ -216,12 +200,28 @@
       },
       "url_slug": "parmenides-of-elea-nature-being-bke-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/parmenides-of-elea/nature-being",
+        "html": "https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea/nature-being.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/parmenides-elea-nature-being-bke-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ap",
+      "title": {
+        "english": "Only in God is the Good",
+        "ancient_greek": "Ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ"
+      },
+      "url_slug": "hermetica-only-good-oqk-ap",
+      "links": {
+        "html": "https://eulogikon.org/works/hermetica-only-good-oqk-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-only-good-oqk-ap.epub"
       }
     },
     {
@@ -232,12 +232,12 @@
       },
       "url_slug": "herillus-of-carthage-ethical-fragments-jtc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/herillus-of-carthage/ethical-fragments",
+        "html": "https://eulogikon.org/works/herillus-carthage-ethical-fragments-jtc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/herillus-carthage-ethical-fragments-jtc-aa.epub"
       }
     },
     {
@@ -248,38 +248,38 @@
       },
       "url_slug": "echecrates-of-phlius-testimonies-ffa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/echecrates-of-phlius/testimonies",
+        "html": "https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/echecrates-phlius-testimonies-ffa-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-ak",
+      "eul_wid": "rye-am",
       "title": {
-        "english": "To Those Accusing-Accepting the Office",
-        "ancient_greek": "Πρὸς τοὺς αἰτιασαμένους ἐπὶ τῷ δέξασθαι τὴν ἀρχήν"
+        "english": "To the One Who Demanded Immediate Speech",
+        "ancient_greek": "Πρὸς τὸν ἀξιώσαντα λέγειν ἐκ τοῦ παραχρῆμα"
       },
-      "url_slug": "themistius-accusing-office-rye-ak",
+      "url_slug": "themistius-immediate-speech-rye-am",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/accusing-office",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/accusing-office.epub"
+        "html": "https://eulogikon.org/works/themistius-immediate-speech-rye-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-immediate-speech-rye-am.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/herophilus-the-anatomist/monthly-living",
+    "html": "https://eulogikon.org/works/herophilus-monthly-living-ifm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/herophilus-monthly-living-ifm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

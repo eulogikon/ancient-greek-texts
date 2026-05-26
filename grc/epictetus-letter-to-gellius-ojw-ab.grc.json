@@ -84,12 +84,12 @@
       },
       "url_slug": "epictetus-discourses-ojw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
+        "html": "https://eulogikon.org/works/epictetus-discourses-ojw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-discourses-ojw-ac.epub"
       }
     },
     {
@@ -100,12 +100,12 @@
       },
       "url_slug": "epictetus-fragments-ojw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/fragments",
+        "html": "https://eulogikon.org/works/epictetus-fragments-ojw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-fragments-ojw-aa.epub"
       }
     },
     {
@@ -116,12 +116,12 @@
       },
       "url_slug": "epictetus-gnomology-ae-ojw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ae.epub"
       }
     },
     {
@@ -132,12 +132,12 @@
       },
       "url_slug": "epictetus-gnomology-ad-ojw-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ad",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ad.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
       }
     },
     {
@@ -148,94 +148,62 @@
       },
       "url_slug": "epictetus-handbook-ojw-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/handbook",
+        "html": "https://eulogikon.org/works/epictetus-handbook-ojw-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/handbook.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-handbook-ojw-af.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "okg-dv",
+      "eul_wid": "pcs-ak",
       "title": {
-        "english": "Demosthenes",
-        "ancient_greek": "Δημοσθένης"
+        "english": "Alexander's Anabasis",
+        "ancient_greek": "Ἀλεξάνδρου Ἀνάβασις"
       },
-      "url_slug": "plutarch-of-chaeronea-demosthenes-okg-dv",
+      "url_slug": "arrian-of-nicomedia-anabasis-pcs-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-anabasis-pcs-ak.epub"
       }
     },
     {
-      "eul_wid": "reo-aj",
+      "eul_wid": "lgs-aa",
       "title": {
-        "english": "Ethical Problems",
-        "ancient_greek": "Ἠθικὰ προβλήματα"
+        "english": "Commentary-Plato's Theaetetus",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Θεαίτητον τοῦ Πλάτωνος"
       },
-      "url_slug": "alexander-of-aphrodisias-ethical-problems-reo-aj",
+      "url_slug": "anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/ethical-problems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ethical-problems-reo-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ethical-problems-reo-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ethical-problems-reo-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ethical-problems-reo-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/ethical-problems.epub"
+        "html": "https://eulogikon.org/works/anon-comm-plato-theaetetus-lgs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-comm-plato-theaetetus-lgs-aa.epub"
       }
     },
     {
-      "eul_wid": "pcs-aj",
+      "eul_wid": "okg-dw",
       "title": {
-        "english": "Fragments of Parthica",
-        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+        "english": "Marcus Cato",
+        "ancient_greek": "Μάρκος Κάτων"
       },
-      "url_slug": "arrian-of-nicomedia-parthica-fragments-aj-pcs-aj",
+      "url_slug": "plutarch-of-chaeronea-marcus-cato-okg-dw",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aj",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.epub"
-      }
-    },
-    {
-      "eul_wid": "qhm-aa",
-      "title": {
-        "english": "Introduction to the Dialogues of Plato",
-        "ancient_greek": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
-      },
-      "url_slug": "albinus-the-platonist-plato-dialogues-intro-qhm-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/albinus-the-platonist/plato-dialogues-intro",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-dialogues-intro.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-bn",
-      "title": {
-        "english": "On God",
-        "ancient_greek": "Περὶ Θεοῦ"
-      },
-      "url_slug": "philo-of-alexandria-on-god-lgi-bn",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/on-god",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-god-lgi-bn.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-god-lgi-bn.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-god-lgi-bn.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-god-lgi-bn.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-god.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-marcus-cato-okg-dw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-marcus-cato-okg-dw.epub"
       }
     },
     {
@@ -246,12 +214,28 @@
       },
       "url_slug": "anaxagoras-of-clazomenae-nature-btk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature",
+        "html": "https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxagoras-clazomenae-nature-btk-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ak",
+      "title": {
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "alexander-of-aphrodisias-soul-reo-ak",
+      "links": {
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-soul-reo-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-soul-reo-ak.epub"
       }
     },
     {
@@ -262,12 +246,28 @@
       },
       "url_slug": "aristotle-physics-alt-hgw-am",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/physics-alt",
+        "html": "https://eulogikon.org/works/aristotle-physics-alt-hgw-am",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics-alt.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-physics-alt-hgw-am.epub"
+      }
+    },
+    {
+      "eul_wid": "qhm-ab",
+      "title": {
+        "english": "Teaching of Plato's Doctrines",
+        "ancient_greek": "Διδασκαλικὸς τῶν Πλάτωνος δογμάτων"
+      },
+      "url_slug": "albinus-the-platonist-plato-doctrines-qhm-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/albinus-plato-doctrines-qhm-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/albinus-plato-doctrines-qhm-ab.epub"
       }
     },
     {
@@ -278,22 +278,22 @@
       },
       "url_slug": "alcmaeon-of-croton-testimonies-bmw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies",
+        "html": "https://eulogikon.org/works/alcmaeon-croton-testimonies-bmw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alcmaeon-croton-testimonies-bmw-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+    "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

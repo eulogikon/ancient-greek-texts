@@ -64,19 +64,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-fi",
+      "eul_wid": "lgi-bf",
       "title": {
-        "english": "Cicero",
-        "ancient_greek": "Κικέρων"
+        "english": "Against Flaccus",
+        "ancient_greek": "Κατὰ Φλάκκου"
       },
-      "url_slug": "plutarch-of-chaeronea-cicero-okg-fi",
+      "url_slug": "philo-of-alexandria-against-flaccus-lgi-bf",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cicero",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cicero-okg-fi.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-against-flaccus-lgi-bf.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bt",
+      "title": {
+        "english": "Books of Symposiastic Problems",
+        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
+      },
+      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-symposiastic-problems-okg-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-symposiastic-problems-okg-bt.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ex",
+      "title": {
+        "english": "Crassus",
+        "ancient_greek": "Κράσσος"
+      },
+      "url_slug": "plutarch-of-chaeronea-crassus-okg-ex",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-crassus-okg-ex",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-crassus-okg-ex.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-crassus-okg-ex.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-crassus-okg-ex.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-crassus-okg-ex.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-crassus-okg-ex.epub"
       }
     },
     {
@@ -87,60 +119,44 @@
       },
       "url_slug": "xenophanes-of-colophon-silli-nature-beu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-silli-nature-beu-aa.epub"
       }
     },
     {
-      "eul_wid": "sys-ah",
+      "eul_wid": "sys-ai",
       "title": {
-        "english": "Letters to Nicander",
-        "ancient_greek": "Ἐπιστολαὶ πρὸς Νίκανδρον"
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
       },
-      "url_slug": "synesius-of-cyrene-letters-nicander-sys-ah",
+      "url_slug": "synesius-of-cyrene-hymns-sys-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/letters-nicander",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/letters-nicander.epub"
+        "html": "https://eulogikon.org/works/synesius-cyrene-hymns-sys-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-hymns-sys-ai.epub"
       }
     },
     {
-      "eul_wid": "okg-bs",
+      "eul_wid": "nma-aa",
       "title": {
-        "english": "On Common Notions to the Stoics",
-        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+        "english": "Remains of the Dissertations Compiled by Lucius",
+        "ancient_greek": "Λείψανα Διατριβῶν ὑπὸ Λουκίου"
       },
-      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "url_slug": "musonius-the-roman-dissertations-nma-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/common-notions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-be",
-      "title": {
-        "english": "On the Decalogue",
-        "ancient_greek": "Περὶ τοῦ Δεκαλόγου"
-      },
-      "url_slug": "philo-of-alexandria-decalogue-lgi-be",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/decalogue",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/decalogue.epub"
+        "html": "https://eulogikon.org/works/musonius-roman-dissertations-nma-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-dissertations-nma-aa.epub"
       }
     },
     {
@@ -151,12 +167,12 @@
       },
       "url_slug": "thales-of-miletus-testimonies-apa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/thales-miletus-testimonies-apa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-testimonies-apa-aa.epub"
       }
     },
     {
@@ -167,38 +183,22 @@
       },
       "url_slug": "parmenides-of-elea-testimonies-bke-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/parmenides-of-elea/testimonies",
+        "html": "https://eulogikon.org/works/parmenides-elea-testimonies-bke-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "niy-aa",
-      "title": {
-        "english": "Testimony",
-        "ancient_greek": "Μαρτυρία"
-      },
-      "url_slug": "boidas-the-philologist-testimony-niy-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/boidas-the-philologist/testimony",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/parmenides-elea-testimonies-bke-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/milon-the-philosopher/lightning-fragments",
+    "html": "https://eulogikon.org/works/milon-lightning-fragments-nos-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher/lightning-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/milon-lightning-fragments-nos-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

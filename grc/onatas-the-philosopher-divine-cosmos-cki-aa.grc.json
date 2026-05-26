@@ -65,35 +65,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uxc-aj",
+      "eul_wid": "uxc-al",
       "title": {
-        "english": "Commentary on the Prior Analytics",
-        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+        "english": "Commentary on On Generation and Corruption",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj",
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-aj",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-aj.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ei",
-      "title": {
-        "english": "Fragments on Epaminondas and Scipio",
-        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπαμεινώνδου καὶ Σκιπίωνος"
-      },
-      "url_slug": "plutarch-of-chaeronea-epaminondas-scipio-okg-ei",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/epaminondas-scipio",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-epaminondas-scipio-okg-ei.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-epaminondas-scipio-okg-ei.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-epaminondas-scipio-okg-ei.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-epaminondas-scipio-okg-ei.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/epaminondas-scipio.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-commentary-aristotle-uxc-al.epub"
       }
     },
     {
@@ -104,12 +88,12 @@
       },
       "url_slug": "pythagoras-of-samos-sacred-doctrine-bgs-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine",
+        "html": "https://eulogikon.org/works/pythagoras-samos-sacred-doctrine-bgs-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/sacred-doctrine.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-sacred-doctrine-bgs-ae.epub"
       }
     },
     {
@@ -120,28 +104,44 @@
       },
       "url_slug": "plato-gorgias-ffk-bb",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/gorgias",
+        "html": "https://eulogikon.org/works/plato-gorgias-ffk-bb",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/gorgias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-gorgias-ffk-bb.epub"
       }
     },
     {
-      "eul_wid": "okg-cu",
+      "eul_wid": "okg-cv",
       "title": {
-        "english": "On Envy and Hatred",
-        "ancient_greek": "Περὶ φθόνου καὶ μίσους"
+        "english": "On Isis and Osiris",
+        "ancient_greek": "Περὶ Ἴσιδος και Ὀσίριδος"
       },
-      "url_slug": "plutarch-of-chaeronea-envy-hatred-okg-cu",
+      "url_slug": "plutarch-of-chaeronea-isis-osiris-okg-cv",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/envy-hatred",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-envy-hatred-okg-cu.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-envy-hatred-okg-cu.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-envy-hatred-okg-cu.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-envy-hatred-okg-cu.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/envy-hatred.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-isis-osiris-okg-cv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-isis-osiris-okg-cv.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ej",
+      "title": {
+        "english": "On the Daedala at Plataea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "plutarch-of-chaeronea-daedala-plataea-okg-ej",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-daedala-plataea-okg-ej",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daedala-plataea-okg-ej.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daedala-plataea-okg-ej.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daedala-plataea-okg-ej.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daedala-plataea-okg-ej.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-daedala-plataea-okg-ej.epub"
       }
     },
     {
@@ -152,12 +152,12 @@
       },
       "url_slug": "herophilus-the-anatomist-method-nourishment-ifm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment",
+        "html": "https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/herophilus-method-nourishment-ifm-ab.epub"
       }
     },
     {
@@ -168,38 +168,38 @@
       },
       "url_slug": "philolaus-of-croton-soul-cosmos-bue-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/philolaus-of-croton/soul-cosmos",
+        "html": "https://eulogikon.org/works/philolaus-croton-soul-cosmos-bue-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philolaus-croton-soul-cosmos-bue-ac.epub"
       }
     },
     {
-      "eul_wid": "rye-ap",
+      "eul_wid": "rye-aq",
       "title": {
-        "english": "Paraphrase Of Posterior Analytics",
-        "ancient_greek": "Παράφρασις τῶν Ἀναλυτικῶν Ὑστέρων"
+        "english": "Philadelphians or-Philanthropy",
+        "ancient_greek": "Φιλάδελφοι ἢ περὶ φιλανθρωπίας"
       },
-      "url_slug": "themistius-posterior-analytics-rye-ap",
+      "url_slug": "themistius-philanthropy-rye-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/posterior-analytics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/posterior-analytics.epub"
+        "html": "https://eulogikon.org/works/themistius-philanthropy-rye-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-philanthropy-rye-aq.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/onatas-the-philosopher/divine-cosmos",
+    "html": "https://eulogikon.org/works/onatas-divine-cosmos-cki-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/onatas-divine-cosmos-cki-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

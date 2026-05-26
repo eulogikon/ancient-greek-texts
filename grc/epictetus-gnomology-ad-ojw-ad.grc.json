@@ -119,12 +119,12 @@
       },
       "url_slug": "epictetus-discourses-ojw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
+        "html": "https://eulogikon.org/works/epictetus-discourses-ojw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-discourses-ojw-ac.epub"
       }
     },
     {
@@ -135,12 +135,12 @@
       },
       "url_slug": "epictetus-fragments-ojw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/fragments",
+        "html": "https://eulogikon.org/works/epictetus-fragments-ojw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-fragments-ojw-aa.epub"
       }
     },
     {
@@ -151,12 +151,12 @@
       },
       "url_slug": "epictetus-gnomology-ae-ojw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ae.epub"
       }
     },
     {
@@ -167,12 +167,12 @@
       },
       "url_slug": "epictetus-handbook-ojw-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/handbook",
+        "html": "https://eulogikon.org/works/epictetus-handbook-ojw-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/handbook.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-handbook-ojw-af.epub"
       }
     },
     {
@@ -183,16 +183,32 @@
       },
       "url_slug": "epictetus-letter-to-gellius-ojw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+        "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "tni-aa",
+      "title": {
+        "english": "Anthologium",
+        "ancient_greek": "Ἀνθολόγιον"
+      },
+      "url_slug": "john-stobaeus-anthologium-tni-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/john-stobaeus-anthologium-tni-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-stobaeus-anthologium-tni-aa.epub"
+      }
+    },
     {
       "eul_wid": "bgs-ab",
       "title": {
@@ -201,28 +217,28 @@
       },
       "url_slug": "pythagoras-of-samos-astrological-fragments-bgs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrological-fragments",
+        "html": "https://eulogikon.org/works/pythagoras-samos-astrological-fragments-bgs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrological-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-astrological-fragments-bgs-ab.epub"
       }
     },
     {
-      "eul_wid": "tfq-ad",
+      "eul_wid": "udw-ab",
       "title": {
-        "english": "Commentary-Aristotle in Greek",
-        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
+        "english": "Discourse-the Pythagorean Life",
+        "ancient_greek": "περὶ τοῦ Πυθαγορικοῦ βίου λόγος"
       },
-      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
+      "url_slug": "iamblichus-of-chalcis-pythagorean-life-udw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/commentary-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/commentary-aristotle.epub"
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-pythagorean-life-udw-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-pythagorean-life-udw-ab.epub"
       }
     },
     {
@@ -233,28 +249,12 @@
       },
       "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-fragments-iso-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "udw-aa",
-      "title": {
-        "english": "On Nicomachus' Introduction to Arithmetic",
-        "ancient_greek": "Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς"
-      },
-      "url_slug": "iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/nicomachus-arithmetic.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-fragments-iso-ag.epub"
       }
     },
     {
@@ -265,28 +265,12 @@
       },
       "url_slug": "hermodorus-of-ephesus-on-plato-exs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/on-plato",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-on-plato-exs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/on-plato.epub"
-      }
-    },
-    {
-      "eul_wid": "pwi-ab",
-      "title": {
-        "english": "Physiognomics",
-        "ancient_greek": "Φυσιογνωμονικά"
-      },
-      "url_slug": "pseudo-polemon-physiognomics-ab-pwi-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-on-plato-exs-ab.epub"
       }
     },
     {
@@ -297,12 +281,28 @@
       },
       "url_slug": "chares-of-mytilene-text-hfs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+        "html": "https://eulogikon.org/works/chares-mytilene-text-hfs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chares-mytilene-text-hfs-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "pxc-aa",
+      "title": {
+        "english": "Sentences of Sextus",
+        "ancient_greek": "Γνῶμαι Σέξτου"
+      },
+      "url_slug": "sententiae-sexti-sentences-pxc-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/sextus-sentences-pxc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sextus-sentences-pxc-aa.epub"
       }
     },
     {
@@ -313,22 +313,22 @@
       },
       "url_slug": "nessos-of-chios-testimonies-coo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/nessos-of-chios/testimonies",
+        "html": "https://eulogikon.org/works/nessos-chios-testimonies-coo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-testimonies-coo-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epictetus/gnomology-ad",
+    "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ad.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

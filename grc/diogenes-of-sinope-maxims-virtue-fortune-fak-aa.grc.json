@@ -71,6 +71,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-aemilius-paulus-okg-dj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-aemilius-paulus-okg-dj.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-af",
       "title": {
         "english": "Alcibiades B",
@@ -78,60 +94,28 @@
       },
       "url_slug": "plato-alcibiades-b-ffk-af",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/alcibiades-b",
+        "html": "https://eulogikon.org/works/plato-alcibiades-b-ffk-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-b-ffk-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-alcibiades-b-ffk-af.epub"
       }
     },
     {
-      "eul_wid": "msa-ab",
+      "eul_wid": "msa-ac",
       "title": {
-        "english": "Fragments on Ocean Tides",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας"
+        "english": "Fragments on Customs and Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων"
       },
-      "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
+      "url_slug": "posidonius-of-apameia-rhodes-customs-wars-msa-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/ocean-tides",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.epub"
-      }
-    },
-    {
-      "eul_wid": "lfo-aa",
-      "title": {
-        "english": "Fragments on the Nature of Wisdom",
-        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
-      },
-      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/aristocles-of-messene/nature-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.epub"
-      }
-    },
-    {
-      "eul_wid": "oqk-ao",
-      "title": {
-        "english": "Hermes Trismegistus Key",
-        "ancient_greek": "Κλείς"
-      },
-      "url_slug": "hermetica-key-oqk-ao",
-      "links": {
-        "html": "https://eulogikon.org/grc/hermetica/key",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.epub"
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-customs-wars-msa-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-customs-wars-msa-ac.epub"
       }
     },
     {
@@ -142,70 +126,86 @@
       },
       "url_slug": "cleanthes-of-assos-hymn-zeus-jew-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/cleanthes-of-assos/hymn-zeus",
+        "html": "https://eulogikon.org/works/cleanthes-assos-hymn-zeus-jew-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleanthes-assos-hymn-zeus-jew-ab.epub"
       }
     },
     {
-      "eul_wid": "lea-ai",
+      "eul_wid": "lea-aj",
       "title": {
-        "english": "On Stones",
-        "ancient_greek": "Περὶ λίθων"
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
       },
-      "url_slug": "orphic-poems-stones-ai-lea-ai",
+      "url_slug": "orphic-poems-hymns-lea-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/stones-ai",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ai.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-hymns-lea-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-hymns-lea-aj.epub"
       }
     },
     {
-      "eul_wid": "uve-aa",
+      "eul_wid": "uxc-ab",
       "title": {
-        "english": "Paraphrase-Theophrastus",
-        "ancient_greek": "Παράφρασις εἰς Θεόφραστον"
+        "english": "On Aristotle's Posterior Analytics, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ ὕστερα Ἀριστοτέλους"
       },
-      "url_slug": "priscian-of-caesarea-theophrastus-paraphrase-uve-aa",
+      "url_slug": "john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/priscian-of-caesarea/theophrastus-paraphrase",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea/theophrastus-paraphrase.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-posterior-analytics-commentary-uxc-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-posterior-analytics-commentary-uxc-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-di",
+      "eul_wid": "oqk-ap",
       "title": {
-        "english": "Titus Flamininus",
-        "ancient_greek": "Τίτος Φλαμινῖνος"
+        "english": "Only in God is the Good",
+        "ancient_greek": "Ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ"
       },
-      "url_slug": "plutarch-of-chaeronea-titus-flamininus-okg-di",
+      "url_slug": "hermetica-only-good-oqk-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/titus-flamininus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/titus-flamininus.epub"
+        "html": "https://eulogikon.org/works/hermetica-only-good-oqk-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-only-good-oqk-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-only-good-oqk-ap.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-aa",
+      "title": {
+        "english": "Surviving Works of Philo (Volume I)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/diogenes-of-sinope/maxims-virtue-fortune",
+    "html": "https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope/maxims-virtue-fortune.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-sinope-maxims-virtue-fortune-fak-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

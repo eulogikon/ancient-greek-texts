@@ -77,30 +77,62 @@
       },
       "url_slug": "nessos-of-chios-homeric-interpretation-coo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/nessos-of-chios/homeric-interpretation",
+        "html": "https://eulogikon.org/works/nessos-chios-homeric-interpretation-coo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/homeric-interpretation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-homeric-interpretation-coo-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "uxc-ab",
+      "eul_wid": "okg-ag",
       "title": {
-        "english": "On Aristotle's Posterior Analytics, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ ὕστερα Ἀριστοτέλους"
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
       },
-      "url_slug": "john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab",
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/posterior-analytics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/posterior-analytics-commentary.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-ac",
+      "title": {
+        "english": "On Aristotle's Meteorology Book I. Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους,"
+      },
+      "url_slug": "john-philoponus-of-alexandria-meteorology-commentary-uxc-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-meteorology-commentary-uxc-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-meteorology-commentary-uxc-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cc",
+      "title": {
+        "english": "On Flesh-Eating Discourse A",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+      },
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flesh-eating-okg-cc.epub"
       }
     },
     {
@@ -111,76 +143,60 @@
       },
       "url_slug": "hippodamus-of-miletus-happiness-rational-beings-cty-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hippodamus-of-miletus/happiness-rational-beings",
+        "html": "https://eulogikon.org/works/hippodamus-miletus-happiness-rational-beings-cty-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-happiness-rational-beings-cty-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-happiness-rational-beings-cty-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-happiness-rational-beings-cty-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-happiness-rational-beings-cty-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus/happiness-rational-beings.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippodamus-miletus-happiness-rational-beings-cty-ab.epub"
       }
     },
     {
-      "eul_wid": "uqy-am",
+      "eul_wid": "ljk-ar",
       "title": {
-        "english": "On Sacrifice and Magic",
-        "ancient_greek": "Περὶ θυσίας καὶ μαγείας"
+        "english": "On Piety",
+        "ancient_greek": "Περὶ εὐσεβείας"
       },
-      "url_slug": "proclus-the-successor-sacrifice-magic-uqy-am",
+      "url_slug": "theophrastus-of-eresus-piety-ljk-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/sacrifice-magic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/sacrifice-magic.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-piety-ljk-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-piety-ljk-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-piety-ljk-ar.epub"
       }
     },
     {
-      "eul_wid": "ljk-aq",
+      "eul_wid": "uqy-an",
       "title": {
-        "english": "On Sweats",
-        "ancient_greek": "Περὶ Ἰδρώτων"
+        "english": "On Plato's Parmenides",
+        "ancient_greek": "Περὶ τοῦ Πλάτωνος Παρμενίδου"
       },
-      "url_slug": "theophrastus-of-eresus-on-sweats-ljk-aq",
+      "url_slug": "proclus-the-successor-plato-parmenides-uqy-an",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/on-sweats",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-sweats-ljk-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-sweats-ljk-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-sweats-ljk-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-sweats-ljk-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/on-sweats.epub"
+        "html": "https://eulogikon.org/works/proclus-plato-parmenides-uqy-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-plato-parmenides-uqy-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-plato-parmenides-uqy-an.epub"
       }
     },
     {
-      "eul_wid": "okg-ab",
+      "eul_wid": "okg-ac",
       "title": {
-        "english": "On the Fortune or Virtue of Alexander, Discourse A. Discourse B",
-        "ancient_greek": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α,"
+        "english": "On That the Philosopher Should Converse Especially with Rulers",
+        "ancient_greek": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν"
       },
-      "url_slug": "plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab",
+      "url_slug": "plutarch-of-chaeronea-philosopher-rulers-okg-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fortune-virtue-alexander",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fortune-virtue-alexander.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cb",
-      "title": {
-        "english": "Symposium of the Seven Sages",
-        "ancient_greek": "Πων επτά σοφών συμπόσιον"
-      },
-      "url_slug": "plutarch-of-chaeronea-symposium-seven-sages-okg-cb",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposium-seven-sages",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposium-seven-sages.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-philosopher-rulers-okg-ac.epub"
       }
     },
     {
@@ -191,38 +207,22 @@
       },
       "url_slug": "pherecydes-of-syros-testimonies-bcw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pherecydes-of-syros/testimonies",
+        "html": "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-af",
-      "title": {
-        "english": "Whether Athenians Are More Renowned for War or Wisdom",
-        "ancient_greek": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν"
-      },
-      "url_slug": "plutarch-of-chaeronea-athenians-war-wisdom-okg-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/athenians-war-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/athenians-war-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-testimonies-bcw-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/nessos-of-chios/testimonies",
+    "html": "https://eulogikon.org/works/nessos-chios-testimonies-coo-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-testimonies-coo-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

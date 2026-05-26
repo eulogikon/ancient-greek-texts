@@ -64,22 +64,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "udm-ar",
-      "title": {
-        "english": "Against the Christians",
-        "ancient_greek": "Κατὰ Χριστιανῶν"
-      },
-      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/against-christians",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.epub"
-      }
-    },
-    {
       "eul_wid": "hhq-ab",
       "title": {
         "english": "Commentary on Plato's Atlantis",
@@ -87,60 +71,76 @@
       },
       "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "html": "https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crantor-soli-atlantis-commentary-hhq-ab.epub"
       }
     },
     {
-      "eul_wid": "udw-ab",
+      "eul_wid": "pcs-ap",
       "title": {
-        "english": "Discourse-the Pythagorean Life",
-        "ancient_greek": "περὶ τοῦ Πυθαγορικοῦ βίου λόγος"
+        "english": "Fragments on Cavalry Tactics",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππικῆς Τακτικῆς"
       },
-      "url_slug": "iamblichus-of-chalcis-pythagorean-life-udw-ab",
+      "url_slug": "arrian-of-nicomedia-cavalry-tactics-pcs-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/pythagorean-life",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/pythagorean-life.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-cavalry-tactics-pcs-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-cavalry-tactics-pcs-ap.epub"
       }
     },
     {
-      "eul_wid": "ojw-aa",
+      "eul_wid": "ojw-ab",
       "title": {
-        "english": "Fragments of Epictetus' Discourses",
-        "ancient_greek": "Ἀποσπάσματα Διατριβῶν Ἐπικτήτου"
+        "english": "Letter of Arrian to Lucius Gellius",
+        "ancient_greek": "Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέλλιον"
       },
-      "url_slug": "epictetus-fragments-ojw-aa",
+      "url_slug": "epictetus-letter-to-gellius-ojw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+        "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
       }
     },
     {
-      "eul_wid": "nos-aa",
+      "eul_wid": "udm-as",
       "title": {
-        "english": "Fragments on Lightning",
-        "ancient_greek": "Ἀποσπάσματα περὶ Ἀστραπῆς"
+        "english": "Life of Pythagoras",
+        "ancient_greek": "Βίος Πυθαγόρου"
       },
-      "url_slug": "milon-the-philosopher-lightning-fragments-nos-aa",
+      "url_slug": "porphyry-of-tyre-life-pythagoras-udm-as",
       "links": {
-        "html": "https://eulogikon.org/grc/milon-the-philosopher/lightning-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher/lightning-fragments.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-life-pythagoras-udm-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-life-pythagoras-udm-as.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-ac",
+      "title": {
+        "english": "On Common Mathematical Knowledge",
+        "ancient_greek": "Περί της κοινής μαθηματικής επιστήμης"
+      },
+      "url_slug": "iamblichus-of-chalcis-common-mathematics-udw-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-common-mathematics-udw-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-common-mathematics-udw-ac.epub"
       }
     },
     {
@@ -151,12 +151,12 @@
       },
       "url_slug": "parmenides-of-elea-nature-being-bke-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/parmenides-of-elea/nature-being",
+        "html": "https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea/nature-being.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/parmenides-elea-nature-being-bke-ab.epub"
       }
     },
     {
@@ -167,38 +167,38 @@
       },
       "url_slug": "aristotle-soul-bm-hgw-bm",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/soul-bm",
+        "html": "https://eulogikon.org/works/aristotle-soul-hgw-bm",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bm.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-soul-hgw-bm.epub"
       }
     },
     {
-      "eul_wid": "pcs-ao",
+      "eul_wid": "nqg-aa",
       "title": {
-        "english": "Succession Fragments after Alexander",
-        "ancient_greek": "Ἀποσπάσματα"
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
       },
-      "url_slug": "arrian-of-nicomedia-succession-fragments-pcs-ao",
+      "url_slug": "petronius-arbiter-testimony-nqg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/succession-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/succession-fragments.epub"
+        "html": "https://eulogikon.org/works/petronius-testimony-nqg-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/petronius-testimony-nqg-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/idaeus-of-himera/testimony",
+    "html": "https://eulogikon.org/works/idaeus-himera-testimony-czi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/idaeus-himera-testimony-czi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

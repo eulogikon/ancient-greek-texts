@@ -883,6 +883,38 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "pcs-ag",
+      "title": {
+        "english": "Battle-the Alans",
+        "ancient_greek": "Ἔκταξις κατὰ Ἀλανῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-battle-alans-pcs-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-battle-alans-pcs-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-battle-alans-pcs-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-aa",
+      "title": {
+        "english": "Commentary-Aristotle's Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa.epub"
+      }
+    },
+    {
       "eul_wid": "die-ac",
       "title": {
         "english": "Epigram",
@@ -890,28 +922,28 @@
       },
       "url_slug": "empedocles-of-acragas-epigrams-die-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/epigrams",
+        "html": "https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/epigrams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-epigrams-die-ac.epub"
       }
     },
     {
-      "eul_wid": "lfo-aa",
+      "eul_wid": "lmc-aa",
       "title": {
-        "english": "Fragments on the Nature of Wisdom",
+        "english": "Fragments on Wisdom",
         "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
       },
-      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
+      "url_slug": "crito-of-argos-wisdom-fragments-lmc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristocles-of-messene/nature-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.epub"
+        "html": "https://eulogikon.org/works/crito-argos-wisdom-fragments-lmc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crito-argos-wisdom-fragments-lmc-aa.epub"
       }
     },
     {
@@ -922,76 +954,44 @@
       },
       "url_slug": "plato-hippias-ffk-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/hippias",
+        "html": "https://eulogikon.org/works/plato-hippias-ffk-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hippias-ffk-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hippias-ffk-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hippias-ffk-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hippias-ffk-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hippias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-hippias-ffk-ac.epub"
       }
     },
     {
-      "eul_wid": "ljk-au",
+      "eul_wid": "okg-cn",
       "title": {
-        "english": "On Fire",
-        "ancient_greek": "Περὶ πυρός"
+        "english": "Hygienic Instructions",
+        "ancient_greek": "Ὑγιεινὰ παραγγέλματα"
       },
-      "url_slug": "theophrastus-of-eresus-on-fire-ljk-au",
+      "url_slug": "plutarch-of-chaeronea-hygienic-instructions-okg-cn",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/on-fire",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/on-fire.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-hygienic-instructions-okg-cn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hygienic-instructions-okg-cn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hygienic-instructions-okg-cn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hygienic-instructions-okg-cn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hygienic-instructions-okg-cn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-hygienic-instructions-okg-cn.epub"
       }
     },
     {
-      "eul_wid": "pcs-af",
+      "eul_wid": "lgi-aa",
       "title": {
-        "english": "Periplus of the Black Sea",
-        "ancient_greek": "Περίπλους τοῦ Εὐξείνου Πόντου"
+        "english": "Surviving Works of Philo (Volume I)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
       },
-      "url_slug": "arrian-of-nicomedia-black-sea-pcs-af",
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/black-sea",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/black-sea.epub"
-      }
-    },
-    {
-      "eul_wid": "vcm-ab",
-      "title": {
-        "english": "Prolegomena to Philosophy",
-        "ancient_greek": "Προλεγόμενα τῆς φιλοσοφίας"
-      },
-      "url_slug": "david-the-invincible-prolegomena-vcm-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/david-the-invincible/prolegomena",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cm",
-      "title": {
-        "english": "Roman and Greek Causes",
-        "ancient_greek": "Αἴτια Ἑλληνικά"
-      },
-      "url_slug": "plutarch-of-chaeronea-causes-okg-cm",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/causes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/causes.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa.epub"
       }
     },
     {
@@ -1002,22 +1002,22 @@
       },
       "url_slug": "epicurus-letter-menoeceus-hui-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/letter-menoeceus",
+        "html": "https://eulogikon.org/works/epicurus-letter-menoeceus-hui-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-menoeceus-hui-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-letter-menoeceus-hui-ad.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/heraclides-of-pontus-iii/ethical-dialogues",
+    "html": "https://eulogikon.org/works/heraclides-pontus-ethical-dialogues-feg-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii-ethical-dialogues-feg-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii-ethical-dialogues-feg-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii-ethical-dialogues-feg-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii-ethical-dialogues-feg-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii/ethical-dialogues.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-pontus-ethical-dialogues-feg-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -442,6 +442,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-amatory-okg-ew",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-amatory-okg-ew.epub"
+      }
+    },
+    {
       "eul_wid": "hgw-aa",
       "title": {
         "english": "Aristotle's Natural Problems by Type",
@@ -449,28 +465,60 @@
       },
       "url_slug": "aristotle-natural-problems-hgw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "html": "https://eulogikon.org/works/aristotle-natural-problems-hgw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-natural-problems-hgw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-natural-problems-hgw-aa.epub"
       }
     },
     {
-      "eul_wid": "sys-aj",
+      "eul_wid": "tfq-ad",
       "title": {
-        "english": "Dion",
-        "ancient_greek": "Δίων"
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
       },
-      "url_slug": "synesius-of-cyrene-dion-sys-aj",
+      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/dion",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.epub"
+        "html": "https://eulogikon.org/works/syrianus-athens-commentary-aristotle-tfq-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-commentary-aristotle-tfq-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "udw-af",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "iamblichus-of-chalcis-exhortation-udw-af",
+      "links": {
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-exhortation-udw-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-exhortation-udw-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-exhortation-udw-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-exhortation-udw-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-exhortation-udw-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-exhortation-udw-af.epub"
+      }
+    },
+    {
+      "eul_wid": "szw-aa",
+      "title": {
+        "english": "Fragments on Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+      },
+      "url_slug": "euryphamus-the-philosopher-life-szw-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/euryphamus-life-szw-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/euryphamus-life-szw-aa.epub"
       }
     },
     {
@@ -481,12 +529,12 @@
       },
       "url_slug": "eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/eurytus-the-pythagorean/chance-spontaneous-events",
+        "html": "https://eulogikon.org/works/eurytus-pythagorean-chance-spontaneous-events-eyw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/chance-spontaneous-events.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eurytus-pythagorean-chance-spontaneous-events-eyw-ab.epub"
       }
     },
     {
@@ -497,44 +545,12 @@
       },
       "url_slug": "clearchus-of-soli-hunting-mirrors-hki-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/clearchus-of-soli/hunting-mirrors",
+        "html": "https://eulogikon.org/works/clearchus-soli-hunting-mirrors-hki-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli/hunting-mirrors.epub"
-      }
-    },
-    {
-      "eul_wid": "udw-ae",
-      "title": {
-        "english": "On the Mysteries",
-        "ancient_greek": "Περὶ τῶν Μυστηρίων"
-      },
-      "url_slug": "iamblichus-of-chalcis-mysteries-udw-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.epub"
-      }
-    },
-    {
-      "eul_wid": "tfq-ac",
-      "title": {
-        "english": "Preface to Hermogenes' Book-Ideas",
-        "ancient_greek": "Περὶ ἰδεῶν"
-      },
-      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/preface-hermogenes.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clearchus-soli-hunting-mirrors-hki-aa.epub"
       }
     },
     {
@@ -545,38 +561,22 @@
       },
       "url_slug": "clinias-of-tarentum-testimonies-hcg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/clinias-of-tarentum/testimonies",
+        "html": "https://eulogikon.org/works/clinias-tarentum-testimonies-hcg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ev",
-      "title": {
-        "english": "Timoleon",
-        "ancient_greek": "Τιμολέων"
-      },
-      "url_slug": "plutarch-of-chaeronea-timoleon-okg-ev",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clinias-tarentum-testimonies-hcg-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/ariston-of-chios/testimonies",
+    "html": "https://eulogikon.org/works/ariston-chios-testimonies-jyw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ariston-chios-testimonies-jyw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

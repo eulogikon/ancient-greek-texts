@@ -20,8 +20,8 @@ Epicharmus of Syracuse was an archaic Doric comic playwright. Surviving fragment
 ## Works
 
 - [Fragments of Comic Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.md) — *Ἀποσπάσματα περὶ Κωμικῆς Σοφίας* · `bhm-af`
-- [Fragments of Epicharmus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.md) — *Ἐπιχάρμου Ἀποσπάσματα* · `bhm-ac`
 - [Fragments of Epicharmus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ad-bhm-ad.grc.md) — *Ἐπιχάρμου Ἀποσπάσματα* · `bhm-ad`
+- [Fragments of Epicharmus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-fragments-ac-bhm-ac.grc.md) — *Ἐπιχάρμου Ἀποσπάσματα* · `bhm-ac`
 - [Fragments of Pseudepicharmea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-ab-bhm-ab.grc.md) — *Ψευδεπιχάρμου Ἀποσπάσματα* · `bhm-ab`
 - [Fragments of Pseudepicharmea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-pseudepicharmea-aa-bhm-aa.grc.md) — *Ψευδεπιχάρμου Ἀποσπάσματα* · `bhm-aa`
 - [Gnomic and Comic Wisdom Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.md) — *Ἀποσπάσματα* · `bhm-ag`

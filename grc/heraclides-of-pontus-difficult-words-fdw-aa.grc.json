@@ -105,30 +105,30 @@
       },
       "url_slug": "heraclides-of-pontus-prosody-accent-fdw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent",
+        "html": "https://eulogikon.org/works/heraclides-pontus-prosody-accent-fdw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/prosody-accent.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-pontus-prosody-accent-fdw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "okg-eg",
+      "eul_wid": "sys-ae",
       "title": {
-        "english": "Aristides",
-        "ancient_greek": "Ἀριστείδης"
+        "english": "Catastases",
+        "ancient_greek": "Καταστάσεις"
       },
-      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "url_slug": "synesius-of-cyrene-catastases-sys-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aristides-okg-eg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.epub"
+        "html": "https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-catastases-sys-ae.epub"
       }
     },
     {
@@ -139,12 +139,44 @@
       },
       "url_slug": "monimus-of-syracuse-maxims-sayings-fpu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/monimus-of-syracuse/maxims-sayings",
+        "html": "https://eulogikon.org/works/monimus-syracuse-maxims-sayings-fpu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse/maxims-sayings.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/monimus-syracuse-maxims-sayings-fpu-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-eh",
+      "title": {
+        "english": "Demetrius",
+        "ancient_greek": "Δημήτριος"
+      },
+      "url_slug": "plutarch-of-chaeronea-demetrius-okg-eh",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-demetrius-okg-eh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-okg-eh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-okg-eh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-okg-eh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-okg-eh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-demetrius-okg-eh.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ab",
+      "title": {
+        "english": "Fragments 13-190",
+        "ancient_greek": "Ἀποσπάσματα διάφορα"
+      },
+      "url_slug": "theophrastus-of-eresus-fragments-ljk-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-fragments-ljk-ab.epub"
       }
     },
     {
@@ -155,28 +187,28 @@
       },
       "url_slug": "eratosthenes-of-cyrene-cosmic-order-kly-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order",
+        "html": "https://eulogikon.org/works/eratosthenes-cyrene-cosmic-order-kly-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eratosthenes-cyrene-cosmic-order-kly-ac.epub"
       }
     },
     {
-      "eul_wid": "oqk-at",
+      "eul_wid": "oqk-au",
       "title": {
-        "english": "Hermetic Fragments",
-        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+        "english": "Mind to Hermes",
+        "ancient_greek": "Νοῦ πρὸς Ἑρμῆν"
       },
-      "url_slug": "hermetica-fragments-oqk-at",
+      "url_slug": "hermetica-mind-oqk-au",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.epub"
+        "html": "https://eulogikon.org/works/hermetica-mind-oqk-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-mind-oqk-au.epub"
       }
     },
     {
@@ -187,70 +219,38 @@
       },
       "url_slug": "hermodorus-of-ephesus-on-plato-exs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/on-plato",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-on-plato-exs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/on-plato.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-on-plato-exs-ab.epub"
       }
     },
     {
-      "eul_wid": "ljk-aa",
+      "eul_wid": "reo-ai",
       "title": {
-        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
-        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
-      },
-      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
-      }
-    },
-    {
-      "eul_wid": "sys-ad",
-      "title": {
-        "english": "Praise of Baldness",
-        "ancient_greek": "Ἐγκώμιον τῆς Φαλάκρας"
-      },
-      "url_slug": "synesius-of-cyrene-praise-baldness-sys-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/praise-baldness.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ah",
-      "title": {
-        "english": "Problems, Books 1–2",
+        "english": "Problems, Books 3–4",
         "ancient_greek": "Προβλήματα"
       },
-      "url_slug": "alexander-of-aphrodisias-problems-1-2-reo-ah",
+      "url_slug": "alexander-of-aphrodisias-problems-3-4-reo-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/problems-1-2.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-problems-3-4-reo-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-problems-3-4-reo-ai.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/heraclides-of-pontus/difficult-words",
+    "html": "https://eulogikon.org/works/heraclides-pontus-difficult-words-fdw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/difficult-words.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-pontus-difficult-words-fdw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

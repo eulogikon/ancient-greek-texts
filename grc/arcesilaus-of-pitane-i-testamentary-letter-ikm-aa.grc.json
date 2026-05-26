@@ -78,12 +78,28 @@
       },
       "url_slug": "aristotle-dialogic-fragments-hgw-az",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "html": "https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dialogic-fragments-hgw-az.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-dialogic-fragments-hgw-az.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-af",
+      "title": {
+        "english": "Fragments on Medicinal Herbs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν"
+      },
+      "url_slug": "orphic-poems-medicinal-herbs-lea-af",
+      "links": {
+        "html": "https://eulogikon.org/works/orphic-poems-medicinal-herbs-lea-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-medicinal-herbs-lea-af.epub"
       }
     },
     {
@@ -94,28 +110,12 @@
       },
       "url_slug": "epicurus-herodotus-letter-hui-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/herodotus-letter",
+        "html": "https://eulogikon.org/works/epicurus-herodotus-letter-hui-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-herodotus-letter-hui-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-an",
-      "title": {
-        "english": "On Fevers",
-        "ancient_greek": "Περὶ Πυρετῶν"
-      },
-      "url_slug": "alexander-of-aphrodisias-fevers-reo-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/fevers",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-herodotus-letter-hui-ah.epub"
       }
     },
     {
@@ -126,28 +126,12 @@
       },
       "url_slug": "empedocles-of-acragas-nature-perception-die-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/nature-perception",
+        "html": "https://eulogikon.org/works/empedocles-acragas-nature-perception-die-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/nature-perception.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-bk",
-      "title": {
-        "english": "On Prudence",
-        "ancient_greek": "Περὶ φρονήσεως"
-      },
-      "url_slug": "themistius-prudence-rye-bk",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/prudence",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-prudence-rye-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-nature-perception-die-ab.epub"
       }
     },
     {
@@ -158,28 +142,44 @@
       },
       "url_slug": "aristotle-nile-inundation-hgw-bt",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/nile-inundation",
+        "html": "https://eulogikon.org/works/aristotle-nile-inundation-hgw-bt",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-nile-inundation-hgw-bt.epub"
       }
     },
     {
-      "eul_wid": "lea-ae",
+      "eul_wid": "rye-bl",
       "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ ψυχῆς"
       },
-      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "url_slug": "themistius-soul-rye-bl",
       "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.epub"
+        "html": "https://eulogikon.org/works/themistius-soul-rye-bl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-soul-rye-bl.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ao",
+      "title": {
+        "english": "Questions",
+        "ancient_greek": "Ἀπορίαι καὶ λύσεις"
+      },
+      "url_slug": "alexander-of-aphrodisias-questions-reo-ao",
+      "links": {
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-questions-reo-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-questions-reo-ao.epub"
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "url_slug": "ion-of-chios-testimonies-ccg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies",
+        "html": "https://eulogikon.org/works/ion-chios-testimonies-ccg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-testimonies-ccg-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-i/testamentary-letter",
+    "html": "https://eulogikon.org/works/arcesilaus-pitane-testamentary-letter-ikm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i-testamentary-letter-ikm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-i/testamentary-letter.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arcesilaus-pitane-testamentary-letter-ikm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

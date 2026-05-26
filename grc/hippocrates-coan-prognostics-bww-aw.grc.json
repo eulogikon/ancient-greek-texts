@@ -2283,12 +2283,12 @@
       },
       "url_slug": "hippocrates-aphorisms-bww-bq",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "html": "https://eulogikon.org/works/hippocrates-aphorisms-bww-bq",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-aphorisms-bww-bq.epub"
       }
     },
     {
@@ -2299,140 +2299,124 @@
       },
       "url_slug": "hippocrates-carrier-bww-cc",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "html": "https://eulogikon.org/works/hippocrates-carrier-bww-cc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-carrier-bww-cc.epub"
       }
     },
     {
-      "eul_wid": "bww-br",
-      "title": {
-        "english": "Epidemics (Selections from Books I and III)",
-        "ancient_greek": "Ἐπιδημίων"
-      },
-      "url_slug": "hippocrates-epidemics-bww-br",
-      "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.epub"
-      }
-    },
-    {
-      "eul_wid": "bww-bra",
+      "eul_wid": "bww-ch",
       "title": {
         "english": "Epidemics, Book I",
         "ancient_greek": "Ἐπιδημίων Α"
       },
-      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "url_slug": "hippocrates-epidemics-1-bww-ch",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-1-bww-ch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-ch.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-ch.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-ch.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-ch.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-1-bww-ch.epub"
       }
     },
     {
-      "eul_wid": "bww-brb",
+      "eul_wid": "bww-ci",
       "title": {
         "english": "Epidemics, Book II",
         "ancient_greek": "Ἐπιδημίων Β"
       },
-      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "url_slug": "hippocrates-epidemics-2-bww-ci",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-2-bww-ci",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-ci.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-ci.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-ci.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-ci.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-2-bww-ci.epub"
       }
     },
     {
-      "eul_wid": "bww-brc",
+      "eul_wid": "bww-cj",
       "title": {
         "english": "Epidemics, Book III",
         "ancient_greek": "Ἐπιδημίων Γ"
       },
-      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "url_slug": "hippocrates-epidemics-3-bww-cj",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-3-bww-cj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-cj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-cj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-cj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-cj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-3-bww-cj.epub"
       }
     },
     {
-      "eul_wid": "bww-brd",
+      "eul_wid": "bww-ck",
       "title": {
         "english": "Epidemics, Book IV",
         "ancient_greek": "Ἐπιδημίων Δ"
       },
-      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "url_slug": "hippocrates-epidemics-4-bww-ck",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-4-bww-ck",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-4-bww-ck.epub"
       }
     },
     {
-      "eul_wid": "bww-bre",
+      "eul_wid": "bww-cl",
       "title": {
         "english": "Epidemics, Book V",
         "ancient_greek": "Ἐπιδημίων Ε"
       },
-      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "url_slug": "hippocrates-epidemics-5-bww-cl",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-5-bww-cl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-5-bww-cl.epub"
       }
     },
     {
-      "eul_wid": "bww-brf",
+      "eul_wid": "bww-cm",
       "title": {
         "english": "Epidemics, Book VI",
         "ancient_greek": "Ἐπιδημίων Ζ"
       },
-      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "url_slug": "hippocrates-epidemics-6-bww-cm",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-6-bww-cm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-cm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-cm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-cm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-cm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-6-bww-cm.epub"
       }
     },
     {
-      "eul_wid": "bww-brg",
+      "eul_wid": "bww-cn",
       "title": {
         "english": "Epidemics, Book VII",
         "ancient_greek": "Ἐπιδημίων Η"
       },
-      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "url_slug": "hippocrates-epidemics-7-bww-cn",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.epub"
+        "html": "https://eulogikon.org/works/hippocrates-epidemics-7-bww-cn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-cn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-cn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-cn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-cn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-epidemics-7-bww-cn.epub"
       }
     },
     {
@@ -2443,12 +2427,12 @@
       },
       "url_slug": "hippocrates-instructions-bww-bj",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "html": "https://eulogikon.org/works/hippocrates-instructions-bww-bj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-instructions-bww-bj.epub"
       }
     },
     {
@@ -2459,12 +2443,28 @@
       },
       "url_slug": "hippocrates-law-bww-cg",
       "links": {
-        "html": "https://eulogikon.org/grc/hippocrates/law",
+        "html": "https://eulogikon.org/works/hippocrates-law-bww-cg",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-law-bww-cg.epub"
+      }
+    },
+    {
+      "eul_wid": "bww-ae",
+      "title": {
+        "english": "Letters, Decree, Orations",
+        "ancient_greek": "Ἐπιστολαί, Ψήφισμα, Λόγοι"
+      },
+      "url_slug": "hippocrates-letters-decrees-orations-bww-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/hippocrates-letters-decrees-orations-bww-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-letters-decrees-orations-bww-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-letters-decrees-orations-bww-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-letters-decrees-orations-bww-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-letters-decrees-orations-bww-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-letters-decrees-orations-bww-ae.epub"
       }
     }
   ],
@@ -2477,12 +2477,12 @@
       },
       "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "html": "https://eulogikon.org/works/galen-pergamon-against-writers-circuits-qmm-ar",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-against-writers-circuits-qmm-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/galen-pergamon-against-writers-circuits-qmm-ar.epub"
       }
     },
     {
@@ -2493,12 +2493,12 @@
       },
       "url_slug": "hippiatric-compilation-anonymous-london-additions-vjk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/london-additions",
+        "html": "https://eulogikon.org/works/hippiatric-anon-london-additions-vjk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-london-additions-vjk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-london-additions-vjk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-london-additions-vjk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous-london-additions-vjk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippiatric-anon-london-additions-vjk-aa.epub"
       }
     },
     {
@@ -2509,12 +2509,12 @@
       },
       "url_slug": "galen-of-pergamon-customs-qmm-eb",
       "links": {
-        "html": "https://eulogikon.org/grc/galen-of-pergamon/customs",
+        "html": "https://eulogikon.org/works/galen-pergamon-customs-qmm-eb",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-customs-qmm-eb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/galen-pergamon-customs-qmm-eb.epub"
       }
     },
     {
@@ -2525,12 +2525,12 @@
       },
       "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "html": "https://eulogikon.org/works/rufus-ephesus-kidneys-bladder-ojc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus-kidneys-bladder-ojc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/rufus-ephesus-kidneys-bladder-ojc-aa.epub"
       }
     },
     {
@@ -2541,12 +2541,12 @@
       },
       "url_slug": "galen-of-pergamon-causes-diseases-qmm-cr",
       "links": {
-        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases",
+        "html": "https://eulogikon.org/works/galen-pergamon-causes-diseases-qmm-cr",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-causes-diseases-qmm-cr.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/galen-pergamon-causes-diseases-qmm-cr.epub"
       }
     },
     {
@@ -2557,12 +2557,12 @@
       },
       "url_slug": "medical-writers-anonymous-blood-color-phlebotomy-umi-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/medical-writers-anonymous/blood-color-phlebotomy",
+        "html": "https://eulogikon.org/works/med-writers-anon-blood-color-phlebotomy-umi-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous-blood-color-phlebotomy-umi-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/blood-color-phlebotomy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/med-writers-anon-blood-color-phlebotomy-umi-ab.epub"
       }
     },
     {
@@ -2573,12 +2573,12 @@
       },
       "url_slug": "bolus-of-mendes-leucippus-kzk-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/bolus-of-mendes/leucippus",
+        "html": "https://eulogikon.org/works/bolus-mendes-leucippus-kzk-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-leucippus-kzk-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-leucippus-kzk-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-leucippus-kzk-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-leucippus-kzk-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/bolus-mendes-leucippus-kzk-ac.epub"
       }
     },
     {
@@ -2589,22 +2589,22 @@
       },
       "url_slug": "anonymous-medical-writer-fetus-animal-tqu-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-medical-writer/fetus-animal",
+        "html": "https://eulogikon.org/works/med-writer-anon-fetus-animal-tqu-ai",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animal-tqu-ai.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animal-tqu-ai.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animal-tqu-ai.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer-fetus-animal-tqu-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animal.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/med-writer-anon-fetus-animal-tqu-ai.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+    "html": "https://eulogikon.org/works/hippocrates-coan-prognostics-bww-aw",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippocrates-coan-prognostics-bww-aw.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

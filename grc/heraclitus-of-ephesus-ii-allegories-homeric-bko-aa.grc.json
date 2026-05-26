@@ -2206,35 +2206,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "vgs-ab",
+      "eul_wid": "pcs-ae",
       "title": {
-        "english": "Commentaries-Aristotle in Greek",
-        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Fragment from Alanic History",
+        "ancient_greek": "Ἀποσπάσματα Ἀλανικῆς Ἱστορίας"
       },
-      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "url_slug": "arrian-of-nicomedia-alanic-history-pcs-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-dv",
-      "title": {
-        "english": "Demosthenes",
-        "ancient_greek": "Δημοσθένης"
-      },
-      "url_slug": "plutarch-of-chaeronea-demosthenes-okg-dv",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-okg-dv.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-alanic-history-pcs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-alanic-history-pcs-ae.epub"
       }
     },
     {
@@ -2245,28 +2229,44 @@
       },
       "url_slug": "eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eudemus-of-rhodes-i/fragments-aristotelian-logic",
+        "html": "https://eulogikon.org/works/eudemus-rhodes-fragments-aristotelian-logic-fuk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i-fragments-aristotelian-logic-fuk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-i/fragments-aristotelian-logic.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eudemus-rhodes-fragments-aristotelian-logic-fuk-aa.epub"
       }
     },
     {
-      "eul_wid": "pcs-ad",
+      "eul_wid": "okg-dw",
       "title": {
-        "english": "Fragments-Physical Matters",
-        "ancient_greek": "Ἀποσπάσματα Φυσικῶν"
+        "english": "Marcus Cato",
+        "ancient_greek": "Μάρκος Κάτων"
       },
-      "url_slug": "arrian-of-nicomedia-physical-matters-pcs-ad",
+      "url_slug": "plutarch-of-chaeronea-marcus-cato-okg-dw",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/physical-matters",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-marcus-cato-okg-dw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcus-cato-okg-dw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-marcus-cato-okg-dw.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-ac",
+      "title": {
+        "english": "On Porphyry's Isagoge",
+        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+      },
+      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-porphyry-isagoge-vgs-ac.epub"
       }
     },
     {
@@ -2277,12 +2277,12 @@
       },
       "url_slug": "alcmaeon-of-croton-testimonies-bmw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies",
+        "html": "https://eulogikon.org/works/alcmaeon-croton-testimonies-bmw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alcmaeon-croton-testimonies-bmw-aa.epub"
       }
     },
     {
@@ -2293,12 +2293,12 @@
       },
       "url_slug": "anaximander-of-miletus-testimonies-aua-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-testimonies-aua-aa.epub"
       }
     },
     {
@@ -2309,38 +2309,38 @@
       },
       "url_slug": "paron-of-miletus-testimony-avy-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/paron-of-miletus/testimony",
+        "html": "https://eulogikon.org/works/paron-miletus-testimony-avy-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus-testimony-avy-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus-testimony-avy-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus-testimony-avy-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus-testimony-avy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus/testimony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/paron-miletus-testimony-avy-aa.epub"
       }
     },
     {
-      "eul_wid": "sno-af",
+      "eul_wid": "sno-ag",
       "title": {
-        "english": "To Themistius the Philosopher",
-        "ancient_greek": "Θεμιστίῳ φιλοσόφῳ"
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
       },
-      "url_slug": "julian-the-apostate-to-themistius-sno-af",
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-helios-salustius-sno-ag.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-ii/allegories-homeric",
+    "html": "https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-ii-allegories-homeric-bko-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-ii-allegories-homeric-bko-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-ii-allegories-homeric-bko-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-ii-allegories-homeric-bko-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-ii/allegories-homeric.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclitus-ephesus-allegories-homeric-bko-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -71,51 +71,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "lea-ad",
+      "eul_wid": "utq-ac",
       "title": {
-        "english": "Argonautica",
-        "ancient_greek": "Ἀργοναυτικά"
+        "english": "Commentary-Plato's Alcibiades",
+        "ancient_greek": "Σχόλια εἰς τὸν Ἀλκιβιάδην Πλάτωνος"
       },
-      "url_slug": "orphic-poems-argonautica-lea-ad",
+      "url_slug": "olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/argonautica",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/argonautica.epub"
-      }
-    },
-    {
-      "eul_wid": "utq-ab",
-      "title": {
-        "english": "Commentary-Aristotle in Greek",
-        "ancient_greek": "Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους"
-      },
-      "url_slug": "olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-af",
-      "title": {
-        "english": "Deceteric or-Appropriate Speeches to the King",
-        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
-      },
-      "url_slug": "themistius-deeteric-king-speeches-rye-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+        "html": "https://eulogikon.org/works/olympiodorus-alexandria-commentary-alcibiades-utq-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/olympiodorus-alexandria-commentary-alcibiades-utq-ac.epub"
       }
     },
     {
@@ -126,12 +94,12 @@
       },
       "url_slug": "epicurus-letters-fragments-hui-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/letters-fragments",
+        "html": "https://eulogikon.org/works/epicurus-letters-fragments-hui-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letters-fragments-hui-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letters-fragments-hui-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letters-fragments-hui-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letters-fragments-hui-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letters-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-letters-fragments-hui-ag.epub"
       }
     },
     {
@@ -142,12 +110,12 @@
       },
       "url_slug": "nessos-of-chios-homeric-interpretation-coo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/nessos-of-chios/homeric-interpretation",
+        "html": "https://eulogikon.org/works/nessos-chios-homeric-interpretation-coo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/homeric-interpretation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-homeric-interpretation-coo-ab.epub"
       }
     },
     {
@@ -158,12 +126,12 @@
       },
       "url_slug": "dionysius-the-renegade-pleasure-conduct-hje-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct",
+        "html": "https://eulogikon.org/works/dionysius-renegade-pleasure-conduct-hje-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade/pleasure-conduct.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-renegade-pleasure-conduct-hje-aa.epub"
       }
     },
     {
@@ -174,12 +142,44 @@
       },
       "url_slug": "heraclides-of-pontus-prosody-accent-fdw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/heraclides-of-pontus/prosody-accent",
+        "html": "https://eulogikon.org/works/heraclides-pontus-prosody-accent-fdw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-prosody-accent-fdw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/prosody-accent.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-pontus-prosody-accent-fdw-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/orphic-poems-testimonies-lea-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-testimonies-lea-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ah",
+      "title": {
+        "english": "To Those Not Correctly Interpreting the Sophist",
+        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
+      },
+      "url_slug": "themistius-interpreting-sophist-rye-ah",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-interpreting-sophist-rye-ah.epub"
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "url_slug": "callimachus-of-cyrene-baths-pallas-iso-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/baths-pallas.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-baths-pallas-iso-ad.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/damon-the-musician/customs-byzantium",
+    "html": "https://eulogikon.org/works/damon-athens-customs-byzantium-bzy-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician-customs-byzantium-bzy-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician-customs-byzantium-bzy-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician-customs-byzantium-bzy-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician-customs-byzantium-bzy-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician/customs-byzantium.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/damon-athens-customs-byzantium-bzy-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

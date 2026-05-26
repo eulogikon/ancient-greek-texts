@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "fsc-aa",
-      "title": {
-        "english": "Fragments on Cooking and Strategy",
-        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς"
-      },
-      "url_slug": "dionysius-of-sinope-cooking-strategy-aa-fsc-aa",
-      "passages": 71,
-      "links": {
-        "html": "https://eulogikon.org/grc/dionysius-of-sinope/cooking-strategy-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.epub"
-      }
-    },
-    {
       "eul_wid": "fsc-ab",
       "title": {
         "english": "Fragments on Cooking and Strategy",
@@ -69,18 +52,35 @@
       "url_slug": "dionysius-of-sinope-cooking-strategy-ab-fsc-ab",
       "passages": 70,
       "links": {
-        "html": "https://eulogikon.org/grc/dionysius-of-sinope/cooking-strategy-ab",
+        "html": "https://eulogikon.org/works/dionysius-sinope-cooking-strategy-fsc-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-ab-fsc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-sinope-cooking-strategy-fsc-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fsc-aa",
+      "title": {
+        "english": "Fragments on Cooking and Strategy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς"
+      },
+      "url_slug": "dionysius-of-sinope-cooking-strategy-aa-fsc-aa",
+      "passages": 71,
+      "links": {
+        "html": "https://eulogikon.org/works/dionysius-sinope-cooking-strategy-fsc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope-cooking-strategy-aa-fsc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-sinope-cooking-strategy-fsc-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/dionysius-of-sinope",
+    "html": "https://eulogikon.org/authors/dionysius-of-sinope-fsc",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-sinope-fsc.en.txt",

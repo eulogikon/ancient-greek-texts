@@ -540,6 +540,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-okg-cs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-okg-cs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-agis-cleomenes-okg-cs.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-an",
       "title": {
         "english": "Charmides",
@@ -547,12 +563,12 @@
       },
       "url_slug": "plato-charmides-ffk-an",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/charmides",
+        "html": "https://eulogikon.org/works/plato-charmides-ffk-an",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-charmides-ffk-an.epub"
       }
     },
     {
@@ -563,12 +579,44 @@
       },
       "url_slug": "plato-epinomis-ffk-aw",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/epinomis",
+        "html": "https://eulogikon.org/works/plato-epinomis-ffk-aw",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-epinomis-ffk-aw.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-aa",
+      "title": {
+        "english": "Fragments of Parthica, According to John Lydus and Syncellus",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aa-pcs-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-parthica-fragments-pcs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-au",
+      "title": {
+        "english": "Life of Plotinus",
+        "ancient_greek": "Βίος Πλωτίνου"
+      },
+      "url_slug": "porphyry-of-tyre-life-plotinus-udm-au",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-life-plotinus-udm-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-life-plotinus-udm-au.epub"
       }
     },
     {
@@ -579,102 +627,54 @@
       },
       "url_slug": "aristotle-divination-sleep-hgw-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/divination-sleep",
+        "html": "https://eulogikon.org/works/aristotle-divination-sleep-hgw-ao",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divination-sleep-hgw-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divination-sleep.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-divination-sleep-hgw-ao.epub"
       }
     },
     {
-      "eul_wid": "reo-an",
+      "eul_wid": "reo-ao",
       "title": {
-        "english": "On Fevers",
-        "ancient_greek": "Περὶ Πυρετῶν"
+        "english": "Questions",
+        "ancient_greek": "Ἀπορίαι καὶ λύσεις"
       },
-      "url_slug": "alexander-of-aphrodisias-fevers-reo-an",
+      "url_slug": "alexander-of-aphrodisias-questions-reo-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/fevers",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-fevers-reo-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-questions-reo-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-questions-reo-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-questions-reo-ao.epub"
       }
     },
     {
-      "eul_wid": "okg-cr",
+      "eul_wid": "lxq-aa",
       "title": {
-        "english": "On Many Friendships",
-        "ancient_greek": "Περὶ πολυφιλίας"
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
       },
-      "url_slug": "plutarch-of-chaeronea-many-friendships-okg-cr",
+      "url_slug": "diogenes-of-babylon-testimonies-lxq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/many-friendships",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-many-friendships-okg-cr.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/many-friendships.epub"
-      }
-    },
-    {
-      "eul_wid": "oym-aa",
-      "title": {
-        "english": "On the Criterion",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "anonymous-stoic-fragment-criterion-oym-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/anonymous-stoic-fragment/criterion",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment/criterion.epub"
-      }
-    },
-    {
-      "eul_wid": "udw-ad",
-      "title": {
-        "english": "Theological Arithmetic",
-        "ancient_greek": "Θεολογικὴ Ἀριθμητική"
-      },
-      "url_slug": "iamblichus-of-chalcis-theological-arithmetic-udw-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/theological-arithmetic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-theological-arithmetic-udw-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-theological-arithmetic-udw-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-theological-arithmetic-udw-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-theological-arithmetic-udw-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/theological-arithmetic.epub"
-      }
-    },
-    {
-      "eul_wid": "lrm-aa",
-      "title": {
-        "english": "Three Fragments of the Description of Greece",
-        "ancient_greek": "Τρία Ἀποσπάσματα τῆς Περιγραφῆς τῆς Ἑλλάδος"
-      },
-      "url_slug": "heraclides-the-critic-three-fragments-greece-lrm-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/heraclides-the-critic/three-fragments-greece",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic/three-fragments-greece.epub"
+        "html": "https://eulogikon.org/works/diogenes-babylon-testimonies-lxq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-babylon-testimonies-lxq-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/atticus-the-philosopher/divisions-philosophy",
+    "html": "https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/atticus-divisions-philosophy-rai-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

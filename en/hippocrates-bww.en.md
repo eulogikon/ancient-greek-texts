@@ -5,7 +5,7 @@ eul_aid: bww
 canonical: "https://eulogikon.org/authors/hippocrates-and-corpus-bww"
 period: Classical
 dialect: Ionic
-works_count: 65
+works_count: 64
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -22,14 +22,13 @@ Hippocrates, foundational figure of ancient Greek medicine. Surviving works incl
 - [Aphorisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-aphorisms-bww-bq.grc.md) — *Ἀφορισμοί* · `bww-bq`
 - [Carrier](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-carrier-bww-cc.grc.md) — *Φορεύς* · `bww-cc`
 - [Coan Prognostics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-coan-prognostics-bww-aw.grc.md) — *Κῶα Προγνωστικά* · `bww-aw`
-- [Epidemics (Selections from Books I and III)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-bww-br.grc.md) — *Ἐπιδημίων* · `bww-br`
-- [Epidemics, Book I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-bra.grc.md) — *Ἐπιδημίων Α* · `bww-bra`
-- [Epidemics, Book II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-brb.grc.md) — *Ἐπιδημίων Β* · `bww-brb`
-- [Epidemics, Book III](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-brc.grc.md) — *Ἐπιδημίων Γ* · `bww-brc`
-- [Epidemics, Book IV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-brd.grc.md) — *Ἐπιδημίων Δ* · `bww-brd`
-- [Epidemics, Book V](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-bre.grc.md) — *Ἐπιδημίων Ε* · `bww-bre`
-- [Epidemics, Book VI](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-brf.grc.md) — *Ἐπιδημίων Ζ* · `bww-brf`
-- [Epidemics, Book VII](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-brg.grc.md) — *Ἐπιδημίων Η* · `bww-brg`
+- [Epidemics, Book I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-1-bww-ch.grc.md) — *Ἐπιδημίων Α* · `bww-ch`
+- [Epidemics, Book II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-2-bww-ci.grc.md) — *Ἐπιδημίων Β* · `bww-ci`
+- [Epidemics, Book III](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-3-bww-cj.grc.md) — *Ἐπιδημίων Γ* · `bww-cj`
+- [Epidemics, Book IV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-4-bww-ck.grc.md) — *Ἐπιδημίων Δ* · `bww-ck`
+- [Epidemics, Book V](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-5-bww-cl.grc.md) — *Ἐπιδημίων Ε* · `bww-cl`
+- [Epidemics, Book VI](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-6-bww-cm.grc.md) — *Ἐπιδημίων Ζ* · `bww-cm`
+- [Epidemics, Book VII](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-epidemics-7-bww-cn.grc.md) — *Ἐπιδημίων Η* · `bww-cn`
 - [Instructions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-instructions-bww-bj.grc.md) — *Ὑποθῆκαι* · `bww-bj`
 - [Law](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-law-bww-cg.grc.md) — *Νόμος* · `bww-cg`
 - [Letters, Decree, Orations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-letters-decrees-orations-bww-ae.grc.md) — *Ἐπιστολαί, Ψήφισμα, Λόγοι* · `bww-ae`

@@ -464,35 +464,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bf",
+      "eul_wid": "okg-bg",
       "title": {
-        "english": "Comparison of Agesilaus and Pompey",
-        "ancient_greek": "Ἀγησιλάου καὶ Πομπηΐου σύγκρισις"
+        "english": "Comparison of Demetrius and Antony",
+        "ancient_greek": "Σύγκρισις Δημητρίου καὶ Ἀντωνίου"
       },
-      "url_slug": "plutarch-of-chaeronea-agesilaus-pompey-okg-bf",
+      "url_slug": "plutarch-of-chaeronea-demetrius-antony-okg-bg",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus-pompey",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-demetrius-antony-okg-bg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-demetrius-antony-okg-bg.epub"
       }
     },
     {
-      "eul_wid": "msa-ab",
+      "eul_wid": "msa-ac",
       "title": {
-        "english": "Fragments on Ocean Tides",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας"
+        "english": "Fragments on Customs and Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων"
       },
-      "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
+      "url_slug": "posidonius-of-apameia-rhodes-customs-wars-msa-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/ocean-tides",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.epub"
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-customs-wars-msa-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-customs-wars-msa-ac.epub"
       }
     },
     {
@@ -503,60 +503,28 @@
       },
       "url_slug": "musaeus-of-eleusis-theogony-fragments-akk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments",
+        "html": "https://eulogikon.org/works/musaeus-eleusis-theogony-fragments-akk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musaeus-eleusis-theogony-fragments-akk-ab.epub"
       }
     },
     {
-      "eul_wid": "pcs-ar",
+      "eul_wid": "okg-er",
       "title": {
-        "english": "Indica",
-        "ancient_greek": "Ἰνδική"
+        "english": "Lycurgus",
+        "ancient_greek": "Λυκοῦργος"
       },
-      "url_slug": "arrian-of-nicomedia-indica-pcs-ar",
+      "url_slug": "plutarch-of-chaeronea-lycurgus-okg-er",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/indica",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-indica-pcs-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-indica-pcs-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-indica-pcs-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-indica-pcs-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/indica.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-eq",
-      "title": {
-        "english": "Lucullus",
-        "ancient_greek": "Λούκουλλος"
-      },
-      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-bh",
-      "title": {
-        "english": "On Agriculture",
-        "ancient_greek": "Περὶ γεωργίας"
-      },
-      "url_slug": "philo-of-alexandria-agriculture-lgi-bh",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/agriculture",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/agriculture.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-lycurgus-okg-er",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-lycurgus-okg-er.epub"
       }
     },
     {
@@ -567,12 +535,44 @@
       },
       "url_slug": "aresas-of-lucania-human-nature-dck-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aresas-of-lucania/human-nature",
+        "html": "https://eulogikon.org/works/aresas-lucania-human-nature-dck-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania-human-nature-dck-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania-human-nature-dck-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania-human-nature-dck-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania-human-nature-dck-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania/human-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aresas-lucania-human-nature-dck-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bi",
+      "title": {
+        "english": "On Providence",
+        "ancient_greek": "Περὶ Προνοίας"
+      },
+      "url_slug": "philo-of-alexandria-providence-lgi-bi",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-providence-lgi-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-providence-lgi-bi.epub"
+      }
+    },
+    {
+      "eul_wid": "pdw-aa",
+      "title": {
+        "english": "On the Incorporeal",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "basilides-of-alexandria-incorporeal-pdw-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/basilides-alexandria-incorporeal-pdw-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/basilides-alexandria-incorporeal-pdw-aa.epub"
       }
     },
     {
@@ -583,22 +583,22 @@
       },
       "url_slug": "democritus-of-abdera-testimonies-byu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/democritus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/democritus-abdera-testimonies-byu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/democritus-abdera-testimonies-byu-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/socratics-letters/philosophy",
+    "html": "https://eulogikon.org/works/socratics-letters-philosophy-ciu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters-philosophy-ciu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters-philosophy-ciu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters-philosophy-ciu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters-philosophy-ciu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters/philosophy.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/socratics-letters-philosophy-ciu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

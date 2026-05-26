@@ -71,35 +71,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-br",
+      "eul_wid": "sno-ar",
       "title": {
-        "english": "Comparison of Lycurgus and Numa",
-        "ancient_greek": "Λυκούργου καὶ Νομᾶ σύγκρισις"
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
       },
-      "url_slug": "plutarch-of-chaeronea-lycurgus-numa-okg-br",
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lycurgus-numa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-numa-okg-br.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lycurgus-numa.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-epigrams-sno-ar.epub"
       }
     },
     {
-      "eul_wid": "uqe-aa",
+      "eul_wid": "uqe-ab",
       "title": {
-        "english": "Old Scholia on Plato",
+        "english": "Later Scholia on Plato",
         "ancient_greek": "Σχόλια εἰς Πλάτωνα"
       },
-      "url_slug": "anonymous-plato-commentary-scholia-aa-uqe-aa",
+      "url_slug": "anonymous-plato-commentary-scholia-ab-uqe-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-aa.epub"
+        "html": "https://eulogikon.org/works/plato-comm-scholia-uqe-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-comm-scholia-uqe-ab.epub"
       }
     },
     {
@@ -110,12 +110,44 @@
       },
       "url_slug": "teles-of-megara-circumstances-kkk-af",
       "links": {
-        "html": "https://eulogikon.org/grc/teles-of-megara/circumstances",
+        "html": "https://eulogikon.org/works/teles-megara-circumstances-kkk-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/teles-megara-circumstances-kkk-af.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bs",
+      "title": {
+        "english": "On Common Notions to the Stoics",
+        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+      },
+      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-common-notions-okg-bs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-common-notions-okg-bs.epub"
+      }
+    },
+    {
+      "eul_wid": "oym-aa",
+      "title": {
+        "english": "On the Criterion",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-stoic-fragment-criterion-oym-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/stoic-frag-anon-criterion-oym-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-stoic-fragment-criterion-oym-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/stoic-frag-anon-criterion-oym-aa.epub"
       }
     },
     {
@@ -126,28 +158,12 @@
       },
       "url_slug": "critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/critolaus-of-phaselis-philosopher/eternity-cosmos",
+        "html": "https://eulogikon.org/works/critolaus-phaselis-eternity-cosmos-kuu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.epub"
-      }
-    },
-    {
-      "eul_wid": "ovu-ab",
-      "title": {
-        "english": "Opinions (Theodoret Tradition)",
-        "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
-      },
-      "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critolaus-phaselis-eternity-cosmos-kuu-aa.epub"
       }
     },
     {
@@ -158,28 +174,12 @@
       },
       "url_slug": "plato-philebus-ffk-ay",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/philebus",
+        "html": "https://eulogikon.org/works/plato-philebus-ffk-ay",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/philebus.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-aq",
-      "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
-      },
-      "url_slug": "julian-the-apostate-testimonies-sno-aq",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-philebus-ffk-ay.epub"
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "url_slug": "idaeus-of-himera-testimony-czi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/idaeus-of-himera/testimony",
+        "html": "https://eulogikon.org/works/idaeus-himera-testimony-czi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/idaeus-himera-testimony-czi-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/echecrates-of-phlius/testimonies",
+    "html": "https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/echecrates-phlius-testimonies-ffa-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

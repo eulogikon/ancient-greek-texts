@@ -448,12 +448,12 @@
       },
       "url_slug": "xenophanes-of-colophon-epigram-beu-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/epigram",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-epigram-beu-ae.epub"
       }
     },
     {
@@ -464,12 +464,12 @@
       },
       "url_slug": "xenophanes-of-colophon-silli-nature-beu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-silli-nature-beu-aa.epub"
       }
     },
     {
@@ -480,12 +480,12 @@
       },
       "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-piety-festivity-beu-ac.epub"
       }
     },
     {
@@ -496,46 +496,62 @@
       },
       "url_slug": "xenophanes-of-colophon-symposium-piety-beu-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-symposium-piety-beu-ad.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "udm-ao",
+      "eul_wid": "okg-az",
       "title": {
-        "english": "Commentary on Plato's Timaeus (Book I)",
-        "ancient_greek": "Ὑπόμνημα εἰς Πλάτωνος Τίμαιον"
+        "english": "Comparison of Philopoemen and Titus",
+        "ancient_greek": "Σύγκρισις Φιλοποίμενος καὶ Τίτου"
       },
-      "url_slug": "porphyry-of-tyre-timaeus-commentary-ao-udm-ao",
+      "url_slug": "plutarch-of-chaeronea-philopoemen-titus-okg-az",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-ao",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-timaeus-commentary-ao-udm-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-philopoemen-titus-okg-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-titus-okg-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-titus-okg-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-titus-okg-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-titus-okg-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-philopoemen-titus-okg-az.epub"
       }
     },
     {
-      "eul_wid": "rye-af",
+      "eul_wid": "reo-ac",
       "title": {
-        "english": "Deceteric or-Appropriate Speeches to the King",
-        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+        "english": "On Aristotle's Topics Books Eight, Commentary",
+        "ancient_greek": "Εἰς τὰ Ὀκτὼ Βιβλία Τοπικῶν Ἀριστοτέλους Ὑπομνήματα"
       },
-      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "url_slug": "alexander-of-aphrodisias-topics-commentary-reo-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-topics-commentary-reo-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-topics-commentary-reo-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ap",
+      "title": {
+        "english": "On Philosophy from Oracles",
+        "ancient_greek": "Περὶ φιλοσοφίας ἐκ χρησμῶν"
+      },
+      "url_slug": "porphyry-of-tyre-philosophy-oracles-udm-ap",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-philosophy-oracles-udm-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-philosophy-oracles-udm-ap.epub"
       }
     },
     {
@@ -546,12 +562,12 @@
       },
       "url_slug": "aristotle-poetics-hgw-bq",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/poetics",
+        "html": "https://eulogikon.org/works/aristotle-poetics-hgw-bq",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-poetics-hgw-bq.epub"
       }
     },
     {
@@ -562,12 +578,12 @@
       },
       "url_slug": "aristotle-sleep-wakefulness-hgw-al",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/sleep-wakefulness",
+        "html": "https://eulogikon.org/works/aristotle-sleep-wakefulness-hgw-al",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-sleep-wakefulness-hgw-al.epub"
       }
     },
     {
@@ -578,70 +594,54 @@
       },
       "url_slug": "theages-virtue-soul-crq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/theages/virtue-soul",
+        "html": "https://eulogikon.org/works/theages-virtue-soul-crq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages-virtue-soul-crq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages-virtue-soul-crq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages-virtue-soul-crq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages-virtue-soul-crq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages/virtue-soul.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theages-virtue-soul-crq-aa.epub"
       }
     },
     {
-      "eul_wid": "reo-ab",
+      "eul_wid": "okg-eo",
       "title": {
-        "english": "On the Posterior Analytics, Commentary Fragments",
-        "ancient_greek": "Εἰς τὰ Ἀναλυτικὰ Ὕστερα Ἀποσπάσματα Ὑπομνημάτων"
+        "english": "Sertorius",
+        "ancient_greek": "Σερτώριος"
       },
-      "url_slug": "alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab",
+      "url_slug": "plutarch-of-chaeronea-sertorius-okg-eo",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/posterior-analytics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/posterior-analytics-commentary.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-sertorius-okg-eo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-sertorius-okg-eo.epub"
       }
     },
     {
-      "eul_wid": "okg-en",
+      "eul_wid": "rye-ah",
       "title": {
-        "english": "Poplicola",
-        "ancient_greek": "Ποπλικόλας"
+        "english": "To Those Not Correctly Interpreting the Sophist",
+        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
       },
-      "url_slug": "plutarch-of-chaeronea-poplicola-okg-en",
+      "url_slug": "themistius-interpreting-sophist-rye-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/poplicola",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/poplicola.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ay",
-      "title": {
-        "english": "Whether Vice Suffices For Misfortune",
-        "ancient_greek": "Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν"
-      },
-      "url_slug": "plutarch-of-chaeronea-vice-misfortune-okg-ay",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/vice-misfortune",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/vice-misfortune.epub"
+        "html": "https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-interpreting-sophist-rye-ah.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/xenophanes-of-colophon/testimonies",
+    "html": "https://eulogikon.org/works/xenophanes-colophon-testimonies-beu-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-testimonies-beu-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-testimonies-beu-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-testimonies-beu-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-testimonies-beu-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-testimonies-beu-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -2136,35 +2136,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "udm-ar",
+      "eul_wid": "okg-cl",
       "title": {
-        "english": "Against the Christians",
-        "ancient_greek": "Κατὰ Χριστιανῶν"
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
       },
-      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/against-christians",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.epub"
-      }
-    },
-    {
-      "eul_wid": "slg-aa",
-      "title": {
-        "english": "Comparison of Menander and Philistion",
-        "ancient_greek": "Σύγκρισις Μενάνδρου καὶ Φιλίστιωνος"
-      },
-      "url_slug": "menander-and-philistion-comparison-slg-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/menander-and-philistion/comparison",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-comparison-slg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-consolation-wife-okg-cl.epub"
       }
     },
     {
@@ -2175,12 +2159,12 @@
       },
       "url_slug": "epimenides-of-crete-glaucus-aqy-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epimenides-of-crete/glaucus",
+        "html": "https://eulogikon.org/works/epimenides-crete-glaucus-aqy-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/glaucus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epimenides-crete-glaucus-aqy-ae.epub"
       }
     },
     {
@@ -2191,86 +2175,102 @@
       },
       "url_slug": "praxiphanes-of-mytilene-philosophical-fragments-hna-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/praxiphanes-of-mytilene/philosophical-fragments",
+        "html": "https://eulogikon.org/works/praxiphanes-mytilene-philosophical-fragments-hna-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene-philosophical-fragments-hna-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene-philosophical-fragments-hna-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene-philosophical-fragments-hna-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene-philosophical-fragments-hna-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene/philosophical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/praxiphanes-mytilene-philosophical-fragments-hna-aa.epub"
       }
     },
     {
-      "eul_wid": "ljk-ah",
+      "eul_wid": "udm-as",
       "title": {
-        "english": "On Causes of Plants",
-        "ancient_greek": "Περὶ φυτῶν αἰτιῶν"
+        "english": "Life of Pythagoras",
+        "ancient_greek": "Βίος Πυθαγόρου"
       },
-      "url_slug": "theophrastus-of-eresus-causes-plants-ah-ljk-ah",
+      "url_slug": "porphyry-of-tyre-life-pythagoras-udm-as",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/causes-plants-ah",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ah-ljk-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/causes-plants-ah.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-life-pythagoras-udm-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-pythagoras-udm-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-life-pythagoras-udm-as.epub"
       }
     },
     {
-      "eul_wid": "okg-ck",
+      "eul_wid": "ljk-ai",
       "title": {
-        "english": "On Not Needing to Borrow",
-        "ancient_greek": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
+        "english": "On Faintheartedness",
+        "ancient_greek": "Περὶ Δειλίας"
       },
-      "url_slug": "plutarch-of-chaeronea-not-borrowing-okg-ck",
+      "url_slug": "theophrastus-of-eresus-faintheartedness-ljk-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/not-borrowing.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-faintheartedness-ljk-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-faintheartedness-ljk-ai.epub"
       }
     },
     {
-      "eul_wid": "rye-bg",
+      "eul_wid": "ljk-al",
       "title": {
-        "english": "On the Peace of Valens",
-        "ancient_greek": "Ἐπὶ τῆς εἰρήνης Οὐάλεντι"
+        "english": "On Paralysis",
+        "ancient_greek": "Περὶ Παραλύσεως"
       },
-      "url_slug": "themistius-peace-valens-rye-bg",
+      "url_slug": "theophrastus-of-eresus-paralysis-ljk-al",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/peace-valens",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-paralysis-ljk-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-paralysis-ljk-al.epub"
       }
     },
     {
-      "eul_wid": "lgi-ag",
+      "eul_wid": "rye-bn",
       "title": {
-        "english": "Surviving Works of Philo (Bulk Volume)",
-        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
       },
-      "url_slug": "philo-of-alexandria-surviving-works-ag-lgi-ag",
+      "url_slug": "themistius-philopolis-rye-bn",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-ag",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.epub"
+        "html": "https://eulogikon.org/works/themistius-philopolis-rye-bn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-philopolis-rye-bn.epub"
+      }
+    },
+    {
+      "eul_wid": "slg-ab",
+      "title": {
+        "english": "Sentences of Menander and Philistion",
+        "ancient_greek": "Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος"
+      },
+      "url_slug": "menander-and-philistion-sentences-slg-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/menander-philistion-sentences-slg-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion-sentences-slg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/menander-philistion-sentences-slg-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/diogenes-of-oenoanda/sensation-nature",
+    "html": "https://eulogikon.org/works/diogenes-oenoanda-sensation-nature-peg-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-oenoanda-sensation-nature-peg-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

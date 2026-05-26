@@ -182,12 +182,12 @@
       },
       "url_slug": "cassius-longinus-prolegomena-commentary-rmq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cassius-longinus/prolegomena-commentary",
+        "html": "https://eulogikon.org/works/cassius-longinus-prolegomena-commentary-rmq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cassius-longinus-prolegomena-commentary-rmq-aa.epub"
       }
     },
     {
@@ -198,62 +198,30 @@
       },
       "url_slug": "cassius-longinus-rhetoric-rmq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/cassius-longinus/rhetoric",
+        "html": "https://eulogikon.org/works/cassius-longinus-rhetoric-rmq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cassius-longinus-rhetoric-rmq-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "pcs-am",
+      "eul_wid": "pcs-ak",
       "title": {
-        "english": "Art of Tactics",
-        "ancient_greek": "Τέχνη τακτική"
+        "english": "Alexander's Anabasis",
+        "ancient_greek": "Ἀλεξάνδρου Ἀνάβασις"
       },
-      "url_slug": "arrian-of-nicomedia-tactics-pcs-am",
+      "url_slug": "arrian-of-nicomedia-anabasis-pcs-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/tactics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bp",
-      "title": {
-        "english": "Comparison of Nicias and Crassus",
-        "ancient_greek": "Νικίου καὶ Κράσσου σύγκρισις"
-      },
-      "url_slug": "plutarch-of-chaeronea-nicias-crassus-okg-bp",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nicias-crassus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias-crassus.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-ai",
-      "title": {
-        "english": "Fragments of Bithynica",
-        "ancient_greek": "Ἀποσπάσματα Βιθυνικῶν"
-      },
-      "url_slug": "arrian-of-nicomedia-bithynica-fragments-pcs-ai",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-anabasis-pcs-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-anabasis-pcs-ak.epub"
       }
     },
     {
@@ -264,12 +232,44 @@
       },
       "url_slug": "arrian-of-nicomedia-parthica-fragments-aj-pcs-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aj",
+        "html": "https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-parthica-fragments-pcs-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "naw-aa",
+      "title": {
+        "english": "Fragments on Nature and Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης"
+      },
+      "url_slug": "boethus-of-sidon-nature-fate-naw-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/boethus-sidon-nature-fate-naw-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/boethus-sidon-nature-fate-naw-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-am",
+      "title": {
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
+      },
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
+      "links": {
+        "html": "https://eulogikon.org/works/hermetica-hymn-almighty-oqk-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-hymn-almighty-oqk-am.epub"
       }
     },
     {
@@ -280,44 +280,44 @@
       },
       "url_slug": "callimachus-of-cyrene-hecale-iso-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/hecale",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-hecale-iso-aq",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-hecale-iso-aq.epub"
       }
     },
     {
-      "eul_wid": "nac-ab",
+      "eul_wid": "okg-bq",
       "title": {
-        "english": "Physics, Fragments",
-        "ancient_greek": "Φυσικὰ Ἀποσπάσματα"
+        "english": "On Praising Oneself Without Envy",
+        "ancient_greek": "Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως"
       },
-      "url_slug": "arius-didymus-of-alexandria-physics-fragments-nac-ab",
+      "url_slug": "plutarch-of-chaeronea-praising-without-envy-okg-bq",
       "links": {
-        "html": "https://eulogikon.org/grc/arius-didymus-of-alexandria/physics-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/physics-fragments.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-praising-without-envy-okg-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-praising-without-envy-okg-bq.epub"
       }
     },
     {
-      "eul_wid": "oqk-al",
+      "eul_wid": "pcs-an",
       "title": {
-        "english": "Terms of Asclepius to King Ammon",
-        "ancient_greek": "Ὅροι Ἀσκληπιοῦ πρὸς Ἄμμωνα βασιλέα"
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
       },
-      "url_slug": "hermetica-asclepius-ammon-oqk-al",
+      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/asclepius-ammon",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-ammon.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-testimonies-pcs-an.epub"
       }
     },
     {
@@ -328,22 +328,22 @@
       },
       "url_slug": "theagenes-of-rhegium-testimonies-eow-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/theagenes-of-rhegium/testimonies",
+        "html": "https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theagenes-rhegium-testimonies-eow-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/cassius-longinus/excerpts",
+    "html": "https://eulogikon.org/works/cassius-longinus-excerpts-rmq-ac",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cassius-longinus-excerpts-rmq-ac.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

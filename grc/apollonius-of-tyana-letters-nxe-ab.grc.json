@@ -756,12 +756,12 @@
       },
       "url_slug": "apollonius-of-tyana-effects-nxe-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/apollonius-of-tyana/effects",
+        "html": "https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-effects-nxe-ac.epub"
       }
     },
     {
@@ -772,16 +772,32 @@
       },
       "url_slug": "apollonius-of-tyana-hours-day-night-nxe-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/apollonius-of-tyana/hours-day-night",
+        "html": "https://eulogikon.org/works/apollonius-tyana-hours-day-night-nxe-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-hours-day-night-nxe-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-hours-day-night-nxe-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-hours-day-night-nxe-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-hours-day-night-nxe-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/hours-day-night.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-hours-day-night-nxe-aa.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "knc-aa",
+      "title": {
+        "english": "Collection of Marvelous Histories",
+        "ancient_greek": "Συναγωγὴ Θαυμασίων Ἱστοριῶν"
+      },
+      "url_slug": "antigonus-of-carystus-marvelous-histories-knc-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/antigonus-carystus-marvelous-histories-knc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-marvelous-histories-knc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-marvelous-histories-knc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-marvelous-histories-knc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-marvelous-histories-knc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antigonus-carystus-marvelous-histories-knc-aa.epub"
+      }
+    },
     {
       "eul_wid": "kku-aa",
       "title": {
@@ -790,44 +806,28 @@
       },
       "url_slug": "antigonus-of-carystus-ii-italic-history-kku-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/antigonus-of-carystus-ii/italic-history",
+        "html": "https://eulogikon.org/works/antigonus-carystus-italic-history-kku-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii-italic-history-kku-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii-italic-history-kku-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii-italic-history-kku-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii-italic-history-kku-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antigonus-carystus-italic-history-kku-aa.epub"
       }
     },
     {
-      "eul_wid": "vbs-af",
+      "eul_wid": "iru-ah",
       "title": {
-        "english": "Life of Cyriacus",
-        "ancient_greek": "Βίος Κυριακοῦ"
+        "english": "Introduction to Aratus",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὸν Ἄρατον"
       },
-      "url_slug": "cyril-of-scythopolis-life-cyriacus-vbs-af",
+      "url_slug": "aratus-lives-introduction-ah-iru-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-cyriacus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.epub"
-      }
-    },
-    {
-      "eul_wid": "tuq-aa",
-      "title": {
-        "english": "Life of Marcian",
-        "ancient_greek": "Βίος Μαρκιανοῦ"
-      },
-      "url_slug": "aristotle-lives-marcian-tuq-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/aristotle-lives/marcian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.epub"
+        "html": "https://eulogikon.org/works/aratus-introduction-iru-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-introduction-iru-ah.epub"
       }
     },
     {
@@ -838,12 +838,12 @@
       },
       "url_slug": "homer-life-anonymous-life-jho-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/life",
+        "html": "https://eulogikon.org/works/homer-life-jho-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-life-jho-ac.epub"
       }
     },
     {
@@ -854,44 +854,44 @@
       },
       "url_slug": "cyril-of-scythopolis-saba-vbs-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/saba",
+        "html": "https://eulogikon.org/works/cyril-scythopolis-saba-vbs-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cyril-scythopolis-saba-vbs-ah.epub"
       }
     },
     {
-      "eul_wid": "jho-af",
+      "eul_wid": "rjo-ag",
       "title": {
-        "english": "Life of Suidas",
-        "ancient_greek": "Βίος Σουίδα"
+        "english": "Lives and Opinions: Book VII (The Stoics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ζ′"
       },
-      "url_slug": "homer-life-anonymous-suidas-jho-af",
+      "url_slug": "diogenes-of-laertia-lives-stoics-rjo-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/suidas",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.epub"
+        "html": "https://eulogikon.org/works/diogenes-of-laertia-lives-stoics-rjo-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-stoics-rjo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-of-laertia-lives-stoics-rjo-ag.epub"
       }
     },
     {
-      "eul_wid": "rjo-aai",
+      "eul_wid": "ule-aa",
       "title": {
-        "english": "Lives and Opinions: Book IX (Atomists and Sceptics)",
-        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ"
+        "english": "Lives of Aeschines",
+        "ancient_greek": "Βίοι Αἰσχίνου"
       },
-      "url_slug": "diogenes-of-laertia-lives-atomists-sceptics-rjo-aai",
+      "url_slug": "aeschines-lives-lives-ule-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-atomists-sceptics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.epub"
+        "html": "https://eulogikon.org/works/aeschines-lives-ule-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aeschines-lives-ule-aa.epub"
       }
     },
     {
@@ -902,22 +902,22 @@
       },
       "url_slug": "homer-life-anonymous-on-homer-2-jho-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-2",
+        "html": "https://eulogikon.org/works/homer-on-homer-2-jho-ak",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-2-jho-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-on-homer-2-jho-ak.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/apollonius-of-tyana/letters",
+    "html": "https://eulogikon.org/works/apollonius-tyana-letters-nxe-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/letters.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-letters-nxe-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

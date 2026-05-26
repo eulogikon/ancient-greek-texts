@@ -5,7 +5,7 @@ eul_aid: hje
 canonical: "https://eulogikon.org/authors/dionysius-the-renegade-hje"
 period: Classical
 dialect: "Attic (phi, frg)"
-affiliation: Cyrenaic
+affiliation: Stoic
 works_count: 1
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

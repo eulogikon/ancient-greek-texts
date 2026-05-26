@@ -92,19 +92,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "lgs-aa",
+      "eul_wid": "ljk-am",
       "title": {
-        "english": "Commentary-Plato's Theaetetus",
-        "ancient_greek": "Ὑπόμνημα εἰς τὸν Θεαίτητον τοῦ Πλάτωνος"
+        "english": "Characters",
+        "ancient_greek": "Χαρακτῆρες"
       },
-      "url_slug": "anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa",
+      "url_slug": "theophrastus-of-eresus-characters-ljk-am",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-commentary-on-plato-theaetetus/theaetetus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-characters-ljk-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-characters-ljk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-characters-ljk-am.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-am",
+      "title": {
+        "english": "Commentary-Plato's Parmenides",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Παρμενίδην"
+      },
+      "url_slug": "porphyry-of-tyre-plato-parmenides-commentary-udm-am",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-plato-parmenides-commentary-udm-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-plato-parmenides-commentary-udm-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-plato-parmenides-commentary-udm-am.epub"
       }
     },
     {
@@ -115,12 +131,12 @@
       },
       "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-al",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-epigrams-iso-al.epub"
       }
     },
     {
@@ -131,12 +147,12 @@
       },
       "url_slug": "aristotle-history-animals-hgw-av",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "html": "https://eulogikon.org/works/aristotle-history-animals-hgw-av",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-history-animals-hgw-av.epub"
       }
     },
     {
@@ -147,28 +163,28 @@
       },
       "url_slug": "simon-of-athens-horses-form-selection-bxq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/simon-of-athens/horses-form-selection",
+        "html": "https://eulogikon.org/works/simon-athens-horses-form-selection-bxq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simon-athens-horses-form-selection-bxq-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-bg",
+      "eul_wid": "rye-bn",
       "title": {
-        "english": "On the Peace of Valens",
-        "ancient_greek": "Ἐπὶ τῆς εἰρήνης Οὐάλεντι"
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
       },
-      "url_slug": "themistius-peace-valens-rye-bg",
+      "url_slug": "themistius-philopolis-rye-bn",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/peace-valens",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-valens-rye-bg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.epub"
+        "html": "https://eulogikon.org/works/themistius-philopolis-rye-bn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-philopolis-rye-bn.epub"
       }
     },
     {
@@ -179,28 +195,12 @@
       },
       "url_slug": "critias-of-athens-pirithous-bzo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/critias-of-athens/pirithous",
+        "html": "https://eulogikon.org/works/critias-athens-pirithous-bzo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-pirithous-bzo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-pirithous-bzo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-pirithous-bzo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-pirithous-bzo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/pirithous.epub"
-      }
-    },
-    {
-      "eul_wid": "udm-al",
-      "title": {
-        "english": "Sentences Leading to Intelligibles",
-        "ancient_greek": "Ἀποφθέγματα πρὸς Νοητά"
-      },
-      "url_slug": "porphyry-of-tyre-intelligibles-udm-al",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/intelligibles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-intelligibles-udm-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critias-athens-pirithous-bzo-aa.epub"
       }
     },
     {
@@ -211,22 +211,22 @@
       },
       "url_slug": "democritus-of-abdera-testimonies-byu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/democritus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/democritus-abdera-testimonies-byu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/democritus-abdera-testimonies-byu-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
+    "html": "https://eulogikon.org/works/crinis-stoic-logic-fragments-lya-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crinis-stoic-logic-fragments-lya-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

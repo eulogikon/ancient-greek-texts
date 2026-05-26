@@ -71,35 +71,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uyg-aa",
+      "eul_wid": "uzu-ac",
       "title": {
-        "english": "Bibl. codd. 181, 242), Life of Isidore",
-        "ancient_greek": "Βίος Ἰσιδώρου"
+        "english": "Commentary-Epictetus' Handbook",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον"
       },
-      "url_slug": "damascius-of-damascus-life-of-isidore-uyg-aa",
+      "url_slug": "simplicius-of-cilicia-handbook-commentary-uzu-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/damascius-of-damascus/life-of-isidore",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/life-of-isidore.epub"
+        "html": "https://eulogikon.org/works/simplicius-cilicia-handbook-commentary-uzu-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simplicius-cilicia-handbook-commentary-uzu-ac.epub"
       }
     },
     {
-      "eul_wid": "okg-fk",
+      "eul_wid": "okg-cl",
       "title": {
-        "english": "Cimon",
-        "ancient_greek": "Κίμων"
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
       },
-      "url_slug": "plutarch-of-chaeronea-cimon-okg-fk",
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cimon",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-consolation-wife-okg-cl.epub"
       }
     },
     {
@@ -110,76 +110,60 @@
       },
       "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-fragments-iso-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-fragments-iso-ag.epub"
       }
     },
     {
-      "eul_wid": "ree-ab",
+      "eul_wid": "ree-aa",
       "title": {
-        "english": "Fragments on Domestic Life",
-        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκιακοῦ Βίου"
+        "english": "Fragments on a Satyr Play",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σατυρικοῦ Δράματος"
       },
-      "url_slug": "alexander-of-aphrodisias-ii-domestic-life-ree-ab",
+      "url_slug": "alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/domestic-life",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-domestic-life-ree-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-satyr-play-fragments-ree-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-satyr-play-fragments-ree-aa.epub"
       }
     },
     {
-      "eul_wid": "lmc-aa",
+      "eul_wid": "okg-fl",
       "title": {
-        "english": "Fragments on Wisdom",
-        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
+        "english": "Galba",
+        "ancient_greek": "Γάλβας"
       },
-      "url_slug": "crito-of-argos-wisdom-fragments-lmc-aa",
+      "url_slug": "plutarch-of-chaeronea-galba-okg-fl",
       "links": {
-        "html": "https://eulogikon.org/grc/crito-of-argos/wisdom-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-galba-okg-fl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-galba-okg-fl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-galba-okg-fl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-galba-okg-fl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-galba-okg-fl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-galba-okg-fl.epub"
       }
     },
     {
-      "eul_wid": "uzu-ab",
+      "eul_wid": "uyg-ab",
       "title": {
-        "english": "On Aristotle's Categories, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Life of Isidore",
+        "ancient_greek": "Βίος Ἰσιδώρου"
       },
-      "url_slug": "simplicius-of-cilicia-categories-commentary-uzu-ab",
+      "url_slug": "damascius-of-damascus-isidore-uyg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/categories-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ck",
-      "title": {
-        "english": "On Not Needing to Borrow",
-        "ancient_greek": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
-      },
-      "url_slug": "plutarch-of-chaeronea-not-borrowing-okg-ck",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/not-borrowing.epub"
+        "html": "https://eulogikon.org/works/damascius-damascus-isidore-uyg-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/damascius-damascus-isidore-uyg-ab.epub"
       }
     },
     {
@@ -190,22 +174,38 @@
       },
       "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "html": "https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleostratus-tenedos-testimonies-bdq-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lrm-aa",
+      "title": {
+        "english": "Three Fragments of the Description of Greece",
+        "ancient_greek": "Τρία Ἀποσπάσματα τῆς Περιγραφῆς τῆς Ἑλλάδος"
+      },
+      "url_slug": "heraclides-the-critic-three-fragments-greece-lrm-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/heraclides-critic-three-fragments-greece-lrm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-critic-three-fragments-greece-lrm-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta",
+    "html": "https://eulogikon.org/works/melissa-pythagorean-letter-cleareta-jow-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean-letter-cleareta-jow-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean-letter-cleareta-jow-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean-letter-cleareta-jow-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean-letter-cleareta-jow-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/melissa-pythagorean-letter-cleareta-jow-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

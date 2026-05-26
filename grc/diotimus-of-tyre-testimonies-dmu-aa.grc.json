@@ -47,8 +47,8 @@
     {
       "label": "Affiliation",
       "greek": "",
-      "english": "Stoic",
-      "href": "/affiliations/stoic"
+      "english": "Democritean",
+      "href": "/affiliations/democritean"
     }
   ],
   "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> of Diotimus of Tyre is a lost doxographical work known only through a handful of secondary references. Diotimus, a Stoic philosopher of the 1st century BCE, was a noted polemicist against Epicureanism. The work was likely a collection of authoritative statements from earlier philosophers, compiled to serve as a reference for Stoic doctrine or for use in sectarian debate. While no direct quotations from the work survive, its title and genre suggest it was a compilation of philosophical doctrines, focusing on Stoic ethical or physical principles and illustrating the use of authoritative quotations in philosophical argumentation. The work is not directly attested in the manuscript tradition, and its existence is inferred from fragments; it is not listed among Diotimus’s known works in the surviving entry of the Suda. The few surviving testimonia about the work, which discuss criteria for knowledge and the ultimate good, are often mistakenly taken as indications of its original structure. Diotimus is primarily remembered for his polemical forgeries of letters intended to discredit Epicurus. Within this context, the <strong>Testimonies</strong> represents his more scholarly polemical activity, contributing to the tradition of Stoic compilations used in Hellenistic philosophical disputes, though its specific influence remains untraceable.</p>\n</div>",
@@ -85,28 +85,44 @@
       },
       "url_slug": "plato-clitophon-ab-ffk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/clitophon-ab",
+        "html": "https://eulogikon.org/works/plato-clitophon-ffk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-clitophon-ffk-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-bf",
+      "eul_wid": "okg-bg",
       "title": {
-        "english": "Comparison of Agesilaus and Pompey",
-        "ancient_greek": "Ἀγησιλάου καὶ Πομπηΐου σύγκρισις"
+        "english": "Comparison of Demetrius and Antony",
+        "ancient_greek": "Σύγκρισις Δημητρίου καὶ Ἀντωνίου"
       },
-      "url_slug": "plutarch-of-chaeronea-agesilaus-pompey-okg-bf",
+      "url_slug": "plutarch-of-chaeronea-demetrius-antony-okg-bg",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus-pompey",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-pompey-okg-bf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-demetrius-antony-okg-bg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demetrius-antony-okg-bg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-demetrius-antony-okg-bg.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ag",
+      "title": {
+        "english": "Homilies",
+        "ancient_greek": "Ὁμιλίαι"
+      },
+      "url_slug": "synesius-of-cyrene-homilies-sys-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/synesius-cyrene-homilies-sys-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-homilies-sys-ag.epub"
       }
     },
     {
@@ -117,60 +133,44 @@
       },
       "url_slug": "plato-lovers-ffk-bh",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/lovers",
+        "html": "https://eulogikon.org/works/plato-lovers-ffk-bh",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lovers-ffk-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/lovers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-lovers-ffk-bh.epub"
       }
     },
     {
-      "eul_wid": "sys-af",
+      "eul_wid": "ovu-ab",
       "title": {
-        "english": "On Dreams",
-        "ancient_greek": "Περὶ Ἐνυπνίων"
-      },
-      "url_slug": "synesius-of-cyrene-on-dreams-sys-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/on-dreams",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/on-dreams.epub"
-      }
-    },
-    {
-      "eul_wid": "ovu-aa",
-      "title": {
-        "english": "Opinions (Stobaean Tradition)",
+        "english": "Opinions (Theodoret Tradition)",
         "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
       },
-      "url_slug": "aetius-the-doxographer-doctrines-remnants-aa-ovu-aa",
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-aa.epub"
+        "html": "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aetius-doctrines-remnants-ovu-ab.epub"
       }
     },
     {
-      "eul_wid": "uqy-ao",
+      "eul_wid": "uqy-ap",
       "title": {
-        "english": "Physical Instruction",
-        "ancient_greek": "Φυσικὴ Διδασκαλία"
+        "english": "Proclus Diadochus",
+        "ancient_greek": "Σχόλια εἰς τὴν Πλάτωνος Πολιτείαν"
       },
-      "url_slug": "proclus-the-successor-physical-instruction-uqy-ao",
+      "url_slug": "proclus-the-successor-diadochus-uqy-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/physical-instruction",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-physical-instruction-uqy-ao.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-physical-instruction-uqy-ao.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-physical-instruction-uqy-ao.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-physical-instruction-uqy-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/physical-instruction.epub"
+        "html": "https://eulogikon.org/works/proclus-diadochus-uqy-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-diadochus-uqy-ap.epub"
       }
     },
     {
@@ -181,12 +181,12 @@
       },
       "url_slug": "chares-of-mytilene-text-hfs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+        "html": "https://eulogikon.org/works/chares-mytilene-text-hfs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chares-mytilene-text-hfs-ab.epub"
       }
     },
     {
@@ -197,22 +197,22 @@
       },
       "url_slug": "critias-of-athens-testimonies-bzo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/critias-of-athens/testimonies",
+        "html": "https://eulogikon.org/works/critias-athens-testimonies-bzo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critias-athens-testimonies-bzo-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/diotimus-of-tyre/testimonies",
+    "html": "https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diotimus-tyre-testimonies-dmu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

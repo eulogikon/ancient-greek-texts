@@ -71,28 +71,12 @@
       },
       "url_slug": "plato-charmides-ffk-an",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/charmides",
+        "html": "https://eulogikon.org/works/plato-charmides-ffk-an",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fp",
-      "title": {
-        "english": "Dion",
-        "ancient_greek": "Δίων"
-      },
-      "url_slug": "plutarch-of-chaeronea-dion-okg-fp",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/dion",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-charmides-ffk-an.epub"
       }
     },
     {
@@ -103,60 +87,76 @@
       },
       "url_slug": "plato-euthydemus-ffk-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/euthydemus",
+        "html": "https://eulogikon.org/works/plato-euthydemus-ffk-ai",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthydemus-ffk-ai.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthydemus-ffk-ai.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthydemus-ffk-ai.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthydemus-ffk-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/euthydemus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-euthydemus-ffk-ai.epub"
       }
     },
     {
-      "eul_wid": "pcs-aa",
+      "eul_wid": "pcs-ae",
       "title": {
-        "english": "Fragments of Parthica, According to John Lydus and Syncellus",
-        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+        "english": "Fragment from Alanic History",
+        "ancient_greek": "Ἀποσπάσματα Ἀλανικῆς Ἱστορίας"
       },
-      "url_slug": "arrian-of-nicomedia-parthica-fragments-aa-pcs-aa",
+      "url_slug": "arrian-of-nicomedia-alanic-history-pcs-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-alanic-history-pcs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alanic-history-pcs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-alanic-history-pcs-ae.epub"
       }
     },
     {
-      "eul_wid": "pcs-ad",
+      "eul_wid": "okg-al",
       "title": {
-        "english": "Fragments-Physical Matters",
-        "ancient_greek": "Ἀποσπάσματα Φυσικῶν"
+        "english": "On the Pythia Not Giving Oracles in Verse Now",
+        "ancient_greek": "Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν"
       },
-      "url_slug": "arrian-of-nicomedia-physical-matters-pcs-ad",
+      "url_slug": "plutarch-of-chaeronea-pythia-verse-oracles-okg-al",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/physical-matters",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-physical-matters-pcs-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-pythia-verse-oracles-okg-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pythia-verse-oracles-okg-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pythia-verse-oracles-okg-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pythia-verse-oracles-okg-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pythia-verse-oracles-okg-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-pythia-verse-oracles-okg-al.epub"
       }
     },
     {
-      "eul_wid": "okg-ak",
+      "eul_wid": "okg-fq",
       "title": {
-        "english": "How One Might Perceive His Progress in Virtue",
-        "ancient_greek": "Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή"
+        "english": "Otho",
+        "ancient_greek": "Ὄθων"
       },
-      "url_slug": "plutarch-of-chaeronea-progress-virtue-okg-ak",
+      "url_slug": "plutarch-of-chaeronea-otho-okg-fq",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/progress-virtue",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-progress-virtue-okg-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-otho-okg-fq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-otho-okg-fq.epub"
+      }
+    },
+    {
+      "eul_wid": "ozg-aa",
+      "title": {
+        "english": "Physiognomic Fragment",
+        "ancient_greek": "Φυσιογνωμονικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "polemon-laodicea-physiognomic-ozg-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/polemon-laodicea-physiognomic-ozg-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/polemon-laodicea-physiognomic-ozg-aa.epub"
       }
     },
     {
@@ -167,12 +167,12 @@
       },
       "url_slug": "thales-of-miletus-nautical-astronomy-apa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy",
+        "html": "https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/nautical-astronomy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-nautical-astronomy-apa-ab.epub"
       }
     },
     {
@@ -183,22 +183,22 @@
       },
       "url_slug": "epicurus-vatican-gnomology-hui-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/vatican-gnomology",
+        "html": "https://eulogikon.org/works/epicurus-vatican-gnomology-hui-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-vatican-gnomology-hui-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-vatican-gnomology-hui-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-vatican-gnomology-hui-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-vatican-gnomology-hui-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-vatican-gnomology-hui-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/butherus/nature-numbers",
+    "html": "https://eulogikon.org/works/butherus-nature-numbers-rqw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/butherus-nature-numbers-rqw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

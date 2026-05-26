@@ -175,12 +175,12 @@
       },
       "url_slug": "hierocles-the-stoic-ethical-elements-pnw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/ethical-elements",
+        "html": "https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-elements.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-elements-pnw-ac.epub"
       }
     },
     {
@@ -191,62 +191,94 @@
       },
       "url_slug": "hierocles-the-stoic-fragments-pnw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/fragments",
+        "html": "https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-fragments-pnw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "sno-ab",
+      "eul_wid": "okg-dj",
       "title": {
-        "english": "Consolatithe Departure of Most Noble Salustius",
-        "ancient_greek": "Ἐπὶ τῇ ἐξόδῳ τοῦ ἀγαθωτάτου Σαλουστίου"
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
       },
-      "url_slug": "julian-the-apostate-consolation-salustius-sno-ab",
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/consolation-salustius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/consolation-salustius.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-aemilius-paulus-okg-dj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-aemilius-paulus-okg-dj.epub"
       }
     },
     {
-      "eul_wid": "okg-cg",
+      "eul_wid": "uxc-ah",
       "title": {
-        "english": "On Affection for Offspring",
-        "ancient_greek": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους"
       },
-      "url_slug": "plutarch-of-chaeronea-affection-offspring-okg-cg",
+      "url_slug": "john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/affection-offspring",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/affection-offspring.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-commentaries-aristotle-uxc-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-commentaries-aristotle-uxc-ah.epub"
       }
     },
     {
-      "eul_wid": "uxc-ag",
+      "eul_wid": "vcm-aa",
       "title": {
-        "english": "On Aristotle's Physics Books, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους"
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὴν Πορφυρίου Εἰσαγωγήν"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-physics-uxc-ag",
+      "url_slug": "david-the-invincible-commentary-aristotle-vcm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-physics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-physics-uxc-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-physics-uxc-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-physics-uxc-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-physics-uxc-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-physics.epub"
+        "html": "https://eulogikon.org/works/david-invincible-commentary-aristotle-vcm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/david-invincible-commentary-aristotle-vcm-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-epigrams-sno-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fj",
+      "title": {
+        "english": "Nicias",
+        "ancient_greek": "Νικίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-nicias-okg-fj",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-nicias-okg-fj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-nicias-okg-fj.epub"
       }
     },
     {
@@ -257,28 +289,28 @@
       },
       "url_slug": "melissus-of-samos-nature-being-diy-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/melissus-of-samos/nature-being",
+        "html": "https://eulogikon.org/works/melissus-samos-nature-being-diy-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/nature-being.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/melissus-samos-nature-being-diy-ab.epub"
       }
     },
     {
-      "eul_wid": "uzu-af",
+      "eul_wid": "okg-ch",
       "title": {
-        "english": "On the Heavens, Book I",
-        "ancient_greek": "Περὶ οὐρανοῦ, Βιβλίον Αʹ"
+        "english": "On the Malice of Herodotus",
+        "ancient_greek": "Περὶ τῆς Ἡροδότου κακοηθείας"
       },
-      "url_slug": "simplicius-of-cilicia-heavens-book-1-uzu-af",
+      "url_slug": "plutarch-of-chaeronea-malice-herodotus-okg-ch",
       "links": {
-        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/heavens-book-1",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-malice-herodotus-okg-ch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-malice-herodotus-okg-ch.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-malice-herodotus-okg-ch.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-malice-herodotus-okg-ch.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-malice-herodotus-okg-ch.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-malice-herodotus-okg-ch.epub"
       }
     },
     {
@@ -289,54 +321,22 @@
       },
       "url_slug": "eurytus-the-pythagorean-testimonies-eyw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eurytus-the-pythagorean/testimonies",
+        "html": "https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-aq",
-      "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
-      },
-      "url_slug": "julian-the-apostate-testimonies-sno-aq",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-di",
-      "title": {
-        "english": "Titus Flamininus",
-        "ancient_greek": "Τίτος Φλαμινῖνος"
-      },
-      "url_slug": "plutarch-of-chaeronea-titus-flamininus-okg-di",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/titus-flamininus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/titus-flamininus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eurytus-pythagorean-testimonies-eyw-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/hierocles-the-stoic/ethical-fragments",
+    "html": "https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-fragments-pnw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

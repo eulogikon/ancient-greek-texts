@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "eds-aa",
-      "title": {
-        "english": "Fragments of a Naval Comedy",
-        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
-      },
-      "url_slug": "demetrius-the-comic-poet-naval-comedy-aa-eds-aa",
-      "passages": 9,
-      "links": {
-        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.epub"
-      }
-    },
-    {
       "eul_wid": "eds-ab",
       "title": {
         "english": "Fragments of a Naval Comedy",
@@ -69,18 +52,35 @@
       "url_slug": "demetrius-the-comic-poet-naval-comedy-ab-eds-ab",
       "passages": 8,
       "links": {
-        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-ab",
+        "html": "https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-ab-eds-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demetrius-comic-naval-comedy-eds-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "eds-aa",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-aa-eds-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet-naval-comedy-aa-eds-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demetrius-comic-naval-comedy-eds-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/demetrius-the-comic-poet",
+    "html": "https://eulogikon.org/authors/demetrius-the-comic-poet-eds",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-the-comic-poet-eds.en.txt",

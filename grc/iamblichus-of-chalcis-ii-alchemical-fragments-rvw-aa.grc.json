@@ -127,19 +127,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uzu-ac",
+      "eul_wid": "uzu-ad",
       "title": {
-        "english": "Commentary-Epictetus' Handbook",
-        "ancient_greek": "Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον"
+        "english": "Commentary on the Physics",
+        "ancient_greek": "Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους"
       },
-      "url_slug": "simplicius-of-cilicia-handbook-commentary-uzu-ac",
+      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/handbook-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.epub"
+        "html": "https://eulogikon.org/works/simplicius-cilicia-commentary-aristotle-uzu-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simplicius-cilicia-commentary-aristotle-uzu-ad.epub"
       }
     },
     {
@@ -150,12 +150,12 @@
       },
       "url_slug": "arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications",
+        "html": "https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arcesilaus-pitane-epitaphs-dedications-jem-aa.epub"
       }
     },
     {
@@ -166,12 +166,12 @@
       },
       "url_slug": "plato-gorgias-ffk-bb",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/gorgias",
+        "html": "https://eulogikon.org/works/plato-gorgias-ffk-bb",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-gorgias-ffk-bb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/gorgias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-gorgias-ffk-bb.epub"
       }
     },
     {
@@ -182,12 +182,28 @@
       },
       "url_slug": "aristotle-metaphysics-hgw-bj",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/metaphysics",
+        "html": "https://eulogikon.org/works/aristotle-metaphysics-hgw-bj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/metaphysics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-metaphysics-hgw-bj.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cg",
+      "title": {
+        "english": "On Affection for Offspring",
+        "ancient_greek": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-affection-offspring-okg-cg",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-affection-offspring-okg-cg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-affection-offspring-okg-cg.epub"
       }
     },
     {
@@ -198,70 +214,54 @@
       },
       "url_slug": "aristotle-plants-hgw-bx",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "html": "https://eulogikon.org/works/aristotle-plants-hgw-bx",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-plants-hgw-bx.epub"
       }
     },
     {
-      "eul_wid": "rye-aa",
+      "eul_wid": "okg-bx",
       "title": {
-        "english": "Oration to Emperor Constantius on the Philosopher King",
-        "ancient_greek": "Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα"
+        "english": "On the Daimonion of Socrates",
+        "ancient_greek": "Περὶ τοῦ Σωκράτους δαιμονίου"
       },
-      "url_slug": "themistius-oration-constantius-philosopher-king-rye-aa",
+      "url_slug": "plutarch-of-chaeronea-daimonion-socrates-okg-bx",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/oration-constantius-philosopher-king",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-daimonion-socrates-okg-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daimonion-socrates-okg-bx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daimonion-socrates-okg-bx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daimonion-socrates-okg-bx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-daimonion-socrates-okg-bx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-daimonion-socrates-okg-bx.epub"
       }
     },
     {
-      "eul_wid": "okg-bw",
+      "eul_wid": "rye-ab",
       "title": {
-        "english": "Proverbs Used by Alexandrians",
-        "ancient_greek": "Παροιμίαι αἷς Ἀλεξανδρεῖς ἐχρῶντο"
+        "english": "Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus",
+        "ancient_greek": "Χαριστήριος τῷ αὐτοκράτορι ὑπὲρ τῆς εἰρήνης καὶ"
       },
-      "url_slug": "plutarch-of-chaeronea-alexandrian-proverbs-okg-bw",
+      "url_slug": "themistius-peace-consulship-saturninus-rye-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexandrian-proverbs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexandrian-proverbs-okg-bw.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexandrian-proverbs-okg-bw.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexandrian-proverbs-okg-bw.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexandrian-proverbs-okg-bw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexandrian-proverbs.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cf",
-      "title": {
-        "english": "Whether Virtue Is Teachable",
-        "ancient_greek": "Εἰ διδακτὸν ἡ ἀρετή"
-      },
-      "url_slug": "plutarch-of-chaeronea-virtue-teachable-okg-cf",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtue-teachable",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-teachable.epub"
+        "html": "https://eulogikon.org/works/themistius-peace-consulship-saturninus-rye-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-peace-consulship-saturninus-rye-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments",
+    "html": "https://eulogikon.org/works/iamblichus-chalcis-alchemical-fragments-rvw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-alchemical-fragments-rvw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

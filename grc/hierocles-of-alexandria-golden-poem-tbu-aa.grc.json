@@ -2654,6 +2654,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "ljk-ag",
+      "title": {
+        "english": "Enquiry into Plants",
+        "ancient_greek": "Περὶ φυτῶν ἱστορία"
+      },
+      "url_slug": "theophrastus-of-eresus-enquiry-plants-ljk-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-enquiry-plants-ljk-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-enquiry-plants-ljk-ag.epub"
+      }
+    },
+    {
       "eul_wid": "ipc-aa",
       "title": {
         "english": "Fragments on Philosophy and Nature",
@@ -2661,12 +2677,12 @@
       },
       "url_slug": "strato-of-lampsacus-philosophy-nature-ipc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/strato-of-lampsacus/philosophy-nature",
+        "html": "https://eulogikon.org/works/strato-lampsacus-philosophy-nature-ipc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/strato-lampsacus-philosophy-nature-ipc-aa.epub"
       }
     },
     {
@@ -2677,76 +2693,60 @@
       },
       "url_slug": "euphantus-of-olynthus-historical-fragments-hmq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+        "html": "https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/euphantus-olynthus-historical-fragments-hmq-aa.epub"
       }
     },
     {
-      "eul_wid": "uqe-aa",
+      "eul_wid": "uqe-ab",
       "title": {
-        "english": "Old Scholia on Plato",
+        "english": "Later Scholia on Plato",
         "ancient_greek": "Σχόλια εἰς Πλάτωνα"
       },
-      "url_slug": "anonymous-plato-commentary-scholia-aa-uqe-aa",
+      "url_slug": "anonymous-plato-commentary-scholia-ab-uqe-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-aa.epub"
+        "html": "https://eulogikon.org/works/plato-comm-scholia-uqe-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-comm-scholia-uqe-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-cc",
+      "eul_wid": "okg-cd",
       "title": {
-        "english": "On Flesh-Eating Discourse A",
-        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+        "english": "On Flesh-Eating Discourse B",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος β′"
       },
-      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cd-okg-cd",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flesh-eating-cc",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flesh-eating-cc.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flesh-eating-okg-cd.epub"
       }
     },
     {
-      "eul_wid": "udm-ap",
+      "eul_wid": "udm-aq",
       "title": {
-        "english": "On Philosophy from Oracles",
-        "ancient_greek": "Περὶ φιλοσοφίας ἐκ χρησμῶν"
+        "english": "On the Cave of the Nymphs",
+        "ancient_greek": "Περὶ τοῦ Νυμφῶν Ἄντρου"
       },
-      "url_slug": "porphyry-of-tyre-philosophy-oracles-udm-ap",
+      "url_slug": "porphyry-of-tyre-cave-nymphs-udm-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/philosophy-oracles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-philosophy-oracles-udm-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-an",
-      "title": {
-        "english": "On Smells and Odors",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "theophrastus-of-eresus-smells-odors-ljk-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/smells-odors",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-odors-ljk-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-odors-ljk-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-odors-ljk-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-odors-ljk-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/smells-odors.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-cave-nymphs-udm-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-cave-nymphs-udm-aq.epub"
       }
     },
     {
@@ -2757,12 +2757,12 @@
       },
       "url_slug": "anaximander-of-miletus-nature-infinite-aua-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite",
+        "html": "https://eulogikon.org/works/anaximander-miletus-nature-infinite-aua-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-nature-infinite-aua-ab.epub"
       }
     },
     {
@@ -2773,22 +2773,22 @@
       },
       "url_slug": "cleitarchus-the-historian-text-hyo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cleitarchus-the-historian/text",
+        "html": "https://eulogikon.org/works/cleitarchus-text-hyo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian-text-hyo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian-text-hyo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian-text-hyo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian-text-hyo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleitarchus-text-hyo-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/hierocles-of-alexandria/golden-poem",
+    "html": "https://eulogikon.org/works/hierocles-alexandria-golden-poem-tbu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria/golden-poem.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-alexandria-golden-poem-tbu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

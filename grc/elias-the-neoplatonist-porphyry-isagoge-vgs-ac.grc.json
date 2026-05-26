@@ -784,12 +784,12 @@
       },
       "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
+        "html": "https://eulogikon.org/works/elias-neoplatonist-commentaries-aristotle-vgs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-commentaries-aristotle-vgs-ab.epub"
       }
     },
     {
@@ -800,46 +800,62 @@
       },
       "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
+        "html": "https://eulogikon.org/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "ljk-ak",
+      "eul_wid": "rye-ac",
       "title": {
-        "english": "On Dizziness",
-        "ancient_greek": "Περὶ τῆς Ἰλιγγιάδος"
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
       },
-      "url_slug": "theophrastus-of-eresus-dizziness-ljk-ak",
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/dizziness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/dizziness.epub"
+        "html": "https://eulogikon.org/works/themistius-embassy-constantinople-rome-rye-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-embassy-constantinople-rome-rye-ac.epub"
       }
     },
     {
-      "eul_wid": "reo-ap",
+      "eul_wid": "rlc-aa",
       "title": {
-        "english": "On Fate",
-        "ancient_greek": "Περὶ Εἱμαρμένης"
+        "english": "Enneads",
+        "ancient_greek": "Ἐννεάδες"
       },
-      "url_slug": "alexander-of-aphrodisias-on-fate-reo-ap",
+      "url_slug": "plotinus-enneads-rlc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/on-fate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.epub"
+        "html": "https://eulogikon.org/works/plotinus-enneads-rlc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plotinus-enneads-rlc-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cg",
+      "title": {
+        "english": "On Affection for Offspring",
+        "ancient_greek": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-affection-offspring-okg-cg",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-affection-offspring-okg-cg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-affection-offspring-okg-cg.epub"
       }
     },
     {
@@ -850,44 +866,44 @@
       },
       "url_slug": "clinias-of-tarentum-piety-virtue-hcg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/clinias-of-tarentum/piety-virtue",
+        "html": "https://eulogikon.org/works/clinias-tarentum-piety-virtue-hcg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clinias-tarentum-piety-virtue-hcg-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-eu",
+      "eul_wid": "ljk-ao",
       "title": {
-        "english": "Pompeius",
-        "ancient_greek": "Πομπήϊος"
+        "english": "On Smells",
+        "ancient_greek": "Περὶ Ὀσμῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-pompeius-okg-eu",
+      "url_slug": "theophrastus-of-eresus-smells-ljk-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pompeius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pompeius-okg-eu.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pompeius.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-smells-ljk-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-smells-ljk-ao.epub"
       }
     },
     {
-      "eul_wid": "oss-aa",
+      "eul_wid": "ovu-aa",
       "title": {
-        "english": "Sentences",
-        "ancient_greek": "Γνῶμαι"
+        "english": "Opinions (Stobaean Tradition)",
+        "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
       },
-      "url_slug": "pseudo-phocylides-sentences-oss-aa",
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-aa-ovu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-phocylides/sentences",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.epub"
+        "html": "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aetius-doctrines-remnants-ovu-aa.epub"
       }
     },
     {
@@ -898,54 +914,38 @@
       },
       "url_slug": "thales-of-miletus-testimonies-apa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/thales-miletus-testimonies-apa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-testimonies-apa-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-ab",
+      "eul_wid": "okg-ev",
       "title": {
-        "english": "Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus",
-        "ancient_greek": "Χαριστήριος τῷ αὐτοκράτορι ὑπὲρ τῆς εἰρήνης καὶ"
+        "english": "Timoleon",
+        "ancient_greek": "Τιμολέων"
       },
-      "url_slug": "themistius-peace-consulship-saturninus-rye-ab",
+      "url_slug": "plutarch-of-chaeronea-timoleon-okg-ev",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/peace-consulship-saturninus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-consulship-saturninus.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cf",
-      "title": {
-        "english": "Whether Virtue Is Teachable",
-        "ancient_greek": "Εἰ διδακτὸν ἡ ἀρετή"
-      },
-      "url_slug": "plutarch-of-chaeronea-virtue-teachable-okg-cf",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtue-teachable",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-teachable.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-timoleon-okg-ev",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-timoleon-okg-ev.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge",
+    "html": "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-porphyry-isagoge-vgs-ac.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

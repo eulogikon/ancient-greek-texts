@@ -316,35 +316,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "tni-aa",
+      "eul_wid": "tsi-aa",
       "title": {
-        "english": "Anthologium",
-        "ancient_greek": "Ἀνθολόγιον"
+        "english": "Commentary-Euclid's Data",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα"
       },
-      "url_slug": "john-stobaeus-anthologium-tni-aa",
+      "url_slug": "marinus-of-neapolis-euclid-data-tsi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/john-stobaeus/anthologium",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus/anthologium.epub"
+        "html": "https://eulogikon.org/works/marinus-neapolis-euclid-data-tsi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/marinus-neapolis-euclid-data-tsi-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-bk",
+      "eul_wid": "okg-bl",
       "title": {
-        "english": "Comparison of Pericles and Fabius",
-        "ancient_greek": "Περικλέους καὶ Φαβίου σύγκρισις"
+        "english": "Comparison of Solon and Poplicola",
+        "ancient_greek": "Σόλωνος καὶ Ποπλικόλα σύγκρισις"
       },
-      "url_slug": "plutarch-of-chaeronea-pericles-fabius-okg-bk",
+      "url_slug": "plutarch-of-chaeronea-solon-poplicola-okg-bl",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles-fabius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-solon-poplicola-okg-bl.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-exhortation-nicomedians-rye-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-exhortation-nicomedians-rye-al.epub"
       }
     },
     {
@@ -355,12 +371,12 @@
       },
       "url_slug": "nessos-of-chios-homeric-interpretation-coo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/nessos-of-chios/homeric-interpretation",
+        "html": "https://eulogikon.org/works/nessos-chios-homeric-interpretation-coo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/homeric-interpretation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-homeric-interpretation-coo-ab.epub"
       }
     },
     {
@@ -371,12 +387,12 @@
       },
       "url_slug": "aristotle-memory-recollection-hgw-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "html": "https://eulogikon.org/works/aristotle-memory-recollection-hgw-ai",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-memory-recollection-hgw-ai.epub"
       }
     },
     {
@@ -387,28 +403,12 @@
       },
       "url_slug": "melissus-of-samos-nature-being-diy-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/melissus-of-samos/nature-being",
+        "html": "https://eulogikon.org/works/melissus-samos-nature-being-diy-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos/nature-being.epub"
-      }
-    },
-    {
-      "eul_wid": "rqw-aa",
-      "title": {
-        "english": "On the Nature of Numbers",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "butherus-nature-numbers-rqw-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/butherus/nature-numbers",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus-nature-numbers-rqw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/melissus-samos-nature-being-diy-ab.epub"
       }
     },
     {
@@ -419,12 +419,12 @@
       },
       "url_slug": "philolaus-of-croton-soul-cosmos-bue-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/philolaus-of-croton/soul-cosmos",
+        "html": "https://eulogikon.org/works/philolaus-croton-soul-cosmos-bue-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philolaus-croton-soul-cosmos-bue-ac.epub"
       }
     },
     {
@@ -435,22 +435,22 @@
       },
       "url_slug": "hippasus-of-metapontum-testimonies-bng-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hippasus-of-metapontum/testimonies",
+        "html": "https://eulogikon.org/works/hippasus-metapontum-testimonies-bng-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum-testimonies-bng-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum-testimonies-bng-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum-testimonies-bng-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum-testimonies-bng-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippasus-metapontum-testimonies-bng-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/ariston-of-ceos/philosophical-doctrines",
+    "html": "https://eulogikon.org/works/ariston-ceos-philosophical-doctrines-kpa-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos/philosophical-doctrines.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ariston-ceos-philosophical-doctrines-kpa-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

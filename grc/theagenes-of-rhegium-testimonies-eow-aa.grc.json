@@ -92,19 +92,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-ds",
+      "eul_wid": "ojw-ac",
       "title": {
-        "english": "Caius Marius",
-        "ancient_greek": "Γάϊος Μάριος"
+        "english": "Discourses of Epictetus by Arrian",
+        "ancient_greek": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-caius-marius-okg-ds",
+      "url_slug": "epictetus-discourses-ojw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/caius-marius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/caius-marius.epub"
+        "html": "https://eulogikon.org/works/epictetus-discourses-ojw-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-discourses-ojw-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "qhm-aa",
+      "title": {
+        "english": "Introduction to the Dialogues of Plato",
+        "ancient_greek": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
+      },
+      "url_slug": "albinus-the-platonist-plato-dialogues-intro-qhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/albinus-plato-dialogues-intro-qhm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/albinus-plato-dialogues-intro-qhm-aa.epub"
       }
     },
     {
@@ -115,44 +131,28 @@
       },
       "url_slug": "lycon-of-alexandria-last-will-testament-iwa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/lycon-of-alexandria/last-will-testament",
+        "html": "https://eulogikon.org/works/lycon-alexandria-last-will-testament-iwa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria/last-will-testament.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/lycon-alexandria-last-will-testament-iwa-aa.epub"
       }
     },
     {
-      "eul_wid": "ojw-ab",
+      "eul_wid": "okg-dt",
       "title": {
-        "english": "Letter of Arrian to Lucius Gellius",
-        "ancient_greek": "Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέλλιον"
+        "english": "On Idle Talk",
+        "ancient_greek": "Περὶ ἀδολεσχίας"
       },
-      "url_slug": "epictetus-letter-to-gellius-ojw-ab",
+      "url_slug": "plutarch-of-chaeronea-idle-talk-okg-dt",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
-      }
-    },
-    {
-      "eul_wid": "uxc-ad",
-      "title": {
-        "english": "On Aristotle's Books-the Soul, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
-      },
-      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/on-soul-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-idle-talk-okg-dt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-idle-talk-okg-dt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-idle-talk-okg-dt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-idle-talk-okg-dt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-idle-talk-okg-dt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-idle-talk-okg-dt.epub"
       }
     },
     {
@@ -163,12 +163,28 @@
       },
       "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "html": "https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-elea-nature-plurality-bwc-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-ae",
+      "title": {
+        "english": "On the Use and Construction of the Astrolabe",
+        "ancient_greek": "Περὶ τῆς χρήσεως καὶ κατασκευῆς τοῦ ἀστρολάβου"
+      },
+      "url_slug": "john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae.epub"
       }
     },
     {
@@ -179,28 +195,12 @@
       },
       "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "html": "https://eulogikon.org/works/carneiscus-philistas-ii-ibg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.epub"
-      }
-    },
-    {
-      "eul_wid": "pzk-ab",
-      "title": {
-        "english": "Sentences",
-        "ancient_greek": "Γνῶμαι"
-      },
-      "url_slug": "secundus-the-silent-sentences-pzk-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/carneiscus-philistas-ii-ibg-aa.epub"
       }
     },
     {
@@ -211,22 +211,22 @@
       },
       "url_slug": "cratylus-the-heraclitean-testimonies-bmm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cratylus-the-heraclitean/testimonies",
+        "html": "https://eulogikon.org/works/cratylus-heraclitean-testimonies-bmm-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cratylus-heraclitean-testimonies-bmm-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/theagenes-of-rhegium/testimonies",
+    "html": "https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theagenes-rhegium-testimonies-eow-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

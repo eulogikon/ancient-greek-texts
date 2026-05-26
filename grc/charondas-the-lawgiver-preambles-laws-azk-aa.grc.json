@@ -86,44 +86,60 @@
       },
       "url_slug": "plato-alcibiades-ffk-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/alcibiades",
+        "html": "https://eulogikon.org/works/plato-alcibiades-ffk-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-alcibiades-ffk-ae.epub"
       }
     },
     {
-      "eul_wid": "vgs-ab",
+      "eul_wid": "pnw-ac",
       "title": {
-        "english": "Commentaries-Aristotle in Greek",
-        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Ethical Elements",
+        "ancient_greek": "Ἠθικὴ στοιχείωσις"
       },
-      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "url_slug": "hierocles-the-stoic-ethical-elements-pnw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
+        "html": "https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-elements-pnw-ac.epub"
       }
     },
     {
-      "eul_wid": "pnw-ab",
+      "eul_wid": "nso-aa",
       "title": {
-        "english": "Fragments from Suda",
-        "ancient_greek": "Ἀποσπάσματα ἐκ Σοῦδας"
+        "english": "Fragments on Philosophical Division",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφικῆς Διαιρέσεως"
       },
-      "url_slug": "hierocles-the-stoic-fragments-pnw-ab",
+      "url_slug": "eudromus-the-philosopher-philosophical-division-nso-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.epub"
+        "html": "https://eulogikon.org/works/eudromus-philosophical-division-nso-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eudromus-philosophical-division-nso-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-ac",
+      "title": {
+        "english": "On Porphyry's Isagoge",
+        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+      },
+      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-porphyry-isagoge-vgs-ac.epub"
       }
     },
     {
@@ -134,12 +150,12 @@
       },
       "url_slug": "seven-sages-of-greece-precepts-ayq-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/seven-sages-of-greece/precepts",
+        "html": "https://eulogikon.org/works/seven-sages-precepts-ayq-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/seven-sages-precepts-ayq-ae.epub"
       }
     },
     {
@@ -150,12 +166,12 @@
       },
       "url_slug": "seven-sages-of-greece-testimonies-ayq-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/seven-sages-of-greece/testimonies",
+        "html": "https://eulogikon.org/works/seven-sages-testimonies-ayq-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/seven-sages-testimonies-ayq-ac.epub"
       }
     },
     {
@@ -166,54 +182,38 @@
       },
       "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "html": "https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleostratus-tenedos-testimonies-bdq-aa.epub"
       }
     },
     {
-      "eul_wid": "nqg-aa",
+      "eul_wid": "quy-aa",
       "title": {
-        "english": "Testimony",
-        "ancient_greek": "Μαρτυρία"
+        "english": "True Discourse",
+        "ancient_greek": "Ἀληθὴς λόγος"
       },
-      "url_slug": "petronius-arbiter-testimony-nqg-aa",
+      "url_slug": "celsus-the-platonist-true-discourse-quy-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/petronius-arbiter/testimony",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter/testimony.epub"
-      }
-    },
-    {
-      "eul_wid": "qpy-aa",
-      "title": {
-        "english": "To Himself",
-        "ancient_greek": "Τὰ εἰς ἑαυτόν"
-      },
-      "url_slug": "marcus-aurelius-to-himself-qpy-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/marcus-aurelius/to-himself",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.epub"
+        "html": "https://eulogikon.org/works/celsus-platonist-true-discourse-quy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/celsus-platonist-true-discourse-quy-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/charondas-the-lawgiver/preambles-laws",
+    "html": "https://eulogikon.org/works/charondas-preambles-laws-azk-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver/preambles-laws.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/charondas-preambles-laws-azk-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

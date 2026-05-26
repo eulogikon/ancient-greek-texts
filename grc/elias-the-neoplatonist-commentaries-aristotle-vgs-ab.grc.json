@@ -1106,12 +1106,12 @@
       },
       "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
+        "html": "https://eulogikon.org/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa.epub"
       }
     },
     {
@@ -1122,30 +1122,46 @@
       },
       "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge",
+        "html": "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-porphyry-isagoge-vgs-ac.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "uxc-ai",
+      "eul_wid": "uxc-aj",
       "title": {
-        "english": "Commentary on the Categories",
-        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Commentary on the Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai",
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-ai",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "rlc-aa",
+      "title": {
+        "english": "Enneads",
+        "ancient_greek": "Ἐννεάδες"
+      },
+      "url_slug": "plotinus-enneads-rlc-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/plotinus-enneads-rlc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plotinus-enneads-rlc-aa.epub"
       }
     },
     {
@@ -1156,44 +1172,28 @@
       },
       "url_slug": "eudemus-of-rhodes-ii-antidotes-fuu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eudemus-of-rhodes-ii/antidotes",
+        "html": "https://eulogikon.org/works/eudemus-rhodes-ii-antidotes-fuu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii-antidotes-fuu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii-antidotes-fuu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii-antidotes-fuu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii-antidotes-fuu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii/antidotes.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eudemus-rhodes-ii-antidotes-fuu-aa.epub"
       }
     },
     {
-      "eul_wid": "oqk-ak",
+      "eul_wid": "reo-ae",
       "title": {
-        "english": "Hermes Trismegistus to Asclepius",
-        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+        "english": "On Aristotle's Metaphysics, Commentary",
+        "ancient_greek": "Εἰς τὰ Μετὰ τὰ Φυσικὰ Ἀριστοτέλους Ὑπομνήματα"
       },
-      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "url_slug": "alexander-of-aphrodisias-metaphysics-commentary-reo-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ad",
-      "title": {
-        "english": "On Aristotle's Meteorology Books, Commentary",
-        "ancient_greek": "Εἰς τὰ Μετεωρολογικὰ Βιβλία Ἀριστοτέλους"
-      },
-      "url_slug": "alexander-of-aphrodisias-meteorology-commentary-reo-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/meteorology-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-meteorology-commentary-reo-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-meteorology-commentary-reo-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-meteorology-commentary-reo-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-meteorology-commentary-reo-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/meteorology-commentary.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-metaphysics-commentary-reo-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-metaphysics-commentary-reo-ae.epub"
       }
     },
     {
@@ -1204,28 +1204,12 @@
       },
       "url_slug": "ocellus-of-lucania-cosmic-harmony-eoc-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/cosmic-harmony",
+        "html": "https://eulogikon.org/works/ocellus-lucania-cosmic-harmony-eoc-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/cosmic-harmony.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ap",
-      "title": {
-        "english": "On Fate",
-        "ancient_greek": "Περὶ Εἱμαρμένης"
-      },
-      "url_slug": "alexander-of-aphrodisias-on-fate-reo-ap",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/on-fate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-on-fate-reo-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-cosmic-harmony-eoc-ac.epub"
       }
     },
     {
@@ -1236,38 +1220,54 @@
       },
       "url_slug": "herophilus-the-anatomist-method-nourishment-ifm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment",
+        "html": "https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/herophilus-method-nourishment-ifm-ab.epub"
       }
     },
     {
-      "eul_wid": "pwi-aa",
+      "eul_wid": "pwi-ab",
       "title": {
-        "english": "Physiognomics, Adamantian Epitome",
+        "english": "Physiognomics",
         "ancient_greek": "Φυσιογνωμονικά"
       },
-      "url_slug": "pseudo-polemon-physiognomics-aa-pwi-aa",
+      "url_slug": "pseudo-polemon-physiognomics-ab-pwi-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-aa.epub"
+        "html": "https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-polemon-physiognomics-pwi-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-al",
+      "title": {
+        "english": "Terms of Asclepius to King Ammon",
+        "ancient_greek": "Ὅροι Ἀσκληπιοῦ πρὸς Ἄμμωνα βασιλέα"
+      },
+      "url_slug": "hermetica-asclepius-ammon-oqk-al",
+      "links": {
+        "html": "https://eulogikon.org/works/hermetica-asclepius-ammon-oqk-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-asclepius-ammon-oqk-al.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
+    "html": "https://eulogikon.org/works/elias-neoplatonist-commentaries-aristotle-vgs-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-commentaries-aristotle-vgs-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -78,22 +78,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "sno-ar",
-      "title": {
-        "english": "Epigrams",
-        "ancient_greek": "Ἐπιγράμματα"
-      },
-      "url_slug": "julian-the-apostate-epigrams-sno-ar",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/epigrams",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/epigrams.epub"
-      }
-    },
-    {
       "eul_wid": "ffk-ap",
       "title": {
         "english": "Euthyphro",
@@ -101,28 +85,44 @@
       },
       "url_slug": "plato-euthyphro-ffk-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/euthyphro",
+        "html": "https://eulogikon.org/works/plato-euthyphro-ffk-ap",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthyphro-ffk-ap.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthyphro-ffk-ap.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthyphro-ffk-ap.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-euthyphro-ffk-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/euthyphro.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-euthyphro-ffk-ap.epub"
       }
     },
     {
-      "eul_wid": "okg-eq",
+      "eul_wid": "sno-as",
       "title": {
-        "english": "Lucullus",
-        "ancient_greek": "Λούκουλλος"
+        "english": "Fragments on Antioch",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντιοχείας"
       },
-      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
+      "url_slug": "julian-the-apostate-antioch-fragments-sno-as",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lucullus-okg-eq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-antioch-fragments-sno-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-antioch-fragments-sno-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-antioch-fragments-sno-as.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-er",
+      "title": {
+        "english": "Lycurgus",
+        "ancient_greek": "Λυκοῦργος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lycurgus-okg-er",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-lycurgus-okg-er",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lycurgus-okg-er.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-lycurgus-okg-er.epub"
       }
     },
     {
@@ -133,28 +133,12 @@
       },
       "url_slug": "aristotle-meteorology-hgw-bk",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/meteorology",
+        "html": "https://eulogikon.org/works/aristotle-meteorology-hgw-bk",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-meteorology-hgw-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/meteorology.epub"
-      }
-    },
-    {
-      "eul_wid": "nma-ac",
-      "title": {
-        "english": "Minor Fragments",
-        "ancient_greek": "Ἀποσπάσματα Μικρά"
-      },
-      "url_slug": "musonius-the-roman-minor-fragments-nma-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/minor-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/minor-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-meteorology-hgw-bk.epub"
       }
     },
     {
@@ -165,12 +149,12 @@
       },
       "url_slug": "heraclides-of-pontus-difficult-words-fdw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/heraclides-of-pontus/difficult-words",
+        "html": "https://eulogikon.org/works/heraclides-pontus-difficult-words-fdw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-difficult-words-fdw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus/difficult-words.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-pontus-difficult-words-fdw-aa.epub"
       }
     },
     {
@@ -181,12 +165,28 @@
       },
       "url_slug": "aristotle-marvelous-tales-hgw-ax",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/marvelous-tales",
+        "html": "https://eulogikon.org/works/aristotle-marvelous-tales-hgw-ax",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marvelous-tales-hgw-ax.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/marvelous-tales.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-marvelous-tales-hgw-ax.epub"
+      }
+    },
+    {
+      "eul_wid": "noi-aa",
+      "title": {
+        "english": "On Pythagorean Number Theory",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "moderatus-of-gades-pythagorean-number-theory-noi-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/moderatus-gades-pythagorean-number-theory-noi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/moderatus-gades-pythagorean-number-theory-noi-aa.epub"
       }
     },
     {
@@ -197,22 +197,22 @@
       },
       "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "html": "https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-xenophanes-zeno-gorgias-hgw-ag.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aristo-of-ceos/rhetorical-fragments",
+    "html": "https://eulogikon.org/works/aristo-ceos-rhetorical-fragments-koq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos/rhetorical-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristo-ceos-rhetorical-fragments-koq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

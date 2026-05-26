@@ -3066,30 +3066,46 @@
       },
       "url_slug": "anonymous-plato-commentary-scholia-aa-uqe-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-aa",
+        "html": "https://eulogikon.org/works/plato-comm-scholia-uqe-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-aa-uqe-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-aa.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-comm-scholia-uqe-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bu",
+      "eul_wid": "vls-aa",
       "title": {
-        "english": "Comparison of Dion and Brutus",
-        "ancient_greek": "Σύγκρισις Δίωνος καὶ Βρούτου"
+        "english": "Concise Tradition of Modes of Sophistic Importunities",
+        "ancient_greek": "Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-dion-brutus-okg-bu",
+      "url_slug": "sophistical-refutations-anonymous-modes-importunities-vls-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/dion-brutus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion-brutus.epub"
+        "html": "https://eulogikon.org/works/anon-soph-ref-modes-importunities-vls-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-modes-importunities-vls-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-modes-importunities-vls-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cl",
+      "title": {
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
+      },
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-consolation-wife-okg-cl.epub"
       }
     },
     {
@@ -3100,28 +3116,12 @@
       },
       "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-al",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.epub"
-      }
-    },
-    {
-      "eul_wid": "lfo-aa",
-      "title": {
-        "english": "Fragments on the Nature of Wisdom",
-        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
-      },
-      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/aristocles-of-messene/nature-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-epigrams-iso-al.epub"
       }
     },
     {
@@ -3132,60 +3132,60 @@
       },
       "url_slug": "anaxarchus-of-abdera-kingship-wisdom-fhs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/kingship-wisdom",
+        "html": "https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/kingship-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxarchus-abdera-kingship-wisdom-fhs-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-ck",
+      "eul_wid": "okg-bv",
       "title": {
-        "english": "On Not Needing to Borrow",
-        "ancient_greek": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
+        "english": "On the Face in the Moon's Orb",
+        "ancient_greek": "Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς"
       },
-      "url_slug": "plutarch-of-chaeronea-not-borrowing-okg-ck",
+      "url_slug": "plutarch-of-chaeronea-face-moon-okg-bv",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/not-borrowing.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-face-moon-okg-bv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-face-moon-okg-bv.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-face-moon-okg-bv.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-face-moon-okg-bv.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-face-moon-okg-bv.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-face-moon-okg-bv.epub"
       }
     },
     {
-      "eul_wid": "vgs-ac",
+      "eul_wid": "rye-av",
       "title": {
-        "english": "On Porphyry's Isagoge",
-        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+        "english": "On the Ordination of the Polity",
+        "ancient_greek": "Ἐπὶ τῇ χειροτονίᾳ τῆς πολιαρχίας"
       },
-      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "url_slug": "themistius-ordination-polity-rye-av",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.epub"
+        "html": "https://eulogikon.org/works/themistius-ordination-polity-rye-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-ordination-polity-rye-av.epub"
       }
     },
     {
-      "eul_wid": "rye-au",
+      "eul_wid": "lgi-aa",
       "title": {
-        "english": "On Those Who Failed Under Valens",
-        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+        "english": "Surviving Works of Philo (Volume I)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
       },
-      "url_slug": "themistius-failed-valens-rye-au",
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/failed-valens",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/failed-valens.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa.epub"
       }
     },
     {
@@ -3196,22 +3196,22 @@
       },
       "url_slug": "ion-of-chios-testimonies-2-ccg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies-2",
+        "html": "https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-testimonies-2-ccg-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-ab",
+    "html": "https://eulogikon.org/works/plato-comm-scholia-uqe-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-ab.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-comm-scholia-uqe-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

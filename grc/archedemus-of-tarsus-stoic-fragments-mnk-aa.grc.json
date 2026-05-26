@@ -211,51 +211,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "udm-ay",
+      "eul_wid": "pcs-aj",
       "title": {
-        "english": "Chronicles",
-        "ancient_greek": "Χρονικά"
+        "english": "Fragments of Parthica",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
       },
-      "url_slug": "porphyry-of-tyre-chronicles-udm-ay",
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aj-pcs-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/chronicles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-chronicles-udm-ay.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-ai",
-      "title": {
-        "english": "Fragments of Bithynica",
-        "ancient_greek": "Ἀποσπάσματα Βιθυνικῶν"
-      },
-      "url_slug": "arrian-of-nicomedia-bithynica-fragments-pcs-ai",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-bithynica-fragments-pcs-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "ojw-aa",
-      "title": {
-        "english": "Fragments of Epictetus' Discourses",
-        "ancient_greek": "Ἀποσπάσματα Διατριβῶν Ἐπικτήτου"
-      },
-      "url_slug": "epictetus-fragments-ojw-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/epictetus/fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aj-pcs-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-parthica-fragments-pcs-aj.epub"
       }
     },
     {
@@ -266,28 +234,44 @@
       },
       "url_slug": "zeno-of-tarsus-stoic-succession-kve-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession",
+        "html": "https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus/stoic-succession.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-tarsus-stoic-succession-kve-aa.epub"
       }
     },
     {
-      "eul_wid": "uxc-ac",
+      "eul_wid": "ojw-ab",
       "title": {
-        "english": "On Aristotle's Meteorology Book I. Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους,"
+        "english": "Letter of Arrian to Lucius Gellius",
+        "ancient_greek": "Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέλλιον"
       },
-      "url_slug": "john-philoponus-of-alexandria-meteorology-commentary-uxc-ac",
+      "url_slug": "epictetus-letter-to-gellius-ojw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/meteorology-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/meteorology-commentary.epub"
+        "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-ad",
+      "title": {
+        "english": "On Aristotle's Books-the Soul, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-on-soul-commentary-uxc-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-on-soul-commentary-uxc-ad.epub"
       }
     },
     {
@@ -298,12 +282,28 @@
       },
       "url_slug": "diotogenes-the-philosopher-kingship-rule-ejm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule",
+        "html": "https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diotogenes-kingship-rule-ejm-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-az",
+      "title": {
+        "english": "On Statues",
+        "ancient_greek": "Περὶ ἀγαλμάτων"
+      },
+      "url_slug": "porphyry-of-tyre-statues-udm-az",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-statues-udm-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-statues-udm-az.epub"
       }
     },
     {
@@ -314,38 +314,38 @@
       },
       "url_slug": "hippon-of-samos-testimonies-cui-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hippon-of-samos/testimonies",
+        "html": "https://eulogikon.org/works/hippon-samos-testimonies-cui-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippon-samos-testimonies-cui-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-aj",
+      "eul_wid": "okg-ao",
       "title": {
-        "english": "Whether the Soul's or Body's Passions Are Worse",
-        "ancient_greek": "Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα"
+        "english": "Whether An Elder Should Engage In Politics",
+        "ancient_greek": "Εἰ πρεσβυτέρῳ πολιτευτέον"
       },
-      "url_slug": "plutarch-of-chaeronea-soul-body-passions-okg-aj",
+      "url_slug": "plutarch-of-chaeronea-elder-politics-okg-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-body-passions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-body-passions.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-elder-politics-okg-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-elder-politics-okg-ao.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/archedemus-of-tarsus/stoic-fragments",
+    "html": "https://eulogikon.org/works/archedemus-tarsus-stoic-fragments-mnk-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus-stoic-fragments-mnk-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus-stoic-fragments-mnk-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus-stoic-fragments-mnk-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus-stoic-fragments-mnk-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus/stoic-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/archedemus-tarsus-stoic-fragments-mnk-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

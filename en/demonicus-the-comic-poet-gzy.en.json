@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "gzy-ab",
-      "title": {
-        "english": "Boeotian Banquet",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
-      "passages": 2,
-      "links": {
-        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.epub"
-      }
-    },
-    {
       "eul_wid": "gzy-aa",
       "title": {
         "english": "Boeotian Banquet",
@@ -69,18 +52,35 @@
       "url_slug": "demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa",
       "passages": 2,
       "links": {
-        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-aa",
+        "html": "https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demonicus-boeotian-banquet-gzy-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "gzy-ab",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demonicus-boeotian-banquet-gzy-ab.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/demonicus-the-comic-poet",
+    "html": "https://eulogikon.org/authors/demonicus-the-comic-poet-gzy",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonicus-the-comic-poet-gzy.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonicus-the-comic-poet-gzy.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonicus-the-comic-poet-gzy.en.txt",

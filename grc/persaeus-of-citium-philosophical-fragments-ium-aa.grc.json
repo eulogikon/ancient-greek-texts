@@ -253,22 +253,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bt",
-      "title": {
-        "english": "Books of Symposiastic Problems",
-        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
-      },
-      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposiastic-problems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.epub"
-      }
-    },
-    {
       "eul_wid": "hhq-ab",
       "title": {
         "english": "Commentary on Plato's Atlantis",
@@ -276,60 +260,76 @@
       },
       "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "html": "https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crantor-soli-atlantis-commentary-hhq-ab.epub"
       }
     },
     {
-      "eul_wid": "lgi-ai",
+      "eul_wid": "okg-bu",
       "title": {
-        "english": "Hypothetica or Apology for the Jews",
-        "ancient_greek": "Ὑποθετικά ἢ Ἀπολογία ὑπὲρ Ἰουδαίων"
+        "english": "Comparison of Dion and Brutus",
+        "ancient_greek": "Σύγκρισις Δίωνος καὶ Βρούτου"
       },
-      "url_slug": "philo-of-alexandria-hypothetica-apology-lgi-ai",
+      "url_slug": "plutarch-of-chaeronea-dion-brutus-okg-bu",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/hypothetica-apology",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-hypothetica-apology-lgi-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-dion-brutus-okg-bu.epub"
       }
     },
     {
-      "eul_wid": "rye-ba",
+      "eul_wid": "rye-bb",
       "title": {
-        "english": "On the King's Love of Praise",
-        "ancient_greek": "Περὶ τῆς τοῦ βασιλέως φιληκοΐας"
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
       },
-      "url_slug": "themistius-kings-praise-rye-ba",
+      "url_slug": "themistius-consular-jovian-rye-bb",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/kings-praise",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-kings-praise-rye-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/kings-praise.epub"
+        "html": "https://eulogikon.org/works/themistius-consular-jovian-rye-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-consular-jovian-rye-bb.epub"
       }
     },
     {
-      "eul_wid": "rye-aw",
+      "eul_wid": "lgi-aj",
       "title": {
-        "english": "On the Presidency in the Senate",
-        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
+        "english": "On the Life of Moses, Books I-II",
+        "ancient_greek": "Περὶ τοῦ Βίου Μωυσέως"
       },
-      "url_slug": "themistius-presidency-senate-rye-aw",
+      "url_slug": "philo-of-alexandria-life-of-moses-lgi-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/presidency-senate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-life-of-moses-lgi-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-life-of-moses-lgi-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ar",
+      "title": {
+        "english": "Paraphrase of On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους περὶ ψυχῆς"
+      },
+      "url_slug": "themistius-commentary-aristotle-ar-rye-ar",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-commentary-aristotle-rye-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-commentary-aristotle-rye-ar.epub"
       }
     },
     {
@@ -340,54 +340,54 @@
       },
       "url_slug": "plato-protagoras-ffk-al",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/protagoras",
+        "html": "https://eulogikon.org/works/plato-protagoras-ffk-al",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-protagoras-ffk-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/protagoras.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-protagoras-ffk-al.epub"
       }
     },
     {
-      "eul_wid": "lgi-au",
+      "eul_wid": "lgi-av",
       "title": {
-        "english": "Questions-Genesis Fragments",
-        "ancient_greek": "Ζητήματα ἐν Γενέσει Ἀποσπάσματα"
+        "english": "Questions-Exodus Fragments",
+        "ancient_greek": "Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα"
       },
-      "url_slug": "philo-of-alexandria-questions-genesis-lgi-au",
+      "url_slug": "philo-of-alexandria-questions-exodus-lgi-av",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/questions-genesis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/questions-genesis.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-questions-exodus-lgi-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-questions-exodus-lgi-av.epub"
       }
     },
     {
-      "eul_wid": "okg-ca",
+      "eul_wid": "okg-cb",
       "title": {
-        "english": "SelectiImpossibilities",
-        "ancient_greek": "Ἐκλογὴ περὶ τῶν ἀδυνάτων"
+        "english": "Symposium of the Seven Sages",
+        "ancient_greek": "Πων επτά σοφών συμπόσιον"
       },
-      "url_slug": "plutarch-of-chaeronea-impossibilities-okg-ca",
+      "url_slug": "plutarch-of-chaeronea-symposium-seven-sages-okg-cb",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/impossibilities",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-impossibilities-okg-ca.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/impossibilities.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-symposium-seven-sages-okg-cb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-symposium-seven-sages-okg-cb.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments",
+    "html": "https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium/philosophical-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/persaeus-citium-philosophical-fragments-ium-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

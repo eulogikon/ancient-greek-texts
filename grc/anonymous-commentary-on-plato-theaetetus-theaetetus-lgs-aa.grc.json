@@ -645,6 +645,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-fk",
+      "title": {
+        "english": "Cimon",
+        "ancient_greek": "Κίμων"
+      },
+      "url_slug": "plutarch-of-chaeronea-cimon-okg-fk",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-cimon-okg-fk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-cimon-okg-fk.epub"
+      }
+    },
+    {
       "eul_wid": "bdg-ab",
       "title": {
         "english": "Epigram",
@@ -652,12 +668,28 @@
       },
       "url_slug": "phocylides-of-miletus-epigrams-bdg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/phocylides-of-miletus/epigrams",
+        "html": "https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phocylides-miletus-epigrams-bdg-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-af",
+      "title": {
+        "english": "From the Metaphysics",
+        "ancient_greek": "Ἐκ τῶν μετὰ τὰ φυσικά"
+      },
+      "url_slug": "theophrastus-of-eresus-metaphysics-ljk-af",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-metaphysics-ljk-af.epub"
       }
     },
     {
@@ -668,44 +700,12 @@
       },
       "url_slug": "callimachus-of-cyrene-iambs-iso-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/iambs",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-iambs-iso-ar",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fj",
-      "title": {
-        "english": "Nicias",
-        "ancient_greek": "Νικίας"
-      },
-      "url_slug": "plutarch-of-chaeronea-nicias-okg-fj",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nicias",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-ae",
-      "title": {
-        "english": "On Sense and Sensibles",
-        "ancient_greek": "Περὶ αἰσθήσεως καὶ τῶν αἰσθητῶν"
-      },
-      "url_slug": "theophrastus-of-eresus-sense-sensibles-ljk-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/sense-sensibles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/sense-sensibles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-iambs-iso-ar.epub"
       }
     },
     {
@@ -716,28 +716,28 @@
       },
       "url_slug": "onatas-the-philosopher-divine-cosmos-cki-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/onatas-the-philosopher/divine-cosmos",
+        "html": "https://eulogikon.org/works/onatas-divine-cosmos-cki-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/onatas-divine-cosmos-cki-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-cz",
+      "eul_wid": "okg-dx",
       "title": {
-        "english": "Platonic Questions",
-        "ancient_greek": "Πλατωνικὰ ζητήματα"
+        "english": "Philopoemen",
+        "ancient_greek": "Φιλοποίμην"
       },
-      "url_slug": "plutarch-of-chaeronea-questions-okg-cz",
+      "url_slug": "plutarch-of-chaeronea-philopoemen-okg-dx",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/questions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/questions.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-philopoemen-okg-dx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-philopoemen-okg-dx.epub"
       }
     },
     {
@@ -748,38 +748,38 @@
       },
       "url_slug": "empedocles-of-acragas-testimonies-die-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/testimonies",
+        "html": "https://eulogikon.org/works/empedocles-acragas-testimonies-die-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-testimonies-die-aa.epub"
       }
     },
     {
-      "eul_wid": "sno-af",
+      "eul_wid": "sno-ag",
       "title": {
-        "english": "To Themistius the Philosopher",
-        "ancient_greek": "Θεμιστίῳ φιλοσόφῳ"
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
       },
-      "url_slug": "julian-the-apostate-to-themistius-sno-af",
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-helios-salustius-sno-ag.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/anonymous-commentary-on-plato-theaetetus/theaetetus",
+    "html": "https://eulogikon.org/works/anon-comm-plato-theaetetus-lgs-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-comm-plato-theaetetus-lgs-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

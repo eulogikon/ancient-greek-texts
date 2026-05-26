@@ -71,6 +71,38 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "lgi-ak",
+      "title": {
+        "english": "Allegorical Interpretation",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-works-of-philo-of-alexandria-lgi-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-works-of-philo-of-alexandria-lgi-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-kings-generals-okg-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-kings-generals-okg-bi.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-ao",
       "title": {
         "english": "Clitophon",
@@ -78,44 +110,28 @@
       },
       "url_slug": "plato-clitophon-ao-ffk-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/clitophon-ao",
+        "html": "https://eulogikon.org/works/plato-clitophon-ffk-ao",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ao-ffk-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-clitophon-ffk-ao.epub"
       }
     },
     {
-      "eul_wid": "okg-bk",
+      "eul_wid": "okg-bl",
       "title": {
-        "english": "Comparison of Pericles and Fabius",
-        "ancient_greek": "Περικλέους καὶ Φαβίου σύγκρισις"
+        "english": "Comparison of Solon and Poplicola",
+        "ancient_greek": "Σόλωνος καὶ Ποπλικόλα σύγκρισις"
       },
-      "url_slug": "plutarch-of-chaeronea-pericles-fabius-okg-bk",
+      "url_slug": "plutarch-of-chaeronea-solon-poplicola-okg-bl",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles-fabius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bh",
-      "title": {
-        "english": "How One Might Benefit from Enemies",
-        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
-      },
-      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-solon-poplicola-okg-bl.epub"
       }
     },
     {
@@ -126,28 +142,12 @@
       },
       "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "html": "https://eulogikon.org/works/eratosthenes-cyrene-adornment-stars-kly-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-aj",
-      "title": {
-        "english": "On the Life of Moses, Books I-II",
-        "ancient_greek": "Περὶ τοῦ Βίου Μωυσέως"
-      },
-      "url_slug": "philo-of-alexandria-life-of-moses-lgi-aj",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/life-of-moses",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-life-of-moses-lgi-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eratosthenes-cyrene-adornment-stars-kly-aa.epub"
       }
     },
     {
@@ -158,12 +158,12 @@
       },
       "url_slug": "plato-political-letters-ffk-bc",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/political-letters",
+        "html": "https://eulogikon.org/works/plato-political-letters-ffk-bc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-political-letters-ffk-bc.epub"
       }
     },
     {
@@ -174,12 +174,12 @@
       },
       "url_slug": "plato-republic-ffk-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/republic",
+        "html": "https://eulogikon.org/works/plato-republic-ffk-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-republic-ffk-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-republic-ffk-ag.epub"
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "url_slug": "xuthus-the-philosopher-testimony-axc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/xuthus-the-philosopher/testimony",
+        "html": "https://eulogikon.org/works/xuthus-testimony-axc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher-testimony-axc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher-testimony-axc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher-testimony-axc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher-testimony-axc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xuthus-testimony-axc-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications",
+    "html": "https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arcesilaus-pitane-epitaphs-dedications-jem-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

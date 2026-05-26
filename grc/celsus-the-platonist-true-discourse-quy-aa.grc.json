@@ -1905,6 +1905,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "ozg-ab",
+      "title": {
+        "english": "Declamations",
+        "ancient_greek": "Μελέται"
+      },
+      "url_slug": "polemon-laodicea-declamations-ozg-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/polemon-laodicea-declamations-ozg-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/polemon-laodicea-declamations-ozg-ab.epub"
+      }
+    },
+    {
       "eul_wid": "flo-aa",
       "title": {
         "english": "Fragments on Aristotelian Philosophy",
@@ -1912,12 +1928,28 @@
       },
       "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "html": "https://eulogikon.org/works/phaenias-eresus-aristotelian-philosophy-flo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phaenias-eresus-aristotelian-philosophy-flo-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lyu-aa",
+      "title": {
+        "english": "Fragments on Early Roman History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+      },
+      "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/gaius-acilius-early-roman-history-lyu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/gaius-acilius-early-roman-history-lyu-aa.epub"
       }
     },
     {
@@ -1928,76 +1960,44 @@
       },
       "url_slug": "apollophanes-the-stoic-physics-perception-jzg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception",
+        "html": "https://eulogikon.org/works/apollophanes-stoic-physics-perception-jzg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic-physics-perception-jzg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic-physics-perception-jzg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic-physics-perception-jzg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic-physics-perception-jzg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollophanes-stoic-physics-perception-jzg-aa.epub"
       }
     },
     {
-      "eul_wid": "lya-aa",
+      "eul_wid": "qhm-aa",
       "title": {
-        "english": "Fragments on Stoic Logic",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+        "english": "Introduction to the Dialogues of Plato",
+        "ancient_greek": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
       },
-      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+      "url_slug": "albinus-the-platonist-plato-dialogues-intro-qhm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.epub"
+        "html": "https://eulogikon.org/works/albinus-plato-dialogues-intro-qhm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/albinus-plato-dialogues-intro-qhm-aa.epub"
       }
     },
     {
-      "eul_wid": "lgi-bg",
+      "eul_wid": "lgi-bh",
       "title": {
-        "english": "On Special Laws",
-        "ancient_greek": "Περὶ τῶν Εἰδικῶν Νόμων"
+        "english": "On Agriculture",
+        "ancient_greek": "Περὶ γεωργίας"
       },
-      "url_slug": "philo-of-alexandria-special-laws-lgi-bg",
+      "url_slug": "philo-of-alexandria-agriculture-lgi-bh",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/special-laws",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-special-laws-lgi-bg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-special-laws-lgi-bg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-special-laws-lgi-bg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-special-laws-lgi-bg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.epub"
-      }
-    },
-    {
-      "eul_wid": "ozg-aa",
-      "title": {
-        "english": "Physiognomic Fragment",
-        "ancient_greek": "Φυσιογνωμονικὸν Ἀπόσπασμα"
-      },
-      "url_slug": "polemon-laodicea-physiognomic-ozg-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/polemon-laodicea/physiognomic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/physiognomic.epub"
-      }
-    },
-    {
-      "eul_wid": "pzk-ab",
-      "title": {
-        "english": "Sentences",
-        "ancient_greek": "Γνῶμαι"
-      },
-      "url_slug": "secundus-the-silent-sentences-pzk-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-agriculture-lgi-bh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-agriculture-lgi-bh.epub"
       }
     },
     {
@@ -2008,12 +2008,12 @@
       },
       "url_slug": "pherecydes-of-syros-testimonies-bcw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pherecydes-of-syros/testimonies",
+        "html": "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-testimonies-bcw-aa.epub"
       }
     },
     {
@@ -2024,22 +2024,22 @@
       },
       "url_slug": "cercops-the-orphic-testimony-bay-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cercops-the-orphic/testimony",
+        "html": "https://eulogikon.org/works/cercops-orphic-testimony-bay-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cercops-orphic-testimony-bay-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/celsus-the-platonist/true-discourse",
+    "html": "https://eulogikon.org/works/celsus-platonist-true-discourse-quy-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist/true-discourse.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/celsus-platonist-true-discourse-quy-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

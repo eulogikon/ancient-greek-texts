@@ -78,6 +78,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-embassy-constantinople-rome-rye-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-constantinople-rome-rye-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-embassy-constantinople-rome-rye-ac.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-au",
       "title": {
         "english": "Epigrams (Anthologia Graeca Selection)",
@@ -85,12 +101,12 @@
       },
       "url_slug": "plato-epigrams-au-ffk-au",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/epigrams-au",
+        "html": "https://eulogikon.org/works/plato-epigrams-ffk-au",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-au-ffk-au.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-au-ffk-au.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-au-ffk-au.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epigrams-au-ffk-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-au.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-epigrams-ffk-au.epub"
       }
     },
     {
@@ -101,12 +117,12 @@
       },
       "url_slug": "cleostratus-of-tenedos-astronomy-fragments-bdq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments",
+        "html": "https://eulogikon.org/works/cleostratus-tenedos-astronomy-fragments-bdq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/astronomy-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleostratus-tenedos-astronomy-fragments-bdq-ab.epub"
       }
     },
     {
@@ -117,44 +133,28 @@
       },
       "url_slug": "chrysippus-of-soli-dietary-taboos-kms-af",
       "links": {
-        "html": "https://eulogikon.org/grc/chrysippus-of-soli/dietary-taboos",
+        "html": "https://eulogikon.org/works/chrysippus-soli-dietary-taboos-kms-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chrysippus-soli-dietary-taboos-kms-af.epub"
       }
     },
     {
-      "eul_wid": "ljk-ai",
+      "eul_wid": "ljk-aj",
       "title": {
-        "english": "On Faintheartedness",
-        "ancient_greek": "Περὶ Δειλίας"
+        "english": "Opinions-Physics",
+        "ancient_greek": "Γνώμαι περὶ φυσικῶν"
       },
-      "url_slug": "theophrastus-of-eresus-faintheartedness-ljk-ai",
+      "url_slug": "theophrastus-of-eresus-physics-ljk-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/faintheartedness.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ae",
-      "title": {
-        "english": "On the Eternity of the World",
-        "ancient_greek": "Περὶ Ἀϊδιότητος Κόσμου"
-      },
-      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ae",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ae.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-physics-ljk-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-physics-ljk-aj.epub"
       }
     },
     {
@@ -165,28 +165,28 @@
       },
       "url_slug": "hermodorus-of-ephesus-testimonies-fragments-exs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/testimonies-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-testimonies-fragments-exs-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-ab",
+      "eul_wid": "lgi-af",
       "title": {
-        "english": "Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus",
-        "ancient_greek": "Χαριστήριος τῷ αὐτοκράτορι ὑπὲρ τῆς εἰρήνης καὶ"
+        "english": "That Every Good Person Is Free",
+        "ancient_greek": "Ὅτι Πᾶς Ἀγαθὸς Ἐλεύθερος"
       },
-      "url_slug": "themistius-peace-consulship-saturninus-rye-ab",
+      "url_slug": "philo-of-alexandria-surviving-works-af-lgi-af",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/peace-consulship-saturninus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-consulship-saturninus.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-lgi-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-af-lgi-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-af-lgi-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-af-lgi-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-af-lgi-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-lgi-af.epub"
       }
     },
     {
@@ -197,22 +197,22 @@
       },
       "url_slug": "callimachus-of-cyrene-to-zeus-iso-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-zeus",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-to-zeus-iso-ao",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-zeus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-to-zeus-iso-ao.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/apollodorus-of-cyzicus/testimonies",
+    "html": "https://eulogikon.org/works/apollodorus-cyzicus-testimonies-dei-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus-testimonies-dei-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus-testimonies-dei-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus-testimonies-dei-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus-testimonies-dei-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollodorus-cyzicus-testimonies-dei-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

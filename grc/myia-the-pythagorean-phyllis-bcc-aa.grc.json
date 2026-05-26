@@ -71,19 +71,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-ee",
+      "eul_wid": "okg-ef",
       "title": {
-        "english": "Agesilaus",
-        "ancient_greek": "Ἀγησίλαος"
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
       },
-      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-alexander-okg-ef",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-alexander-okg-ef.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-alexander-okg-ef.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-am",
+      "title": {
+        "english": "Art of Tactics",
+        "ancient_greek": "Τέχνη τακτική"
+      },
+      "url_slug": "arrian-of-nicomedia-tactics-pcs-am",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-tactics-pcs-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-tactics-pcs-am.epub"
       }
     },
     {
@@ -94,12 +110,12 @@
       },
       "url_slug": "callimachus-of-cyrene-epigrams-ae-iso-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-epigrams-iso-ae.epub"
       }
     },
     {
@@ -110,12 +126,12 @@
       },
       "url_slug": "speusippus-of-athens-philosophers-ega-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/speusippus-of-athens/philosophers",
+        "html": "https://eulogikon.org/works/speusippus-athens-philosophers-ega-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/speusippus-athens-philosophers-ega-ab.epub"
       }
     },
     {
@@ -126,12 +142,12 @@
       },
       "url_slug": "strato-of-lampsacus-philosophy-nature-ipc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/strato-of-lampsacus/philosophy-nature",
+        "html": "https://eulogikon.org/works/strato-lampsacus-philosophy-nature-ipc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/strato-lampsacus-philosophy-nature-ipc-aa.epub"
       }
     },
     {
@@ -142,12 +158,12 @@
       },
       "url_slug": "plato-lysis-hipparchus-dno-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plato-lysis/hipparchus",
+        "html": "https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-lysis-hipparchus-dno-aa.epub"
       }
     },
     {
@@ -158,12 +174,12 @@
       },
       "url_slug": "thales-of-miletus-letters-apa-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/letters",
+        "html": "https://eulogikon.org/works/thales-miletus-letters-apa-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/letters.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-letters-apa-ac.epub"
       }
     },
     {
@@ -174,38 +190,22 @@
       },
       "url_slug": "musaeus-of-eleusis-testimonies-akk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/testimonies",
+        "html": "https://eulogikon.org/works/musaeus-eleusis-testimonies-akk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-al",
-      "title": {
-        "english": "Uncertain Fragments",
-        "ancient_greek": "Ἀποσπάσματα Ἀβέβαια"
-      },
-      "url_slug": "arrian-of-nicomedia-uncertain-fragments-pcs-al",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/uncertain-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-uncertain-fragments-pcs-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-uncertain-fragments-pcs-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-uncertain-fragments-pcs-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-uncertain-fragments-pcs-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/uncertain-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musaeus-eleusis-testimonies-akk-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/myia-the-pythagorean/phyllis",
+    "html": "https://eulogikon.org/works/myia-phyllis-bcc-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean-phyllis-bcc-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean-phyllis-bcc-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean-phyllis-bcc-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean-phyllis-bcc-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean/phyllis.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/myia-phyllis-bcc-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -85,19 +85,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bo",
+      "eul_wid": "okg-bp",
       "title": {
-        "english": "Comparison of Lysander and Sulla",
-        "ancient_greek": "Σύγκρισις Λυσάνδρου καὶ Σύλλα"
+        "english": "Comparison of Nicias and Crassus",
+        "ancient_greek": "Νικίου καὶ Κράσσου σύγκρισις"
       },
-      "url_slug": "plutarch-of-chaeronea-lysander-sulla-okg-bo",
+      "url_slug": "plutarch-of-chaeronea-nicias-crassus-okg-bp",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander-sulla",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander-sulla.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-nicias-crassus-okg-bp",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-nicias-crassus-okg-bp.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ab",
+      "title": {
+        "english": "Fragments 13-190",
+        "ancient_greek": "Ἀποσπάσματα διάφορα"
+      },
+      "url_slug": "theophrastus-of-eresus-fragments-ljk-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-fragments-ljk-ab.epub"
       }
     },
     {
@@ -108,12 +124,12 @@
       },
       "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "html": "https://eulogikon.org/works/dius-phoenicia-beauty-excellence-jxi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dius-phoenicia-beauty-excellence-jxi-aa.epub"
       }
     },
     {
@@ -124,28 +140,12 @@
       },
       "url_slug": "aristotle-poetics-hgw-bq",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/poetics",
+        "html": "https://eulogikon.org/works/aristotle-poetics-hgw-bq",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-poetics-hgw-bq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-aa",
-      "title": {
-        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
-        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
-      },
-      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-poetics-hgw-bq.epub"
       }
     },
     {
@@ -156,12 +156,12 @@
       },
       "url_slug": "leo-of-constantinople-overview-medicine-pqo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/leo-of-constantinople/overview-medicine",
+        "html": "https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/leo-constantinople-overview-medicine-pqo-ab.epub"
       }
     },
     {
@@ -172,28 +172,12 @@
       },
       "url_slug": "plato-phaedrus-ffk-ax",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/phaedrus",
+        "html": "https://eulogikon.org/works/plato-phaedrus-ffk-ax",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedrus-ffk-ax.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedrus-ffk-ax.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedrus-ffk-ax.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedrus-ffk-ax.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedrus.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-bn",
-      "title": {
-        "english": "Philopolis",
-        "ancient_greek": "〈Φ〉ιλόπολις"
-      },
-      "url_slug": "themistius-philopolis-rye-bn",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/philopolis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-phaedrus-ffk-ax.epub"
       }
     },
     {
@@ -204,22 +188,38 @@
       },
       "url_slug": "aristotle-testimonies-hgw-bo",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/testimonies",
+        "html": "https://eulogikon.org/works/aristotle-testimonies-hgw-bo",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-testimonies-hgw-bo.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-testimonies-hgw-bo.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bh",
+      "title": {
+        "english": "To Emperor Constantius",
+        "ancient_greek": "Εἰς τὸν αὐτοκράτορα Κωνστάντιον"
+      },
+      "url_slug": "themistius-constantius-rye-bh",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-constantius-rye-bh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-constantius-rye-bh.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+    "html": "https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/euphantus-olynthus-historical-fragments-hmq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

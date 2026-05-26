@@ -19,8 +19,8 @@ Heraclides Ponticus, a 4th century BCE Attic comedy poet. Surviving works includ
 
 ## Works
 
-- [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md) — *Ἀπόσπασμα* · `fqy-aa`
 - [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.md) — *Ἀπόσπασμα* · `fqy-ab`
+- [On the Rooster of Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md) — *Ἀπόσπασμα* · `fqy-aa`
 
 ## License and provenance
 

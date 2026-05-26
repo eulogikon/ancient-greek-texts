@@ -106,35 +106,67 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uqy-as",
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-agesilaus-okg-ee",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-agesilaus-okg-ee.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-at",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-at-uqy-at",
+      "links": {
+        "html": "https://eulogikon.org/works/proclus-epigrams-uqy-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-at-uqy-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-at-uqy-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-at-uqy-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-at-uqy-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-epigrams-uqy-at.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ar",
       "title": {
         "english": "Epigrams",
         "ancient_greek": "Ἐπιγράμματα"
       },
-      "url_slug": "proclus-the-successor-epigrams-as-uqy-as",
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/epigrams-as",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-epigrams-sno-ar.epub"
       }
     },
     {
-      "eul_wid": "ljk-ak",
+      "eul_wid": "ljk-ao",
       "title": {
-        "english": "On Dizziness",
-        "ancient_greek": "Περὶ τῆς Ἰλιγγιάδος"
+        "english": "On Smells",
+        "ancient_greek": "Περὶ Ὀσμῶν"
       },
-      "url_slug": "theophrastus-of-eresus-dizziness-ljk-ak",
+      "url_slug": "theophrastus-of-eresus-smells-ljk-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/dizziness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/dizziness.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-smells-ljk-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-smells-ljk-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-smells-ljk-ao.epub"
       }
     },
     {
@@ -145,12 +177,12 @@
       },
       "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "html": "https://eulogikon.org/works/eratosthenes-cyrene-adornment-stars-kly-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eratosthenes-cyrene-adornment-stars-kly-aa.epub"
       }
     },
     {
@@ -161,12 +193,12 @@
       },
       "url_slug": "metopus-the-philosopher-nature-virtue-kjg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/metopus-the-philosopher/nature-virtue",
+        "html": "https://eulogikon.org/works/metopus-nature-virtue-kjg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher-nature-virtue-kjg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher-nature-virtue-kjg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher-nature-virtue-kjg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher-nature-virtue-kjg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher/nature-virtue.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/metopus-nature-virtue-kjg-aa.epub"
       }
     },
     {
@@ -177,12 +209,12 @@
       },
       "url_slug": "xenophanes-of-colophon-symposium-piety-beu-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-symposium-piety-beu-ad.epub"
       }
     },
     {
@@ -193,54 +225,22 @@
       },
       "url_slug": "hippon-of-samos-testimonies-cui-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hippon-of-samos/testimonies",
+        "html": "https://eulogikon.org/works/hippon-samos-testimonies-cui-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-aq",
-      "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
-      },
-      "url_slug": "julian-the-apostate-testimonies-sno-aq",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ed",
-      "title": {
-        "english": "To Colotes",
-        "ancient_greek": "Πρὸς Κωλώτην"
-      },
-      "url_slug": "plutarch-of-chaeronea-colotes-okg-ed",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/colotes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippon-samos-testimonies-cui-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/theano-of-croton/teachings-letters",
+    "html": "https://eulogikon.org/works/theano-croton-teachings-letters-bhc-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton-teachings-letters-bhc-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton-teachings-letters-bhc-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton-teachings-letters-bhc-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton-teachings-letters-bhc-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theano-croton-teachings-letters-bhc-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

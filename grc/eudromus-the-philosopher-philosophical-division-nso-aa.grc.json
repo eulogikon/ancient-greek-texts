@@ -47,8 +47,8 @@
     {
       "label": "Affiliation",
       "greek": "",
-      "english": "Platonist",
-      "href": "/affiliations/platonist"
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
     }
   ],
   "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Philosophical Division is a lost philosophical treatise attributed to an otherwise obscure figure named Eudromus. The work is known only through brief references in the biographical compendium of Diogenes Laërtius, which indicate it was a text concerned with the systematic classification of philosophical knowledge. According to these references, Eudromus followed the foundational Stoic thinker Zeno of Citium in dividing philosophy into three primary parts: physics, ethics, and logic. Diogenes records a scholarly debate about the proper terminology for these divisions and their optimal sequence, noting that while Apollodorus called them &quot;topics,&quot; both Chrysippus and Eudromus termed them &quot;species.&quot; The title suggests the work was a doxographic text, part of a common Hellenistic and Imperial practice of systematically categorizing philosophical schools and doctrines. If it existed, the treatise would have been one of many handbooks summarizing philosophical positions for educational use, contributing to the later ancient understanding of the history and structure of philosophical inquiry. No direct quotations or manuscript tradition of the work survives.</p>\n</div>",
@@ -78,12 +78,28 @@
       },
       "url_slug": "aristotle-divisions-hgw-an",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "html": "https://eulogikon.org/works/aristotle-divisions-hgw-an",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-divisions-hgw-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-divisions-hgw-an.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ae",
+      "title": {
+        "english": "Catastases",
+        "ancient_greek": "Καταστάσεις"
+      },
+      "url_slug": "synesius-of-cyrene-catastases-sys-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-catastases-sys-ae.epub"
       }
     },
     {
@@ -94,28 +110,60 @@
       },
       "url_slug": "callimachus-of-cyrene-uncertain-author-fragments-iso-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/uncertain-author-fragments",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-uncertain-author-fragments-iso-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-uncertain-author-fragments-iso-ab.epub"
       }
     },
     {
-      "eul_wid": "mhq-aa",
+      "eul_wid": "lya-aa",
       "title": {
-        "english": "On Pythagorean Cosmology",
-        "ancient_greek": "Ἀποσπάσματα"
+        "english": "Fragments on Stoic Logic",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
       },
-      "url_slug": "alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa",
+      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology.epub"
+        "html": "https://eulogikon.org/works/crinis-stoic-logic-fragments-lya-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crinis-stoic-logic-fragments-lya-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "mlc-aa",
+      "title": {
+        "english": "Fragments on Stoic Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Φιλοσοφίας"
+      },
+      "url_slug": "apollodorus-of-seleucia-stoic-fragments-mlc-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/apollodorus-seleucia-stoic-fragments-mlc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollodorus-seleucia-stoic-fragments-mlc-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-an",
+      "title": {
+        "english": "On the Creation of the Soul in the Timaeus",
+        "ancient_greek": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-soul-timaeus-okg-an",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-soul-timaeus-okg-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-soul-timaeus-okg-an.epub"
       }
     },
     {
@@ -126,12 +174,12 @@
       },
       "url_slug": "aristotle-nile-inundation-hgw-bt",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/nile-inundation",
+        "html": "https://eulogikon.org/works/aristotle-nile-inundation-hgw-bt",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nile-inundation-hgw-bt.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-nile-inundation-hgw-bt.epub"
       }
     },
     {
@@ -142,70 +190,22 @@
       },
       "url_slug": "aristotle-politics-hgw-bz",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/politics",
+        "html": "https://eulogikon.org/works/aristotle-politics-hgw-bz",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.epub"
-      }
-    },
-    {
-      "eul_wid": "sys-ad",
-      "title": {
-        "english": "Praise of Baldness",
-        "ancient_greek": "Ἐγκώμιον τῆς Φαλάκρας"
-      },
-      "url_slug": "synesius-of-cyrene-praise-baldness-sys-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/praise-baldness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/praise-baldness.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-am",
-      "title": {
-        "english": "Summary of the Soul's Creation in the Timaeus",
-        "ancient_greek": "Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας"
-      },
-      "url_slug": "plutarch-of-chaeronea-soul-creation-timaeus-okg-am",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-creation-timaeus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-creation-timaeus.epub"
-      }
-    },
-    {
-      "eul_wid": "lxq-aa",
-      "title": {
-        "english": "Testimonies and Fragments",
-        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
-      },
-      "url_slug": "diogenes-of-babylon-testimonies-lxq-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-babylon/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-politics-hgw-bz.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/eudromus-the-philosopher/philosophical-division",
+    "html": "https://eulogikon.org/works/eudromus-philosophical-division-nso-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher/philosophical-division.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eudromus-philosophical-division-nso-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

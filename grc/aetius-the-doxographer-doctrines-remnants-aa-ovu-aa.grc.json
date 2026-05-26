@@ -966,16 +966,48 @@
       },
       "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-ab",
+        "html": "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aetius-doctrines-remnants-ovu-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-antony-okg-fe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-antony-okg-fe.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-as",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-as-uqy-as",
+      "links": {
+        "html": "https://eulogikon.org/works/proclus-epigrams-uqy-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-epigrams-uqy-as.epub"
+      }
+    },
     {
       "eul_wid": "hui-af",
       "title": {
@@ -984,12 +1016,28 @@
       },
       "url_slug": "epicurus-established-opinions-hui-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/established-opinions",
+        "html": "https://eulogikon.org/works/epicurus-established-opinions-hui-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-established-opinions-hui-af.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-ab",
+      "title": {
+        "english": "Fragments 13-190",
+        "ancient_greek": "Ἀποσπάσματα διάφορα"
+      },
+      "url_slug": "theophrastus-of-eresus-fragments-ljk-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-fragments-ljk-ab.epub"
       }
     },
     {
@@ -1000,118 +1048,70 @@
       },
       "url_slug": "ion-of-chios-dionysus-eros-ccg-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-eros",
+        "html": "https://eulogikon.org/works/ion-chios-dionysus-eros-ccg-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-dionysus-eros-ccg-ae.epub"
       }
     },
     {
-      "eul_wid": "uqy-ar",
+      "eul_wid": "nma-ac",
       "title": {
-        "english": "Hymns 1–7",
-        "ancient_greek": "Ὕμνοι Α'-Ζ'"
+        "english": "Minor Fragments",
+        "ancient_greek": "Ἀποσπάσματα Μικρά"
       },
-      "url_slug": "proclus-the-successor-hymns-uqy-ar",
+      "url_slug": "musonius-the-roman-minor-fragments-nma-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/hymns",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.epub"
+        "html": "https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-minor-fragments-nma-ac.epub"
       }
     },
     {
-      "eul_wid": "uuk-aa",
+      "eul_wid": "okg-de",
       "title": {
-        "english": "Introduction to Platonic Philosophy",
-        "ancient_greek": "Προλεγόμενα εἰς τὴν Πλατωνικὴν φιλοσοφίαν"
+        "english": "On Meddlesomeness",
+        "ancient_greek": "Περὶ πολυπραγμοσύνης"
       },
-      "url_slug": "anonymous-introduction-to-platonism-philosophy-uuk-aa",
+      "url_slug": "plutarch-of-chaeronea-meddlesomeness-okg-de",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-introduction-to-platonism/philosophy",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism/philosophy.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-meddlesomeness-okg-de",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-meddlesomeness-okg-de.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-meddlesomeness-okg-de.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-meddlesomeness-okg-de.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-meddlesomeness-okg-de.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-meddlesomeness-okg-de.epub"
       }
     },
     {
-      "eul_wid": "okg-dd",
+      "eul_wid": "uve-aa",
       "title": {
-        "english": "On Love of Wealth",
-        "ancient_greek": "Περὶ φιλοπλουτίας"
+        "english": "Paraphrase-Theophrastus",
+        "ancient_greek": "Παράφρασις εἰς Θεόφραστον"
       },
-      "url_slug": "plutarch-of-chaeronea-love-wealth-okg-dd",
+      "url_slug": "priscian-of-caesarea-theophrastus-paraphrase-uve-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/love-wealth",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-aa",
-      "title": {
-        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
-        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
-      },
-      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
-      }
-    },
-    {
-      "eul_wid": "nma-ab",
-      "title": {
-        "english": "Spurious Letters",
-        "ancient_greek": "Νόθαι Ἐπιστολαί"
-      },
-      "url_slug": "musonius-the-roman-spurious-letters-nma-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/spurious-letters",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/spurious-letters.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fd",
-      "title": {
-        "english": "Theseus",
-        "ancient_greek": "Θησεύς"
-      },
-      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/theseus.epub"
+        "html": "https://eulogikon.org/works/priscian-caesarea-theophrastus-paraphrase-uve-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/priscian-caesarea-theophrastus-paraphrase-uve-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-aa",
+    "html": "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-aa.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aetius-doctrines-remnants-ovu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

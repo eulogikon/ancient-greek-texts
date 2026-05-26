@@ -785,83 +785,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "pcs-am",
+      "eul_wid": "reo-ac",
       "title": {
-        "english": "Art of Tactics",
-        "ancient_greek": "Τέχνη τακτική"
+        "english": "On Aristotle's Topics Books Eight, Commentary",
+        "ancient_greek": "Εἰς τὰ Ὀκτὼ Βιβλία Τοπικῶν Ἀριστοτέλους Ὑπομνήματα"
       },
-      "url_slug": "arrian-of-nicomedia-tactics-pcs-am",
+      "url_slug": "alexander-of-aphrodisias-topics-commentary-reo-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/tactics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-topics-commentary-reo-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-topics-commentary-reo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-topics-commentary-reo-ac.epub"
       }
     },
     {
-      "eul_wid": "rye-at",
+      "eul_wid": "okg-dl",
       "title": {
-        "english": "Exhortation to Young Valentinian",
-        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+        "english": "On Superstition",
+        "ancient_greek": "Περὶ δεισιδαιμονίας"
       },
-      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "url_slug": "plutarch-of-chaeronea-superstition-okg-dl",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-superstition-okg-dl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-superstition-okg-dl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-superstition-okg-dl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-superstition-okg-dl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-superstition-okg-dl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-superstition-okg-dl.epub"
       }
     },
     {
-      "eul_wid": "okg-dk",
+      "eul_wid": "rye-au",
       "title": {
-        "english": "On Moral Virtue",
-        "ancient_greek": "Περὶ τῆς ἠθικῆς ἀρετῆς"
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
       },
-      "url_slug": "plutarch-of-chaeronea-moral-virtue-okg-dk",
+      "url_slug": "themistius-failed-valens-rye-au",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/moral-virtue",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-moral-virtue-okg-dk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-moral-virtue-okg-dk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-moral-virtue-okg-dk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-moral-virtue-okg-dk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/moral-virtue.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-an",
-      "title": {
-        "english": "On the Creation of the Soul in the Timaeus",
-        "ancient_greek": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
-      },
-      "url_slug": "plutarch-of-chaeronea-soul-timaeus-okg-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-timaeus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.epub"
-      }
-    },
-    {
-      "eul_wid": "mrq-aa",
-      "title": {
-        "english": "On the Goal of Life",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "diodorus-of-tyre-goal-of-life-mrq-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/diodorus-of-tyre/goal-of-life",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre/goal-of-life.epub"
+        "html": "https://eulogikon.org/works/themistius-failed-valens-rye-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-failed-valens-rye-au.epub"
       }
     },
     {
@@ -872,28 +840,12 @@
       },
       "url_slug": "diogenes-of-apollonia-universe-bze-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-apollonia/universe",
+        "html": "https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia/universe.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ab",
-      "title": {
-        "english": "On the Posterior Analytics, Commentary Fragments",
-        "ancient_greek": "Εἰς τὰ Ἀναλυτικὰ Ὕστερα Ἀποσπάσματα Ὑπομνημάτων"
-      },
-      "url_slug": "alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/posterior-analytics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-posterior-analytics-commentary-reo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/posterior-analytics-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-apollonia-universe-bze-ab.epub"
       }
     },
     {
@@ -904,22 +856,70 @@
       },
       "url_slug": "plato-statesman-ffk-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/statesman",
+        "html": "https://eulogikon.org/works/plato-statesman-ffk-ar",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/statesman.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-statesman-ffk-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "msa-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "posidonius-of-apameia-rhodes-testimonies-msa-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-testimonies-msa-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-an",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-testimonies-pcs-an.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ap",
+      "title": {
+        "english": "Whether the Mind's Faculty is Passive Life",
+        "ancient_greek": "Εἰ ἡ τοῦ νοῦ δύναμις παθητικὸς βίος"
+      },
+      "url_slug": "plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/heraclides-the-critic/three-fragments-greece",
+    "html": "https://eulogikon.org/works/heraclides-critic-three-fragments-greece-lrm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic/three-fragments-greece.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-critic-three-fragments-greece-lrm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

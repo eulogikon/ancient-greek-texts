@@ -44,23 +44,6 @@
   "works_count": 3,
   "works": [
     {
-      "eul_wid": "atg-ab",
-      "title": {
-        "english": "On the Evils of Marriage",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "susarion-of-megara-evils-marriage-ab-atg-ab",
-      "passages": 1,
-      "links": {
-        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.epub"
-      }
-    },
-    {
       "eul_wid": "atg-ac",
       "title": {
         "english": "On the Evils of Marriage",
@@ -69,12 +52,29 @@
       "url_slug": "susarion-of-megara-evils-marriage-ac-atg-ac",
       "passages": 3,
       "links": {
-        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ac",
+        "html": "https://eulogikon.org/works/susarion-megara-evils-marriage-atg-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ac-atg-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/susarion-megara-evils-marriage-atg-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "atg-ab",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ab-atg-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/works/susarion-megara-evils-marriage-atg-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-evils-marriage-ab-atg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/susarion-megara-evils-marriage-atg-ab.epub"
       }
     },
     {
@@ -86,18 +86,18 @@
       "url_slug": "susarion-of-megara-nature-women-atg-aa",
       "passages": 1,
       "links": {
-        "html": "https://eulogikon.org/grc/susarion-of-megara/nature-women",
+        "html": "https://eulogikon.org/works/susarion-megara-nature-women-atg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara-nature-women-atg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/susarion-megara-nature-women-atg-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/susarion-of-megara",
+    "html": "https://eulogikon.org/authors/susarion-of-megara-atg",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/susarion-of-megara-atg.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/susarion-of-megara-atg.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/susarion-of-megara-atg.en.txt",

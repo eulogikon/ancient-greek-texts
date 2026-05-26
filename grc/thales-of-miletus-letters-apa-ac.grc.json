@@ -98,12 +98,12 @@
       },
       "url_slug": "thales-of-miletus-testimonies-apa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/thales-miletus-testimonies-apa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-testimonies-apa-aa.epub"
       }
     },
     {
@@ -114,16 +114,32 @@
       },
       "url_slug": "thales-of-miletus-nautical-astronomy-apa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/nautical-astronomy",
+        "html": "https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/nautical-astronomy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-nautical-astronomy-apa-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "vls-af",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-aristotle-vls-af",
+      "links": {
+        "html": "https://eulogikon.org/works/anon-soph-ref-commentary-aristotle-vls-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-aristotle-vls-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-commentary-aristotle-vls-af.epub"
+      }
+    },
     {
       "eul_wid": "ffk-ah",
       "title": {
@@ -132,28 +148,12 @@
       },
       "url_slug": "plato-definitions-ffk-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/definitions",
+        "html": "https://eulogikon.org/works/plato-definitions-ffk-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.epub"
-      }
-    },
-    {
-      "eul_wid": "pak-aa",
-      "title": {
-        "english": "Fragments Against Oracles",
-        "ancient_greek": "Ἀποσπάσματα περὶ Χρηστηρίων"
-      },
-      "url_slug": "oenomaus-of-gadara-against-oracles-pak-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-definitions-ffk-ah.epub"
       }
     },
     {
@@ -164,12 +164,28 @@
       },
       "url_slug": "chrysippus-of-soli-homeric-poems-kms-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/chrysippus-of-soli/homeric-poems",
+        "html": "https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chrysippus-soli-homeric-poems-kms-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "pby-aa",
+      "title": {
+        "english": "Fragments on Fate and Homer",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁμήρου"
+      },
+      "url_slug": "diogenianus-the-grammarian-fate-homer-pby-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/diogenianus-fate-homer-pby-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenianus-fate-homer-pby-aa.epub"
       }
     },
     {
@@ -180,12 +196,12 @@
       },
       "url_slug": "speusippus-of-athens-philosophers-ega-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/speusippus-of-athens/philosophers",
+        "html": "https://eulogikon.org/works/speusippus-athens-philosophers-ega-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/speusippus-athens-philosophers-ega-ab.epub"
       }
     },
     {
@@ -196,28 +212,12 @@
       },
       "url_slug": "plato-ion-ffk-bo",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/ion",
+        "html": "https://eulogikon.org/works/plato-ion-ffk-bo",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/ion.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-ai",
-      "title": {
-        "english": "On Faintheartedness",
-        "ancient_greek": "Περὶ Δειλίας"
-      },
-      "url_slug": "theophrastus-of-eresus-faintheartedness-ljk-ai",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/faintheartedness.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-ion-ffk-bo.epub"
       }
     },
     {
@@ -228,38 +228,38 @@
       },
       "url_slug": "aristotle-soul-bm-hgw-bm",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/soul-bm",
+        "html": "https://eulogikon.org/works/aristotle-soul-hgw-bm",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-soul-bm-hgw-bm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/soul-bm.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-soul-hgw-bm.epub"
       }
     },
     {
-      "eul_wid": "vls-ae",
+      "eul_wid": "ljk-aj",
       "title": {
-        "english": "Scholia on Sophistical Refutations (Recension C)",
-        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+        "english": "Opinions-Physics",
+        "ancient_greek": "Γνώμαι περὶ φυσικῶν"
       },
-      "url_slug": "sophistical-refutations-anonymous-scholia-ae-vls-ae",
+      "url_slug": "theophrastus-of-eresus-physics-ljk-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ae",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ae.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-physics-ljk-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-physics-ljk-aj.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/thales-of-miletus/letters",
+    "html": "https://eulogikon.org/works/thales-miletus-letters-apa-ac",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/letters.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-letters-apa-ac.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

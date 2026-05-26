@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "lli-aa",
-      "title": {
-        "english": "Fragments on Fate",
-        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
-      },
-      "url_slug": "xenarchus-the-comic-poet-fate-fragments-aa-lli-aa",
-      "passages": 58,
-      "links": {
-        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.epub"
-      }
-    },
-    {
       "eul_wid": "lli-ab",
       "title": {
         "english": "Fragments on Fate",
@@ -69,18 +52,35 @@
       "url_slug": "xenarchus-the-comic-poet-fate-fragments-ab-lli-ab",
       "passages": 56,
       "links": {
-        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-ab",
+        "html": "https://eulogikon.org/works/xenarchus-fate-fragments-lli-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-ab-lli-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenarchus-fate-fragments-lli-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lli-aa",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-aa-lli-aa",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/works/xenarchus-fate-fragments-lli-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet-fate-fragments-aa-lli-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenarchus-fate-fragments-lli-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/xenarchus-the-comic-poet",
+    "html": "https://eulogikon.org/authors/xenarchus-the-comic-poet-lli",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenarchus-the-comic-poet-lli.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenarchus-the-comic-poet-lli.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenarchus-the-comic-poet-lli.en.txt",

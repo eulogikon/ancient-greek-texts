@@ -364,30 +364,30 @@
       },
       "url_slug": "arius-didymus-of-alexandria-sects-philosophers-nac-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/arius-didymus-of-alexandria/sects-philosophers",
+        "html": "https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/sects-philosophers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arius-didymus-alexandria-sects-philosophers-nac-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "ojw-ac",
+      "eul_wid": "lgi-ax",
       "title": {
-        "english": "Discourses of Epictetus by Arrian",
-        "ancient_greek": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
+        "english": "Fragments of Uncertain Work",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Ἔργου"
       },
-      "url_slug": "epictetus-discourses-ojw-ac",
+      "url_slug": "philo-of-alexandria-uncertain-fragments-lgi-ax",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-uncertain-fragments-lgi-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-uncertain-fragments-lgi-ax.epub"
       }
     },
     {
@@ -398,12 +398,28 @@
       },
       "url_slug": "ion-of-chios-dionysus-eros-ccg-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-eros",
+        "html": "https://eulogikon.org/works/ion-chios-dionysus-eros-ccg-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-dionysus-eros-ccg-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ad",
+      "title": {
+        "english": "Gnomology (Short)",
+        "ancient_greek": "Γνωμολόγιον Ἐπικτήτου"
+      },
+      "url_slug": "epictetus-gnomology-ad-ojw-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
       }
     },
     {
@@ -414,12 +430,12 @@
       },
       "url_slug": "euphantus-of-olynthus-historical-fragments-hmq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+        "html": "https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/euphantus-olynthus-historical-fragments-hmq-aa.epub"
       }
     },
     {
@@ -430,44 +446,28 @@
       },
       "url_slug": "speusippus-of-athens-king-philip-ega-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/speusippus-of-athens/king-philip",
+        "html": "https://eulogikon.org/works/speusippus-athens-king-philip-ega-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/king-philip.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/speusippus-athens-king-philip-ega-aa.epub"
       }
     },
     {
-      "eul_wid": "lgi-bl",
+      "eul_wid": "lgi-bm",
       "title": {
-        "english": "On Dreams",
-        "ancient_greek": "Περὶ Ἐνυπνίων"
+        "english": "On Joseph",
+        "ancient_greek": "Περὶ Ἰωσήφ"
       },
-      "url_slug": "philo-of-alexandria-on-dreams-lgi-bl",
+      "url_slug": "philo-of-alexandria-joseph-lgi-bm",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/on-dreams",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-dreams-lgi-bl.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-dreams-lgi-bl.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-dreams-lgi-bl.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-on-dreams-lgi-bl.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-dreams.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-aw",
-      "title": {
-        "english": "On the Creation of the World",
-        "ancient_greek": "Περὶ τῆς δημιουργίας τοῦ κόσμου"
-      },
-      "url_slug": "philo-of-alexandria-creation-world-lgi-aw",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/creation-world",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/creation-world.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-joseph-lgi-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-joseph-lgi-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-joseph-lgi-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-joseph-lgi-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-joseph-lgi-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-joseph-lgi-bm.epub"
       }
     },
     {
@@ -478,12 +478,12 @@
       },
       "url_slug": "cratylus-the-heraclitean-testimonies-bmm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cratylus-the-heraclitean/testimonies",
+        "html": "https://eulogikon.org/works/cratylus-heraclitean-testimonies-bmm-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cratylus-heraclitean-testimonies-bmm-aa.epub"
       }
     },
     {
@@ -494,22 +494,22 @@
       },
       "url_slug": "anaxarchus-of-abdera-testimonies-fhs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxarchus-abdera-testimonies-fhs-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/arius-didymus-of-alexandria/physics-fragments",
+    "html": "https://eulogikon.org/works/arius-didymus-alexandria-physics-fragments-nac-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/physics-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arius-didymus-alexandria-physics-fragments-nac-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

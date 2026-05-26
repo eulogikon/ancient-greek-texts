@@ -946,19 +946,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "pnw-ab",
+      "eul_wid": "okg-ag",
       "title": {
-        "english": "Fragments from Suda",
-        "ancient_greek": "Ἀποσπάσματα ἐκ Σοῦδας"
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
       },
-      "url_slug": "hierocles-the-stoic-fragments-pnw-ab",
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "pnw-ac",
+      "title": {
+        "english": "Ethical Elements",
+        "ancient_greek": "Ἠθικὴ στοιχείωσις"
+      },
+      "url_slug": "hierocles-the-stoic-ethical-elements-pnw-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-elements-pnw-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cp",
+      "title": {
+        "english": "Lives of Ten Orators",
+        "ancient_greek": "Περὶ τῶν δέκα ἡτόρων"
+      },
+      "url_slug": "plutarch-of-chaeronea-ten-orators-okg-cp",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-ten-orators-okg-cp",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-ten-orators-okg-cp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-ten-orators-okg-cp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-ten-orators-okg-cp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-ten-orators-okg-cp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-ten-orators-okg-cp.epub"
       }
     },
     {
@@ -969,44 +1001,12 @@
       },
       "url_slug": "teles-of-megara-self-sufficiency-kkk-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/teles-of-megara/self-sufficiency",
+        "html": "https://eulogikon.org/works/teles-megara-self-sufficiency-kkk-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/self-sufficiency.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bd",
-      "title": {
-        "english": "On Using Reason with the Irrational",
-        "ancient_greek": "Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι"
-      },
-      "url_slug": "plutarch-of-chaeronea-reason-irrational-okg-bd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/reason-irrational",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-reason-irrational-okg-bd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/reason-irrational.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-co",
-      "title": {
-        "english": "On the Primarily Cold",
-        "ancient_greek": "Περὶ τοῦ πρώτως ψυχροῦ"
-      },
-      "url_slug": "plutarch-of-chaeronea-primarily-cold-okg-co",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/primarily-cold",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-primarily-cold-okg-co.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-primarily-cold-okg-co.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-primarily-cold-okg-co.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-primarily-cold-okg-co.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/primarily-cold.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/teles-megara-self-sufficiency-kkk-ae.epub"
       }
     },
     {
@@ -1017,12 +1017,12 @@
       },
       "url_slug": "plato-parmenides-ffk-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/parmenides",
+        "html": "https://eulogikon.org/works/plato-parmenides-ffk-ak",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-parmenides-ffk-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/parmenides.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-parmenides-ffk-ak.epub"
       }
     },
     {
@@ -1033,12 +1033,12 @@
       },
       "url_slug": "democritus-of-abdera-testimonies-byu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/democritus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/democritus-abdera-testimonies-byu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/democritus-abdera-testimonies-byu-aa.epub"
       }
     },
     {
@@ -1049,38 +1049,38 @@
       },
       "url_slug": "callimachus-of-cyrene-artemis-iso-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/artemis",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-artemis-iso-ai",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/artemis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-artemis-iso-ai.epub"
       }
     },
     {
-      "eul_wid": "okg-af",
+      "eul_wid": "okg-be",
       "title": {
-        "english": "Whether Athenians Are More Renowned for War or Wisdom",
-        "ancient_greek": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν"
+        "english": "Whether Live Unnoticed Is Well Said",
+        "ancient_greek": "Εἰ καλῶς εἴρηται τὸ λάθε βιώτας"
       },
-      "url_slug": "plutarch-of-chaeronea-athenians-war-wisdom-okg-af",
+      "url_slug": "plutarch-of-chaeronea-live-unnoticed-okg-be",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/athenians-war-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/athenians-war-wisdom.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-live-unnoticed-okg-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-unnoticed-okg-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-unnoticed-okg-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-unnoticed-okg-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-live-unnoticed-okg-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-live-unnoticed-okg-be.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/clearchus-of-soli/hunting-mirrors",
+    "html": "https://eulogikon.org/works/clearchus-soli-hunting-mirrors-hki-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli/hunting-mirrors.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clearchus-soli-hunting-mirrors-hki-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

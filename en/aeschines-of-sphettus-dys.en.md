@@ -20,8 +20,8 @@ Aeschines of Sphettus, Socratic philosopher at the trial of Socrates. Surviving 
 
 ## Works
 
-- [Fragments on Socrates and Education](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας* · `dys-ab`
 - [Fragments on Socrates and Education](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-socrates-education-dys-aa.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας* · `dys-aa`
+- [Fragments on Socrates and Education](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας* · `dys-ab`
 
 ## License and provenance
 

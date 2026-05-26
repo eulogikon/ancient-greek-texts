@@ -855,35 +855,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uqy-ag",
+      "eul_wid": "uqy-ah",
       "title": {
-        "english": "Commentary-Plato's Cratylus",
-        "ancient_greek": "Σχόλια εἰς τὸν Πλάτωνος Κρατύλον"
+        "english": "Commentary-Plato's Timaeus",
+        "ancient_greek": "Σχόλια εἰς τὸν Πλάτωνος Τίμαιον"
       },
-      "url_slug": "proclus-the-successor-cratylus-commentary-uqy-ag",
+      "url_slug": "proclus-the-successor-timaeus-commentary-uqy-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/cratylus-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-cratylus-commentary-uqy-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-cratylus-commentary-uqy-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-cratylus-commentary-uqy-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-cratylus-commentary-uqy-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/cratylus-commentary.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ax",
-      "title": {
-        "english": "Comparison of Demosthenes and Cicero",
-        "ancient_greek": "Σύγκρισις Δημοσθένους καὶ Κικέρωνος"
-      },
-      "url_slug": "plutarch-of-chaeronea-demosthenes-cicero-okg-ax",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes-cicero",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes-cicero.epub"
+        "html": "https://eulogikon.org/works/proclus-timaeus-commentary-uqy-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-timaeus-commentary-uqy-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-timaeus-commentary-uqy-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-timaeus-commentary-uqy-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-timaeus-commentary-uqy-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-timaeus-commentary-uqy-ah.epub"
       }
     },
     {
@@ -894,12 +878,12 @@
       },
       "url_slug": "brontinus-of-metapontum-mind-thought-azu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/mind-thought",
+        "html": "https://eulogikon.org/works/brontinus-metapontum-mind-thought-azu-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/brontinus-metapontum-mind-thought-azu-ab.epub"
       }
     },
     {
@@ -910,12 +894,12 @@
       },
       "url_slug": "aristotle-physics-alt-hgw-am",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/physics-alt",
+        "html": "https://eulogikon.org/works/aristotle-physics-alt-hgw-am",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-alt-hgw-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics-alt.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-physics-alt-hgw-am.epub"
       }
     },
     {
@@ -926,28 +910,12 @@
       },
       "url_slug": "aristotle-politics-hgw-bz",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/politics",
+        "html": "https://eulogikon.org/works/aristotle-politics-hgw-bz",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-politics-hgw-bz.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-ai",
-      "title": {
-        "english": "Short Poems and Fragments",
-        "ancient_greek": "Ἐπιγράμματα καὶ Ἀποσπάσματα"
-      },
-      "url_slug": "julian-the-apostate-short-poems-sno-ai",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/short-poems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/short-poems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-politics-hgw-bz.epub"
       }
     },
     {
@@ -958,12 +926,12 @@
       },
       "url_slug": "critias-of-athens-testimonies-bzo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/critias-of-athens/testimonies",
+        "html": "https://eulogikon.org/works/critias-athens-testimonies-bzo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critias-athens-testimonies-bzo-ab.epub"
       }
     },
     {
@@ -974,22 +942,54 @@
       },
       "url_slug": "philolaus-of-croton-testimonies-bue-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/philolaus-of-croton/testimonies",
+        "html": "https://eulogikon.org/works/philolaus-croton-testimonies-bue-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-testimonies-bue-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-testimonies-bue-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-testimonies-bue-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-testimonies-bue-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philolaus-croton-testimonies-bue-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-aj",
+      "title": {
+        "english": "To the Mother of the Gods",
+        "ancient_greek": "Εἰς τὴν μητέρα τῶν θεῶν"
+      },
+      "url_slug": "julian-the-apostate-mother-of-gods-sno-aj",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-mother-of-gods-sno-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-mother-of-gods-sno-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-mother-of-gods-sno-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ay",
+      "title": {
+        "english": "Whether Vice Suffices For Misfortune",
+        "ancient_greek": "Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν"
+      },
+      "url_slug": "plutarch-of-chaeronea-vice-misfortune-okg-ay",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-vice-misfortune-okg-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-vice-misfortune-okg-ay.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/cebes-of-thebes/table",
+    "html": "https://eulogikon.org/works/cebes-thebes-table-dyi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes-table-dyi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes-table-dyi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes-table-dyi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes-table-dyi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes/table.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cebes-thebes-table-dyi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

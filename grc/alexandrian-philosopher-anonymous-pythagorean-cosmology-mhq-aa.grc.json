@@ -64,22 +64,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "rye-af",
-      "title": {
-        "english": "Deceteric or-Appropriate Speeches to the King",
-        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
-      },
-      "url_slug": "themistius-deeteric-king-speeches-rye-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-deeteric-king-speeches-rye-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.epub"
-      }
-    },
-    {
       "eul_wid": "lbi-aa",
       "title": {
         "english": "Exegetical Fragments on Mosaic Law",
@@ -87,28 +71,12 @@
       },
       "url_slug": "aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law",
+        "html": "https://eulogikon.org/works/aristobulus-jewish-exegetical-mosaic-law-lbi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-ap",
-      "title": {
-        "english": "Fragments on Cavalry Tactics",
-        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππικῆς Τακτικῆς"
-      },
-      "url_slug": "arrian-of-nicomedia-cavalry-tactics-pcs-ap",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cavalry-tactics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristobulus-jewish-exegetical-mosaic-law-lbi-aa.epub"
       }
     },
     {
@@ -119,28 +87,44 @@
       },
       "url_slug": "pythagoras-of-samos-sacred-doctrine-bgs-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/sacred-doctrine",
+        "html": "https://eulogikon.org/works/pythagoras-samos-sacred-doctrine-bgs-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-sacred-doctrine-bgs-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/sacred-doctrine.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-sacred-doctrine-bgs-ae.epub"
       }
     },
     {
-      "eul_wid": "okg-au",
+      "eul_wid": "pcs-aq",
       "title": {
-        "english": "On Those Punished Slowly by the Divine",
-        "ancient_greek": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων"
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
       },
-      "url_slug": "plutarch-of-chaeronea-divine-punishment-slow-okg-au",
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/divine-punishment-slow",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/divine-punishment-slow.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-cynegeticus-pcs-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-cynegeticus-pcs-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-aw",
+      "title": {
+        "english": "On Monarchy, Democracy, and Oligarchy",
+        "ancient_greek": "Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-monarchy-democracy-oligarchy-okg-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw.epub"
       }
     },
     {
@@ -151,12 +135,12 @@
       },
       "url_slug": "epimenides-of-crete-oracles-fragments-aqy-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/epimenides-of-crete/oracles-fragments",
+        "html": "https://eulogikon.org/works/epimenides-crete-oracles-fragments-aqy-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/oracles-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epimenides-crete-oracles-fragments-aqy-ad.epub"
       }
     },
     {
@@ -167,38 +151,54 @@
       },
       "url_slug": "persaeus-of-citium-philosophical-fragments-ium-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/persaeus-of-citium/philosophical-fragments",
+        "html": "https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium/philosophical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/persaeus-citium-philosophical-fragments-ium-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-fc",
+      "eul_wid": "okg-fd",
       "title": {
-        "english": "Romulus",
-        "ancient_greek": "Ῥωμύλος"
+        "english": "Theseus",
+        "ancient_greek": "Θησεύς"
       },
-      "url_slug": "plutarch-of-chaeronea-romulus-okg-fc",
+      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/romulus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-romulus-okg-fc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-romulus-okg-fc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-romulus-okg-fc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-romulus-okg-fc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/romulus.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-theseus-okg-fd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-theseus-okg-fd.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ah",
+      "title": {
+        "english": "To Those Not Correctly Interpreting the Sophist",
+        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
+      },
+      "url_slug": "themistius-interpreting-sophist-rye-ah",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-interpreting-sophist-rye-ah.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology",
+    "html": "https://eulogikon.org/works/alexandrian-anon-pythagorean-cosmology-mhq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexandrian-anon-pythagorean-cosmology-mhq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

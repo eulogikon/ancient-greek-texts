@@ -141,38 +141,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "pcs-am",
-      "title": {
-        "english": "Art of Tactics",
-        "ancient_greek": "Τέχνη τακτική"
-      },
-      "url_slug": "arrian-of-nicomedia-tactics-pcs-am",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/tactics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-tactics-pcs-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ax",
-      "title": {
-        "english": "Comparison of Demosthenes and Cicero",
-        "ancient_greek": "Σύγκρισις Δημοσθένους καὶ Κικέρωνος"
-      },
-      "url_slug": "plutarch-of-chaeronea-demosthenes-cicero-okg-ax",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes-cicero",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-demosthenes-cicero-okg-ax.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes-cicero.epub"
-      }
-    },
-    {
       "eul_wid": "bxq-ab",
       "title": {
         "english": "Fragments on Hippiatric Medicine",
@@ -180,28 +148,12 @@
       },
       "url_slug": "simon-of-athens-hippiatric-fragments-bxq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments",
+        "html": "https://eulogikon.org/works/simon-athens-hippiatric-fragments-bxq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "udm-aa",
-      "title": {
-        "english": "On Aristotle's Categories, Exposition by Question and Answer",
-        "ancient_greek": "Περὶ Κατηγοριῶν Ἀριστοτέλους"
-      },
-      "url_slug": "porphyry-of-tyre-categories-qa-udm-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/categories-qa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simon-athens-hippiatric-fragments-bxq-ab.epub"
       }
     },
     {
@@ -212,12 +164,12 @@
       },
       "url_slug": "aristotle-dreams-hgw-bw",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/dreams",
+        "html": "https://eulogikon.org/works/aristotle-dreams-hgw-bw",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-dreams-hgw-bw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dreams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-dreams-hgw-bw.epub"
       }
     },
     {
@@ -228,12 +180,12 @@
       },
       "url_slug": "aristaeus-the-culture-hero-harmony-cosmos-aiw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristaeus-the-culture-hero/harmony-cosmos",
+        "html": "https://eulogikon.org/works/aristaeus-harmony-cosmos-aiw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristaeus-harmony-cosmos-aiw-aa.epub"
       }
     },
     {
@@ -244,38 +196,86 @@
       },
       "url_slug": "hermodorus-of-ephesus-on-plato-exs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/on-plato",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-on-plato-exs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/on-plato.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-on-plato-exs-ab.epub"
       }
     },
     {
-      "eul_wid": "qou-ab",
+      "eul_wid": "udm-ab",
       "title": {
-        "english": "Outlines of Pyrrhonism",
-        "ancient_greek": "Πυρρώνειαι Ὑποτυπώσεις"
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
       },
-      "url_slug": "sextus-empiricus-outlines-pyrrhonism-qou-ab",
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/sextus-empiricus/outlines-pyrrhonism",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-outlines-pyrrhonism-qou-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-outlines-pyrrhonism-qou-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-outlines-pyrrhonism-qou-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-outlines-pyrrhonism-qou-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/outlines-pyrrhonism.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-homeric-questions-odyssey-udm-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-homeric-questions-odyssey-udm-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "pcs-an",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-testimonies-pcs-an.epub"
+      }
+    },
+    {
+      "eul_wid": "qpy-aa",
+      "title": {
+        "english": "To Himself",
+        "ancient_greek": "Τὰ εἰς ἑαυτόν"
+      },
+      "url_slug": "marcus-aurelius-to-himself-qpy-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/marcus-aurelius-to-himself-qpy-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ay",
+      "title": {
+        "english": "Whether Vice Suffices For Misfortune",
+        "ancient_greek": "Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν"
+      },
+      "url_slug": "plutarch-of-chaeronea-vice-misfortune-okg-ay",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-vice-misfortune-okg-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-vice-misfortune-okg-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-vice-misfortune-okg-ay.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/marinus-of-neapolis/euclid-data",
+    "html": "https://eulogikon.org/works/marinus-neapolis-euclid-data-tsi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis/euclid-data.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/marinus-neapolis-euclid-data-tsi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

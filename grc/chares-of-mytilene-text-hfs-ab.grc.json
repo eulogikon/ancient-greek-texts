@@ -127,12 +127,12 @@
       },
       "url_slug": "chares-of-mytilene-sentences-hfs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/chares-of-mytilene/sentences",
+        "html": "https://eulogikon.org/works/chares-mytilene-sentences-hfs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-sentences-hfs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chares-mytilene-sentences-hfs-aa.epub"
       }
     }
   ],
@@ -145,60 +145,28 @@
       },
       "url_slug": "plato-epinomis-ffk-aw",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/epinomis",
+        "html": "https://eulogikon.org/works/plato-epinomis-ffk-aw",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-epinomis-ffk-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-epinomis-ffk-aw.epub"
       }
     },
     {
-      "eul_wid": "okg-cd",
+      "eul_wid": "ljk-ak",
       "title": {
-        "english": "On Flesh-Eating Discourse B",
-        "ancient_greek": "Περὶ σαρκοφαγίας λόγος β′"
+        "english": "On Dizziness",
+        "ancient_greek": "Περὶ τῆς Ἰλιγγιάδος"
       },
-      "url_slug": "plutarch-of-chaeronea-flesh-eating-cd-okg-cd",
+      "url_slug": "theophrastus-of-eresus-dizziness-ljk-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flesh-eating-cd",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flesh-eating-cd.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-aj",
-      "title": {
-        "english": "Opinions-Physics",
-        "ancient_greek": "Γνώμαι περὶ φυσικῶν"
-      },
-      "url_slug": "theophrastus-of-eresus-physics-ljk-aj",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/physics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/physics.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-bm",
-      "title": {
-        "english": "Penteteric",
-        "ancient_greek": "Πενταετηρικός"
-      },
-      "url_slug": "themistius-penteteric-rye-bm",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/penteteric",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/penteteric.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-dizziness-ljk-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-dizziness-ljk-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-dizziness-ljk-ak.epub"
       }
     },
     {
@@ -209,12 +177,28 @@
       },
       "url_slug": "plato-phaedo-ffk-bi",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/phaedo",
+        "html": "https://eulogikon.org/works/plato-phaedo-ffk-bi",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedo-ffk-bi.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedo-ffk-bi.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedo-ffk-bi.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-phaedo-ffk-bi.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedo.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-phaedo-ffk-bi.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bo",
+      "title": {
+        "english": "Sophist",
+        "ancient_greek": "Σοφιστής"
+      },
+      "url_slug": "themistius-sophist-rye-bo",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-sophist-rye-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-sophist-rye-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-sophist-rye-bo.epub"
       }
     },
     {
@@ -225,12 +209,12 @@
       },
       "url_slug": "oenopides-of-chios-testimonies-btu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/oenopides-of-chios/testimonies",
+        "html": "https://eulogikon.org/works/oenopides-chios-testimonies-btu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/oenopides-chios-testimonies-btu-aa.epub"
       }
     },
     {
@@ -241,12 +225,12 @@
       },
       "url_slug": "ecphantus-the-pythagorean-testimonies-gqs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ecphantus-the-pythagorean/testimonies",
+        "html": "https://eulogikon.org/works/ecphantus-pythagorean-testimonies-gqs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ecphantus-pythagorean-testimonies-gqs-ab.epub"
       }
     },
     {
@@ -257,22 +241,38 @@
       },
       "url_slug": "pherecydes-of-syros-testimonies-bcw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pherecydes-of-syros/testimonies",
+        "html": "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-testimonies-bcw-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ce",
+      "title": {
+        "english": "Tiberius and Caius Gracchus",
+        "ancient_greek": "Τιβέριος καὶ Γάϊος Γράκχος"
+      },
+      "url_slug": "plutarch-of-chaeronea-gracchi-okg-ce",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-gracchi-okg-ce",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-gracchi-okg-ce.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-gracchi-okg-ce.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-gracchi-okg-ce.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-gracchi-okg-ce.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-gracchi-okg-ce.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+    "html": "https://eulogikon.org/works/chares-mytilene-text-hfs-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene-text-hfs-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chares-mytilene-text-hfs-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

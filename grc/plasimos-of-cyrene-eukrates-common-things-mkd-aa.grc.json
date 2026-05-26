@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mkd-aa",
+  "eul_aid": "mkd",
+  "author_slug": "plasimos-of-cyrene",
+  "work_slug": "eukrates-common-things",
+  "url_slug": "plasimos-of-cyrene-eukrates-common-things-mkd-aa",
+  "author": {
+    "english": "Plasimos of Cyrene",
+    "ancient_greek": "Πλάσιμος ὁ Κυρηναῖος"
+  },
+  "title": {
+    "english": "Eukrates, or On Common Things",
+    "ancient_greek": "Εὐκράτης ἢ Περὶ τῶν Κοινῶν"
+  },
+  "seo": {
+    "browser_title": "Eukrates, or On Common Things by Plasimos of Cyrene",
+    "meta_title": "Eukrates by Plasimos of Cyrene: On Common Things in Greek",
+    "meta_description": "A Hellenistic Academic dialogue on the nature of the common and scholarly ownership. Attributed to Plasimos of Cyrene, an obscure Academic philosopher."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Διάλογος",
+      "english": "Dialogue",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Academic",
+      "href": "/affiliations/academic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">A Hellenistic Academic dialogue on the nature of the &quot;common&quot; (koinon) and the limits of scholarly ownership. The work stages a conversation between Socrates, Eukrates, and Antilochus concerning the recovery of Stesichorus&#x27; lyric poems, the distinction between the genuine and the spurious, and the philosophical implications of oikeiōsis as used by the Stoics. The dialogue survives in a small and inconsistent manuscript tradition. Some witnesses transmit it anonymously; others attribute it to Plato. A minority of late marginalia assign it to Plasimos of Cyrene, whose Academic-Alexandrian profile aligns closely with the dialogue&#x27;s concerns. Modern editors generally follow this attribution. The text preserved here is the complete Greek dialogue, reconstructed from the manuscript tradition and presented in a clean reading format.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "§1",
+      "text": "ΣΩΚΡΑΤΗΣ. Πόθεν δή, ὦ Εὐκράτες, καὶ ποῖ; ἔοικας γὰρ οὐκ ἐκ τοῦ συνήθους ὁδοῦ ἰών, ἀλλ᾽ ὥσπερ τις ζητῶν. ΕΥΚΡΑΤΗΣ. Ζητῶν μὲν οὖν, ὦ Σώκρατες, καὶ οὐχ εὑρίσκων. ἥκω γὰρ ἀπὸ τοῦ Ἀντιλόχου, καὶ ἀκούσας ἃ λέγει περὶ ἐμοῦ τοῖς νεανίσκοις, ἀπῆλθον οὐκ ἔχων εἰπεῖν πότερον ἀδικοῦμαι ἢ μαίνομαι. ΣΩ. Τοῦ μὲν μαίνεσθαι, ὦ φίλε, σχεδὸν ἁπάντων ἡμῶν μέτεστιν, ὥς γε ἐμοὶ δοκεῖ· τοῦ δ᾽ ἀδικεῖσθαι, ἴσως οὔ. ἀλλὰ τί ἐστιν ὃ λέγει; ΕΥ. Διδάσκει τοὺς νέους ἐπὶ μισθῷ τὰ Στησιχόρου μέλη, ὥσπερ αὐτὸς συναγαγὼν καὶ τάξας. ἐγὼ δέ, ὡς οἶσθα, οὐκ ὀλίγα ἔτη περὶ ταῦτα διέτριψα — ἀκούων μὲν τῶν παλαιοτέρων ῥαψῳδῶν, ξυγγιγνόμενος δὲ τοῖς ἐν Σικελίᾳ τοῖς ἔτι τὰ ἀρχαῖα ᾄδουσιν, καὶ τὰ διαφέροντα ἀντιπαραβάλλων, καὶ τὰ μὲν γνήσια κρίνων, τὰ δὲ νόθα ἀποβάλλων, ταῦτα τέλος ἔγραψα. ἐπεὶ καὶ τῶν λυρικῶν οὐχ ἥκιστα ὁ Στησίχορος μακρὰς τὰς ᾠδὰς ἐποίει, καὶ τὰ διάφορα μέρη παρ᾽ ἄλλοις ἄλλως ᾄδεται, ὥστε χαλεπὸν εἶναι εἰδέναι τὸ ἀκριβές. ΣΩ. Καὶ νῦν Ἀντίλοχος λαβὼν ταῦτα διδάσκει; ΕΥ. Αὐτὰ ταῦτα. ἀλλ᾽ ὅταν ἐγὼ φῶ «ἃ ἐγὼ συνήγαγον,» φησὶν αὐτὸς «Στησιχόρου ἐστίν, οὐ σά.» καὶ ταῦτα λέγει οὕτω δεινῶς ὥστε καὶ ἐμὲ ἤδη πεπλανῆσθαι. ΣΩ. Ἀντίλοχος γὰρ δεινός, ὥς φασιν, εἰς ἀμφότερα τὰ τοῦ λόγου μέρη βαδίζειν. ἀλλὰ μή τι θαυμαστὸν εἰ ἀνὴρ τοιοῦτος ἀπορεῖν σε ποιεῖ. ἴδε δή, εἰ βούλει, μετ᾽ ἐμοῦ τὸ πρᾶγμα. ἴσως γὰρ φανήσεται τίς ποτε φύσις ἐστὶν αὐτοῦ. ΕΥ. Πάνυ μὲν οὖν, ὦ Σώκρατες. καὶ γὰρ διὰ τοῦτό σε ἐζήτουν. ΣΩ. Καὶ μήν, ὁρῶ, αὐτὸς προσέρχεται. ὥρα γοῦν αὐτὸν εἰς τὴν σκέψιν παρεῖναι· οὐ γὰρ ὅσιον περὶ ἀπόντος λέγειν, καὶ ταῦτα οὐχ ὑπὲρ αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§2",
+      "text": "ΑΝΤΙΛΟΧΟΣ. Χαίρετε, ὦ ἄνδρες. καὶ σύ γε, ὦ Σώκρατες, εἰς καιρὸν παρών. ὁ γὰρ Εὐκράτης, ὡς ἔοικεν, ὀδύρεται περὶ τῶν Στησιχόρου μελῶν ὥσπερ τις πατὴρ ἀφῃρημένος υἱοῦ. καίτοι ἐγὼ μέν φημι αὐτὸν οἰκειοῦσθαι τοῖς ᾄσμασιν διὰ τοῦ πόνου, ὥσπερ καὶ τοῖς τοῦ σώματος μέρεσιν ὁ ἄνθρωπος ἐξ ἀρχῆς οἰκειοῦται κατὰ φύσιν· αὐτὸς δὲ οὐχ ὁρᾷ τὴν ἑαυτοῦ οἰκείωσιν. ΣΩ. Φεῦ, ὦ Ἀντίλοχε, μέγαν λόγον ἔρριψας. ἐγὼ δὲ τὸ ὄνομα τοῦτο τὸ τῆς οἰκειώσεως οὐ συνίημι· οὐ γὰρ ἤκουσά ποτε. ἀλλὰ δίδαξόν με τί ποτε λέγεις, ὥσπερ ξένον τινά. πότερον γὰρ τὸ ἀλλότριον γίγνεται οἰκεῖον διὰ τοῦ πόνου, ἢ τὸ ἤδη οἰκεῖον ἀναγνωρίζεται; ΑΝΤ. Τὸ ἤδη οἰκεῖον ἀναγνωρίζεται. ΣΩ. Ὥσπερ τὸ βρέφος, ὅταν ἄρτι γεγεννημένον τοῦ μαστοῦ ἀντιλαμβάνηται, οὐ ξένον τι ποιεῖται ἑαυτοῦ ἀλλὰ τὸ ἤδη συγγενὲς ἀναγνωρίζει; ΑΝΤ. Οὕτως πως. ΣΩ. Σὺ δὴ φῄς τὸν Εὐκράτην οἰκειοῦσθαι τοῖς Στησιχόρου μέλεσιν, ὡς τῷ ἤδη συγγενεῖ; ΑΝΤ. Φημί. ΣΩ. Συγγενῆ ἄρα αὐτῷ ἐστιν, καὶ οὐκ ἀλλότρια; ΑΝΤ. Οὐκ ἀλλότρια. ΣΩ. Καλῶς. ἀλλὰ συγγενῆ, ὦ Ἀντίλοχε, τίνι; ἐκείνῳ μόνῳ, ἢ καὶ ἑτέροις; ΑΝΤ. Τί δὴ τοῦτο ἐρωτᾷς; ΣΩ. Ὅτι αἱ Στησιχόρου ᾠδαί, εἰ τῷ Εὐκράτει συγγενεῖς εἰσιν ᾗ Ἕλληνί ἐστιν καὶ ποιήσεως ἐραστῇ, ἆρ᾽ οὐχὶ καὶ τοῖς ἄλλοις Ἕλλησιν ὁμοίως συγγενεῖς, τοῖς γε ποιήσεως ἐρῶσιν; ἦ γάρ; ΑΝΤ. (παύεται) Εἰκότως. ΣΩ. Πᾶσιν ἄρα οἰκεῖαι. ΣΩ. Καὶ τὰ πᾶσιν οἰκεῖα ἆρ᾽ οὐχ ἕτερον ὄνομα ἔχει παρ᾽ ἡμῖν; ΕΥ. Κοινά, ὦ Σώκρατες. ΣΩ. Κοινά. αὐτὸ τοίνυν, ὦ Ἀντίλοχε, τὸ ὄνομα τοῦτο ὃ εἰσήγαγες ὡς ἑνὶ τῷ Εὐκράτει συμφέρον, ἐπὶ τοὺς πάντας ἥκει. πρὸς πάντας γὰρ οἰκειοῦνται τὰ τοιαῦτα, εἴπερ πρὸς ἕνα. ὥστε ὁ σὸς λόγος, ὦ φίλε, οὐ μόνον οὐ βοηθεῖ τῷ Εὐκράτει, ἀλλὰ καὶ ἀφαιρεῖ ἔτι μᾶλλον· κοινότερα γὰρ ποιεῖ ἃ ἐκεῖνος ἴδια ἤθελεν εἶναι. ΑΝΤ. Στρέφεις τὸ ὄνομα, ὦ Σώκρατες, παρὰ τὴν χρῆσιν τῶν ταῦτα λεγόντων. ΣΩ. Οὐ στρέφω, ἀλλ᾽ ἀκολουθῶ ᾗ ἂν φέρῃ. εἰ δέ τινες ἑτέρως χρῶνται τοῖς ὀνόμασιν ἢ ὡς αὐτὰ φέρει, τοῦτο αὐτῶν ἐστιν, οὐκ ἐμόν. ἀλλὰ φέρε, σκεψώμεθα ἑτέρως, ἐπεὶ σκοτεινὸν ἔτι τὸ πρᾶγμα φαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§3",
+      "text": "ΣΩ. Εἰπὲ δή μοι πρῶτον τοῦτο, ὦ Εὐκράτες· τὰ μέλη ταῦτα, ὅτε Στησίχορος ἔζη, τίνος ἦν; ΕΥ. Στησιχόρου δήπου. ΣΩ. Ὥσπερ τὸ ἱμάτιον τὸ ἐμὸν ἐμόν, οἰκεῖον αὐτῷ; ΕΥ. Οὕτως πως. ΣΩ. Νῦν δέ, ἐπεὶ τέθνηκεν πάλαι, τίνος ἐστίν; ΕΥ. Τῶν Ἑλλήνων κοινά, ὥσπερ καὶ τὰ Ὁμήρου. ΣΩ. Κοινὰ ἄρα. ΕΥ. Κοινά. ΣΩ. Καὶ τὰ κοινά, ὦ Εὐκράτες, ἆρ᾽ ἔξεστιν ἑνί τινι οἰκειοῦσθαι, ἢ οὔ; ΕΥ. Οὐκ ἔξεστιν, οἶμαι. ΣΩ. Ὥσπερ οὐδὲ τὴν ἀγορὰν τις ἂν αὑτοῦ ποιήσαιτο, οὐδὲ τὸν Ἰλισσόν; ΕΥ. Γέλοιον γὰρ ἂν εἴη. ΣΩ. Γέλοιον δή. φέρε οὖν· ἃ σὺ γέγραφας, πότερον τὰ Στησιχόρου ἐστίν, ἢ ἄλλα τινά; ΕΥ. Αὐτὰ τὰ Στησιχόρου. τοῦτο γὰρ καὶ ἐσπούδαζον, ὅπως μηδὲν ἄλλο γράφοιμι. ΣΩ. Ἐσπούδαζες ἄρα μὴ ἄλλα ἀλλὰ τὰ αὐτά; ΕΥ. Τὰ αὐτά, ναί. ΣΩ. Εἶεν. ὃ δὲ ταὐτόν ἐστι τῷ κοινῷ, καὶ αὐτὸ κοινὸν ἀνάγκη εἶναι; οὐ γάρ; ΕΥ. (σιγῇ) Φαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§4",
+      "text": "ΑΝΤ. Ὦ Σώκρατες, τοῦτο μὲν τὸ ἐρώτημα κομψόν· ὁ μέντοι λόγος οὐχ οὕτως ἁπλοῦς. φημὶ γὰρ ἐγὼ τὰ μὲν Στησιχόρου, ᾗ Στησιχόρου, κοινὰ εἶναι· τὰ δὲ ὑπὸ Εὐκράτους συναχθέντα καὶ διορθωθέντα, ᾗ τοιαῦτα, οὐκέτι κοινὰ ἀλλ᾽ ἐκείνου τι. καὶ φέρει ἐπ᾽ αὐτῶν πλάσμα τι τοῦ ἀνδρός, ὡς λέγουσιν περὶ τῶν ποιημάτων οἱ ταῦτα σκοποῦντες. ΣΩ. Νὴ Δία, πλάσμα δή. ἥκει γοῦν τὸ ὄνομα ἀπὸ τῶν πλαττόντων· καὶ ὅρα, ὦ Ἀντίλοχε, μή ποτε αὐτὸ τὸ ὄνομα πλάσμα ᾖ. καίτοι τὰ ὀνόματα, ὦ φίλε, πολλάκις ἡμᾶς παράγει· οἱ μὲν γὰρ πλάττουσιν ὀνόματα ὥστε δηλοῦν τὰ πράγματα, οἱ δὲ ὥστε κρύπτειν. καὶ χαλεπὸν διακρῖναι ποτέρου χάριν ἕκαστον γέγονεν. ἀλλὰ τοῦτο μὲν ἄλλοτε ἴσως. νῦν δὲ ἐπιθυμῶ μαθεῖν τὴν διαίρεσιν ἀκριβέστερον. τὰ αὐτὰ μέλη φῄς γεγράφθαι, ἢ ἕτερα; ΑΝΤ. Τὰ αὐτὰ μέν, ἄλλον δὲ τρόπον φανέντα. ΣΩ. Φανέντα. καὶ τί ποτε ἐστὶν τὸ φαίνεσθαι; ἆρ᾽ οὐχὶ τοῦ ὄντος τινὸς ἐπίδειξις, ὥσπερ ὅταν τις τὸν ἥλιον δείκνυσιν διὰ τοῦ ὕδατος, οὐχὶ ἕτερόν τινα ἥλιον ποιῶν, ἀλλὰ τὸν ὄντα διὰ τοῦ μέσου φέρων εἰς ὄψιν; ΑΝΤ. Οὕτως πως. ΣΩ. Καὶ ὁ διὰ τοῦ ὕδατος δεικνὺς τὸν ἥλιον — ἆρ᾽ ἑαυτοῦ ἐποιήσατο τὸν ἥλιον; ΑΝΤ. Πῶς γὰρ ἄν; ΣΩ. Οὐδ᾽ οὖν, οἶμαι, ὁ διὰ τῶν ῥαψῳδῶν καὶ τῶν παλαιῶν ᾀσμάτων τὸν Στησίχορον φέρων εἰς ὄψιν τοῖς νῦν Ἕλλησιν, ἑαυτοῦ ἐποιήσατο τὸν Στησίχορον. ΕΥ. Οὐκ ἂν φαίην, ὦ Σώκρατες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§5",
+      "text": "ΣΩ. Σκεψώμεθα δ᾽ ἔτι ἑτέρως. ἀνὴρ τις εὕρῃ Ἑρμοῦ ἄγαλμα παλαιόν, τετριμμένον καὶ τεθραυσμένον καὶ τὰ γράμματα τὰ ἐπιγεγραμμένα ἐξηλειμμένα. λαβὼν δὲ τοῦτο, καὶ τὰ μέρη συναρμόσας, καὶ τὸν χαλκὸν καθήρας — οὐχ ὥστε ἕτερον ποιεῖν, ἀλλ᾽ ὥστε τὸ γνήσιον ἀναγνωρισθῆναι — ἀποκαθίστησιν, ὥστε πάλιν ὁρᾶν οἷον ἦν πρότερον. ποιήσει δή τις Ἑρμῆν καινόν, ἢ τὸν παλαιὸν ἀνέσωσεν; ΑΝΤ. Τὸν παλαιὸν ἀνέσωσεν δηλονότι. ΣΩ. Ἑρμοῦ ἄρα τὸ ἄγαλμα, οὐχὶ τοῦ ἀνδρὸς τοῦ ἀνασώσαντος; ΑΝΤ. Ἑρμοῦ. ΣΩ. Καίτοι πολὺν πόνον ὁ ἀνὴρ εἰσήνεγκεν. ΑΝΤ. Ὁμολογῶ. ΣΩ. Ἀλλ᾽ ὁ πόνος αὐτοῦ οὐχ ἑαυτῷ ἐποίησατο τὸ ἄγαλμα. ΑΝΤ. Οὐχ ἑαυτῷ. ΣΩ. Τί δ᾽ εἰ ὁ αὐτὸς ἀνήρ, λαβὼν τὰ χαλκία τὰ τεθραυσμένα, ποιήσειεν ἐξ αὐτῶν Ἀπόλλωνα καινόν, ὃν οὐδεὶς πρότερον εἶδεν; τίνος ὁ Ἀπόλλων; ΑΝΤ. Ἐκείνου, ὑπὸ τίνος ἐποιήθη. ΣΩ. Ὥστε ὁ πόνος ὁ αὐτὸς ἐνταῦθα ἕτερον ποιεῖ τὸ τέλος, καίπερ ταὐτὸς ὤν. ὁ μὲν γὰρ ἀνασῴζων τὸ ὂν οὐ κτᾶται καινόν, ὁ δὲ ποιῶν τὸ μὴ ὂν εἰς τὸ εἶναι ἄγει καὶ κύριος γίγνεται τοῦ ἀχθέντος. ἦ γάρ; ΑΝΤ. Ἔοικεν. ΣΩ. Τί δὴ τὸ διαφέρον αὐτῶν; ἆρ᾽ οὐχ ὅτι ὁ μὲν φησὶν «τὸ γνήσιον ἀναγινώσκω,» ὁ δὲ «καινὸν ποιῶ»· καὶ ὁ μὲν ἀπευθύνεται πρὸς τὸ ἤδη ὄν, καὶ τὰ ἑαυτοῦ δεσμὰ ἔχει ἐν ἐκείνῳ· ὁ δὲ πρὸς οὐδέν, ἀλλὰ ψυχῆς ἔργον ἐπιδεικνύμενος αὐτὸς ἑαυτῷ τὸ τέλος τίθεται; ΑΝΤ. Ἔοικεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§6",
+      "text": "ΣΩ. Σὺ δή, ὦ Εὐκράτες, πότερον τούτων ἐποίεις, ὅτε τὰ μέλη συνέλεγες; ΕΥ. Τὸ πρότερον, ὦ Σώκρατες. ἀπεκαθίστην τὰ ὄντα. ΣΩ. Πρὸς τί ἀπευθυνόμενος; ΕΥ. Πρὸς τὸ γνήσιον, ὦ Σώκρατες· πρὸς ἃ Στησίχορος ᾖσεν, οὐ πρὸς ἃ οἱ ὕστερον ᾄδοντες παρενέβαλον. ΣΩ. Καὶ εἴ τίς σε ἤρετο «πόθεν οἶσθα ὅτι τόδε εἶπεν Στησίχορος καὶ οὐχ ἕτερον;» τί ἂν ἀπεκρίνου; ΕΥ. Ἀπεκρινάμην ἂν ὅτι οἱ μὲν παλαιότατοι τῶν ῥαψῳδῶν οὕτως ᾄδουσιν, καὶ τὰ ἐν Σικελίᾳ ἀκουόμενα οὕτως ἔχει, καὶ τὸ μέτρον τοῦτο φέρει, καὶ τοῖς λοιποῖς τοῦ ποιητοῦ συνᾴδει. ΣΩ. Μάρτυρας ἄρα ἐκάλεις, καὶ τὸ μέτρον, καὶ τὴν λοιπὴν τοῦ ἀνδρὸς φωνήν. ΕΥ. Ναί. ΣΩ. Σὺ δὲ αὐτὸς, ἐπὶ σαυτοῦ, ἐτόλμας ἂν εἰπεῖν «οὕτως ἔχει διότι ἐγώ φημι;» ΕΥ. Οὐκ ἂν ἐτόλμων. ΣΩ. Δεδεμένον ἄρα ἦν τὸ ἔργον σου, καὶ οὐκ ἐφ᾽ ἑαυτῷ. καὶ ὅταν τις δεδεμένος ἐργάζηται πρὸς τὸ γνήσιον, οὐχ ὡς ποιητής ἐργάζεται, ἀλλ᾽ ὥσπερ ὁ τὸν Ἑρμῆν ἀνασῴζων. ΕΥ. Ἔοικεν. ΣΩ. Καὶ οὐ γίγνεται κύριος ὧν ἀπεκατέστησεν. ΕΥ. Οὐ γίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§7",
+      "text": "ΑΝΤ. Ἀλλ᾽ ὦ Σώκρατες, οὐ τοῦτο τὸ πᾶν. λανθάνει γὰρ ὑμᾶς ὅτι ὁ Εὐκράτης οὐ μόνον ἀνεσῴζετο τὰ ὄντα — ὃ ἐθέλει λέγειν — ἀλλὰ καὶ ἔκρινε. καὶ τὸ κρίνειν τὰ γνήσια ἀπὸ τῶν νόθων ψυχῆς ἔργον ἐστίν, οὐχὶ τῆς χειρός. καὶ ἐν τῷ κρίνειν αὐτὸς αὑτὸν ἐπιδείκνυσι, καίτοι πρὸς τὸ ἔξω ἀποβλέπων· ἐπεὶ καὶ ὁ τοξότης †. . . .† οὐχ ἧττον αὐτὸς τοξεύει. ΣΩ. Καλῶς λέγεις, ὦ Ἀντίλοχε. ζητῶ δέ, ποῦ ἐστιν ὃ αὐτὸς ἐποίησεν, ὃ μὴ κοινόν ἐστιν. εἰπὲ δή μοι, ὦ Εὐκράτες· ὅτε ἔγραφες τὰ μέλη, ἔγραφες δέ τι καὶ πρὸ αὐτῶν; ΕΥ. Προοίμιον, ὦ Σώκρατες. μακρὸν μάλα, ἐν ᾧ ἐδήλωσα ὅθεν τὰς ᾠδὰς ἤκουσα, καὶ παρὰ τίνων, καὶ διὰ τίνα τρόπον ἔκρινον τὰ μὲν δέχεσθαι τὰ δ᾽ ἀπωθεῖσθαι. ΣΩ. Τοῦτο δὲ τὸ προοίμιον τὰ τοῦ Στησιχόρου ἐστίν; ΕΥ. Οὐδαμῶς. ἐμὰ ταῦτα παντάπασιν. ΣΩ. Δεδεμένος ἐνταῦθα ἦσθα ταῖς μαρτυρίαις, ὥσπερ ἐπὶ τῶν μελῶν; ΕΥ. Οὔ. ἔγραφον ὡς ἐβουλόμην. ΣΩ. Ἐφ᾽ ἑαυτῷ ἄρα ἐνταῦθα. καὶ ποιητής, οὐχὶ ἀνευρετής. ΕΥ. Ποιητής, ναί — τῶν περὶ Στησίχορον λόγων, οὐχὶ αὐτοῦ Στησιχόρου. ΣΩ. Ἔγραψας δέ τι καὶ ἄλλο τοιοῦτον; ΕΥ. Γέγραφα καὶ σημεῖά τινα ἐν τοῖς χωρίοις ὅπου τὰ ᾄσματα διαφέρει, καὶ λόγους ἐν οἷς αἰτίας ἀπέδωκα δι᾽ ἃς τόδε προειλόμην ἀντὶ τοῦδε. ΣΩ. Καὶ ταῦτα πάντα ἐφ᾽ ἑαυτῷ; ΕΥ. Ἐφ᾽ ἐμαυτῷ. ΣΩ. Ταῦτα ἄρα, ὦ Εὐκράτες, τὰ σὰ αὐτοῦ, ὃ μὴ κοινά. καὶ ταῦτα εἴ τις ἀφέλοιτο, ἠδίκηκεν ἄν σε. ἐνταῦθα γὰρ ὡς ἀληθῶς ᾠκείωσαι, οὐχὶ τοῖς Στησιχόρου μέλεσιν ἀλλὰ τοῖς περὶ ἐκεῖνον σοῖς λόγοις. ΕΥ. Ὦ Σώκρατες, ὁρῶ νῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§8",
+      "text": "ΣΩ. Ἀντίλοχος δέ, ὅτε τὰ Στησιχόρου ἔλαβεν παρὰ σοῦ, ἔλαβεν καὶ τὸ προοίμιον; ΑΝΤ. Οὔ. ΣΩ. Τοὺς λόγους ἐν οἷς τὰς αἰτίας ἀπέδωκεν; ΑΝΤ. Οὔ. ΣΩ. Τὰ σημεῖα; ΑΝΤ. Οὐδέν τι τοιοῦτον. οὐ γὰρ δέονται οἱ νέοι τοιούτων, ἀλλὰ τῶν μελῶν αὐτῶν. ΣΩ. Τῶν μελῶν αὐτῶν. ἅπερ Εὐκράτης φησὶν οὐ πεποιηκέναι ἀλλ᾽ ἀνασεσωκέναι. ΑΝΤ. Οὕτω. ΣΩ. Ἃ δ᾽, εἴπερ ἀνασέσωσται ἀληθῶς, κοινά ἐστιν. ΑΝΤ. Δίκαιον λέγεις, ὦ Σώκρατες, καίπερ ἐμοὶ οὐ πάνυ πιστόν. δοκεῖς γάρ μοι παίζειν τι περὶ τὰ ὀνόματα. ὁ γὰρ Εὐκράτης ἐπόνησεν πολλὰ καὶ μεγάλα — καὶ τοῦτο τὸ πονεῖν αὐτό ἐστι τι, οὐχὶ οὐδέν. καὶ ὁ τοῦτο μὴ ὁρῶν, οὔ μοι δοκεῖ ὁρᾶν τὸ ὅλον. ΣΩ. Ἀντίλοχε, εὖ λέγεις — οὐ γὰρ ἀρνοῦμαι τὸν πόνον, οὐδ᾽ ἀφανίζω αὐτόν. ἀλλὰ τοῦτο σκόπει· ὁ μὲν τὴν ὁδὸν δείξας τῷ ξένῳ, καὶ ὁ τὸ ὕδωρ ἐκ τοῦ φρέατος ἐλκύσας τῷ διψῶντι, καὶ ὁ τοῖς ναυαγοῖς δᾷδα ἀνέχων ἐν τῇ νυκτί — οὗτοι πάντες πονοῦσιν, καὶ ἄξιοι τιμῆς. ἀλλ᾽ οὐ διὰ τοῦτο τοῦ ξένου κύριοι γίγνονται, οὐδὲ τοῦ ὕδατος, οὐδὲ τῆς θαλάττης. ὁ πόνος γὰρ καὶ ἡ οἰκείωσις οὐ ταὐτόν ἐστιν, οὐδ᾽ ἕπεται τὸ ἕτερον τῷ ἑτέρῳ. ΑΝΤ. Ἴσως οὕτως ἔχει. ἀλλ᾽ ἀπορῶ ἔτι, καὶ ὁμολογῶ ἀπορεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§9",
+      "text": "ΕΥ. Ὦ Σώκρατες, σὺ μέν με ἐλέγξας οὐκ ἐλύπησας, ἀλλὰ μᾶλλον ἀνεκούφισας. ᾔδειν γάρ τι ἀδικεῖσθαι, ἀλλ᾽ οὐκ ᾔδειν τί. νῦν δὲ οἶδα — καὶ μικρότερόν ἐστιν ὃ ᾤμην, ἀλλὰ σαφέστερον. καὶ τὸ σαφὲς μικρὸν κρεῖττον τοῦ ἀσαφοῦς μεγάλου. ΣΩ. Ὦ Εὐκράτες, οὐκ ἐγώ σε ἤλεγξα, ἀλλὰ τὸ πρᾶγμα αὐτὸ ἑαυτὸ ἤλεγξεν. καὶ νῦν ἔχεις ὅ τι ἐστὶν τὸ σόν, ὃ μὴ κοινόν· τὸ προοίμιον, οἱ λόγοι, τὰ σημεῖα, ἡ τάξις τῶν περὶ Στησίχορον λεγομένων· τὰ δὲ μέλη οὐ σά, οὐδ᾽ ἦν ποτε σά, οὐδ᾽ ἂν γένοιτό ποτε σά, ἕως ἂν λέγῃς ἀνασῴζειν τὸν ποιητήν. ἂν δέ ποτε εἴπῃς «ἐγὼ Στησίχορον ἐποίησα,» τότε δὴ ἴσως ἔσται σά — ἀλλ᾽ οὐκέτι Στησιχόρου, καὶ οὐκέτι σπουδαῖα. ΕΥ. Οὐκ ἂν τοῦτό ποτε εἴποιμι. ΣΩ. Οὐδ᾽ ἐγὼ ἀξιῶ σε εἰπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "§10",
+      "text": "ΑΝΤ. Ἀλλ᾽ ἐμοὶ μέν, ὦ Σώκρατες, καίπερ οὐ πάνυ πεισθέντι, ἔτι τι λείπεται ἀπορίας. εἰ γὰρ πᾶς ὁ ἀνασῴζων κοινῶν ἐργάζεται, καὶ οὐδὲν ἑαυτῷ ποιεῖ, πῶς ἂν ζῷεν οἱ τὰ τοιαῦτα σπουδάζοντες; ἢ φήσεις δεῖν αὐτοὺς πεινᾶν παρὰ τοῖς Ἕλλησιν, καίτοι κοινὰ φυλάττοντας; ΣΩ. Οὐχὶ τοῦτο, ὦ Ἀντίλοχε, οὐδέ μοι θέμις τοιαῦτα λέγειν. ἄλλο γάρ ἐστι τὸ ζητεῖν τίνος τί ἐστιν, καὶ ἄλλο τὸ ζητεῖν πῶς δεῖ τοὺς ἀγαθοὺς ἄνδρας ζῆν ἐν τῇ πόλει. τὸ μὲν πρότερον σήμερον ἐσκεψάμεθα, καὶ ἴσως οὐ φαύλως· τὸ δ᾽ ὕστερον μέγα ἐστὶν καὶ ἑτέρας ἡμέρας δεόμενον, καὶ ἴσως ἑτέρου τινὸς λόγου. ΑΝΤ. Σκεψόμεθα δή ποτε καὶ τοῦτο. ΣΩ. Σκεψόμεθα, ἐὰν θεὸς ἐθέλῃ. νῦν δ᾽ ἤδη μεσημβρία· καταβαίνωμεν εἰς τὴν ἀγοράν· πάλαι γὰρ ἐπιθυμῶ ἐρωτᾶν τι τῶν ἰχθυοπωλῶν. ΕΥ. Τί δή, ὦ Σώκρατες; ΣΩ. Πότερον ὁ ἰχθὺς, ἁλοὺς ὑπὸ τοῦ ἁλιέως, ἔτι τῆς θαλάττης ἐστίν, ἢ τοῦ ἁλιέως, ἢ τοῦ ἀγοραίου, ἢ τοῦ ὠνησομένου. δοκεῖ μοι γὰρ οὐ μικρὸν τοῦτο, οὐδ᾽ ἀπὸ τρόπου τῶν νῦν εἰρημένων. καὶ ἴσως τι περὶ τῆς οἰκειώσεως αὐτῆς διδαξόμεθα παρὰ τῶν ἰχθυοπωλῶν, οἳ καθ᾽ ἡμέραν τὰ τῆς θαλάττης οἰκειοῦνται. ΑΝΤ. Ὦ Ἡράκλεις. ΣΩ. Ἀρξώμεθα, ὦ Ἀντίλοχε. οὐ γὰρ παύεται τὰ ὄντα ζητούμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "nac-aa",
+      "title": {
+        "english": "Book-the Sects of Philosophers",
+        "ancient_greek": "Περὶ Αἱρέσεων Φιλοσόφων"
+      },
+      "url_slug": "arius-didymus-of-alexandria-sects-philosophers-nac-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arius-didymus-alexandria-sects-philosophers-nac-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "bcw-ab",
+      "title": {
+        "english": "Fragments on Cosmology",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κοσμολογίας"
+      },
+      "url_slug": "pherecydes-of-syros-cosmology-bcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/pherecydes-syros-cosmology-bcw-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-cosmology-bcw-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "kly-ad",
+      "title": {
+        "english": "Fragments on Hermes and Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός"
+      },
+      "url_slug": "eratosthenes-of-cyrene-hermes-zeus-kly-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/eratosthenes-cyrene-hermes-zeus-kly-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eratosthenes-cyrene-hermes-zeus-kly-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cy",
+      "title": {
+        "english": "On Virtue and Vice",
+        "ancient_greek": "Περὶ ἀρετῆς καὶ κακιάς"
+      },
+      "url_slug": "plutarch-of-chaeronea-virtue-vice-okg-cy",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-virtue-vice-okg-cy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-vice-okg-cy.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-vice-okg-cy.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-vice-okg-cy.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-vice-okg-cy.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-virtue-vice-okg-cy.epub"
+      }
+    },
+    {
+      "eul_wid": "tbu-aa",
+      "title": {
+        "english": "On the Golden Poem",
+        "ancient_greek": "Περὶ τοῦ Χρυσοῦ Ποιήματος"
+      },
+      "url_slug": "hierocles-of-alexandria-golden-poem-tbu-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/hierocles-alexandria-golden-poem-tbu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-alexandria-golden-poem-tbu-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "bze-ab",
+      "title": {
+        "english": "On the Nature of the Universe",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-apollonia-universe-bze-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-apollonia-universe-bze-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-ag",
+      "title": {
+        "english": "On the Soul, Supplementary Books",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "alexander-of-aphrodisias-soul-supplementary-reo-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-soul-supplementary-reo-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-supplementary-reo-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-supplementary-reo-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-supplementary-reo-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-supplementary-reo-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-soul-supplementary-reo-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "gqi-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "damon-and-phintias-testimony-gqi-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/damon-phintias-testimony-gqi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-and-phintias-testimony-gqi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-and-phintias-testimony-gqi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-and-phintias-testimony-gqi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-and-phintias-testimony-gqi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/damon-phintias-testimony-gqi-aa.epub"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/works/plasimos-of-cyrene-eukrates-common-things-mkd-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plasimos-of-cyrene-eukrates-common-things-mkd-aa.grc.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plasimos-of-cyrene-eukrates-common-things-mkd-aa.grc.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plasimos-of-cyrene-eukrates-common-things-mkd-aa.grc.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plasimos-of-cyrene-eukrates-common-things-mkd-aa.grc.json",
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plasimos-of-cyrene-eukrates-common-things-mkd-aa.epub"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

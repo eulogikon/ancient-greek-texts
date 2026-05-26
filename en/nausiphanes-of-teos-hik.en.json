@@ -58,12 +58,12 @@
       "url_slug": "nausiphanes-of-teos-rhetoric-philosophy-hik-ab",
       "passages": 6,
       "links": {
-        "html": "https://eulogikon.org/grc/nausiphanes-of-teos/rhetoric-philosophy",
+        "html": "https://eulogikon.org/works/nausiphanes-teos-rhetoric-philosophy-hik-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/rhetoric-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nausiphanes-teos-rhetoric-philosophy-hik-ab.epub"
       }
     },
     {
@@ -75,12 +75,12 @@
       "url_slug": "nausiphanes-of-teos-testimonies-hik-aa",
       "passages": 9,
       "links": {
-        "html": "https://eulogikon.org/grc/nausiphanes-of-teos/testimonies",
+        "html": "https://eulogikon.org/works/nausiphanes-teos-testimonies-hik-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-testimonies-hik-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-testimonies-hik-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-testimonies-hik-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-testimonies-hik-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nausiphanes-teos-testimonies-hik-aa.epub"
       }
     }
   ],
@@ -93,16 +93,31 @@
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/anaxarchus-of-abdera",
+        "html": "https://eulogikon.org/authors/anaxarchus-of-abdera-fhs",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.json"
       }
+    },
+    {
+      "eul_aid": "dmu",
+      "name": {
+        "english": "Diotimus of Tyre",
+        "ancient_greek": "Διότιμος ὁ Τύριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/authors/diotimus-of-tyre-dmu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.json"
+      }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/en/nausiphanes-of-teos",
+    "html": "https://eulogikon.org/authors/nausiphanes-of-teos-hik",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.txt",

@@ -141,6 +141,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-kings-generals-okg-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-kings-generals-okg-bi.epub"
+      }
+    },
+    {
       "eul_wid": "bgs-aa",
       "title": {
         "english": "Astrological Fragments",
@@ -148,60 +164,12 @@
       },
       "url_slug": "pythagoras-of-samos-astrology-bgs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrology",
+        "html": "https://eulogikon.org/works/pythagoras-samos-astrology-bgs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrology-bgs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrology.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bh",
-      "title": {
-        "english": "How One Might Benefit from Enemies",
-        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
-      },
-      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-ac",
-      "title": {
-        "english": "On Electing Magistrates",
-        "ancient_greek": "Περὶ τῆς ἐκλογῆς ἀρχόντων"
-      },
-      "url_slug": "theophrastus-of-eresus-electing-magistrates-ljk-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/electing-magistrates",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-electing-magistrates-ljk-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/electing-magistrates.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-el",
-      "title": {
-        "english": "On Flight",
-        "ancient_greek": "Περὶ φυγῆς"
-      },
-      "url_slug": "plutarch-of-chaeronea-flight-okg-el",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flight",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flight.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-astrology-bgs-aa.epub"
       }
     },
     {
@@ -212,44 +180,76 @@
       },
       "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "html": "https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-xenophanes-zeno-gorgias-hgw-ag.epub"
       }
     },
     {
-      "eul_wid": "ovu-aa",
+      "eul_wid": "ljk-ad",
       "title": {
-        "english": "Opinions (Stobaean Tradition)",
+        "english": "On the Causes of Plants",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν φυτῶν"
+      },
+      "url_slug": "theophrastus-of-eresus-causes-plants-ad-ljk-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-causes-plants-ad-ljk-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-causes-plants-ljk-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "ovu-ab",
+      "title": {
+        "english": "Opinions (Theodoret Tradition)",
         "ancient_greek": "Περὶ Δογμάτων Ἀπολείμματα"
       },
-      "url_slug": "aetius-the-doxographer-doctrines-remnants-aa-ovu-aa",
+      "url_slug": "aetius-the-doxographer-doctrines-remnants-ab-ovu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aetius-the-doxographer/doctrines-remnants-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer/doctrines-remnants-aa.epub"
+        "html": "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aetius-doctrines-remnants-ovu-ab.epub"
       }
     },
     {
-      "eul_wid": "udm-ab",
+      "eul_wid": "okg-em",
       "title": {
-        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
-        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+        "english": "Pelopidas",
+        "ancient_greek": "Πελοπίδας"
       },
-      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "url_slug": "plutarch-of-chaeronea-pelopidas-okg-em",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-pelopidas-okg-em",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pelopidas-okg-em.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pelopidas-okg-em.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pelopidas-okg-em.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pelopidas-okg-em.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-pelopidas-okg-em.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ac",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Iliad",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ἰλιάδα"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-iliad-udm-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-homeric-questions-iliad-udm-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-iliad-udm-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-homeric-questions-iliad-udm-ac.epub"
       }
     },
     {
@@ -260,22 +260,22 @@
       },
       "url_slug": "callimachus-of-cyrene-baths-pallas-iso-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/baths-pallas.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-baths-pallas-iso-ad.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law",
+    "html": "https://eulogikon.org/works/aristobulus-jewish-exegetical-mosaic-law-lbi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristobulus-jewish-exegetical-mosaic-law-lbi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

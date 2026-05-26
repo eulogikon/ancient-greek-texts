@@ -106,19 +106,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "udm-ai",
+      "eul_wid": "udm-af",
       "title": {
-        "english": "Book I of Homeric Questions Version X",
-        "ancient_greek": "Ἰλιακῶν προβλημάτων βιβλίον α (ἔκδοσις Χ)"
+        "english": "Book I of Homeric Questions Version B",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Β"
       },
-      "url_slug": "porphyry-of-tyre-homeric-questions-udm-ai",
+      "url_slug": "porphyry-of-tyre-homeric-questions-b-udm-af",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-udm-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-homeric-questions-b-udm-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-b-udm-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-homeric-questions-b-udm-af.epub"
       }
     },
     {
@@ -129,44 +129,28 @@
       },
       "url_slug": "epicurus-established-opinions-hui-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/established-opinions",
+        "html": "https://eulogikon.org/works/epicurus-established-opinions-hui-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-established-opinions-hui-af.epub"
       }
     },
     {
-      "eul_wid": "udm-ae",
+      "eul_wid": "okg-el",
       "title": {
-        "english": "Fragments of the History of Philosophy",
-        "ancient_greek": "Ἀποσπάσματα τῆς ἱστορίας τῆς φιλοσοφίας"
+        "english": "On Flight",
+        "ancient_greek": "Περὶ φυγῆς"
       },
-      "url_slug": "porphyry-of-tyre-history-philosophy-udm-ae",
+      "url_slug": "plutarch-of-chaeronea-flight-okg-el",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/history-philosophy",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-history-philosophy-udm-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ek",
-      "title": {
-        "english": "Marcellus",
-        "ancient_greek": "Μάρκελλος"
-      },
-      "url_slug": "plutarch-of-chaeronea-marcellus-okg-ek",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/marcellus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-marcellus-okg-ek.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marcellus.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flight-okg-el",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flight-okg-el.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flight-okg-el.epub"
       }
     },
     {
@@ -177,12 +161,44 @@
       },
       "url_slug": "aristotle-memory-recollection-hgw-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "html": "https://eulogikon.org/works/aristotle-memory-recollection-hgw-ai",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-memory-recollection-hgw-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-memory-recollection-hgw-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-an",
+      "title": {
+        "english": "On the Names of the King and the Consul",
+        "ancient_greek": "〈Περὶ τῶν ὀνομάτων τοῦ βασιλέως καὶ τοῦ ὑπάτου〉"
+      },
+      "url_slug": "themistius-names-king-consul-rye-an",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-names-king-consul-rye-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-names-king-consul-rye-an.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-aj",
+      "title": {
+        "english": "On the Vatican Codex",
+        "ancient_greek": "Ζητήματα τοῦ Βατικανοῦ κώδικος"
+      },
+      "url_slug": "porphyry-of-tyre-vatican-codex-udm-aj",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-vatican-codex-udm-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-vatican-codex-udm-aj.epub"
       }
     },
     {
@@ -193,54 +209,38 @@
       },
       "url_slug": "ocellus-of-lucania-testimonies-eoc-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/testimonies",
+        "html": "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-testimonies-eoc-ab.epub"
       }
     },
     {
-      "eul_wid": "rye-am",
+      "eul_wid": "okg-ao",
       "title": {
-        "english": "To the One Who Demanded Immediate Speech",
-        "ancient_greek": "Πρὸς τὸν ἀξιώσαντα λέγειν ἐκ τοῦ παραχρῆμα"
+        "english": "Whether An Elder Should Engage In Politics",
+        "ancient_greek": "Εἰ πρεσβυτέρῳ πολιτευτέον"
       },
-      "url_slug": "themistius-immediate-speech-rye-am",
+      "url_slug": "plutarch-of-chaeronea-elder-politics-okg-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/immediate-speech",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-immediate-speech-rye-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/immediate-speech.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-aj",
-      "title": {
-        "english": "Whether the Soul's or Body's Passions Are Worse",
-        "ancient_greek": "Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα"
-      },
-      "url_slug": "plutarch-of-chaeronea-soul-body-passions-okg-aj",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-body-passions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-body-passions-okg-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-body-passions.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-elder-politics-okg-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-elder-politics-okg-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-elder-politics-okg-ao.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/athenodorus-of-tarsus/historical-figures",
+    "html": "https://eulogikon.org/works/athenodorus-tarsus-historical-figures-mty-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus-historical-figures-mty-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus-historical-figures-mty-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus-historical-figures-mty-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus-historical-figures-mty-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus/historical-figures.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/athenodorus-tarsus-historical-figures-mty-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

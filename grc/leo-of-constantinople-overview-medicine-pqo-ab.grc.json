@@ -1352,16 +1352,32 @@
       },
       "url_slug": "leo-of-constantinople-nature-men-pqo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/leo-of-constantinople/nature-men",
+        "html": "https://eulogikon.org/works/leo-constantinople-nature-men-pqo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/leo-constantinople-nature-men-pqo-aa.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "lfo-aa",
+      "title": {
+        "english": "Fragments on the Nature of Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
+      },
+      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/aristocles-messene-nature-wisdom-lfo-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristocles-messene-nature-wisdom-lfo-aa.epub"
+      }
+    },
     {
       "eul_wid": "bzo-ac",
       "title": {
@@ -1370,28 +1386,12 @@
       },
       "url_slug": "critias-of-athens-heracles-underworld-bzo-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/critias-of-athens/heracles-underworld",
+        "html": "https://eulogikon.org/works/critias-athens-heracles-underworld-bzo-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/heracles-underworld.epub"
-      }
-    },
-    {
-      "eul_wid": "lea-aj",
-      "title": {
-        "english": "Hymns",
-        "ancient_greek": "Ὕμνοι"
-      },
-      "url_slug": "orphic-poems-hymns-lea-aj",
-      "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/hymns",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/hymns.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critias-athens-heracles-underworld-bzo-ac.epub"
       }
     },
     {
@@ -1402,12 +1402,12 @@
       },
       "url_slug": "chrysippus-of-soli-moral-fragments-kms-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/chrysippus-of-soli/moral-fragments",
+        "html": "https://eulogikon.org/works/chrysippus-soli-moral-fragments-kms-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-moral-fragments-kms-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-moral-fragments-kms-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-moral-fragments-kms-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-moral-fragments-kms-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/moral-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chrysippus-soli-moral-fragments-kms-ae.epub"
       }
     },
     {
@@ -1418,12 +1418,12 @@
       },
       "url_slug": "aristotle-generation-corruption-hgw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/generation-corruption",
+        "html": "https://eulogikon.org/works/aristotle-generation-corruption-hgw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-corruption.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-generation-corruption-hgw-ae.epub"
       }
     },
     {
@@ -1434,12 +1434,28 @@
       },
       "url_slug": "aristotle-indivisible-lines-hgw-as",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/indivisible-lines",
+        "html": "https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/indivisible-lines.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-indivisible-lines-hgw-as.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-am",
+      "title": {
+        "english": "On Sacrifice and Magic",
+        "ancient_greek": "Περὶ θυσίας καὶ μαγείας"
+      },
+      "url_slug": "proclus-the-successor-sacrifice-magic-uqy-am",
+      "links": {
+        "html": "https://eulogikon.org/works/proclus-sacrifice-magic-uqy-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-sacrifice-magic-uqy-am.epub"
       }
     },
     {
@@ -1450,12 +1466,12 @@
       },
       "url_slug": "charondas-the-lawgiver-preambles-laws-azk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/charondas-the-lawgiver/preambles-laws",
+        "html": "https://eulogikon.org/works/charondas-preambles-laws-azk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver/preambles-laws.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/charondas-preambles-laws-azk-aa.epub"
       }
     },
     {
@@ -1466,38 +1482,22 @@
       },
       "url_slug": "hermodorus-of-ephesus-testimonies-fragments-exs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/testimonies-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "uqy-al",
-      "title": {
-        "english": "Theological Instruction",
-        "ancient_greek": "Θεολογικὴ Διδασκαλία"
-      },
-      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
-      "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-testimonies-fragments-exs-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/leo-of-constantinople/overview-medicine",
+    "html": "https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/leo-constantinople-overview-medicine-pqo-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -149,22 +149,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "rye-bd",
-      "title": {
-        "english": "Discourse-the Word",
-        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
-      },
-      "url_slug": "themistius-discourse-the-word-rye-bd",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.epub"
-      }
-    },
-    {
       "eul_wid": "hks-ab",
       "title": {
         "english": "Fragments on Archytas",
@@ -172,12 +156,12 @@
       },
       "url_slug": "bion-of-borysthenes-archytas-fragments-hks-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments",
+        "html": "https://eulogikon.org/works/bion-borysthenes-archytas-fragments-hks-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/bion-borysthenes-archytas-fragments-hks-ab.epub"
       }
     },
     {
@@ -188,12 +172,12 @@
       },
       "url_slug": "hippon-of-samos-oceanic-hydrology-cui-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hippon-of-samos/oceanic-hydrology",
+        "html": "https://eulogikon.org/works/hippon-samos-oceanic-hydrology-cui-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/oceanic-hydrology.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippon-samos-oceanic-hydrology-cui-ab.epub"
       }
     },
     {
@@ -204,44 +188,28 @@
       },
       "url_slug": "demetrius-of-phaleron-jewish-law-hjy-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/demetrius-of-phaleron/jewish-law",
+        "html": "https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron/jewish-law.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demetrius-phaleron-jewish-law-hjy-aa.epub"
       }
     },
     {
-      "eul_wid": "nbq-ab",
+      "eul_wid": "lgi-ae",
       "title": {
-        "english": "On Passions, Book 2",
-        "ancient_greek": "Περὶ παθῶν"
+        "english": "On the Eternity of the World",
+        "ancient_greek": "Περὶ Ἀϊδιότητος Κόσμου"
       },
-      "url_slug": "andronicus-of-rhodes-passions-book-2-nbq-ab",
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/andronicus-of-rhodes/passions-book-2",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ad",
-      "title": {
-        "english": "On the Contemplative Life",
-        "ancient_greek": "Περὶ τοῦ Θεωρητικοῦ Βίου"
-      },
-      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-ae-lgi-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-ae.epub"
       }
     },
     {
@@ -252,12 +220,12 @@
       },
       "url_slug": "brontinus-of-metapontum-testimonies-azu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/testimonies",
+        "html": "https://eulogikon.org/works/brontinus-metapontum-testimonies-azu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/brontinus-metapontum-testimonies-azu-aa.epub"
       }
     },
     {
@@ -268,22 +236,54 @@
       },
       "url_slug": "hippon-of-samos-testimonies-cui-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hippon-of-samos/testimonies",
+        "html": "https://eulogikon.org/works/hippon-samos-testimonies-cui-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippon-samos-testimonies-cui-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "niy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "boidas-the-philologist-testimony-niy-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/boidas-testimony-niy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist-testimony-niy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/boidas-testimony-niy-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-be",
+      "title": {
+        "english": "Thesis-Whether to Farm",
+        "ancient_greek": "Θέσις εἰ γεωργητέον"
+      },
+      "url_slug": "themistius-whether-to-farm-rye-be",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-whether-to-farm-rye-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-whether-to-farm-rye-be.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/scythinus-of-teos-i/epigrams",
+    "html": "https://eulogikon.org/works/scythinus-teos-epigrams-has-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-i-epigrams-has-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-i-epigrams-has-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-i-epigrams-has-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-i-epigrams-has-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-i/epigrams.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/scythinus-teos-epigrams-has-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

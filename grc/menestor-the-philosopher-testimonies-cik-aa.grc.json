@@ -107,19 +107,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "lya-aa",
+      "eul_wid": "okg-fk",
       "title": {
-        "english": "Fragments on Stoic Logic",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+        "english": "Cimon",
+        "ancient_greek": "Κίμων"
       },
-      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+      "url_slug": "plutarch-of-chaeronea-cimon-okg-fk",
       "links": {
-        "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-cimon-okg-fk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-okg-fk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-cimon-okg-fk.epub"
+      }
+    },
+    {
+      "eul_wid": "lyu-aa",
+      "title": {
+        "english": "Fragments on Early Roman History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+      },
+      "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/gaius-acilius-early-roman-history-lyu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/gaius-acilius-early-roman-history-lyu-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-af",
+      "title": {
+        "english": "From the Metaphysics",
+        "ancient_greek": "Ἐκ τῶν μετὰ τὰ φυσικά"
+      },
+      "url_slug": "theophrastus-of-eresus-metaphysics-ljk-af",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-metaphysics-ljk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-metaphysics-ljk-af.epub"
       }
     },
     {
@@ -130,60 +162,12 @@
       },
       "url_slug": "callimachus-of-cyrene-iambs-iso-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/iambs",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-iambs-iso-ar",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fj",
-      "title": {
-        "english": "Nicias",
-        "ancient_greek": "Νικίας"
-      },
-      "url_slug": "plutarch-of-chaeronea-nicias-okg-fj",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nicias",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-ae",
-      "title": {
-        "english": "On Sense and Sensibles",
-        "ancient_greek": "Περὶ αἰσθήσεως καὶ τῶν αἰσθητῶν"
-      },
-      "url_slug": "theophrastus-of-eresus-sense-sensibles-ljk-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/sense-sensibles",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-sense-sensibles-ljk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/sense-sensibles.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ba",
-      "title": {
-        "english": "On the Change of Names",
-        "ancient_greek": "Περὶ Μεταβολῆς Ὀνομάτων"
-      },
-      "url_slug": "philo-of-alexandria-change-names-lgi-ba",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/change-names",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/change-names.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-iambs-iso-ar.epub"
       }
     },
     {
@@ -194,12 +178,12 @@
       },
       "url_slug": "antisthenes-of-athens-i-testimonies-frs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies",
+        "html": "https://eulogikon.org/works/antisthenes-athens-testimonies-frs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antisthenes-athens-testimonies-frs-aa.epub"
       }
     },
     {
@@ -210,38 +194,54 @@
       },
       "url_slug": "ocellus-of-lucania-testimonies-eoc-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/testimonies",
+        "html": "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-testimonies-eoc-ab.epub"
       }
     },
     {
-      "eul_wid": "sno-af",
+      "eul_wid": "lgi-bb",
       "title": {
-        "english": "To Themistius the Philosopher",
-        "ancient_greek": "Θεμιστίῳ φιλοσόφῳ"
+        "english": "That God is Immutable",
+        "ancient_greek": "Ὅτι ὁ Θεὸς ἄτρεπτος ἐστίν"
       },
-      "url_slug": "julian-the-apostate-to-themistius-sno-af",
+      "url_slug": "philo-of-alexandria-god-immutable-lgi-bb",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-to-themistius-sno-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-god-immutable-lgi-bb.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ag",
+      "title": {
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
+      },
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-helios-salustius-sno-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-helios-salustius-sno-ag.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/menestor-the-philosopher/testimonies",
+    "html": "https://eulogikon.org/works/menestor-testimonies-cik-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/menestor-testimonies-cik-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

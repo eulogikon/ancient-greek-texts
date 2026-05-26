@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "dam-ab",
-      "title": {
-        "english": "Domestic Comedy Fragments",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "diocles-the-comic-poet-domestic-comedy-ab-dam-ab",
-      "passages": 15,
-      "links": {
-        "html": "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-ab.epub"
-      }
-    },
-    {
       "eul_wid": "dam-aa",
       "title": {
         "english": "Domestic Comedy Fragments",
@@ -69,18 +52,35 @@
       "url_slug": "diocles-the-comic-poet-domestic-comedy-aa-dam-aa",
       "passages": 21,
       "links": {
-        "html": "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-aa",
+        "html": "https://eulogikon.org/works/diocles-domestic-comedy-dam-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-aa-dam-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-aa-dam-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-aa-dam-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-aa-dam-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diocles-domestic-comedy-dam-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "dam-ab",
+      "title": {
+        "english": "Domestic Comedy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diocles-the-comic-poet-domestic-comedy-ab-dam-ab",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/works/diocles-domestic-comedy-dam-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet-domestic-comedy-ab-dam-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diocles-domestic-comedy-dam-ab.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/diocles-the-comic-poet",
+    "html": "https://eulogikon.org/authors/diocles-comicus-dam",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet-dam.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet-dam.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet-dam.en.txt",

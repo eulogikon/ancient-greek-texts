@@ -105,12 +105,12 @@
       },
       "url_slug": "secundus-the-silent-sentences-pzk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
+        "html": "https://eulogikon.org/works/secundus-sentences-pzk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/secundus-sentences-pzk-ab.epub"
       }
     }
   ],
@@ -123,12 +123,12 @@
       },
       "url_slug": "epicurus-uncertain-fragments-hui-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/uncertain-fragments",
+        "html": "https://eulogikon.org/works/epicurus-uncertain-fragments-hui-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-uncertain-fragments-hui-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-uncertain-fragments-hui-aa.epub"
       }
     },
     {
@@ -139,28 +139,60 @@
       },
       "url_slug": "chamaeleon-of-heraclea-pontica-music-maxims-gww-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/chamaeleon-of-heraclea-pontica/music-maxims",
+        "html": "https://eulogikon.org/works/chamaeleon-heraclea-music-maxims-gww-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-music-maxims-gww-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-music-maxims-gww-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-music-maxims-gww-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-music-maxims-gww-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/music-maxims.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chamaeleon-heraclea-music-maxims-gww-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-dc",
+      "eul_wid": "okg-cg",
       "title": {
-        "english": "On Brotherly Love",
-        "ancient_greek": "Περὶ φιλαδελφίας"
+        "english": "On Affection for Offspring",
+        "ancient_greek": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
       },
-      "url_slug": "plutarch-of-chaeronea-brotherly-love-okg-dc",
+      "url_slug": "plutarch-of-chaeronea-affection-offspring-okg-cg",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/brotherly-love",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brotherly-love-okg-dc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brotherly-love-okg-dc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brotherly-love-okg-dc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brotherly-love-okg-dc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brotherly-love.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-affection-offspring-okg-cg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-affection-offspring-okg-cg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-affection-offspring-okg-cg.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-dd",
+      "title": {
+        "english": "On Love of Wealth",
+        "ancient_greek": "Περὶ φιλοπλουτίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-love-wealth-okg-dd",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-love-wealth-okg-dd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-love-wealth-okg-dd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-love-wealth-okg-dd.epub"
+      }
+    },
+    {
+      "eul_wid": "ljk-al",
+      "title": {
+        "english": "On Paralysis",
+        "ancient_greek": "Περὶ Παραλύσεως"
+      },
+      "url_slug": "theophrastus-of-eresus-paralysis-ljk-al",
+      "links": {
+        "html": "https://eulogikon.org/works/theophrastus-eresus-paralysis-ljk-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-paralysis-ljk-al.epub"
       }
     },
     {
@@ -171,86 +203,54 @@
       },
       "url_slug": "aristotle-spirit-hgw-be",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/spirit",
+        "html": "https://eulogikon.org/works/aristotle-spirit-hgw-be",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-spirit-hgw-be.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/spirit.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-spirit-hgw-be.epub"
       }
     },
     {
-      "eul_wid": "vls-ac",
+      "eul_wid": "vls-ad",
       "title": {
-        "english": "Scholia on Sophistical Refutations (Recension A)",
+        "english": "Scholia on Sophistical Refutations (Recension B)",
         "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
       },
-      "url_slug": "sophistical-refutations-anonymous-scholia-ac-vls-ac",
+      "url_slug": "sophistical-refutations-anonymous-scholia-ad-vls-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ac",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ac.epub"
+        "html": "https://eulogikon.org/works/anon-soph-ref-scholia-vls-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-scholia-vls-ad.epub"
       }
     },
     {
-      "eul_wid": "lgi-ag",
+      "eul_wid": "sno-ai",
       "title": {
-        "english": "Surviving Works of Philo (Bulk Volume)",
-        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
+        "english": "Short Poems and Fragments",
+        "ancient_greek": "Ἐπιγράμματα καὶ Ἀποσπάσματα"
       },
-      "url_slug": "philo-of-alexandria-surviving-works-ag-lgi-ag",
+      "url_slug": "julian-the-apostate-short-poems-sno-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-ag",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cf",
-      "title": {
-        "english": "Whether Virtue Is Teachable",
-        "ancient_greek": "Εἰ διδακτὸν ἡ ἀρετή"
-      },
-      "url_slug": "plutarch-of-chaeronea-virtue-teachable-okg-cf",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtue-teachable",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-virtue-teachable-okg-cf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-teachable.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-ah",
-      "title": {
-        "english": "encom to Empress Eusebia",
-        "ancient_greek": "Εὐσεβίας τῆς βασιλίδος ἐγκώμιον"
-      },
-      "url_slug": "julian-the-apostate-encom-eusebia-sno-ah",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/encom-eusebia",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encom-eusebia.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-short-poems-sno-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-short-poems-sno-ai.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/secundus-the-silent/life",
+    "html": "https://eulogikon.org/works/secundus-life-pzk-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/secundus-life-pzk-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -1204,12 +1204,12 @@
       },
       "url_slug": "antisthenes-of-athens-ii-exhortation-fragments-dhu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/antisthenes-of-athens-ii/exhortation-fragments",
+        "html": "https://eulogikon.org/works/antisthenes-athens-exhortation-fragments-dhu-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-exhortation-fragments-dhu-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-exhortation-fragments-dhu-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-exhortation-fragments-dhu-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-exhortation-fragments-dhu-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/exhortation-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antisthenes-athens-exhortation-fragments-dhu-ab.epub"
       }
     }
   ],
@@ -1222,44 +1222,28 @@
       },
       "url_slug": "plato-alcibiades-ffk-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/alcibiades",
+        "html": "https://eulogikon.org/works/plato-alcibiades-ffk-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-alcibiades-ffk-ae.epub"
       }
     },
     {
-      "eul_wid": "rye-bc",
+      "eul_wid": "rye-bd",
       "title": {
-        "english": "Erotic or-Royal Beauty",
-        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
       },
-      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "url_slug": "themistius-discourse-the-word-rye-bd",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-aa",
-      "title": {
-        "english": "Fragments of Parthica, According to John Lydus and Syncellus",
-        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
-      },
-      "url_slug": "arrian-of-nicomedia-parthica-fragments-aa-pcs-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-parthica-fragments-aa-pcs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.epub"
+        "html": "https://eulogikon.org/works/themistius-discourse-the-word-rye-bd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-discourse-the-word-rye-bd.epub"
       }
     },
     {
@@ -1270,60 +1254,76 @@
       },
       "url_slug": "dionysius-the-renegade-pleasure-conduct-hje-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct",
+        "html": "https://eulogikon.org/works/dionysius-renegade-pleasure-conduct-hje-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade/pleasure-conduct.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-renegade-pleasure-conduct-hje-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-do",
+      "eul_wid": "okg-cd",
       "title": {
-        "english": "Natural Causes",
-        "ancient_greek": "Αἴτια φυσικά"
+        "english": "On Flesh-Eating Discourse B",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος β′"
       },
-      "url_slug": "plutarch-of-chaeronea-natural-causes-okg-do",
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cd-okg-cd",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/natural-causes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-natural-causes-okg-do.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/natural-causes.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flesh-eating-okg-cd.epub"
       }
     },
     {
-      "eul_wid": "okg-cc",
+      "eul_wid": "okg-dp",
       "title": {
-        "english": "On Flesh-Eating Discourse A",
-        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+        "english": "On Tranquility",
+        "ancient_greek": "Περὶ εὐθυμίας"
       },
-      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "url_slug": "plutarch-of-chaeronea-tranquility-okg-dp",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flesh-eating-cc",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flesh-eating-cc.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-tranquility-okg-dp",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-tranquility-okg-dp.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-tranquility-okg-dp.epub"
       }
     },
     {
-      "eul_wid": "rye-ag",
+      "eul_wid": "rye-aa",
       "title": {
-        "english": "On Speaking or How the Philosopher Should Speak",
-        "ancient_greek": "〈Ὑπὲρ τοῦ λέγειν ἢ πῶς τῷ φιλοσόφῳ λεκτέον〉"
+        "english": "Oration to Emperor Constantius on the Philosopher King",
+        "ancient_greek": "Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα"
       },
-      "url_slug": "themistius-speaking-philosopher-rye-ag",
+      "url_slug": "themistius-oration-constantius-philosopher-king-rye-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/speaking-philosopher",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.epub"
+        "html": "https://eulogikon.org/works/themistius-oration-constantius-philosopher-king-rye-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-oration-constantius-philosopher-king-rye-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "ozg-aa",
+      "title": {
+        "english": "Physiognomic Fragment",
+        "ancient_greek": "Φυσιογνωμονικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "polemon-laodicea-physiognomic-ozg-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/polemon-laodicea-physiognomic-ozg-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-physiognomic-ozg-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/polemon-laodicea-physiognomic-ozg-aa.epub"
       }
     },
     {
@@ -1334,22 +1334,22 @@
       },
       "url_slug": "ocellus-of-lucania-testimonies-eoc-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/testimonies",
+        "html": "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-testimonies-eoc-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/antisthenes-of-athens-ii/declamations",
+    "html": "https://eulogikon.org/works/antisthenes-athens-declamations-dhu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-declamations-dhu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-declamations-dhu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-declamations-dhu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii-declamations-dhu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/declamations.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antisthenes-athens-declamations-dhu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

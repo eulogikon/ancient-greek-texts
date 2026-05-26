@@ -78,51 +78,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bk",
+      "eul_wid": "okg-bl",
       "title": {
-        "english": "Comparison of Pericles and Fabius",
-        "ancient_greek": "Περικλέους καὶ Φαβίου σύγκρισις"
+        "english": "Comparison of Solon and Poplicola",
+        "ancient_greek": "Σόλωνος καὶ Ποπλικόλα σύγκρισις"
       },
-      "url_slug": "plutarch-of-chaeronea-pericles-fabius-okg-bk",
+      "url_slug": "plutarch-of-chaeronea-solon-poplicola-okg-bl",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles-fabius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-fabius-okg-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.epub"
-      }
-    },
-    {
-      "eul_wid": "ojw-ac",
-      "title": {
-        "english": "Discourses of Epictetus by Arrian",
-        "ancient_greek": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν"
-      },
-      "url_slug": "epictetus-discourses-ojw-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-at",
-      "title": {
-        "english": "Exhortation to Young Valentinian",
-        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
-      },
-      "url_slug": "themistius-exhortation-valentinian-rye-at",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-poplicola-okg-bl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-solon-poplicola-okg-bl.epub"
       }
     },
     {
@@ -133,12 +101,28 @@
       },
       "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "html": "https://eulogikon.org/works/archytas-tarentum-mathematics-harmony-faa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/archytas-tarentum-mathematics-harmony-faa-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "ojw-ad",
+      "title": {
+        "english": "Gnomology (Short)",
+        "ancient_greek": "Γνωμολόγιον Ἐπικτήτου"
+      },
+      "url_slug": "epictetus-gnomology-ad-ojw-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
       }
     },
     {
@@ -149,12 +133,28 @@
       },
       "url_slug": "aristotle-generation-corruption-hgw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/generation-corruption",
+        "html": "https://eulogikon.org/works/aristotle-generation-corruption-hgw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-corruption-hgw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-corruption.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-generation-corruption-hgw-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-au",
+      "title": {
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+      },
+      "url_slug": "themistius-failed-valens-rye-au",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-failed-valens-rye-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-failed-valens-rye-au.epub"
       }
     },
     {
@@ -165,12 +165,12 @@
       },
       "url_slug": "aristotle-length-life-hgw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/length-life",
+        "html": "https://eulogikon.org/works/aristotle-length-life-hgw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/length-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-length-life-hgw-ac.epub"
       }
     },
     {
@@ -181,12 +181,12 @@
       },
       "url_slug": "anaximander-of-miletus-nature-infinite-aua-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite",
+        "html": "https://eulogikon.org/works/anaximander-miletus-nature-infinite-aua-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-nature-infinite-aua-ab.epub"
       }
     },
     {
@@ -197,22 +197,22 @@
       },
       "url_slug": "zaleucus-of-locri-preamble-laws-aeg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws",
+        "html": "https://eulogikon.org/works/zaleucus-locri-preamble-laws-aeg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zaleucus-locri-preamble-laws-aeg-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/antisthenes-of-athens-i/testimonies",
+    "html": "https://eulogikon.org/works/antisthenes-athens-testimonies-frs-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i-testimonies-frs-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-i/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antisthenes-athens-testimonies-frs-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

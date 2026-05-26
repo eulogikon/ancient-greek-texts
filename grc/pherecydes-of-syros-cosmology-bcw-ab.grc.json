@@ -175,16 +175,32 @@
       },
       "url_slug": "pherecydes-of-syros-testimonies-bcw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pherecydes-of-syros/testimonies",
+        "html": "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-testimonies-bcw-aa.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "okg-cl",
+      "title": {
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
+      },
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-consolation-wife-okg-cl.epub"
+      }
+    },
     {
       "eul_wid": "ffk-at",
       "title": {
@@ -193,134 +209,118 @@
       },
       "url_slug": "plato-cratylus-ffk-at",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/cratylus",
+        "html": "https://eulogikon.org/works/plato-cratylus-ffk-at",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-cratylus-ffk-at.epub"
       }
     },
     {
-      "eul_wid": "rye-al",
+      "eul_wid": "pcs-aq",
       "title": {
-        "english": "Exhortation to Nicomedians-Philosophy",
-        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
       },
-      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-nicomedians-rye-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-cynegeticus-pcs-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cynegeticus-pcs-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-cynegeticus-pcs-aq.epub"
       }
     },
     {
-      "eul_wid": "pcs-ap",
+      "eul_wid": "pzk-aa",
       "title": {
-        "english": "Fragments on Cavalry Tactics",
-        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππικῆς Τακτικῆς"
+        "english": "Life of Secundus",
+        "ancient_greek": "Βίος Σεκούνδου"
       },
-      "url_slug": "arrian-of-nicomedia-cavalry-tactics-pcs-ap",
+      "url_slug": "secundus-the-silent-life-pzk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cavalry-tactics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-cavalry-tactics-pcs-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.epub"
+        "html": "https://eulogikon.org/works/secundus-life-pzk-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/secundus-life-pzk-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-ck",
+      "eul_wid": "rye-ag",
       "title": {
-        "english": "On Not Needing to Borrow",
-        "ancient_greek": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
+        "english": "On Speaking or How the Philosopher Should Speak",
+        "ancient_greek": "〈Ὑπὲρ τοῦ λέγειν ἢ πῶς τῷ φιλοσόφῳ λεκτέον〉"
       },
-      "url_slug": "plutarch-of-chaeronea-not-borrowing-okg-ck",
+      "url_slug": "themistius-speaking-philosopher-rye-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/not-borrowing",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/not-borrowing.epub"
+        "html": "https://eulogikon.org/works/themistius-speaking-philosopher-rye-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-speaking-philosopher-rye-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-speaking-philosopher-rye-ag.epub"
       }
     },
     {
-      "eul_wid": "rye-aq",
+      "eul_wid": "rye-aw",
       "title": {
-        "english": "Philadelphians or-Philanthropy",
-        "ancient_greek": "Φιλάδελφοι ἢ περὶ φιλανθρωπίας"
+        "english": "On the Presidency in the Senate",
+        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
       },
-      "url_slug": "themistius-philanthropy-rye-aq",
+      "url_slug": "themistius-presidency-senate-rye-aw",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/philanthropy",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy.epub"
+        "html": "https://eulogikon.org/works/themistius-presidency-senate-rye-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-presidency-senate-rye-aw.epub"
       }
     },
     {
-      "eul_wid": "reo-ah",
+      "eul_wid": "reo-ai",
       "title": {
-        "english": "Problems, Books 1–2",
+        "english": "Problems, Books 3–4",
         "ancient_greek": "Προβλήματα"
       },
-      "url_slug": "alexander-of-aphrodisias-problems-1-2-reo-ah",
+      "url_slug": "alexander-of-aphrodisias-problems-3-4-reo-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/problems-1-2",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-1-2-reo-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/problems-1-2.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-problems-3-4-reo-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-problems-3-4-reo-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-problems-3-4-reo-ai.epub"
       }
     },
     {
-      "eul_wid": "pza-ab",
+      "eul_wid": "sno-an",
       "title": {
-        "english": "Pythagorean Sentences (Recension B)",
-        "ancient_greek": "Γνῶμαι Πυθαγορείων"
+        "english": "Spurious Letters",
+        "ancient_greek": "Ἐπιστολαὶ Νόθαι"
       },
-      "url_slug": "pythagoreans-sayings-sentences-ab-pza-ab",
+      "url_slug": "julian-the-apostate-spurious-letters-sno-an",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoreans-sayings/sentences-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings/sentences-ab.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-am",
-      "title": {
-        "english": "Symposium or Kronia",
-        "ancient_greek": "Συμπόσιον ἢ Κρόνια"
-      },
-      "url_slug": "julian-the-apostate-symposium-sno-am",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/symposium",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-symposium-sno-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-symposium-sno-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-symposium-sno-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-symposium-sno-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/symposium.epub"
+        "html": "https://eulogikon.org/works/julian-apostate-spurious-letters-sno-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-spurious-letters-sno-an.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/pherecydes-of-syros/cosmology",
+    "html": "https://eulogikon.org/works/pherecydes-syros-cosmology-bcw-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros/cosmology.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pherecydes-syros-cosmology-bcw-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

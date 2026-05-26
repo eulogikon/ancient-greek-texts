@@ -294,30 +294,30 @@
       },
       "url_slug": "epicurean-anon-pythocles-nature-jtm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurean-anon/pythocles-nature",
+        "html": "https://eulogikon.org/works/epicurean-anon-pythocles-nature-jtm-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/pythocles-nature.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurean-anon-pythocles-nature-jtm-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "rye-bb",
+      "eul_wid": "lea-ab",
       "title": {
-        "english": "Consular to Emperor Jovian",
-        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
       },
-      "url_slug": "themistius-consular-jovian-rye-bb",
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-astrological-fragment-lea-ab.epub"
       }
     },
     {
@@ -328,12 +328,28 @@
       },
       "url_slug": "plato-definitions-ffk-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/definitions",
+        "html": "https://eulogikon.org/works/plato-definitions-ffk-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-definitions-ffk-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-definitions-ffk-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-erotic-beauty-rye-bc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-erotic-beauty-rye-bc.epub"
       }
     },
     {
@@ -344,28 +360,44 @@
       },
       "url_slug": "hippon-of-samos-oceanic-hydrology-cui-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hippon-of-samos/oceanic-hydrology",
+        "html": "https://eulogikon.org/works/hippon-samos-oceanic-hydrology-cui-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos/oceanic-hydrology.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hippon-samos-oceanic-hydrology-cui-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-ab",
+      "eul_wid": "rye-ai",
       "title": {
-        "english": "On the Fortune or Virtue of Alexander, Discourse A. Discourse B",
-        "ancient_greek": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α,"
+        "english": "On Not Paying Attention to Places but to Men",
+        "ancient_greek": "Περὶ τοῦ μὴ δεῖν τοῖς τόποις ἀλλὰ τοῖς ἀνδράσι"
       },
-      "url_slug": "plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab",
+      "url_slug": "themistius-attention-men-rye-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fortune-virtue-alexander",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-fortune-virtue-alexander-okg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fortune-virtue-alexander.epub"
+        "html": "https://eulogikon.org/works/themistius-attention-men-rye-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-attention-men-rye-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-attention-men-rye-ai.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ac",
+      "title": {
+        "english": "On That the Philosopher Should Converse Especially with Rulers",
+        "ancient_greek": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν"
+      },
+      "url_slug": "plutarch-of-chaeronea-philosopher-rulers-okg-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-philosopher-rulers-okg-ac.epub"
       }
     },
     {
@@ -376,70 +408,38 @@
       },
       "url_slug": "plato-philebus-ffk-ay",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/philebus",
+        "html": "https://eulogikon.org/works/plato-philebus-ffk-ay",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-philebus-ffk-ay.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/philebus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-philebus-ffk-ay.epub"
       }
     },
     {
-      "eul_wid": "lea-aa",
+      "eul_wid": "vls-ae",
       "title": {
-        "english": "Proclamations-Stones",
-        "ancient_greek": "Προκηρύξεις περὶ λίθων"
-      },
-      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/proclamations-stones",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/proclamations-stones.epub"
-      }
-    },
-    {
-      "eul_wid": "vls-ad",
-      "title": {
-        "english": "Scholia on Sophistical Refutations (Recension B)",
+        "english": "Scholia on Sophistical Refutations (Recension C)",
         "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
       },
-      "url_slug": "sophistical-refutations-anonymous-scholia-ad-vls-ad",
+      "url_slug": "sophistical-refutations-anonymous-scholia-ae-vls-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ad",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ad-vls-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-ah",
-      "title": {
-        "english": "To Those Not Correctly Interpreting the Sophist",
-        "ancient_greek": "Πρὸς τοὺς οὐκ ὀρθῶς ἐξηγουμένους τὸν σοφιστήν"
-      },
-      "url_slug": "themistius-interpreting-sophist-rye-ah",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/interpreting-sophist",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-interpreting-sophist-rye-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/interpreting-sophist.epub"
+        "html": "https://eulogikon.org/works/anon-soph-ref-scholia-vls-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ae-vls-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-scholia-vls-ae.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epicurean-anon/herculaneum-papyri",
+    "html": "https://eulogikon.org/works/epicurean-anon-herculaneum-papyri-jtm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/herculaneum-papyri.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurean-anon-herculaneum-papyri-jtm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

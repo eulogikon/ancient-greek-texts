@@ -820,35 +820,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "lgi-ak",
+      "eul_wid": "tfq-ad",
       "title": {
-        "english": "Allegorical Interpretation",
-        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
       },
-      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak",
+      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-ak",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-ak-lgi-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-ak.epub"
-      }
-    },
-    {
-      "eul_wid": "nso-aa",
-      "title": {
-        "english": "Fragments on Philosophical Division",
-        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφικῆς Διαιρέσεως"
-      },
-      "url_slug": "eudromus-the-philosopher-philosophical-division-nso-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/eudromus-the-philosopher/philosophical-division",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher/philosophical-division.epub"
+        "html": "https://eulogikon.org/works/syrianus-athens-commentary-aristotle-tfq-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-commentary-aristotle-tfq-ad.epub"
       }
     },
     {
@@ -859,12 +843,28 @@
       },
       "url_slug": "speusippus-of-athens-letters-philip-ega-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/speusippus-of-athens/letters-philip",
+        "html": "https://eulogikon.org/works/speusippus-athens-letters-philip-ega-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/speusippus-athens-letters-philip-ega-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "nwu-aa",
+      "title": {
+        "english": "Life of Aeschines",
+        "ancient_greek": "Βίος Αἰσχίνου"
+      },
+      "url_slug": "apollonius-of-tyana-ii-life-aeschines-nwu-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/apollonius-tyana-life-aeschines-nwu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-life-aeschines-nwu-aa.epub"
       }
     },
     {
@@ -875,44 +875,60 @@
       },
       "url_slug": "plato-lysis-ffk-bk",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/lysis",
+        "html": "https://eulogikon.org/works/plato-lysis-ffk-bk",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-ffk-bk.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-ffk-bk.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-ffk-bk.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-ffk-bk.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/lysis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-lysis-ffk-bk.epub"
       }
     },
     {
-      "eul_wid": "lgi-bh",
+      "eul_wid": "lgi-bi",
       "title": {
-        "english": "On Agriculture",
-        "ancient_greek": "Περὶ γεωργίας"
+        "english": "On Providence",
+        "ancient_greek": "Περὶ Προνοίας"
       },
-      "url_slug": "philo-of-alexandria-agriculture-lgi-bh",
+      "url_slug": "philo-of-alexandria-providence-lgi-bi",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/agriculture",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-agriculture-lgi-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/agriculture.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-providence-lgi-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-providence-lgi-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-providence-lgi-bi.epub"
       }
     },
     {
-      "eul_wid": "tfq-ac",
+      "eul_wid": "lea-aa",
       "title": {
-        "english": "Preface to Hermogenes' Book-Ideas",
-        "ancient_greek": "Περὶ ἰδεῶν"
+        "english": "Proclamations-Stones",
+        "ancient_greek": "Προκηρύξεις περὶ λίθων"
       },
-      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
+      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/preface-hermogenes.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-proclamations-stones-lea-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-proclamations-stones-lea-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-al",
+      "title": {
+        "english": "Questions on Genesis",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-works-of-philo-of-alexandria-lgi-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-works-of-philo-of-alexandria-lgi-al.epub"
       }
     },
     {
@@ -923,38 +939,22 @@
       },
       "url_slug": "ion-of-chios-testimonies-2-ccg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies-2",
+        "html": "https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.epub"
-      }
-    },
-    {
-      "eul_wid": "lcc-aa",
-      "title": {
-        "english": "Testimonies and Fragments",
-        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
-      },
-      "url_slug": "antipater-of-sidon-testimonies-lcc-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/antipater-of-sidon/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon-testimonies-lcc-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon-testimonies-lcc-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon-testimonies-lcc-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon-testimonies-lcc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-testimonies-2-ccg-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/diogenes-of-babylon/testimonies",
+    "html": "https://eulogikon.org/works/diogenes-babylon-testimonies-lxq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-babylon-testimonies-lxq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

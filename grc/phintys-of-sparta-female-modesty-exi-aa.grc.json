@@ -85,51 +85,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "vgs-ab",
+      "eul_wid": "rye-bd",
       "title": {
-        "english": "Commentaries-Aristotle in Greek",
-        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
       },
-      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "url_slug": "themistius-discourse-the-word-rye-bd",
       "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.epub"
+        "html": "https://eulogikon.org/works/themistius-discourse-the-word-rye-bd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-discourse-the-word-rye-bd.epub"
       }
     },
     {
-      "eul_wid": "rye-bc",
+      "eul_wid": "udm-av",
       "title": {
-        "english": "Erotic or-Royal Beauty",
-        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+        "english": "On Abstinence",
+        "ancient_greek": "Περὶ Ἀποχῆς"
       },
-      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "url_slug": "porphyry-of-tyre-abstinence-udm-av",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
-      }
-    },
-    {
-      "eul_wid": "udm-au",
-      "title": {
-        "english": "Life of Plotinus",
-        "ancient_greek": "Βίος Πλωτίνου"
-      },
-      "url_slug": "porphyry-of-tyre-life-plotinus-udm-au",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-plotinus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-life-plotinus-udm-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-abstinence-udm-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-abstinence-udm-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-abstinence-udm-av.epub"
       }
     },
     {
@@ -140,44 +124,60 @@
       },
       "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "html": "https://eulogikon.org/works/dius-phoenicia-beauty-excellence-jxi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia-beauty-excellence-jxi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dius-phoenicia-beauty-excellence-jxi-aa.epub"
       }
     },
     {
-      "eul_wid": "ljk-ai",
+      "eul_wid": "okg-cd",
       "title": {
-        "english": "On Faintheartedness",
-        "ancient_greek": "Περὶ Δειλίας"
+        "english": "On Flesh-Eating Discourse B",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος β′"
       },
-      "url_slug": "theophrastus-of-eresus-faintheartedness-ljk-ai",
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cd-okg-cd",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/faintheartedness",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-faintheartedness-ljk-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/faintheartedness.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cd-okg-cd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flesh-eating-okg-cd.epub"
       }
     },
     {
-      "eul_wid": "okg-cc",
+      "eul_wid": "okg-ck",
       "title": {
-        "english": "On Flesh-Eating Discourse A",
-        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+        "english": "On Not Needing to Borrow",
+        "ancient_greek": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι"
       },
-      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "url_slug": "plutarch-of-chaeronea-not-borrowing-okg-ck",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/flesh-eating-cc",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/flesh-eating-cc.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-not-borrowing-okg-ck",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-not-borrowing-okg-ck.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-not-borrowing-okg-ck.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-ac",
+      "title": {
+        "english": "On Porphyry's Isagoge",
+        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+      },
+      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-porphyry-isagoge-vgs-ac.epub"
       }
     },
     {
@@ -188,38 +188,38 @@
       },
       "url_slug": "aristotle-sleep-wakefulness-hgw-al",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/sleep-wakefulness",
+        "html": "https://eulogikon.org/works/aristotle-sleep-wakefulness-hgw-al",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sleep-wakefulness-hgw-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-sleep-wakefulness-hgw-al.epub"
       }
     },
     {
-      "eul_wid": "okg-cj",
+      "eul_wid": "ljk-aj",
       "title": {
-        "english": "To an Uneducated Governor",
-        "ancient_greek": "Πρὸς ἡγεμόνα ἀπαίδευτον"
+        "english": "Opinions-Physics",
+        "ancient_greek": "Γνώμαι περὶ φυσικῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-uneducated-governor-okg-cj",
+      "url_slug": "theophrastus-of-eresus-physics-ljk-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/uneducated-governor",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/uneducated-governor.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-physics-ljk-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-physics-ljk-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-physics-ljk-aj.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/phintys-of-sparta/female-modesty",
+    "html": "https://eulogikon.org/works/phintys-sparta-female-modesty-exi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phintys-sparta-female-modesty-exi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

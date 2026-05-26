@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "edi-ab",
-      "title": {
-        "english": "Golden Age of Plenty",
-        "ancient_greek": "Ἀποσπάσματα"
-      },
-      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab",
-      "passages": 59,
-      "links": {
-        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.epub"
-      }
-    },
-    {
       "eul_wid": "edi-aa",
       "title": {
         "english": "Golden Age of Plenty",
@@ -69,18 +52,35 @@
       "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
       "passages": 85,
       "links": {
-        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+        "html": "https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/telecleides-golden-age-of-plenty-edi-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "edi-ab",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab",
+      "passages": 59,
+      "links": {
+        "html": "https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/telecleides-golden-age-of-plenty-edi-ab.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/telecleides-the-comic-poet",
+    "html": "https://eulogikon.org/authors/telecleides-comicus-edi",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/telecleides-the-comic-poet-edi.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/telecleides-the-comic-poet-edi.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/telecleides-the-comic-poet-edi.en.txt",

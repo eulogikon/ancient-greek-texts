@@ -133,12 +133,12 @@
       },
       "url_slug": "musonius-the-roman-minor-fragments-nma-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/minor-fragments",
+        "html": "https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/minor-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-minor-fragments-nma-ac.epub"
       }
     },
     {
@@ -149,46 +149,62 @@
       },
       "url_slug": "musonius-the-roman-dissertations-nma-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/dissertations",
+        "html": "https://eulogikon.org/works/musonius-roman-dissertations-nma-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/dissertations.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-dissertations-nma-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "tfq-ad",
+      "eul_wid": "tni-aa",
       "title": {
-        "english": "Commentary-Aristotle in Greek",
-        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
+        "english": "Anthologium",
+        "ancient_greek": "Ἀνθολόγιον"
       },
-      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
+      "url_slug": "john-stobaeus-anthologium-tni-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/commentary-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/commentary-aristotle.epub"
+        "html": "https://eulogikon.org/works/john-stobaeus-anthologium-tni-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-stobaeus-anthologium-tni-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-bc",
+      "eul_wid": "rye-bd",
       "title": {
-        "english": "Erotic or-Royal Beauty",
-        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
       },
-      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "url_slug": "themistius-discourse-the-word-rye-bd",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.epub"
+        "html": "https://eulogikon.org/works/themistius-discourse-the-word-rye-bd",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-discourse-the-word-rye-bd.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-epigrams-sno-ar.epub"
       }
     },
     {
@@ -199,12 +215,12 @@
       },
       "url_slug": "aristotle-eudemian-ethics-hgw-ba",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "html": "https://eulogikon.org/works/aristotle-eudemian-ethics-hgw-ba",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-eudemian-ethics-hgw-ba.epub"
       }
     },
     {
@@ -215,86 +231,70 @@
       },
       "url_slug": "nessos-of-chios-homeric-interpretation-coo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/nessos-of-chios/homeric-interpretation",
+        "html": "https://eulogikon.org/works/nessos-chios-homeric-interpretation-coo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/homeric-interpretation.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nessos-chios-homeric-interpretation-coo-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-an",
+      "eul_wid": "uqy-am",
       "title": {
-        "english": "On the Creation of the Soul in the Timaeus",
-        "ancient_greek": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
+        "english": "On Sacrifice and Magic",
+        "ancient_greek": "Περὶ θυσίας καὶ μαγείας"
       },
-      "url_slug": "plutarch-of-chaeronea-soul-timaeus-okg-an",
+      "url_slug": "proclus-the-successor-sacrifice-magic-uqy-am",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-timaeus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.epub"
+        "html": "https://eulogikon.org/works/proclus-sacrifice-magic-uqy-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-sacrifice-magic-uqy-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-sacrifice-magic-uqy-am.epub"
       }
     },
     {
-      "eul_wid": "pza-aa",
+      "eul_wid": "pza-ab",
       "title": {
-        "english": "Pythagorean Sentences (Recension A)",
+        "english": "Pythagorean Sentences (Recension B)",
         "ancient_greek": "Γνῶμαι Πυθαγορείων"
       },
-      "url_slug": "pythagoreans-sayings-sentences-aa-pza-aa",
+      "url_slug": "pythagoreans-sayings-sentences-ab-pza-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoreans-sayings/sentences-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings/sentences-aa.epub"
+        "html": "https://eulogikon.org/works/pythagoreans-sentences-pza-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoreans-sentences-pza-ab.epub"
       }
     },
     {
-      "eul_wid": "sno-aq",
+      "eul_wid": "okg-ap",
       "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
+        "english": "Whether the Mind's Faculty is Passive Life",
+        "ancient_greek": "Εἰ ἡ τοῦ νοῦ δύναμις παθητικὸς βίος"
       },
-      "url_slug": "julian-the-apostate-testimonies-sno-aq",
+      "url_slug": "plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "uqy-al",
-      "title": {
-        "english": "Theological Instruction",
-        "ancient_greek": "Θεολογικὴ Διδασκαλία"
-      },
-      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
-      "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-theological-instruction-uqy-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-mind-faculty-passive-life-okg-ap.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/musonius-the-roman/spurious-letters",
+    "html": "https://eulogikon.org/works/musonius-roman-spurious-letters-nma-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/spurious-letters.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-spurious-letters-nma-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

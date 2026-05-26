@@ -603,35 +603,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uxc-al",
+      "eul_wid": "okg-fe",
       "title": {
-        "english": "Commentary on On Generation and Corruption",
-        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-al",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-antony-okg-fe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-antony-okg-fe.epub"
       }
     },
     {
-      "eul_wid": "rye-bd",
+      "eul_wid": "tfq-ad",
       "title": {
-        "english": "Discourse-the Word",
-        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
       },
-      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-discourse-the-word-rye-bd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.epub"
+        "html": "https://eulogikon.org/works/syrianus-athens-commentary-aristotle-tfq-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-commentary-aristotle-tfq-ad.epub"
       }
     },
     {
@@ -642,44 +642,60 @@
       },
       "url_slug": "phocylides-of-miletus-epigrams-bdg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/phocylides-of-miletus/epigrams",
+        "html": "https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phocylides-miletus-epigrams-bdg-ab.epub"
       }
     },
     {
-      "eul_wid": "rye-at",
-      "title": {
-        "english": "Exhortation to Young Valentinian",
-        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
-      },
-      "url_slug": "themistius-exhortation-valentinian-rye-at",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-ab",
+      "eul_wid": "pcs-ac",
       "title": {
         "english": "History of Alexander's Successors",
         "ancient_greek": "Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου"
       },
-      "url_slug": "arrian-of-nicomedia-alexander-successors-ab-pcs-ab",
+      "url_slug": "arrian-of-nicomedia-alexander-successors-ac-pcs-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/alexander-successors-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ab-pcs-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ab-pcs-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ab-pcs-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ab-pcs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ab.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-alexander-successors-pcs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ac-pcs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ac-pcs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ac-pcs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-alexander-successors-ac-pcs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-alexander-successors-pcs-ac.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-au",
+      "title": {
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+      },
+      "url_slug": "themistius-failed-valens-rye-au",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-failed-valens-rye-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-failed-valens-rye-au.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-am",
+      "title": {
+        "english": "On the Creation of the World",
+        "ancient_greek": "Περὶ τῆς τοῦ κόσμου δημιουργίας"
+      },
+      "url_slug": "john-philoponus-of-alexandria-creation-world-uxc-am",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-creation-world-uxc-am.epub"
       }
     },
     {
@@ -690,54 +706,38 @@
       },
       "url_slug": "philolaus-of-croton-nature-cosmos-bue-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/philolaus-of-croton/nature-cosmos",
+        "html": "https://eulogikon.org/works/philolaus-croton-nature-cosmos-bue-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/nature-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philolaus-croton-nature-cosmos-bue-ab.epub"
       }
     },
     {
-      "eul_wid": "tfq-ac",
+      "eul_wid": "rye-be",
       "title": {
-        "english": "Preface to Hermogenes' Book-Ideas",
-        "ancient_greek": "Περὶ ἰδεῶν"
+        "english": "Thesis-Whether to Farm",
+        "ancient_greek": "Θέσις εἰ γεωργητέον"
       },
-      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
+      "url_slug": "themistius-whether-to-farm-rye-be",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/preface-hermogenes.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fd",
-      "title": {
-        "english": "Theseus",
-        "ancient_greek": "Θησεύς"
-      },
-      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/theseus.epub"
+        "html": "https://eulogikon.org/works/themistius-whether-to-farm-rye-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-whether-to-farm-rye-be.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/pythagorists/testimonies-fragments",
+    "html": "https://eulogikon.org/works/pythagorists-testimonies-fragments-mwg-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagorists-testimonies-fragments-mwg-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagorists-testimonies-fragments-mwg-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagorists-testimonies-fragments-mwg-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagorists-testimonies-fragments-mwg-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagorists/testimonies-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagorists-testimonies-fragments-mwg-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

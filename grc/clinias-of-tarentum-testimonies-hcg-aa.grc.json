@@ -98,16 +98,64 @@
       },
       "url_slug": "clinias-of-tarentum-piety-virtue-hcg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/clinias-of-tarentum/piety-virtue",
+        "html": "https://eulogikon.org/works/clinias-tarentum-piety-virtue-hcg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clinias-tarentum-piety-virtue-hcg-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "sno-al",
+      "title": {
+        "english": "Against the Galileans",
+        "ancient_greek": "Κατὰ Γαλιλαίων"
+      },
+      "url_slug": "julian-the-apostate-against-galileans-sno-al",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-against-galileans-sno-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-against-galileans-sno-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-against-galileans-sno-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-against-galileans-sno-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-against-galileans-sno-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-against-galileans-sno-al.epub"
+      }
+    },
+    {
+      "eul_wid": "lea-ab",
+      "title": {
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-astrological-fragment-lea-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-astrological-fragment-lea-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "tfq-aa",
+      "title": {
+        "english": "Commentary-Hermogenes' Book-Issues",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ Ἑρμογένους περὶ στάσεων"
+      },
+      "url_slug": "syrianus-of-athens-hermogenes-issues-tfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/syrianus-athens-hermogenes-issues-tfq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-hermogenes-issues-tfq-aa.epub"
+      }
+    },
     {
       "eul_wid": "ffk-ba",
       "title": {
@@ -116,92 +164,60 @@
       },
       "url_slug": "plato-critias-ffk-ba",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/critias",
+        "html": "https://eulogikon.org/works/plato-critias-ffk-ba",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-critias-ffk-ba.epub"
       }
     },
     {
-      "eul_wid": "lyu-aa",
+      "eul_wid": "rmq-ac",
       "title": {
-        "english": "Fragments on Early Roman History",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+        "english": "Excerpts",
+        "ancient_greek": "Ἐκλογαί"
       },
-      "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+      "url_slug": "cassius-longinus-excerpts-rmq-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/gaius-acilius-the-historian/early-roman-history",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian/early-roman-history.epub"
+        "html": "https://eulogikon.org/works/cassius-longinus-excerpts-rmq-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-excerpts-rmq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cassius-longinus-excerpts-rmq-ac.epub"
       }
     },
     {
-      "eul_wid": "tfg-ab",
+      "eul_wid": "mhq-aa",
       "title": {
-        "english": "Letters to John",
-        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἰωάννην"
+        "english": "On Pythagorean Cosmology",
+        "ancient_greek": "Ἀποσπάσματα"
       },
-      "url_slug": "aeneas-of-gaza-letters-to-john-tfg-ab",
+      "url_slug": "alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aeneas-of-gaza/letters-to-john",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza/letters-to-john.epub"
+        "html": "https://eulogikon.org/works/alexandrian-anon-pythagorean-cosmology-mhq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexandrian-anon-pythagorean-cosmology-mhq-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-bl",
+      "eul_wid": "rye-bm",
       "title": {
-        "english": "On the Soul",
-        "ancient_greek": "Περὶ ψυχῆς"
+        "english": "Penteteric",
+        "ancient_greek": "Πενταετηρικός"
       },
-      "url_slug": "themistius-soul-rye-bl",
+      "url_slug": "themistius-penteteric-rye-bm",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/soul",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/soul.epub"
-      }
-    },
-    {
-      "eul_wid": "lea-aa",
-      "title": {
-        "english": "Proclamations-Stones",
-        "ancient_greek": "Προκηρύξεις περὶ λίθων"
-      },
-      "url_slug": "orphic-poems-proclamations-stones-lea-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/proclamations-stones",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/proclamations-stones.epub"
-      }
-    },
-    {
-      "eul_wid": "rmq-ab",
-      "title": {
-        "english": "Rhetorical Art",
-        "ancient_greek": "Τέχνη Ῥητορική"
-      },
-      "url_slug": "cassius-longinus-rhetoric-rmq-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/cassius-longinus/rhetoric",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-rhetoric-rmq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.epub"
+        "html": "https://eulogikon.org/works/themistius-penteteric-rye-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-penteteric-rye-bm.epub"
       }
     },
     {
@@ -212,38 +228,22 @@
       },
       "url_slug": "xenophanes-of-colophon-symposium-piety-beu-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-ak",
-      "title": {
-        "english": "To the Uneducated Dogs",
-        "ancient_greek": "Εἰς τοὺς ἀπαιδεύτους κύνας"
-      },
-      "url_slug": "julian-the-apostate-uneducated-dogs-sno-ak",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/uneducated-dogs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-uneducated-dogs-sno-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-uneducated-dogs-sno-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-uneducated-dogs-sno-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-uneducated-dogs-sno-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/uneducated-dogs.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-symposium-piety-beu-ad.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/clinias-of-tarentum/testimonies",
+    "html": "https://eulogikon.org/works/clinias-tarentum-testimonies-hcg-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/clinias-tarentum-testimonies-hcg-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -71,54 +71,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "tsi-aa",
-      "title": {
-        "english": "Commentary-Euclid's Data",
-        "ancient_greek": "Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα"
-      },
-      "url_slug": "marinus-of-neapolis-euclid-data-tsi-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/marinus-of-neapolis/euclid-data",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis/euclid-data.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bp",
-      "title": {
-        "english": "Comparison of Nicias and Crassus",
-        "ancient_greek": "Νικίου καὶ Κράσσου σύγκρισις"
-      },
-      "url_slug": "plutarch-of-chaeronea-nicias-crassus-okg-bp",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nicias-crassus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-crassus-okg-bp.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias-crassus.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fp",
-      "title": {
-        "english": "Dion",
-        "ancient_greek": "Δίων"
-      },
-      "url_slug": "plutarch-of-chaeronea-dion-okg-fp",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/dion",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-okg-fp.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion.epub"
-      }
-    },
-    {
       "eul_wid": "bgs-ac",
       "title": {
         "english": "Golden Poem",
@@ -126,12 +78,12 @@
       },
       "url_slug": "pythagoras-of-samos-golden-poem-bgs-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/golden-poem",
+        "html": "https://eulogikon.org/works/pythagoras-samos-golden-poem-bgs-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-golden-poem-bgs-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-golden-poem-bgs-ac.epub"
       }
     },
     {
@@ -142,12 +94,12 @@
       },
       "url_slug": "plato-hipparchus-ffk-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/hipparchus",
+        "html": "https://eulogikon.org/works/plato-hipparchus-ffk-aj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hipparchus-ffk-aj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hipparchus-ffk-aj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hipparchus-ffk-aj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-hipparchus-ffk-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hipparchus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-hipparchus-ffk-aj.epub"
       }
     },
     {
@@ -158,12 +110,60 @@
       },
       "url_slug": "plato-laws-ffk-bm",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/laws",
+        "html": "https://eulogikon.org/works/plato-laws-ffk-bm",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laws-ffk-bm.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laws-ffk-bm.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laws-ffk-bm.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laws-ffk-bm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/laws.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-laws-ffk-bm.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-aa",
+      "title": {
+        "english": "On Aristotle's Categories, Exposition by Question and Answer",
+        "ancient_greek": "Περὶ Κατηγοριῶν Ἀριστοτέλους"
+      },
+      "url_slug": "porphyry-of-tyre-categories-qa-udm-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-categories-qa-udm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-categories-qa-udm-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-bq",
+      "title": {
+        "english": "On Praising Oneself Without Envy",
+        "ancient_greek": "Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως"
+      },
+      "url_slug": "plutarch-of-chaeronea-praising-without-envy-okg-bq",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-praising-without-envy-okg-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-praising-without-envy-okg-bq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-praising-without-envy-okg-bq.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fq",
+      "title": {
+        "english": "Otho",
+        "ancient_greek": "Ὄθων"
+      },
+      "url_slug": "plutarch-of-chaeronea-otho-okg-fq",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-otho-okg-fq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-otho-okg-fq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-otho-okg-fq.epub"
       }
     },
     {
@@ -174,12 +174,12 @@
       },
       "url_slug": "epicurus-lost-books-hui-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/lost-books",
+        "html": "https://eulogikon.org/works/epicurus-lost-books-hui-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-lost-books-hui-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-lost-books-hui-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-lost-books-hui-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-lost-books-hui-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-lost-books-hui-ae.epub"
       }
     },
     {
@@ -190,22 +190,22 @@
       },
       "url_slug": "anaximander-of-miletus-testimonies-aua-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-testimonies-aua-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/apollonius-of-tyana-ii/life-aeschines",
+    "html": "https://eulogikon.org/works/apollonius-tyana-life-aeschines-nwu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii-life-aeschines-nwu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-ii/life-aeschines.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-life-aeschines-nwu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

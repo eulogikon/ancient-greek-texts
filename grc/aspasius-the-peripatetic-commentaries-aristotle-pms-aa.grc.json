@@ -1359,67 +1359,99 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uxc-al",
+      "eul_wid": "uxc-aj",
       "title": {
-        "english": "Commentary on On Generation and Corruption",
-        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+        "english": "Commentary on the Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-al",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj.epub"
       }
     },
     {
-      "eul_wid": "uxc-ai",
+      "eul_wid": "vvs-aa",
       "title": {
-        "english": "Commentary on the Categories",
-        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὸν Ἀριστοτέλην Ἐλληνιστί"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai",
+      "url_slug": "stephanus-of-alexandria-commentary-aristotle-vvs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-ai",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.epub"
+        "html": "https://eulogikon.org/works/stephanus-alexandria-commentary-aristotle-vvs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-of-alexandria-commentary-aristotle-vvs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-of-alexandria-commentary-aristotle-vvs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-of-alexandria-commentary-aristotle-vvs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-of-alexandria-commentary-aristotle-vvs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/stephanus-alexandria-commentary-aristotle-vvs-aa.epub"
       }
     },
     {
-      "eul_wid": "udm-ba",
+      "eul_wid": "msa-ab",
       "title": {
-        "english": "Fragments on the Seven Sages",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+        "english": "Fragments on Ocean Tides",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας"
       },
-      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.epub"
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-ocean-tides-msa-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-ocean-tides-msa-ab.epub"
       }
     },
     {
-      "eul_wid": "vnq-aa",
+      "eul_wid": "udw-aa",
       "title": {
-        "english": "Greek Commentaries-Aristotle",
-        "ancient_greek": "Ἑλληνικὰ σχόλια εἰς Ἀριστοτέλην"
+        "english": "On Nicomachus' Introduction to Arithmetic",
+        "ancient_greek": "Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς"
       },
-      "url_slug": "aristotle-commentary-anonymous-greek-commentaries-vnq-aa",
+      "url_slug": "iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle-commentary-anonymous/greek-commentaries",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous-greek-commentaries-vnq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous-greek-commentaries-vnq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous-greek-commentaries-vnq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous-greek-commentaries-vnq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous/greek-commentaries.epub"
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-am",
+      "title": {
+        "english": "On the Creation of the World",
+        "ancient_greek": "Περὶ τῆς τοῦ κόσμου δημιουργίας"
+      },
+      "url_slug": "john-philoponus-of-alexandria-creation-world-uxc-am",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-creation-world-uxc-am.epub"
+      }
+    },
+    {
+      "eul_wid": "rai-aa",
+      "title": {
+        "english": "On the Divisions of Philosophy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "atticus-the-philosopher-divisions-philosophy-rai-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/atticus-divisions-philosophy-rai-aa.epub"
       }
     },
     {
@@ -1430,12 +1462,12 @@
       },
       "url_slug": "aristotle-physiognomics-hgw-bf",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/physiognomics",
+        "html": "https://eulogikon.org/works/aristotle-physiognomics-hgw-bf",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physiognomics-hgw-bf.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physiognomics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-physiognomics-hgw-bf.epub"
       }
     },
     {
@@ -1446,54 +1478,22 @@
       },
       "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "html": "https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-testimonies-bdq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "msa-aa",
-      "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
-      },
-      "url_slug": "posidonius-of-apameia-rhodes-testimonies-msa-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "quy-aa",
-      "title": {
-        "english": "True Discourse",
-        "ancient_greek": "Ἀληθὴς λόγος"
-      },
-      "url_slug": "celsus-the-platonist-true-discourse-quy-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/celsus-the-platonist/true-discourse",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist/true-discourse.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleostratus-tenedos-testimonies-bdq-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aspasius-the-peripatetic/commentaries-aristotle",
+    "html": "https://eulogikon.org/works/aspasius-peripatetic-commentaries-aristotle-pms-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aspasius-peripatetic-commentaries-aristotle-pms-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

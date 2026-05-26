@@ -106,51 +106,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "tni-aa",
+      "eul_wid": "tsi-aa",
       "title": {
-        "english": "Anthologium",
-        "ancient_greek": "Ἀνθολόγιον"
+        "english": "Commentary-Euclid's Data",
+        "ancient_greek": "Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα"
       },
-      "url_slug": "john-stobaeus-anthologium-tni-aa",
+      "url_slug": "marinus-of-neapolis-euclid-data-tsi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/john-stobaeus/anthologium",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus/anthologium.epub"
+        "html": "https://eulogikon.org/works/marinus-neapolis-euclid-data-tsi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/marinus-neapolis-euclid-data-tsi-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-ba",
+      "eul_wid": "okg-bb",
       "title": {
-        "english": "Comparison of Sertorius and Eumenes",
-        "ancient_greek": "Σύγκρισις Σερτωρίου καὶ Εὐμένους"
+        "english": "Comparison of Timoleon and Aemilius",
+        "ancient_greek": "Σύγκρισις Τιμολέοντος καὶ Αἰμιλίου"
       },
-      "url_slug": "plutarch-of-chaeronea-sertorius-eumenes-okg-ba",
+      "url_slug": "plutarch-of-chaeronea-timoleon-aemilius-okg-bb",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/sertorius-eumenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-eumenes-okg-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-eumenes-okg-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-eumenes-okg-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-eumenes-okg-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/sertorius-eumenes.epub"
-      }
-    },
-    {
-      "eul_wid": "ozg-ab",
-      "title": {
-        "english": "Declamations",
-        "ancient_greek": "Μελέται"
-      },
-      "url_slug": "polemon-laodicea-declamations-ozg-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/polemon-laodicea/declamations",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea-declamations-ozg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-laodicea/declamations.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-timoleon-aemilius-okg-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-aemilius-okg-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-aemilius-okg-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-aemilius-okg-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-aemilius-okg-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-timoleon-aemilius-okg-bb.epub"
       }
     },
     {
@@ -161,28 +145,44 @@
       },
       "url_slug": "oenomaus-of-gadara-against-oracles-pak-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles",
+        "html": "https://eulogikon.org/works/oenomaus-gadara-against-oracles-pak-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/oenomaus-gadara-against-oracles-pak-aa.epub"
       }
     },
     {
-      "eul_wid": "uxc-ad",
+      "eul_wid": "pby-aa",
       "title": {
-        "english": "On Aristotle's Books-the Soul, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+        "english": "Fragments on Fate and Homer",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁμήρου"
       },
-      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
+      "url_slug": "diogenianus-the-grammarian-fate-homer-pby-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/on-soul-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.epub"
+        "html": "https://eulogikon.org/works/diogenianus-fate-homer-pby-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenianus-fate-homer-pby-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-ae",
+      "title": {
+        "english": "On the Use and Construction of the Astrolabe",
+        "ancient_greek": "Περὶ τῆς χρήσεως καὶ κατασκευῆς τοῦ ἀστρολάβου"
+      },
+      "url_slug": "john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae.epub"
       }
     },
     {
@@ -193,12 +193,12 @@
       },
       "url_slug": "sphaerus-of-borysthenes-stoic-fragments-ipw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments",
+        "html": "https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sphaerus-borysthenes-stoic-fragments-ipw-aa.epub"
       }
     },
     {
@@ -209,12 +209,12 @@
       },
       "url_slug": "echecrates-of-phlius-testimonies-ffa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/echecrates-of-phlius/testimonies",
+        "html": "https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/echecrates-phlius-testimonies-ffa-aa.epub"
       }
     },
     {
@@ -225,22 +225,22 @@
       },
       "url_slug": "callimachus-of-cyrene-baths-pallas-iso-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/baths-pallas",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/baths-pallas.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-baths-pallas-iso-ad.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule",
+    "html": "https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diotogenes-kingship-rule-ejm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -211,30 +211,30 @@
       },
       "url_slug": "aristotle-lives-common-life-tuq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle-lives/common-life",
+        "html": "https://eulogikon.org/works/aristotle-common-life-tuq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-common-life-tuq-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "iru-af",
+      "eul_wid": "iru-ai",
       "title": {
-        "english": "Excerpt from Preface-Phenomena",
-        "ancient_greek": "Ἐκλογὴ ἐκ τῆς Προοιμίου Περὶ Φαινομένων"
+        "english": "Astronomical Appendix",
+        "ancient_greek": "Ἀστρονομικά"
       },
-      "url_slug": "aratus-lives-preface-phenomena-iru-af",
+      "url_slug": "aratus-lives-astronomical-appendix-iru-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/preface-phenomena",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.epub"
+        "html": "https://eulogikon.org/works/aratus-astronomical-appendix-iru-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-astronomical-appendix-iru-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-astronomical-appendix-iru-ai.epub"
       }
     },
     {
@@ -245,12 +245,28 @@
       },
       "url_slug": "homer-life-anonymous-fourth-life-jho-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/fourth-life",
+        "html": "https://eulogikon.org/works/homer-fourth-life-jho-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-fourth-life-jho-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-fourth-life-jho-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ae",
+      "title": {
+        "english": "Introduction from Other Commentaries",
+        "ancient_greek": "Ἐξ ἑτέρων σχολίων εἰσαγωγή"
+      },
+      "url_slug": "aratus-lives-commentaries-introduction-iru-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/aratus-commentaries-introduction-iru-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-commentaries-introduction-iru-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-commentaries-introduction-iru-ae.epub"
       }
     },
     {
@@ -261,60 +277,60 @@
       },
       "url_slug": "aratus-lives-introduction-ah-iru-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ah",
+        "html": "https://eulogikon.org/works/aratus-introduction-iru-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-introduction-iru-ah.epub"
       }
     },
     {
-      "eul_wid": "iru-aj",
+      "eul_wid": "vbs-ac",
       "title": {
-        "english": "Life of Aratus",
-        "ancient_greek": "Βίος Ἀράτου"
+        "english": "Life of Euthymius",
+        "ancient_greek": "Βίος Εὐθυμίου"
       },
-      "url_slug": "aratus-lives-life-aj-iru-aj",
+      "url_slug": "cyril-of-scythopolis-life-euthymius-vbs-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.epub"
+        "html": "https://eulogikon.org/works/cyril-scythopolis-life-euthymius-vbs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cyril-scythopolis-life-euthymius-vbs-ac.epub"
       }
     },
     {
-      "eul_wid": "vbs-aa",
+      "eul_wid": "qvi-ad",
       "title": {
-        "english": "Life of John the Hesychast",
-        "ancient_greek": "Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ"
+        "english": "Life of Oppian (Version B)",
+        "ancient_greek": "Βίτα Ὀππιανοῦ (β)"
       },
-      "url_slug": "cyril-of-scythopolis-john-hesychast-vbs-aa",
+      "url_slug": "oppian-lives-life-ad-qvi-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/john-hesychast",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.epub"
+        "html": "https://eulogikon.org/works/oppian-life-qvi-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/oppian-life-qvi-ad.epub"
       }
     },
     {
-      "eul_wid": "rjo-aai",
+      "eul_wid": "vbs-ah",
       "title": {
-        "english": "Lives and Opinions: Book IX (Atomists and Sceptics)",
-        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ"
+        "english": "Life of Saba",
+        "ancient_greek": "Βίος Σάβα"
       },
-      "url_slug": "diogenes-of-laertia-lives-atomists-sceptics-rjo-aai",
+      "url_slug": "cyril-of-scythopolis-saba-vbs-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-atomists-sceptics",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-aai.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.epub"
+        "html": "https://eulogikon.org/works/cyril-scythopolis-saba-vbs-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cyril-scythopolis-saba-vbs-ah.epub"
       }
     },
     {
@@ -325,38 +341,22 @@
       },
       "url_slug": "aratus-lives-prooemium-phenomena-iru-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/prooemium-phenomena",
+        "html": "https://eulogikon.org/works/aratus-prooemium-phenomena-iru-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-prooemium-phenomena-iru-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.epub"
-      }
-    },
-    {
-      "eul_wid": "iru-an",
-      "title": {
-        "english": "Sphere",
-        "ancient_greek": "Σφαῖρα"
-      },
-      "url_slug": "aratus-lives-sphere-iru-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/sphere",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-sphere-iru-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-prooemium-phenomena-iru-ag.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aristotle-lives/marcian",
+    "html": "https://eulogikon.org/works/aristotle-marcian-tuq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-marcian-tuq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

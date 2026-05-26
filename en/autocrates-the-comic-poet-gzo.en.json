@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "gzo-aa",
-      "title": {
-        "english": "Fragments on Lydian Maidens",
-        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
-      },
-      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
-      "passages": 7,
-      "links": {
-        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.epub"
-      }
-    },
-    {
       "eul_wid": "gzo-ab",
       "title": {
         "english": "Fragments on Lydian Maidens",
@@ -69,18 +52,35 @@
       "url_slug": "autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab",
       "passages": 7,
       "links": {
-        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-ab",
+        "html": "https://eulogikon.org/works/autocrates-lydian-maidens-gzo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/autocrates-lydian-maidens-gzo-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "gzo-aa",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/works/autocrates-lydian-maidens-gzo-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/autocrates-lydian-maidens-gzo-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/autocrates-the-comic-poet",
+    "html": "https://eulogikon.org/authors/autocrates-the-comic-poet-gzo",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-comic-poet-gzo.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-comic-poet-gzo.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-comic-poet-gzo.en.txt",

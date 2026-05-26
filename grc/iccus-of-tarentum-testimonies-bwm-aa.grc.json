@@ -78,19 +78,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uim-aa",
+      "eul_wid": "lea-ad",
       "title": {
-        "english": "Commentaries-Nicomachean Ethics Books II–V",
-        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια Βιβλία Β'-Ε'"
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
       },
-      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa",
+      "url_slug": "orphic-poems-argonautica-lea-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-argonautica-lea-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-argonautica-lea-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-argonautica-lea-ad.epub"
+      }
+    },
+    {
+      "eul_wid": "uim-ab",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Book VII",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἠθικὰ Νικομάχεια Βιβλίον Ζ'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/anon-comm-aristotle-nicomachean-ethics-7-uim-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-comm-aristotle-nicomachean-ethics-7-uim-ab.epub"
       }
     },
     {
@@ -101,28 +117,12 @@
       },
       "url_slug": "empedocles-of-acragas-epigrams-die-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/empedocles-of-acragas/epigrams",
+        "html": "https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/epigrams.epub"
-      }
-    },
-    {
-      "eul_wid": "lea-ac",
-      "title": {
-        "english": "Fragments P. Derveni",
-        "ancient_greek": "Ἀποσπάσματα Π. Δερβενίου"
-      },
-      "url_slug": "orphic-poems-derveni-lea-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/derveni",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/derveni.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/empedocles-acragas-epigrams-die-ac.epub"
       }
     },
     {
@@ -133,28 +133,12 @@
       },
       "url_slug": "ecphantus-the-pythagorean-kingship-gqs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/ecphantus-the-pythagorean/kingship",
+        "html": "https://eulogikon.org/works/ecphantus-pythagorean-kingship-gqs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean/kingship.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-al",
-      "title": {
-        "english": "On Paralysis",
-        "ancient_greek": "Περὶ Παραλύσεως"
-      },
-      "url_slug": "theophrastus-of-eresus-paralysis-ljk-al",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/paralysis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/paralysis.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ecphantus-pythagorean-kingship-gqs-aa.epub"
       }
     },
     {
@@ -165,28 +149,44 @@
       },
       "url_slug": "teles-of-megara-pleasure-not-end-kkk-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/teles-of-megara/pleasure-not-end",
+        "html": "https://eulogikon.org/works/teles-megara-pleasure-not-end-kkk-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/pleasure-not-end.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/teles-megara-pleasure-not-end-kkk-ac.epub"
       }
     },
     {
-      "eul_wid": "lgi-au",
+      "eul_wid": "lgi-ah",
       "title": {
-        "english": "Questions-Genesis Fragments",
-        "ancient_greek": "Ζητήματα ἐν Γενέσει Ἀποσπάσματα"
+        "english": "On Rewards and Punishments and-Curses",
+        "ancient_greek": "Περὶ Μισθῶν καὶ Ποινῶν καὶ Καταρωμένων"
       },
-      "url_slug": "philo-of-alexandria-questions-genesis-lgi-au",
+      "url_slug": "philo-of-alexandria-rewards-punishments-curses-lgi-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/questions-genesis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/questions-genesis.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-rewards-punishments-curses-lgi-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-rewards-punishments-curses-lgi-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-rewards-punishments-curses-lgi-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-av",
+      "title": {
+        "english": "Questions-Exodus Fragments",
+        "ancient_greek": "Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα"
+      },
+      "url_slug": "philo-of-alexandria-questions-exodus-lgi-av",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-questions-exodus-lgi-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-questions-exodus-lgi-av.epub"
       }
     },
     {
@@ -197,22 +197,22 @@
       },
       "url_slug": "plato-theaetetus-ffk-am",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/theaetetus",
+        "html": "https://eulogikon.org/works/plato-theaetetus-ffk-am",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-theaetetus-ffk-am.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-theaetetus-ffk-am.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-theaetetus-ffk-am.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-theaetetus-ffk-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theaetetus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-theaetetus-ffk-am.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/iccus-of-tarentum/testimonies",
+    "html": "https://eulogikon.org/works/iccus-tarentum-testimonies-bwm-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum-testimonies-bwm-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum-testimonies-bwm-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum-testimonies-bwm-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum-testimonies-bwm-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iccus-tarentum-testimonies-bwm-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

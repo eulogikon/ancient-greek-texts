@@ -71,35 +71,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "lgi-ax",
+      "eul_wid": "sys-ab",
       "title": {
-        "english": "Fragments of Uncertain Work",
-        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Ἔργου"
+        "english": "Egyptians or-Providence",
+        "ancient_greek": "Αἰγύπτιοι ἢ Περὶ Προνοίας"
       },
-      "url_slug": "philo-of-alexandria-uncertain-fragments-lgi-ax",
+      "url_slug": "synesius-of-cyrene-egyptians-providence-sys-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/uncertain-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-uncertain-fragments-lgi-ax.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/uncertain-fragments.epub"
+        "html": "https://eulogikon.org/works/synesius-cyrene-egyptians-providence-sys-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-egyptians-providence-sys-ab.epub"
       }
     },
     {
-      "eul_wid": "lgi-bj",
+      "eul_wid": "lgi-bk",
       "title": {
-        "english": "On Virtues",
-        "ancient_greek": "Περὶ Ἀρετῶν"
+        "english": "Fragments on Flattery and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κολακείας καὶ Ἀρετῆς"
       },
-      "url_slug": "philo-of-alexandria-virtues-lgi-bj",
+      "url_slug": "philo-of-alexandria-flattery-virtue-lgi-bk",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/virtues",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/virtues.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-flattery-virtue-lgi-bk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-flattery-virtue-lgi-bk.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-ay",
+      "title": {
+        "english": "On the Migration of Abraham",
+        "ancient_greek": "Περὶ τῆς μεταναστεύσεως τοῦ Ἀβραάμ"
+      },
+      "url_slug": "philo-of-alexandria-migration-abraham-lgi-ay",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-migration-abraham-lgi-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-migration-abraham-lgi-ay.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-migration-abraham-lgi-ay.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-migration-abraham-lgi-ay.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-migration-abraham-lgi-ay.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-migration-abraham-lgi-ay.epub"
       }
     },
     {
@@ -110,12 +126,12 @@
       },
       "url_slug": "philolaus-of-croton-nature-cosmos-bue-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/philolaus-of-croton/nature-cosmos",
+        "html": "https://eulogikon.org/works/philolaus-croton-nature-cosmos-bue-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/nature-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philolaus-croton-nature-cosmos-bue-ab.epub"
       }
     },
     {
@@ -126,12 +142,12 @@
       },
       "url_slug": "seven-sages-of-greece-sayings-ayq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sayings",
+        "html": "https://eulogikon.org/works/seven-sages-sayings-ayq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sayings.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/seven-sages-sayings-ayq-ab.epub"
       }
     },
     {
@@ -142,12 +158,12 @@
       },
       "url_slug": "leucippus-the-atomist-testimonies-dra-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/leucippus-the-atomist/testimonies",
+        "html": "https://eulogikon.org/works/leucippus-testimonies-dra-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-testimonies-dra-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-testimonies-dra-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-testimonies-dra-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-testimonies-dra-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/leucippus-testimonies-dra-aa.epub"
       }
     },
     {
@@ -158,12 +174,12 @@
       },
       "url_slug": "thales-of-miletus-testimonies-apa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/thales-miletus-testimonies-apa-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/thales-miletus-testimonies-apa-aa.epub"
       }
     },
     {
@@ -174,38 +190,22 @@
       },
       "url_slug": "metrodorus-of-chios-testimonies-dmk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/metrodorus-of-chios/testimonies",
+        "html": "https://eulogikon.org/works/metrodorus-chios-testimonies-dmk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "sys-aa",
-      "title": {
-        "english": "To Paeonius-the Gift of the Astrolabe",
-        "ancient_greek": "Πρὸς Παίωνιον περὶ Δώρου τοῦ Ἀστρολάβου"
-      },
-      "url_slug": "synesius-of-cyrene-gift-astrolabe-sys-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/gift-astrolabe",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/gift-astrolabe.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/metrodorus-chios-testimonies-dmk-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/athamas-of-posidonia/four-roots",
+    "html": "https://eulogikon.org/works/athamas-posidonia-four-roots-dcu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia/four-roots.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/athamas-posidonia-four-roots-dcu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

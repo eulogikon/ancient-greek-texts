@@ -71,35 +71,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-at",
+      "eul_wid": "okg-au",
       "title": {
-        "english": "How a Young Man Should Listen to Poems",
-        "ancient_greek": "Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν."
+        "english": "On Those Punished Slowly by the Divine",
+        "ancient_greek": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων"
       },
-      "url_slug": "plutarch-of-chaeronea-young-man-poems-okg-at",
+      "url_slug": "plutarch-of-chaeronea-divine-punishment-slow-okg-au",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/young-man-poems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/young-man-poems.epub"
-      }
-    },
-    {
-      "eul_wid": "oqk-au",
-      "title": {
-        "english": "Mind to Hermes",
-        "ancient_greek": "Νοῦ πρὸς Ἑρμῆν"
-      },
-      "url_slug": "hermetica-mind-oqk-au",
-      "links": {
-        "html": "https://eulogikon.org/grc/hermetica/mind",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-divine-punishment-slow-okg-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-divine-punishment-slow-okg-au.epub"
       }
     },
     {
@@ -110,12 +94,12 @@
       },
       "url_slug": "aristotle-heavens-hgw-bd",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "html": "https://eulogikon.org/works/aristotle-heavens-hgw-bd",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-heavens-hgw-bd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-heavens-hgw-bd.epub"
       }
     },
     {
@@ -126,44 +110,44 @@
       },
       "url_slug": "aristotle-length-life-hgw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/length-life",
+        "html": "https://eulogikon.org/works/aristotle-length-life-hgw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-length-life-hgw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/length-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-length-life-hgw-ac.epub"
       }
     },
     {
-      "eul_wid": "rye-aw",
+      "eul_wid": "rye-ar",
       "title": {
-        "english": "On the Presidency in the Senate",
-        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
+        "english": "Paraphrase of On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους περὶ ψυχῆς"
       },
-      "url_slug": "themistius-presidency-senate-rye-aw",
+      "url_slug": "themistius-commentary-aristotle-ar-rye-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/presidency-senate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-presidency-senate-rye-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.epub"
+        "html": "https://eulogikon.org/works/themistius-commentary-aristotle-rye-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-ar-rye-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-commentary-aristotle-rye-ar.epub"
       }
     },
     {
-      "eul_wid": "okg-cz",
+      "eul_wid": "okg-dx",
       "title": {
-        "english": "Platonic Questions",
-        "ancient_greek": "Πλατωνικὰ ζητήματα"
+        "english": "Philopoemen",
+        "ancient_greek": "Φιλοποίμην"
       },
-      "url_slug": "plutarch-of-chaeronea-questions-okg-cz",
+      "url_slug": "plutarch-of-chaeronea-philopoemen-okg-dx",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/questions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-questions-okg-cz.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/questions.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-philopoemen-okg-dx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philopoemen-okg-dx.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-philopoemen-okg-dx.epub"
       }
     },
     {
@@ -174,38 +158,54 @@
       },
       "url_slug": "epicurus-letter-pythocles-hui-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/letter-pythocles",
+        "html": "https://eulogikon.org/works/epicurus-letter-pythocles-hui-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-letter-pythocles-hui-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-letter-pythocles-hui-ac.epub"
       }
     },
     {
-      "eul_wid": "sno-ah",
+      "eul_wid": "oss-aa",
       "title": {
-        "english": "encom to Empress Eusebia",
-        "ancient_greek": "Εὐσεβίας τῆς βασιλίδος ἐγκώμιον"
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
       },
-      "url_slug": "julian-the-apostate-encom-eusebia-sno-ah",
+      "url_slug": "pseudo-phocylides-sentences-oss-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/encom-eusebia",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-encom-eusebia-sno-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encom-eusebia.epub"
+        "html": "https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-phocylides-sentences-oss-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ai",
+      "title": {
+        "english": "Short Poems and Fragments",
+        "ancient_greek": "Ἐπιγράμματα καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "julian-the-apostate-short-poems-sno-ai",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-short-poems-sno-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-short-poems-sno-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-short-poems-sno-ai.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony",
+    "html": "https://eulogikon.org/works/ocellus-lucania-justice-cosmic-harmony-mye-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-justice-cosmic-harmony-mye-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

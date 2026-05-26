@@ -58,12 +58,12 @@
       "url_slug": "anaxarchus-of-abdera-kingship-wisdom-fhs-ab",
       "passages": 3,
       "links": {
-        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/kingship-wisdom",
+        "html": "https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/kingship-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxarchus-abdera-kingship-wisdom-fhs-ab.epub"
       }
     },
     {
@@ -75,16 +75,31 @@
       "url_slug": "anaxarchus-of-abdera-testimonies-fhs-aa",
       "passages": 16,
       "links": {
-        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxarchus-abdera-testimonies-fhs-aa.epub"
       }
     }
   ],
   "related_authors": [
+    {
+      "eul_aid": "dmu",
+      "name": {
+        "english": "Diotimus of Tyre",
+        "ancient_greek": "Διότιμος ὁ Τύριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/authors/diotimus-of-tyre-dmu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.json"
+      }
+    },
     {
       "eul_aid": "hik",
       "name": {
@@ -93,7 +108,7 @@
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/nausiphanes-of-teos",
+        "html": "https://eulogikon.org/authors/nausiphanes-of-teos-hik",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.txt",
@@ -102,7 +117,7 @@
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/en/anaxarchus-of-abdera",
+    "html": "https://eulogikon.org/authors/anaxarchus-of-abdera-fhs",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.txt",

@@ -162,67 +162,35 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-ah",
+      "eul_wid": "okg-bt",
       "title": {
-        "english": "Collection of Parallel Greek and Roman Histories",
-        "ancient_greek": "Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ"
+        "english": "Books of Symposiastic Problems",
+        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
       },
-      "url_slug": "plutarch-of-chaeronea-parallel-histories-okg-ah",
+      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/parallel-histories",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-parallel-histories-okg-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/parallel-histories.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-symposiastic-problems-okg-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-symposiastic-problems-okg-bt.epub"
       }
     },
     {
-      "eul_wid": "tfq-ab",
+      "eul_wid": "okg-ai",
       "title": {
-        "english": "Commentary-Hermogenes' Book-Ideas",
-        "ancient_greek": "Ὑπόμνημα εἰς τὸ περὶ ἰδεῶν Ἑρμογένους"
+        "english": "Comparison of Agis and Cleomenes and the Gracchi",
+        "ancient_greek": "Σύγκρισις Ἄγιδος καὶ Κλεομένους καὶ Γράκχων"
       },
-      "url_slug": "syrianus-of-athens-hermogenes-ideas-tfq-ab",
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/hermogenes-ideas",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-ideas.epub"
-      }
-    },
-    {
-      "eul_wid": "utq-af",
-      "title": {
-        "english": "Commentary-Plato's Phaedo",
-        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
-      },
-      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.epub"
-      }
-    },
-    {
-      "eul_wid": "vls-ab",
-      "title": {
-        "english": "Commentary-Sophistical Refutations",
-        "ancient_greek": "Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη"
-      },
-      "url_slug": "sophistical-refutations-anonymous-commentary-vls-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-commentary-vls-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-gracchi-okg-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-agis-cleomenes-gracchi-okg-ai.epub"
       }
     },
     {
@@ -233,44 +201,60 @@
       },
       "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "html": "https://eulogikon.org/works/archytas-tarentum-mathematics-harmony-faa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/archytas-tarentum-mathematics-harmony-faa-ab.epub"
       }
     },
     {
-      "eul_wid": "okg-bs",
+      "eul_wid": "utq-ag",
       "title": {
-        "english": "On Common Notions to the Stoics",
-        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+        "english": "Introduction",
+        "ancient_greek": "Προλεγόμενα"
       },
-      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "url_slug": "olympiodorus-the-younger-of-alexandria-introduction-utq-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/common-notions",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-common-notions-okg-bs.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.epub"
+        "html": "https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/olympiodorus-alexandria-introduction-utq-ag.epub"
       }
     },
     {
-      "eul_wid": "okg-cv",
+      "eul_wid": "okg-cw",
       "title": {
-        "english": "On Isis and Osiris",
-        "ancient_greek": "Περὶ Ἴσιδος και Ὀσίριδος"
+        "english": "On Lust and Sorrow",
+        "ancient_greek": "Περὶ ἡδονῆς καὶ λύπης"
       },
-      "url_slug": "plutarch-of-chaeronea-isis-osiris-okg-cv",
+      "url_slug": "plutarch-of-chaeronea-lust-sorrow-okg-cw",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/isis-osiris",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-isis-osiris-okg-cv.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-lust-sorrow-okg-cw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lust-sorrow-okg-cw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lust-sorrow-okg-cw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lust-sorrow-okg-cw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lust-sorrow-okg-cw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-lust-sorrow-okg-cw.epub"
+      }
+    },
+    {
+      "eul_wid": "tfq-ac",
+      "title": {
+        "english": "Preface to Hermogenes' Book-Ideas",
+        "ancient_greek": "Περὶ ἰδεῶν"
+      },
+      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/syrianus-athens-preface-hermogenes-tfq-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-preface-hermogenes-tfq-ac.epub"
       }
     },
     {
@@ -281,22 +265,38 @@
       },
       "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "html": "https://eulogikon.org/works/seven-sages-demetrius-phalereus-ayq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/seven-sages-demetrius-phalereus-ayq-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "vls-ac",
+      "title": {
+        "english": "Scholia on Sophistical Refutations (Recension A)",
+        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-scholia-ac-vls-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/anon-soph-ref-scholia-vls-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous-scholia-ac-vls-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-soph-ref-scholia-vls-ac.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/oenopides-of-chios/testimonies",
+    "html": "https://eulogikon.org/works/oenopides-chios-testimonies-btu-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/oenopides-chios-testimonies-btu-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

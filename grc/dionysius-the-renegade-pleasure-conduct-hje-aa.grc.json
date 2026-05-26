@@ -47,8 +47,8 @@
     {
       "label": "Affiliation",
       "greek": "",
-      "english": "Cyrenaic",
-      "href": "/affiliations/cyrenaic"
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
     }
   ],
   "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Fragments on Pleasure and Conduct</strong> is a lost ethical treatise by the Hellenistic philosopher Dionysius of Heraclea, commonly known as Dionysius the Renegade. The work, originally composed in Greek, is known only by title and description from later sources, primarily the biographical compilation of Diogenes Laërtius. According to these accounts, it was a collection of writings examining the nature of pleasure and offering practical guidance on conduct and training. The extant book list attributes several titles to Dionysius, including the central works <strong>On Pleasure</strong> in four books and <strong>On Training</strong> in two books, which are presumed to constitute the core of this collection. The work is irrevocably linked to the author’s notorious philosophical defection. Originally a devoted Stoic and pupil of Zeno of Citium, Dionysius famously renounced Stoicism later in life, an event tradition ascribes to his suffering from a painful eye ailment that led him to reject the Stoic doctrine that pain is indifferent. He subsequently aligned himself with the Cyrenaic school, which upheld pleasure as the supreme good. Modern scholarship therefore interprets <strong>Fragments on Pleasure and Conduct</strong> as a product of his later period, constituting a critique of Stoic ethics, particularly its ideal of passionless virtue (<strong>apatheia</strong>), and a defense of a hedonistic worldview. It represents a tangible contribution to the vigorous ethical debates among Stoic, Epicurean, and Cyrenaic thinkers in the early Hellenistic period. No manuscript of the work survives; our entire knowledge of it derives from indirect testimony in doxographical sources.</p>\n</div>",
@@ -148,6 +148,38 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "oqk-an",
+      "title": {
+        "english": "Asclepius Greek Words Only",
+        "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+      },
+      "url_slug": "hermetica-asclepius-words-oqk-an",
+      "links": {
+        "html": "https://eulogikon.org/works/hermetica-asclepius-words-oqk-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-words-oqk-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-asclepius-words-oqk-an.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-as",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-as-uqy-as",
+      "links": {
+        "html": "https://eulogikon.org/works/proclus-epigrams-uqy-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-epigrams-as-uqy-as.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-epigrams-uqy-as.epub"
+      }
+    },
+    {
       "eul_wid": "hgw-ba",
       "title": {
         "english": "Eudemian Ethics",
@@ -155,12 +187,12 @@
       },
       "url_slug": "aristotle-eudemian-ethics-hgw-ba",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "html": "https://eulogikon.org/works/aristotle-eudemian-ethics-hgw-ba",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-eudemian-ethics-hgw-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-eudemian-ethics-hgw-ba.epub"
       }
     },
     {
@@ -171,44 +203,12 @@
       },
       "url_slug": "aristotle-exhortation-hgw-bi",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "html": "https://eulogikon.org/works/aristotle-exhortation-hgw-bi",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-exhortation-hgw-bi.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.epub"
-      }
-    },
-    {
-      "eul_wid": "oqk-am",
-      "title": {
-        "english": "From the Hymn to the Almighty",
-        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
-      },
-      "url_slug": "hermetica-hymn-almighty-oqk-am",
-      "links": {
-        "html": "https://eulogikon.org/grc/hermetica/hymn-almighty",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.epub"
-      }
-    },
-    {
-      "eul_wid": "uqy-ar",
-      "title": {
-        "english": "Hymns 1–7",
-        "ancient_greek": "Ὕμνοι Α'-Ζ'"
-      },
-      "url_slug": "proclus-the-successor-hymns-uqy-ar",
-      "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/hymns",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-hymns-uqy-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-exhortation-hgw-bi.epub"
       }
     },
     {
@@ -219,44 +219,28 @@
       },
       "url_slug": "plato-lysis-hipparchus-dno-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plato-lysis/hipparchus",
+        "html": "https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis-hipparchus-dno-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-lysis-hipparchus-dno-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-ac",
+      "eul_wid": "okg-ad",
       "title": {
-        "english": "On That the Philosopher Should Converse Especially with Rulers",
-        "ancient_greek": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν"
+        "english": "Summary of Stoics Saying More Paradoxical Things Than Poets",
+        "ancient_greek": "Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-philosopher-rulers-okg-ac",
+      "url_slug": "plutarch-of-chaeronea-stoics-paradoxes-okg-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/philosopher-rulers",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-philosopher-rulers-okg-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philosopher-rulers.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ba",
-      "title": {
-        "english": "On the Change of Names",
-        "ancient_greek": "Περὶ Μεταβολῆς Ὀνομάτων"
-      },
-      "url_slug": "philo-of-alexandria-change-names-lgi-ba",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/change-names",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/change-names.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-stoics-paradoxes-okg-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-stoics-paradoxes-okg-ad.epub"
       }
     },
     {
@@ -267,22 +251,38 @@
       },
       "url_slug": "diotimus-of-tyre-testimonies-dmu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/diotimus-of-tyre/testimonies",
+        "html": "https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diotimus-tyre-testimonies-dmu-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bb",
+      "title": {
+        "english": "That God is Immutable",
+        "ancient_greek": "Ὅτι ὁ Θεὸς ἄτρεπτος ἐστίν"
+      },
+      "url_slug": "philo-of-alexandria-god-immutable-lgi-bb",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-god-immutable-lgi-bb.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct",
+    "html": "https://eulogikon.org/works/dionysius-renegade-pleasure-conduct-hje-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade/pleasure-conduct.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-renegade-pleasure-conduct-hje-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

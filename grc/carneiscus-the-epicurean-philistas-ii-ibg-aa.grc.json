@@ -203,16 +203,32 @@
       },
       "url_slug": "carneiscus-the-epicurean-friendship-ibg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/friendship",
+        "html": "https://eulogikon.org/works/carneiscus-friendship-ibg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-friendship-ibg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-friendship-ibg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-friendship-ibg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-friendship-ibg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/friendship.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/carneiscus-friendship-ibg-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "okg-ag",
+      "title": {
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
+      },
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag.epub"
+      }
+    },
     {
       "eul_wid": "bdq-ab",
       "title": {
@@ -221,28 +237,28 @@
       },
       "url_slug": "cleostratus-of-tenedos-astronomy-fragments-bdq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/astronomy-fragments",
+        "html": "https://eulogikon.org/works/cleostratus-tenedos-astronomy-fragments-bdq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos-astronomy-fragments-bdq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/astronomy-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleostratus-tenedos-astronomy-fragments-bdq-ab.epub"
       }
     },
     {
-      "eul_wid": "mhq-aa",
+      "eul_wid": "mlc-aa",
       "title": {
-        "english": "On Pythagorean Cosmology",
-        "ancient_greek": "Ἀποσπάσματα"
+        "english": "Fragments on Stoic Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Φιλοσοφίας"
       },
-      "url_slug": "alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa",
+      "url_slug": "apollodorus-of-seleucia-stoic-fragments-mlc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous-pythagorean-cosmology-mhq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexandrian-philosopher-anonymous/pythagorean-cosmology.epub"
+        "html": "https://eulogikon.org/works/apollodorus-seleucia-stoic-fragments-mlc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollodorus-seleucia-stoic-fragments-mlc-aa.epub"
       }
     },
     {
@@ -253,12 +269,12 @@
       },
       "url_slug": "aristotle-sense-sensibles-hgw-ap",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/sense-sensibles",
+        "html": "https://eulogikon.org/works/aristotle-sense-sensibles-hgw-ap",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-sense-sensibles-hgw-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sense-sensibles.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-sense-sensibles-hgw-ap.epub"
       }
     },
     {
@@ -269,12 +285,12 @@
       },
       "url_slug": "plato-political-letters-ffk-bc",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/political-letters",
+        "html": "https://eulogikon.org/works/plato-political-letters-ffk-bc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-political-letters-ffk-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-political-letters-ffk-bc.epub"
       }
     },
     {
@@ -285,12 +301,12 @@
       },
       "url_slug": "menestor-the-philosopher-testimonies-cik-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/menestor-the-philosopher/testimonies",
+        "html": "https://eulogikon.org/works/menestor-testimonies-cik-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/menestor-testimonies-cik-aa.epub"
       }
     },
     {
@@ -301,12 +317,12 @@
       },
       "url_slug": "critias-of-athens-testimonies-bzo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/critias-of-athens/testimonies",
+        "html": "https://eulogikon.org/works/critias-athens-testimonies-bzo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/critias-athens-testimonies-bzo-ab.epub"
       }
     },
     {
@@ -317,38 +333,22 @@
       },
       "url_slug": "hermodorus-of-ephesus-testimonies-fragments-exs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/testimonies-fragments",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/testimonies-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-af",
-      "title": {
-        "english": "Whether Athenians Are More Renowned for War or Wisdom",
-        "ancient_greek": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν"
-      },
-      "url_slug": "plutarch-of-chaeronea-athenians-war-wisdom-okg-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/athenians-war-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-athenians-war-wisdom-okg-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/athenians-war-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-testimonies-fragments-exs-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+    "html": "https://eulogikon.org/works/carneiscus-philistas-ii-ibg-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/carneiscus-philistas-ii-ibg-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

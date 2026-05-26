@@ -44,23 +44,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "fqy-aa",
-      "title": {
-        "english": "On the Rooster of Philip",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "heraclides-ponticus-rooster-philip-aa-fqy-aa",
-      "passages": 4,
-      "links": {
-        "html": "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.epub"
-      }
-    },
-    {
       "eul_wid": "fqy-ab",
       "title": {
         "english": "On the Rooster of Philip",
@@ -69,18 +52,35 @@
       "url_slug": "heraclides-ponticus-rooster-philip-ab-fqy-ab",
       "passages": 4,
       "links": {
-        "html": "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-ab",
+        "html": "https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-ab-fqy-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-ponticus-rooster-philip-fqy-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "fqy-aa",
+      "title": {
+        "english": "On the Rooster of Philip",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "heraclides-ponticus-rooster-philip-aa-fqy-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus-rooster-philip-aa-fqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclides-ponticus-rooster-philip-fqy-aa.epub"
       }
     }
   ],
   "related_authors": [],
   "links": {
-    "html": "https://eulogikon.org/en/heraclides-ponticus",
+    "html": "https://eulogikon.org/authors/heraclides-ponticus-4-fqy",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-ponticus-fqy.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-ponticus-fqy.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-ponticus-fqy.en.txt",

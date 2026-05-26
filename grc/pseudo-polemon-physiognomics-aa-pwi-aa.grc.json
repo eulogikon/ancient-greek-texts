@@ -553,16 +553,48 @@
       },
       "url_slug": "pseudo-polemon-physiognomics-ab-pwi-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-ab",
+        "html": "https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-ab-pwi-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-polemon-physiognomics-pwi-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-aemilius-paulus-okg-dj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aemilius-paulus-okg-dj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-aemilius-paulus-okg-dj.epub"
+      }
+    },
+    {
+      "eul_wid": "uxc-al",
+      "title": {
+        "english": "Commentary on On Generation and Corruption",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "links": {
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-commentary-aristotle-uxc-al.epub"
+      }
+    },
     {
       "eul_wid": "hhq-ab",
       "title": {
@@ -571,60 +603,28 @@
       },
       "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "html": "https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/crantor-soli-atlantis-commentary-hhq-ab.epub"
       }
     },
     {
-      "eul_wid": "uxc-aj",
+      "eul_wid": "oqk-am",
       "title": {
-        "english": "Commentary on the Prior Analytics",
-        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
       },
-      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj",
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-aj",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-aj.epub"
-      }
-    },
-    {
-      "eul_wid": "utq-ad",
-      "title": {
-        "english": "Commentary-Plato's Gorgias",
-        "ancient_greek": "Σχόλια εἰς τὸν Γοργίαν Πλάτωνος"
-      },
-      "url_slug": "olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.epub"
-      }
-    },
-    {
-      "eul_wid": "naw-aa",
-      "title": {
-        "english": "Fragments on Nature and Fate",
-        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης"
-      },
-      "url_slug": "boethus-of-sidon-nature-fate-naw-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/boethus-of-sidon/nature-fate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon/nature-fate.epub"
+        "html": "https://eulogikon.org/works/hermetica-hymn-almighty-oqk-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-hymn-almighty-oqk-am.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-hymn-almighty-oqk-am.epub"
       }
     },
     {
@@ -635,12 +635,28 @@
       },
       "url_slug": "dialexeis-good-evil-cje-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dialexeis/good-evil",
+        "html": "https://eulogikon.org/works/dialexeis-good-evil-cje-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dialexeis-good-evil-cje-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "nbq-aa",
+      "title": {
+        "english": "On Passions, Book 1",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "andronicus-of-rhodes-passions-book-1-nbq-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/andronicus-rhodes-passions-book-1-nbq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/andronicus-rhodes-passions-book-1-nbq-aa.epub"
       }
     },
     {
@@ -651,54 +667,38 @@
       },
       "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-piety-festivity-beu-ac.epub"
       }
     },
     {
-      "eul_wid": "oqk-al",
+      "eul_wid": "utq-ae",
       "title": {
-        "english": "Terms of Asclepius to King Ammon",
-        "ancient_greek": "Ὅροι Ἀσκληπιοῦ πρὸς Ἄμμωνα βασιλέα"
+        "english": "On the Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας"
       },
-      "url_slug": "hermetica-asclepius-ammon-oqk-al",
+      "url_slug": "olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/asclepius-ammon",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-asclepius-ammon-oqk-al.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-ammon.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-di",
-      "title": {
-        "english": "Titus Flamininus",
-        "ancient_greek": "Τίτος Φλαμινῖνος"
-      },
-      "url_slug": "plutarch-of-chaeronea-titus-flamininus-okg-di",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/titus-flamininus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-titus-flamininus-okg-di.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/titus-flamininus.epub"
+        "html": "https://eulogikon.org/works/olympiodorus-alexandria-categories-commentary-utq-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/olympiodorus-alexandria-categories-commentary-utq-ae.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/pseudo-polemon/physiognomics-aa",
+    "html": "https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon-physiognomics-aa-pwi-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-polemon/physiognomics-aa.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-polemon-physiognomics-pwi-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

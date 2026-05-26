@@ -259,12 +259,12 @@
       },
       "url_slug": "posidonius-of-apameia-rhodes-customs-wars-msa-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/customs-wars",
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-customs-wars-msa-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-customs-wars-msa-ac.epub"
       }
     },
     {
@@ -275,46 +275,30 @@
       },
       "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/ocean-tides",
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-ocean-tides-msa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-ocean-tides-msa-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bn",
+      "eul_wid": "okg-bo",
       "title": {
-        "english": "Comparison of Cimon and Lucullus",
-        "ancient_greek": "Κίμωνος καὶ Λουκούλλος σύγκρισις"
+        "english": "Comparison of Lysander and Sulla",
+        "ancient_greek": "Σύγκρισις Λυσάνδρου καὶ Σύλλα"
       },
-      "url_slug": "plutarch-of-chaeronea-cimon-lucullus-okg-bn",
+      "url_slug": "plutarch-of-chaeronea-lysander-sulla-okg-bo",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cimon-lucullus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-lucullus-okg-bn.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-lucullus-okg-bn.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-lucullus-okg-bn.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-cimon-lucullus-okg-bn.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon-lucullus.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cl",
-      "title": {
-        "english": "Consolation to His Wife",
-        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
-      },
-      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/consolation-wife",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-wife-okg-cl.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-lysander-sulla-okg-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-sulla-okg-bo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-lysander-sulla-okg-bo.epub"
       }
     },
     {
@@ -325,12 +309,12 @@
       },
       "url_slug": "epicurus-established-opinions-hui-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurus/established-opinions",
+        "html": "https://eulogikon.org/works/epicurus-established-opinions-hui-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus-established-opinions-hui-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurus-established-opinions-hui-af.epub"
       }
     },
     {
@@ -341,28 +325,44 @@
       },
       "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "html": "https://eulogikon.org/works/phaenias-eresus-aristotelian-philosophy-flo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phaenias-eresus-aristotelian-philosophy-flo-aa.epub"
       }
     },
     {
-      "eul_wid": "omo-aa",
+      "eul_wid": "oqk-aa",
       "title": {
-        "english": "Fragments on Egyptian History",
-        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακῆς Ἱστορίας"
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
       },
-      "url_slug": "chaeremon-of-alexandria-egyptian-history-omo-aa",
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/chaeremon-of-alexandria/egyptian-history",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.epub"
+        "html": "https://eulogikon.org/works/hermetica-to-tat-rebirth-oqk-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-to-tat-rebirth-oqk-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "qhm-aa",
+      "title": {
+        "english": "Introduction to the Dialogues of Plato",
+        "ancient_greek": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
+      },
+      "url_slug": "albinus-the-platonist-plato-dialogues-intro-qhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/albinus-plato-dialogues-intro-qhm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/albinus-plato-dialogues-intro-qhm-aa.epub"
       }
     },
     {
@@ -373,54 +373,54 @@
       },
       "url_slug": "aristaeus-the-culture-hero-harmony-cosmos-aiw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristaeus-the-culture-hero/harmony-cosmos",
+        "html": "https://eulogikon.org/works/aristaeus-harmony-cosmos-aiw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristaeus-harmony-cosmos-aiw-aa.epub"
       }
     },
     {
-      "eul_wid": "pyq-ac",
+      "eul_wid": "pza-aa",
       "title": {
-        "english": "On Music",
-        "ancient_greek": "περὶ Μουσικῆς"
+        "english": "Pythagorean Sentences (Recension A)",
+        "ancient_greek": "Γνῶμαι Πυθαγορείων"
       },
-      "url_slug": "pseudo-plutarch-music-pyq-ac",
+      "url_slug": "pythagoreans-sayings-sentences-aa-pza-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-plutarch/music",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.epub"
+        "html": "https://eulogikon.org/works/pythagoreans-sentences-pza-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoreans-sentences-pza-aa.epub"
       }
     },
     {
-      "eul_wid": "pzk-ab",
+      "eul_wid": "okg-cm",
       "title": {
-        "english": "Sentences",
-        "ancient_greek": "Γνῶμαι"
+        "english": "Roman and Greek Causes",
+        "ancient_greek": "Αἴτια Ἑλληνικά"
       },
-      "url_slug": "secundus-the-silent-sentences-pzk-ab",
+      "url_slug": "plutarch-of-chaeronea-causes-okg-cm",
       "links": {
-        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-causes-okg-cm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-causes-okg-cm.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-causes-okg-cm.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/testimonies",
+    "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-testimonies-msa-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

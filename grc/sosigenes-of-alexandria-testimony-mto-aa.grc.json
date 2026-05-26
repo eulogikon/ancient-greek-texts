@@ -58,6 +58,38 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-antony-okg-fe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-antony-okg-fe.epub"
+      }
+    },
+    {
+      "eul_wid": "utq-af",
+      "title": {
+        "english": "Commentary-Plato's Phaedo",
+        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "links": {
+        "html": "https://eulogikon.org/works/olympiodorus-alexandria-phaedo-commentary-utq-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/olympiodorus-alexandria-phaedo-commentary-utq-af.epub"
+      }
+    },
+    {
       "eul_wid": "kms-aa",
       "title": {
         "english": "Fragments of Chrysippus-Homeric Poems",
@@ -65,12 +97,12 @@
       },
       "url_slug": "chrysippus-of-soli-homeric-poems-kms-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/chrysippus-of-soli/homeric-poems",
+        "html": "https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chrysippus-soli-homeric-poems-kms-aa.epub"
       }
     },
     {
@@ -81,12 +113,28 @@
       },
       "url_slug": "iamblichus-anon-human-excellence-chq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-anon/human-excellence",
+        "html": "https://eulogikon.org/works/iamblichus-anon-human-excellence-chq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-anon-human-excellence-chq-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-seven-sages-udm-ba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-seven-sages-udm-ba.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-seven-sages-udm-ba.epub"
       }
     },
     {
@@ -97,60 +145,28 @@
       },
       "url_slug": "aristotle-indivisible-lines-hgw-as",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/indivisible-lines",
+        "html": "https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-indivisible-lines-hgw-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/indivisible-lines.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-indivisible-lines-hgw-as.epub"
       }
     },
     {
-      "eul_wid": "udm-az",
+      "eul_wid": "msu-ab",
       "title": {
-        "english": "On Statues",
-        "ancient_greek": "Περὶ ἀγαλμάτων"
+        "english": "On Rhetoric",
+        "ancient_greek": "ΠΕΡΙ ΡΗΤΟΡΙΚΗΣ"
       },
-      "url_slug": "porphyry-of-tyre-statues-udm-az",
+      "url_slug": "philodemus-of-gadara-rhetoric-msu-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/statues",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-statues-udm-az.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/statues.epub"
-      }
-    },
-    {
-      "eul_wid": "utq-ae",
-      "title": {
-        "english": "On the Categories, Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας"
-      },
-      "url_slug": "olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/categories-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.epub"
-      }
-    },
-    {
-      "eul_wid": "msu-aa",
-      "title": {
-        "english": "On the Existing Books of Music",
-        "ancient_greek": "Περὶ τῶν ὑπαρχόντων βιβλίων μουσικῆς"
-      },
-      "url_slug": "philodemus-of-gadara-existing-music-books-msu-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/philodemus-of-gadara/existing-music-books",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.epub"
+        "html": "https://eulogikon.org/works/philodemus-gadara-rhetoric-msu-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-rhetoric-msu-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-rhetoric-msu-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-rhetoric-msu-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-rhetoric-msu-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philodemus-gadara-rhetoric-msu-ab.epub"
       }
     },
     {
@@ -161,38 +177,22 @@
       },
       "url_slug": "anaxagoras-of-clazomenae-nature-btk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature",
+        "html": "https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fd",
-      "title": {
-        "english": "Theseus",
-        "ancient_greek": "Θησεύς"
-      },
-      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/theseus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxagoras-clazomenae-nature-btk-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/sosigenes-of-alexandria/testimony",
+    "html": "https://eulogikon.org/works/sosigenes-alexandria-testimony-mto-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria/testimony.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sosigenes-alexandria-testimony-mto-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

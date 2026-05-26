@@ -1094,6 +1094,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "udm-ar",
+      "title": {
+        "english": "Against the Christians",
+        "ancient_greek": "Κατὰ Χριστιανῶν"
+      },
+      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-against-christians-udm-ar.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-ae",
       "title": {
         "english": "Alcibiades A",
@@ -1101,12 +1117,28 @@
       },
       "url_slug": "plato-alcibiades-ffk-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/alcibiades",
+        "html": "https://eulogikon.org/works/plato-alcibiades-ffk-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-alcibiades-ffk-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "julian-the-apostate-epigrams-sno-ar",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-epigrams-sno-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-epigrams-sno-ar.epub"
       }
     },
     {
@@ -1117,60 +1149,12 @@
       },
       "url_slug": "plato-menexenus-ffk-aq",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/menexenus",
+        "html": "https://eulogikon.org/works/plato-menexenus-ffk-aq",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-menexenus-ffk-aq.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-menexenus-ffk-aq.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-menexenus-ffk-aq.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-menexenus-ffk-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/menexenus.epub"
-      }
-    },
-    {
-      "eul_wid": "udm-aq",
-      "title": {
-        "english": "On the Cave of the Nymphs",
-        "ancient_greek": "Περὶ τοῦ Νυμφῶν Ἄντρου"
-      },
-      "url_slug": "porphyry-of-tyre-cave-nymphs-udm-aq",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/cave-nymphs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ba",
-      "title": {
-        "english": "On the Change of Names",
-        "ancient_greek": "Περὶ Μεταβολῆς Ὀνομάτων"
-      },
-      "url_slug": "philo-of-alexandria-change-names-lgi-ba",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/change-names",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-change-names-lgi-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/change-names.epub"
-      }
-    },
-    {
-      "eul_wid": "mrq-aa",
-      "title": {
-        "english": "On the Goal of Life",
-        "ancient_greek": "Ἀπόσπασμα"
-      },
-      "url_slug": "diodorus-of-tyre-goal-of-life-mrq-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/diodorus-of-tyre/goal-of-life",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre/goal-of-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-menexenus-ffk-aq.epub"
       }
     },
     {
@@ -1181,12 +1165,12 @@
       },
       "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "html": "https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-elea-nature-plurality-bwc-aa.epub"
       }
     },
     {
@@ -1197,38 +1181,54 @@
       },
       "url_slug": "eurytus-the-pythagorean-testimonies-eyw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eurytus-the-pythagorean/testimonies",
+        "html": "https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eurytus-pythagorean-testimonies-eyw-aa.epub"
       }
     },
     {
-      "eul_wid": "sno-aq",
+      "eul_wid": "msa-aa",
       "title": {
         "english": "Testimonies",
         "ancient_greek": "Μαρτυρίαι"
       },
-      "url_slug": "julian-the-apostate-testimonies-sno-aq",
+      "url_slug": "posidonius-of-apameia-rhodes-testimonies-msa-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-testimonies-sno-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/testimonies.epub"
+        "html": "https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/posidonius-apameia-rhodes-testimonies-msa-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bb",
+      "title": {
+        "english": "That God is Immutable",
+        "ancient_greek": "Ὅτι ὁ Θεὸς ἄτρεπτος ἐστίν"
+      },
+      "url_slug": "philo-of-alexandria-god-immutable-lgi-bb",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-god-immutable-lgi-bb.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-god-immutable-lgi-bb.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/appendix-of-proverbs/text",
+    "html": "https://eulogikon.org/works/appendix-proverbs-text-psc-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs/text.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/appendix-proverbs-text-psc-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -58,16 +58,31 @@
       "url_slug": "zeno-of-tarsus-stoic-succession-kve-aa",
       "passages": 5,
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession",
+        "html": "https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus/stoic-succession.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-tarsus-stoic-succession-kve-aa.epub"
       }
     }
   ],
   "related_authors": [
+    {
+      "eul_aid": "lcc",
+      "name": {
+        "english": "Antipater of Tarsus",
+        "ancient_greek": "Ἀντίπατρος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/authors/antipater-of-tarsus-lcc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antipater-of-tarsus-lcc.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antipater-of-tarsus-lcc.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antipater-of-tarsus-lcc.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antipater-of-tarsus-lcc.en.json"
+      }
+    },
     {
       "eul_aid": "mlc",
       "name": {
@@ -76,7 +91,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+        "html": "https://eulogikon.org/authors/apollodorus-of-seleucia-mlc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
@@ -91,7 +106,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "html": "https://eulogikon.org/authors/apollophanes-the-stoic-jzg",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
@@ -106,7 +121,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "html": "https://eulogikon.org/authors/archedemus-of-tarsus-mnk",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
@@ -121,7 +136,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "html": "https://eulogikon.org/authors/ariston-of-chios-jyw",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
@@ -136,7 +151,7 @@
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "html": "https://eulogikon.org/authors/arius-didymus-of-alexandria-nac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
@@ -151,7 +166,7 @@
       },
       "work_count": 18,
       "links": {
-        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "html": "https://eulogikon.org/authors/arrian-of-nicomedia-pcs",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
@@ -166,7 +181,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "html": "https://eulogikon.org/authors/athenodorus-of-tarsus-mty",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
@@ -181,7 +196,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+        "html": "https://eulogikon.org/authors/chaeremon-of-alexandria-omo",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
@@ -196,7 +211,7 @@
       },
       "work_count": 6,
       "links": {
-        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "html": "https://eulogikon.org/authors/chrysippus-of-soli-kms",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
@@ -211,7 +226,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "html": "https://eulogikon.org/authors/chrysippus-of-soli-ixe",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
@@ -226,31 +241,16 @@
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "html": "https://eulogikon.org/authors/cleanthes-of-assos-jew",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
       }
-    },
-    {
-      "eul_aid": "obu",
-      "name": {
-        "english": "Cornutus the Stoic Philosopher",
-        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/cornutus-the-stoic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
-      }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/en/zeno-of-tarsus",
+    "html": "https://eulogikon.org/authors/zeno-of-tarsus-kve",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-tarsus-kve.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-tarsus-kve.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-tarsus-kve.en.txt",

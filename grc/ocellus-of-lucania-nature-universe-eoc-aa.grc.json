@@ -350,12 +350,12 @@
       },
       "url_slug": "ocellus-of-lucania-cosmic-harmony-eoc-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/cosmic-harmony",
+        "html": "https://eulogikon.org/works/ocellus-lucania-cosmic-harmony-eoc-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/cosmic-harmony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-cosmic-harmony-eoc-ac.epub"
       }
     },
     {
@@ -366,16 +366,32 @@
       },
       "url_slug": "ocellus-of-lucania-testimonies-eoc-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania/testimonies",
+        "html": "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-testimonies-eoc-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-amatory-okg-ew",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-amatory-okg-ew.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-amatory-okg-ew.epub"
+      }
+    },
     {
       "eul_wid": "bgs-ab",
       "title": {
@@ -384,12 +400,28 @@
       },
       "url_slug": "pythagoras-of-samos-astrological-fragments-bgs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoras-of-samos/astrological-fragments",
+        "html": "https://eulogikon.org/works/pythagoras-samos-astrological-fragments-bgs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos-astrological-fragments-bgs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/astrological-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoras-samos-astrological-fragments-bgs-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "nac-aa",
+      "title": {
+        "english": "Book-the Sects of Philosophers",
+        "ancient_greek": "Περὶ Αἱρέσεων Φιλοσόφων"
+      },
+      "url_slug": "arius-didymus-of-alexandria-sects-philosophers-nac-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arius-didymus-alexandria-sects-philosophers-nac-aa.epub"
       }
     },
     {
@@ -400,28 +432,44 @@
       },
       "url_slug": "plato-ion-ffk-bo",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/ion",
+        "html": "https://eulogikon.org/works/plato-ion-ffk-bo",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/ion.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-ion-ffk-bo.epub"
       }
     },
     {
-      "eul_wid": "mye-aa",
+      "eul_wid": "reo-al",
       "title": {
-        "english": "On Justice and Cosmic Harmony",
-        "ancient_greek": "Ἀπόσπασμα"
+        "english": "On Mixture",
+        "ancient_greek": "Περὶ Μίξεως"
       },
-      "url_slug": "ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa",
+      "url_slug": "alexander-of-aphrodisias-mixture-reo-al",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.epub"
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-mixture-reo-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-mixture-reo-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-mixture-reo-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-mixture-reo-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-mixture-reo-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-mixture-reo-al.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ax",
+      "title": {
+        "english": "On Philanthropy or Constantius",
+        "ancient_greek": "Περὶ φιλανθρωπίας ἢ Κωνστάντιος"
+      },
+      "url_slug": "themistius-philanthropy-constantius-rye-ax",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-philanthropy-constantius-rye-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-constantius-rye-ax.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-philanthropy-constantius-rye-ax.epub"
       }
     },
     {
@@ -432,44 +480,12 @@
       },
       "url_slug": "aristotle-generation-animals-hgw-af",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "html": "https://eulogikon.org/works/aristotle-generation-animals-hgw-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-generation-animals-hgw-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-av",
-      "title": {
-        "english": "On the Ordination of the Polity",
-        "ancient_greek": "Ἐπὶ τῇ χειροτονίᾳ τῆς πολιαρχίας"
-      },
-      "url_slug": "themistius-ordination-polity-rye-av",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/ordination-polity",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/ordination-polity.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ak",
-      "title": {
-        "english": "On the Soul",
-        "ancient_greek": "Περὶ Ψυχῆς"
-      },
-      "url_slug": "alexander-of-aphrodisias-soul-reo-ak",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/soul",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-soul-reo-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-generation-animals-hgw-af.epub"
       }
     },
     {
@@ -480,38 +496,22 @@
       },
       "url_slug": "archelaus-of-miletus-testimonies-byk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/archelaus-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/archelaus-miletus-testimonies-byk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus/testimonies.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ev",
-      "title": {
-        "english": "Timoleon",
-        "ancient_greek": "Τιμολέων"
-      },
-      "url_slug": "plutarch-of-chaeronea-timoleon-okg-ev",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-timoleon-okg-ev.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/archelaus-miletus-testimonies-byk-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/ocellus-of-lucania/nature-universe",
+    "html": "https://eulogikon.org/works/ocellus-lucania-nature-universe-eoc-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania/nature-universe.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ocellus-lucania-nature-universe-eoc-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

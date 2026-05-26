@@ -134,19 +134,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-ff",
+      "eul_wid": "okg-fg",
       "title": {
-        "english": "Aratus",
-        "ancient_greek": "Ἄρατος"
+        "english": "Brutus",
+        "ancient_greek": "Βροῦτος"
       },
-      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "url_slug": "plutarch-of-chaeronea-brutus-okg-fg",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-aratus-okg-ff.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-brutus-okg-fg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-brutus-okg-fg.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-ds",
+      "title": {
+        "english": "Caius Marius",
+        "ancient_greek": "Γάϊος Μάριος"
+      },
+      "url_slug": "plutarch-of-chaeronea-caius-marius-okg-ds",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-caius-marius-okg-ds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-caius-marius-okg-ds.epub"
+      }
+    },
+    {
+      "eul_wid": "vgs-aa",
+      "title": {
+        "english": "Commentary-Aristotle's Prior Analytics",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa.epub"
       }
     },
     {
@@ -157,92 +189,60 @@
       },
       "url_slug": "plato-critias-ffk-ba",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/critias",
+        "html": "https://eulogikon.org/works/plato-critias-ffk-ba",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-critias-ffk-ba.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-critias-ffk-ba.epub"
       }
     },
     {
-      "eul_wid": "naw-aa",
+      "eul_wid": "okg-ae",
       "title": {
-        "english": "Fragments on Nature and Fate",
-        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης"
+        "english": "How One Might Distinguish the Flatterer from the Friend",
+        "ancient_greek": "Πῶς ἄν τις διακρίνειε τὸν κόλακα τοῦ φίλοῦ"
       },
-      "url_slug": "boethus-of-sidon-nature-fate-naw-aa",
+      "url_slug": "plutarch-of-chaeronea-flatterer-friend-okg-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/boethus-of-sidon/nature-fate",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon/nature-fate.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flatterer-friend-okg-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flatterer-friend-okg-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flatterer-friend-okg-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flatterer-friend-okg-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flatterer-friend-okg-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flatterer-friend-okg-ae.epub"
       }
     },
     {
-      "eul_wid": "okg-fm",
+      "eul_wid": "nbq-aa",
       "title": {
-        "english": "Nomad",
-        "ancient_greek": "Νομᾶς"
+        "english": "On Passions, Book 1",
+        "ancient_greek": "Περὶ παθῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-nomad-okg-fm",
+      "url_slug": "andronicus-of-rhodes-passions-book-1-nbq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nomad",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nomad-okg-fm.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nomad-okg-fm.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nomad-okg-fm.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nomad-okg-fm.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nomad.epub"
+        "html": "https://eulogikon.org/works/andronicus-rhodes-passions-book-1-nbq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/andronicus-rhodes-passions-book-1-nbq-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-dr",
+      "eul_wid": "okg-fn",
       "title": {
-        "english": "On Inactivity",
-        "ancient_greek": "Περὶ ἀοπγησίας"
+        "english": "Solon",
+        "ancient_greek": "Σόλων"
       },
-      "url_slug": "plutarch-of-chaeronea-inactivity-okg-dr",
+      "url_slug": "plutarch-of-chaeronea-solon-okg-fn",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/inactivity",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.epub"
-      }
-    },
-    {
-      "eul_wid": "vcm-ab",
-      "title": {
-        "english": "Prolegomena to Philosophy",
-        "ancient_greek": "Προλεγόμενα τῆς φιλοσοφίας"
-      },
-      "url_slug": "david-the-invincible-prolegomena-vcm-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/david-the-invincible/prolegomena",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ad",
-      "title": {
-        "english": "Summary of Stoics Saying More Paradoxical Things Than Poets",
-        "ancient_greek": "Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν"
-      },
-      "url_slug": "plutarch-of-chaeronea-stoics-paradoxes-okg-ad",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/stoics-paradoxes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-stoics-paradoxes-okg-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/stoics-paradoxes.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-solon-okg-fn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-okg-fn.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-okg-fn.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-okg-fn.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-solon-okg-fn.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-solon-okg-fn.epub"
       }
     },
     {
@@ -253,22 +253,22 @@
       },
       "url_slug": "anaximander-of-miletus-testimonies-aua-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-testimonies-aua-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments",
+    "html": "https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sphaerus-borysthenes-stoic-fragments-ipw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

@@ -281,6 +281,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "nac-aa",
+      "title": {
+        "english": "Book-the Sects of Philosophers",
+        "ancient_greek": "Περὶ Αἱρέσεων Φιλοσόφων"
+      },
+      "url_slug": "arius-didymus-of-alexandria-sects-philosophers-nac-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arius-didymus-alexandria-sects-philosophers-nac-aa.epub"
+      }
+    },
+    {
       "eul_wid": "ffk-ab",
       "title": {
         "english": "Clitophon",
@@ -288,12 +304,12 @@
       },
       "url_slug": "plato-clitophon-ab-ffk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/clitophon-ab",
+        "html": "https://eulogikon.org/works/plato-clitophon-ffk-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-clitophon-ab-ffk-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-clitophon-ffk-ab.epub"
       }
     },
     {
@@ -304,92 +320,76 @@
       },
       "url_slug": "phocylides-of-miletus-epigrams-bdg-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/phocylides-of-miletus/epigrams",
+        "html": "https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phocylides-miletus-epigrams-bdg-ab.epub"
       }
     },
     {
-      "eul_wid": "oqk-ae",
+      "eul_wid": "oqk-af",
       "title": {
-        "english": "Hermes Trismegistus-Thought and Perception",
-        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+        "english": "Hermes Trismegistus, To Asclepius, Be Well",
+        "ancient_greek": "Ἀσκληπιῷ εὖ φρονεῖν"
       },
-      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "url_slug": "hermetica-to-asclepius-af-oqk-af",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.epub"
+        "html": "https://eulogikon.org/works/hermetica-to-asclepius-oqk-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-to-asclepius-oqk-af.epub"
       }
     },
     {
-      "eul_wid": "uqo-ab",
+      "eul_wid": "uqo-ac",
       "title": {
-        "english": "On Aristotle's Prior Analytics Book I. Commentary",
-        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους,"
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
       },
-      "url_slug": "ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab",
+      "url_slug": "ammonius-of-alexandria-phil-categories-commentary-uqo-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/prior-analytics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/prior-analytics-commentary.epub"
+        "html": "https://eulogikon.org/works/ammonius-alexandria-categories-commentary-uqo-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ammonius-alexandria-categories-commentary-uqo-ac.epub"
       }
     },
     {
-      "eul_wid": "mye-aa",
+      "eul_wid": "ljk-au",
       "title": {
-        "english": "On Justice and Cosmic Harmony",
-        "ancient_greek": "Ἀπόσπασμα"
+        "english": "On Fire",
+        "ancient_greek": "Περὶ πυρός"
       },
-      "url_slug": "ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa",
+      "url_slug": "theophrastus-of-eresus-on-fire-ljk-au",
       "links": {
-        "html": "https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-on-fire-ljk-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-on-fire-ljk-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-on-fire-ljk-au.epub"
       }
     },
     {
-      "eul_wid": "ljk-as",
+      "eul_wid": "okg-eo",
       "title": {
-        "english": "On Toils",
-        "ancient_greek": "Περὶ Πόνων"
+        "english": "Sertorius",
+        "ancient_greek": "Σερτώριος"
       },
-      "url_slug": "theophrastus-of-eresus-toils-ljk-as",
+      "url_slug": "plutarch-of-chaeronea-sertorius-okg-eo",
       "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/toils",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-toils-ljk-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-en",
-      "title": {
-        "english": "Poplicola",
-        "ancient_greek": "Ποπλικόλας"
-      },
-      "url_slug": "plutarch-of-chaeronea-poplicola-okg-en",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/poplicola",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-poplicola-okg-en.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/poplicola.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-sertorius-okg-eo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-sertorius-okg-eo.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-sertorius-okg-eo.epub"
       }
     },
     {
@@ -400,22 +400,22 @@
       },
       "url_slug": "plato-statesman-ffk-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/statesman",
+        "html": "https://eulogikon.org/works/plato-statesman-ffk-ar",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-statesman-ffk-ar.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/statesman.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-statesman-ffk-ar.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/anonymous-introduction-to-platonism/philosophy",
+    "html": "https://eulogikon.org/works/anon-intro-platonism-philosophy-uuk-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism-philosophy-uuk-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-introduction-to-platonism/philosophy.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-intro-platonism-philosophy-uuk-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

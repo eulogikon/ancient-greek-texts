@@ -344,6 +344,22 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-agesilaus-okg-ee",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-agesilaus-okg-ee.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-agesilaus-okg-ee.epub"
+      }
+    },
+    {
       "eul_wid": "cqw-ab",
       "title": {
         "english": "Canon of Polykleitos",
@@ -351,12 +367,12 @@
       },
       "url_slug": "polykleitos-of-argos-canon-of-polykleitos-cqw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/polykleitos-of-argos/canon-of-polykleitos",
+        "html": "https://eulogikon.org/works/polykleitos-argos-canon-of-polykleitos-cqw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/polykleitos-argos-canon-of-polykleitos-cqw-ab.epub"
       }
     },
     {
@@ -367,44 +383,12 @@
       },
       "url_slug": "plato-cratylus-ffk-at",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/cratylus",
+        "html": "https://eulogikon.org/works/plato-cratylus-ffk-at",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-cratylus-ffk-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-ay",
-      "title": {
-        "english": "Embassy to Emperor Theodosius",
-        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
-      },
-      "url_slug": "themistius-embassy-theodosius-rye-ay",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-embassy-theodosius-rye-ay.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.epub"
-      }
-    },
-    {
-      "eul_wid": "lfo-aa",
-      "title": {
-        "english": "Fragments on the Nature of Wisdom",
-        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
-      },
-      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/aristocles-of-messene/nature-wisdom",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-cratylus-ffk-at.epub"
       }
     },
     {
@@ -415,12 +399,28 @@
       },
       "url_slug": "callimachus-of-cyrene-lyric-poems-iso-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/lyric-poems",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-lyric-poems-iso-ah",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-lyric-poems-iso-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-moderate-children-rye-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-moderate-children-rye-az.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-moderate-children-rye-az.epub"
       }
     },
     {
@@ -431,54 +431,54 @@
       },
       "url_slug": "aristotle-plants-hgw-bx",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "html": "https://eulogikon.org/works/aristotle-plants-hgw-bx",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-plants-hgw-bx.epub"
       }
     },
     {
-      "eul_wid": "rye-bn",
+      "eul_wid": "lgi-aa",
       "title": {
-        "english": "Philopolis",
-        "ancient_greek": "〈Φ〉ιλόπολις"
+        "english": "Surviving Works of Philo (Volume I)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
       },
-      "url_slug": "themistius-philopolis-rye-bn",
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/philopolis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-surviving-works-of-philo-of-alexandria-lgi-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-ed",
+      "eul_wid": "rye-bh",
       "title": {
-        "english": "To Colotes",
-        "ancient_greek": "Πρὸς Κωλώτην"
+        "english": "To Emperor Constantius",
+        "ancient_greek": "Εἰς τὸν αὐτοκράτορα Κωνστάντιον"
       },
-      "url_slug": "plutarch-of-chaeronea-colotes-okg-ed",
+      "url_slug": "themistius-constantius-rye-bh",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/colotes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-colotes-okg-ed.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.epub"
+        "html": "https://eulogikon.org/works/themistius-constantius-rye-bh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-constantius-rye-bh.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/pseudo-phocylides/sentences",
+    "html": "https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-phocylides-sentences-oss-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

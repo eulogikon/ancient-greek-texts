@@ -203,12 +203,12 @@
       },
       "url_slug": "hierocles-the-stoic-ethical-fragments-pnw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/ethical-fragments",
+        "html": "https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-fragments-pnw-aa.epub"
       }
     },
     {
@@ -219,16 +219,32 @@
       },
       "url_slug": "hierocles-the-stoic-fragments-pnw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hierocles-the-stoic/fragments",
+        "html": "https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-fragments-pnw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "lgi-bf",
+      "title": {
+        "english": "Against Flaccus",
+        "ancient_greek": "Κατὰ Φλάκκου"
+      },
+      "url_slug": "philo-of-alexandria-against-flaccus-lgi-bf",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-against-flaccus-lgi-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-against-flaccus-lgi-bf.epub"
+      }
+    },
     {
       "eul_wid": "fpu-aa",
       "title": {
@@ -237,12 +253,12 @@
       },
       "url_slug": "monimus-of-syracuse-maxims-sayings-fpu-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/monimus-of-syracuse/maxims-sayings",
+        "html": "https://eulogikon.org/works/monimus-syracuse-maxims-sayings-fpu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse/maxims-sayings.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/monimus-syracuse-maxims-sayings-fpu-aa.epub"
       }
     },
     {
@@ -253,28 +269,12 @@
       },
       "url_slug": "ion-of-chios-foundations-ccg-af",
       "links": {
-        "html": "https://eulogikon.org/grc/ion-of-chios/foundations",
+        "html": "https://eulogikon.org/works/ion-chios-foundations-ccg-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-at",
-      "title": {
-        "english": "How a Young Man Should Listen to Poems",
-        "ancient_greek": "Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν."
-      },
-      "url_slug": "plutarch-of-chaeronea-young-man-poems-okg-at",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/young-man-poems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/young-man-poems.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ion-chios-foundations-ccg-af.epub"
       }
     },
     {
@@ -285,12 +285,28 @@
       },
       "url_slug": "plato-laches-ffk-bg",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/laches",
+        "html": "https://eulogikon.org/works/plato-laches-ffk-bg",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/laches.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-laches-ffk-bg.epub"
+      }
+    },
+    {
+      "eul_wid": "nma-ac",
+      "title": {
+        "english": "Minor Fragments",
+        "ancient_greek": "Ἀποσπάσματα Μικρά"
+      },
+      "url_slug": "musonius-the-roman-minor-fragments-nma-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musonius-roman-minor-fragments-nma-ac.epub"
       }
     },
     {
@@ -301,44 +317,28 @@
       },
       "url_slug": "dialexeis-good-evil-cje-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/dialexeis/good-evil",
+        "html": "https://eulogikon.org/works/dialexeis-good-evil-cje-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis-good-evil-cje-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dialexeis-good-evil-cje-aa.epub"
       }
     },
     {
-      "eul_wid": "lgi-be",
+      "eul_wid": "okg-au",
       "title": {
-        "english": "On the Decalogue",
-        "ancient_greek": "Περὶ τοῦ Δεκαλόγου"
+        "english": "On Those Punished Slowly by the Divine",
+        "ancient_greek": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων"
       },
-      "url_slug": "philo-of-alexandria-decalogue-lgi-be",
+      "url_slug": "plutarch-of-chaeronea-divine-punishment-slow-okg-au",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/decalogue",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-decalogue-lgi-be.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/decalogue.epub"
-      }
-    },
-    {
-      "eul_wid": "nma-ab",
-      "title": {
-        "english": "Spurious Letters",
-        "ancient_greek": "Νόθαι Ἐπιστολαί"
-      },
-      "url_slug": "musonius-the-roman-spurious-letters-nma-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/spurious-letters",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/spurious-letters.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-divine-punishment-slow-okg-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-divine-punishment-slow-okg-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-divine-punishment-slow-okg-au.epub"
       }
     },
     {
@@ -349,22 +349,22 @@
       },
       "url_slug": "anaximander-of-miletus-testimonies-aua-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximander-of-miletus/testimonies",
+        "html": "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximander-miletus-testimonies-aua-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/hierocles-the-stoic/ethical-elements",
+    "html": "https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-elements.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hierocles-stoic-ethical-elements-pnw-ac.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

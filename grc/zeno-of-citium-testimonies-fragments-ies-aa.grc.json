@@ -2423,6 +2423,38 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "qou-aa",
+      "title": {
+        "english": "Against the Mathematicians",
+        "ancient_greek": "Κατὰ Μαθηματικῶν"
+      },
+      "url_slug": "sextus-empiricus-against-mathematicians-qou-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/sextus-empiricus-against-mathematicians-qou-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus-against-mathematicians-qou-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sextus-empiricus-against-mathematicians-qou-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "udm-ak",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἀριστοτέλην Ἑλληνιστί"
+      },
+      "url_slug": "porphyry-of-tyre-commentaries-aristotle-udm-ak",
+      "links": {
+        "html": "https://eulogikon.org/works/porphyry-tyre-commentaries-aristotle-udm-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-commentaries-aristotle-udm-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-commentaries-aristotle-udm-ak.epub"
+      }
+    },
+    {
       "eul_wid": "iso-ag",
       "title": {
         "english": "Fragments and Title",
@@ -2430,28 +2462,28 @@
       },
       "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-fragments-iso-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-fragments-iso-ag.epub"
       }
     },
     {
-      "eul_wid": "uyg-ac",
+      "eul_wid": "uyg-ad",
       "title": {
-        "english": "On Parmenides",
-        "ancient_greek": "Περὶ Παρμενίδου"
+        "english": "On Principles",
+        "ancient_greek": "Περὶ Ἀρχῶν"
       },
-      "url_slug": "damascius-of-damascus-parmenides-uyg-ac",
+      "url_slug": "damascius-of-damascus-principles-uyg-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/damascius-of-damascus/parmenides",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/parmenides.epub"
+        "html": "https://eulogikon.org/works/damascius-damascus-principles-uyg-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/damascius-damascus-principles-uyg-ad.epub"
       }
     },
     {
@@ -2462,28 +2494,12 @@
       },
       "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "html": "https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
-      }
-    },
-    {
-      "eul_wid": "udm-aj",
-      "title": {
-        "english": "On the Vatican Codex",
-        "ancient_greek": "Ζητήματα τοῦ Βατικανοῦ κώδικος"
-      },
-      "url_slug": "porphyry-of-tyre-vatican-codex-udm-aj",
-      "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/vatican-codex",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-vatican-codex-udm-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-xenophanes-zeno-gorgias-hgw-ag.epub"
       }
     },
     {
@@ -2494,70 +2510,54 @@
       },
       "url_slug": "leo-of-constantinople-overview-medicine-pqo-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/leo-of-constantinople/overview-medicine",
+        "html": "https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/leo-constantinople-overview-medicine-pqo-ab.epub"
       }
     },
     {
-      "eul_wid": "lgi-au",
+      "eul_wid": "lgi-av",
       "title": {
-        "english": "Questions-Genesis Fragments",
-        "ancient_greek": "Ζητήματα ἐν Γενέσει Ἀποσπάσματα"
+        "english": "Questions-Exodus Fragments",
+        "ancient_greek": "Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα"
       },
-      "url_slug": "philo-of-alexandria-questions-genesis-lgi-au",
+      "url_slug": "philo-of-alexandria-questions-exodus-lgi-av",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/questions-genesis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-genesis-lgi-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/questions-genesis.epub"
+        "html": "https://eulogikon.org/works/philo-alexandria-questions-exodus-lgi-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-questions-exodus-lgi-av.epub"
       }
     },
     {
-      "eul_wid": "qhm-ab",
+      "eul_wid": "pcs-ao",
       "title": {
-        "english": "Teaching of Plato's Doctrines",
-        "ancient_greek": "Διδασκαλικὸς τῶν Πλάτωνος δογμάτων"
+        "english": "Succession Fragments after Alexander",
+        "ancient_greek": "Ἀποσπάσματα"
       },
-      "url_slug": "albinus-the-platonist-plato-doctrines-qhm-ab",
+      "url_slug": "arrian-of-nicomedia-succession-fragments-pcs-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/albinus-the-platonist/plato-doctrines",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-doctrines.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-an",
-      "title": {
-        "english": "Testimonies",
-        "ancient_greek": "Μαρτυρίαι"
-      },
-      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/testimonies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-testimonies-pcs-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.epub"
+        "html": "https://eulogikon.org/works/arrian-nicomedia-succession-fragments-pcs-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-succession-fragments-pcs-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-succession-fragments-pcs-ao.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/zeno-of-citium/testimonies-fragments",
+    "html": "https://eulogikon.org/works/zeno-citium-testimonies-fragments-ies-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-citium-testimonies-fragments-ies-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

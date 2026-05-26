@@ -86,19 +86,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "uim-aa",
+      "eul_wid": "okg-bi",
       "title": {
-        "english": "Commentaries-Nicomachean Ethics Books II–V",
-        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια Βιβλία Β'-Ε'"
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
       },
-      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa",
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
       "links": {
-        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-kings-generals-okg-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-kings-generals-okg-bi.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-kings-generals-okg-bi.epub"
+      }
+    },
+    {
+      "eul_wid": "reo-af",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Ὑπομνήματα εἰς τὸν Ἀριστοτέλην ἐν Ἑλληνικοῖς"
+      },
+      "url_slug": "alexander-of-aphrodisias-commentaries-aristotle-reo-af",
+      "links": {
+        "html": "https://eulogikon.org/works/alexander-aphrodisias-commentaries-aristotle-reo-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-commentaries-aristotle-reo-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-commentaries-aristotle-reo-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-commentaries-aristotle-reo-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-commentaries-aristotle-reo-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/alexander-aphrodisias-commentaries-aristotle-reo-af.epub"
+      }
+    },
+    {
+      "eul_wid": "uim-ab",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Book VII",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἠθικὰ Νικομάχεια Βιβλίον Ζ'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/anon-comm-aristotle-nicomachean-ethics-7-uim-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anon-comm-aristotle-nicomachean-ethics-7-uim-ab.epub"
       }
     },
     {
@@ -109,44 +141,12 @@
       },
       "url_slug": "aeschines-of-sphettus-fragments-education-dys-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aeschines-of-sphettus/fragments-education",
+        "html": "https://eulogikon.org/works/aeschines-sphettus-fragments-education-dys-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus/fragments-education.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-bh",
-      "title": {
-        "english": "How One Might Benefit from Enemies",
-        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
-      },
-      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-benefit-from-enemies-okg-bh.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.epub"
-      }
-    },
-    {
-      "eul_wid": "reo-ae",
-      "title": {
-        "english": "On Aristotle's Metaphysics, Commentary",
-        "ancient_greek": "Εἰς τὰ Μετὰ τὰ Φυσικὰ Ἀριστοτέλους Ὑπομνήματα"
-      },
-      "url_slug": "alexander-of-aphrodisias-metaphysics-commentary-reo-ae",
-      "links": {
-        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/metaphysics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-metaphysics-commentary-reo-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/metaphysics-commentary.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aeschines-sphettus-fragments-education-dys-ab.epub"
       }
     },
     {
@@ -157,12 +157,12 @@
       },
       "url_slug": "hermodorus-of-ephesus-on-plato-exs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/hermodorus-of-ephesus/on-plato",
+        "html": "https://eulogikon.org/works/hermodorus-ephesus-on-plato-exs-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus/on-plato.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermodorus-ephesus-on-plato-exs-ab.epub"
       }
     },
     {
@@ -173,28 +173,28 @@
       },
       "url_slug": "aristotle-respiration-hgw-bc",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/respiration",
+        "html": "https://eulogikon.org/works/aristotle-respiration-hgw-bc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-respiration-hgw-bc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/respiration.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-respiration-hgw-bc.epub"
       }
     },
     {
-      "eul_wid": "lea-ag",
+      "eul_wid": "lea-ah",
       "title": {
-        "english": "Orphic Cosmogony and Soul Fragments",
-        "ancient_greek": "Ἀποσπάσματα"
+        "english": "On Stones",
+        "ancient_greek": "Περὶ λίθων"
       },
-      "url_slug": "orphic-poems-cosmogony-soul-lea-ag",
+      "url_slug": "orphic-poems-stones-ah-lea-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/cosmogony-soul",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-stones-lea-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-stones-lea-ah.epub"
       }
     },
     {
@@ -205,22 +205,22 @@
       },
       "url_slug": "metrodorus-of-lampsacus-testimonies-coe-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/metrodorus-of-lampsacus/testimonies",
+        "html": "https://eulogikon.org/works/metrodorus-lampsacus-testimonies-coe-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus-testimonies-coe-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus-testimonies-coe-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus-testimonies-coe-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus-testimonies-coe-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/metrodorus-lampsacus-testimonies-coe-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/callicratidas-the-spartan/household-happiness",
+    "html": "https://eulogikon.org/works/callicratidas-spartan-household-happiness-eho-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callicratidas-spartan-household-happiness-eho-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

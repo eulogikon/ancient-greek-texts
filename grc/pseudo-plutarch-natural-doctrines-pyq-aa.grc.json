@@ -1590,12 +1590,12 @@
       },
       "url_slug": "pseudo-plutarch-music-pyq-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-plutarch/music",
+        "html": "https://eulogikon.org/works/pseudo-plutarch-music-pyq-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-music-pyq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-plutarch-music-pyq-ac.epub"
       }
     },
     {
@@ -1606,30 +1606,46 @@
       },
       "url_slug": "pseudo-plutarch-rivers-pyq-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pseudo-plutarch/rivers",
+        "html": "https://eulogikon.org/works/pseudo-plutarch-rivers-pyq-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-rivers-pyq-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/rivers.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-plutarch-rivers-pyq-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "oqk-ac",
+      "eul_wid": "okg-ds",
       "title": {
-        "english": "Hermes Trismegistus, Greatest Evil is Ignorance of God",
-        "ancient_greek": "Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ"
+        "english": "Caius Marius",
+        "ancient_greek": "Γάϊος Μάριος"
       },
-      "url_slug": "hermetica-greatest-evil-ignorance-oqk-ac",
+      "url_slug": "plutarch-of-chaeronea-caius-marius-okg-ds",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-caius-marius-okg-ds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caius-marius-okg-ds.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-caius-marius-okg-ds.epub"
+      }
+    },
+    {
+      "eul_wid": "sno-ao",
+      "title": {
+        "english": "Dubious Letters",
+        "ancient_greek": "Ἐπιστολαὶ Ἀμφίβολοι"
+      },
+      "url_slug": "julian-the-apostate-dubious-letters-sno-ao",
+      "links": {
+        "html": "https://eulogikon.org/works/julian-apostate-dubious-letters-sno-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-dubious-letters-sno-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-dubious-letters-sno-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-dubious-letters-sno-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-dubious-letters-sno-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/julian-apostate-dubious-letters-sno-ao.epub"
       }
     },
     {
@@ -1640,12 +1656,12 @@
       },
       "url_slug": "plato-ion-ffk-bo",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/ion",
+        "html": "https://eulogikon.org/works/plato-ion-ffk-bo",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-ion-ffk-bo.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/ion.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-ion-ffk-bo.epub"
       }
     },
     {
@@ -1656,12 +1672,28 @@
       },
       "url_slug": "aristotle-metaphysics-hgw-bj",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/metaphysics",
+        "html": "https://eulogikon.org/works/aristotle-metaphysics-hgw-bj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/metaphysics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-metaphysics-hgw-bj.epub"
+      }
+    },
+    {
+      "eul_wid": "oqk-ad",
+      "title": {
+        "english": "Nothing Perishes: Changes Mistaken for Loss and Death",
+        "ancient_greek": "Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς"
+      },
+      "url_slug": "hermetica-nothing-perishes-oqk-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/hermetica-nothing-perishes-oqk-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-nothing-perishes-oqk-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-nothing-perishes-oqk-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-nothing-perishes-oqk-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-nothing-perishes-oqk-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hermetica-nothing-perishes-oqk-ad.epub"
       }
     },
     {
@@ -1672,86 +1704,54 @@
       },
       "url_slug": "phintys-of-sparta-female-modesty-exi-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phintys-of-sparta/female-modesty",
+        "html": "https://eulogikon.org/works/phintys-sparta-female-modesty-exi-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phintys-sparta-female-modesty-exi-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-dr",
+      "eul_wid": "ljk-al",
       "title": {
-        "english": "On Inactivity",
-        "ancient_greek": "Περὶ ἀοπγησίας"
+        "english": "On Paralysis",
+        "ancient_greek": "Περὶ Παραλύσεως"
       },
-      "url_slug": "plutarch-of-chaeronea-inactivity-okg-dr",
+      "url_slug": "theophrastus-of-eresus-paralysis-ljk-al",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/inactivity",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-inactivity-okg-dr.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-paralysis-ljk-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-paralysis-ljk-al.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-paralysis-ljk-al.epub"
       }
     },
     {
-      "eul_wid": "sno-an",
+      "eul_wid": "okg-an",
       "title": {
-        "english": "Spurious Letters",
-        "ancient_greek": "Ἐπιστολαὶ Νόθαι"
+        "english": "On the Creation of the Soul in the Timaeus",
+        "ancient_greek": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
       },
-      "url_slug": "julian-the-apostate-spurious-letters-sno-an",
+      "url_slug": "plutarch-of-chaeronea-soul-timaeus-okg-an",
       "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/spurious-letters",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-spurious-letters-sno-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/spurious-letters.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-am",
-      "title": {
-        "english": "Summary of the Soul's Creation in the Timaeus",
-        "ancient_greek": "Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας"
-      },
-      "url_slug": "plutarch-of-chaeronea-soul-creation-timaeus-okg-am",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-creation-timaeus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-creation-timaeus-okg-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-creation-timaeus.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-ag",
-      "title": {
-        "english": "Surviving Works of Philo (Bulk Volume)",
-        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
-      },
-      "url_slug": "philo-of-alexandria-surviving-works-ag-lgi-ag",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-ag",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-surviving-works-ag-lgi-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-soul-timaeus-okg-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-soul-timaeus-okg-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-soul-timaeus-okg-an.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/pseudo-plutarch/natural-doctrines",
+    "html": "https://eulogikon.org/works/pseudo-plutarch-natural-doctrines-pyq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch-natural-doctrines-pyq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/natural-doctrines.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-plutarch-natural-doctrines-pyq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

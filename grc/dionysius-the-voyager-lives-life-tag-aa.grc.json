@@ -65,22 +65,6 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "nti-aa",
-      "title": {
-        "english": "Book of Suntipa",
-        "ancient_greek": "Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ"
-      },
-      "url_slug": "anonymous-biographer-suntipa-nti-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/anonymous-biographer/suntipa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer-suntipa-nti-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-biographer/suntipa.epub"
-      }
-    },
-    {
       "eul_wid": "nxe-ac",
       "title": {
         "english": "Effects",
@@ -88,12 +72,12 @@
       },
       "url_slug": "apollonius-of-tyana-effects-nxe-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/apollonius-of-tyana/effects",
+        "html": "https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-effects-nxe-ac.epub"
       }
     },
     {
@@ -104,12 +88,12 @@
       },
       "url_slug": "aratus-lives-preface-phenomena-iru-af",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/preface-phenomena",
+        "html": "https://eulogikon.org/works/aratus-preface-phenomena-iru-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-preface-phenomena-iru-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-preface-phenomena-iru-af.epub"
       }
     },
     {
@@ -120,28 +104,12 @@
       },
       "url_slug": "aratus-lives-introduction-ad-iru-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ad",
+        "html": "https://eulogikon.org/works/aratus-introduction-iru-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ad-iru-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ad.epub"
-      }
-    },
-    {
-      "eul_wid": "iru-aa",
-      "title": {
-        "english": "Letter to Julian",
-        "ancient_greek": "Πρὸς Ἰουλιανὸν ἐπιστολή"
-      },
-      "url_slug": "aratus-lives-letter-to-julian-iru-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/letter-to-julian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-letter-to-julian-iru-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/letter-to-julian.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-introduction-iru-ad.epub"
       }
     },
     {
@@ -152,28 +120,60 @@
       },
       "url_slug": "apollonius-of-tyana-letters-nxe-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/apollonius-of-tyana/letters",
+        "html": "https://eulogikon.org/works/apollonius-tyana-letters-nxe-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/letters.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/apollonius-tyana-letters-nxe-ab.epub"
       }
     },
     {
-      "eul_wid": "rjo-aaa",
+      "eul_wid": "iru-aj",
       "title": {
-        "english": "Lives and Opinions: Book I (Seven Sages)",
-        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Αʹ"
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
       },
-      "url_slug": "diogenes-of-laertia-lives-seven-sages-rjo-aaa",
+      "url_slug": "aratus-lives-life-aj-iru-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-seven-sages",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aaa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-seven-sages.epub"
+        "html": "https://eulogikon.org/works/aratus-life-iru-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-life-iru-aj.epub"
+      }
+    },
+    {
+      "eul_wid": "jho-ab",
+      "title": {
+        "english": "Life of Herodotus",
+        "ancient_greek": "Βίος Ἡροδότου"
+      },
+      "url_slug": "homer-life-anonymous-herodotus-life-jho-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/homer-herodotus-life-jho-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-herodotus-life-jho-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "rjo-ac",
+      "title": {
+        "english": "Lives and Opinions: Book III (Plato)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-plato-rjo-ac",
+      "links": {
+        "html": "https://eulogikon.org/works/diogenes-of-laertia-lives-plato-rjo-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-of-laertia-lives-plato-rjo-ac.epub"
       }
     },
     {
@@ -184,22 +184,22 @@
       },
       "url_slug": "aratus-lives-phenomena-iru-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/phenomena",
+        "html": "https://eulogikon.org/works/aratus-phenomena-iru-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-phenomena-iru-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/phenomena.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-phenomena-iru-ac.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/dionysius-the-voyager-lives/life",
+    "html": "https://eulogikon.org/works/dionysius-voyager-life-tag-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives/life.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/dionysius-voyager-life-tag-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

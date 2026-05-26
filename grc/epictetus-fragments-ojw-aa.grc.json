@@ -77,12 +77,12 @@
       },
       "url_slug": "epictetus-discourses-ojw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
+        "html": "https://eulogikon.org/works/epictetus-discourses-ojw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-discourses-ojw-ac.epub"
       }
     },
     {
@@ -93,12 +93,12 @@
       },
       "url_slug": "epictetus-gnomology-ae-ojw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ae.epub"
       }
     },
     {
@@ -109,12 +109,12 @@
       },
       "url_slug": "epictetus-gnomology-ad-ojw-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ad",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ad.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
       }
     },
     {
@@ -125,12 +125,12 @@
       },
       "url_slug": "epictetus-handbook-ojw-af",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/handbook",
+        "html": "https://eulogikon.org/works/epictetus-handbook-ojw-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/handbook.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-handbook-ojw-af.epub"
       }
     },
     {
@@ -141,62 +141,30 @@
       },
       "url_slug": "epictetus-letter-to-gellius-ojw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+        "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "okg-bt",
+      "eul_wid": "okg-bu",
       "title": {
-        "english": "Books of Symposiastic Problems",
-        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
+        "english": "Comparison of Dion and Brutus",
+        "ancient_greek": "Σύγκρισις Δίωνος καὶ Βρούτου"
       },
-      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
+      "url_slug": "plutarch-of-chaeronea-dion-brutus-okg-bu",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposiastic-problems",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposiastic-problems-okg-bt.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-ci",
-      "title": {
-        "english": "Consolation to Apollonius",
-        "ancient_greek": "Πραμυθητικὸς πρὸς Ἀπολλώνιον"
-      },
-      "url_slug": "plutarch-of-chaeronea-consolation-apollonius-okg-ci",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/consolation-apollonius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-consolation-apollonius-okg-ci.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-apollonius.epub"
-      }
-    },
-    {
-      "eul_wid": "sno-ab",
-      "title": {
-        "english": "Consolatithe Departure of Most Noble Salustius",
-        "ancient_greek": "Ἐπὶ τῇ ἐξόδῳ τοῦ ἀγαθωτάτου Σαλουστίου"
-      },
-      "url_slug": "julian-the-apostate-consolation-salustius-sno-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/julian-the-apostate/consolation-salustius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate-consolation-salustius-sno-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/consolation-salustius.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-dion-brutus-okg-bu.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-dion-brutus-okg-bu.epub"
       }
     },
     {
@@ -207,12 +175,28 @@
       },
       "url_slug": "aristotle-history-animals-hgw-av",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "html": "https://eulogikon.org/works/aristotle-history-animals-hgw-av",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-history-animals-hgw-av.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-history-animals-hgw-av.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fj",
+      "title": {
+        "english": "Nicias",
+        "ancient_greek": "Νικίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-nicias-okg-fj",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-nicias-okg-fj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-nicias-okg-fj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-nicias-okg-fj.epub"
       }
     },
     {
@@ -223,12 +207,12 @@
       },
       "url_slug": "aristotle-nicomachean-ethics-hgw-aw",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/nicomachean-ethics",
+        "html": "https://eulogikon.org/works/aristotle-nicomachean-ethics-hgw-aw",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-nicomachean-ethics-hgw-aw.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nicomachean-ethics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-nicomachean-ethics-hgw-aw.epub"
       }
     },
     {
@@ -239,12 +223,28 @@
       },
       "url_slug": "aristotle-xenophanes-zeno-gorgias-hgw-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/xenophanes-zeno-gorgias",
+        "html": "https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-xenophanes-zeno-gorgias-hgw-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/xenophanes-zeno-gorgias.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-xenophanes-zeno-gorgias-hgw-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-aw",
+      "title": {
+        "english": "On the Creation of the World",
+        "ancient_greek": "Περὶ τῆς δημιουργίας τοῦ κόσμου"
+      },
+      "url_slug": "philo-of-alexandria-creation-world-lgi-aw",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-creation-world-lgi-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-creation-world-lgi-aw.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-creation-world-lgi-aw.epub"
       }
     },
     {
@@ -255,38 +255,38 @@
       },
       "url_slug": "aristotle-movement-animals-hgw-ak",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/movement-animals",
+        "html": "https://eulogikon.org/works/aristotle-movement-animals-hgw-ak",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-movement-animals-hgw-ak.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/movement-animals.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-movement-animals-hgw-ak.epub"
       }
     },
     {
-      "eul_wid": "lgi-av",
+      "eul_wid": "okg-cj",
       "title": {
-        "english": "Questions-Exodus Fragments",
-        "ancient_greek": "Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα"
+        "english": "To an Uneducated Governor",
+        "ancient_greek": "Πρὸς ἡγεμόνα ἀπαίδευτον"
       },
-      "url_slug": "philo-of-alexandria-questions-exodus-lgi-av",
+      "url_slug": "plutarch-of-chaeronea-uneducated-governor-okg-cj",
       "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/questions-exodus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-questions-exodus-lgi-av.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/questions-exodus.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-uneducated-governor-okg-cj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-uneducated-governor-okg-cj.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-uneducated-governor-okg-cj.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epictetus/fragments",
+    "html": "https://eulogikon.org/works/epictetus-fragments-ojw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-fragments-ojw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

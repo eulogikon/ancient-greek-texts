@@ -616,46 +616,62 @@
       },
       "url_slug": "david-the-invincible-commentary-aristotle-vcm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/david-the-invincible/commentary-aristotle",
+        "html": "https://eulogikon.org/works/david-invincible-commentary-aristotle-vcm-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/commentary-aristotle.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/david-invincible-commentary-aristotle-vcm-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "rye-bb",
+      "eul_wid": "okg-fe",
       "title": {
-        "english": "Consular to Emperor Jovian",
-        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
       },
-      "url_slug": "themistius-consular-jovian-rye-bb",
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-consular-jovian-rye-bb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-antony-okg-fe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-antony-okg-fe.epub"
       }
     },
     {
-      "eul_wid": "sys-ag",
+      "eul_wid": "rye-bc",
       "title": {
-        "english": "Homilies",
-        "ancient_greek": "Ὁμιλίαι"
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
       },
-      "url_slug": "synesius-of-cyrene-homilies-sys-ag",
+      "url_slug": "themistius-erotic-beauty-rye-bc",
       "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/homilies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/homilies.epub"
+        "html": "https://eulogikon.org/works/themistius-erotic-beauty-rye-bc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-erotic-beauty-rye-bc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-erotic-beauty-rye-bc.epub"
+      }
+    },
+    {
+      "eul_wid": "sys-ah",
+      "title": {
+        "english": "Letters to Nicander",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Νίκανδρον"
+      },
+      "url_slug": "synesius-of-cyrene-letters-nicander-sys-ah",
+      "links": {
+        "html": "https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-letters-nicander-sys-ah.epub"
       }
     },
     {
@@ -666,12 +682,12 @@
       },
       "url_slug": "teles-of-megara-impassibility-kkk-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/teles-of-megara/impassibility",
+        "html": "https://eulogikon.org/works/teles-megara-impassibility-kkk-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/impassibility.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/teles-megara-impassibility-kkk-ag.epub"
       }
     },
     {
@@ -682,12 +698,12 @@
       },
       "url_slug": "hieronymus-of-rhodes-supreme-good-happiness-ilq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/hieronymus-of-rhodes/supreme-good-happiness",
+        "html": "https://eulogikon.org/works/hieronymus-rhodes-supreme-good-happiness-ilq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes/supreme-good-happiness.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/hieronymus-rhodes-supreme-good-happiness-ilq-aa.epub"
       }
     },
     {
@@ -698,12 +714,12 @@
       },
       "url_slug": "aristo-of-ceos-rhetorical-fragments-koq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristo-of-ceos/rhetorical-fragments",
+        "html": "https://eulogikon.org/works/aristo-ceos-rhetorical-fragments-koq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos/rhetorical-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristo-ceos-rhetorical-fragments-koq-aa.epub"
       }
     },
     {
@@ -714,12 +730,12 @@
       },
       "url_slug": "sphaerus-of-borysthenes-stoic-fragments-ipw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments",
+        "html": "https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/sphaerus-borysthenes-stoic-fragments-ipw-aa.epub"
       }
     },
     {
@@ -730,38 +746,22 @@
       },
       "url_slug": "zeno-of-citium-testimonies-fragments-ies-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-citium/testimonies-fragments",
+        "html": "https://eulogikon.org/works/zeno-citium-testimonies-fragments-ies-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fd",
-      "title": {
-        "english": "Theseus",
-        "ancient_greek": "Θησεύς"
-      },
-      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/theseus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-citium-testimonies-fragments-ies-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/david-the-invincible/prolegomena",
+    "html": "https://eulogikon.org/works/david-invincible-prolegomena-vcm-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/david-invincible-prolegomena-vcm-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

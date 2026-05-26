@@ -50,23 +50,6 @@
   "works_count": 2,
   "works": [
     {
-      "eul_wid": "dys-ab",
-      "title": {
-        "english": "Fragments on Socrates and Education",
-        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας"
-      },
-      "url_slug": "aeschines-of-sphettus-fragments-education-dys-ab",
-      "passages": 17,
-      "links": {
-        "html": "https://eulogikon.org/grc/aeschines-of-sphettus/fragments-education",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus/fragments-education.epub"
-      }
-    },
-    {
       "eul_wid": "dys-aa",
       "title": {
         "english": "Fragments on Socrates and Education",
@@ -75,12 +58,29 @@
       "url_slug": "aeschines-of-sphettus-socrates-education-dys-aa",
       "passages": 139,
       "links": {
-        "html": "https://eulogikon.org/grc/aeschines-of-sphettus/socrates-education",
+        "html": "https://eulogikon.org/works/aeschines-sphettus-socrates-education-dys-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-socrates-education-dys-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-socrates-education-dys-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-socrates-education-dys-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-socrates-education-dys-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus/socrates-education.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aeschines-sphettus-socrates-education-dys-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "dys-ab",
+      "title": {
+        "english": "Fragments on Socrates and Education",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας"
+      },
+      "url_slug": "aeschines-of-sphettus-fragments-education-dys-ab",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/works/aeschines-sphettus-fragments-education-dys-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-sphettus-fragments-education-dys-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aeschines-sphettus-fragments-education-dys-ab.epub"
       }
     }
   ],
@@ -93,7 +93,7 @@
       },
       "work_count": 1,
       "links": {
-        "html": "https://eulogikon.org/en/cebes-of-thebes",
+        "html": "https://eulogikon.org/authors/cebes-of-thebes-dyi",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cebes-of-thebes-dyi.en.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cebes-of-thebes-dyi.en.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cebes-of-thebes-dyi.en.txt",
@@ -102,7 +102,7 @@
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/en/aeschines-of-sphettus",
+    "html": "https://eulogikon.org/authors/aeschines-of-sphettus-dys",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-sphettus-dys.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-sphettus-dys.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-sphettus-dys.en.txt",

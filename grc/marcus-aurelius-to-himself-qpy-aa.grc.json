@@ -3459,35 +3459,67 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "rvw-aa",
+      "eul_wid": "ljk-ab",
       "title": {
-        "english": "Alchemical Fragments",
-        "ancient_greek": "Ἀποσπάσματα Ἀλχημικά"
+        "english": "Fragments 13-190",
+        "ancient_greek": "Ἀποσπάσματα διάφορα"
       },
-      "url_slug": "iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa",
+      "url_slug": "theophrastus-of-eresus-fragments-ljk-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.epub"
+        "html": "https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-fragments-ljk-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/theophrastus-eresus-fragments-ljk-ab.epub"
       }
     },
     {
-      "eul_wid": "utq-af",
+      "eul_wid": "utq-ag",
       "title": {
-        "english": "Commentary-Plato's Phaedo",
-        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+        "english": "Introduction",
+        "ancient_greek": "Προλεγόμενα"
       },
-      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "url_slug": "olympiodorus-the-younger-of-alexandria-introduction-utq-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.epub"
+        "html": "https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria-introduction-utq-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/olympiodorus-alexandria-introduction-utq-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-physics-paraphrase-rye-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-physics-paraphrase-rye-ao.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-cc",
+      "title": {
+        "english": "On Flesh-Eating Discourse A",
+        "ancient_greek": "Περὶ σαρκοφαγίας λόγος α′"
+      },
+      "url_slug": "plutarch-of-chaeronea-flesh-eating-cc-okg-cc",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cc",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-flesh-eating-cc-okg-cc.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-flesh-eating-okg-cc.epub"
       }
     },
     {
@@ -3498,28 +3530,12 @@
       },
       "url_slug": "aristotle-plants-hgw-bx",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "html": "https://eulogikon.org/works/aristotle-plants-hgw-bx",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-plants-hgw-bx.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.epub"
-      }
-    },
-    {
-      "eul_wid": "ljk-aa",
-      "title": {
-        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
-        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
-      },
-      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus-weather-signs-ljk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-plants-hgw-bx.epub"
       }
     },
     {
@@ -3530,44 +3546,12 @@
       },
       "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "html": "https://eulogikon.org/works/eratosthenes-cyrene-adornment-stars-kly-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-an",
-      "title": {
-        "english": "On the Names of the King and the Consul",
-        "ancient_greek": "〈Περὶ τῶν ὀνομάτων τοῦ βασιλέως καὶ τοῦ ὑπάτου〉"
-      },
-      "url_slug": "themistius-names-king-consul-rye-an",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/names-king-consul",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-cb",
-      "title": {
-        "english": "Symposium of the Seven Sages",
-        "ancient_greek": "Πων επτά σοφών συμπόσιον"
-      },
-      "url_slug": "plutarch-of-chaeronea-symposium-seven-sages-okg-cb",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposium-seven-sages",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-symposium-seven-sages-okg-cb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposium-seven-sages.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eratosthenes-cyrene-adornment-stars-kly-aa.epub"
       }
     },
     {
@@ -3578,22 +3562,38 @@
       },
       "url_slug": "anaxarchus-of-abdera-testimonies-fhs-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/anaxarchus-of-abdera/testimonies",
+        "html": "https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaxarchus-abdera-testimonies-fhs-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ab",
+      "title": {
+        "english": "Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus",
+        "ancient_greek": "Χαριστήριος τῷ αὐτοκράτορι ὑπὲρ τῆς εἰρήνης καὶ"
+      },
+      "url_slug": "themistius-peace-consulship-saturninus-rye-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-peace-consulship-saturninus-rye-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-peace-consulship-saturninus-rye-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-peace-consulship-saturninus-rye-ab.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/marcus-aurelius/to-himself",
+    "html": "https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius-to-himself-qpy-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/marcus-aurelius-to-himself-qpy-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

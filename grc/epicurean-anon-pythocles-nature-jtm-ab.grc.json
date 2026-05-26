@@ -322,12 +322,12 @@
       },
       "url_slug": "epicurean-anon-herculaneum-papyri-jtm-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/epicurean-anon/herculaneum-papyri",
+        "html": "https://eulogikon.org/works/epicurean-anon-herculaneum-papyri-jtm-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-herculaneum-papyri-jtm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/herculaneum-papyri.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurean-anon-herculaneum-papyri-jtm-aa.epub"
       }
     }
   ],
@@ -340,44 +340,28 @@
       },
       "url_slug": "plato-alcibiades-ffk-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/alcibiades",
+        "html": "https://eulogikon.org/works/plato-alcibiades-ffk-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-alcibiades-ffk-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-alcibiades-ffk-ae.epub"
       }
     },
     {
-      "eul_wid": "uzu-ae",
+      "eul_wid": "vgs-ab",
       "title": {
-        "english": "Commentary on On the Soul",
-        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
       },
-      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae",
+      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/commentary-aristotle-ae",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.epub"
-      }
-    },
-    {
-      "eul_wid": "vgs-aa",
-      "title": {
-        "english": "Commentary-Aristotle's Prior Analytics",
-        "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
-      },
-      "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.epub"
+        "html": "https://eulogikon.org/works/elias-neoplatonist-commentaries-aristotle-vgs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/elias-neoplatonist-commentaries-aristotle-vgs-ab.epub"
       }
     },
     {
@@ -388,12 +372,12 @@
       },
       "url_slug": "chrysippus-of-soli-dietary-taboos-kms-af",
       "links": {
-        "html": "https://eulogikon.org/grc/chrysippus-of-soli/dietary-taboos",
+        "html": "https://eulogikon.org/works/chrysippus-soli-dietary-taboos-kms-af",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chrysippus-soli-dietary-taboos-kms-af.epub"
       }
     },
     {
@@ -404,12 +388,12 @@
       },
       "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "html": "https://eulogikon.org/works/archytas-tarentum-mathematics-harmony-faa-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/archytas-tarentum-mathematics-harmony-faa-ab.epub"
       }
     },
     {
@@ -420,28 +404,44 @@
       },
       "url_slug": "callimachus-of-cyrene-epigrams-am-iso-am",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-am",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-am",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-epigrams-iso-am.epub"
       }
     },
     {
-      "eul_wid": "uqo-ad",
+      "eul_wid": "uqo-ae",
       "title": {
-        "english": "On Porphyry's Isagoge or Five Voices",
-        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς ἢ Πέντε Φωναί"
+        "english": "On Necessary Syllogisms",
+        "ancient_greek": "Εἰς τοὺς ἀναγκαίους συλλογισμούς"
       },
-      "url_slug": "ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad",
+      "url_slug": "ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/porphyry-isagoge",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/porphyry-isagoge.epub"
+        "html": "https://eulogikon.org/works/ammonius-alexandria-necessary-syllogisms-uqo-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/ammonius-alexandria-necessary-syllogisms-uqo-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-af",
+      "title": {
+        "english": "On the Heavens, Book I",
+        "ancient_greek": "Περὶ οὐρανοῦ, Βιβλίον Αʹ"
+      },
+      "url_slug": "simplicius-of-cilicia-heavens-book-1-uzu-af",
+      "links": {
+        "html": "https://eulogikon.org/works/simplicius-cilicia-heavens-book-1-uzu-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simplicius-cilicia-heavens-book-1-uzu-af.epub"
       }
     },
     {
@@ -452,22 +452,22 @@
       },
       "url_slug": "menestor-the-philosopher-testimonies-cik-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/menestor-the-philosopher/testimonies",
+        "html": "https://eulogikon.org/works/menestor-testimonies-cik-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/menestor-testimonies-cik-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epicurean-anon/pythocles-nature",
+    "html": "https://eulogikon.org/works/epicurean-anon-pythocles-nature-jtm-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon-pythocles-nature-jtm-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurean-anon/pythocles-nature.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epicurean-anon-pythocles-nature-jtm-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

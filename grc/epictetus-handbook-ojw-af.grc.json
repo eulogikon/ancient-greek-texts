@@ -728,12 +728,12 @@
       },
       "url_slug": "epictetus-discourses-ojw-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/discourses",
+        "html": "https://eulogikon.org/works/epictetus-discourses-ojw-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-discourses-ojw-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/discourses.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-discourses-ojw-ac.epub"
       }
     },
     {
@@ -744,12 +744,12 @@
       },
       "url_slug": "epictetus-fragments-ojw-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/fragments",
+        "html": "https://eulogikon.org/works/epictetus-fragments-ojw-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-fragments-ojw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-fragments-ojw-aa.epub"
       }
     },
     {
@@ -760,12 +760,12 @@
       },
       "url_slug": "epictetus-gnomology-ae-ojw-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ae-ojw-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ae.epub"
       }
     },
     {
@@ -776,12 +776,12 @@
       },
       "url_slug": "epictetus-gnomology-ad-ojw-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/gnomology-ad",
+        "html": "https://eulogikon.org/works/epictetus-gnomology-ojw-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-gnomology-ad-ojw-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ad.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-gnomology-ojw-ad.epub"
       }
     },
     {
@@ -792,30 +792,46 @@
       },
       "url_slug": "epictetus-letter-to-gellius-ojw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+        "html": "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-letter-to-gellius-ojw-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-letter-to-gellius-ojw-ab.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "uzu-ac",
+      "eul_wid": "okg-fe",
       "title": {
-        "english": "Commentary-Epictetus' Handbook",
-        "ancient_greek": "Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον"
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
       },
-      "url_slug": "simplicius-of-cilicia-handbook-commentary-uzu-ac",
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
       "links": {
-        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/handbook-commentary",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-antony-okg-fe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-antony-okg-fe.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-antony-okg-fe.epub"
+      }
+    },
+    {
+      "eul_wid": "uzu-ad",
+      "title": {
+        "english": "Commentary on the Physics",
+        "ancient_greek": "Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/simplicius-cilicia-commentary-aristotle-uzu-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/simplicius-cilicia-commentary-aristotle-uzu-ad.epub"
       }
     },
     {
@@ -826,28 +842,12 @@
       },
       "url_slug": "periander-of-corinth-letters-aoq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/periander-of-corinth/letters",
+        "html": "https://eulogikon.org/works/periander-corinth-letters-aoq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.epub"
-      }
-    },
-    {
-      "eul_wid": "nma-ac",
-      "title": {
-        "english": "Minor Fragments",
-        "ancient_greek": "Ἀποσπάσματα Μικρά"
-      },
-      "url_slug": "musonius-the-roman-minor-fragments-nma-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/musonius-the-roman/minor-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman/minor-fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/periander-corinth-letters-aoq-aa.epub"
       }
     },
     {
@@ -858,12 +858,28 @@
       },
       "url_slug": "aristotle-parts-animals-hgw-au",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/parts-animals",
+        "html": "https://eulogikon.org/works/aristotle-parts-animals-hgw-au",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-parts-animals-hgw-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-parts-animals-hgw-au.epub"
+      }
+    },
+    {
+      "eul_wid": "noi-aa",
+      "title": {
+        "english": "On Pythagorean Number Theory",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "moderatus-of-gades-pythagorean-number-theory-noi-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/moderatus-gades-pythagorean-number-theory-noi-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/moderatus-gades-pythagorean-number-theory-noi-aa.epub"
       }
     },
     {
@@ -874,28 +890,28 @@
       },
       "url_slug": "aristotle-physics-hgw-cc",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/physics",
+        "html": "https://eulogikon.org/works/aristotle-physics-hgw-cc",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-physics-hgw-cc.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-physics-hgw-cc.epub"
       }
     },
     {
-      "eul_wid": "pza-aa",
+      "eul_wid": "pza-ab",
       "title": {
-        "english": "Pythagorean Sentences (Recension A)",
+        "english": "Pythagorean Sentences (Recension B)",
         "ancient_greek": "Γνῶμαι Πυθαγορείων"
       },
-      "url_slug": "pythagoreans-sayings-sentences-aa-pza-aa",
+      "url_slug": "pythagoreans-sayings-sentences-ab-pza-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/pythagoreans-sayings/sentences-aa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings/sentences-aa.epub"
+        "html": "https://eulogikon.org/works/pythagoreans-sentences-pza-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pythagoreans-sentences-pza-ab.epub"
       }
     },
     {
@@ -906,38 +922,22 @@
       },
       "url_slug": "phocylides-of-miletus-sentences-bdg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phocylides-of-miletus/sentences",
+        "html": "https://eulogikon.org/works/phocylides-miletus-sentences-bdg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-fd",
-      "title": {
-        "english": "Theseus",
-        "ancient_greek": "Θησεύς"
-      },
-      "url_slug": "plutarch-of-chaeronea-theseus-okg-fd",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/theseus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-theseus-okg-fd.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/theseus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phocylides-miletus-sentences-bdg-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/epictetus/handbook",
+    "html": "https://eulogikon.org/works/epictetus-handbook-ojw-af",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus-handbook-ojw-af.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/handbook.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/epictetus-handbook-ojw-af.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

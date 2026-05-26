@@ -41,12 +41,12 @@
     {
       "label": "Affiliation",
       "greek": "",
-      "english": "Stoic",
-      "href": "/affiliations/stoic"
+      "english": "Democritean",
+      "href": "/affiliations/democritean"
     }
   ],
   "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diotimus of Tyre was a Stoic philosopher who lived during the 4th century BCE. He is a very obscure figure, and no details about his life, education, or personal associations are known beyond his identification as a philosopher from the city of Tyre.</p>\n<p class=\"research-text\">He is credited with a single known work: a collection of letters attributed to Epicurus, the founder of the rival Epicurean school. However, this attribution is the subject of a significant historical controversy. According to ancient reports, Diotimus did not merely collect these letters but forged fifty obscene ones and published them under Epicurus’s name. The alleged purpose was to discredit the Epicurean school and its teachings. No other writings by Diotimus are recorded.</p>\n<p class=\"research-text\">His historical importance lies entirely in this accusation of literary forgery. The episode is cited by scholars as a notable example of the intense polemical rivalries between Stoic and Epicurean philosophers in the Hellenistic period. The story, preserved by the biographer Diogenes Laertius, makes Diotimus a case study in how philosophical disputes in antiquity could extend to acts of defamation and disinformation. He is not remembered for any original philosophical contributions, but rather for his role in this contentious episode.</p>\n</div>",
-  "affiliation_label": "Stoic",
+  "affiliation_label": "Democritean",
   "works_count": 1,
   "works": [
     {
@@ -58,199 +58,49 @@
       "url_slug": "diotimus-of-tyre-testimonies-dmu-aa",
       "passages": 3,
       "links": {
-        "html": "https://eulogikon.org/grc/diotimus-of-tyre/testimonies",
+        "html": "https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diotimus-tyre-testimonies-dmu-aa.epub"
       }
     }
   ],
   "related_authors": [
     {
-      "eul_aid": "mlc",
+      "eul_aid": "fhs",
       "name": {
-        "english": "Apollodorus of Seleucia",
-        "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia-mlc.en.json"
-      }
-    },
-    {
-      "eul_aid": "jzg",
-      "name": {
-        "english": "Apollophanes the Stoic",
-        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic-jzg.en.json"
-      }
-    },
-    {
-      "eul_aid": "mnk",
-      "name": {
-        "english": "Archedemus of Tarsus",
-        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus-mnk.en.json"
-      }
-    },
-    {
-      "eul_aid": "jyw",
-      "name": {
-        "english": "Ariston of Chios",
-        "ancient_greek": "Ἀρίστων ὁ Χῖος"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/ariston-of-chios",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios-jyw.en.json"
-      }
-    },
-    {
-      "eul_aid": "nac",
-      "name": {
-        "english": "Arius Didymus of Alexandria",
-        "ancient_greek": "Ἄρειος Δίδυμος"
+        "english": "Anaxarchus of Abdera",
+        "ancient_greek": "Ἀνάξαρχος ὁ Ἀβδηρίτης"
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria-nac.en.json"
+        "html": "https://eulogikon.org/authors/anaxarchus-of-abdera-fhs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxarchus-of-abdera-fhs.en.json"
       }
     },
     {
-      "eul_aid": "pcs",
+      "eul_aid": "hik",
       "name": {
-        "english": "Arrian of Nicomedia",
-        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
-      },
-      "work_count": 18,
-      "links": {
-        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia-pcs.en.json"
-      }
-    },
-    {
-      "eul_aid": "mty",
-      "name": {
-        "english": "Athenodorus of Tarsus Cordylion",
-        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus-mty.en.json"
-      }
-    },
-    {
-      "eul_aid": "omo",
-      "name": {
-        "english": "Chaeremon of Alexandria",
-        "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria-omo.en.json"
-      }
-    },
-    {
-      "eul_aid": "kms",
-      "name": {
-        "english": "Chrysippus of Soli",
-        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
-      },
-      "work_count": 6,
-      "links": {
-        "html": "https://eulogikon.org/en/chrysippus-of-soli",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-kms.en.json"
-      }
-    },
-    {
-      "eul_aid": "ixe",
-      "name": {
-        "english": "Chrysippus of Soli II",
-        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii-ixe.en.json"
-      }
-    },
-    {
-      "eul_aid": "jew",
-      "name": {
-        "english": "Cleanthes of Assos",
-        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+        "english": "Nausiphanes of Teos",
+        "ancient_greek": "Ναυσιφάνης ὁ Τήιος"
       },
       "work_count": 2,
       "links": {
-        "html": "https://eulogikon.org/en/cleanthes-of-assos",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos-jew.en.json"
-      }
-    },
-    {
-      "eul_aid": "obu",
-      "name": {
-        "english": "Cornutus the Stoic Philosopher",
-        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
-      },
-      "work_count": 1,
-      "links": {
-        "html": "https://eulogikon.org/en/cornutus-the-stoic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic-obu.en.json"
+        "html": "https://eulogikon.org/authors/nausiphanes-of-teos-hik",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nausiphanes-of-teos-hik.en.json"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/en/diotimus-of-tyre",
+    "html": "https://eulogikon.org/authors/diotimus-of-tyre-dmu",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotimus-of-tyre-dmu.en.txt",

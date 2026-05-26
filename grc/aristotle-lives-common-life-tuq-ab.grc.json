@@ -190,16 +190,80 @@
       },
       "url_slug": "aristotle-lives-marcian-tuq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle-lives/marcian",
+        "html": "https://eulogikon.org/works/aristotle-marcian-tuq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-marcian-tuq-aa.epub"
       }
     }
   ],
   "related_domain_works": [
+    {
+      "eul_wid": "rjo-ak",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "diogenes-of-laertia-epigrams-rjo-ak",
+      "links": {
+        "html": "https://eulogikon.org/works/diogenes-of-laertia-epigrams-rjo-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-of-laertia-epigrams-rjo-ak.epub"
+      }
+    },
+    {
+      "eul_wid": "knc-ab",
+      "title": {
+        "english": "Fragments on Natural Wonders",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαυμασίων Φύσεως"
+      },
+      "url_slug": "antigonus-of-carystus-natural-wonders-knc-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/antigonus-carystus-natural-wonders-knc-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-natural-wonders-knc-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-natural-wonders-knc-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-natural-wonders-knc-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-natural-wonders-knc-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/antigonus-carystus-natural-wonders-knc-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "iru-ah",
+      "title": {
+        "english": "Introduction to Aratus",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὸν Ἄρατον"
+      },
+      "url_slug": "aratus-lives-introduction-ah-iru-ah",
+      "links": {
+        "html": "https://eulogikon.org/works/aratus-introduction-iru-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-introduction-ah-iru-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-introduction-iru-ah.epub"
+      }
+    },
+    {
+      "eul_wid": "vbs-ae",
+      "title": {
+        "english": "Life of Abramius",
+        "ancient_greek": "Βίος Ἀβραμίου"
+      },
+      "url_slug": "cyril-of-scythopolis-abramius-vbs-ae",
+      "links": {
+        "html": "https://eulogikon.org/works/cyril-scythopolis-abramius-vbs-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cyril-scythopolis-abramius-vbs-ae.epub"
+      }
+    },
     {
       "eul_wid": "iru-aj",
       "title": {
@@ -208,28 +272,12 @@
       },
       "url_slug": "aratus-lives-life-aj-iru-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
+        "html": "https://eulogikon.org/works/aratus-life-iru-aj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives-life-aj-iru-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.epub"
-      }
-    },
-    {
-      "eul_wid": "vbs-ac",
-      "title": {
-        "english": "Life of Euthymius",
-        "ancient_greek": "Βίος Εὐθυμίου"
-      },
-      "url_slug": "cyril-of-scythopolis-life-euthymius-vbs-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-euthymius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aratus-life-iru-aj.epub"
       }
     },
     {
@@ -240,12 +288,12 @@
       },
       "url_slug": "homer-life-anonymous-herodotus-life-jho-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/herodotus-life",
+        "html": "https://eulogikon.org/works/homer-herodotus-life-jho-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-herodotus-life-jho-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/herodotus-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-herodotus-life-jho-ab.epub"
       }
     },
     {
@@ -256,60 +304,12 @@
       },
       "url_slug": "homer-life-anonymous-life-jho-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/life",
+        "html": "https://eulogikon.org/works/homer-life-jho-ac",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-life-jho-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/life.epub"
-      }
-    },
-    {
-      "eul_wid": "jho-af",
-      "title": {
-        "english": "Life of Suidas",
-        "ancient_greek": "Βίος Σουίδα"
-      },
-      "url_slug": "homer-life-anonymous-suidas-jho-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/suidas",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-suidas-jho-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.epub"
-      }
-    },
-    {
-      "eul_wid": "vmc-aa",
-      "title": {
-        "english": "Life of Thucydides",
-        "ancient_greek": "Βίος Θουκυδίδου"
-      },
-      "url_slug": "marcellinus-the-biographer-life-of-thucydides-vmc-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/marcellinus-the-biographer/life-of-thucydides",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.epub"
-      }
-    },
-    {
-      "eul_wid": "rjo-aac",
-      "title": {
-        "english": "Lives and Opinions: Book III (Plato)",
-        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ"
-      },
-      "url_slug": "diogenes-of-laertia-lives-plato-rjo-aac",
-      "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-plato",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-aac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-plato.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-life-jho-ac.epub"
       }
     },
     {
@@ -320,22 +320,22 @@
       },
       "url_slug": "homer-life-anonymous-on-homer-1-jho-aj",
       "links": {
-        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-1",
+        "html": "https://eulogikon.org/works/homer-on-homer-1-jho-aj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous-on-homer-1-jho-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-1.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/homer-on-homer-1-jho-aj.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/aristotle-lives/common-life",
+    "html": "https://eulogikon.org/works/aristotle-common-life-tuq-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-common-life-tuq-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

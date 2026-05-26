@@ -225,46 +225,62 @@
       },
       "url_slug": "musaeus-of-eleusis-testimonies-akk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/testimonies",
+        "html": "https://eulogikon.org/works/musaeus-eleusis-testimonies-akk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musaeus-eleusis-testimonies-akk-aa.epub"
       }
     }
   ],
   "related_domain_works": [
     {
-      "eul_wid": "tfq-ad",
+      "eul_wid": "tni-aa",
       "title": {
-        "english": "Commentary-Aristotle in Greek",
-        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
+        "english": "Anthologium",
+        "ancient_greek": "Ἀνθολόγιον"
       },
-      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
+      "url_slug": "john-stobaeus-anthologium-tni-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/commentary-aristotle",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/commentary-aristotle.epub"
+        "html": "https://eulogikon.org/works/john-stobaeus-anthologium-tni-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-stobaeus-anthologium-tni-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-stobaeus-anthologium-tni-aa.epub"
       }
     },
     {
-      "eul_wid": "lya-aa",
+      "eul_wid": "udw-ab",
       "title": {
-        "english": "Fragments on Stoic Logic",
-        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+        "english": "Discourse-the Pythagorean Life",
+        "ancient_greek": "περὶ τοῦ Πυθαγορικοῦ βίου λόγος"
       },
-      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+      "url_slug": "iamblichus-of-chalcis-pythagorean-life-udw-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.epub"
+        "html": "https://eulogikon.org/works/iamblichus-chalcis-pythagorean-life-udw-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-chalcis-pythagorean-life-udw-ab.epub"
+      }
+    },
+    {
+      "eul_wid": "lyu-aa",
+      "title": {
+        "english": "Fragments on Early Roman History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας"
+      },
+      "url_slug": "gaius-acilius-the-historian-early-roman-history-lyu-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/gaius-acilius-early-roman-history-lyu-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/gaius-acilius-early-roman-history-lyu-aa.epub"
       }
     },
     {
@@ -275,44 +291,12 @@
       },
       "url_slug": "plato-laches-ffk-bg",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/laches",
+        "html": "https://eulogikon.org/works/plato-laches-ffk-bg",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-laches-ffk-bg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/laches.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-es",
-      "title": {
-        "english": "Lysander",
-        "ancient_greek": "Λύσανδρος"
-      },
-      "url_slug": "plutarch-of-chaeronea-lysander-okg-es",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-lysander-okg-es.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander.epub"
-      }
-    },
-    {
-      "eul_wid": "udw-aa",
-      "title": {
-        "english": "On Nicomachus' Introduction to Arithmetic",
-        "ancient_greek": "Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς"
-      },
-      "url_slug": "iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/nicomachus-arithmetic",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/nicomachus-arithmetic.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-laches-ffk-bg.epub"
       }
     },
     {
@@ -323,54 +307,70 @@
       },
       "url_slug": "teles-of-megara-seeming-being-kkk-ad",
       "links": {
-        "html": "https://eulogikon.org/grc/teles-of-megara/seeming-being",
+        "html": "https://eulogikon.org/works/teles-megara-seeming-being-kkk-ad",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/teles-megara-seeming-being-kkk-ad.epub"
       }
     },
     {
-      "eul_wid": "lea-ah",
+      "eul_wid": "lea-ai",
       "title": {
         "english": "On Stones",
         "ancient_greek": "Περὶ λίθων"
       },
-      "url_slug": "orphic-poems-stones-ah-lea-ah",
+      "url_slug": "orphic-poems-stones-ai-lea-ai",
       "links": {
-        "html": "https://eulogikon.org/grc/orphic-poems/stones-ah",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/stones-ah.epub"
+        "html": "https://eulogikon.org/works/orphic-poems-stones-lea-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/orphic-poems-stones-lea-ai.epub"
       }
     },
     {
-      "eul_wid": "uxc-am",
+      "eul_wid": "uxc-an",
       "title": {
-        "english": "On the Creation of the World",
-        "ancient_greek": "Περὶ τῆς τοῦ κόσμου δημιουργίας"
+        "english": "On the Eternity of the World",
+        "ancient_greek": "Περὶ τῆς τοῦ κόσμου ἀϊδιότητος"
       },
-      "url_slug": "john-philoponus-of-alexandria-creation-world-uxc-am",
+      "url_slug": "john-philoponus-of-alexandria-eternity-world-uxc-an",
       "links": {
-        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/creation-world",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/creation-world.epub"
+        "html": "https://eulogikon.org/works/john-philoponus-alexandria-eternity-world-uxc-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/john-philoponus-alexandria-eternity-world-uxc-an.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-et",
+      "title": {
+        "english": "Pericles",
+        "ancient_greek": "Περικλῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-pericles-okg-et",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-pericles-okg-et",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-pericles-okg-et.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-pericles-okg-et.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments",
+    "html": "https://eulogikon.org/works/musaeus-eleusis-theogony-fragments-akk-ab",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/musaeus-eleusis-theogony-fragments-akk-ab.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

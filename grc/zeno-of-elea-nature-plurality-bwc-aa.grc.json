@@ -92,19 +92,19 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "sys-ab",
+      "eul_wid": "psc-aa",
       "title": {
-        "english": "Egyptians or-Providence",
-        "ancient_greek": "Αἰγύπτιοι ἢ Περὶ Προνοίας"
+        "english": "Appendix of Proverbs",
+        "ancient_greek": "Παροιμιῶν Παράρτημα"
       },
-      "url_slug": "synesius-of-cyrene-egyptians-providence-sys-ab",
+      "url_slug": "appendix-of-proverbs-text-psc-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.epub"
+        "html": "https://eulogikon.org/works/appendix-proverbs-text-psc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/appendix-proverbs-text-psc-aa.epub"
       }
     },
     {
@@ -115,60 +115,44 @@
       },
       "url_slug": "iamblichus-anon-human-excellence-chq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/iamblichus-anon/human-excellence",
+        "html": "https://eulogikon.org/works/iamblichus-anon-human-excellence-chq-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon-human-excellence-chq-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/iamblichus-anon-human-excellence-chq-aa.epub"
       }
     },
     {
-      "eul_wid": "oqk-au",
+      "eul_wid": "rye-ao",
       "title": {
-        "english": "Mind to Hermes",
-        "ancient_greek": "Νοῦ πρὸς Ἑρμῆν"
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
       },
-      "url_slug": "hermetica-mind-oqk-au",
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
       "links": {
-        "html": "https://eulogikon.org/grc/hermetica/mind",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-mind-oqk-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.epub"
+        "html": "https://eulogikon.org/works/themistius-physics-paraphrase-rye-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-physics-paraphrase-rye-ao.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-physics-paraphrase-rye-ao.epub"
       }
     },
     {
-      "eul_wid": "rye-an",
+      "eul_wid": "sys-ac",
       "title": {
-        "english": "On the Names of the King and the Consul",
-        "ancient_greek": "〈Περὶ τῶν ὀνομάτων τοῦ βασιλέως καὶ τοῦ ὑπάτου〉"
+        "english": "Oratithe Kingdom",
+        "ancient_greek": "Λόγος περὶ Βασιλείας"
       },
-      "url_slug": "themistius-names-king-consul-rye-an",
+      "url_slug": "synesius-of-cyrene-kingdom-sys-ac",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/names-king-consul",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-names-king-consul-rye-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.epub"
-      }
-    },
-    {
-      "eul_wid": "pqo-aa",
-      "title": {
-        "english": "On the Nature of Men, Synopsis",
-        "ancient_greek": "Περὶ Φύσεως Ἀνθρώπων"
-      },
-      "url_slug": "leo-of-constantinople-nature-men-pqo-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/leo-of-constantinople/nature-men",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.epub"
+        "html": "https://eulogikon.org/works/synesius-cyrene-kingdom-sys-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-kingdom-sys-ac.epub"
       }
     },
     {
@@ -179,12 +163,28 @@
       },
       "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "html": "https://eulogikon.org/works/carneiscus-philistas-ii-ibg-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/carneiscus-philistas-ii-ibg-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "oss-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "pseudo-phocylides-sentences-oss-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides-sentences-oss-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/pseudo-phocylides-sentences-oss-aa.epub"
       }
     },
     {
@@ -195,12 +195,12 @@
       },
       "url_slug": "metrodorus-of-chios-testimonies-dmk-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/metrodorus-of-chios/testimonies",
+        "html": "https://eulogikon.org/works/metrodorus-chios-testimonies-dmk-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/metrodorus-chios-testimonies-dmk-aa.epub"
       }
     },
     {
@@ -211,22 +211,22 @@
       },
       "url_slug": "lyco-of-tarentum-testimonies-ceo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/lyco-of-tarentum/testimonies",
+        "html": "https://eulogikon.org/works/lyco-tarentum-testimonies-ceo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/lyco-tarentum-testimonies-ceo-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+    "html": "https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-elea-nature-plurality-bwc-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

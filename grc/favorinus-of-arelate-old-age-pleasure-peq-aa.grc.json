@@ -1219,6 +1219,54 @@
   "related_author_works": [],
   "related_domain_works": [
     {
+      "eul_wid": "pcs-ag",
+      "title": {
+        "english": "Battle-the Alans",
+        "ancient_greek": "Ἔκταξις κατὰ Ἀλανῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-battle-alans-pcs-ag",
+      "links": {
+        "html": "https://eulogikon.org/works/arrian-nicomedia-battle-alans-pcs-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-battle-alans-pcs-ag.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/arrian-nicomedia-battle-alans-pcs-ag.epub"
+      }
+    },
+    {
+      "eul_wid": "uqy-aq",
+      "title": {
+        "english": "Chrestomathy",
+        "ancient_greek": "Χρηστομάθεια"
+      },
+      "url_slug": "proclus-the-successor-chrestomathy-uqy-aq",
+      "links": {
+        "html": "https://eulogikon.org/works/proclus-chrestomathy-uqy-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chrestomathy-uqy-aq.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chrestomathy-uqy-aq.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chrestomathy-uqy-aq.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-chrestomathy-uqy-aq.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-chrestomathy-uqy-aq.epub"
+      }
+    },
+    {
+      "eul_wid": "tfq-ad",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους"
+      },
+      "url_slug": "syrianus-of-athens-commentary-aristotle-tfq-ad",
+      "links": {
+        "html": "https://eulogikon.org/works/syrianus-athens-commentary-aristotle-tfq-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/syrianus-athens-commentary-aristotle-tfq-ad.epub"
+      }
+    },
+    {
       "eul_wid": "beu-ae",
       "title": {
         "english": "Epigram",
@@ -1226,12 +1274,28 @@
       },
       "url_slug": "xenophanes-of-colophon-epigram-beu-ae",
       "links": {
-        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/epigram",
+        "html": "https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/xenophanes-colophon-epigram-beu-ae.epub"
+      }
+    },
+    {
+      "eul_wid": "lgi-bk",
+      "title": {
+        "english": "Fragments on Flattery and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κολακείας καὶ Ἀρετῆς"
+      },
+      "url_slug": "philo-of-alexandria-flattery-virtue-lgi-bk",
+      "links": {
+        "html": "https://eulogikon.org/works/philo-alexandria-flattery-virtue-lgi-bk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-flattery-virtue-lgi-bk.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/philo-alexandria-flattery-virtue-lgi-bk.epub"
       }
     },
     {
@@ -1242,12 +1306,12 @@
       },
       "url_slug": "chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/chamaeleon-of-heraclea-pontica/poetic-criticism",
+        "html": "https://eulogikon.org/works/chamaeleon-heraclea-poetic-criticism-gww-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/poetic-criticism.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/chamaeleon-heraclea-poetic-criticism-gww-ab.epub"
       }
     },
     {
@@ -1258,102 +1322,38 @@
       },
       "url_slug": "nausiphanes-of-teos-rhetoric-philosophy-hik-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/nausiphanes-of-teos/rhetoric-philosophy",
+        "html": "https://eulogikon.org/works/nausiphanes-teos-rhetoric-philosophy-hik-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/rhetoric-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/nausiphanes-teos-rhetoric-philosophy-hik-ab.epub"
       }
     },
     {
-      "eul_wid": "rye-au",
+      "eul_wid": "rye-av",
       "title": {
-        "english": "On Those Who Failed Under Valens",
-        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+        "english": "On the Ordination of the Polity",
+        "ancient_greek": "Ἐπὶ τῇ χειροτονίᾳ τῆς πολιαρχίας"
       },
-      "url_slug": "themistius-failed-valens-rye-au",
+      "url_slug": "themistius-ordination-polity-rye-av",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/failed-valens",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/failed-valens.epub"
-      }
-    },
-    {
-      "eul_wid": "lgi-bj",
-      "title": {
-        "english": "On Virtues",
-        "ancient_greek": "Περὶ Ἀρετῶν"
-      },
-      "url_slug": "philo-of-alexandria-virtues-lgi-bj",
-      "links": {
-        "html": "https://eulogikon.org/grc/philo-of-alexandria/virtues",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-virtues-lgi-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/virtues.epub"
-      }
-    },
-    {
-      "eul_wid": "pcs-af",
-      "title": {
-        "english": "Periplus of the Black Sea",
-        "ancient_greek": "Περίπλους τοῦ Εὐξείνου Πόντου"
-      },
-      "url_slug": "arrian-of-nicomedia-black-sea-pcs-af",
-      "links": {
-        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/black-sea",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia-black-sea-pcs-af.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/black-sea.epub"
-      }
-    },
-    {
-      "eul_wid": "tfq-ac",
-      "title": {
-        "english": "Preface to Hermogenes' Book-Ideas",
-        "ancient_greek": "Περὶ ἰδεῶν"
-      },
-      "url_slug": "syrianus-of-athens-preface-hermogenes-tfq-ac",
-      "links": {
-        "html": "https://eulogikon.org/grc/syrianus-of-athens/preface-hermogenes",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/preface-hermogenes.epub"
-      }
-    },
-    {
-      "eul_wid": "uqy-ap",
-      "title": {
-        "english": "Proclus Diadochus",
-        "ancient_greek": "Σχόλια εἰς τὴν Πλάτωνος Πολιτείαν"
-      },
-      "url_slug": "proclus-the-successor-diadochus-uqy-ap",
-      "links": {
-        "html": "https://eulogikon.org/grc/proclus-the-successor/diadochus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-diadochus-uqy-ap.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/diadochus.epub"
+        "html": "https://eulogikon.org/works/themistius-ordination-polity-rye-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-ordination-polity-rye-av.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-ordination-polity-rye-av.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/favorinus-of-arelate/old-age-pleasure",
+    "html": "https://eulogikon.org/works/favorinus-arelate-old-age-pleasure-peq-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate-old-age-pleasure-peq-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate-old-age-pleasure-peq-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate-old-age-pleasure-peq-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate-old-age-pleasure-peq-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate/old-age-pleasure.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/favorinus-arelate-old-age-pleasure-peq-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

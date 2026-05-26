@@ -1169,12 +1169,12 @@
       },
       "url_slug": "cleanthes-of-assos-hymn-zeus-jew-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/cleanthes-of-assos/hymn-zeus",
+        "html": "https://eulogikon.org/works/cleanthes-assos-hymn-zeus-jew-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleanthes-assos-hymn-zeus-jew-ab.epub"
       }
     }
   ],
@@ -1187,60 +1187,12 @@
       },
       "url_slug": "plato-charmides-ffk-an",
       "links": {
-        "html": "https://eulogikon.org/grc/plato/charmides",
+        "html": "https://eulogikon.org/works/plato-charmides-ffk-an",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-charmides-ffk-an.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.epub"
-      }
-    },
-    {
-      "eul_wid": "rye-at",
-      "title": {
-        "english": "Exhortation to Young Valentinian",
-        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
-      },
-      "url_slug": "themistius-exhortation-valentinian-rye-at",
-      "links": {
-        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-exhortation-valentinian-rye-at.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.epub"
-      }
-    },
-    {
-      "eul_wid": "sys-ag",
-      "title": {
-        "english": "Homilies",
-        "ancient_greek": "Ὁμιλίαι"
-      },
-      "url_slug": "synesius-of-cyrene-homilies-sys-ag",
-      "links": {
-        "html": "https://eulogikon.org/grc/synesius-of-cyrene/homilies",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/homilies.epub"
-      }
-    },
-    {
-      "eul_wid": "uqe-ab",
-      "title": {
-        "english": "Later Scholia on Plato",
-        "ancient_greek": "Σχόλια εἰς Πλάτωνα"
-      },
-      "url_slug": "anonymous-plato-commentary-scholia-ab-uqe-ab",
-      "links": {
-        "html": "https://eulogikon.org/grc/anonymous-plato-commentary/scholia-ab",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary-scholia-ab-uqe-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-plato-commentary/scholia-ab.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plato-charmides-ffk-an.epub"
       }
     },
     {
@@ -1251,70 +1203,118 @@
       },
       "url_slug": "demetrius-of-phaleron-jewish-law-hjy-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/demetrius-of-phaleron/jewish-law",
+        "html": "https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron/jewish-law.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/demetrius-phaleron-jewish-law-hjy-aa.epub"
       }
     },
     {
-      "eul_wid": "okg-eb",
+      "eul_wid": "sys-ah",
       "title": {
-        "english": "On Hearing",
-        "ancient_greek": "Περὶ τοῦ ἀκούειν."
+        "english": "Letters to Nicander",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Νίκανδρον"
       },
-      "url_slug": "plutarch-of-chaeronea-hearing-okg-eb",
+      "url_slug": "synesius-of-cyrene-letters-nicander-sys-ah",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/hearing",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-hearing-okg-eb.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/hearing.epub"
+        "html": "https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/synesius-cyrene-letters-nicander-sys-ah.epub"
       }
     },
     {
-      "eul_wid": "rye-aj",
+      "eul_wid": "uqy-aa",
       "title": {
-        "english": "On the Philanthropy of Emperor Theodosius",
-        "ancient_greek": "Ἐπὶ τῇ φιλανθρωπίᾳ τοῦ αὐτοκράτορος Θεοδοσίου"
+        "english": "On Providence, Fate, and What is Within Us to Theodorus the Mechanic",
+        "ancient_greek": "Περὶ προνοίας"
       },
-      "url_slug": "themistius-philanthropy-theodosius-rye-aj",
+      "url_slug": "proclus-the-successor-providence-fate-theodorus-uqy-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/philanthropy-theodosius",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-theodosius-rye-aj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-theodosius.epub"
+        "html": "https://eulogikon.org/works/proclus-providence-fate-theodorus-uqy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor-providence-fate-theodorus-uqy-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/proclus-providence-fate-theodorus-uqy-aa.epub"
       }
     },
     {
-      "eul_wid": "rye-bn",
+      "eul_wid": "okg-ec",
       "title": {
-        "english": "Philopolis",
-        "ancient_greek": "〈Φ〉ιλόπολις"
+        "english": "On Shyness",
+        "ancient_greek": "Περὶ δυσωπίας"
       },
-      "url_slug": "themistius-philopolis-rye-bn",
+      "url_slug": "plutarch-of-chaeronea-shyness-okg-ec",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/philopolis",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philopolis-rye-bn.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-shyness-okg-ec",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-shyness-okg-ec.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-shyness-okg-ec.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-shyness-okg-ec.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-shyness-okg-ec.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-shyness-okg-ec.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-au",
+      "title": {
+        "english": "On Those Who Failed Under Valens",
+        "ancient_greek": "Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος"
+      },
+      "url_slug": "themistius-failed-valens-rye-au",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-failed-valens-rye-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-failed-valens-rye-au.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-bh",
+      "title": {
+        "english": "To Emperor Constantius",
+        "ancient_greek": "Εἰς τὸν αὐτοκράτορα Κωνστάντιον"
+      },
+      "url_slug": "themistius-constantius-rye-bh",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-constantius-rye-bh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-constantius-rye-bh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-constantius-rye-bh.epub"
+      }
+    },
+    {
+      "eul_wid": "rye-ak",
+      "title": {
+        "english": "To Those Accusing-Accepting the Office",
+        "ancient_greek": "Πρὸς τοὺς αἰτιασαμένους ἐπὶ τῷ δέξασθαι τὴν ἀρχήν"
+      },
+      "url_slug": "themistius-accusing-office-rye-ak",
+      "links": {
+        "html": "https://eulogikon.org/works/themistius-accusing-office-rye-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-accusing-office-rye-ak.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-accusing-office-rye-ak.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/cleanthes-of-assos/testimonies-fragments",
+    "html": "https://eulogikon.org/works/cleanthes-assos-testimonies-fragments-jew-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-testimonies-fragments-jew-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-testimonies-fragments-jew-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-testimonies-fragments-jew-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-testimonies-fragments-jew-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/testimonies-fragments.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cleanthes-assos-testimonies-fragments-jew-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

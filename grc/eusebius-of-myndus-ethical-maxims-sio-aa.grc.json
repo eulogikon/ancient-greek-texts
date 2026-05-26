@@ -337,19 +337,51 @@
   "related_author_works": [],
   "related_domain_works": [
     {
-      "eul_wid": "okg-fg",
+      "eul_wid": "udm-ar",
       "title": {
-        "english": "Brutus",
-        "ancient_greek": "Βροῦτος"
+        "english": "Against the Christians",
+        "ancient_greek": "Κατὰ Χριστιανῶν"
       },
-      "url_slug": "plutarch-of-chaeronea-brutus-okg-fg",
+      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
       "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/brutus",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-brutus-okg-fg.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brutus.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-against-christians-udm-ar.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-against-christians-udm-ar.epub"
+      }
+    },
+    {
+      "eul_wid": "psc-aa",
+      "title": {
+        "english": "Appendix of Proverbs",
+        "ancient_greek": "Παροιμιῶν Παράρτημα"
+      },
+      "url_slug": "appendix-of-proverbs-text-psc-aa",
+      "links": {
+        "html": "https://eulogikon.org/works/appendix-proverbs-text-psc-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/appendix-proverbs-text-psc-aa.epub"
+      }
+    },
+    {
+      "eul_wid": "okg-fh",
+      "title": {
+        "english": "Caesar",
+        "ancient_greek": "Καῖσαρ"
+      },
+      "url_slug": "plutarch-of-chaeronea-caesar-okg-fh",
+      "links": {
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-caesar-okg-fh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-caesar-okg-fh.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-caesar-okg-fh.epub"
       }
     },
     {
@@ -360,28 +392,12 @@
       },
       "url_slug": "diogenes-of-sinope-maxims-virtue-fortune-fak-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/diogenes-of-sinope/maxims-virtue-fortune",
+        "html": "https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope/maxims-virtue-fortune.epub"
-      }
-    },
-    {
-      "eul_wid": "rlc-aa",
-      "title": {
-        "english": "Enneads",
-        "ancient_greek": "Ἐννεάδες"
-      },
-      "url_slug": "plotinus-enneads-rlc-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/plotinus/enneads",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus-enneads-rlc-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plotinus/enneads.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/diogenes-sinope-maxims-virtue-fortune-fak-aa.epub"
       }
     },
     {
@@ -392,12 +408,12 @@
       },
       "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "html": "https://eulogikon.org/works/phaenias-eresus-aristotelian-philosophy-flo-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/phaenias-eresus-aristotelian-philosophy-flo-aa.epub"
       }
     },
     {
@@ -408,12 +424,12 @@
       },
       "url_slug": "zeno-of-tarsus-stoic-succession-kve-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/zeno-of-tarsus/stoic-succession",
+        "html": "https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus/stoic-succession.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/zeno-tarsus-stoic-succession-kve-aa.epub"
       }
     },
     {
@@ -424,54 +440,38 @@
       },
       "url_slug": "aristotle-metaphysics-hgw-bj",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/metaphysics",
+        "html": "https://eulogikon.org/works/aristotle-metaphysics-hgw-bj",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-metaphysics-hgw-bj.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/metaphysics.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-metaphysics-hgw-bj.epub"
       }
     },
     {
-      "eul_wid": "udm-aq",
+      "eul_wid": "rmq-aa",
       "title": {
-        "english": "On the Cave of the Nymphs",
-        "ancient_greek": "Περὶ τοῦ Νυμφῶν Ἄντρου"
+        "english": "Prolegomena Longinus, Commentary Remains",
+        "ancient_greek": "Προλεγόμενα Λογγίνου"
       },
-      "url_slug": "porphyry-of-tyre-cave-nymphs-udm-aq",
+      "url_slug": "cassius-longinus-prolegomena-commentary-rmq-aa",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/cave-nymphs",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-cave-nymphs-udm-aq.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.epub"
-      }
-    },
-    {
-      "eul_wid": "pqo-aa",
-      "title": {
-        "english": "On the Nature of Men, Synopsis",
-        "ancient_greek": "Περὶ Φύσεως Ἀνθρώπων"
-      },
-      "url_slug": "leo-of-constantinople-nature-men-pqo-aa",
-      "links": {
-        "html": "https://eulogikon.org/grc/leo-of-constantinople/nature-men",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.epub"
+        "html": "https://eulogikon.org/works/cassius-longinus-prolegomena-commentary-rmq-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus-prolegomena-commentary-rmq-aa.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/cassius-longinus-prolegomena-commentary-rmq-aa.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/eusebius-of-myndus/ethical-maxims",
+    "html": "https://eulogikon.org/works/eusebius-myndus-ethical-maxims-sio-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus-ethical-maxims-sio-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus-ethical-maxims-sio-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus-ethical-maxims-sio-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus-ethical-maxims-sio-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus/ethical-maxims.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/eusebius-myndus-ethical-maxims-sio-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }

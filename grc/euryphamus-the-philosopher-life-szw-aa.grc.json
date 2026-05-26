@@ -85,12 +85,12 @@
       },
       "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
       "links": {
-        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "html": "https://eulogikon.org/works/callimachus-cyrene-fragments-iso-ag",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/callimachus-cyrene-fragments-iso-ag.epub"
       }
     },
     {
@@ -101,28 +101,44 @@
       },
       "url_slug": "anaximenes-of-miletus-cold-heat-bcm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/anaximenes-of-miletus/cold-heat",
+        "html": "https://eulogikon.org/works/anaximenes-miletus-cold-heat-bcm-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus/cold-heat.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/anaximenes-miletus-cold-heat-bcm-ab.epub"
       }
     },
     {
-      "eul_wid": "udm-aa",
+      "eul_wid": "okg-at",
       "title": {
-        "english": "On Aristotle's Categories, Exposition by Question and Answer",
-        "ancient_greek": "Περὶ Κατηγοριῶν Ἀριστοτέλους"
+        "english": "How a Young Man Should Listen to Poems",
+        "ancient_greek": "Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν."
       },
-      "url_slug": "porphyry-of-tyre-categories-qa-udm-aa",
+      "url_slug": "plutarch-of-chaeronea-young-man-poems-okg-at",
       "links": {
-        "html": "https://eulogikon.org/grc/porphyry-of-tyre/categories-qa",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-categories-qa-udm-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.epub"
+        "html": "https://eulogikon.org/works/plutarch-chaeronea-young-man-poems-okg-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-young-man-poems-okg-at.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/plutarch-chaeronea-young-man-poems-okg-at.epub"
+      }
+    },
+    {
+      "eul_wid": "tfg-ab",
+      "title": {
+        "english": "Letters to John",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἰωάννην"
+      },
+      "url_slug": "aeneas-of-gaza-letters-to-john-tfg-ab",
+      "links": {
+        "html": "https://eulogikon.org/works/aeneas-gaza-letters-to-john-tfg-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aeneas-gaza-letters-to-john-tfg-ab.epub"
       }
     },
     {
@@ -133,12 +149,12 @@
       },
       "url_slug": "aristotle-good-happy-life-hgw-bs",
       "links": {
-        "html": "https://eulogikon.org/grc/aristotle/good-happy-life",
+        "html": "https://eulogikon.org/works/aristotle-good-happy-life-hgw-bs",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-good-happy-life-hgw-bs.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/aristotle-good-happy-life-hgw-bs.epub"
       }
     },
     {
@@ -149,70 +165,54 @@
       },
       "url_slug": "heraclitus-of-ephesus-nature-universe-bky-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus/nature-universe",
+        "html": "https://eulogikon.org/works/heraclitus-ephesus-nature-universe-bky-ab",
         "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.pdf",
         "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.md",
         "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.txt",
         "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-nature-universe-bky-ab.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus/nature-universe.epub"
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/heraclitus-ephesus-nature-universe-bky-ab.epub"
       }
     },
     {
-      "eul_wid": "tfg-aa",
+      "eul_wid": "udm-ab",
       "title": {
-        "english": "Theophrastus or-the Immortality of Souls and Resurrection of Bodies Dialogue",
-        "ancient_greek": "Θεόφραστος ἢ Περὶ Ἀθανασίας Ψυχῶν καὶ Ἀναστάσεως"
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
       },
-      "url_slug": "aeneas-of-gaza-immortality-resurrection-tfg-aa",
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
       "links": {
-        "html": "https://eulogikon.org/grc/aeneas-of-gaza/immortality-resurrection",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza/immortality-resurrection.epub"
+        "html": "https://eulogikon.org/works/porphyry-tyre-homeric-questions-odyssey-udm-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre-homeric-questions-odyssey-udm-ab.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/porphyry-tyre-homeric-questions-odyssey-udm-ab.epub"
       }
     },
     {
-      "eul_wid": "rye-be",
+      "eul_wid": "rye-bf",
       "title": {
-        "english": "Thesis-Whether to Farm",
-        "ancient_greek": "Θέσις εἰ γεωργητέον"
+        "english": "Tormentor or Philosopher",
+        "ancient_greek": "Βασανιστὴς ἢ φιλόσοφος"
       },
-      "url_slug": "themistius-whether-to-farm-rye-be",
+      "url_slug": "themistius-tormentor-philosopher-rye-bf",
       "links": {
-        "html": "https://eulogikon.org/grc/themistius/whether-to-farm",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-whether-to-farm-rye-be.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/whether-to-farm.epub"
-      }
-    },
-    {
-      "eul_wid": "okg-as",
-      "title": {
-        "english": "Whether Land or Water Animals Are Wiser",
-        "ancient_greek": "Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαῖα ἢ τὰ ἔνυδρα"
-      },
-      "url_slug": "plutarch-of-chaeronea-land-water-animals-wiser-okg-as",
-      "links": {
-        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/land-water-animals-wiser",
-        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-land-water-animals-wiser-okg-as.grc.pdf",
-        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-land-water-animals-wiser-okg-as.grc.md",
-        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-land-water-animals-wiser-okg-as.grc.txt",
-        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea-land-water-animals-wiser-okg-as.grc.json",
-        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/land-water-animals-wiser.epub"
+        "html": "https://eulogikon.org/works/themistius-tormentor-philosopher-rye-bf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-tormentor-philosopher-rye-bf.grc.json",
+        "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/themistius-tormentor-philosopher-rye-bf.epub"
       }
     }
   ],
   "links": {
-    "html": "https://eulogikon.org/grc/euryphamus-the-philosopher/life",
+    "html": "https://eulogikon.org/works/euryphamus-life-szw-aa",
     "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.pdf",
     "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.md",
     "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.txt",
     "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.json",
-    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher/life.epub"
+    "epub": "https://github.com/eulogikon/ancient-greek-texts/blob/main/works/euryphamus-life-szw-aa.epub"
   },
   "license": "https://creativecommons.org/publicdomain/mark/1.0/"
 }
