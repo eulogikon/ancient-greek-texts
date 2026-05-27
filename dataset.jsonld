@@ -11,7 +11,7 @@
     "https://github.com/eulogikon/ancient-greek-texts",
     "https://doi.org/10.5281/zenodo.20335421",
     "https://zenodo.org/records/20335422",
-    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+    "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
@@ -121,7 +121,7 @@
       "name": "Hugging Face dataset",
       "description": "Parquet distribution for machine learning and data processing workflows.",
       "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      "contentUrl": "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
     }
   ],
   "citation": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff",
