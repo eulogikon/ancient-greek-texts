@@ -1,0 +1,90 @@
+# Ancient Greek Texts
+
+> CC0 corpus of 1,342 authors and 4,005 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, plain text, and JSON. Data store for [Eulogikon](https://eulogikon.org).
+
+This repository is a flat file archive. Do not crawl `grc/` or `en/` to discover contents — use the lookup files below.
+
+Recommended flow for AI assistants:
+
+1. Read this file (`llms.txt`) for orientation.
+2. Resolve an author via [`manifest.authors.json`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json) — grep or parse for `auth_slug`, `name_english`, or `eul_aid`, then fetch that row's `author_json` (e.g. `https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.json`).
+3. Resolve a work via [`manifest.works.min.csv`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv) — grep by `auth_slug` (e.g. `,plato,`) or title, then fetch the `grc_json` path for the Greek text.
+4. For a thematic bundle (philosophy, drama, history; Stoic, Platonist, Pre-Socratic, …) load the pre-built compilation PDF from `domains/` or `affiliations/` listed below.
+5. Load one corpus file at a time. JSON is the richest format.
+
+File naming:
+
+- Greek work: `grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.{pdf|md|txt|json}`
+- English author page: `en/{author-slug}-{eul_aid}.en.{pdf|md|txt|json}`
+
+IDs: `eul_aid` (author, three letters), `eul_wid` (work, `{eul_aid}-{suffix}`). Files are flat — no per-author subdirectories.
+
+Licence: CC0 1.0 Universal — public domain, no restrictions on use, redistribution, or training of AI models.
+
+## Lookup indexes
+
+- [README](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/README.md): corpus overview, layout, licence
+- [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,342 rows)
+- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,005 rows; grep/filter friendly)
+- [dataset.jsonld](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/dataset.jsonld): schema.org Dataset metadata (JSON-LD)
+- [CITATION.cff](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff): citation metadata
+
+## Domain compilations
+
+Pre-built PDF bundles, one per domain. Useful for a topic-scoped first pass before resolving individual works.
+
+- [biography](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/biography.pdf): all biography texts
+- [comedy](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/comedy.pdf): all comedy texts
+- [drama](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/drama.pdf): all drama texts
+- [epic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/epic.pdf): all epic texts
+- [fiction](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/fiction.pdf): all fiction texts
+- [geography](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/geography.pdf): all geography texts
+- [grammar](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/grammar.pdf): all grammar texts
+- [history](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/history.pdf): all history texts
+- [law](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/law.pdf): all law texts
+- [mathematics](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/mathematics.pdf): all mathematics texts
+- [medicine](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/medicine.pdf): all medicine texts
+- [oratory](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/oratory.pdf): all oratory texts
+- [philosophy](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/philosophy.pdf): all philosophy texts
+- [poetry](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/poetry.pdf): all poetry texts
+- [rhetoric](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/rhetoric.pdf): all rhetoric texts
+- [science](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/science.pdf): all science texts
+- [theology](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/theology.pdf): all theology texts
+
+## Affiliation compilations
+
+Pre-built PDF bundles, one per philosophical school or tradition.
+
+- [academic-skeptic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/academic-skeptic.pdf): all academic-skeptic texts
+- [aristotelian](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/aristotelian.pdf): all aristotelian texts
+- [atomist](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/atomist.pdf): all atomist texts
+- [christian](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/christian.pdf): all christian texts
+- [cynic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/cynic.pdf): all cynic texts
+- [cyrenaic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/cyrenaic.pdf): all cyrenaic texts
+- [democritean](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/democritean.pdf): all democritean texts
+- [eclectic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/eclectic.pdf): all eclectic texts
+- [eleatic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/eleatic.pdf): all eleatic texts
+- [epicurean](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/epicurean.pdf): all epicurean texts
+- [gnostic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/gnostic.pdf): all gnostic texts
+- [heraclitean](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/heraclitean.pdf): all heraclitean texts
+- [hermetic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/hermetic.pdf): all hermetic texts
+- [jewish](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/jewish.pdf): all jewish texts
+- [megarian](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/megarian.pdf): all megarian texts
+- [milesian](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/milesian.pdf): all milesian texts
+- [neoplatonist](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/neoplatonist.pdf): all neoplatonist texts
+- [peripatetic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/peripatetic.pdf): all peripatetic texts
+- [platonist](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/platonist.pdf): all platonist texts
+- [presocratic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/presocratic.pdf): all presocratic texts
+- [pyrrhonian](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/pyrrhonian.pdf): all pyrrhonian texts
+- [pythagorean](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/pythagorean.pdf): all pythagorean texts
+- [socratic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/socratic.pdf): all socratic texts
+- [sophist](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/sophist.pdf): all sophist texts
+- [stoic](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/affiliations/stoic.pdf): all stoic texts
+
+## Optional
+
+Skip these unless you need an exhaustive offline dump — each is far too large to load whole into a context window:
+
+- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,347 entries)
+- [manifest.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json): full nested machine-readable index
+- [manifest.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv): full spreadsheet with all file paths
