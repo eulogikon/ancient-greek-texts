@@ -1,16 +1,11 @@
-# Published PDF archive. The .pdf files ARE the product — never ignore them.
-# Nothing else (no code, no build, no back-office files) belongs here.
 .DS_Store
 *.pdf.part
 .env
-scripts/
-*.py
 __pycache__/
-wayback_progress.json
-# Internal backend material — never published.
+*.py
 work-reports/
-_docs-staging/
-# AI assistant tooling — never published.
+CLAUDE.md
+cache/
 .claude/
-docs/CLAUDE.md
 .githooks/
+_docs-staging/

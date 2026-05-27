@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "@id": "https://github.com/eulogikon/ancient-greek-texts",
+  "name": "Ancient Greek Texts",
+  "alternateName": "Eulogikon Ancient Greek Texts Corpus",
+  "description": "A public-domain corpus of ancient Greek literature: 1,342 authors and 4,005 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, plain text, and structured JSON, with English author metadata and biographies. Data store for the Eulogikon project.",
+  "url": "https://github.com/eulogikon/ancient-greek-texts",
+  "sameAs": [
+    "https://eulogikon.org",
+    "https://github.com/eulogikon/ancient-greek-texts",
+    "https://doi.org/10.5281/zenodo.20335421",
+    "https://zenodo.org/records/20335422",
+    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+  ],
+  "identifier": [
+    "https://github.com/eulogikon/ancient-greek-texts",
+    "https://doi.org/10.5281/zenodo.20335421"
+  ],
+  "version": "v2026.05.28",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "isAccessibleForFree": true,
+  "inLanguage": ["grc", "en"],
+  "temporalCoverage": "-0800/0600",
+  "keywords": [
+    "ancient Greek",
+    "classics",
+    "classical philology",
+    "digital humanities",
+    "text corpus",
+    "Homer",
+    "Plato",
+    "Aristotle",
+    "Stoicism",
+    "Pre-Socratics",
+    "Hellenistic literature",
+    "late antiquity",
+    "Koine Greek",
+    "NLP dataset"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Eulogikon",
+    "url": "https://eulogikon.org",
+    "sameAs": "https://github.com/eulogikon"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eulogikon",
+    "url": "https://eulogikon.org"
+  },
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "works",
+    "value": 4005
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "authors",
+      "value": 1342
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "works",
+      "value": 4005
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Machine-readable manifest (JSON)",
+      "description": "Full nested index of every author and work with metadata and per-format file paths.",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Manifest (CSV)",
+      "description": "One row per work; convenient for spreadsheet and grep workflows.",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Compact author index (JSON)",
+      "description": "Compact one-row-per-author index, sized for LLM context windows.",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Compact work index (CSV)",
+      "description": "Compact one-row-per-work index, sized for LLM context windows.",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Manifest (Markdown)",
+      "description": "Human-readable index grouped by domain and affiliation, with a full author and work listing.",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "LLM entry point",
+      "description": "llms.txt entry point and lookup guide for AI assistants.",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Zenodo archival snapshot",
+      "description": "Versioned archival distribution with DOI.",
+      "encodingFormat": "application/zip",
+      "contentUrl": "https://zenodo.org/records/20335422"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Hugging Face dataset",
+      "description": "Parquet distribution for machine learning and data processing workflows.",
+      "encodingFormat": "application/x-parquet",
+      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+    }
+  ],
+  "citation": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Eulogikon",
+    "url": "https://eulogikon.org"
+  }
+}
