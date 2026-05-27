@@ -140,7 +140,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
     "https://github.com/eulogikon/ancient-greek-texts",
     "https://doi.org/10.5281/zenodo.20335421",
     "https://zenodo.org/records/20335422",
-    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+    "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
@@ -190,7 +190,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
       "@type": "DataDownload",
       "name": "Hugging Face dataset",
       "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      "contentUrl": "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
     }
   ]
 }
@@ -221,5 +221,5 @@ Corrections and issues with scaffolding, metadata structure, or file naming can 
 | GitHub data store | [github.com/eulogikon/ancient-greek-texts](https://github.com/eulogikon/ancient-greek-texts) |
 | Zenodo archive | [zenodo.org/records/20335422](https://zenodo.org/records/20335422) |
 | Zenodo DOI | [doi.org/10.5281/zenodo.20335421](https://doi.org/10.5281/zenodo.20335421) |
-| Hugging Face dataset | [huggingface.co/datasets/eulogikon/ancient-greek-texts](https://huggingface.co/datasets/eulogikon/ancient-greek-texts) |
+| Hugging Face dataset | [huggingface.co/datasets/MouronRoger/ancient-greek-texts](https://huggingface.co/datasets/MouronRoger/ancient-greek-texts) |
 | Licence | [CC0 1.0](LICENSE) |
