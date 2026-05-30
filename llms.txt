@@ -1,21 +1,21 @@
 # Ancient Greek Texts
 
-> CC0 corpus of 1,342 authors and 4,005 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, plain text, and JSON. Data store for [Eulogikon](https://eulogikon.org).
+> CC0 corpus of 1,342 authors and 4,002 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, and plain text. Data store for [Eulogikon](https://eulogikon.org).
 
 This repository is a flat file archive. Do not crawl `grc/` or `en/` to discover contents — use the lookup files below.
 
 Recommended flow for AI assistants:
 
 1. Read this file (`llms.txt`) for orientation.
-2. Resolve an author via [`manifest.authors.json`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json) — grep or parse for `auth_slug`, `name_english`, or `eul_aid`, then fetch that row's `author_json` (e.g. `https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.json`).
-3. Resolve a work via [`manifest.works.min.csv`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv) — grep by `auth_slug` (e.g. `,plato,`) or title, then fetch the `grc_json` path for the Greek text.
+2. Resolve an author via [`manifest.authors.json`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json) — grep or parse for `auth_slug`, `name_english`, or `eul_aid`, then fetch that row's `author_md` (e.g. `https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.md`).
+3. Resolve a work via [`manifest.works.min.csv`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv) — grep by `auth_slug` (e.g. `,plato,`) or title, then fetch the `grc_md` path for the Greek text.
 4. For a thematic bundle (philosophy, drama, history; Stoic, Platonist, Pre-Socratic, …) load the pre-built compilation PDF from `domains/` or `affiliations/` listed below.
-5. Load one corpus file at a time. JSON is the richest format.
+5. Load one corpus file at a time. Markdown is the richest text format.
 
 File naming:
 
-- Greek work: `grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.{pdf|md|txt|json}`
-- English author page: `en/{author-slug}-{eul_aid}.en.{pdf|md|txt|json}`
+- Greek work: `grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.{pdf|md|txt}`
+- English author page: `en/{author-slug}-{eul_aid}.en.{pdf|md|txt}`
 
 IDs: `eul_aid` (author, three letters), `eul_wid` (work, `{eul_aid}-{suffix}`). Files are flat — no per-author subdirectories.
 
@@ -25,7 +25,7 @@ Licence: CC0 1.0 Universal — public domain, no restrictions on use, redistribu
 
 - [README](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/README.md): corpus overview, layout, licence
 - [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,342 rows)
-- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,005 rows; grep/filter friendly)
+- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,002 rows; grep/filter friendly)
 - [dataset.jsonld](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/dataset.jsonld): schema.org Dataset metadata (JSON-LD)
 - [CITATION.cff](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff): citation metadata
 
@@ -85,6 +85,6 @@ Pre-built PDF bundles, one per philosophical school or tradition.
 
 Skip these unless you need an exhaustive offline dump — each is far too large to load whole into a context window:
 
-- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,347 entries)
+- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,344 entries)
 - [manifest.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json): full nested machine-readable index
 - [manifest.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv): full spreadsheet with all file paths
