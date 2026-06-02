@@ -20,8 +20,8 @@ Diogenes of Apollonia, a 5th century BCE Presocratic philosopher. Two surviving 
 
 ## Works
 
-- [On the Nature of the Universe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-universe-bze-ab.grc.md) — *Ἀποσπάσματα* · `bze-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-apollonia-testimonies-bze-aa.grc.md) — *Μαρτυρίαι* · `bze-aa`
+- [On the Nature of the Universe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-apollonia-universe-bze-ab.grc.md) — *Ἀποσπάσματα* · `bze-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-apollonia-testimonies-bze-aa.grc.md) — *Μαρτυρίαι* · `bze-aa`
 
 ## License and provenance
 

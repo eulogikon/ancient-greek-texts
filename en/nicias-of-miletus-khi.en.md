@@ -19,7 +19,7 @@ Nicias of Miletus, a Hellenistic poet of the 4th to 3rd century BCE. Surviving p
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-miletus-epigrams-khi-aa.grc.md) — *Ἐπιγράμματα* · `khi-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-miletus-epigrams-khi-aa.grc.md) — *Ἐπιγράμματα* · `khi-aa`
 
 ## License and provenance
 

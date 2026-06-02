@@ -19,8 +19,8 @@ Philippides, a 4th century BCE Attic comic poet. Two surviving works preserved a
 
 ## Works
 
-- [Comic Fragments on Food and Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet-food-marriage-fragments-hgc-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Γάμου* · `hgc-ab`
-- [Fragments on Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet-marriage-fragments-hgc-aa.grc.md) — *Ἀποσπάσματα περὶ Γάμου* · `hgc-aa`
+- [Comic Fragments on Food and Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-food-marriage-fragments-hgc-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Γάμου* · `hgc-ab`
+- [Fragments on Marriage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-marriage-fragments-hgc-aa.grc.md) — *Ἀποσπάσματα περὶ Γάμου* · `hgc-aa`
 
 ## License and provenance
 

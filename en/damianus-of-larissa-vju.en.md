@@ -19,7 +19,7 @@ Damianus of Larissa, a 5th-6th century CE mathematician. His surviving treatise 
 
 ## Works
 
-- [Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa-optics-vju-aa.grc.md) — *Ὀπτικά* · `vju-aa`
+- [Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-larissa-optics-vju-aa.grc.md) — *Ὀπτικά* · `vju-aa`
 
 ## License and provenance
 

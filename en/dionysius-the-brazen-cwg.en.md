@@ -19,7 +19,7 @@ Dionysius the Brazen was a 5th century BCE Attic poet. Surviving works include h
 
 ## Works
 
-- [Sympotic Verses for Dionysius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen-sympotic-verses-cwg-aa.grc.md) — *Ἀποσπάσματα* · `cwg-aa`
+- [Sympotic Verses for Dionysius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-brazen-sympotic-verses-cwg-aa.grc.md) — *Ἀποσπάσματα* · `cwg-aa`
 
 ## License and provenance
 

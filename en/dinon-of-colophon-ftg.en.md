@@ -19,7 +19,7 @@ Dinon of Colophon was a 4th century BCE Greek historian. His surviving fragments
 
 ## Works
 
-- [Persian and Assyrian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-of-colophon-persian-assyrian-histories-ftg-aa.grc.md) — *Ἀποσπάσματα* · `ftg-aa`
+- [Persian and Assyrian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinon-colophon-persian-assyrian-histories-ftg-aa.grc.md) — *Ἀποσπάσματα* · `ftg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Isyllus of Epidaurus, a Hellenistic poet in Doric dialect. Surviving poetic work
 
 ## Works
 
-- [Fragments IG 4.950](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus-fragments-ig-4-950-iei-aa.grc.md) — *Ἀποσπάσματα IG 4.950* · `iei-aa`
+- [Fragments IG 4.950](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-epidaurus-fragments-ig-4-950-iei-aa.grc.md) — *Ἀποσπάσματα IG 4.950* · `iei-aa`
 
 ## License and provenance
 

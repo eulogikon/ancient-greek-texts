@@ -19,12 +19,12 @@ Aristoxenus, 4th century BCE Greek philosopher and music theorist. Works on harm
 
 ## Works
 
-- [Elements of Rhythm (Extended)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-ab-hhg-ab.grc.md) — *Στοιχεῖα Ῥυθμικὰ* · `hhg-ab`
-- [Elements of Rhythm (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-rhythm-aa-hhg-aa.grc.md) — *Στοιχεῖα Ῥυθμικὰ* · `hhg-aa`
-- [Fragments on Poetic Meter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-poetic-meter-hhg-af.grc.md) — *Ἀποσπάσματα περὶ Μέτρου Ποιητικοῦ* · `hhg-af`
-- [Fragments on Pythagoras's Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-pythagoras-life-hhg-ae.grc.md) — *Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίου* · `hhg-ae`
-- [Harmonic Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-harmonic-elements-hhg-ac.grc.md) — *Ἁρμονικὰ στοιχεῖα* · `hhg-ac`
-- [Paris Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum-paris-fragments-hhg-ad.grc.md) — *Ἀποσπάσματα Παρισινά* · `hhg-ad`
+- [Elements of Rhythm (Extended)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-rhythm-hhg-ab.grc.md) — *Στοιχεῖα Ῥυθμικὰ* · `hhg-ab`
+- [Elements of Rhythm (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-rhythm-hhg-aa.grc.md) — *Στοιχεῖα Ῥυθμικὰ* · `hhg-aa`
+- [Fragments on Poetic Meter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-poetic-meter-hhg-af.grc.md) — *Ἀποσπάσματα περὶ Μέτρου Ποιητικοῦ* · `hhg-af`
+- [Fragments on Pythagoras's Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-pythagoras-life-hhg-ae.grc.md) — *Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίου* · `hhg-ae`
+- [Harmonic Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-harmonic-elements-hhg-ac.grc.md) — *Ἁρμονικὰ στοιχεῖα* · `hhg-ac`
+- [Paris Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-tarentum-paris-fragments-hhg-ad.grc.md) — *Ἀποσπάσματα Παρισινά* · `hhg-ad`
 
 ## License and provenance
 

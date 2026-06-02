@@ -20,8 +20,8 @@ Timaeus of Locri, a 5th century BCE Pythagorean philosopher. Two surviving philo
 
 ## Works
 
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-fragments-eag-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `eag-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-locri-testimonies-eag-ab.grc.md) — *Μαρτυρίαι* · `eag-ab`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-locri-fragments-eag-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `eag-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-locri-testimonies-eag-ab.grc.md) — *Μαρτυρίαι* · `eag-ab`
 
 ## License and provenance
 

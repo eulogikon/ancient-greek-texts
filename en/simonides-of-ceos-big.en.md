@@ -19,11 +19,11 @@ Simonides of Ceos was a professional lyric poet of the Archaic period. Surviving
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-epigrams-big-ae.grc.md) — *Ἐπιγράμματα* · `big-ae`
-- [Fragments on Athletic Victory](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-athletic-victory-big-ab.grc.md) — *Ἀποσπάσματα περὶ Νίκης Γυμνικῆς* · `big-ab`
-- [Fragments on Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-genealogy-big-ac.grc.md) — *Ἀποσπάσματα περὶ Γενεαλογίας* · `big-ac`
-- [Fragments on Life and Hope](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-life-hope-big-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἐλπίδος* · `big-aa`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos-testimony-big-ad.grc.md) — *Μαρτυρία* · `big-ad`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-ceos-epigrams-big-ae.grc.md) — *Ἐπιγράμματα* · `big-ae`
+- [Fragments on Athletic Victory](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-ceos-athletic-victory-big-ab.grc.md) — *Ἀποσπάσματα περὶ Νίκης Γυμνικῆς* · `big-ab`
+- [Fragments on Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-ceos-genealogy-big-ac.grc.md) — *Ἀποσπάσματα περὶ Γενεαλογίας* · `big-ac`
+- [Fragments on Life and Hope](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-ceos-life-hope-big-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἐλπίδος* · `big-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-ceos-testimony-big-ad.grc.md) — *Μαρτυρία* · `big-ad`
 
 ## License and provenance
 

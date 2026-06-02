@@ -19,8 +19,8 @@ Anaxandrides was a 4th century BCE Athenian comic poet of Middle Comedy. Survivi
 
 ## Works
 
-- [Fragments on Drinking and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-drinking-fate-hbw-aa.grc.md) — *Ἀποσπάσματα περὶ Πόσεως καὶ Εἱμαρμένης* · `hbw-aa`
-- [Fragments on Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus-fate-hbw-ab.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης* · `hbw-ab`
+- [Fragments on Drinking and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-drinking-fate-hbw-aa.grc.md) — *Ἀποσπάσματα περὶ Πόσεως καὶ Εἱμαρμένης* · `hbw-aa`
+- [Fragments on Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-fate-hbw-ab.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης* · `hbw-ab`
 
 ## License and provenance
 

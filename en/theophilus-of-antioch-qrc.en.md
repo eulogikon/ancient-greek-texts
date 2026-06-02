@@ -20,7 +20,7 @@ Theophilus of Antioch was a 2nd century Christian bishop. His surviving work is 
 
 ## Works
 
-- [To Autolycus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-of-antioch-autolycus-qrc-aa.grc.md) — *Πρὸς Αὐτόλυκον* · `qrc-aa`
+- [To Autolycus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-antioch-autolycus-qrc-aa.grc.md) — *Πρὸς Αὐτόλυκον* · `qrc-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Astydamas the Younger, a 4th century BCE Athenian tragic poet. Read surviving fr
 
 ## Works
 
-- [Fragments on Achilles and Thetis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-the-younger-achilles-thetis-fnw-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Θέτιδος* · `fnw-aa`
+- [Fragments on Achilles and Thetis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astydamas-younger-achilles-thetis-fnw-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Θέτιδος* · `fnw-aa`
 
 ## License and provenance
 

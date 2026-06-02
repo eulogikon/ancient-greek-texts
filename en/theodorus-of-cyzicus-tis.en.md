@@ -19,7 +19,7 @@ Theodorus of Cyzicus was a Late Antique Greek author of the 5th-6th century CE. 
 
 ## Works
 
-- [Imperial and Ecclesiastical Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyzicus-imperial-ecclesiastical-letters-tis-aa.grc.md) — *Ἐπιστολαί* · `tis-aa`
+- [Imperial and Ecclesiastical Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-cyzicus-imperial-ecclesiastical-letters-tis-aa.grc.md) — *Ἐπιστολαί* · `tis-aa`
 
 ## License and provenance
 

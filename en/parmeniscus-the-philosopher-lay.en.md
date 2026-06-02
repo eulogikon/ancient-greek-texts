@@ -20,7 +20,7 @@ Parmeniscus, a 2nd century BCE Pythagorean philosopher. His surviving philosophi
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-the-philosopher-testimonies-lay-aa.grc.md) — *Μαρτυρίαι* · `lay-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmeniscus-testimonies-lay-aa.grc.md) — *Μαρτυρίαι* · `lay-aa`
 
 ## License and provenance
 

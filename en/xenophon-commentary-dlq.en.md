@@ -19,7 +19,7 @@ Xenophon Commentary is a grammatical work from the 2nd to 6th centuries CE. It a
 
 ## Works
 
-- [Scholia-the Anabasis of Cyrus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary-anabasis-dlq-aa.grc.md) — *Σχόλια εἰς Κύρου Ἀνάβασιν* · `dlq-aa`
+- [Scholia-the Anabasis of Cyrus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-comm-anabasis-dlq-aa.grc.md) — *Σχόλια εἰς Κύρου Ἀνάβασιν* · `dlq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Sotion of Alexandria was a Hellenistic historian. His surviving works are preser
 
 ## Works
 
-- [On Rivers, Springs, and Lakes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria-rivers-springs-lakes-kvy-aa.grc.md) — *Ἀποσπάσματα* · `kvy-aa`
+- [On Rivers, Springs, and Lakes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-alexandria-rivers-springs-lakes-kvy-aa.grc.md) — *Ἀποσπάσματα* · `kvy-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Assembly of the Birds, a Late Antique Byzantine poet. Works include the verse As
 
 ## Works
 
-- [Fragments on Birdsong](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds-fragments-ttm-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς* · `ttm-aa`
+- [Fragments on Birdsong](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-birds-fragments-ttm-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς* · `ttm-aa`
 
 ## License and provenance
 

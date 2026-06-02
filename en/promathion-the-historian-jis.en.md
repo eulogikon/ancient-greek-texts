@@ -19,7 +19,7 @@ Promathion the Historian, a Hellenistic historian of the 3rd century BCE. Surviv
 
 ## Works
 
-- [Fragments on Mythical Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-the-historian-mythical-origins-jis-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Ἀρχῶν* · `jis-aa`
+- [Fragments on Mythical Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathion-mythical-origins-jis-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Ἀρχῶν* · `jis-aa`
 
 ## License and provenance
 

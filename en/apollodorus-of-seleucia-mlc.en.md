@@ -20,7 +20,7 @@ Apollodorus of Seleucia, a 2nd century BCE Stoic philosopher. Surviving fragment
 
 ## Works
 
-- [Fragments on Stoic Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia-stoic-fragments-mlc-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Στωικῆς Φιλοσοφίας* · `mlc-aa`
+- [Fragments on Stoic Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-seleucia-stoic-fragments-mlc-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Στωικῆς Φιλοσοφίας* · `mlc-aa`
 
 ## License and provenance
 

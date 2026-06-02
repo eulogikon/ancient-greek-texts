@@ -19,8 +19,8 @@ Cratinus the Younger was a 4th century BCE Attic comic poet. His surviving fragm
 
 ## Works
 
-- [Fragments of Comic Banter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-banter-hmg-aa.grc.md) — *Ἀποσπάσματα κωμικῆς σκώψεως* · `hmg-aa`
-- [Fragments of Comic Dialogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger-comic-dialogue-hmg-ab.grc.md) — *Ἀποσπάσματα Κωμικοῦ Διαλόγου* · `hmg-ab`
+- [Fragments of Comic Banter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-minor-comic-banter-hmg-aa.grc.md) — *Ἀποσπάσματα κωμικῆς σκώψεως* · `hmg-aa`
+- [Fragments of Comic Dialogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-minor-comic-dialogue-hmg-ab.grc.md) — *Ἀποσπάσματα Κωμικοῦ Διαλόγου* · `hmg-ab`
 
 ## License and provenance
 

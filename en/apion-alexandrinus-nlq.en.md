@@ -21,8 +21,8 @@ Apion was a first century CE Greek grammarian from Alexandria. Three treatises o
 ## Works
 
 - [Egyptian Histories Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apion-alexandrinus-egyptian-histories-nlq-ac.grc.md) — *Ἀποσπάσματα* · `nlq-ac`
-- [Homeric Glosses (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apion-alexandrinus-homeric-glosses-aa-nlq-aa.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῶν Γλωσσῶν* · `nlq-aa`
-- [Homeric Glosses (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apion-alexandrinus-homeric-glosses-ab-nlq-ab.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῶν Γλωσσῶν* · `nlq-ab`
+- [Homeric Glosses (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apion-alexandrinus-homeric-glosses-nlq-aa.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῶν Γλωσσῶν* · `nlq-aa`
+- [Homeric Glosses (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apion-alexandrinus-homeric-glosses-nlq-ab.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῶν Γλωσσῶν* · `nlq-ab`
 
 ## License and provenance
 

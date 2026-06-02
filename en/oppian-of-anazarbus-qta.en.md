@@ -19,7 +19,7 @@ Oppian of Anazarbus, a 2nd century CE Roman epic poet. Works include the Halieut
 
 ## Works
 
-- [Fishing](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus-halieutica-qta-aa.grc.md) — *Ἁλιευτικά* · `qta-aa`
+- [Fishing](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-anazarbus-halieutica-qta-aa.grc.md) — *Ἁλιευτικά* · `qta-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Antoninus Liberalis compiled Greek mythology. His work is the Metamorphoses, a c
 
 ## Works
 
-- [Collection of Metamorphoses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-the-mythographer-metamorphoses-rey-aa.grc.md) — *Συναγωγὴ Μεταμορφώσεων* · `rey-aa`
+- [Collection of Metamorphoses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-mythographer-metamorphoses-rey-aa.grc.md) — *Συναγωγὴ Μεταμορφώσεων* · `rey-aa`
 
 ## License and provenance
 

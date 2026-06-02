@@ -19,7 +19,7 @@ Heliodorus the Alchemist, a late antique writer of the 4th to 6th century CE. Al
 
 ## Works
 
-- [Heliodorus to Theodosius the Great-the Mystical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-alchemist-mystical-art-sbq-aa.grc.md) — *Ἡλιοδώρου φιλοσόφου πρὸς Θεοδόσιον τὸν μέγαν* · `sbq-aa`
+- [Heliodorus to Theodosius the Great-the Mystical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-mystical-art-sbq-aa.grc.md) — *Ἡλιοδώρου φιλοσόφου πρὸς Θεοδόσιον τὸν μέγαν* · `sbq-aa`
 
 ## License and provenance
 

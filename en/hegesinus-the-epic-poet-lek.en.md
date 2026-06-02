@@ -19,7 +19,7 @@ Hegesinus, a Hellenistic Greek epic poet. His surviving works are preserved as f
 
 ## Works
 
-- [Atthis Spurious Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet-atthis-fragment-lek-aa.grc.md) — *Ἄτθις Ψευδὲς Ἀπόσπασμα* · `lek-aa`
+- [Atthis Spurious Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-atthis-fragment-lek-aa.grc.md) — *Ἄτθις Ψευδὲς Ἀπόσπασμα* · `lek-aa`
 
 ## License and provenance
 

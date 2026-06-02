@@ -19,8 +19,8 @@ Callias was an Athenian comic poet of the 5th century BCE. Fragments from his pl
 
 ## Works
 
-- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-daily-life-dkc-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dkc-ab`
-- [Symposium and Satirical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet-symposium-fragments-dkc-aa.grc.md) — *Ἀποσπάσματα* · `dkc-aa`
+- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-comic-daily-life-dkc-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dkc-ab`
+- [Symposium and Satirical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-comic-symposium-fragments-dkc-aa.grc.md) — *Ἀποσπάσματα* · `dkc-aa`
 
 ## License and provenance
 

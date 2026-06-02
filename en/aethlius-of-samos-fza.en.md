@@ -19,7 +19,7 @@ Aethlius of Samos was a Hellenistic historian. His historical fragments are pres
 
 ## Works
 
-- [On the Seasons of Samos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos-seasons-fza-aa.grc.md) — *Ἀποσπάσματα* · `fza-aa`
+- [On the Seasons of Samos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-samos-seasons-fza-aa.grc.md) — *Ἀποσπάσματα* · `fza-aa`
 
 ## License and provenance
 

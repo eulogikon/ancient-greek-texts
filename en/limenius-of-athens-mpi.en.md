@@ -19,7 +19,7 @@ Limenius of Athens was a Hellenistic poet of the 2nd century BCE. Read his survi
 
 ## Works
 
-- [Delphic Paean II and Prosodion to Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens-delphic-paean-ii-mpi-aa.grc.md) — *Δελφικὸς Παιὰν Β' καὶ Προσόδιον πρὸς Ἀπόλλωνα* · `mpi-aa`
+- [Delphic Paean II and Prosodion to Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-athens-delphic-paean-ii-mpi-aa.grc.md) — *Δελφικὸς Παιὰν Β' καὶ Προσόδιον πρὸς Ἀπόλλωνα* · `mpi-aa`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Philiscus of Athens was a 4th century BCE Attic comic poet. Three surviving work
 
 ## Works
 
-- [Fragments on Rhetoric and Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhetoric-cities-gcw-ab.grc.md) — *Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων* · `gcw-ab`
-- [Political and Moral Aphorisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-aphorisms-gcw-aa.grc.md) — *Ἀποσπάσματα* · `gcw-aa`
-- [Rhea's Lament to Cronus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens-rhea-lament-gcw-ac.grc.md) — *Ἀποσπάσματα* · `gcw-ac`
+- [Fragments on Rhetoric and Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-athens-rhetoric-cities-gcw-ab.grc.md) — *Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων* · `gcw-ab`
+- [Political and Moral Aphorisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-athens-aphorisms-gcw-aa.grc.md) — *Ἀποσπάσματα* · `gcw-aa`
+- [Rhea's Lament to Cronus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-athens-rhea-lament-gcw-ac.grc.md) — *Ἀποσπάσματα* · `gcw-ac`
 
 ## License and provenance
 

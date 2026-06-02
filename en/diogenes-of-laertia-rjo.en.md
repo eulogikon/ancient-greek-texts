@@ -21,7 +21,7 @@ Diogenes Laertius, 3rd century CE biographer of Greek philosophers. His major wo
 
 - [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.md) — *Ἐπιγράμματα* · `rjo-ak`
 - [Lives and Opinions: Book I (Seven Sages)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-seven-sages-rjo-aa.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Αʹ* · `rjo-aa`
-- [Lives and Opinions: Book II (Socratics)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-socratics-rjo-ab.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Βʹ* · `rjo-ab`
+- [Lives and Opinions: Book II (Socratics)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-epigrams-rjo-ak.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Βʹ* · `rjo-ab`
 - [Lives and Opinions: Book III (Plato)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-plato-rjo-ac.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Γʹ* · `rjo-ac`
 - [Lives and Opinions: Book IV (Academy)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-academy-rjo-ad.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Δʹ* · `rjo-ad`
 - [Lives and Opinions: Book IX (Atomists and Sceptics)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia-lives-atomists-sceptics-rjo-ai.grc.md) — *Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ* · `rjo-ai`

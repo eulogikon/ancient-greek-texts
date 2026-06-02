@@ -19,7 +19,7 @@ Diogenes of Sinope was a 4th century BCE Greek Cynic philosopher. Surviving work
 
 ## Works
 
-- [Cynic Letters on Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-the-cynic-letters-exile-fic-aa.grc.md) — *Ἐπιστολαὶ περὶ Φυγῆς* · `fic-aa`
+- [Cynic Letters on Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-sinope-letters-exile-fic-aa.grc.md) — *Ἐπιστολαὶ περὶ Φυγῆς* · `fic-aa`
 
 ## License and provenance
 

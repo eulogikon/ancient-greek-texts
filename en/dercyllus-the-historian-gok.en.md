@@ -19,7 +19,7 @@ Dercyllus the Historian, a 4th century BCE Attic prose writer. Historical fragme
 
 ## Works
 
-- [Regional Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian-regional-histories-myths-gok-aa.grc.md) — *Ἀποσπάσματα* · `gok-aa`
+- [Regional Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-regional-histories-myths-gok-aa.grc.md) — *Ἀποσπάσματα* · `gok-aa`
 
 ## License and provenance
 

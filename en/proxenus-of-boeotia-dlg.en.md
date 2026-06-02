@@ -19,7 +19,7 @@ Proxenus of Boeotia was a 5th century BCE historian. His surviving works are pre
 
 ## Works
 
-- [Epeirotica: Oracles and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia-oracles-myths-dlg-aa.grc.md) — *Ἀποσπάσματα* · `dlg-aa`
+- [Epeirotica: Oracles and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-boeotia-oracles-myths-dlg-aa.grc.md) — *Ἀποσπάσματα* · `dlg-aa`
 
 ## License and provenance
 

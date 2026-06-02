@@ -20,8 +20,8 @@ Secundus the Silent was a Cynic philosopher of the 2nd century CE. Two surviving
 
 ## Works
 
-- [Life of Secundus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-life-pzk-aa.grc.md) — *Βίος Σεκούνδου* · `pzk-aa`
-- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent-sentences-pzk-ab.grc.md) — *Γνῶμαι* · `pzk-ab`
+- [Life of Secundus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-life-pzk-aa.grc.md) — *Βίος Σεκούνδου* · `pzk-aa`
+- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-sentences-pzk-ab.grc.md) — *Γνῶμαι* · `pzk-ab`
 
 ## License and provenance
 

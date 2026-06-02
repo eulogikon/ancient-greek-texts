@@ -19,7 +19,7 @@ Licymnius of Chios was a classical Greek poet of the 4th century BCE. Fragments 
 
 ## Works
 
-- [Hymn to Hygieia and Sleep](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-of-chios-hymn-hygieia-sleep-dzm-aa.grc.md) — *Ἀποσπάσματα* · `dzm-aa`
+- [Hymn to Hygieia and Sleep](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/licymnius-chios-hymn-hygieia-sleep-dzm-aa.grc.md) — *Ἀποσπάσματα* · `dzm-aa`
 
 ## License and provenance
 

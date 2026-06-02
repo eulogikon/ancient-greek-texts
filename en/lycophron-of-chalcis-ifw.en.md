@@ -19,8 +19,8 @@ Lycophron of Chalcis, Hellenistic dramatist of the 4th–3rd century BCE. Contai
 
 ## Works
 
-- [Alexandra](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis-alexandra-ifw-aa.grc.md) — *Ἀλεξάνδρα* · `ifw-aa`
-- [Sympotic Satire Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis-sympotic-satire-ifw-ab.grc.md) — *Ἀποσπάσματα* · `ifw-ab`
+- [Alexandra](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-chalcis-alexandra-ifw-aa.grc.md) — *Ἀλεξάνδρα* · `ifw-aa`
+- [Sympotic Satire Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-chalcis-sympotic-satire-ifw-ab.grc.md) — *Ἀποσπάσματα* · `ifw-ab`
 
 ## License and provenance
 

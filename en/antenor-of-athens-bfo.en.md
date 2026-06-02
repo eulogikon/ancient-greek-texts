@@ -19,7 +19,7 @@ Antenor of Athens, a 5th century BCE historian. Surviving historical works in th
 
 ## Works
 
-- [On Cretan Bees and Migration](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens-bees-migration-bfo-aa.grc.md) — *Ἀπόσπασμα* · `bfo-aa`
+- [On Cretan Bees and Migration](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-athens-bees-migration-bfo-aa.grc.md) — *Ἀπόσπασμα* · `bfo-aa`
 
 ## License and provenance
 

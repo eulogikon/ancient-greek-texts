@@ -702,6 +702,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 μήτ’ ἔπος μήτ’ ἔργον ὧν ἂν δύναμις ἡγεῖσθαι θέλῃ·
 
+*[crux: δύναμις]*
+
 ### 175
 
 εὐμενεῖς γὰρ ὄντας ἡμᾶς τῶνδε συμβούλους καλεῖς.
@@ -949,6 +951,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 235.2
 
 Χο. καὶ στρατὸς τοιοῦτος , ἔρξας πολλὰ δὴ Μήδους κακά.
+
+*[crux: καὶ στρατὸς τοιοῦτος]*
 
 ### 235.3
 
@@ -1249,6 +1253,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 310.3
 
 Ἀρκτεύς, Ἀδεύης, καὶ φρεσεύης τρίτος
+
+*[crux: φρεσεύης]*
 
 ### 310.4
 
@@ -1553,6 +1559,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 385.4
 
 πρῶτον μὲν ἠχῇ κέλαδος Ἑλλήνων πάρα
+
+*[crux: ἠχῇ]*
 
 ### 385.5
 
@@ -2938,6 +2946,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Βα.Βακτρίων δ’ ἔρρει πανώλης δῆμος οὐδέ τις γέρων.
 
+*[crux: οὐδέ]*
+
 ### 730.4
 
 Δα.ὦ μέλεος, οἵαν ἄρ’ ἥβην ξυμμάχων ἀπώλεσεν.
@@ -3346,6 +3356,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 λαβοῦς’ ὑπαντίαζε παιδί. πάντα γὰρ
 
+*[crux: πάντα]*
+
 ### 835.1
 
 κακῶν ὑπ’ ἄλγους λακίδες ἀμφὶ σώματι
@@ -3409,6 +3421,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### unit_248.1
 
 ὑπαντιάζειν ἐμῷ παιδὶ πειράσομαι.
+
+*[crux: ἐμῷ παιδὶ πειράσομαι.]*
 
 ### unit_248.2
 
@@ -3566,6 +3580,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ἑλλάνων ἐκράτυνε σφετέραις φρεσίν.
 
+*[crux: σφετέραις]*
+
 ### 901-902
 
 ἀκάματον δὲ παρῆν σθένος ἀνδρῶν τευχηστήρων
@@ -3657,6 +3673,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 921.3
 
 σάκτορι Περσᾶν· ἀγδαβάται γὰρ
+
+*[crux: ἀγδαβάται]*
 
 ### 925.1
 

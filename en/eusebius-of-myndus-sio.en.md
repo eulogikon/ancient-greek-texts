@@ -20,7 +20,7 @@ Eusebius of Myndus was a 4th century CE Neoplatonic philosopher. Surviving philo
 
 ## Works
 
-- [Fragments on Ethical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-myndus-ethical-maxims-sio-aa.grc.md) — *Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν* · `sio-aa`
+- [Fragments on Ethical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-myndus-ethical-maxims-sio-aa.grc.md) — *Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν* · `sio-aa`
 
 ## License and provenance
 

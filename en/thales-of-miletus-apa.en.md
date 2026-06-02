@@ -20,9 +20,9 @@ Thales of Miletus, foundational Ionian philosopher and astronomer. Includes phil
 
 ## Works
 
-- [Letters to Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-letters-apa-ac.grc.md) — *Ἐπιστολαὶ πρὸς Φιλοσόφους* · `apa-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-testimonies-apa-aa.grc.md) — *Μαρτυρίαι* · `apa-aa`
-- [Thales' Nautical Astronomy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus-nautical-astronomy-apa-ab.grc.md) — *Ἀποσπάσματα* · `apa-ab`
+- [Letters to Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-miletus-letters-apa-ac.grc.md) — *Ἐπιστολαὶ πρὸς Φιλοσόφους* · `apa-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-miletus-testimonies-apa-aa.grc.md) — *Μαρτυρίαι* · `apa-aa`
+- [Thales' Nautical Astronomy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-miletus-nautical-astronomy-apa-ab.grc.md) — *Ἀποσπάσματα* · `apa-ab`
 
 ## License and provenance
 

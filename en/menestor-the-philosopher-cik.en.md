@@ -19,7 +19,7 @@ Menestor, a Greek philosopher of the 4th to 3rd centuries BCE. Surviving fragmen
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-the-philosopher-testimonies-cik-aa.grc.md) — *Μαρτυρίαι* · `cik-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menestor-testimonies-cik-aa.grc.md) — *Μαρτυρίαι* · `cik-aa`
 
 ## License and provenance
 

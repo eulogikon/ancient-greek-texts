@@ -19,7 +19,7 @@ Rhinthon of Tarentum, Hellenistic poet known for Doric comedy. Surviving fragmen
 
 ## Works
 
-- [Comic Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum-dionysus-fragments-hpi-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου Κωμικά* · `hpi-aa`
+- [Comic Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-tarentum-dionysus-fragments-hpi-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου Κωμικά* · `hpi-aa`
 
 ## License and provenance
 

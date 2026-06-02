@@ -19,7 +19,7 @@ Bion of Proconnesus, a 6th century BCE Ionic historian. His surviving historical
 
 ## Works
 
-- [Fragments on Theseus and Amazons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-proconnesus-theseus-amazons-bao-aa.grc.md) — *Ἀποσπάσματα περὶ Θησέως καὶ Ἀμαζόνων* · `bao-aa`
+- [Fragments on Theseus and Amazons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-proconnesus-theseus-amazons-bao-aa.grc.md) — *Ἀποσπάσματα περὶ Θησέως καὶ Ἀμαζόνων* · `bao-aa`
 
 ## License and provenance
 

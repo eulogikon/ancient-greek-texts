@@ -20,7 +20,7 @@ Strato of Lampsacus, Hellenistic Peripatetic philosopher and third head of Lyceu
 
 ## Works
 
-- [Fragments on Philosophy and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus-philosophy-nature-ipc-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Φύσεως* · `ipc-aa`
+- [Fragments on Philosophy and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-lampsacus-philosophy-nature-ipc-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Φύσεως* · `ipc-aa`
 
 ## License and provenance
 

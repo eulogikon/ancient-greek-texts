@@ -19,7 +19,7 @@ Euenus of Paros was a 5th century BCE Attic poet. Surviving poetic fragments are
 
 ## Works
 
-- [On Wisdom and Moderation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euenus-of-paros-wisdom-moderation-cbc-aa.grc.md) — *Ἀποσπάσματα* · `cbc-aa`
+- [On Wisdom and Moderation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euenus-paros-wisdom-moderation-cbc-aa.grc.md) — *Ἀποσπάσματα* · `cbc-aa`
 
 ## License and provenance
 

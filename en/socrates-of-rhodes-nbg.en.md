@@ -19,7 +19,7 @@ Socrates of Rhodes was a 1st century BCE Hellenistic historian. His surviving wo
 
 ## Works
 
-- [On Cleopatra's Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes-cleopatra-banquet-nbg-aa.grc.md) — *Ἀποσπάσματα* · `nbg-aa`
+- [On Cleopatra's Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-rhodes-cleopatra-banquet-nbg-aa.grc.md) — *Ἀποσπάσματα* · `nbg-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Sosicrates was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary 
 
 ## Works
 
-- [Comic Fragments on Human Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-comic-fragments-kyq-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀνθρωπίνης Μωρίας* · `kyq-ab`
-- [Fragments on Human Follies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-the-comic-poet-human-follies-kyq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν* · `kyq-aa`
+- [Comic Fragments on Human Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-comic-fragments-kyq-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀνθρωπίνης Μωρίας* · `kyq-ab`
+- [Fragments on Human Follies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-human-follies-kyq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν* · `kyq-aa`
 
 ## License and provenance
 

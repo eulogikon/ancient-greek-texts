@@ -20,9 +20,9 @@ Aelius Aristides, second century CE Greek orator. Surviving works include oratio
 
 ## Works
 
-- [Christian Apologetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna-christian-apologetic-pnc-ab.grc.md) — *Ἀπολογητικὰ Χριστιανικὰ Ἀποσπάσματα* · `pnc-ab`
-- [On the Nature of God and Humanity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna-nature-god-humanity-pnc-ac.grc.md) — *Ἀποσπάσματα* · `pnc-ac`
-- [Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna-philosophical-fragments-pnc-aa.grc.md) — *Φιλοσοφικὰ Ἀποσπάσματα* · `pnc-aa`
+- [Christian Apologetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-smyrna-christian-apologetic-pnc-ab.grc.md) — *Ἀπολογητικὰ Χριστιανικὰ Ἀποσπάσματα* · `pnc-ab`
+- [On the Nature of God and Humanity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-smyrna-nature-god-humanity-pnc-ac.grc.md) — *Ἀποσπάσματα* · `pnc-ac`
+- [Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-smyrna-philosophical-fragments-pnc-aa.grc.md) — *Φιλοσοφικὰ Ἀποσπάσματα* · `pnc-aa`
 
 ## License and provenance
 

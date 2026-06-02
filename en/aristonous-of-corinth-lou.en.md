@@ -19,8 +19,8 @@ Aristonous of Corinth, a Hellenistic poet writing in literary Doric. Two survivi
 
 ## Works
 
-- [Hymn to Vesta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth-hymn-vesta-lou-ab.grc.md) — *Ὕμνος πρὸς Ἑστίαν* · `lou-ab`
-- [Paean to Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth-paean-lou-aa.grc.md) — *Παιὰν πρὸς Ἀπόλλωνα* · `lou-aa`
+- [Hymn to Vesta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-corinth-hymn-vesta-lou-ab.grc.md) — *Ὕμνος πρὸς Ἑστίαν* · `lou-ab`
+- [Paean to Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-corinth-paean-lou-aa.grc.md) — *Παιὰν πρὸς Ἀπόλλωνα* · `lou-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Demetrius of Scepsis was a Hellenistic scholar and antiquarian. His grammatical 
 
 ## Works
 
-- [Fragments on Trojan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-scepsis-trojan-customs-lsq-aa.grc.md) — *Ἀποσπάσματα περὶ Τρωικῶν Ἐθῶν* · `lsq-aa`
+- [Fragments on Trojan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-scepsis-trojan-customs-lsq-aa.grc.md) — *Ἀποσπάσματα περὶ Τρωικῶν Ἐθῶν* · `lsq-aa`
 
 ## License and provenance
 

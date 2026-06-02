@@ -19,7 +19,7 @@ Boeo of Delphi, a Hellenistic era poet from the 6th century BCE. Surviving fragm
 
 ## Works
 
-- [Oracle and Prophecy Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi-oracle-fragments-keq-aa.grc.md) — *Ἀποσπάσματα* · `keq-aa`
+- [Oracle and Prophecy Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-delphi-oracle-fragments-keq-aa.grc.md) — *Ἀποσπάσματα* · `keq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Hypermenes the Historian, a 2nd century CE Roman era Greek historian. Surviving 
 
 ## Works
 
-- [Fragments on Chios](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian-chios-fragments-puu-aa.grc.md) — *Ἀποσπάσματα περὶ Χίου* · `puu-aa`
+- [Fragments on Chios](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-chios-fragments-puu-aa.grc.md) — *Ἀποσπάσματα περὶ Χίου* · `puu-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Poliochus, a 4th-3rd century BCE Athenian comic poet. Surviving fragments from h
 
 ## Works
 
-- [On Rustic Meals and Simple Living](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab.grc.md) — *Ἀποσπάσματα* · `cfi-ab`
-- [Simple Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet-simple-life-cfi-aa.grc.md) — *Ἀποσπάσματα* · `cfi-aa`
+- [On Rustic Meals and Simple Living](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-rustic-meals-simple-living-cfi-ab.grc.md) — *Ἀποσπάσματα* · `cfi-ab`
+- [Simple Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-simple-life-cfi-aa.grc.md) — *Ἀποσπάσματα* · `cfi-aa`
 
 ## License and provenance
 

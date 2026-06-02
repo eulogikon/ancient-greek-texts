@@ -19,7 +19,7 @@ Hippothoon the Tragedian, a 5th century BCE Attic dramatist. Surviving works fro
 
 ## Works
 
-- [Maxims on Human Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-the-tragedian-maxims-fortune-cxu-aa.grc.md) — *Ἀποσπάσματα* · `cxu-aa`
+- [Maxims on Human Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-maxims-fortune-cxu-aa.grc.md) — *Ἀποσπάσματα* · `cxu-aa`
 
 ## License and provenance
 

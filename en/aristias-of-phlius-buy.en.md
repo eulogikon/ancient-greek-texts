@@ -19,7 +19,7 @@ Aristias of Phlius, a 5th century BCE dramatist. Surviving fragments of his work
 
 ## Works
 
-- [Fragments of Antaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-of-phlius-fragments-antaeus-buy-aa.grc.md) — *Ἀποσπάσματα Ἀνταίου* · `buy-aa`
+- [Fragments of Antaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-phlius-fragments-antaeus-buy-aa.grc.md) — *Ἀποσπάσματα Ἀνταίου* · `buy-aa`
 
 ## License and provenance
 

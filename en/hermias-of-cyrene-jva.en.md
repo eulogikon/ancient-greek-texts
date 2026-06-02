@@ -19,7 +19,7 @@ Hermias of Cyrene, a Hellenistic poet of the 3rd century BCE. Surviving fragment
 
 ## Works
 
-- [Fragments Against Sophists](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-cyrene-against-sophists-jva-aa.grc.md) — *Ἀποσπάσματα πρὸς Σοφιστάς* · `jva-aa`
+- [Fragments Against Sophists](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-cyrene-against-sophists-jva-aa.grc.md) — *Ἀποσπάσματα πρὸς Σοφιστάς* · `jva-aa`
 
 ## License and provenance
 

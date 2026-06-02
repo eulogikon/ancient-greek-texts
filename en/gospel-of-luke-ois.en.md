@@ -19,7 +19,7 @@ The Gospel of Luke is a 1st century CE Christian Koine text, a surviving ancient
 
 ## Works
 
-- [Preparation of Salt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gospel-of-luke-salt-preparation-ois-aa.grc.md) — *Σκευασία ἁλατίου* · `ois-aa`
+- [Preparation of Salt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/luke-salt-preparation-ois-aa.grc.md) — *Σκευασία ἁλατίου* · `ois-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Cyrus the Rhetorician was a Roman era Greek orator. His surviving oration is ava
 
 ## Works
 
-- [On the Difference of Stance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-the-rhetorician-difference-stance-pve-aa.grc.md) — *Περὶ διαφορᾶς στάσεως* · `pve-aa`
+- [On the Difference of Stance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyrus-rhetorician-difference-stance-pve-aa.grc.md) — *Περὶ διαφορᾶς στάσεως* · `pve-aa`
 
 ## License and provenance
 

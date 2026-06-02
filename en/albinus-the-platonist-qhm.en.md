@@ -20,8 +20,8 @@ Albinus was a Roman Platonist philosopher in Smyrna. Two surviving philosophical
 
 ## Works
 
-- [Introduction to the Dialogues of Plato](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-dialogues-intro-qhm-aa.grc.md) — *Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους* · `qhm-aa`
-- [Teaching of Plato's Doctrines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist-plato-doctrines-qhm-ab.grc.md) — *Διδασκαλικὸς τῶν Πλάτωνος δογμάτων* · `qhm-ab`
+- [Introduction to the Dialogues of Plato](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-plato-dialogues-intro-qhm-aa.grc.md) — *Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους* · `qhm-aa`
+- [Teaching of Plato's Doctrines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-plato-doctrines-qhm-ab.grc.md) — *Διδασκαλικὸς τῶν Πλάτωνος δογμάτων* · `qhm-ab`
 
 ## License and provenance
 

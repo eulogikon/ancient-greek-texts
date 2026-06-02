@@ -20,7 +20,7 @@ Euryphamus was a late antique Pythagorean philosopher. His surviving treatise is
 
 ## Works
 
-- [Fragments on Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-the-philosopher-life-szw-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου* · `szw-aa`
+- [Fragments on Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euryphamus-life-szw-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου* · `szw-aa`
 
 ## License and provenance
 

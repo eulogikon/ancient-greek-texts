@@ -19,7 +19,7 @@ Julius Pollux was a 2nd century CE Greek scholar from Egypt. His surviving work 
 
 ## Works
 
-- [Lexicon of Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-of-naucratis-lexicon-qsq-aa.grc.md) — *Ὀνομαστικόν* · `qsq-aa`
+- [Lexicon of Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-naucratis-lexicon-qsq-aa.grc.md) — *Ὀνομαστικόν* · `qsq-aa`
 
 ## License and provenance
 

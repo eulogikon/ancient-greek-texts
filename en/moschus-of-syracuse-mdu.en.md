@@ -19,12 +19,12 @@ Moschus of Syracuse, a Hellenistic poet of Doric bucolic verse. Six surviving wo
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epigrams-mdu-ad.grc.md) — *Ἐπιγράμματα* · `mdu-ad`
-- [Epitaph for Bion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-epitaph-bion-mdu-aa.grc.md) — *Αποσπάσματα* · `mdu-aa`
-- [Eros the Runaway](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-eros-runaway-mdu-ab.grc.md) — *Ἔρως δραπέτης* · `mdu-ab`
-- [Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-europe-mdu-ae.grc.md) — *Εὐρώπη* · `mdu-ae`
-- [Fragments of Bucolic Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-bucolic-fragments-mdu-ac.grc.md) — *Ἀποσπάσματα Βουκολικῆς Ποίησεως* · `mdu-ac`
-- [Megara](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse-megara-mdu-af.grc.md) — *Μεγάρα* · `mdu-af`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-epigrams-mdu-ad.grc.md) — *Ἐπιγράμματα* · `mdu-ad`
+- [Epitaph for Bion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-epitaph-bion-mdu-aa.grc.md) — *Αποσπάσματα* · `mdu-aa`
+- [Eros the Runaway](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-eros-runaway-mdu-ab.grc.md) — *Ἔρως δραπέτης* · `mdu-ab`
+- [Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-europe-mdu-ae.grc.md) — *Εὐρώπη* · `mdu-ae`
+- [Fragments of Bucolic Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-bucolic-fragments-mdu-ac.grc.md) — *Ἀποσπάσματα Βουκολικῆς Ποίησεως* · `mdu-ac`
+- [Megara](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-syracuse-megara-mdu-af.grc.md) — *Μεγάρα* · `mdu-af`
 
 ## License and provenance
 

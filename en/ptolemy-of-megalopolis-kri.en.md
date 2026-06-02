@@ -19,7 +19,7 @@ Ptolemy of Megalopolis, a Hellenistic historian of the 3rd–2nd century BCE. Hi
 
 ## Works
 
-- [Histories Concerning Philopator](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis-histories-philopator-kri-aa.grc.md) — *Ἀποσπάσματα* · `kri-aa`
+- [Histories Concerning Philopator](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-megalopolis-histories-philopator-kri-aa.grc.md) — *Ἀποσπάσματα* · `kri-aa`
 
 ## License and provenance
 

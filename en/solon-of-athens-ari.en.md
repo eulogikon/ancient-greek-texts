@@ -19,7 +19,7 @@ Solon, Athenian statesman and lawgiver of the 6th century BCE. Poetic fragments 
 
 ## Works
 
-- [Solon's Salamis Elegy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-of-athens-salamis-elegy-ari-aa.grc.md) — *Ἀποσπάσματα* · `ari-aa`
+- [Solon's Salamis Elegy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-athens-salamis-elegy-ari-aa.grc.md) — *Ἀποσπάσματα* · `ari-aa`
 
 ## License and provenance
 

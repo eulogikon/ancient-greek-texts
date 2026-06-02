@@ -19,8 +19,8 @@ Protagoras, the pre-Socratic philosopher and famous Sophist. Read his surviving 
 
 ## Works
 
-- [On Truth and the Measure of Man](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-truth-measure-coy-ab.grc.md) — *Ἀποσπάσματα* · `coy-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-of-abdera-testimonies-coy-aa.grc.md) — *Μαρτυρίαι* · `coy-aa`
+- [On Truth and the Measure of Man](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-abdera-truth-measure-coy-ab.grc.md) — *Ἀποσπάσματα* · `coy-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagoras-abdera-testimonies-coy-aa.grc.md) — *Μαρτυρίαι* · `coy-aa`
 
 ## License and provenance
 

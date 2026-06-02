@@ -20,10 +20,10 @@ Syrianus, 5th century Neoplatonic scholarch of Athens. His surviving philosophic
 
 ## Works
 
-- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-commentary-aristotle-tfq-ad.grc.md) — *Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους* · `tfq-ad`
-- [Commentary-Hermogenes' Book-Ideas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-ideas-tfq-ab.grc.md) — *Ὑπόμνημα εἰς τὸ περὶ ἰδεῶν Ἑρμογένους* · `tfq-ab`
-- [Commentary-Hermogenes' Book-Issues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-hermogenes-issues-tfq-aa.grc.md) — *Ὑπόμνημα εἰς τὸ Ἑρμογένους περὶ στάσεων* · `tfq-aa`
-- [Preface to Hermogenes' Book-Ideas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens-preface-hermogenes-tfq-ac.grc.md) — *Περὶ ἰδεῶν* · `tfq-ac`
+- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-athens-commentary-aristotle-tfq-ad.grc.md) — *Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους* · `tfq-ad`
+- [Commentary-Hermogenes' Book-Ideas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-athens-hermogenes-ideas-tfq-ab.grc.md) — *Ὑπόμνημα εἰς τὸ περὶ ἰδεῶν Ἑρμογένους* · `tfq-ab`
+- [Commentary-Hermogenes' Book-Issues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-athens-hermogenes-issues-tfq-aa.grc.md) — *Ὑπόμνημα εἰς τὸ Ἑρμογένους περὶ στάσεων* · `tfq-aa`
+- [Preface to Hermogenes' Book-Ideas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-athens-preface-hermogenes-tfq-ac.grc.md) — *Περὶ ἰδεῶν* · `tfq-ac`
 
 ## License and provenance
 

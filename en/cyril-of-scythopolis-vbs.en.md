@@ -19,14 +19,14 @@ Cyril of Scythopolis, a sixth century Christian monk and biographer. His works i
 
 ## Works
 
-- [Life of Abramius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-abramius-vbs-ae.grc.md) — *Βίος Ἀβραμίου* · `vbs-ae`
-- [Life of Cyriacus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-cyriacus-vbs-af.grc.md) — *Βίος Κυριακοῦ* · `vbs-af`
-- [Life of Euthymius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-euthymius-vbs-ac.grc.md) — *Βίος Εὐθυμίου* · `vbs-ac`
-- [Life of Gerasimus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-gerasimus-vbs-ad.grc.md) — *Βίος Γερασίμου* · `vbs-ad`
-- [Life of John the Hesychast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-john-hesychast-vbs-aa.grc.md) — *Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ* · `vbs-aa`
-- [Life of Saba](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-saba-vbs-ah.grc.md) — *Βίος Σάβα* · `vbs-ah`
-- [Life of Theodosius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-theodosius-vbs-ab.grc.md) — *Βίος Θεοδοσίου* · `vbs-ab`
-- [Life of Theognis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis-life-theognis-vbs-ag.grc.md) — *Βίος Θεόγνιδος* · `vbs-ag`
+- [Life of Abramius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-abramius-vbs-ae.grc.md) — *Βίος Ἀβραμίου* · `vbs-ae`
+- [Life of Cyriacus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-life-cyriacus-vbs-af.grc.md) — *Βίος Κυριακοῦ* · `vbs-af`
+- [Life of Euthymius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-life-euthymius-vbs-ac.grc.md) — *Βίος Εὐθυμίου* · `vbs-ac`
+- [Life of Gerasimus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-gerasimus-vbs-ad.grc.md) — *Βίος Γερασίμου* · `vbs-ad`
+- [Life of John the Hesychast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-john-hesychast-vbs-aa.grc.md) — *Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ* · `vbs-aa`
+- [Life of Saba](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-saba-vbs-ah.grc.md) — *Βίος Σάβα* · `vbs-ah`
+- [Life of Theodosius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-theodosius-vbs-ab.grc.md) — *Βίος Θεοδοσίου* · `vbs-ab`
+- [Life of Theognis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-scythopolis-life-theognis-vbs-ag.grc.md) — *Βίος Θεόγνιδος* · `vbs-ag`
 
 ## License and provenance
 

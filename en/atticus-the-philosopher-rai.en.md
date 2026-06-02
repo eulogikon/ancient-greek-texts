@@ -20,7 +20,7 @@ Atticus was a 2nd century Roman Platonist philosopher. His surviving treatise ex
 
 ## Works
 
-- [On the Divisions of Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher-divisions-philosophy-rai-aa.grc.md) — *Ἀποσπάσματα* · `rai-aa`
+- [On the Divisions of Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-divisions-philosophy-rai-aa.grc.md) — *Ἀποσπάσματα* · `rai-aa`
 
 ## License and provenance
 

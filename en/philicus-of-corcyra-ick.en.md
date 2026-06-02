@@ -19,7 +19,7 @@ Philicus of Corcyra was a Hellenistic poet of the 3rd century BCE. Read his poet
 
 ## Works
 
-- [Hymn to Demeter and Persephone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra-hymn-demeter-persephone-ick-aa.grc.md) — *Ἀποσπάσματα* · `ick-aa`
+- [Hymn to Demeter and Persephone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-corcyra-hymn-demeter-persephone-ick-aa.grc.md) — *Ἀποσπάσματα* · `ick-aa`
 
 ## License and provenance
 

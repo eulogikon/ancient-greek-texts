@@ -19,7 +19,7 @@ Troilus of Constantinople, a late antique orator of the 4th to 5th century CE. H
 
 ## Works
 
-- [Introduction to Hermogenes' Art of Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-of-constantinople-hermogenes-rhetoric-upa-aa.grc.md) — *Εἰσαγωγὴ εἰς τὴν Ἑρμογένους Ῥητορικήν* · `upa-aa`
+- [Introduction to Hermogenes' Art of Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-constantinople-hermogenes-rhetoric-upa-aa.grc.md) — *Εἰσαγωγὴ εἰς τὴν Ἑρμογένους Ῥητορικήν* · `upa-aa`
 
 ## License and provenance
 

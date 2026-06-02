@@ -20,7 +20,7 @@ Hicetas of Syracuse, a 4th century BCE Pythagorean philosopher. Surviving philos
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-of-syracuse-testimonies-ewy-aa.grc.md) — *Μαρτυρίαι* · `ewy-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-syracuse-testimonies-ewy-aa.grc.md) — *Μαρτυρίαι* · `ewy-aa`
 
 ## License and provenance
 

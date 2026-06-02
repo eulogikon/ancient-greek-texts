@@ -19,8 +19,8 @@ Theognetus, a Hellenistic poet of New Comedy in the 3rd century BCE. Two survivi
 
 ## Works
 
-- [Fragments of Philosophical Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet-philosophical-satire-jjw-ab.grc.md) — *Ἀποσπάσματα περὶ Σάτιρας Φιλοσόφου* · `jjw-ab`
-- [Fragments on Philosophy and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet-philosophy-folly-jjw-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας* · `jjw-aa`
+- [Fragments of Philosophical Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-philosophical-satire-jjw-ab.grc.md) — *Ἀποσπάσματα περὶ Σάτιρας Φιλοσόφου* · `jjw-ab`
+- [Fragments on Philosophy and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-philosophy-folly-jjw-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας* · `jjw-aa`
 
 ## License and provenance
 

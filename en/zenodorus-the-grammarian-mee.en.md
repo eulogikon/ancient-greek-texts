@@ -19,7 +19,7 @@ Zenodorus was a Hellenistic grammarian of the 2nd century BCE. His treatise cove
 
 ## Works
 
-- [On Custom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-the-grammarian-custom-mee-aa.grc.md) — *Περὶ συνηθείας* · `mee-aa`
+- [On Custom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenodorus-custom-mee-aa.grc.md) — *Περὶ συνηθείας* · `mee-aa`
 
 ## License and provenance
 

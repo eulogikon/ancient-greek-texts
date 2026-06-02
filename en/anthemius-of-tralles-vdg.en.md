@@ -19,8 +19,8 @@ Anthemius of Tralles, a 6th century CE mathematician and architect. Treatises on
 
 ## Works
 
-- [Mathematical Fragment from Bobbio](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-mathematical-fragment-vdg-aa.grc.md) — *Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου* · `vdg-aa`
-- [On Paradoxical Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles-paradoxical-machines-vdg-ab.grc.md) — *Περὶ παραδόξων μηχανημάτων* · `vdg-ab`
+- [Mathematical Fragment from Bobbio](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-tralles-mathematical-fragment-vdg-aa.grc.md) — *Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου* · `vdg-aa`
+- [On Paradoxical Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-tralles-paradoxical-machines-vdg-ab.grc.md) — *Περὶ παραδόξων μηχανημάτων* · `vdg-ab`
 
 ## License and provenance
 

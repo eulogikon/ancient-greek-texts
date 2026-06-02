@@ -19,7 +19,7 @@ Menecles Historian was a 4th century BCE Greek historian. His surviving historic
 
 ## Works
 
-- [Fragments on Battus and Cyrene](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian-battus-cyrene-cey-aa.grc.md) — *Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνης* · `cey-aa`
+- [Fragments on Battus and Cyrene](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-battus-cyrene-cey-aa.grc.md) — *Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνης* · `cey-aa`
 
 ## License and provenance
 

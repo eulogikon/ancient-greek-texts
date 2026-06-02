@@ -19,7 +19,7 @@ The Mantissa of Proverbs is a Byzantine collection of wise sayings from the 5th 
 
 ## Works
 
-- [Appendix of Proverbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs-text-psc-aa.grc.md) — *Παροιμιῶν Παράρτημα* · `psc-aa`
+- [Appendix of Proverbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-proverbs-text-psc-aa.grc.md) — *Παροιμιῶν Παράρτημα* · `psc-aa`
 
 ## License and provenance
 

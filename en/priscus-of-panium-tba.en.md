@@ -19,8 +19,8 @@ Priscus of Panium was a 5th century CE historian. Fragments of his historical wo
 
 ## Works
 
-- [Fragments on Attila and the Huns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-attila-huns-tba-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀττίλα καὶ τῶν Οὔννων* · `tba-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium-testimonies-tba-aa.grc.md) — *Μαρτυρίαι* · `tba-aa`
+- [Fragments on Attila and the Huns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-panium-attila-huns-tba-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀττίλα καὶ τῶν Οὔννων* · `tba-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-panium-testimonies-tba-aa.grc.md) — *Μαρτυρίαι* · `tba-aa`
 
 ## License and provenance
 

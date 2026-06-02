@@ -19,7 +19,7 @@ Archelaus the Alchemist, a late antique Greek alchemical poet. Surviving work is
 
 ## Works
 
-- [Archelaus the Philosopher-the Divine Art in Iambic Verses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist-divine-art-iambic-vrm-aa.grc.md) — *Ἀρχελάου φιλοσόφου περὶ τῆς θείας τέχνης διὰ* · `vrm-aa`
+- [Archelaus the Philosopher-the Divine Art in Iambic Verses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-divine-art-iambic-vrm-aa.grc.md) — *Ἀρχελάου φιλοσόφου περὶ τῆς θείας τέχνης διὰ* · `vrm-aa`
 
 ## License and provenance
 

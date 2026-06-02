@@ -20,7 +20,7 @@ Diogenes of Oenoanda, 2nd century CE Epicurean philosopher. His inscription cove
 
 ## Works
 
-- [On Sensation and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda-sensation-nature-peg-aa.grc.md) — *Ἀποσπάσματα* · `peg-aa`
+- [On Sensation and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-oenoanda-sensation-nature-peg-aa.grc.md) — *Ἀποσπάσματα* · `peg-aa`
 
 ## License and provenance
 

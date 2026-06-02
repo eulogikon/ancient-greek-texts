@@ -19,7 +19,7 @@ Damippus, a classical Greek philosopher of the 5th-4th century BCE. Surviving ph
 
 ## Works
 
-- [On Wisdom and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damippus-the-philosopher-wisdom-fortune-dde-aa.grc.md) — *Ἀποσπάσματα* · `dde-aa`
+- [On Wisdom and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damippus-wisdom-fortune-dde-aa.grc.md) — *Ἀποσπάσματα* · `dde-aa`
 
 ## License and provenance
 

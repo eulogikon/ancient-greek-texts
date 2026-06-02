@@ -19,7 +19,7 @@ Pamprepius of Panopolis, a 5th century CE poet in Homeric epic tradition. Surviv
 
 ## Works
 
-- [Fragments on a Lion Hunt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-of-panopolis-lion-hunt-unw-aa.grc.md) — *Ἀποσπάσματα περὶ Κυνηγίας Λέοντος* · `unw-aa`
+- [Fragments on a Lion Hunt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamprepius-panopolis-lion-hunt-unw-aa.grc.md) — *Ἀποσπάσματα περὶ Κυνηγίας Λέοντος* · `unw-aa`
 
 ## License and provenance
 

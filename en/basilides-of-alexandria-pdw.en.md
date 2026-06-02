@@ -20,7 +20,7 @@ Basilides of Alexandria, a 2nd century Gnostic teacher. Surviving fragments of h
 
 ## Works
 
-- [On the Incorporeal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-of-alexandria-incorporeal-pdw-aa.grc.md) — *Ἀπόσπασμα* · `pdw-aa`
+- [On the Incorporeal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilides-alexandria-incorporeal-pdw-aa.grc.md) — *Ἀπόσπασμα* · `pdw-aa`
 
 ## License and provenance
 

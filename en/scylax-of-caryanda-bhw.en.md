@@ -19,9 +19,9 @@ Scylax of Caryanda, 6th century BCE Greek geographer. Accounts of voyages and ge
 
 ## Works
 
-- [Geographical and Botanical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda-geographical-botanical-bhw-ac.grc.md) — *Ἀποσπάσματα* · `bhw-ac`
-- [Periplus of Scylax](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda-periplus-bhw-aa.grc.md) — *Περίπλους Σκύλακος* · `bhw-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda-testimonies-bhw-ab.grc.md) — *Μαρτυρίαι* · `bhw-ab`
+- [Geographical and Botanical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-caryanda-geographical-botanical-bhw-ac.grc.md) — *Ἀποσπάσματα* · `bhw-ac`
+- [Periplus of Scylax](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-caryanda-periplus-bhw-aa.grc.md) — *Περίπλους Σκύλακος* · `bhw-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-caryanda-testimonies-bhw-ab.grc.md) — *Μαρτυρίαι* · `bhw-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Nymphis of Heraclea Pontica was a Hellenistic historian of the 3rd century BCE. 
 
 ## Works
 
-- [On Heraclea Pontica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica-pontica-iuw-aa.grc.md) — *Ἀποσπάσματα* · `iuw-aa`
+- [On Heraclea Pontica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-heraclea-pontica-iuw-aa.grc.md) — *Ἀποσπάσματα* · `iuw-aa`
 
 ## License and provenance
 

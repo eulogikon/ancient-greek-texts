@@ -19,7 +19,7 @@ Thrasyllus the Historian, a 4th-3rd century BCE Greek historian. Historical frag
 
 ## Works
 
-- [On Stones and Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-the-historian-stones-rivers-egk-aa.grc.md) — *Ἀποσπάσματα* · `egk-aa`
+- [On Stones and Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyllus-stones-rivers-egk-aa.grc.md) — *Ἀποσπάσματα* · `egk-aa`
 
 ## License and provenance
 

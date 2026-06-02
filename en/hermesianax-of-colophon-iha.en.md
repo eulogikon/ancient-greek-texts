@@ -19,9 +19,9 @@ Hermesianax of Colophon was a Hellenistic Ionic elegiac poet. Three surviving wo
 
 ## Works
 
-- [Betrayal of Nanis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-betrayal-of-nanis-iha-ac.grc.md) — *Ἀποσπάσματα* · `iha-ac`
-- [Orphic and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-orphic-mythological-fragments-iha-ab.grc.md) — *Ἀποσπάσματα* · `iha-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon-testimonies-iha-aa.grc.md) — *Μαρτυρίαι* · `iha-aa`
+- [Betrayal of Nanis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-colophon-betrayal-of-nanis-iha-ac.grc.md) — *Ἀποσπάσματα* · `iha-ac`
+- [Orphic and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-colophon-orphic-mythological-fragments-iha-ab.grc.md) — *Ἀποσπάσματα* · `iha-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-colophon-testimonies-iha-aa.grc.md) — *Μαρτυρίαι* · `iha-aa`
 
 ## License and provenance
 

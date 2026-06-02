@@ -558,6 +558,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 σὺ γὰρ ἔνθεος, ὦ κούρα,
 
+*[crux: σὺ γὰρ]*
+
 ### 140.3
 
 εἴτ’ ἐκ Πανὸς εἴθ’ Ἑκάτας
@@ -573,6 +575,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 145.1
 
 σὺ δ’ ἀμφὶ τὰν πολύθη‐
+
+*[crux: σὺ δ’]*
 
 ### 145.2
 
@@ -2450,6 +2454,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 νῦν δ’ αἱ μὲν ἔνδον δρῶσιν αἱ κακαὶ κακὰ βουλεύματ’, ἔξω δ’ ἐκφέρουσι πρόσπολοι.
 
+*[crux: αἱ μὲν ἔνδον δρῶσιν αἱ κακαὶ]*
+
 ### 645.6
 
 ὡς καὶ σύ γ’ ἡμῖν πατρός, ὦ κακὸν κάρα,
@@ -2697,6 +2703,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 715.1
 
 Φα. καλῶς ἐλέξαθ’· ἓν δὲ προτρέπους’ ἐγὼ
+
+*[crux: προτρέπους’ ἐγὼ]*
 
 ### 715.2
 
@@ -2986,6 +2994,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἠχὼ βαρεῖα προσπόλων ἀφίκετο;
 
+*[crux: ἠχὼ βαρεῖα προσπόλων]*
+
 ### 790.3
 
 οὐ γάρ τί μ’ ὡς θεωρὸν ἀξιοῖ δόμος
@@ -3170,6 +3180,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τίνος κλύω πόθεν θανάσιμος τύχα,
 
+*[crux: τίνος κλύω]*
+
 ### 840.2
 
 γύναι, σὰν ἔβα, τάλαινα, κραδίαν;
@@ -3273,6 +3285,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 865.3
 
 ἐπεισφρεῖ θεὸς κακόν· ἐμοὶ [μὲν οὖν ἀβίοτος βίου]
+
+*[crux: ἐμοὶ]*
 
 ### 865.4
 
@@ -3833,6 +3847,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1010.4
 
 ἥκιστά γ’, εἰ μὴ τὰς φρένας διέφθορεν
+
+*[crux: ἥκιστά γ’, εἰ μὴ]*
 
 ### 1015.1
 
@@ -5193,6 +5209,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1370.5
 
 προσαπόλλυτέ μ’ ὄλλυτε τὸν δυσδαί‐
+
+*[crux: προσαπόλλυτέ]*
 
 ### 1375.1
 

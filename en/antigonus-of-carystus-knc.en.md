@@ -19,9 +19,9 @@ Antigonus of Carystus was a Hellenistic Greek sculptor and writer. Works of biog
 
 ## Works
 
-- [Collection of Marvelous Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-marvelous-histories-knc-aa.grc.md) — *Συναγωγὴ Θαυμασίων Ἱστοριῶν* · `knc-aa`
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-epigram-knc-ac.grc.md) — *Ἐπίγραμμα* · `knc-ac`
-- [Fragments on Natural Wonders](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-natural-wonders-knc-ab.grc.md) — *Ἀποσπάσματα περὶ Θαυμασίων Φύσεως* · `knc-ab`
+- [Collection of Marvelous Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-carystus-marvelous-histories-knc-aa.grc.md) — *Συναγωγὴ Θαυμασίων Ἱστοριῶν* · `knc-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-carystus-epigram-knc-ac.grc.md) — *Ἐπίγραμμα* · `knc-ac`
+- [Fragments on Natural Wonders](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-carystus-natural-wonders-knc-ab.grc.md) — *Ἀποσπάσματα περὶ Θαυμασίων Φύσεως* · `knc-ab`
 
 ## License and provenance
 

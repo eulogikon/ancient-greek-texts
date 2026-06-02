@@ -258,6 +258,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εἰς αὐλὰν πότ’ ἀμφιβαίνεις
 
+*[crux: ἀμφιβαίνεις]*
+
 ### 60.2
 
 ποιηροὺς λιποῦσα νομοὺς
@@ -309,6 +311,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 70.4
 
 ὦ φίλος ὦ φίλε Βακχεῖε
+
+*[crux: ὦ]*
 
 ### 70.5
 
@@ -689,6 +693,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 170.1
 
 μαστοῦ τε δραγμὸς καὶ παρεσκευασμένου
+
+*[crux: παρεσκευασμένου]*
 
 ### 170.2
 
@@ -1174,6 +1180,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δύσφρον’ ὀνείδη Φρυξὶν οὐκ ἐδώκαμεν.
 
+*[crux: δύσφρον’ ὀνείδη]*
+
 ### 295.3
 
 ὧν καὶ σὺ κοινοῖ· γῆς γὰρ Ἑλλάδος μυχοὺς
@@ -1446,6 +1454,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἀποβώμιος ἃν ἔχει θυσίαν
 
+*[crux: ἃν ἔχει θυσίαν]*
+
 ### 365.2
 
 Κύκλωψ Αἰτναῖος ξενικῶν
@@ -1457,6 +1467,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 365.4
 
 νηλὴς ὦ τλᾶμον ὅστις δωμάτων
+
+*[crux: νηλὴς ὦ τλᾶμον ὅστις δωμάτων]*
 
 ### 371
 
@@ -1505,6 +1517,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 380.3
 
 Οδ. ἐπεὶ πετραίαν τήνδ’ ἐσήλθομεν χθόνα,
+
+*[crux: χθόνα]*
 
 ### 380.4
 
@@ -1558,6 +1572,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοις.
 
+*[crux: Αἰτναῖά τε σφαγεῖα πελέκεων γνάθοις]*
+
 ### 395.2
 
 ὡς δ’ ἦν ἕτοιμα πάντα τῶι θεοστυγεῖ
@@ -1581,6 +1597,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### post 399.2
 
 ἐγκέφαλον ἐξέρρανε· καὶ καθαρπάσας
+
+*[crux: καθαρπάσας]*
 
 ### post 399.3
 
@@ -1725,6 +1743,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 435.5
 
 ὡς διὰ μακροῦ γε τὸν σίφωνα τὸν φίλον
+
+*[crux: τὸν]*
 
 ### 440.1
 
@@ -1954,6 +1974,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἐπὶ δεμνίοις τε ξανθὸν χλιδανᾶς ἔχων ἑταίρας
 
+*[crux: ξανθὸν]*
+
 ### 495.6
 
 μυρόχριστος λιπαρὸν βό‐
@@ -2010,9 +2032,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 λύχνα δ’ ἀμμένει δαΐα σὸν
 
+*[crux: ἀμμένει]*
+
 ### 515.1
 
 χρόα χὡς τέρεινα νύμφα
+
+*[crux: τέρεινα]*
 
 ### 515.2
 
@@ -2314,6 +2340,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δαλὸς δ’ ἔσωθεν αὐλίων ὠθεῖ καπνὸν
 
+*[crux: ὠθεῖ]*
+
 ### 590.5
 
 παρευτρέπισται, κοὐδὲν ἄλλο πλὴν πυροῦν
@@ -2605,6 +2633,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 670.5
 
 Κυ. ὣς δὴ σύ. Χο. καὶ πῶς ς’ οὔτις ἂν θείη τυφλόν;
+
+*[crux: ὣς δὴ σύ]*
 
 ### 675
 

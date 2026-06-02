@@ -19,7 +19,7 @@ Democritus of Ephesus, a Hellenistic historian of the 3rd century BCE. His survi
 
 ## Works
 
-- [On the Temple at Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus-temple-lqs-aa.grc.md) — *Ἀπόσπασμα* · `lqs-aa`
+- [On the Temple at Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-ephesus-temple-lqs-aa.grc.md) — *Ἀπόσπασμα* · `lqs-aa`
 
 ## License and provenance
 

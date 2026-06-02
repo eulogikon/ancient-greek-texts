@@ -110,6 +110,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἔπειρεν ἡμῖν παῖδα, καὶ σπείρας βρέφος
 
+*[crux: βρέφος]*
+
 ### 20.4
 
 γνοὺς τἀμπλάκημα τοῦ θεοῦ τε τὴν φάτιν,
@@ -462,6 +464,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πολλοῖς μὲν ἵπποις, μυρίοις δ’ ὅπλοις βρέμων. Αν. ἆρα πύλαι κλήιθροις χαλκόδετά τ’ ἔμβολα
 
+*[crux: πύλαι κλήιθροις χαλκόδετά τ’ ἔμβολα]*
+
 ### 115.1
 
 λαϊνέοισιν Ἀμφίονος ὀργάνοις
@@ -690,6 +694,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Αν. ὦ λιπαροζώνου θύγατερ Ἀελίου
 
+*[crux: Ἀελίου]*
+
 ### 175.2
 
 Σελαναία χρυσεόκυκλον φέγγος,
@@ -697,6 +703,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 175.3
 
 ὡς ἀτρεμαῖα κέντρα καὶ σώφρονα
+
+*[crux: καὶ]*
 
 ### 175.4
 
@@ -733,6 +741,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 185.2
 
 ὃς δορὶ Θηβαίας Μυκήνηισι
+
+*[crux: Μυκήνηισι]*
 
 ### 185.3
 
@@ -1166,6 +1176,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ιο. Φοίνισσαν βοὰν κλύουσα
 
+*[crux: Φοίνισσαν]*
+
 ### 295.6
 
 ὦ νεάνιδες γηραιῶι ποδὶ τρομερὰν
@@ -1393,6 +1405,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 360.2
 
 οὕτω δὲ τάρβους ἐς φόβον τ’ ἀφικόμην
+
+*[crux: τάρβους]*
 
 ### 360.3
 
@@ -1822,6 +1836,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἐγὼ δὲ πατρὸς δωμάτων προυσκεψάμην
 
+*[crux: πατρὸς δωμάτων]*
+
 ### 470.5
 
 τοὐμόν τε καὶ τοῦδ’, ἐκφυγεῖν χρήιζων ἀρὰς
@@ -1937,6 +1953,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 495.8
 
 ἄστρων ἂν ἔλθοιμ’ ἡλίου πρὸς ἀντολὰς
+
+*[crux: ἡλίου]*
 
 ### 505.1
 
@@ -2502,6 +2520,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πυροφόρα δόμων ἔχρησε,
 
+*[crux: δόμων ἔχρησε]*
+
 ### 645.1
 
 καλλιπόταμος ὕδατος ἵνα τε
@@ -2510,6 +2530,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 νοτὶς ἐπέρχεται γυίας Δίρκας χλοηφόρους
 
+*[crux: γυίας]*
+
 ### 645.3
 
 καὶ βαθυσπόρους γυίας·
@@ -2517,6 +2539,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 645.4
 
 Βρόμιον ἔνθα τέκετο μάτηρ Διὸς γάμοισι,
+
+*[crux: μάτηρ Διὸς γάμοισι]*
 
 ### 645.5
 
@@ -2582,6 +2606,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὠλένας δικὼν βολαῖς·
 
+*[crux: δικὼν]*
+
 ### 665.2
 
 δίας ἀμάτορος
@@ -2589,6 +2615,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 665.3
 
 Παλλάδος φραδαῖσι
+
+*[crux: Παλλάδος φραδαῖσι]*
 
 ### 665.4
 
@@ -2641,6 +2669,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 675.5
 
 ἐκάλες’ ἐκάλεσα βαρβάρωι βοᾶι,
+
+*[crux: ἐκάλες’]*
 
 ### 680.1
 
@@ -2714,6 +2744,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἦ πόλλ’ ἐπῆλθον εἰσιδεῖν χρήιζων ς’, ἄναξ
 
+*[crux: ἐπῆλθον]*
+
 ### 697.2
 
 Ἐτεόκλεες, πέριξ δὲ Καδμείων πύλας φυλακάς τ’ ἐπῆλθον σὸν δέμας θηρώμενος. Ετ. καὶ μὴν ἐγὼ ς’ ἔχρηιζον εἰσιδεῖν, Κρέον·
@@ -2757,6 +2789,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 710.1
 
 Κρ. μέλλειν πέριξ πύργοισι Καδμείων πόλιν
+
+*[crux: μέλλειν]*
 
 ### 710.2
 
@@ -2905,6 +2939,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 745.4
 
 Ετ. ἔσται τάδ’· ἐλθὼν ἑπτάπυργον ἐς πόλιν
+
+*[crux: πόλιν]*
 
 ### 745.5
 
@@ -3062,6 +3098,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἀλλὰ σὺν ὁπλοφόροις στρατὸν Ἀργείων ἐπιπνεύσας
 
+*[crux: ἐπιπνεύσας]*
+
 ### 790a
 
 αἵματι Θήβας
@@ -3073,6 +3111,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 791.1
 
 οὐδ’ ὑπὸ θυρσομανεῖ νεβρίδων μέτα δινεύεις
+
+*[crux: δινεύεις]*
 
 ### 791.2
 
@@ -3097,6 +3137,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 795.2
 
 ἀσπιδοφέρμονα θίασον ἔνοπλον
+
+*[crux: θίασον ἔνοπλον]*
 
 ### 797a
 
@@ -3154,6 +3196,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 γένναν, ἃν ὁ κατὰ χθονὸς Ἅιδας
 
+*[crux: γένναν, ἃν]*
+
 ### 811a
 
 Καδμείοις ἐπιπέμπει·
@@ -3177,6 +3221,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 815.1
 
 οὐδ’ οἱ μὴ νόμιμοι παῖδες ματρὶ λόχευμα μίασμα πατρός·
+
+*[crux: οὐδ’]*
 
 ### 815.2
 
@@ -5398,6 +5444,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὁ πρόσθε τρωθεὶς στέρνα Πολυνείκους βίαι
 
+*[crux: στέρνα Πολυνείκους βίαι]*
+
 ### 1395.4
 
 διῆκε λόγχην, κἀπέδωκεν ἡδονὰς
@@ -5518,6 +5566,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἐν τῶιδε μήτηρ ἡ τάλαινα προσπίτνει
 
+*[crux: προσπίτνει]*
+
 ### 1430.1
 
 [σὺν παρθένωι τε καὶ προθυμίαι ποδός].
@@ -5549,6 +5599,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1435.4
 
 φύσημ’ ἀνεὶς δύστλητον Ἐτεοκλῆς ἄναξ
+
+*[crux: δύστλητον]*
 
 ### 1435.5
 
@@ -5778,6 +5830,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τίνα προσωιδὸν
 
+*[crux: τίνα προσωιδὸν]*
+
 ### 1498.2
 
 ἢ τίνα μουσοπόλον στοναχὰν ἐπὶ δάκρυσι δάκρυσιν, ὦ δόμος, ὦ δόμος,
@@ -5789,6 +5843,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1498.4
 
 τρισσὰ φέρουσα τάδε σώματα σύγγονα,
+
+*[crux: τάδε σώματα]*
 
 ### 1498.5
 
@@ -5833,6 +5889,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1510.5
 
 τάλαιν’ ὡς ἐλελίζει;
+
+*[crux: τάλαιν’ ὡς ἐλελίζει]*
 
 ### 1515.1
 
@@ -5906,6 +5964,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δώμασιν ἀέριον σκότον ὄμμασι
 
+*[crux: δώμασιν ἀέριον σκότον]*
+
 ### 1535.1
 
 σοῖσι βαλὼν ἕλκεις μακρόπνουν ζόαν.
@@ -5969,6 +6029,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1551-1552
 
 Οι. ὤμοι ἐγὼ παθέων· πάρα γὰρ στενάχειν τάδ’ ἀυτεῖν.
+
+*[crux: στενάχειν τάδ’ ἀυτεῖν]*
 
 ### 1553.1
 
@@ -6177,6 +6239,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1605.2
 
 ὅς μ’ οὐ διώλες’ ἀλλὰ δουλεῦσαί τέ μοι
+
+*[crux: τέ μοι]*
 
 ### 1605.3
 
@@ -6645,6 +6709,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1730.1
 
 παρθένου κόρας
+
+*[crux: παρθένου κόρας]*
 
 ### 1730.2
 

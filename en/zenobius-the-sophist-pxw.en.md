@@ -19,7 +19,7 @@ Zenobius the Sophist, a 2nd century CE Roman grammarian. His works include prove
 
 ## Works
 
-- [Summary of Proverbs by Tarraeus and Didymus Arranged Alphabetically](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenobius-the-sophist-proverbs-alphabetical-pxw-aa.grc.md) — *Ἐπιτομὴ ἐκ τῶν Ταρραίου καὶ Διδύμου παροιμιῶν* · `pxw-aa`
+- [Summary of Proverbs by Tarraeus and Didymus Arranged Alphabetically](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zenobius-proverbs-alphabetical-pxw-aa.grc.md) — *Ἐπιτομὴ ἐκ τῶν Ταρραίου καὶ Διδύμου παροιμιῶν* · `pxw-aa`
 
 ## License and provenance
 

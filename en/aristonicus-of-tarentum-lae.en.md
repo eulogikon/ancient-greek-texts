@@ -19,7 +19,7 @@ Aristonicus of Tarentum, a Hellenistic historian. Surviving historical works in 
 
 ## Works
 
-- [Fragments on Mythology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-tarentum-mythology-lae-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογίας* · `lae-aa`
+- [Fragments on Mythology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-tarentum-mythology-lae-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογίας* · `lae-aa`
 
 ## License and provenance
 

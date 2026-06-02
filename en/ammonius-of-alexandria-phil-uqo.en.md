@@ -20,11 +20,11 @@ Ammonius of Alexandria was a Neoplatonic philosopher. Five surviving philosophic
 
 ## Works
 
-- [On Aristotle's Book-Interpretation, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-aristotle-interpretation-uqo-aa.grc.md) — *Σχόλια εἰς τὸ περὶ ἑρμηνείας Ἀριστοτέλους* · `uqo-aa`
-- [On Aristotle's Categories, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-categories-commentary-uqo-ac.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uqo-ac`
-- [On Aristotle's Prior Analytics Book I. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-prior-analytics-commentary-uqo-ab.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους,* · `uqo-ab`
-- [On Necessary Syllogisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-necessary-syllogisms-uqo-ae.grc.md) — *Εἰς τοὺς ἀναγκαίους συλλογισμούς* · `uqo-ae`
-- [On Porphyry's Isagoge or Five Voices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad.grc.md) — *Περὶ τῆς Πορφυρίου Εἰσαγωγῆς ἢ Πέντε Φωναί* · `uqo-ad`
+- [On Aristotle's Book-Interpretation, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-alexandria-aristotle-interpretation-uqo-aa.grc.md) — *Σχόλια εἰς τὸ περὶ ἑρμηνείας Ἀριστοτέλους* · `uqo-aa`
+- [On Aristotle's Categories, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-alexandria-categories-commentary-uqo-ac.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uqo-ac`
+- [On Aristotle's Prior Analytics Book I. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-alexandria-prior-analytics-commentary-uqo-ab.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους,* · `uqo-ab`
+- [On Necessary Syllogisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-alexandria-necessary-syllogisms-uqo-ae.grc.md) — *Εἰς τοὺς ἀναγκαίους συλλογισμούς* · `uqo-ae`
+- [On Porphyry's Isagoge or Five Voices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-alexandria-porphyry-isagoge-uqo-ad.grc.md) — *Περὶ τῆς Πορφυρίου Εἰσαγωγῆς ἢ Πέντε Φωναί* · `uqo-ad`
 
 ## License and provenance
 

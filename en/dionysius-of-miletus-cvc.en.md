@@ -19,7 +19,7 @@ Dionysius of Miletus was a 5th century BCE Ionic historian. His surviving histor
 
 ## Works
 
-- [On the Alphabet and Early History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus-alphabet-history-cvc-aa.grc.md) — *Ἀποσπάσματα* · `cvc-aa`
+- [On the Alphabet and Early History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-miletus-alphabet-history-cvc-aa.grc.md) — *Ἀποσπάσματα* · `cvc-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Melisseus the Historian, a 4th century BCE Attic historian. Surviving works in f
 
 ## Works
 
-- [Delphic Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-the-historian-delphic-fragments-gjk-aa.grc.md) — *Ἀπόσπασμα* · `gjk-aa`
+- [Delphic Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-delphic-fragments-gjk-aa.grc.md) — *Ἀπόσπασμα* · `gjk-aa`
 
 ## License and provenance
 

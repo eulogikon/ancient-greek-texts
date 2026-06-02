@@ -20,7 +20,7 @@ Demonax, a 2nd century CE Cynic philosopher. Surviving works include philosophic
 
 ## Works
 
-- [Demonax's Ethical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonax-of-cyprus-ethical-maxims-ogu-aa.grc.md) — *Ἀποσπάσματα* · `ogu-aa`
+- [Demonax's Ethical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonax-cyprus-ethical-maxims-ogu-aa.grc.md) — *Ἀποσπάσματα* · `ogu-aa`
 
 ## License and provenance
 

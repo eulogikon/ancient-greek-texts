@@ -20,7 +20,7 @@ Diogenes of Sinope, the 4th century BCE Cynic. Surviving works include dialogues
 
 ## Works
 
-- [Cynic Maxims on Virtue and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-sinope-maxims-virtue-fortune-fak-aa.grc.md) — *Ἀποσπάσματα* · `fak-aa`
+- [Cynic Maxims on Virtue and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-sinope-maxims-virtue-fortune-fak-aa.grc.md) — *Ἀποσπάσματα* · `fak-aa`
 
 ## License and provenance
 

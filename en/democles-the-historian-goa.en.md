@@ -19,7 +19,7 @@ Democles the Historian, a 4th century BCE Attic historian. Surviving works inclu
 
 ## Works
 
-- [Fragments on Natural Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian-natural-phenomena-goa-aa.grc.md) — *Ἀποσπάσματα περὶ Φυσικῶν Φαινομένων* · `goa-aa`
+- [Fragments on Natural Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-natural-phenomena-goa-aa.grc.md) — *Ἀποσπάσματα περὶ Φυσικῶν Φαινομένων* · `goa-aa`
 
 ## License and provenance
 

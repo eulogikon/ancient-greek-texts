@@ -19,7 +19,7 @@ Eutropius, a 4th century CE historian of Late Antiquity. His surviving works inc
 
 ## Works
 
-- [Summary from the Founding of the City, Paeanian Translation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian-summary-city-spm-aa.grc.md) — *Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως* · `spm-aa`
+- [Summary from the Founding of the City, Paeanian Translation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-summary-city-spm-aa.grc.md) — *Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως* · `spm-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Solon, Athenian lawgiver and poet of the 6th century BCE. Works include the spur
 
 ## Works
 
-- [Fragments on Tyranny](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-letters-tyranny-fragments-anm-aa.grc.md) — *Ἀποσπάσματα περὶ Τυραννίδος* · `anm-aa`
+- [Fragments on Tyranny](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-tyranny-fragments-anm-aa.grc.md) — *Ἀποσπάσματα περὶ Τυραννίδος* · `anm-aa`
 
 ## License and provenance
 

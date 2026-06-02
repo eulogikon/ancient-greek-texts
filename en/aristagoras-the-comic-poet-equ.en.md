@@ -19,8 +19,8 @@ Aristagoras, 5th century BCE Athenian poet of Old Comedy. Two fragmentary works 
 
 ## Works
 
-- [Fragments on Courtesans and Revelry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-courtesans-revelry-equ-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Κώμων* · `equ-ab`
-- [Fragments on Revelry and Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-the-comic-poet-revelry-courtesans-equ-aa.grc.md) — *Ἀποσπάσματα περὶ Κώμων καὶ Ἑταιρῶν* · `equ-aa`
+- [Fragments on Courtesans and Revelry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-comic-courtesans-revelry-equ-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Κώμων* · `equ-ab`
+- [Fragments on Revelry and Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-comic-revelry-courtesans-equ-aa.grc.md) — *Ἀποσπάσματα περὶ Κώμων καὶ Ἑταιρῶν* · `equ-aa`
 
 ## License and provenance
 

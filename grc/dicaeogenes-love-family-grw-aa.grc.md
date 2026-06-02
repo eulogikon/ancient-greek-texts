@@ -26,9 +26,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὅταν δ’ ἔρωτος ἐνδεθῶμεν ἄρκυσιν θᾶσσον θυραίοις τὴν χάριν
 
+*[crux: τὴν]*
+
 ### book 1b.2
 
 ποιούμεθα ἢ τοῖς ἀνάγκης ἐν γένει
+
+*[crux: ἀνάγκης]*
 
 ### book 1b.3
 

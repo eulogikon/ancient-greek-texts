@@ -20,7 +20,7 @@ Athenodorus Cordylion, Stoic philosopher from Tarsus in the 1st century BCE. Phi
 
 ## Works
 
-- [On Tarsus and Historical Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus-historical-figures-mty-aa.grc.md) — *Ἀποσπάσματα* · `mty-aa`
+- [On Tarsus and Historical Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-tarsus-historical-figures-mty-aa.grc.md) — *Ἀποσπάσματα* · `mty-aa`
 
 ## License and provenance
 

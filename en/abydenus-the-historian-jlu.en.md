@@ -19,7 +19,7 @@ Abydenus, a Hellenistic historian of the 2nd-1st century BCE. Surviving historic
 
 ## Works
 
-- [On Assyrian and Median History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian-assyrian-median-history-jlu-aa.grc.md) — *Ἀποσπάσματα* · `jlu-aa`
+- [On Assyrian and Median History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-assyrian-median-history-jlu-aa.grc.md) — *Ἀποσπάσματα* · `jlu-aa`
 
 ## License and provenance
 

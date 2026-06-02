@@ -19,7 +19,7 @@ Anonymous author of a late medieval Byzantine Christian poem. Surviving work is 
 
 ## Works
 
-- [A Disciple's Prayer for Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-song-of-the-disciples-prayer-wisdom-yew-aa.grc.md) — *Ἀπόσπασμα* · `yew-aa`
+- [A Disciple's Prayer for Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mikron-hymn-prayer-wisdom-yew-aa.grc.md) — *Ἀπόσπασμα* · `yew-aa`
 
 ## License and provenance
 

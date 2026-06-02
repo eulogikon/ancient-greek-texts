@@ -19,7 +19,7 @@ Macedonius the Lyric Poet, a Hellenistic poet of the 3rd century BCE. Works incl
 
 ## Works
 
-- [Paean to Apollo and Aesculapius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macedonius-the-lyric-poet-paean-apollo-aesculapius-joc-aa.grc.md) — *Παιὰν πρὸς Ἀπόλλωνα καὶ Ἀσκληπιόν* · `joc-aa`
+- [Paean to Apollo and Aesculapius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macedonius-lyric-paean-apollo-aesculapius-joc-aa.grc.md) — *Παιὰν πρὸς Ἀπόλλωνα καὶ Ἀσκληπιόν* · `joc-aa`
 
 ## License and provenance
 

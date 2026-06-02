@@ -20,12 +20,12 @@ Chrysippus of Soli, third century BCE Stoic philosopher. Surviving fragments and
 
 ## Works
 
-- [Fragments Logical and Physical](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-logical-physical-kms-ac.grc.md) — *Λογικὰ καὶ Φυσικὰ Ἀποσπάσματα* · `kms-ac`
-- [Fragments of Chrysippus-Homeric Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-homeric-poems-kms-aa.grc.md) — *Χρυσίππου Ἀποσπάσματα εἰς Ὁμηρικὰ Ἔπη* · `kms-aa`
-- [Fragments on Dietary Taboos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-dietary-taboos-kms-af.grc.md) — *Ἀποσπάσματα περὶ Βρωμάτων Ἀποσπασμένων* · `kms-af`
-- [Fragments Related to Individual Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-fragments-kms-ab.grc.md) — *Ἀποσπάσματα πρὸς ἕκαστον βιβλίον* · `kms-ab`
-- [Moral Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-moral-fragments-kms-ae.grc.md) — *Ἠθικὰ Ἀποσπάσματα* · `kms-ae`
-- [Poetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli-poetic-fragments-kms-ad.grc.md) — *Ποιητικὰ Ἀποσπάσματα* · `kms-ad`
+- [Fragments Logical and Physical](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-logical-physical-kms-ac.grc.md) — *Λογικὰ καὶ Φυσικὰ Ἀποσπάσματα* · `kms-ac`
+- [Fragments of Chrysippus-Homeric Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-homeric-poems-kms-aa.grc.md) — *Χρυσίππου Ἀποσπάσματα εἰς Ὁμηρικὰ Ἔπη* · `kms-aa`
+- [Fragments on Dietary Taboos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-dietary-taboos-kms-af.grc.md) — *Ἀποσπάσματα περὶ Βρωμάτων Ἀποσπασμένων* · `kms-af`
+- [Fragments Related to Individual Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-fragments-kms-ab.grc.md) — *Ἀποσπάσματα πρὸς ἕκαστον βιβλίον* · `kms-ab`
+- [Moral Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-moral-fragments-kms-ae.grc.md) — *Ἠθικὰ Ἀποσπάσματα* · `kms-ae`
+- [Poetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-soli-poetic-fragments-kms-ad.grc.md) — *Ποιητικὰ Ἀποσπάσματα* · `kms-ad`
 
 ## License and provenance
 

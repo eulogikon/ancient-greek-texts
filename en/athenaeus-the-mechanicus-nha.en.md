@@ -19,7 +19,7 @@ Athenaeus the Mechanicus, a Hellenistic writer of the 1st century BCE. Treatise 
 
 ## Works
 
-- [On Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-mechanicus-on-machines-nha-aa.grc.md) — *Περὶ μηχανημάτων* · `nha-aa`
+- [On Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-mechanicus-on-machines-nha-aa.grc.md) — *Περὶ μηχανημάτων* · `nha-aa`
 
 ## License and provenance
 

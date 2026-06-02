@@ -20,8 +20,8 @@ Hermodorus of Ephesus was a 5th century BCE philosopher and disciple of Heraclit
 
 ## Works
 
-- [On Plato](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-on-plato-exs-ab.grc.md) — *Περὶ Πλάτωνος* · `exs-ab`
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-of-ephesus-testimonies-fragments-exs-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `exs-aa`
+- [On Plato](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-ephesus-on-plato-exs-ab.grc.md) — *Περὶ Πλάτωνος* · `exs-ab`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermodorus-ephesus-testimonies-fragments-exs-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `exs-aa`
 
 ## License and provenance
 

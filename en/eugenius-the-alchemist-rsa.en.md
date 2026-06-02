@@ -19,7 +19,7 @@ Eugenius the Alchemist, a Roman era Greco-Egyptian alchemist. Explore his surviv
 
 ## Works
 
-- [Eugenius' Doubling](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-the-alchemist-doubling-rsa-aa.grc.md) — *Εὐγενίου δίπλωσις* · `rsa-aa`
+- [Eugenius' Doubling](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-alchemist-doubling-rsa-aa.grc.md) — *Εὐγενίου δίπλωσις* · `rsa-aa`
 
 ## License and provenance
 

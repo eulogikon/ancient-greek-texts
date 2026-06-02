@@ -20,7 +20,7 @@ Diotimus of Tyre was a 4th century BCE Stoic philosopher. Fragments of his works
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-tyre-testimonies-dmu-aa.grc.md) — *Μαρτυρίαι* · `dmu-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-tyre-testimonies-dmu-aa.grc.md) — *Μαρτυρίαι* · `dmu-aa`
 
 ## License and provenance
 

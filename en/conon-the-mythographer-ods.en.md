@@ -19,7 +19,7 @@ Conon the Mythographer, a Roman era historian. His surviving work is fifty mytho
 
 ## Works
 
-- [Fragments on Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer-italy-ods-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλίας* · `ods-aa`
+- [Fragments on Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-mythographer-italy-ods-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλίας* · `ods-aa`
 
 ## License and provenance
 

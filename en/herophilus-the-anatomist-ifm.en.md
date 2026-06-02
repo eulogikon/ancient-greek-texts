@@ -19,8 +19,8 @@ Herophilus the Anatomist, Hellenistic physician and pioneer of human dissection.
 
 ## Works
 
-- [How a Man Ought to Live Each Month](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-monthly-living-ifm-aa.grc.md) — *Πῶς ὀφείλει διαιτᾶσθαι ἄνθρωπος ἐφ ἑκάστῳ μηνί* · `ifm-aa`
-- [On the Method of Nourishment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist-method-nourishment-ifm-ab.grc.md) — *Περὶ μεθόδου τροφῆς* · `ifm-ab`
+- [How a Man Ought to Live Each Month](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-monthly-living-ifm-aa.grc.md) — *Πῶς ὀφείλει διαιτᾶσθαι ἄνθρωπος ἐφ ἑκάστῳ μηνί* · `ifm-aa`
+- [On the Method of Nourishment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-method-nourishment-ifm-ab.grc.md) — *Περὶ μεθόδου τροφῆς* · `ifm-ab`
 
 ## License and provenance
 

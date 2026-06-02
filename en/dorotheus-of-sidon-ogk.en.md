@@ -19,7 +19,7 @@ Dorotheus of Sidon, a 1st century CE Roman astrologer. Surviving astrological tr
 
 ## Works
 
-- [Fragments on the Planets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-of-sidon-planets-ogk-aa.grc.md) — *Ἀποσπάσματα περὶ Πλανητῶν* · `ogk-aa`
+- [Fragments on the Planets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorotheus-sidon-planets-ogk-aa.grc.md) — *Ἀποσπάσματα περὶ Πλανητῶν* · `ogk-aa`
 
 ## License and provenance
 

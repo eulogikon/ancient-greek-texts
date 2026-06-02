@@ -19,8 +19,8 @@ Nicaenetus of Samos was a Hellenistic epic poet of the 3rd century BCE. Works in
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-epigrams-jqa-ab.grc.md) — *Ἐπιγράμματα* · `jqa-ab`
-- [Fragments on Mythical Foundings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-of-samos-mythical-foundings-jqa-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Κτισμάτων* · `jqa-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-samos-epigrams-jqa-ab.grc.md) — *Ἐπιγράμματα* · `jqa-ab`
+- [Fragments on Mythical Foundings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicaenetus-samos-mythical-foundings-jqa-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Κτισμάτων* · `jqa-aa`
 
 ## License and provenance
 

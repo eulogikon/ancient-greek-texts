@@ -19,7 +19,7 @@ Timolaus of Larissa was a 4th century BCE Attic orator. One surviving oration is
 
 ## Works
 
-- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-larissa-trojan-war-ghc-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `ghc-aa`
+- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-larissa-trojan-war-ghc-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `ghc-aa`
 
 ## License and provenance
 

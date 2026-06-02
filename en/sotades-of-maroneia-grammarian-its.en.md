@@ -19,7 +19,7 @@ Sotades of Maroneia, a 3rd century BCE poet. Surviving poetic fragments in Ionic
 
 ## Works
 
-- [Fragments of Myth and Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian-myth-exile-its-aa.grc.md) — *Ἀποσπάσματα Μύθου καὶ Φυγῆς* · `its-aa`
+- [Fragments of Myth and Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-maroneia-myth-exile-its-aa.grc.md) — *Ἀποσπάσματα Μύθου καὶ Φυγῆς* · `its-aa`
 
 ## License and provenance
 

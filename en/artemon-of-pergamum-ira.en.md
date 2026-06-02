@@ -19,7 +19,7 @@ Artemon of Pergamum, a Hellenistic historian of the 2nd century BCE. Historical 
 
 ## Works
 
-- [Fragments on Pindar's Odes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-pergamum-pindar-fragments-ira-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Πινδάρου Ἐπινίκων* · `ira-aa`
+- [Fragments on Pindar's Odes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-pergamum-pindar-fragments-ira-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Πινδάρου Ἐπινίκων* · `ira-aa`
 
 ## License and provenance
 

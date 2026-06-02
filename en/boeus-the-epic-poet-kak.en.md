@@ -19,7 +19,7 @@ Boeus was a Hellenistic poet writing epic verse in Homeric style. His surviving 
 
 ## Works
 
-- [Fragments of the Pandareus Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet-pandareus-myth-kak-aa.grc.md) — *Ἀποσπάσματα τοῦ Πανδάρεω Μύθου* · `kak-aa`
+- [Fragments of the Pandareus Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-pandareus-myth-kak-aa.grc.md) — *Ἀποσπάσματα τοῦ Πανδάρεω Μύθου* · `kak-aa`
 
 ## License and provenance
 

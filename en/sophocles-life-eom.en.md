@@ -19,7 +19,7 @@ Sophocles, the great Athenian tragedian of the 5th century BCE. Works include Oe
 
 ## Works
 
-- [Life of Sophocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-life-eom-aa.grc.md) — *Βίος Σοφοκλέους* · `eom-aa`
+- [Life of Sophocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life-eom-aa.grc.md) — *Βίος Σοφοκλέους* · `eom-aa`
 
 ## License and provenance
 

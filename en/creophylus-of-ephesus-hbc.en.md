@@ -19,7 +19,7 @@ Creophylus of Ephesus, 4th century BCE Ionic historian. Historical fragments fro
 
 ## Works
 
-- [Foundation of Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-of-ephesus-foundation-of-ephesus-hbc-aa.grc.md) — *Ἀπόσπασμα* · `hbc-aa`
+- [Foundation of Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-ephesus-foundation-of-ephesus-hbc-aa.grc.md) — *Ἀπόσπασμα* · `hbc-aa`
 
 ## License and provenance
 

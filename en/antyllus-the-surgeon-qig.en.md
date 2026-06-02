@@ -19,7 +19,7 @@ Antyllus, a prominent Greek surgeon of the Roman period. His surviving medical w
 
 ## Works
 
-- [From the Work-Enemas, That They are Taken for Three Reasons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon-work-enemas-three-reasons-qig-aa.grc.md) — *Ἐκ τοῦ περὶ κλυσμῶν ὅτι διὰ τρεῖς αἰτίας* · `qig-aa`
+- [From the Work-Enemas, That They are Taken for Three Reasons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-work-enemas-three-reasons-qig-aa.grc.md) — *Ἐκ τοῦ περὶ κλυσμῶν ὅτι διὰ τρεῖς αἰτίας* · `qig-aa`
 
 ## License and provenance
 

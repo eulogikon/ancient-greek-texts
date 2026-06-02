@@ -19,7 +19,7 @@ Vettius Valens, 2nd century CE Roman astrologer. Surviving astrological treatise
 
 ## Works
 
-- [Nine Books of Anthologies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-of-antioch-anthologies-pzu-aa.grc.md) — *Ἐννέα Βιβλία Ἀνθολογιῶν* · `pzu-aa`
+- [Nine Books of Anthologies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vettius-valens-antioch-anthologies-pzu-aa.grc.md) — *Ἐννέα Βιβλία Ἀνθολογιῶν* · `pzu-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Protagorides the Historian, a 4th century BCE Attic historian. Surviving fragmen
 
 ## Works
 
-- [On the Daphne Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian-daphne-festivals-gea-aa.grc.md) — *Ἀποσπάσματα* · `gea-aa`
+- [On the Daphne Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-daphne-festivals-gea-aa.grc.md) — *Ἀποσπάσματα* · `gea-aa`
 
 ## License and provenance
 

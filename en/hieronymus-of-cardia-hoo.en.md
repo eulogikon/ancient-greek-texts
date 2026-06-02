@@ -19,7 +19,7 @@ Hieronymus of Cardia was a Hellenistic historian of the 4th-3rd centuries BCE. H
 
 ## Works
 
-- [Fragments on the Diadochoi](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-cardia-diadochoi-hoo-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Διαδόχων* · `hoo-aa`
+- [Fragments on the Diadochoi](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-cardia-diadochoi-hoo-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Διαδόχων* · `hoo-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Aristarchus of Samos, Hellenistic astronomer of the 3rd century BCE. Author of t
 
 ## Works
 
-- [On the Sizes and Distances of the Sun and Moon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-samos-sizes-distances-sun-moon-hzi-aa.grc.md) — *Περὶ Μεγεθῶν καὶ Ἀποστάσεων Ἡλίου καὶ Σελήνης* · `hzi-aa`
+- [On the Sizes and Distances of the Sun and Moon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-samos-sizes-distances-sun-moon-hzi-aa.grc.md) — *Περὶ Μεγεθῶν καὶ Ἀποστάσεων Ἡλίου καὶ Σελήνης* · `hzi-aa`
 
 ## License and provenance
 

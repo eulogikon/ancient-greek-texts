@@ -19,9 +19,9 @@ Gorgias, a major Sophist and teacher of rhetoric. Three surviving works of orato
 
 ## Works
 
-- [On Nature and Non-Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-nature-nonbeing-eme-ab.grc.md) — *Ἀποσπάσματα* · `eme-ab`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-eme-ac.grc.md) — *Μαρτυρίαι Α'* · `eme-ac`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-leontini-testimonies-2-eme-aa.grc.md) — *Μαρτυρίαι Β'* · `eme-aa`
+- [On Nature and Non-Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-leontini-nature-nonbeing-eme-ab.grc.md) — *Ἀποσπάσματα* · `eme-ab`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-leontini-testimonies-eme-ac.grc.md) — *Μαρτυρίαι Α'* · `eme-ac`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-leontini-testimonies-2-eme-aa.grc.md) — *Μαρτυρίαι Β'* · `eme-aa`
 
 ## License and provenance
 

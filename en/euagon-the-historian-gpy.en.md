@@ -19,7 +19,7 @@ Euagon was a 4th century BCE Attic historian. Fragments of his historical works 
 
 ## Works
 
-- [Fragments on Samian Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-the-historian-samian-legends-gpy-aa.grc.md) — *Ἀποσπάσματα περὶ Σαμίων Μύθων* · `gpy-aa`
+- [Fragments on Samian Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euagon-samian-legends-gpy-aa.grc.md) — *Ἀποσπάσματα περὶ Σαμίων Μύθων* · `gpy-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Amyntas of Telmessos, a 4th century BCE Attic poet. Surviving works include his 
 
 ## Works
 
-- [Elegiac Poetry Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amyntas-of-telmessos-elegiac-fragments-gxg-aa.grc.md) — *Ἐλεγειακῆς Ποιήσεως Ἀποσπάσματα* · `gxg-aa`
+- [Elegiac Poetry Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amyntas-telmessos-elegiac-fragments-gxg-aa.grc.md) — *Ἐλεγειακῆς Ποιήσεως Ἀποσπάσματα* · `gxg-aa`
 
 ## License and provenance
 

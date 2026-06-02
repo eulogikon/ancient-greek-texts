@@ -19,10 +19,10 @@ Theognis of Megara, 6th century BCE elegiac poet. Works include verses on histor
 
 ## Works
 
-- [Dubious Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-dubious-bbs-ab.grc.md) — *Ἀποσπάσματα ἀμφίβολα* · `bbs-ab`
-- [Elegies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-elegies-bbs-ad.grc.md) — *Ἐλεγείαι* · `bbs-ad`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-epigrams-bbs-ac.grc.md) — *Ἐπιγράμματα* · `bbs-ac`
-- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara-uncertain-fragments-bbs-aa.grc.md) — *Ἀποσπάσματα ἀδήλου θέσεως* · `bbs-aa`
+- [Dubious Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-megara-dubious-bbs-ab.grc.md) — *Ἀποσπάσματα ἀμφίβολα* · `bbs-ab`
+- [Elegies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-megara-elegies-bbs-ad.grc.md) — *Ἐλεγείαι* · `bbs-ad`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-megara-epigrams-bbs-ac.grc.md) — *Ἐπιγράμματα* · `bbs-ac`
+- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-megara-uncertain-fragments-bbs-aa.grc.md) — *Ἀποσπάσματα ἀδήλου θέσεως* · `bbs-aa`
 
 ## License and provenance
 

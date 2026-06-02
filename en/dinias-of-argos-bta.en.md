@@ -19,8 +19,8 @@ Dinias of Argos, a 4th century BCE historian writing in Doric Greek. His survivi
 
 ## Works
 
-- [Argive Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-historical-fragments-bta-aa.grc.md) — *Ἀποσπάσματα* · `bta-aa`
-- [Fragments on the Orestes Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos-orestes-fragments-bta-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου* · `bta-ab`
+- [Argive Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-argos-historical-fragments-bta-aa.grc.md) — *Ἀποσπάσματα* · `bta-aa`
+- [Fragments on the Orestes Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-argos-orestes-fragments-bta-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου* · `bta-ab`
 
 ## License and provenance
 

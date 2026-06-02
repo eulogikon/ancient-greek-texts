@@ -19,7 +19,7 @@ Asclepiades of Myrlea, a Hellenistic grammarian. Read his surviving grammatical 
 
 ## Works
 
-- [Bithynian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea-historical-fragments-mus-aa.grc.md) — *Ἀποσπάσματα* · `mus-aa`
+- [Bithynian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-myrlea-historical-fragments-mus-aa.grc.md) — *Ἀποσπάσματα* · `mus-aa`
 
 ## License and provenance
 

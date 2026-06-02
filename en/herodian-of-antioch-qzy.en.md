@@ -19,7 +19,7 @@ Herodian of Antioch was a Roman historian of the 3rd century CE. His surviving w
 
 ## Works
 
-- [From the Death of Divine Marcus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch-death-marcus-qzy-aa.grc.md) — *Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου* · `qzy-aa`
+- [From the Death of Divine Marcus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-antioch-death-marcus-qzy-aa.grc.md) — *Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου* · `qzy-aa`
 
 ## License and provenance
 

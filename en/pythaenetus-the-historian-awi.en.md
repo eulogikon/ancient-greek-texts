@@ -19,7 +19,7 @@ Pythaenetus the Historian, a 5th-4th century BCE Greek historian. Surviving frag
 
 ## Works
 
-- [Aeginetica: Fragments on Aegina](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian-aegina-fragments-awi-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰγίνης* · `awi-aa`
+- [Aeginetica: Fragments on Aegina](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-aegina-fragments-awi-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰγίνης* · `awi-aa`
 
 ## License and provenance
 

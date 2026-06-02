@@ -19,7 +19,7 @@ Isidorus the Tragedian, a Hellenistic dramatist of the 3rd-2nd century BCE. Frag
 
 ## Works
 
-- [On the Nature of Evil](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian-nature-of-evil-mjo-aa.grc.md) — *Ἀποσπάσματα* · `mjo-aa`
+- [On the Nature of Evil](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-tragedian-nature-of-evil-mjo-aa.grc.md) — *Ἀποσπάσματα* · `mjo-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Alcimus of Sicily, a 4th century BCE Hellenistic historian. His historical fragm
 
 ## Works
 
-- [Sicilian and Italian Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily-italian-antiquities-ijs-aa.grc.md) — *Ἀποσπάσματα* · `ijs-aa`
+- [Sicilian and Italian Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-sicily-italian-antiquities-ijs-aa.grc.md) — *Ἀποσπάσματα* · `ijs-aa`
 
 ## License and provenance
 

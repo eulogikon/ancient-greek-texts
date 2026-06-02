@@ -19,7 +19,7 @@ Neoptolemus the Grammarian was a 2nd century BCE Hellenistic scholar. His gramma
 
 ## Works
 
-- [Fragments on Ocean and Death](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoptolemus-the-grammarian-ocean-death-kxc-aa.grc.md) — *Ἀποσπάσματα περὶ Ὠκεανοῦ καὶ Θανάτου* · `kxc-aa`
+- [Fragments on Ocean and Death](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoptolemus-ocean-death-kxc-aa.grc.md) — *Ἀποσπάσματα περὶ Ὠκεανοῦ καὶ Θανάτου* · `kxc-aa`
 
 ## License and provenance
 

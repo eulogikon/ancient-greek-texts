@@ -19,8 +19,8 @@ Aglaias of Byzantium was a 2nd century CE Roman era poet. Two fragmentary works 
 
 ## Works
 
-- [Medical Recipe for Demetrius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-medical-recipe-qja-ab.grc.md) — *Ἀπόσπασμα* · `qja-ab`
-- [To the Initial Discharges](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium-initial-discharges-qja-aa.grc.md) — *Πρὸς τὰς ἀρχομένας ὑποχύσεις* · `qja-aa`
+- [Medical Recipe for Demetrius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-byzantium-medical-recipe-qja-ab.grc.md) — *Ἀπόσπασμα* · `qja-ab`
+- [To the Initial Discharges](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-byzantium-initial-discharges-qja-aa.grc.md) — *Πρὸς τὰς ἀρχομένας ὑποχύσεις* · `qja-aa`
 
 ## License and provenance
 

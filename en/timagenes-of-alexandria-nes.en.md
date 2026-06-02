@@ -19,7 +19,7 @@ Timagenes of Alexandria, a Hellenistic historian of the 1st century BCE. Histori
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria-historical-fragments-nes-aa.grc.md) — *Ἀποσπάσματα* · `nes-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-alexandria-historical-fragments-nes-aa.grc.md) — *Ἀποσπάσματα* · `nes-aa`
 
 ## License and provenance
 

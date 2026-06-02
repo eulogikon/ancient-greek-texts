@@ -19,7 +19,7 @@ Peirazomene, an unknown poet from the Classical period. Surviving works include 
 
 ## Works
 
-- [Fragments of a Maenadic Plea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-anon-maenadic-plea-gay-aa.grc.md) — *Ἀποσπάσματα Μαινάδος Ἐντεύξεως* · `gay-aa`
+- [Fragments of a Maenadic Plea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peirazomene-maenadic-plea-gay-aa.grc.md) — *Ἀποσπάσματα Μαινάδος Ἐντεύξεως* · `gay-aa`
 
 ## License and provenance
 

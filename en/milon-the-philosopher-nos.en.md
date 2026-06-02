@@ -20,7 +20,7 @@ Milon the Pythagorean philosopher of the Roman era. His treatise explores Pythag
 
 ## Works
 
-- [Fragments on Lightning](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-the-philosopher-lightning-fragments-nos-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀστραπῆς* · `nos-aa`
+- [Fragments on Lightning](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/milon-lightning-fragments-nos-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀστραπῆς* · `nos-aa`
 
 ## License and provenance
 

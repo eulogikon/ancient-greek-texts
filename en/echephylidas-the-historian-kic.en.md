@@ -19,7 +19,7 @@ Echephylidas, a Hellenistic historian of the 4th to 3rd centuries BCE. Surviving
 
 ## Works
 
-- [Fragments on Proper Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian-proper-names-kic-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων* · `kic-aa`
+- [Fragments on Proper Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-proper-names-kic-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων* · `kic-aa`
 
 ## License and provenance
 

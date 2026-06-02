@@ -19,8 +19,8 @@ Parodist Anonymous, Hellenistic poet of the 3rd-2nd century BCE. Works include t
 
 ## Works
 
-- [Battle of Frogs and Mice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-ab-mje-ab.grc.md) — *Βατραχομυομαχία* · `mje-ab`
-- [Battle of Frogs and Mice, Byzantine Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-aa-mje-aa.grc.md) — *Βατραχομυομαχία* · `mje-aa`
+- [Battle of Frogs and Mice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-mje-ab.grc.md) — *Βατραχομυομαχία* · `mje-ab`
+- [Battle of Frogs and Mice, Byzantine Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon-frogs-mice-mje-aa.grc.md) — *Βατραχομυομαχία* · `mje-aa`
 
 ## License and provenance
 

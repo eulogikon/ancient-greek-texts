@@ -19,7 +19,7 @@ Pausanias the Periegete, 2nd century CE travel writer. Description of Greece doc
 
 ## Works
 
-- [Fragments on Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete-cities-pqe-aa.grc.md) — *Ἀποσπάσματα περὶ Πόλεων* · `pqe-aa`
+- [Fragments on Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-cities-pqe-aa.grc.md) — *Ἀποσπάσματα περὶ Πόλεων* · `pqe-aa`
 
 ## License and provenance
 

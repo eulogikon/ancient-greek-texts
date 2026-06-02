@@ -19,9 +19,9 @@ Callinicus of Petra, a 3rd century CE orator. Three surviving works of oratory f
 
 ## Works
 
-- [Fragments on Alexander and Persia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-alexander-persia-ueg-ac.grc.md) — *Ἀποσπάσματα περὶ Ἀλεξάνδρου καὶ Περσῶν* · `ueg-ac`
-- [On the Origins of Rome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-origins-rome-ueg-ab.grc.md) — *Ἀποσπάσματα* · `ueg-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-of-petra-testimonies-ueg-aa.grc.md) — *Μαρτυρίαι* · `ueg-aa`
+- [Fragments on Alexander and Persia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-petra-alexander-persia-ueg-ac.grc.md) — *Ἀποσπάσματα περὶ Ἀλεξάνδρου καὶ Περσῶν* · `ueg-ac`
+- [On the Origins of Rome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-petra-origins-rome-ueg-ab.grc.md) — *Ἀποσπάσματα* · `ueg-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinicus-petra-testimonies-ueg-aa.grc.md) — *Μαρτυρίαι* · `ueg-aa`
 
 ## License and provenance
 

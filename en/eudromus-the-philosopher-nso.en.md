@@ -20,7 +20,7 @@ Eudromus was a Roman era Platonist philosopher. His surviving philosophical work
 
 ## Works
 
-- [Fragments on Philosophical Division](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-the-philosopher-philosophical-division-nso-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφικῆς Διαιρέσεως* · `nso-aa`
+- [Fragments on Philosophical Division](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudromus-philosophical-division-nso-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφικῆς Διαιρέσεως* · `nso-aa`
 
 ## License and provenance
 

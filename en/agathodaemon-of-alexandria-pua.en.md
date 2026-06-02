@@ -19,7 +19,7 @@ Agathodaemon of Alexandria, a 4th century CE scientific writer. Works include hi
 
 ## Works
 
-- [Agathodaemthe Oracle of Orpheus, Collection and Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathodaemon-of-alexandria-oracle-pua-aa.grc.md) — *Ἀγαθοδαίμων εἰς τὸν χρησμὸν Ὀρφέως συναγωγὴ καὶ* · `pua-aa`
+- [Agathodaemthe Oracle of Orpheus, Collection and Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathodaemon-alexandria-oracle-pua-aa.grc.md) — *Ἀγαθοδαίμων εἰς τὸν χρησμὸν Ὀρφέως συναγωγὴ καὶ* · `pua-aa`
 
 ## License and provenance
 

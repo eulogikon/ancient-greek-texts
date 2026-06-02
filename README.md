@@ -13,7 +13,7 @@ tags:
 
 # Ancient Greek Texts
 
-A free, open archive of ancient Greek literature — 1,342 authors and 4,005 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+A free, open archive of ancient Greek literature — 1,343 authors and 4,030 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
@@ -23,7 +23,7 @@ No logins. No fees. No paywalls. CC0.
 
 ## What's here
 
-**1,342 authors · 4,005 works · PDF, Markdown, plain text, and JSON**
+**1,343 authors · 4,030 works · PDF, Markdown, and plain text**
 
 A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
@@ -37,14 +37,12 @@ Files are produced from the same source as the Eulogikon website and updated alo
 
 ```
 ancient-greek-texts/
-├── grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.pdf    # Greek text as PDF
-├── grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.md     # Greek text as Markdown
-├── grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.txt    # Greek text as plain text
-├── grc/{author-slug}-{work-slug}-{eul_aid}-{wid}.grc.json   # Structured sentences + metadata
-├── en/{author-slug}-{eul_aid}.en.pdf                        # English author page
-├── en/{author-slug}-{eul_aid}.en.md                         # English author page as Markdown
-├── en/{author-slug}-{eul_aid}.en.txt                        # English author page as plain text
-├── en/{author-slug}-{eul_aid}.en.json                       # Author metadata, biography, and work list
+├── grc/{work_display_string}-{eul_wid}.grc.pdf    # Greek text as PDF
+├── grc/{work_display_string}-{eul_wid}.grc.md     # Greek text as Markdown
+├── grc/{work_display_string}-{eul_wid}.grc.txt    # Greek text as plain text
+├── en/{author_display_string}-{eul_aid}.en.pdf    # English author page
+├── en/{author_display_string}-{eul_aid}.en.md     # English author page as Markdown
+├── en/{author_display_string}-{eul_aid}.en.txt    # English author page as plain text
 ├── affiliations/{school}.pdf                                 # Texts grouped by philosophical school
 ├── domains/{domain}.pdf                                      # Texts grouped by domain (philosophy, drama, …)
 ├── llms.txt                                                    # LLM entry point and lookup guide
@@ -57,7 +55,9 @@ ancient-greek-texts/
 
 Files are flat — every Greek work and every English author page lives directly inside `grc/` or `en/`, with no per-author subdirectory.
 
-**Author slugs** use lowercase kebab-case: `plato`, `aristotle`, `thucydides-of-athens`, `sextus-empiricus`. The trailing three-letter token (`-ffk`, `-hgw`, …) is the Eulogikon author ID (`eul_aid`); the work suffix (`-aa`, `-ae`, …) is the per-author work ID (`eul_wid`).
+**Display strings** use lowercase kebab-case: an author's is e.g. `plato`, `aristotle`, `thucydides-of-athens`, `sextus-empiricus`; a work's prefixes a short author form, e.g. `plato-republic`. They are the human-readable URL and filename piece — attributes, not identifiers.
+
+**Identifiers** are the trailing tokens. `eul_aid` is the opaque three-letter author ID (`ffk`, `hgw`, …), not derived from the name. `eul_wid` is the full work ID, `{eul_aid}-{suffix}` (e.g. `ffk-ag`) — the suffix alone (`ag`) is not the ID. So the work filename `plato-republic-ffk-ag` is `{work_display_string}-{eul_wid}`, and the author filename `plato-ffk` is `{author_display_string}-{eul_aid}`.
 
 **Domains covered:** biography, comedy, drama, epic, fiction, geography, grammar, history, law, mathematics, medicine, oratory, philosophy, poetry, rhetoric, science, theology.
 
@@ -72,9 +72,8 @@ Files are flat — every Greek work and every English author page lives directly
 | PDF | ✓ | ✓ |
 | Markdown | ✓ | ✓ |
 | Plain text | ✓ | ✓ |
-| JSON | ✓ | ✓ |
 
-The JSON files contain structured sentence-level data with metadata (period, dialect, domain, affiliation, biography) suitable for NLP, corpus linguistics, and digital humanities research.
+The Markdown files carry the richest reading form — the full Greek text (or English author metadata: period, dialect, domain, affiliation, biography) with headings and structure preserved. Plain text and PDF carry the same content in their respective forms.
 
 ---
 
@@ -101,7 +100,7 @@ The JSON files contain structured sentence-level data with metadata (period, dia
 
 **For downloading:** clone or use the GitHub UI. All files are named predictably; no build step is needed.
 
-**For research / NLP / DH:** the JSON files are the richest format. Each author JSON includes biography, period, dialect, domain, and affiliation metadata. Work JSONs include the text segmented into addressable units, each carrying a Eulogikon segment ID (`sid`) of the form `{eul_aid}-{work-suffix}-{segment}` (e.g. `ffk-ag-aaa`). A segment is a semantic unit — a sentence, a phrase, a clause, or a list — the fine-grained coordinate for citing a place in the text.
+**For research / NLP / DH:** the Markdown files are the richest format — clean Unicode Greek with headings and structure preserved, one file per work. Plain text gives the same content without markup. Author-level metadata (period, dialect, domain, affiliation, biography) is in each author's Markdown page under `en/`. For citation coordinates and segment-level addressing, link back to the work on [eulogikon.org](https://eulogikon.org), which exposes per-segment anchors.
 
 **For AI assistants / API callers:** read [`llms.txt`](llms.txt) first. It follows the [llms.txt](https://llmstxt.org/) convention — a short curated entry point that points to compact lookup files rather than the full manifest (~13,000-line `MANIFEST.md` or ~80,000-line `manifest.json`). Resolve an author or work there, then fetch individual files from `en/` or `grc/`.
 
@@ -112,11 +111,11 @@ git clone https://github.com/eulogikon/ancient-greek-texts.git
 # Grab a single work (Plato's Republic, Greek text as Markdown)
 curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/grc/plato-republic-ffk-ag.grc.md
 
-# Get Plato's author-level metadata (biography, works list, period, dialect, …)
-curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.json
+# Get Plato's author page (biography, works list, period, dialect, …)
+curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.md
 ```
 
-(File names follow the patterns in [Layout](#layout) above. Resolve an exact slug for any author or work via [`manifest.authors.json`](manifest.authors.json) or [`manifest.works.min.csv`](manifest.works.min.csv).)
+(File names follow the patterns in [Layout](#layout) above. Resolve the exact display string and identifier for any author or work via [`manifest.authors.json`](manifest.authors.json) or [`manifest.works.min.csv`](manifest.works.min.csv).)
 
 ---
 
@@ -133,7 +132,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "A public-domain corpus of ancient Greek literature: 1,342 authors and 4,005 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, plain text, and structured JSON, with English author metadata and biographies.",
+  "description": "A public-domain corpus of ancient Greek literature: 1,343 authors and 4,030 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",

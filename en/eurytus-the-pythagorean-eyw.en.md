@@ -20,8 +20,8 @@ Eurytus was a 5th century BCE Pythagorean philosopher. Two surviving works from 
 
 ## Works
 
-- [On Chance and Spontaneous Events](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-chance-spontaneous-events-eyw-ab.grc.md) — *Ἀπόσπασμα* · `eyw-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean-testimonies-eyw-aa.grc.md) — *Μαρτυρίαι* · `eyw-aa`
+- [On Chance and Spontaneous Events](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-pythagorean-chance-spontaneous-events-eyw-ab.grc.md) — *Ἀπόσπασμα* · `eyw-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-pythagorean-testimonies-eyw-aa.grc.md) — *Μαρτυρίαι* · `eyw-aa`
 
 ## License and provenance
 

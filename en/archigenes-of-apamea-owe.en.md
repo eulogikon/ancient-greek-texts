@@ -19,8 +19,8 @@ Archigenes of Apamea was a Greek physician in Rome. Two surviving medical treati
 
 ## Works
 
-- [On Inflammation of the Spleen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea-spleen-inflammation-owe-ab.grc.md) — *Ἀποσπάσματα* · `owe-ab`
-- [Unpublished Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea-unpublished-fragments-owe-aa.grc.md) — *Ἀδημοσίευτα Ἀποσπάσματα* · `owe-aa`
+- [On Inflammation of the Spleen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-apamea-spleen-inflammation-owe-ab.grc.md) — *Ἀποσπάσματα* · `owe-ab`
+- [Unpublished Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-apamea-unpublished-fragments-owe-aa.grc.md) — *Ἀδημοσίευτα Ἀποσπάσματα* · `owe-aa`
 
 ## License and provenance
 

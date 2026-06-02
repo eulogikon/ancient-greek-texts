@@ -19,8 +19,8 @@ Diodorus of Sinope was a Hellenistic playwright of New Comedy. Two fragmentary w
 
 ## Works
 
-- [On Parasites and Drinking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasites-drinking-jdi-aa.grc.md) — *Ἀποσπάσματα* · `jdi-aa`
-- [On Parasitic Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope-parasitic-dining-jdi-ab.grc.md) — *Ἀποσπάσματα* · `jdi-ab`
+- [On Parasites and Drinking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sinope-parasites-drinking-jdi-aa.grc.md) — *Ἀποσπάσματα* · `jdi-aa`
+- [On Parasitic Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sinope-parasitic-dining-jdi-ab.grc.md) — *Ἀποσπάσματα* · `jdi-ab`
 
 ## License and provenance
 

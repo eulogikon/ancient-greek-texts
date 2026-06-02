@@ -19,8 +19,8 @@ Axionicus was a 4th century BCE Attic comic poet. Read his surviving comedy frag
 
 ## Works
 
-- [Fragments on Drunken Revelry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-drunken-revelry-gta-aa.grc.md) — *Ἀποσπάσματα περὶ Μέθης* · `gta-aa`
-- [Fragments on Feasting and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet-feasting-folly-gta-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας καὶ Μωρίας* · `gta-ab`
+- [Fragments on Drunken Revelry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-drunken-revelry-gta-aa.grc.md) — *Ἀποσπάσματα περὶ Μέθης* · `gta-aa`
+- [Fragments on Feasting and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-feasting-folly-gta-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας καὶ Μωρίας* · `gta-ab`
 
 ## License and provenance
 

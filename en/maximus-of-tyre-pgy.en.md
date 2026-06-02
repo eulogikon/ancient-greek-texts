@@ -19,7 +19,7 @@ Maximus of Tyre, a 2nd century CE Greek philosopher. His surviving works explore
 
 ## Works
 
-- [Conversations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-tyre-conversations-pgy-aa.grc.md) — *Διαλέξεις* · `pgy-aa`
+- [Conversations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-tyre-conversations-pgy-aa.grc.md) — *Διαλέξεις* · `pgy-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Deiochus, a 4th century BCE classical Greek historian. Surviving fragments of hi
 
 ## Works
 
-- [Fragments on Cyzicus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-cyzicus-fragments-epq-aa.grc.md) — *Ἀποσπάσματα περὶ Κυζίκου* · `epq-aa`
-- [Fragments on Samothrace](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian-samothrace-fragments-epq-ab.grc.md) — *Ἀποσπάσματα περὶ Σαμοθρᾴκης* · `epq-ab`
+- [Fragments on Cyzicus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-cyzicus-fragments-epq-aa.grc.md) — *Ἀποσπάσματα περὶ Κυζίκου* · `epq-aa`
+- [Fragments on Samothrace](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-samothrace-fragments-epq-ab.grc.md) — *Ἀποσπάσματα περὶ Σαμοθρᾴκης* · `epq-ab`
 
 ## License and provenance
 

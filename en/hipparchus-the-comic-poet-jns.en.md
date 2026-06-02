@@ -19,8 +19,8 @@ Hipparchus, a Hellenistic comic poet. Two surviving works from this 3rd century 
 
 ## Works
 
-- [Fragments on Art and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-art-wealth-jns-aa.grc.md) — *Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου* · `jns-aa`
-- [Fragments on Craft and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet-craft-fortune-jns-ab.grc.md) — *Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης* · `jns-ab`
+- [Fragments on Art and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-comic-art-wealth-jns-aa.grc.md) — *Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου* · `jns-aa`
+- [Fragments on Craft and Fortune](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-comic-craft-fortune-jns-ab.grc.md) — *Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης* · `jns-ab`
 
 ## License and provenance
 

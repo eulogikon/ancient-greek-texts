@@ -19,7 +19,7 @@ Hippias of Erythrae was a Hellenistic historian. His surviving historical fragme
 
 ## Works
 
-- [On the Overthrow of King Knopos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-erythrae-overthrow-knopos-hyy-aa.grc.md) — *Ἀπόσπασμα* · `hyy-aa`
+- [On the Overthrow of King Knopos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-erythrae-overthrow-knopos-hyy-aa.grc.md) — *Ἀπόσπασμα* · `hyy-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Lycophronides Lyricus, a 4th century BCE Greek lyric poet with fragmentary works
 
 ## Works
 
-- [Fragments on Beauty and Offerings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus-beauty-offerings-gja-aa.grc.md) — *Ἀποσπάσματα περὶ Κάλλους καὶ Ἀναθημάτων* · `gja-aa`
+- [Fragments on Beauty and Offerings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-beauty-offerings-gja-aa.grc.md) — *Ἀποσπάσματα περὶ Κάλλους καὶ Ἀναθημάτων* · `gja-aa`
 
 ## License and provenance
 

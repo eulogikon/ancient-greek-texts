@@ -19,7 +19,7 @@ Andreas the Historian was a late antique Greek historian. His surviving historic
 
 ## Works
 
-- [Fragments on Sicilian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-the-historian-sicilian-cities-saw-aa.grc.md) — *Ἀποσπάσματα περὶ Σικελικῶν Πόλεων* · `saw-aa`
+- [Fragments on Sicilian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andreas-sicilian-cities-saw-aa.grc.md) — *Ἀποσπάσματα περὶ Σικελικῶν Πόλεων* · `saw-aa`
 
 ## License and provenance
 

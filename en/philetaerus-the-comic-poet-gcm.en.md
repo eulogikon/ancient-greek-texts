@@ -19,8 +19,8 @@ Philetaerus, a 4th-3rd century BCE Athenian comic poet. Read his surviving comed
 
 ## Works
 
-- [Comic Fragments on Life and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-comic-life-pleasure-gcm-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς* · `gcm-aa`
-- [Fragments on Health and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet-health-pleasure-gcm-ab.grc.md) — *Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς* · `gcm-ab`
+- [Comic Fragments on Life and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-comic-life-pleasure-gcm-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς* · `gcm-aa`
+- [Fragments on Health and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-health-pleasure-gcm-ab.grc.md) — *Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς* · `gcm-ab`
 
 ## License and provenance
 

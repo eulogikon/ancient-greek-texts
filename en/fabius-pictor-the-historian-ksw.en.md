@@ -19,7 +19,7 @@ Fabius Pictor, Roman historian writing in Greek in the 3rd century BCE. Fragment
 
 ## Works
 
-- [Fabius Pictor's Roman History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-the-historian-roman-history-ksw-aa.grc.md) — *Ἀποσπάσματα* · `ksw-aa`
+- [Fabius Pictor's Roman History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fabius-pictor-roman-history-ksw-aa.grc.md) — *Ἀποσπάσματα* · `ksw-aa`
 
 ## License and provenance
 

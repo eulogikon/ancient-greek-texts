@@ -19,7 +19,7 @@ Menesthenes, 4th century BCE Attic historian of Classical Greece. All surviving 
 
 ## Works
 
-- [On Vessels and Drinking Cups](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian-vessels-cups-gko-aa.grc.md) — *Ἀπόσπασμα* · `gko-aa`
+- [On Vessels and Drinking Cups](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-vessels-cups-gko-aa.grc.md) — *Ἀπόσπασμα* · `gko-aa`
 
 ## License and provenance
 

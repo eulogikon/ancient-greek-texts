@@ -19,7 +19,7 @@ Simylus was a Hellenistic era poet of Attic comedy. Surviving fragments of his w
 
 ## Works
 
-- [Tarpeia Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet-tarpeia-fragments-idy-aa.grc.md) — *Ἀποσπάσματα* · `idy-aa`
+- [Tarpeia Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-tarpeia-fragments-idy-aa.grc.md) — *Ἀποσπάσματα* · `idy-aa`
 
 ## License and provenance
 

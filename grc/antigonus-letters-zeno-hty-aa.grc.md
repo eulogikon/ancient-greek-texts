@@ -7,7 +7,7 @@ eul_aid: hty
 canonical: "https://eulogikon.org/works/antigonus-letters-zeno-hty-aa"
 period: Hellenistic
 dialect: Koine
-domain: Rhetoric
+domain: Oratory
 format: Epistle
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

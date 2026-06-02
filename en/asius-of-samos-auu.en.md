@@ -19,8 +19,8 @@ Asius of Samos, archaic Greek poet of the 6th century BCE. Epic poetry fragments
 
 ## Works
 
-- [Elegiac Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-elegiac-fragment-auu-aa.grc.md) — *Ἐλεγειακὸν Ἀπόσπασμα* · `auu-aa`
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos-epic-fragments-auu-ab.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `auu-ab`
+- [Elegiac Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-samos-elegiac-fragment-auu-aa.grc.md) — *Ἐλεγειακὸν Ἀπόσπασμα* · `auu-aa`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-samos-epic-fragments-auu-ab.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `auu-ab`
 
 ## License and provenance
 

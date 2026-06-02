@@ -19,8 +19,8 @@ Hypsicles of Alexandria, a Hellenistic mathematician and astronomer. Includes hi
 
 ## Works
 
-- [Anaphoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-anaphoric-lao-ab.grc.md) — *Ἀναφορικός* · `lao-ab`
-- [Hypsicles' Book or Elements Book XIV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria-elements-book-14-lao-aa.grc.md) — *Βιβλίον Ὑψικλέους ἢ Στοιχεῖα Βιβλίον ΙΔʹ* · `lao-aa`
+- [Anaphoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-alexandria-anaphoric-lao-ab.grc.md) — *Ἀναφορικός* · `lao-ab`
+- [Hypsicles' Book or Elements Book XIV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-alexandria-elements-book-14-lao-aa.grc.md) — *Βιβλίον Ὑψικλέους ἢ Στοιχεῖα Βιβλίον ΙΔʹ* · `lao-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dionysius son of Calliphon, 2nd century BCE geographer. Surviving geographical w
 
 ## Works
 
-- [Description of Greece by Dionysius Son of Calliphon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-son-of-calliphon-description-greece-jkg-aa.grc.md) — *Περιγραφὴ τῆς Ἑλλάδος Διονυσίου τοῦ Καλλιφῶντος* · `jkg-aa`
+- [Description of Greece by Dionysius Son of Calliphon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-calliphon-description-greece-jkg-aa.grc.md) — *Περιγραφὴ τῆς Ἑλλάδος Διονυσίου τοῦ Καλλιφῶντος* · `jkg-aa`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Archilochus of Paros, 7th century BCE iambic poet. Surviving fragments of his in
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-epigrams-afu-ac.grc.md) — *Ἐπιγράμματα* · `afu-ac`
-- [Lyric Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-lyric-fragments-afu-aa.grc.md) — *Λυρικὰ Ἀποσπάσματα* · `afu-aa`
-- [Warrior's Life and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros-life-wine-afu-ab.grc.md) — *Ἀποσπάσματα* · `afu-ab`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-paros-epigrams-afu-ac.grc.md) — *Ἐπιγράμματα* · `afu-ac`
+- [Lyric Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-paros-lyric-fragments-afu-aa.grc.md) — *Λυρικὰ Ἀποσπάσματα* · `afu-aa`
+- [Warrior's Life and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-paros-life-wine-afu-ab.grc.md) — *Ἀποσπάσματα* · `afu-ab`
 
 ## License and provenance
 

@@ -20,8 +20,8 @@ Clinias of Tarentum, a 5th-4th century BCE Pythagorean philosopher. Surviving fr
 
 ## Works
 
-- [On Piety and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-piety-virtue-hcg-ab.grc.md) — *Ἀποσπάσματα* · `hcg-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum-testimonies-hcg-aa.grc.md) — *Μαρτυρίαι* · `hcg-aa`
+- [On Piety and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-tarentum-piety-virtue-hcg-ab.grc.md) — *Ἀποσπάσματα* · `hcg-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-tarentum-testimonies-hcg-aa.grc.md) — *Μαρτυρίαι* · `hcg-aa`
 
 ## License and provenance
 

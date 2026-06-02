@@ -19,7 +19,7 @@ Dionysius of Argos, 4th-3rd century BCE historian. His surviving historical text
 
 ## Works
 
-- [Chronological and Homeric Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-argos-chronological-homeric-fragments-dzw-aa.grc.md) — *Ἀποσπάσματα* · `dzw-aa`
+- [Chronological and Homeric Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-argos-chronological-homeric-fragments-dzw-aa.grc.md) — *Ἀποσπάσματα* · `dzw-aa`
 
 ## License and provenance
 

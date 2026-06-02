@@ -19,7 +19,7 @@ Homer of Colophon, a 7th century BCE Greek epic poet. Read his surviving epic ve
 
 ## Works
 
-- [Margites Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-of-colophon-fragments-acs-aa.grc.md) — *Μαργίτου Ἀποσπάσματα* · `acs-aa`
+- [Margites Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-colophon-fragments-acs-aa.grc.md) — *Μαργίτου Ἀποσπάσματα* · `acs-aa`
 
 ## License and provenance
 

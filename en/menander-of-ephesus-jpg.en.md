@@ -19,7 +19,7 @@ Menander of Ephesus was a Hellenistic historian of 3rd-2nd century BCE. His hist
 
 ## Works
 
-- [Chronicles of Tyrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-ephesus-chronicles-tyrian-jpg-aa.grc.md) — *Ἀποσπάσματα* · `jpg-aa`
+- [Chronicles of Tyrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-ephesus-chronicles-tyrian-jpg-aa.grc.md) — *Ἀποσπάσματα* · `jpg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Herodotus, 5th century BCE historian known as the Father of History. Surviving w
 
 ## Works
 
-- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus-histories-elu-aa.grc.md) — *Ἱστορίαι* · `elu-aa`
+- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-halicarnassus-histories-elu-aa.grc.md) — *Ἱστορίαι* · `elu-aa`
 
 ## License and provenance
 

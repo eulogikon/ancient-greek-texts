@@ -19,8 +19,8 @@ Antiphanes was a major 4th century BCE playwright of Middle Comedy. His survivin
 
 ## Works
 
-- [Comic Fragments on Food and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-comic-food-folly-fgy-ab.grc.md) — *Ἀποσπάσματα περὶ Σίτων καὶ Μωρίας* · `fgy-ab`
-- [Comic Fragments on Love and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet-love-feasting-fgy-aa.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Συμποσίου* · `fgy-aa`
+- [Comic Fragments on Food and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-comic-food-folly-fgy-ab.grc.md) — *Ἀποσπάσματα περὶ Σίτων καὶ Μωρίας* · `fgy-ab`
+- [Comic Fragments on Love and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-love-feasting-fgy-aa.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Συμποσίου* · `fgy-aa`
 
 ## License and provenance
 

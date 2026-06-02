@@ -19,7 +19,7 @@ Callistratus the Sophist, a Roman orator and rhetoric teacher. His surviving wor
 
 ## Works
 
-- [Descriptions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist-descriptions-ufk-aa.grc.md) — *Ἐκφράσεις* · `ufk-aa`
+- [Descriptions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-descriptions-ufk-aa.grc.md) — *Ἐκφράσεις* · `ufk-aa`
 
 ## License and provenance
 

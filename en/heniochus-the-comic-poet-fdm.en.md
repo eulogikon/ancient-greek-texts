@@ -19,8 +19,8 @@ Heniochus was a 4th century BCE Athenian comic poet of Middle Comedy. Two fragme
 
 ## Works
 
-- [Comic Fragments on Food and Drink](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-comic-food-drink-fdm-aa.grc.md) — *Ἀποσπάσματα περὶ Σιτίων καὶ Ποτῶν* · `fdm-aa`
-- [Symposium and Philosophical Banter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet-symposium-fdm-ab.grc.md) — *Ἀποσπάσματα* · `fdm-ab`
+- [Comic Fragments on Food and Drink](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-comic-food-drink-fdm-aa.grc.md) — *Ἀποσπάσματα περὶ Σιτίων καὶ Ποτῶν* · `fdm-aa`
+- [Symposium and Philosophical Banter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-symposium-fdm-ab.grc.md) — *Ἀποσπάσματα* · `fdm-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Pausanias and Xerxes, a 5th century BCE epistolary tradition. Their surviving ex
 
 ## Works
 
-- [Letters of Pausanias and Xerxes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-and-xerxes-letters-correspondence-eqk-aa.grc.md) — *Ἐπιστολαὶ Παυσανίου καὶ Ξέρξου* · `eqk-aa`
+- [Letters of Pausanias and Xerxes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-xerxes-letters-correspondence-eqk-aa.grc.md) — *Ἐπιστολαὶ Παυσανίου καὶ Ξέρξου* · `eqk-aa`
 
 ## License and provenance
 

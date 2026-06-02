@@ -19,7 +19,7 @@ Colluthus of Lycopolis was a late antique epic poet in the Homeric tradition. Hi
 
 ## Works
 
-- [Abduction of Helen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis-abduction-of-helen-uuu-aa.grc.md) — *Ἁρπαγὴ Ἑλένης* · `uuu-aa`
+- [Abduction of Helen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-lycopolis-abduction-of-helen-uuu-aa.grc.md) — *Ἁρπαγὴ Ἑλένης* · `uuu-aa`
 
 ## License and provenance
 

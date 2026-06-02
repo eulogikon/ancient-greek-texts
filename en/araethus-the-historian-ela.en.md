@@ -19,7 +19,7 @@ Araethus, a 4th century BCE Attic historian. Surviving fragmentary works in pros
 
 ## Works
 
-- [Arcadian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-the-historian-historical-fragments-ela-aa.grc.md) — *Ἀποσπάσματα* · `ela-aa`
+- [Arcadian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araethus-historical-fragments-ela-aa.grc.md) — *Ἀποσπάσματα* · `ela-aa`
 
 ## License and provenance
 

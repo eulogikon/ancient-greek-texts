@@ -19,7 +19,7 @@ Nicander of Thyatira was a Hellenistic grammarian from Lydia. His surviving gram
 
 ## Works
 
-- [On the Demes of Attica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-thyatira-demes-attica-kzu-aa.grc.md) — *Ἀποσπάσματα* · `kzu-aa`
+- [On the Demes of Attica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-thyatira-demes-attica-kzu-aa.grc.md) — *Ἀποσπάσματα* · `kzu-aa`
 
 ## License and provenance
 

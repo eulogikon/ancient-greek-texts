@@ -19,7 +19,7 @@ Gorgon the Historian, a 4th to 3rd century BCE Greek historian. Lists his surviv
 
 ## Works
 
-- [On Rhodian Sacrifices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian-rhodian-sacrifices-cdk-aa.grc.md) — *Ἀποσπάσματα* · `cdk-aa`
+- [On Rhodian Sacrifices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-rhodian-sacrifices-cdk-aa.grc.md) — *Ἀποσπάσματα* · `cdk-aa`
 
 ## License and provenance
 

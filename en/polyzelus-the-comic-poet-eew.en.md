@@ -19,8 +19,8 @@ Polyzelus, Athenian comic poet of the late 5th and early 4th centuries BCE. Two 
 
 ## Works
 
-- [Fragments of Comic Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-comic-dialogues-eew-aa.grc.md) — *Ἀποσπάσματα Κωμικῶν Διαλόγων* · `eew-aa`
-- [Fragments on Theramenes and Tyranny](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet-theramenes-tyranny-eew-ab.grc.md) — *Ἀποσπάσματα περὶ Θηραμένους καὶ Τυραννίδος* · `eew-ab`
+- [Fragments of Comic Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-comic-dialogues-eew-aa.grc.md) — *Ἀποσπάσματα Κωμικῶν Διαλόγων* · `eew-aa`
+- [Fragments on Theramenes and Tyranny](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-theramenes-tyranny-eew-ab.grc.md) — *Ἀποσπάσματα περὶ Θηραμένους καὶ Τυραννίδος* · `eew-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ John of Alexandria, 6th-7th century Byzantine medical writer. Surviving medical 
 
 ## Works
 
-- [Commentaries-Hippocrates' Book-the Nature of the Child](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-alexandria-nature-child-vwc-aa.grc.md) — *Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσεως Παίδων* · `vwc-aa`
+- [Commentaries-Hippocrates' Book-the Nature of the Child](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-alexandria-nature-child-vwc-aa.grc.md) — *Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσεως Παίδων* · `vwc-aa`
 
 ## License and provenance
 

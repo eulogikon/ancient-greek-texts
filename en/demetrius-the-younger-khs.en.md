@@ -19,8 +19,8 @@ Demetrius the Younger, Hellenistic comic poet of the 4th-3rd century BCE. Surviv
 
 ## Works
 
-- [Cook's Boastful Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger-cooks-boastful-fragments-khs-aa.grc.md) — *Ἀπόσπασμα* · `khs-aa`
-- [On the Tyrant's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger-tyrant-art-khs-ab.grc.md) — *Ἀπόσπασμα* · `khs-ab`
+- [Cook's Boastful Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-younger-cooks-boastful-fragments-khs-aa.grc.md) — *Ἀπόσπασμα* · `khs-aa`
+- [On the Tyrant's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-younger-tyrant-art-khs-ab.grc.md) — *Ἀπόσπασμα* · `khs-ab`
 
 ## License and provenance
 

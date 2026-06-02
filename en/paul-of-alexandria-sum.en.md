@@ -19,8 +19,8 @@ Paul of Alexandria, a 4th century CE astrologer. His surviving works include an 
 
 ## Works
 
-- [Elements of Astrology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-astrology-sum-aa.grc.md) — *Στοιχεῖα Ἀστρολογίας* · `sum-aa`
-- [Summary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria-summary-sum-ab.grc.md) — *Σύνοψις* · `sum-ab`
+- [Elements of Astrology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-alexandria-astrology-sum-aa.grc.md) — *Στοιχεῖα Ἀστρολογίας* · `sum-aa`
+- [Summary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-alexandria-summary-sum-ab.grc.md) — *Σύνοψις* · `sum-ab`
 
 ## License and provenance
 

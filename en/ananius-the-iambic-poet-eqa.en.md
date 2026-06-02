@@ -19,7 +19,7 @@ Ananius the Iambic Poet, a classical Greek poet in Ionic dialect. Surviving iamb
 
 ## Works
 
-- [Fragments on Pleasures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-the-iambic-poet-pleasures-eqa-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῶν* · `eqa-aa`
+- [Fragments on Pleasures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ananius-pleasures-eqa-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῶν* · `eqa-aa`
 
 ## License and provenance
 

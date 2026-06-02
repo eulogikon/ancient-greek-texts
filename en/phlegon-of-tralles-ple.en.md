@@ -19,9 +19,9 @@ Phlegon of Tralles, 2nd century CE Roman historian. Surviving fragments of his h
 
 ## Works
 
-- [On Marvels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-marvels-ple-ab.grc.md) — *Περὶ θαυμάτων* · `ple-ab`
-- [On the Olympic Games](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-olympic-games-ple-ac.grc.md) — *Ἀποσπάσματα* · `ple-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles-testimonies-ple-aa.grc.md) — *Μαρτυρίαι* · `ple-aa`
+- [On Marvels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-tralles-marvels-ple-ab.grc.md) — *Περὶ θαυμάτων* · `ple-ab`
+- [On the Olympic Games](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-tralles-olympic-games-ple-ac.grc.md) — *Ἀποσπάσματα* · `ple-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-tralles-testimonies-ple-aa.grc.md) — *Μαρτυρίαι* · `ple-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Aeschrion of Samos was a Hellenistic poet writing in Ionic iambic verse. Fragmen
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-epigram-hvc-ab.grc.md) — *Ἐπίγραμμα* · `hvc-ab`
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos-fragments-hvc-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hvc-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-samos-epigram-hvc-ab.grc.md) — *Ἐπίγραμμα* · `hvc-ab`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-samos-fragments-hvc-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hvc-aa`
 
 ## License and provenance
 

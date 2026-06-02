@@ -19,11 +19,11 @@ Aratus of Soli, Hellenistic poet and scientist. Works include the astronomical p
 
 ## Works
 
-- [Astronomical Calendar Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-astronomical-calendar-hte-ae.grc.md) — *Ἀπόσπασμα* · `hte-ae`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-epigrams-hte-ac.grc.md) — *Ἐπιγράμματα* · `hte-ac`
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-fragments-hte-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hte-aa`
-- [On Solar Zodiacal Transits](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-solar-transits-hte-ad.grc.md) — *Ἀπόσπασμα* · `hte-ad`
-- [Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli-phenomena-hte-ab.grc.md) — *Φαινόμενα* · `hte-ab`
+- [Astronomical Calendar Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-soli-astronomical-calendar-hte-ae.grc.md) — *Ἀπόσπασμα* · `hte-ae`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-soli-epigrams-hte-ac.grc.md) — *Ἐπιγράμματα* · `hte-ac`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-soli-fragments-hte-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hte-aa`
+- [On Solar Zodiacal Transits](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-soli-solar-transits-hte-ad.grc.md) — *Ἀπόσπασμα* · `hte-ad`
+- [Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-soli-phenomena-hte-ab.grc.md) — *Φαινόμενα* · `hte-ab`
 
 ## License and provenance
 

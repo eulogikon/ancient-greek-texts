@@ -19,7 +19,7 @@ Megillus of Sparta was a classical Greek philosophical figure. His surviving tre
 
 ## Works
 
-- [Fragments on Numbers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-of-sparta-numbers-cia-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀριθμῶν* · `cia-aa`
+- [Fragments on Numbers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megillus-sparta-numbers-cia-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀριθμῶν* · `cia-aa`
 
 ## License and provenance
 

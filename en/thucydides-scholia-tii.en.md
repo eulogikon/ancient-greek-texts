@@ -19,13 +19,13 @@ The Thucydides Scholia are Byzantine grammatical annotations illuminating the te
 
 ## Works
 
-- [Scholia-Euclid's Catoptrics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-catoptrics-tii-ab.grc.md) — *Σχόλια εἰς Εὐκλείδου Κατοπτρικά* · `tii-ab`
-- [Scholia-Euclid's Data](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-data-tii-ag.grc.md) — *Σχόλια εἰς Εὐκλείδου Δεδομένα* · `tii-ag`
-- [Scholia-Euclid's Data and Catoptrics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-data-catoptrics-tii-aa.grc.md) — *Σχόλια εἰς Εὐκλείδου Δεδομένα καὶ Κατοπτρικά* · `tii-aa`
-- [Scholia-Euclid's Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-elements-tii-ad.grc.md) — *Σχόλια εἰς Εὐκλείδου Στοιχεῖα* · `tii-ad`
-- [Scholia-Euclid's Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-ae-tii-ae.grc.md) — *Σχόλια εἰς Εὐκλείδου Ὀπτικά* · `tii-ae`
-- [Scholia-Euclid's Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-euclid-phenomena-tii-ac.grc.md) — *Σχόλια εἰς Εὐκλείδου Φαινόμενα* · `tii-ac`
-- [Scholia-Theon's Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia-optics-af-tii-af.grc.md) — *Σχόλια εἰς Θεῶνος Ὀπτικά* · `tii-af`
+- [Scholia-Euclid's Catoptrics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-euclid-catoptrics-tii-ab.grc.md) — *Σχόλια εἰς Εὐκλείδου Κατοπτρικά* · `tii-ab`
+- [Scholia-Euclid's Data](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-euclid-data-tii-ag.grc.md) — *Σχόλια εἰς Εὐκλείδου Δεδομένα* · `tii-ag`
+- [Scholia-Euclid's Data and Catoptrics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-euclid-data-catoptrics-tii-aa.grc.md) — *Σχόλια εἰς Εὐκλείδου Δεδομένα καὶ Κατοπτρικά* · `tii-aa`
+- [Scholia-Euclid's Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-euclid-elements-tii-ad.grc.md) — *Σχόλια εἰς Εὐκλείδου Στοιχεῖα* · `tii-ad`
+- [Scholia-Euclid's Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-optics-tii-ae.grc.md) — *Σχόλια εἰς Εὐκλείδου Ὀπτικά* · `tii-ae`
+- [Scholia-Euclid's Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-euclid-phenomena-tii-ac.grc.md) — *Σχόλια εἰς Εὐκλείδου Φαινόμενα* · `tii-ac`
+- [Scholia-Theon's Optics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thuc-scholia-optics-tii-af.grc.md) — *Σχόλια εἰς Θεῶνος Ὀπτικά* · `tii-af`
 
 ## License and provenance
 

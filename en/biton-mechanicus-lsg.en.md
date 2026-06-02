@@ -19,7 +19,7 @@ Biton Mechanicus, Hellenistic engineer of the 3rd century BCE. Treatise on milit
 
 ## Works
 
-- [Constructions of War Machines and Catapults](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus-war-machines-catapults-lsg-aa.grc.md) — *Κατασκευαὶ πολεμικῶν ὀργάνων καὶ καταπαλτικῶν* · `lsg-aa`
+- [Constructions of War Machines and Catapults](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-war-machines-catapults-lsg-aa.grc.md) — *Κατασκευαὶ πολεμικῶν ὀργάνων καὶ καταπαλτικῶν* · `lsg-aa`
 
 ## License and provenance
 

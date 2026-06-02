@@ -19,7 +19,7 @@ John VI Kantakouzenos, Byzantine emperor and historian. Surviving historical wor
 
 ## Works
 
-- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos-histories-rxk-aa.grc.md) — *Ἱστορίαι* · `rxk-aa`
+- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-kantakouzenos-histories-rxk-aa.grc.md) — *Ἱστορίαι* · `rxk-aa`
 
 ## License and provenance
 

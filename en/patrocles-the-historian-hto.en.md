@@ -19,7 +19,7 @@ Patrocles the Historian was a Hellenistic writer of the 4th century BCE. Histori
 
 ## Works
 
-- [Geographical Fragments on India](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-the-historian-geographical-india-hto-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰνδικῆς* · `hto-aa`
+- [Geographical Fragments on India](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-geographical-india-hto-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰνδικῆς* · `hto-aa`
 
 ## License and provenance
 

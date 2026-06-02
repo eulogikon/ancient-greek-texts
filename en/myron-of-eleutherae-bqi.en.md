@@ -19,7 +19,7 @@ Myron of Eleutherae, a 5th century BCE Attic historian. Surviving works preserve
 
 ## Works
 
-- [Fragments on Spartan Helots](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae-spartan-helots-bqi-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱλώτων Σπαρτιατῶν* · `bqi-aa`
+- [Fragments on Spartan Helots](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-eleutherae-spartan-helots-bqi-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱλώτων Σπαρτιατῶν* · `bqi-aa`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Heraclides the Critic, a Hellenistic Pythagorean author of the 3rd century BCE. 
 
 ## Works
 
-- [Three Fragments of the Description of Greece](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-the-critic-three-fragments-greece-lrm-aa.grc.md) — *Τρία Ἀποσπάσματα τῆς Περιγραφῆς τῆς Ἑλλάδος* · `lrm-aa`
+- [Three Fragments of the Description of Greece](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-critic-three-fragments-greece-lrm-aa.grc.md) — *Τρία Ἀποσπάσματα τῆς Περιγραφῆς τῆς Ἑλλάδος* · `lrm-aa`
 
 ## License and provenance
 

@@ -19,12 +19,12 @@ Hermogenes of Tarsus, 2nd century CE Greek rhetorician. Surviving treatises on s
 
 ## Works
 
-- [On Discovery](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-discovery-qng-ae.grc.md) — *Περὶ εὑρέσεως* · `qng-ae`
-- [On Ideas of Speech](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-on-ideas-qng-ac.grc.md) — *Περὶ ἰδεῶν λόγου* · `qng-ac`
-- [On the Method of Awesomeness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-method-awesomeness-qng-aa.grc.md) — *Περὶ μεθόδου δεινότητος* · `qng-aa`
-- [On the Stances](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-stances-qng-ad.grc.md) — *Περὶ στάσεων* · `qng-ad`
-- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-preliminary-exercises-qng-ab.grc.md) — *Προγυμνάσματα* · `qng-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus-testimonies-qng-af.grc.md) — *Μαρτυρίαι* · `qng-af`
+- [On Discovery](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-discovery-qng-ae.grc.md) — *Περὶ εὑρέσεως* · `qng-ae`
+- [On Ideas of Speech](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-on-ideas-qng-ac.grc.md) — *Περὶ ἰδεῶν λόγου* · `qng-ac`
+- [On the Method of Awesomeness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-method-awesomeness-qng-aa.grc.md) — *Περὶ μεθόδου δεινότητος* · `qng-aa`
+- [On the Stances](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-stances-qng-ad.grc.md) — *Περὶ στάσεων* · `qng-ad`
+- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-preliminary-exercises-qng-ab.grc.md) — *Προγυμνάσματα* · `qng-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-tarsus-testimonies-qng-af.grc.md) — *Μαρτυρίαι* · `qng-af`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Phoenix of Colophon, an archaic Greek iambic poet of the 7th-6th century BCE. Su
 
 ## Works
 
-- [Fragments on Ninus the Assyrian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon-ninus-fragments-ale-aa.grc.md) — *Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου* · `ale-aa`
+- [Fragments on Ninus the Assyrian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-colophon-ninus-fragments-ale-aa.grc.md) — *Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου* · `ale-aa`
 
 ## License and provenance
 

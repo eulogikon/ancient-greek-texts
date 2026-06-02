@@ -19,7 +19,7 @@ Potamon of Mytilene was a second century CE Roman historian. His surviving works
 
 ## Works
 
-- [Historical and Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene-historical-rhetorical-psm-aa.grc.md) — *Ἀποσπάσματα* · `psm-aa`
+- [Historical and Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-mytilene-historical-rhetorical-psm-aa.grc.md) — *Ἀποσπάσματα* · `psm-aa`
 
 ## License and provenance
 

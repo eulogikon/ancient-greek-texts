@@ -19,9 +19,9 @@ Bion of Smyrna was a Hellenistic Greek poet of bucolic verse. Works include the 
 
 ## Works
 
-- [Adonis Epitaph](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-adonis-epitaph-mwq-ab.grc.md) — *Αδώνιδος επιτάφιος* · `mwq-ab`
-- [Myrson and Lycidas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-myrson-lycidas-mwq-aa.grc.md) — *Μύρσων καὶ Λυκίδας* · `mwq-aa`
-- [Pastoral Dialogue on the Seasons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna-seasons-dialogue-mwq-ac.grc.md) — *Ἀποσπάσματα* · `mwq-ac`
+- [Adonis Epitaph](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-smyrna-adonis-epitaph-mwq-ab.grc.md) — *Αδώνιδος επιτάφιος* · `mwq-ab`
+- [Myrson and Lycidas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-smyrna-myrson-lycidas-mwq-aa.grc.md) — *Μύρσων καὶ Λυκίδας* · `mwq-aa`
+- [Pastoral Dialogue on the Seasons](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-smyrna-seasons-dialogue-mwq-ac.grc.md) — *Ἀποσπάσματα* · `mwq-ac`
 
 ## License and provenance
 

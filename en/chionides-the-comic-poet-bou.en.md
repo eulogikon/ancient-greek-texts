@@ -19,8 +19,8 @@ Chionides, an early Athenian comic poet of the 5th century BCE. Includes survivi
 
 ## Works
 
-- [Comic Fragments on Guard Duty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-guard-duty-bou-ab.grc.md) — *Ἀποσπάσματα περὶ Φυλακῆς Κωμικά* · `bou-ab`
-- [Comic Fragments on Spartan Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet-comic-sparta-bou-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά* · `bou-aa`
+- [Comic Fragments on Guard Duty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-guard-duty-bou-ab.grc.md) — *Ἀποσπάσματα περὶ Φυλακῆς Κωμικά* · `bou-ab`
+- [Comic Fragments on Spartan Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-comic-sparta-bou-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά* · `bou-aa`
 
 ## License and provenance
 

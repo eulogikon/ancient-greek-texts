@@ -19,8 +19,8 @@ Leo of Constantinople, a 2nd century CE Roman philosopher. Two surviving philoso
 
 ## Works
 
-- [On the Nature of Men, Synopsis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-nature-men-pqo-aa.grc.md) — *Περὶ Φύσεως Ἀνθρώπων* · `pqo-aa`
-- [Overview of Medicine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople-overview-medicine-pqo-ab.grc.md) — *Σύνοψις Ἰατρικῆς* · `pqo-ab`
+- [On the Nature of Men, Synopsis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-constantinople-nature-men-pqo-aa.grc.md) — *Περὶ Φύσεως Ἀνθρώπων* · `pqo-aa`
+- [Overview of Medicine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-constantinople-overview-medicine-pqo-ab.grc.md) — *Σύνοψις Ἰατρικῆς* · `pqo-ab`
 
 ## License and provenance
 

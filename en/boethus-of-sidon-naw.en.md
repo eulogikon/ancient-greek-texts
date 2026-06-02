@@ -20,7 +20,7 @@ Boethus of Sidon, 1st century BCE Peripatetic philosopher. Surviving philosophic
 
 ## Works
 
-- [Fragments on Nature and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-sidon-nature-fate-naw-aa.grc.md) — *Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης* · `naw-aa`
+- [Fragments on Nature and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-sidon-nature-fate-naw-aa.grc.md) — *Ἀποσπάσματα περὶ Φύσεως καὶ Εἱμαρμένης* · `naw-aa`
 
 ## License and provenance
 

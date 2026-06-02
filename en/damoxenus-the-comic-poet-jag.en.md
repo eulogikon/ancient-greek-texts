@@ -19,8 +19,8 @@ Damoxenus was an Athenian comic poet of New Comedy. Two fragmentary works surviv
 
 ## Works
 
-- [Fragments on Cookery and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας* · `jag-ab`
-- [Fragments on Cookery and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας* · `jag-aa`
+- [Fragments on Cookery and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-cookery-philosophy-jag-ab.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας* · `jag-ab`
+- [Fragments on Cookery and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-cookery-philosophy-jag-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας* · `jag-aa`
 
 ## License and provenance
 

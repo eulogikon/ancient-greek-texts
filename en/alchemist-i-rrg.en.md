@@ -19,17 +19,17 @@ Alchemist I, a Roman era writer on chemistry and transmutation. Works include a 
 
 ## Works
 
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-br-rrg-br.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-br`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bu-rrg-bu.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bu`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bx-rrg-bx.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bx`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bv-rrg-bv.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bv`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bw-rrg-bw.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bw`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bs-rrg-bs.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bs`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bq-rrg-bq.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bq`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-bt-rrg-bt.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bt`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bu.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bu`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bv.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bv`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bx.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bx`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bs.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bs`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bq.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bq`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bw.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bw`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-br.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-br`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bt.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bt`
 - [Alchemical Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.md) — *Λεξικὸν κατὰ στοιχεῖον τῆς* · `rrg-cb`
-- [Alchemical Treatise (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-by-rrg-by.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-by`
-- [Alchemical Treatise (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-bz-rrg-bz.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-bz`
+- [Alchemical Treatise (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-rrg-by.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-by`
+- [Alchemical Treatise (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-rrg-bz.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-bz`
 - [Conclusion of the Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poem-conclusion-rrg-bl.grc.md) — *Συμπέρασμα τῆς ποιήσεως* · `rrg-bl`
 - [Creation of Gold](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gold-creation-rrg-ch.grc.md) — *Χρυσοῦ ποίησις* · `rrg-ch`
 - [Creation of Lime](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lime-creation-rrg-ci.grc.md) — *Ποίησις ἀσβέστου* · `rrg-ci`
@@ -65,20 +65,20 @@ Alchemist I, a Roman era writer on chemistry and transmutation. Works include a 
 - [On the Gathering of Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-gathering-philosophers-rrg-au.grc.md) — *Περὶ συνάξεως τῶν φιλοσόφων* · `rrg-au`
 - [On the Incombustible Sulfur](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-incombustible-sulfur-rrg-bb.grc.md) — *Περὶ τοῦ θείου ἀκαύστου* · `rrg-bb`
 - [On the Making of Beer](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-beer-making-rrg-bn.grc.md) — *Περὶ ζύθων ποιήσεως* · `rrg-bn`
-- [On the Making of Cinnabar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-cinnabar-be-rrg-be.grc.md) — *Περὶ ποιήσεως κινναβάρεως* · `rrg-be`
+- [On the Making of Cinnabar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-cinnabar-rrg-be.grc.md) — *Περὶ ποιήσεως κινναβάρεως* · `rrg-be`
 - [On the Metallic Stone and Where It Is Made](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-metallic-stone-rrg-al.grc.md) — *Περὶ τοῦ μεταλλικοῦ λιθοῦ ἐν οἷς τοῖς τόποις* · `rrg-al`
 - [On the Most Precious and Renowned Goldsmithing](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-precious-goldsmithing-rrg-aj.grc.md) — *Περὶ τῆς τιμιωτάτης καὶ πολυφήμου χρυσοχοϊκῆς* · `rrg-aj`
-- [On the Philosopher's Stone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-philosophers-stone-bd-rrg-bd.grc.md) — *Περὶ τοῦ λίθου τῶν φιλοσόφων* · `rrg-bd`
+- [On the Philosopher's Stone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-philosophers-stone-rrg-bd.grc.md) — *Περὶ τοῦ λίθου τῶν φιλοσόφων* · `rrg-bd`
 - [On the Weight of Dyed Wool, Komaros, and Dye-waters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-dyed-wool-komaros-rrg-ah.grc.md) — *Πόσος ὁ τῶν βαπτομένων ἐρίων σταθμὸς ὤφειλεν καὶ* · `rrg-ah`
 - [On the Whitening of Copper](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-copper-rrg-ar.grc.md) — *Περὶ λευκώσεως (χαλκοῦ)* · `rrg-ar`
 - [On the Whitening of Split Male](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-whitening-split-male-rrg-az.grc.md) — *Περὶ λευκώσεως τοῦ ἀρσενικοῦ τοῦ σχιστοῦ* · `rrg-az`
 - [Onomatopoeia of the Egg, It Is the Mystery of the Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-egg-mystery-art-rrg-af.grc.md) — *Ὀνοματοποιία τοῦ ὠοῦ· αὐτὸ γάρ ἐστιν τὸ* · `rrg-af`
 - [Ouroboros Dragon, Version 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-1-rrg-aw.grc.md) — *Ὁ οὐροβόρος δράκων* · `rrg-aw`
 - [Ouroboros Dragon, Version 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-ouroboros-dragon-version-2-rrg-ax.grc.md) — *Ὁ οὐροβόρος δράκων* · `rrg-ax`
-- [Philosopher's Stone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-philosophers-stone-bk-rrg-bk.grc.md) — *Ὁ λίθος τῆς φιλοσοφίας* · `rrg-bk`
+- [Philosopher's Stone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-philosophers-stone-rrg-bk.grc.md) — *Ὁ λίθος τῆς φιλοσοφίας* · `rrg-bk`
 - [Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-poetry-rrg-cp.grc.md) — *Ἡ ποίησις* · `rrg-cp`
 - [Prayer to the Beehive](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-prayer-beehive-rrg-bo.grc.md) — *Εὐχὴ εἰς τὸ μελίσσιον* · `rrg-bo`
-- [Preparation of Cinnabar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-cinnabar-bj-rrg-bj.grc.md) — *Κινναβάρεως σκευασία* · `rrg-bj`
+- [Preparation of Cinnabar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-cinnabar-rrg-bj.grc.md) — *Κινναβάρεως σκευασία* · `rrg-bj`
 - [Preparation of Foam for Joining Gold, Silver, and Bronze](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-foam-joining-metals-rrg-ae.grc.md) — *Σκευασία ἀφρονίτρου τοῦ ζητουμένου εἰς τὰς* · `rrg-ae`
 - [That the Form Is Composite and Not Simple](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-form-composite-rrg-am.grc.md) — *Ὅτι σύνθετον καὶ οὐχ ἁπλοῦν τὸ εἶδος καὶ τίς ἡ* · `rrg-am`
 - [Use of Emperor Justinian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-justinian-rrg-bf.grc.md) — *Χρῆσις Ἰουστινιανοῦ βασιλέως* · `rrg-bf`

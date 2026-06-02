@@ -26,10 +26,10 @@ The Hermetica are philosophical texts from Roman Egypt. Twenty one treatises on 
 - [Hermes to His Son Tat, That the Invisible God is Most Manifest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-invisible-god-manifest-oqk-ab.grc.md) — *Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν* · `oqk-ab`
 - [Hermes to Tat, The Cup](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-cup-oqk-aq.grc.md) — *Πρὸς Τάτ ὁ κρατήρ ἡ μονάς* · `oqk-aq`
 - [Hermes Trismegistus Key](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-key-oqk-ao.grc.md) — *Κλείς* · `oqk-ao`
-- [Hermes Trismegistus to Asclepius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-ak-oqk-ak.grc.md) — *Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν* · `oqk-ak`
+- [Hermes Trismegistus to Asclepius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-oqk-ak.grc.md) — *Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν* · `oqk-ak`
 - [Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-tat-rebirth-oqk-aa.grc.md) — *Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ* · `oqk-aa`
 - [Hermes Trismegistus, Greatest Evil is Ignorance of God](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-greatest-evil-ignorance-oqk-ac.grc.md) — *Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ* · `oqk-ac`
-- [Hermes Trismegistus, To Asclepius, Be Well](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-af-oqk-af.grc.md) — *Ἀσκληπιῷ εὖ φρονεῖν* · `oqk-af`
+- [Hermes Trismegistus, To Asclepius, Be Well](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-to-asclepius-oqk-af.grc.md) — *Ἀσκληπιῷ εὖ φρονεῖν* · `oqk-af`
 - [Hermes Trismegistus-Common Mind to Tat](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-common-mind-oqk-ah.grc.md) — *Περὶ νοῦ κοινοῦ πρὸς Τάτ* · `oqk-ah`
 - [Hermes Trismegistus-Thought and Perception](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-thought-perception-oqk-ae.grc.md) — *Περὶ νοήσεως καὶ αἰσθήσεως.* · `oqk-ae`
 - [Hermetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica-fragments-oqk-at.grc.md) — *Διάφορα Ἀποσπάσματα* · `oqk-at`

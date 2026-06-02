@@ -19,12 +19,12 @@ Orion of Thebes was a 5th century CE grammarian from Egypt. His works include te
 
 ## Works
 
-- [Anthologion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-anthologion-tme-af.grc.md) — *Ἀνθολόγιον* · `tme-af`
-- [Etymologies (Complete)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-aa-tme-aa.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-aa`
-- [Etymologies (Selection A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ab-tme-ab.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ab`
-- [Etymologies (Selection B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymology-ac-tme-ac.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ac`
-- [Etymologies (Selection C)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ad-tme-ad.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ad`
-- [Etymologies (Selection D)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes-etymological-ae-tme-ae.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ae`
+- [Anthologion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-anthologion-tme-af.grc.md) — *Ἀνθολόγιον* · `tme-af`
+- [Etymologies (Complete)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-etymology-tme-aa.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-aa`
+- [Etymologies (Selection A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-etymology-tme-ab.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ab`
+- [Etymologies (Selection B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-etymology-tme-ac.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ac`
+- [Etymologies (Selection C)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-etymological-tme-ad.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ad`
+- [Etymologies (Selection D)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-thebes-etymological-tme-ae.grc.md) — *Ἐτυμολογικὸν Ἔργον* · `tme-ae`
 
 ## License and provenance
 

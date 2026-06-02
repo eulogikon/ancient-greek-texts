@@ -19,8 +19,8 @@ Pancrates of Egypt was a 2nd century CE epic poet writing in Homeric Greek. Two 
 
 ## Works
 
-- [Fragments on Antinous and Hadrian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-antinous-hadrian-pge-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ* · `pge-aa`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt-testimony-pge-ab.grc.md) — *Μαρτυρία* · `pge-ab`
+- [Fragments on Antinous and Hadrian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-egypt-antinous-hadrian-pge-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀντινόου καὶ Ἁδριανοῦ* · `pge-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-egypt-testimony-pge-ab.grc.md) — *Μαρτυρία* · `pge-ab`
 
 ## License and provenance
 

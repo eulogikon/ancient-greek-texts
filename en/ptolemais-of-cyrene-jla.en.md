@@ -20,7 +20,7 @@ Ptolemais of Cyrene was a Hellenistic Pythagorean philosopher. Her treatise expl
 
 ## Works
 
-- [Fragments-Music](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-of-cyrene-music-jla-aa.grc.md) — *Ἀποσπάσματα περὶ Μουσικῆς* · `jla-aa`
+- [Fragments-Music](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemais-cyrene-music-jla-aa.grc.md) — *Ἀποσπάσματα περὶ Μουσικῆς* · `jla-aa`
 
 ## License and provenance
 

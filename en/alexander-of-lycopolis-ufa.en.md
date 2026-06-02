@@ -20,7 +20,7 @@ Alexander of Lycopolis, a 3rd century pagan philosopher from Egypt. His treatise
 
 ## Works
 
-- [Treatise-the Doctrines of the Manichaeans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-lycopolis-manichaean-doctrines-ufa-aa.grc.md) — *Πραγματεία Περὶ τῶν Μανιχαίων Δογμάτων* · `ufa-aa`
+- [Treatise-the Doctrines of the Manichaeans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-lycopolis-manichaean-doctrines-ufa-aa.grc.md) — *Πραγματεία Περὶ τῶν Μανιχαίων Δογμάτων* · `ufa-aa`
 
 ## License and provenance
 

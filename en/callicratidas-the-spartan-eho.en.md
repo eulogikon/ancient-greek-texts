@@ -19,7 +19,7 @@ Callicratidas, a Spartan naval commander of the 5th century BCE. Philosophical t
 
 ## Works
 
-- [On Household Happiness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan-household-happiness-eho-aa.grc.md) — *Ἀποσπάσματα* · `eho-aa`
+- [On Household Happiness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-spartan-household-happiness-eho-aa.grc.md) — *Ἀποσπάσματα* · `eho-aa`
 
 ## License and provenance
 

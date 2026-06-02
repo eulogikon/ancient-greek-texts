@@ -19,7 +19,7 @@ Themison was a 1st century CE historian in the Roman era. His surviving historic
 
 ## Works
 
-- [On the Pallenian Festival](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian-pallenian-festival-nra-aa.grc.md) — *Ἀπόσπασμα* · `nra-aa`
+- [On the Pallenian Festival](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-pallenian-festival-nra-aa.grc.md) — *Ἀπόσπασμα* · `nra-aa`
 
 ## License and provenance
 

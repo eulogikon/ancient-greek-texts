@@ -19,8 +19,8 @@ Epicrates, an Athenian comic poet of the early 4th century BCE. Surviving fragme
 
 ## Works
 
-- [Fragments on Lais the Courtesan](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-ab-fka-ab.grc.md) — *Ἀποσπάσματα περὶ Λαΐδος τῆς ἑταίρας* · `fka-ab`
-- [Fragments on Lais the Hetaira](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic-lais-fragments-aa-fka-aa.grc.md) — *Ἀποσπάσματα περὶ Λαΐδος τῆς Ἑταίρας* · `fka-aa`
+- [Fragments on Lais the Courtesan](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-lais-fragments-fka-ab.grc.md) — *Ἀποσπάσματα περὶ Λαΐδος τῆς ἑταίρας* · `fka-ab`
+- [Fragments on Lais the Hetaira](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-lais-fragments-fka-aa.grc.md) — *Ἀποσπάσματα περὶ Λαΐδος τῆς Ἑταίρας* · `fka-aa`
 
 ## License and provenance
 

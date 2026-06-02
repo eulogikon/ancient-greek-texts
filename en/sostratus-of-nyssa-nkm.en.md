@@ -19,7 +19,7 @@ Sostratus of Nyssa was a Hellenistic grammarian of the 1st century BCE. His gram
 
 ## Works
 
-- [Mythical Histories and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-of-nyssa-mythical-histories-nkm-aa.grc.md) — *Ἀποσπάσματα* · `nkm-aa`
+- [Mythical Histories and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-nyssa-mythical-histories-nkm-aa.grc.md) — *Ἀποσπάσματα* · `nkm-aa`
 
 ## License and provenance
 

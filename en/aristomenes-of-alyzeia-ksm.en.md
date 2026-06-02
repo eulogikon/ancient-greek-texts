@@ -19,8 +19,8 @@ Aristomenes of Alyzeia was a Hellenistic comic poet of the 3rd century BCE. Surv
 
 ## Works
 
-- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-comic-feast-ksm-ab.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `ksm-ab`
-- [Sympotic and Culinary Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia-sympotic-culinary-ksm-aa.grc.md) — *Ἀποσπάσματα* · `ksm-aa`
+- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-alyzeia-comic-feast-ksm-ab.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `ksm-ab`
+- [Sympotic and Culinary Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-alyzeia-sympotic-culinary-ksm-aa.grc.md) — *Ἀποσπάσματα* · `ksm-aa`
 
 ## License and provenance
 

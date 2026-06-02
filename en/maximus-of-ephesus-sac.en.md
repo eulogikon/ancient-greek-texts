@@ -19,8 +19,8 @@ Maximus of Ephesus, 4th century CE Neoplatonic philosopher. Works from the Iambl
 
 ## Works
 
-- [On Beginnings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-ab-sac-ab.grc.md) — *Περὶ καταρχῶν* · `sac-ab`
-- [On Beginnings, Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus-beginnings-aa-sac-aa.grc.md) — *Περὶ καταρχῶν* · `sac-aa`
+- [On Beginnings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-ephesus-beginnings-sac-ab.grc.md) — *Περὶ καταρχῶν* · `sac-ab`
+- [On Beginnings, Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-ephesus-beginnings-sac-aa.grc.md) — *Περὶ καταρχῶν* · `sac-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Philumenus was a Greek physician of the Roman Imperial period and a Methodist sc
 
 ## Works
 
-- [On Venomous Animals and Their Remedies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-the-physician-venomous-animals-remedies-rsu-aa.grc.md) — *Περὶ Δηλητηριωδῶν Ζῴων καὶ Ἰαμάτων* · `rsu-aa`
+- [On Venomous Animals and Their Remedies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-venomous-animals-remedies-rsu-aa.grc.md) — *Περὶ Δηλητηριωδῶν Ζῴων καὶ Ἰαμάτων* · `rsu-aa`
 
 ## License and provenance
 

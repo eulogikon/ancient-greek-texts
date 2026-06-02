@@ -19,7 +19,7 @@ Michael Apostolius, a 15th century Byzantine grammarian proverb collector. His s
 
 ## Works
 
-- [Collection of Proverbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/michael-apostolius-proverbs-tjc-aa.grc.md) — *Συλλογὴ Παροιμιῶν* · `tjc-aa`
+- [Collection of Proverbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apostolius-proverbs-tjc-aa.grc.md) — *Συλλογὴ Παροιμιῶν* · `tjc-aa`
 
 ## License and provenance
 

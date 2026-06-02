@@ -19,7 +19,7 @@ Myrsilus of Methymna was a Hellenistic historian. Surviving fragments of his his
 
 ## Works
 
-- [Fragments on Ancient Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-of-methymna-ancient-geography-jpq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀρχαίας Γεωγραφίας* · `jpq-aa`
+- [Fragments on Ancient Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-methymna-ancient-geography-jpq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀρχαίας Γεωγραφίας* · `jpq-aa`
 
 ## License and provenance
 

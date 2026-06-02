@@ -19,7 +19,7 @@ Thallus the Historian, a 1st century CE Roman chronicler. Fragments of his histo
 
 ## Works
 
-- [Historical Fragments on Saturn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-the-historian-historical-fragments-nqq-aa.grc.md) — *Ἀποσπάσματα περὶ Κρόνου* · `nqq-aa`
+- [Historical Fragments on Saturn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thallus-historical-fragments-nqq-aa.grc.md) — *Ἀποσπάσματα περὶ Κρόνου* · `nqq-aa`
 
 ## License and provenance
 

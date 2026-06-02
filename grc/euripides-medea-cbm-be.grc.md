@@ -74,6 +74,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 φυγῆι πολιτῶν ὧν ἀφίκετο χθόνα
 
+*[crux: φυγῆι πολιτῶν]*
+
 ### 10.4
 
 αὐτῶι τε πάντα ξυμφέρους’ Ἰάσονι·
@@ -1313,6 +1315,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 330.5
 
 Μη. πονοῦμεν ἡμεῖς κοὐ πόνων κεχρήμεθα.
+
+*[crux: πονοῦμεν ἡμεῖς κοὐ πόνων κεχρήμεθα.]*
 
 ### 335.1
 
@@ -2946,6 +2950,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὡς καὶ δοκεῖ μοι ταῦτα καὶ καλῶς ἔχει
 
+*[crux: ὡς καὶ δοκεῖ μοι ταῦτα καὶ καλῶς ἔχει]*
+
 ### 775.4
 
 γάμους τυράννων οὓς προδοὺς ἡμᾶς ἔχει,
@@ -3214,6 +3220,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πόθεν θράσος ἢ φρενὸς ἢ
 
+*[crux: ἢ]*
+
 ### 855.3
 
 χειρὶ τέκνων σέθεν
@@ -3417,6 +3425,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 910.1
 
 γάμους παρεμπολῶντος ἀλλοίους πόσει.
+
+*[crux: γάμους παρεμπολῶντος ἀλλοίους πόσει]*
 
 ### 910.2
 
@@ -4053,6 +4063,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1075.3
 
 οἵα τε πρὸς ὑμᾶς ἀλλὰ νικῶμαι κακοῖς.
+
+*[crux: πρὸς ὑμᾶς]*
 
 ### 1075.4
 
@@ -4746,6 +4758,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ναν φονίαν τ’ Ἐρινὺν ὑπ’ ἀλαστόρων.
 
+*[crux: ὑπ’ ἀλαστόρων]*
+
 ### 1260.2
 
 μάταν μόχθος ἔρρει τέκνων,
@@ -4781,6 +4795,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1265.5
 
 σματ’ ἐπὶ γαῖαν αὐτοφόνταις ξυνωι‐
+
+*[crux: ἐπὶ γαῖαν]*
 
 ### 1270
 

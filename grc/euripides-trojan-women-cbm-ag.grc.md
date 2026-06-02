@@ -522,6 +522,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 βαίνουσαι πλεκτὰν Αἰγύπτου
 
+*[crux: πλεκτὰν]*
+
 ### 125.5
 
 παιδείαν ἐξηρτήσασθ’,
@@ -549,6 +551,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 135.1
 
 τὸν πεντήκοντ’ ἀροτῆρα τέκνων Πρίαμον, ἐμέ τε μελέαν Ἑκάβαν
+
+*[crux: Πρίαμον, ἐμέ τε μελέαν Ἑκάβαν]*
 
 ### 135.2
 
@@ -586,6 +590,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 καὶ κόραι δύσνυμφαι,
 
+*[crux: καὶ κόραι δύσνυμφαι]*
+
 ### 145.1
 
 τύφεται Ἴλιον, αἰάζωμεν.
@@ -597,6 +603,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 145.3
 
 ὄρνισιν ὅπως ἐξάρξω ’γὼ
+
+*[crux: ὄρνισιν]*
 
 ### 145.4
 
@@ -930,6 +938,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ἰονίωι ναύται πόντωι,
 
+*[crux: Ἰονίωι ναύται πόντωι]*
+
 ### 225.2
 
 ἃν ὑγραίνει καλλιστεύων ὁ ξανθὰν χαίταν πυρσαίνων
@@ -985,6 +995,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 235.5
 
 Εκ. τόδε τόδε φίλαι γυναῖκες ὃ φόβος ἦν πάλαι.
+
+*[crux: τόδε τόδε φίλαι γυναῖκες]*
 
 ### 240.1
 
@@ -1073,6 +1085,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 260.2
 
 ποῦ μοι;
+
+*[crux: ποῦ μοι]*
 
 ### 260.3
 
@@ -1178,6 +1192,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 γοᾶσθ’, ὦ Τρωιάδες, με.
 
+*[crux: γοᾶσθ’]*
+
 ### 290.1
 
 βέβακα δύσποτμος οἴχομαι ἁ
@@ -1281,6 +1297,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 315.1
 
 ἐπεὶ σύ, μᾶτερ, ἐπὶ δάκρυσι καὶ
+
+*[crux: ἐπὶ δάκρυσι καὶ]*
 
 ### 315.2
 
@@ -1750,6 +1768,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 οὗ δὴ στενὸν δίαυλον ὤικισται πέτρας
 
+*[crux: οὗ δὴ στενὸν δίαυλον ὤικισται πέτρας]*
+
 ### 435.2
 
 δεινὴ Χάρυβδις ὠμοβρώς τ’ ὀρειβάτης Κύκλωψ Λιγυστίς θ’ ἡ συῶν μορφώτρια
@@ -2166,6 +2186,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δόμοις δὲ παμφαὲς σέλας πυρὸς μέλαιναν αἴγλαν ἔδωκεν ὕπνωι.
 
+*[crux: ἔδωκεν ὕπνωι]*
+
 ### 545.5
 
 ἐγὼ δὲ τὰν ὀρεστέραν
@@ -2330,6 +2352,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Αν. σύ τ’, ὦ λῦμ’ Ἀχαιῶν
 
+*[crux: σύ τ’]*
+
 ### 590.3
 
 Εκ. τέκνων δή ποθ’ ἁμῶν
@@ -2377,6 +2401,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 595.9
 
 οἷος ἰάλεμος οἷά τε πένθη
+
+*[crux: οἷος ἰάλεμος οἷά τε πένθη]*
 
 ### 605
 
@@ -2509,6 +2535,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 635.4
 
 ἀλγεῖ γὰρ οὐδὲν τῶν κακῶν ἠισθημένος·
+
+*[crux: ἀλγεῖ γὰρ οὐδὲν τῶν κακῶν ἠισθημένος·]*
 
 ### 635.5
 
@@ -4186,6 +4214,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δάκρυσι κατάορα στένει βοᾶι βοᾶι
 
+*[crux: κατάορα στένει]*
+
 ### 1090.2
 
 Μᾶτερ, ὤμοι, μόναν δή μ’ Ἀχαιοὶ κομί‐
@@ -4225,6 +4255,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1095.7
 
 αἰγαίου κεραυνοφαὲς πῦρ,
+
+*[crux: αἰγαίου]*
 
 ### 1105.1
 
@@ -4610,6 +4642,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πηδῶσι, κοὐδεὶς αὐτὸς εὐτυχεῖ ποτε.
 
+*[crux: κοὐδεὶς αὐτὸς εὐτυχεῖ ποτε]*
+
 ### 1205.3
 
 Χο. καὶ μὴν πρὸ χειρῶν αἵδε σοι σκυλευμάτων
@@ -4629,6 +4663,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1210.2
 
 τιμῶσιν οὐκ ἐς πλησμονὰς θηρώμενοι,
+
+*[crux: οὐκ ἐς πλησμονὰς θηρώμενοι]*
 
 ### 1210.3
 
@@ -4742,9 +4778,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Χο. Ἑκάβη, σὰς ἔνεπε· τίνα θροεῖς αὐδάν;
 
+*[crux: Ἑκάβη, σὰς]*
+
 ### 1240.1
 
 Εκ. οὐκ ἦν ἄρ’ ἐν θεοῖσι πλὴν οὑμοὶ πόνοι
+
+*[crux: οὐκ ἦν ἄρ’ ἐν θεοῖσι]*
 
 ### 1240.2
 
@@ -4934,6 +4974,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πάτερ ἀνάξια τῆς Δαρδανίου
 
+*[crux: πάτερ ἀνάξια τῆς Δαρδανίου]*
+
 ### 1290.1
 
 γονᾶς, τάδ’ οἷα πάσχομεν δέδορκας;
@@ -4953,6 +4995,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1295.1
 
 λέλαμπεν Ἴλιος, Περ‐
+
+*[crux: λέλαμπεν]*
 
 ### 1295.2
 

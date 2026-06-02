@@ -19,7 +19,7 @@ Asclepiades of Tragilus, 4th century BCE mythographer. Works include fragments o
 
 ## Works
 
-- [Tragic Myths and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-tragilus-myths-legends-gsg-aa.grc.md) — *Ἀποσπάσματα* · `gsg-aa`
+- [Tragic Myths and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-tragilus-myths-legends-gsg-aa.grc.md) — *Ἀποσπάσματα* · `gsg-aa`
 
 ## License and provenance
 

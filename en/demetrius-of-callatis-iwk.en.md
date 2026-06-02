@@ -19,7 +19,7 @@ Demetrius of Callatis was a Hellenistic historian of the 3rd-2nd century BCE. Hi
 
 ## Works
 
-- [Fragments on Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis-geography-iwk-aa.grc.md) — *Ἀποσπάσματα περὶ Γεωγραφίας* · `iwk-aa`
+- [Fragments on Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-callatis-geography-iwk-aa.grc.md) — *Ἀποσπάσματα περὶ Γεωγραφίας* · `iwk-aa`
 
 ## License and provenance
 

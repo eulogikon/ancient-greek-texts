@@ -19,9 +19,9 @@ Euphorion of ChalcisHellenistic epic poet of the 3rd century BCE. Surviving work
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-epigrams-kog-ac.grc.md) — *Ἐπιγράμματα* · `kog-ac`
-- [Fragments on Ajax and Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-ajax-myth-kog-ab.grc.md) — *Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου* · `kog-ab`
-- [Fragments on Myth and Divinity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis-myth-divinity-kog-aa.grc.md) — *Ἀποσπάσματα περὶ Μύθου καὶ Θειότητος* · `kog-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-chalcis-epigrams-kog-ac.grc.md) — *Ἐπιγράμματα* · `kog-ac`
+- [Fragments on Ajax and Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-chalcis-ajax-myth-kog-ab.grc.md) — *Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου* · `kog-ab`
+- [Fragments on Myth and Divinity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-chalcis-myth-divinity-kog-aa.grc.md) — *Ἀποσπάσματα περὶ Μύθου καὶ Θειότητος* · `kog-aa`
 
 ## License and provenance
 

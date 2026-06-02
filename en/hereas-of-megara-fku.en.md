@@ -19,7 +19,7 @@ Hereas of Megara was a 4th century BCE historian writing in Attic prose. Survivi
 
 ## Works
 
-- [Megarian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-of-megara-historical-fragments-fku-aa.grc.md) — *Ἀποσπάσματα* · `fku-aa`
+- [Megarian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hereas-megara-historical-fragments-fku-aa.grc.md) — *Ἀποσπάσματα* · `fku-aa`
 
 ## License and provenance
 

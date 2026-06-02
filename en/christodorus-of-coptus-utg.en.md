@@ -19,9 +19,9 @@ Christodorus of Coptus was a late antique epic poet writing in Homeric dialect. 
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-epigrams-utg-ab.grc.md) — *Ἐπιγράμματα* · `utg-ab`
-- [Fragments on Lydian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-lydia-genealogy-utg-ac.grc.md) — *Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας* · `utg-ac`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus-testimony-utg-aa.grc.md) — *Μαρτυρία* · `utg-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-coptus-epigrams-utg-ab.grc.md) — *Ἐπιγράμματα* · `utg-ab`
+- [Fragments on Lydian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-coptus-lydia-genealogy-utg-ac.grc.md) — *Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας* · `utg-ac`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-coptus-testimony-utg-aa.grc.md) — *Μαρτυρία* · `utg-aa`
 
 ## License and provenance
 

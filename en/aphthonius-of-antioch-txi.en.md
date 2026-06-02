@@ -20,7 +20,7 @@ Aphthonius of Antioch, a late antique sophist. His surviving works include orati
 
 ## Works
 
-- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-of-antioch-preliminary-exercises-txi-aa.grc.md) — *Προγυμνάσματα* · `txi-aa`
+- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aphthonius-antioch-preliminary-exercises-txi-aa.grc.md) — *Προγυμνάσματα* · `txi-aa`
 
 ## License and provenance
 

@@ -20,8 +20,8 @@ Brontinus, early Pythagorean philosopher from 6th century BCE Metapontum. Surviv
 
 ## Works
 
-- [On Mind and Thought](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-mind-thought-azu-ab.grc.md) — *Ἀπόσπασμα* · `azu-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum-testimonies-azu-aa.grc.md) — *Μαρτυρίαι* · `azu-aa`
+- [On Mind and Thought](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-metapontum-mind-thought-azu-ab.grc.md) — *Ἀπόσπασμα* · `azu-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-metapontum-testimonies-azu-aa.grc.md) — *Μαρτυρίαι* · `azu-aa`
 
 ## License and provenance
 

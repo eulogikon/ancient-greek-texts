@@ -19,7 +19,7 @@ Trophonius the Oracle, a prophetic figure from the Classical period. Surviving o
 
 ## Works
 
-- [Introduction to the Art of Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-the-oracle-art-of-rhetoric-cda-aa.grc.md) — *Εἰσαγωγὴ εἰς τὴν τέχνην τῆς ῥητορικῆς* · `cda-aa`
+- [Introduction to the Art of Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/trophonius-art-of-rhetoric-cda-aa.grc.md) — *Εἰσαγωγὴ εἰς τὴν τέχνην τῆς ῥητορικῆς* · `cda-aa`
 
 ## License and provenance
 

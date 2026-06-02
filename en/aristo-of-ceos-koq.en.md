@@ -20,7 +20,7 @@ Aristo of Ceos, 3rd century BCE Peripatetic philosopher. His surviving treatises
 
 ## Works
 
-- [Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-of-ceos-rhetorical-fragments-koq-aa.grc.md) — *Ῥητορικὰ Ἀποσπάσματα* · `koq-aa`
+- [Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristo-ceos-rhetorical-fragments-koq-aa.grc.md) — *Ῥητορικὰ Ἀποσπάσματα* · `koq-aa`
 
 ## License and provenance
 

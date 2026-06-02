@@ -19,8 +19,8 @@ Aristophanes of Boeotia, a 4th century BCE Aeolic Greek historian. Surviving fra
 
 ## Works
 
-- [Boeotian Histories and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-histories-legends-guo-aa.grc.md) — *Ἀποσπάσματα* · `guo-aa`
-- [Fragments on Boeotian Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia-fragments-heroes-guo-ab.grc.md) — *Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων* · `guo-ab`
+- [Boeotian Histories and Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-boeotia-histories-legends-guo-aa.grc.md) — *Ἀποσπάσματα* · `guo-aa`
+- [Fragments on Boeotian Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-boeotia-fragments-heroes-guo-ab.grc.md) — *Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων* · `guo-ab`
 
 ## License and provenance
 

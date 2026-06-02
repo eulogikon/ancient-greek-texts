@@ -20,8 +20,8 @@ Melissus of Samos, 5th century BCE Eleatic philosopher. Surviving fragments of h
 
 ## Works
 
-- [On Nature or On Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-nature-being-diy-ab.grc.md) — *Ἀποσπάσματα* · `diy-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-of-samos-testimonies-diy-aa.grc.md) — *Μαρτυρίαι* · `diy-aa`
+- [On Nature or On Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-samos-nature-being-diy-ab.grc.md) — *Ἀποσπάσματα* · `diy-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissus-samos-testimonies-diy-aa.grc.md) — *Μαρτυρίαι* · `diy-aa`
 
 ## License and provenance
 

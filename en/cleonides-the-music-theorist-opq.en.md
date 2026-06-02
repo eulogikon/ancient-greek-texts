@@ -19,7 +19,7 @@ Cleonides, a 2nd century CE Greek music theorist. His surviving treatise explain
 
 ## Works
 
-- [Harmonic Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-the-music-theorist-harmonic-introduction-opq-aa.grc.md) — *Εἰσαγωγὴ ἁρμονική* · `opq-aa`
+- [Harmonic Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleonides-harmonic-introduction-opq-aa.grc.md) — *Εἰσαγωγὴ ἁρμονική* · `opq-aa`
 
 ## License and provenance
 

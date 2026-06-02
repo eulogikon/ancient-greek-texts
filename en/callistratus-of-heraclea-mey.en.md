@@ -19,7 +19,7 @@ Callistratus of Heraclea Pontica, Hellenistic historian of the 2nd century BCE. 
 
 ## Works
 
-- [On Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea-on-heraclea-mey-aa.grc.md) — *Ἀποσπάσματα* · `mey-aa`
+- [On Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-heraclea-on-heraclea-mey-aa.grc.md) — *Ἀποσπάσματα* · `mey-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Pythermus of Ephesus, Archaic era historian writing in Ionic Greek. His historic
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-of-ephesus-historical-fragments-age-aa.grc.md) — *Ἀποσπάσματα* · `age-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythermus-ephesus-historical-fragments-age-aa.grc.md) — *Ἀποσπάσματα* · `age-aa`
 
 ## License and provenance
 

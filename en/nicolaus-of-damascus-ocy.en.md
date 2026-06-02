@@ -19,7 +19,7 @@ Nicolaus of Damascus, a Roman era historian writing in Koine Greek. Surviving hi
 
 ## Works
 
-- [On the Life of Antipater](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-damascus-life-antipater-ocy-aa.grc.md) — *Ἀποσπάσματα* · `ocy-aa`
+- [On the Life of Antipater](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-damascus-life-antipater-ocy-aa.grc.md) — *Ἀποσπάσματα* · `ocy-aa`
 
 ## License and provenance
 

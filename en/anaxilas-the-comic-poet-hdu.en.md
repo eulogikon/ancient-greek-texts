@@ -19,8 +19,8 @@ Anaxilas was a 4th century BCE Athenian comic poet. Fragments from his comedies 
 
 ## Works
 
-- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-comic-fragments-hdu-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `hdu-ab`
-- [Fragments on Rural Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet-rural-life-hdu-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ* · `hdu-aa`
+- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-comic-fragments-hdu-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `hdu-ab`
+- [Fragments on Rural Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-rural-life-hdu-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ* · `hdu-aa`
 
 ## License and provenance
 

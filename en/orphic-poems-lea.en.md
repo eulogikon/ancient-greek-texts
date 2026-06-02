@@ -24,8 +24,8 @@ Orphic Poems are Hellenistic religious texts attributed to Orpheus. Ten survivin
 - [Fragments on Medicinal Herbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-medicinal-herbs-lea-af.grc.md) — *Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν* · `lea-af`
 - [Fragments P. Derveni](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-derveni-lea-ac.grc.md) — *Ἀποσπάσματα Π. Δερβενίου* · `lea-ac`
 - [Hymns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-hymns-lea-aj.grc.md) — *Ὕμνοι* · `lea-aj`
-- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ai-lea-ai.grc.md) — *Περὶ λίθων* · `lea-ai`
-- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-ah-lea-ah.grc.md) — *Περὶ λίθων* · `lea-ah`
+- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-lea-ai.grc.md) — *Περὶ λίθων* · `lea-ai`
+- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-stones-lea-ah.grc.md) — *Περὶ λίθων* · `lea-ah`
 - [Orphic Cosmogony and Soul Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-cosmogony-soul-lea-ag.grc.md) — *Ἀποσπάσματα* · `lea-ag`
 - [Proclamations-Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-proclamations-stones-lea-aa.grc.md) — *Προκηρύξεις περὶ λίθων* · `lea-aa`
 - [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems-testimonies-lea-ae.grc.md) — *Μαρτυρίαι* · `lea-ae`

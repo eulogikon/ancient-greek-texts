@@ -19,9 +19,9 @@ Marcian of Heraclea, a 4th-5th century CE geographer. Works include geographical
 
 ## Works
 
-- [Geography of Artemidorus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea-geography-szc-ac.grc.md) — *Γεωγραφία Ἀρτεμιδώρου* · `szc-ac`
-- [Menippus' Voyage Around the Inner Sea, Epitome of Marcianus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea-menippus-voyage-szc-aa.grc.md) — *Μένιππος Περίπλους τοῦ Ἐσωτερικοῦ Πελάγους* · `szc-aa`
-- [Periplus of the Outer Sea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea-outer-sea-szc-ab.grc.md) — *Περίπλους τοῦ Ἐξωτερικοῦ Πελάγους* · `szc-ab`
+- [Geography of Artemidorus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-heraclea-geography-szc-ac.grc.md) — *Γεωγραφία Ἀρτεμιδώρου* · `szc-ac`
+- [Menippus' Voyage Around the Inner Sea, Epitome of Marcianus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-heraclea-menippus-voyage-szc-aa.grc.md) — *Μένιππος Περίπλους τοῦ Ἐσωτερικοῦ Πελάγους* · `szc-aa`
+- [Periplus of the Outer Sea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-heraclea-outer-sea-szc-ab.grc.md) — *Περίπλους τοῦ Ἐξωτερικοῦ Πελάγους* · `szc-ab`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Theagenes of Rhegium, a 6th century BCE thinker, pioneered allegorical interpret
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-rhegium-testimonies-eow-aa.grc.md) — *Μαρτυρίαι* · `eow-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-rhegium-testimonies-eow-aa.grc.md) — *Μαρτυρίαι* · `eow-aa`
 
 ## License and provenance
 

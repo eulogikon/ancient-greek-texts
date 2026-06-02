@@ -19,10 +19,10 @@ Dionysius the Thracian was a Hellenistic grammarian. His works include grammatic
 
 ## Works
 
-- [Fragments on Homeric Pronunciation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-homeric-pronunciation-mui-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προφορᾶς* · `mui-ab`
-- [Grammatical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-grammatical-art-mui-aa.grc.md) — *Γραμματικὴ Τέχνη* · `mui-aa`
-- [On the Foundation of Tarsus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-foundation-tarsus-mui-ad.grc.md) — *Ἀπόσπασμα* · `mui-ad`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian-testimony-mui-ac.grc.md) — *Μαρτυρία* · `mui-ac`
+- [Fragments on Homeric Pronunciation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-thrace-homeric-pronunciation-mui-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προφορᾶς* · `mui-ab`
+- [Grammatical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-thrace-grammatical-art-mui-aa.grc.md) — *Γραμματικὴ Τέχνη* · `mui-aa`
+- [On the Foundation of Tarsus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-thrace-foundation-tarsus-mui-ad.grc.md) — *Ἀπόσπασμα* · `mui-ad`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-thrace-testimony-mui-ac.grc.md) — *Μαρτυρία* · `mui-ac`
 
 ## License and provenance
 

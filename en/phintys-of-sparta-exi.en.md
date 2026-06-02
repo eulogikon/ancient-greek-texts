@@ -20,7 +20,7 @@ Phintys was a Spartan Pythagorean philosopher of the 4th century BCE. Her treati
 
 ## Works
 
-- [On Female Modesty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta-female-modesty-exi-aa.grc.md) — *Ἀποσπάσματα* · `exi-aa`
+- [On Female Modesty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-sparta-female-modesty-exi-aa.grc.md) — *Ἀποσπάσματα* · `exi-aa`
 
 ## License and provenance
 

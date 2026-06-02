@@ -19,7 +19,7 @@ Theagenes of Macedon, a Hellenistic historian of the 3rd century BCE. Read his s
 
 ## Works
 
-- [Macedonian Historical Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-macedon-historical-geography-jjm-aa.grc.md) — *Ἀποσπάσματα* · `jjm-aa`
+- [Macedonian Historical Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-macedon-historical-geography-jjm-aa.grc.md) — *Ἀποσπάσματα* · `jjm-aa`
 
 ## License and provenance
 

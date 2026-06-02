@@ -20,7 +20,7 @@ Hermarchus, Epicurean philosopher from Mytilene. Surviving philosophical treatis
 
 ## Works
 
-- [Epicurean Biographical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermarchus-of-mytilene-biographical-fragments-jbk-aa.grc.md) — *Ἀποσπάσματα* · `jbk-aa`
+- [Epicurean Biographical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermarchus-mytilene-biographical-fragments-jbk-aa.grc.md) — *Ἀποσπάσματα* · `jbk-aa`
 
 ## License and provenance
 

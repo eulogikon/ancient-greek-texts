@@ -19,8 +19,8 @@ Sosipater was a Hellenistic Greek comic poet of the 2nd century BCE. Two survivi
 
 ## Works
 
-- [Cook's Profession](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooks-profession-ilg-aa.grc.md) — *Ἀποσπάσματα* · `ilg-aa`
-- [On the Art of Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet-cooking-ilg-ab.grc.md) — *Ἀποσπάσματα* · `ilg-ab`
+- [Cook's Profession](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-cooks-profession-ilg-aa.grc.md) — *Ἀποσπάσματα* · `ilg-aa`
+- [On the Art of Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-cooking-ilg-ab.grc.md) — *Ἀποσπάσματα* · `ilg-ab`
 
 ## License and provenance
 

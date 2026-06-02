@@ -19,7 +19,7 @@ John Argyropoulos, 15th century grammarian in Philosophical Koine. His surviving
 
 ## Works
 
-- [Introduction to Aphthonius' Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-argyropoulos-aphthonius-exercises-ttc-aa.grc.md) — *Εἰσαγωγὴ εἰς τὰ προκαταρκτικὰ τοῦ Ἀφθονίου* · `ttc-aa`
+- [Introduction to Aphthonius' Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/argyropoulos-aphthonius-exercises-ttc-aa.grc.md) — *Εἰσαγωγὴ εἰς τὰ προκαταρκτικὰ τοῦ Ἀφθονίου* · `ttc-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Theocritus of Chios was a 4th century BCE orator. Two surviving orations are pre
 
 ## Works
 
-- [Epigram Against Aristotle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-against-aristotle-elk-ab.grc.md) — *Ἀπόσπασμα* · `elk-ab`
-- [Epitaph for Aristotele](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios-epitaph-aristotele-elk-aa.grc.md) — *Ἀπόσπασμα* · `elk-aa`
+- [Epigram Against Aristotle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-chios-against-aristotle-elk-ab.grc.md) — *Ἀπόσπασμα* · `elk-ab`
+- [Epitaph for Aristotele](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-chios-epitaph-aristotele-elk-aa.grc.md) — *Ἀπόσπασμα* · `elk-aa`
 
 ## License and provenance
 

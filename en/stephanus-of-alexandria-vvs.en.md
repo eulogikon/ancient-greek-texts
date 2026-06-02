@@ -20,7 +20,7 @@ Stephanus of Alexandria, a late antique Neoplatonic philosopher. His surviving p
 
 ## Works
 
-- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-of-alexandria-commentary-aristotle-vvs-aa.grc.md) — *Σχόλια εἰς τὸν Ἀριστοτέλην Ἐλληνιστί* · `vvs-aa`
+- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-alexandria-commentary-aristotle-vvs-aa.grc.md) — *Σχόλια εἰς τὸν Ἀριστοτέλην Ἐλληνιστί* · `vvs-aa`
 
 ## License and provenance
 

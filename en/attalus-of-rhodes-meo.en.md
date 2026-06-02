@@ -19,7 +19,7 @@ Attalus of Rhodes, a Hellenistic scientific author of the 2nd century BCE. Featu
 
 ## Works
 
-- [Fragments of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/attalus-of-rhodes-fragments-aratus-meo-aa.grc.md) — *Ἀποσπάσματα Ἄρατου* · `meo-aa`
+- [Fragments of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/attalus-rhodes-fragments-aratus-meo-aa.grc.md) — *Ἀποσπάσματα Ἄρατου* · `meo-aa`
 
 ## License and provenance
 

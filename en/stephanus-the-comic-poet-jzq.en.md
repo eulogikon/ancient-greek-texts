@@ -19,8 +19,8 @@ Stephanus was a Hellenistic Athenian comic poet of the 4th-3rd centuries BCE. Tw
 
 ## Works
 
-- [King's Gift at Thuria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab.grc.md) — *Ἀπόσπασμα* · `jzq-ab`
-- [King's Gift of a Village](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa.grc.md) — *Ἀπόσπασμα* · `jzq-aa`
+- [King's Gift at Thuria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-comic-kings-gift-at-thuria-jzq-ab.grc.md) — *Ἀπόσπασμα* · `jzq-ab`
+- [King's Gift of a Village](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-comic-kings-gift-of-a-village-jzq-aa.grc.md) — *Ἀπόσπασμα* · `jzq-aa`
 
 ## License and provenance
 

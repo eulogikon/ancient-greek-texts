@@ -19,8 +19,8 @@ Mimnermus of Colophon, 7th century BCE Greek elegiac poet. Surviving fragments o
 
 ## Works
 
-- [Fragments on Smyrna and Colonization](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-smyrna-colonization-aly-ab.grc.md) — *Ἀποσπάσματα περὶ Σμύρνης καὶ Ἀποικισμοῦ* · `aly-ab`
-- [On Youth and Old Age](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-youth-old-age-aly-aa.grc.md) — *Ἀποσπάσματα* · `aly-aa`
+- [Fragments on Smyrna and Colonization](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-colophon-smyrna-colonization-aly-ab.grc.md) — *Ἀποσπάσματα περὶ Σμύρνης καὶ Ἀποικισμοῦ* · `aly-ab`
+- [On Youth and Old Age](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-colophon-youth-old-age-aly-aa.grc.md) — *Ἀποσπάσματα* · `aly-aa`
 
 ## License and provenance
 

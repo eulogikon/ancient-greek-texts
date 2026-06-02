@@ -19,8 +19,8 @@ Cephisodorus was a classical Athenian comic poet. Surviving fragments from his c
 
 ## Works
 
-- [Fragments on Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-fragments-eec-ab.grc.md) — *Ἀποσπάσματα περὶ Κωμῳδίας* · `eec-ab`
-- [Fragments on Xanthias and Luxury](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet-xanthias-luxury-eec-aa.grc.md) — *Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς* · `eec-aa`
+- [Fragments on Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-comic-fragments-eec-ab.grc.md) — *Ἀποσπάσματα περὶ Κωμῳδίας* · `eec-ab`
+- [Fragments on Xanthias and Luxury](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-comic-xanthias-luxury-eec-aa.grc.md) — *Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς* · `eec-aa`
 
 ## License and provenance
 

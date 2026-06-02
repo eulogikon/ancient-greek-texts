@@ -19,7 +19,7 @@ Antileon the Historian, a Hellenistic historian of the 2nd-1st century BCE. Hist
 
 ## Works
 
-- [Chronicles of Time](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian-chronicles-time-mks-aa.grc.md) — *Ἀποσπάσματα* · `mks-aa`
+- [Chronicles of Time](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-chronicles-time-mks-aa.grc.md) — *Ἀποσπάσματα* · `mks-aa`
 
 ## License and provenance
 

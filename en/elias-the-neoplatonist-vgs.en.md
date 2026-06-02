@@ -20,9 +20,9 @@ Elias, 6th century CE Neoplatonic philosopher. Three surviving treatises from la
 
 ## Works
 
-- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-commentaries-aristotle-vgs-ab.grc.md) — *Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους* · `vgs-ab`
-- [Commentary-Aristotle's Prior Analytics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους* · `vgs-aa`
-- [On Porphyry's Isagoge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist-porphyry-isagoge-vgs-ac.grc.md) — *Περὶ τῆς Πορφυρίου Εἰσαγωγῆς* · `vgs-ac`
+- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-neoplatonist-commentaries-aristotle-vgs-ab.grc.md) — *Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους* · `vgs-ab`
+- [Commentary-Aristotle's Prior Analytics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-neoplatonist-prior-analytics-commentary-vgs-aa.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους* · `vgs-aa`
+- [On Porphyry's Isagoge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-neoplatonist-porphyry-isagoge-vgs-ac.grc.md) — *Περὶ τῆς Πορφυρίου Εἰσαγωγῆς* · `vgs-ac`
 
 ## License and provenance
 

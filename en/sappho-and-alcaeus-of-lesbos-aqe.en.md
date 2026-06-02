@@ -19,7 +19,7 @@ Sappho and Alcaeus were lyric poets from Lesbos. Their surviving Aeolic verse fr
 
 ## Works
 
-- [Fragments of Sappho and Alcaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos-fragments-aqe-aa.grc.md) — *Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου* · `aqe-aa`
+- [Fragments of Sappho and Alcaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-alcaeus-lesbos-fragments-aqe-aa.grc.md) — *Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου* · `aqe-aa`
 
 ## License and provenance
 

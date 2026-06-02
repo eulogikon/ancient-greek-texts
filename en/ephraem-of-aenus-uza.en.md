@@ -19,7 +19,7 @@ Ephraem of Aenus was a 4th century CE historian from Thrace writing in Koine Gre
 
 ## Works
 
-- [Chronicle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus-chronicle-uza-aa.grc.md) — *Χρονικόν* · `uza-aa`
+- [Chronicle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-aenus-chronicle-uza-aa.grc.md) — *Χρονικόν* · `uza-aa`
 
 ## License and provenance
 

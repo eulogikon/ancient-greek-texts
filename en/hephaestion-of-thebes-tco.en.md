@@ -19,11 +19,11 @@ Hephaestion of Thebes was a late antique author of technical treatises. Five wor
 
 ## Works
 
-- [Astrological Excerpt A](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ad-tco-ad.grc.md) — *Ἐκλογή* · `tco-ad`
-- [Astrological Excerpt B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ac-tco-ac.grc.md) — *Ἐκλογή* · `tco-ac`
-- [Astrological Excerpt C](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-excerpt-ae-tco-ae.grc.md) — *Ἐκλογή* · `tco-ae`
-- [Effects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-effects-tco-ab.grc.md) — *Ἐπιπτώσεις* · `tco-ab`
-- [Effects, Four Epitomes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes-four-epitomes-tco-aa.grc.md) — *Ἐπιπτώσεις* · `tco-aa`
+- [Astrological Excerpt A](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-thebes-excerpt-tco-ad.grc.md) — *Ἐκλογή* · `tco-ad`
+- [Astrological Excerpt B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-thebes-excerpt-tco-ac.grc.md) — *Ἐκλογή* · `tco-ac`
+- [Astrological Excerpt C](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-thebes-excerpt-tco-ae.grc.md) — *Ἐκλογή* · `tco-ae`
+- [Effects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-thebes-effects-tco-ab.grc.md) — *Ἐπιπτώσεις* · `tco-ab`
+- [Effects, Four Epitomes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-thebes-four-epitomes-tco-aa.grc.md) — *Ἐπιπτώσεις* · `tco-aa`
 
 ## License and provenance
 

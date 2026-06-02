@@ -19,7 +19,7 @@ Demochares of Leuconoe, a Hellenistic historian writing in Attic Greek. His surv
 
 ## Works
 
-- [Historical Fragments on Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-of-leuconoe-historical-fragments-hqw-aa.grc.md) — *Ἀποσπάσματα περὶ Δημοσθένους* · `hqw-aa`
+- [Historical Fragments on Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-leuconoe-historical-fragments-hqw-aa.grc.md) — *Ἀποσπάσματα περὶ Δημοσθένους* · `hqw-aa`
 
 ## License and provenance
 

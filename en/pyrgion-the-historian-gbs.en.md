@@ -19,7 +19,7 @@ Pyrgion the Historian, uncertain Hellenistic or Imperial date. Surviving histori
 
 ## Works
 
-- [On Cretan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-the-historian-cretan-customs-gbs-aa.grc.md) — *Ἀπόσπασμα* · `gbs-aa`
+- [On Cretan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-cretan-customs-gbs-aa.grc.md) — *Ἀπόσπασμα* · `gbs-aa`
 
 ## License and provenance
 

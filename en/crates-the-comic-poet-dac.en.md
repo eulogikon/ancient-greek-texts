@@ -19,10 +19,10 @@ Crates was an Athenian comic playwright of 5th century BCE Old Comedy. Works inc
 
 ## Works
 
-- [Animated Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-animated-feast-dac-aa.grc.md) — *Ἀποσπάσματα* · `dac-aa`
-- [Fragments of a Utopian Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-utopian-feast-dac-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου* · `dac-ab`
-- [Fragments on Eratosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-eratosthenes-fragments-dac-ad.grc.md) — *Ἀποσπάσματα περὶ Ἐρατοσθένους* · `dac-ad`
-- [Fragments on Love and Decorum](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet-love-decorum-dac-ac.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐσχημοσύνης* · `dac-ac`
+- [Animated Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-comic-animated-feast-dac-aa.grc.md) — *Ἀποσπάσματα* · `dac-aa`
+- [Fragments of a Utopian Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-comic-utopian-feast-dac-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου* · `dac-ab`
+- [Fragments on Eratosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-comic-eratosthenes-fragments-dac-ad.grc.md) — *Ἀποσπάσματα περὶ Ἐρατοσθένους* · `dac-ad`
+- [Fragments on Love and Decorum](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-comic-love-decorum-dac-ac.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐσχημοσύνης* · `dac-ac`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Zosimus was a late antique historian of the 5th century CE. His surviving work i
 
 ## Works
 
-- [New History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-constantinople-new-history-thy-aa.grc.md) — *Νέα Ἱστορία* · `thy-aa`
+- [New History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-constantinople-new-history-thy-aa.grc.md) — *Νέα Ἱστορία* · `thy-aa`
 
 ## License and provenance
 

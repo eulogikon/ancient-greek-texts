@@ -19,7 +19,7 @@ Cleon of Athens was a 5th century BCE Attic poet. Surviving poetic works in vers
 
 ## Works
 
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-of-athens-fragments-doi-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `doi-aa`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-athens-fragments-doi-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `doi-aa`
 
 ## License and provenance
 

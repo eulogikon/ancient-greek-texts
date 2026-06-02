@@ -19,7 +19,7 @@ Pelagius the Theologian, a 4th-5th century CE Christian writer. Works include a 
 
 ## Works
 
-- [Pelagius the Philosopher-This Divine and Sacred Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pelagius-the-theologian-divine-sacred-art-sxo-aa.grc.md) — *Πελαγίου φιλοσόφου περὶ τῆς θείας ταύτης καὶ ἱερᾶς* · `sxo-aa`
+- [Pelagius the Philosopher-This Divine and Sacred Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pelagius-divine-sacred-art-sxo-aa.grc.md) — *Πελαγίου φιλοσόφου περὶ τῆς θείας ταύτης καὶ ἱερᾶς* · `sxo-aa`
 
 ## License and provenance
 

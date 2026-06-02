@@ -19,7 +19,7 @@ Eudemus of Argos was a 2nd century CE orator writing in Atticizing style. Read h
 
 ## Works
 
-- [On Rhetorical Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-argos-rhetorical-words-qea-aa.grc.md) — *Περὶ λέξεων ῥητορικῶν* · `qea-aa`
+- [On Rhetorical Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-argos-rhetorical-words-qea-aa.grc.md) — *Περὶ λέξεων ῥητορικῶν* · `qea-aa`
 
 ## License and provenance
 

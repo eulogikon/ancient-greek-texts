@@ -19,7 +19,7 @@ Sopater of Paphos was a Hellenistic writer of Attic comedy. His surviving fragme
 
 ## Works
 
-- [Satirical Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-paphos-satirical-fragments-lhw-aa.grc.md) — *Ἀποσπάσματα* · `lhw-aa`
+- [Satirical Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-paphos-satirical-fragments-lhw-aa.grc.md) — *Ἀποσπάσματα* · `lhw-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Hippodamus of Miletus, 5th century BCE Greek philosopher and urban planner. Two 
 
 ## Works
 
-- [On Happiness and Rational Beings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-happiness-rational-beings-cty-ab.grc.md) — *Ἀποσπάσματα* · `cty-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus-testimonies-cty-aa.grc.md) — *Μαρτυρίαι* · `cty-aa`
+- [On Happiness and Rational Beings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-miletus-happiness-rational-beings-cty-ab.grc.md) — *Ἀποσπάσματα* · `cty-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-miletus-testimonies-cty-aa.grc.md) — *Μαρτυρίαι* · `cty-aa`
 
 ## License and provenance
 

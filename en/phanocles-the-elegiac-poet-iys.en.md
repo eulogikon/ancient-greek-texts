@@ -19,7 +19,7 @@ Phanocles, a Hellenistic elegist of the 4th-3rd century BCE. Fragments of his ep
 
 ## Works
 
-- [Fragments on Orpheus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-the-elegiac-poet-orpheus-fragments-iys-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀρφέως* · `iys-aa`
+- [Fragments on Orpheus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-orpheus-fragments-iys-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀρφέως* · `iys-aa`
 
 ## License and provenance
 

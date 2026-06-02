@@ -19,8 +19,8 @@ Philemon the Younger was a Hellenistic Attic comic poet. Two surviving works are
 
 ## Works
 
-- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-aa-lig-aa.grc.md) — *Ἀποσπάσματα* · `lig-aa`
-- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger-culinary-medical-dialogues-ab-lig-ab.grc.md) — *Ἀποσπάσματα* · `lig-ab`
+- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-younger-culinary-medical-dialogues-lig-ab.grc.md) — *Ἀποσπάσματα* · `lig-ab`
+- [Culinary and Medical Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.md) — *Ἀποσπάσματα* · `lig-aa`
 
 ## License and provenance
 

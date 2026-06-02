@@ -19,7 +19,7 @@ Lyceas of Naucratis, a 4th century BCE historian. His surviving historical fragm
 
 ## Works
 
-- [Egyptian Affairs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis-egyptian-affairs-giq-aa.grc.md) — *Ἀπόσπασμα* · `giq-aa`
+- [Egyptian Affairs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-naucratis-egyptian-affairs-giq-aa.grc.md) — *Ἀπόσπασμα* · `giq-aa`
 
 ## License and provenance
 

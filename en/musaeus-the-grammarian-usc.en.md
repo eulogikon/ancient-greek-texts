@@ -19,7 +19,7 @@ Musaeus the Grammarian, a late antique poet of the 6th century CE. His epic poem
 
 ## Works
 
-- [Hero and Leander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian-hero-leander-usc-aa.grc.md) — *Ἡρῴ καὶ Λέανδρος* · `usc-aa`
+- [Hero and Leander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-grammarian-hero-leander-usc-aa.grc.md) — *Ἡρῴ καὶ Λέανδρος* · `usc-aa`
 
 ## License and provenance
 

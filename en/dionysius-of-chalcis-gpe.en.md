@@ -19,7 +19,7 @@ Dionysius of Chalcis was a 4th century BCE historian writing in Attic Greek. His
 
 ## Works
 
-- [Foundations of Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis-foundations-cities-gpe-aa.grc.md) — *Ἀποσπάσματα* · `gpe-aa`
+- [Foundations of Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-chalcis-foundations-cities-gpe-aa.grc.md) — *Ἀποσπάσματα* · `gpe-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Archemachus of Euboea, a Hellenistic historian. Surviving fragments of his histo
 
 ## Works
 
-- [Euboean History and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-of-euboea-history-customs-lqi-aa.grc.md) — *Ἀποσπάσματα* · `lqi-aa`
+- [Euboean History and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archemachus-euboea-history-customs-lqi-aa.grc.md) — *Ἀποσπάσματα* · `lqi-aa`
 
 ## License and provenance
 

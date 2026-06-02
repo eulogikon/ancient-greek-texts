@@ -19,8 +19,8 @@ Agathias the Scholastic, a 6th century CE historian writing in Koine Greek. Surv
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic-epigrams-vig-ab.grc.md) — *Ἐπιγράμματα* · `vig-ab`
-- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic-histories-vig-aa.grc.md) — *Ἱστορίαι* · `vig-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-epigrams-vig-ab.grc.md) — *Ἐπιγράμματα* · `vig-ab`
+- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-histories-vig-aa.grc.md) — *Ἱστορίαι* · `vig-aa`
 
 ## License and provenance
 

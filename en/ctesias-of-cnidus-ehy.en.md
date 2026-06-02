@@ -19,9 +19,9 @@ Ctesias of Cnidus was a Greek physician and historian. His surviving works inclu
 
 ## Works
 
-- [Fragments on Assyrian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-assyrian-history-ehy-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας* · `ehy-ab`
-- [On the Colaxaeans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-colaxaeans-ehy-ac.grc.md) — *Ἀπόσπασμα* · `ehy-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus-testimonies-ehy-aa.grc.md) — *Μαρτυρίαι* · `ehy-aa`
+- [Fragments on Assyrian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-cnidus-assyrian-history-ehy-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας* · `ehy-ab`
+- [On the Colaxaeans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-cnidus-colaxaeans-ehy-ac.grc.md) — *Ἀπόσπασμα* · `ehy-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-cnidus-testimonies-ehy-aa.grc.md) — *Μαρτυρίαι* · `ehy-aa`
 
 ## License and provenance
 

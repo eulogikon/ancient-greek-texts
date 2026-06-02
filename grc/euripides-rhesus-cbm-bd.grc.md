@@ -94,6 +94,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 μῶν τις λόχος ἐκ νυκτῶν; Χο. οὐκ ἔστι. Εκ. τί
 
+*[crux: μῶν]*
+
 ### 17.1
 
 σὺ γὰρ
@@ -253,6 +255,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 55.5
 
 εἰ γὰρ φαεννοὶ μὴ ξυνέσχον ἡλίου
+
+*[crux: ξυνέσχον]*
 
 ### 60.1
 
@@ -1750,6 +1754,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἐγὼ γὰρ ἕξεω τοὺς μέγ’ αὐχοῦντας δορὶ
 
+*[crux: ἕξεω]*
+
 ### 445.7
 
 πέρσας Ἀχαιούς, καίπερ ὕστερος μολών.
@@ -2141,6 +2147,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 560.2
 
 διόλωλε; τάχ’ ἂν εἴη φοβερόν μοι.
+
+*[crux: τάχ’ ἂν εἴη]*
 
 ### 560.3
 
@@ -2629,6 +2637,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 685.1
 
 Οδ. ἵστω θάρσει. Χο. πέλας ἴθι παῖε πᾶς.
+
+*[crux: ἵστω θάρσει. Χο. πέλας ἴθι παῖε πᾶς.]*
 
 ### 685.2
 
@@ -3166,6 +3176,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 μέγας ἐμοὶ μέγας ὦ πολίοχον κράτος
 
+*[crux: μέγας]*
+
 ### 820.3
 
 τότ’ ἄρ’ ἔμολον ὅτε σοι
@@ -3193,6 +3205,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 825.4
 
 ἔγωγε πάντων.
+
+*[crux: ἔγωγε πάντων]*
 
 ### 825.5
 
@@ -3261,6 +3275,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 845.3
 
 τίς οὖν τέτρωται, τίς τέθνηκε συμμάχων
+
+*[crux: συμμάχων]*
 
 ### 845.4
 
@@ -3365,6 +3381,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 875.1
 
 Ην. ὄλοιθ’ ὁ δράσας· οὐ γὰρ εἰς σὲ τείνεται
+
+*[crux: εἰς σὲ τείνεται]*
 
 ### 875.2
 
@@ -3509,6 +3527,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 910.3
 
 ὑπ’ Ἰλίωι ὤλεσε μὲν ς’ ἕκατι Τροίας,
+
+*[crux: ὑπ’ Ἰλίωι ὤλεσε]*
 
 ### 910.4
 

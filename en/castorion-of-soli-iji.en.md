@@ -19,7 +19,7 @@ Castorion of Soli, Hellenistic poet of the 4th to 3rd centuries BCE. Poetic frag
 
 ## Works
 
-- [Hymn to Pan of Arcadia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-of-soli-hymn-pan-iji-aa.grc.md) — *Ἀποσπάσματα* · `iji-aa`
+- [Hymn to Pan of Arcadia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/castorion-soli-hymn-pan-iji-aa.grc.md) — *Ἀποσπάσματα* · `iji-aa`
 
 ## License and provenance
 

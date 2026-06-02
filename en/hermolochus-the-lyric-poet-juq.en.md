@@ -19,7 +19,7 @@ Hermolochus, a Hellenistic lyric poet of the 3rd century BCE. Surviving fragment
 
 ## Works
 
-- [On the Uncertainty of Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet-uncertainty-life-juq-aa.grc.md) — *Ἀπόσπασμα* · `juq-aa`
+- [On the Uncertainty of Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-lyric-uncertainty-life-juq-aa.grc.md) — *Ἀπόσπασμα* · `juq-aa`
 
 ## License and provenance
 

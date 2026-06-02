@@ -20,8 +20,8 @@ Anaximander, a pioneering Milesian philosopher of the sixth century BCE. His sur
 
 ## Works
 
-- [On the Nature of the Infinite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-nature-infinite-aua-ab.grc.md) — *Ἀποσπάσματα* · `aua-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus-testimonies-aua-aa.grc.md) — *Μαρτυρίαι* · `aua-aa`
+- [On the Nature of the Infinite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-miletus-nature-infinite-aua-ab.grc.md) — *Ἀποσπάσματα* · `aua-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-miletus-testimonies-aua-aa.grc.md) — *Μαρτυρίαι* · `aua-aa`
 
 ## License and provenance
 

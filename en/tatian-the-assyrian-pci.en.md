@@ -20,7 +20,7 @@ Tatian was a 2nd century Christian theologian. Two surviving works including Add
 
 ## Works
 
-- [Oration to the Greeks](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-the-assyrian-oration-greeks-pci-aa.grc.md) — *Λόγος πρὸς τοὺς Ἕλληνας* · `pci-aa`
+- [Oration to the Greeks](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-assyrian-oration-greeks-pci-aa.grc.md) — *Λόγος πρὸς τοὺς Ἕλληνας* · `pci-aa`
 
 ## License and provenance
 

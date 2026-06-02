@@ -19,8 +19,8 @@ Euangelus the Comic was a late antique Greek comedy writer. Two surviving works 
 
 ## Works
 
-- [Wedding Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic-wedding-feast-sfc-aa.grc.md) — *Ἀποσπάσματα* · `sfc-aa`
-- [Wedding Feast Preparations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic-wedding-feast-preparations-sfc-ab.grc.md) — *Ἀπόσπασμα* · `sfc-ab`
+- [Wedding Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-wedding-feast-sfc-aa.grc.md) — *Ἀποσπάσματα* · `sfc-aa`
+- [Wedding Feast Preparations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-wedding-feast-preparations-sfc-ab.grc.md) — *Ἀπόσπασμα* · `sfc-ab`
 
 ## License and provenance
 

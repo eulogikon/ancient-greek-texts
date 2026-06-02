@@ -19,8 +19,8 @@ Aristotle Lives is a late antique biographical text from the 4th to 6th century 
 
 ## Works
 
-- [Common Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-common-life-tuq-ab.grc.md) — *Κοινὸς Βίος* · `tuq-ab`
-- [Life of Marcian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives-marcian-tuq-aa.grc.md) — *Βίος Μαρκιανοῦ* · `tuq-aa`
+- [Common Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-common-life-tuq-ab.grc.md) — *Κοινὸς Βίος* · `tuq-ab`
+- [Life of Marcian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-marcian-tuq-aa.grc.md) — *Βίος Μαρκιανοῦ* · `tuq-aa`
 
 ## License and provenance
 

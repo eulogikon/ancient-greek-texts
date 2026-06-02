@@ -19,7 +19,7 @@ Sosigenes of Alexandria was a Hellenistic astronomer and Peripatetic philosopher
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-of-alexandria-testimony-mto-aa.grc.md) — *Μαρτυρία* · `mto-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosigenes-alexandria-testimony-mto-aa.grc.md) — *Μαρτυρία* · `mto-aa`
 
 ## License and provenance
 

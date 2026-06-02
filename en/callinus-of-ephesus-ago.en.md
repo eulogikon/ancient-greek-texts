@@ -19,7 +19,7 @@ Callinus of Ephesus, a 7th century BCE Ionic elegiac poet. Surviving fragments o
 
 ## Works
 
-- [Exhortation to the Young](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-of-ephesus-exhortation-young-ago-aa.grc.md) — *Ἀποσπάσματα* · `ago-aa`
+- [Exhortation to the Young](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-ephesus-exhortation-young-ago-aa.grc.md) — *Ἀποσπάσματα* · `ago-aa`
 
 ## License and provenance
 

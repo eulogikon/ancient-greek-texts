@@ -19,7 +19,7 @@ Comarius the Alchemist, a legendary sage from Roman Egypt. His treatise on alche
 
 ## Works
 
-- [Komarios the Philosopher High Priest Instructing Cleopatra in the Sacred Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-the-alchemist-cleopatra-sacred-art-nwk-aa.grc.md) — *Κομαρίου φιλοσόφου ἀρχιερέως διδάσκοντος τὴν* · `nwk-aa`
+- [Komarios the Philosopher High Priest Instructing Cleopatra in the Sacred Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comarius-cleopatra-sacred-art-nwk-aa.grc.md) — *Κομαρίου φιλοσόφου ἀρχιερέως διδάσκοντος τὴν* · `nwk-aa`
 
 ## License and provenance
 

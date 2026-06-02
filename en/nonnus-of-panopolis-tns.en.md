@@ -19,8 +19,8 @@ Nonnus of Panopolis, 5th century CE epic poet. Works include the Dionysiaca and 
 
 ## Works
 
-- [Dionysiaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-dionysiaca-tns-ab.grc.md) — *Διονυσιακά* · `tns-ab`
-- [Paraphrase of the Gospel of John](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis-gospel-john-tns-aa.grc.md) — *Παράφρασις εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον* · `tns-aa`
+- [Dionysiaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-panopolis-dionysiaca-tns-ab.grc.md) — *Διονυσιακά* · `tns-ab`
+- [Paraphrase of the Gospel of John](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-panopolis-gospel-john-tns-aa.grc.md) — *Παράφρασις εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον* · `tns-aa`
 
 ## License and provenance
 

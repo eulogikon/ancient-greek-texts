@@ -19,9 +19,9 @@ Hecataeus of Miletus, an early Greek historian and geographer. Surviving fragmen
 
 ## Works
 
-- [Geographical Fragments on Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-geographical-europe-bli-ac.grc.md) — *Ἀποσπάσματα περὶ τῆς Εὐρώπης* · `bli-ac`
-- [Historical Fragments of Hecataeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-historical-fragments-bli-ab.grc.md) — *Ἀποσπάσματα Ἑκαταίου* · `bli-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus-testimonies-bli-aa.grc.md) — *Μαρτυρίαι* · `bli-aa`
+- [Geographical Fragments on Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-miletus-geographical-europe-bli-ac.grc.md) — *Ἀποσπάσματα περὶ τῆς Εὐρώπης* · `bli-ac`
+- [Historical Fragments of Hecataeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-miletus-historical-fragments-bli-ab.grc.md) — *Ἀποσπάσματα Ἑκαταίου* · `bli-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-miletus-testimonies-bli-aa.grc.md) — *Μαρτυρίαι* · `bli-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Gorgias of Athens, Imperial era historian from 1st century BCE. All surviving hi
 
 ## Works
 
-- [On Athenian Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-of-athens-courtesans-dne-aa.grc.md) — *Ἀποσπάσματα* · `dne-aa`
+- [On Athenian Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgias-athens-courtesans-dne-aa.grc.md) — *Ἀποσπάσματα* · `dne-aa`
 
 ## License and provenance
 

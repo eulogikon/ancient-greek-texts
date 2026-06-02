@@ -19,7 +19,7 @@ Eudoxus of Rhodes was a Hellenistic historian of the 3rd century BCE. His works 
 
 ## Works
 
-- [Fragments on Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes-geography-jwo-aa.grc.md) — *Ἀποσπάσματα περὶ Γεωγραφίας* · `jwo-aa`
+- [Fragments on Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-rhodes-geography-jwo-aa.grc.md) — *Ἀποσπάσματα περὶ Γεωγραφίας* · `jwo-aa`
 
 ## License and provenance
 

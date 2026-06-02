@@ -19,7 +19,7 @@ Hermocles of Cyzicus was a Hellenistic poet of the 5th century BCE. His survivin
 
 ## Works
 
-- [Ithyphalli](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermocles-of-cyzicus-ithyphalli-hzs-aa.grc.md) — *Ἰθυφάλλοι* · `hzs-aa`
+- [Ithyphalli](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermocles-cyzicus-ithyphalli-hzs-aa.grc.md) — *Ἰθυφάλλοι* · `hzs-aa`
 
 ## License and provenance
 

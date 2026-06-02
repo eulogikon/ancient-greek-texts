@@ -20,8 +20,8 @@ Polystratus, third Epicurean scholarch in 3rd century BCE Athens. Surviving phil
 
 ## Works
 
-- [Fragments on the Pursuit of the Good](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-pursuit-good-jss-ab.grc.md) — *Ἀποσπάσματα περὶ Διώξεως τοῦ Ἀγαθοῦ* · `jss-ab`
-- [On the Contempt of the Irrational](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean-contempt-irrational-jss-aa.grc.md) — *Περὶ ἀλόγου καταφρονήσεως* · `jss-aa`
+- [Fragments on the Pursuit of the Good](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-pursuit-good-jss-ab.grc.md) — *Ἀποσπάσματα περὶ Διώξεως τοῦ Ἀγαθοῦ* · `jss-ab`
+- [On the Contempt of the Irrational](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-contempt-irrational-jss-aa.grc.md) — *Περὶ ἀλόγου καταφρονήσεως* · `jss-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Ostanes the Alchemist, a semi-legendary Persian magus. Surviving alchemical trea
 
 ## Works
 
-- [Ostanes the Philosopher to Petasius-This Sacred and Divine Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ostanes-the-alchemist-sacred-divine-art-sde-aa.grc.md) — *Ὀστάνου φιλοσόφου πρὸς Πετάσιον περὶ τῆς ἱερᾶς* · `sde-aa`
+- [Ostanes the Philosopher to Petasius-This Sacred and Divine Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ostanes-sacred-divine-art-sde-aa.grc.md) — *Ὀστάνου φιλοσόφου πρὸς Πετάσιον περὶ τῆς ἱερᾶς* · `sde-aa`
 
 ## License and provenance
 

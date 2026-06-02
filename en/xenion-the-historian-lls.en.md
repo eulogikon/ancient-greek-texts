@@ -19,7 +19,7 @@ Xenion the Historian was a Hellenistic era writer. Surviving fragments of his hi
 
 ## Works
 
-- [Fragments on Cretan Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian-cretan-cities-lls-aa.grc.md) — *Ἀποσπάσματα περὶ Κρητικῶν Πόλεων* · `lls-aa`
+- [Fragments on Cretan Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-cretan-cities-lls-aa.grc.md) — *Ἀποσπάσματα περὶ Κρητικῶν Πόλεων* · `lls-aa`
 
 ## License and provenance
 

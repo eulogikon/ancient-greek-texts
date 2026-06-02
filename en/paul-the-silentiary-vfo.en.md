@@ -19,8 +19,8 @@ Paul the Silentiary, a 6th century CE Byzantine poet. Surviving works include hi
 
 ## Works
 
-- [Description of Hagia Sophia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-hagia-sophia-vfo-aa.grc.md) — *Περὶ τῆς Ἁγίας Σοφίας* · `vfo-aa`
-- [Description of the Ambo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary-ambo-vfo-ab.grc.md) — *Περὶ τοῦ Ἄμβωνος* · `vfo-ab`
+- [Description of Hagia Sophia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-silentiary-hagia-sophia-vfo-aa.grc.md) — *Περὶ τῆς Ἁγίας Σοφίας* · `vfo-aa`
+- [Description of the Ambo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-silentiary-ambo-vfo-ab.grc.md) — *Περὶ τοῦ Ἄμβωνος* · `vfo-ab`
 
 ## License and provenance
 

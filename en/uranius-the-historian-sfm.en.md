@@ -19,7 +19,7 @@ Uranius Historian, a late antique Greek historian of the 3rd-4th century CE. Sur
 
 ## Works
 
-- [Fragments on Arabia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/uranius-the-historian-arabia-sfm-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀραβίας* · `sfm-aa`
+- [Fragments on Arabia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/uranius-arabia-sfm-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀραβίας* · `sfm-aa`
 
 ## License and provenance
 

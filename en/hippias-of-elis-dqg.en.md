@@ -19,10 +19,10 @@ Hippias of Elis was a classical Greek sophist and contemporary of Socrates. Read
 
 ## Works
 
-- [Fragments on Olympic Victors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-olympic-victors-dqg-ad.grc.md) — *Ἀποσπάσματα περὶ Ὀλυμπιονικῶν* · `dqg-ad`
-- [On the Compilation of Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-compilation-knowledge-dqg-ac.grc.md) — *Ἀποσπάσματα* · `dqg-ac`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-dqg-aa.grc.md) — *Μαρτυρίαι Α'* · `dqg-aa`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis-testimonies-2-dqg-ab.grc.md) — *Μαρτυρίαι Β'* · `dqg-ab`
+- [Fragments on Olympic Victors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-elis-olympic-victors-dqg-ad.grc.md) — *Ἀποσπάσματα περὶ Ὀλυμπιονικῶν* · `dqg-ad`
+- [On the Compilation of Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-elis-compilation-knowledge-dqg-ac.grc.md) — *Ἀποσπάσματα* · `dqg-ac`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-elis-testimonies-dqg-aa.grc.md) — *Μαρτυρίαι Α'* · `dqg-aa`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-elis-testimonies-2-dqg-ab.grc.md) — *Μαρτυρίαι Β'* · `dqg-ab`
 
 ## License and provenance
 

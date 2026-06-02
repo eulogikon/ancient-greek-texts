@@ -19,7 +19,7 @@ Ariphron of Sicyon was a classical Greek poet writing in the Doric dialect. Surv
 
 ## Works
 
-- [Hymn to Health](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-of-sicyon-hymn-health-gze-aa.grc.md) — *Ἀποσπάσματα* · `gze-aa`
+- [Hymn to Health](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariphron-sicyon-hymn-health-gze-aa.grc.md) — *Ἀποσπάσματα* · `gze-aa`
 
 ## License and provenance
 

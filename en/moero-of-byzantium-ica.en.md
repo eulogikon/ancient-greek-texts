@@ -19,8 +19,8 @@ Moero of Byzantium, a Hellenistic epic poet of the 3rd century BCE. Two survivin
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-epigrams-ica-ab.grc.md) — *Ἐπιγράμματα* · `ica-ab`
-- [Fragments on Zeus and Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium-zeus-dionysus-ica-aa.grc.md) — *Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου* · `ica-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-byzantium-epigrams-ica-ab.grc.md) — *Ἐπιγράμματα* · `ica-ab`
+- [Fragments on Zeus and Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-byzantium-zeus-dionysus-ica-aa.grc.md) — *Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου* · `ica-aa`
 
 ## License and provenance
 

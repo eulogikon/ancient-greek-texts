@@ -19,7 +19,7 @@ Autesion the Historian, a 5th century BCE Ionic historian. Historical fragments 
 
 ## Works
 
-- [Fragments on Pelops and Tantalus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-the-historian-pelops-tantalus-ero-aa.grc.md) — *Ἀποσπάσματα περὶ Πέλοπος καὶ Ταντάλου* · `ero-aa`
+- [Fragments on Pelops and Tantalus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-pelops-tantalus-ero-aa.grc.md) — *Ἀποσπάσματα περὶ Πέλοπος καὶ Ταντάλου* · `ero-aa`
 
 ## License and provenance
 

@@ -7,7 +7,7 @@ eul_aid: etw
 canonical: "https://eulogikon.org/works/amasis-letters-fortune-rule-etw-aa"
 period: Classical
 dialect: Koine
-domain: Rhetoric
+domain: Oratory
 format: Epistle
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

@@ -19,7 +19,7 @@ Damigeron the Magus, a late antique writer on magical topics. Explores the prope
 
 ## Works
 
-- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-the-magus-stones-uka-aa.grc.md) — *Περὶ Λίθων* · `uka-aa`
+- [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-stones-uka-aa.grc.md) — *Περὶ Λίθων* · `uka-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Crito of Alopece was a Hellenistic comic poet. Read surviving fragments of his A
 
 ## Works
 
-- [Fragments on Delian Parasites](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-delian-parasites-lrc-ab.grc.md) — *Ἀποσπάσματα περὶ Δηλίων Παρασίτων* · `lrc-ab`
-- [Satirical Fragments on Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece-satirical-delos-lrc-aa.grc.md) — *Ἀποσπάσματα Σατυρικὰ περὶ Δήλου* · `lrc-aa`
+- [Fragments on Delian Parasites](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-alopece-delian-parasites-lrc-ab.grc.md) — *Ἀποσπάσματα περὶ Δηλίων Παρασίτων* · `lrc-ab`
+- [Satirical Fragments on Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-alopece-satirical-delos-lrc-aa.grc.md) — *Ἀποσπάσματα Σατυρικὰ περὶ Δήλου* · `lrc-aa`
 
 ## License and provenance
 

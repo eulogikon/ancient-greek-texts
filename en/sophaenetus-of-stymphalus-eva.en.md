@@ -19,7 +19,7 @@ Sophaenetus of Stymphalus, a 5th-4th century BCE historian. Surviving works from
 
 ## Works
 
-- [Fragments of Cyrus's Expedition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophaenetus-of-stymphalus-cyrus-expedition-eva-aa.grc.md) — *Ἀποσπάσματα τῆς Κύρου Στρατείας* · `eva-aa`
+- [Fragments of Cyrus's Expedition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophaenetus-stymphalus-cyrus-expedition-eva-aa.grc.md) — *Ἀποσπάσματα τῆς Κύρου Στρατείας* · `eva-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Heliodorus of Emesa, a Late Antique author of the 3rd–4th century CE. Author o
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-epigrams-sru-ab.grc.md) — *Ἐπιγράμματα* · `sru-ab`
-- [Ethiopian Tales](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa-ethiopica-sru-aa.grc.md) — *Αἰθιοπικά* · `sru-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-emesa-epigrams-sru-ab.grc.md) — *Ἐπιγράμματα* · `sru-ab`
+- [Ethiopian Tales](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-emesa-ethiopica-sru-aa.grc.md) — *Αἰθιοπικά* · `sru-aa`
 
 ## License and provenance
 

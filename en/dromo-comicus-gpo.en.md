@@ -19,8 +19,8 @@ Dromo Comicus was a 4th century BCE Attic comic poet. Two surviving works attrib
 
 ## Works
 
-- [Fragments on Dining Etiquette](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-dining-etiquette-gpo-aa.grc.md) — *Ἀποσπάσματα περὶ Συμποσιακῆς Ἀγωγῆς* · `gpo-aa`
-- [Parasite's Shame](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus-parasites-shame-gpo-ab.grc.md) — *Ἀποσπάσματα* · `gpo-ab`
+- [Fragments on Dining Etiquette](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-dining-etiquette-gpo-aa.grc.md) — *Ἀποσπάσματα περὶ Συμποσιακῆς Ἀγωγῆς* · `gpo-aa`
+- [Parasite's Shame](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-parasites-shame-gpo-ab.grc.md) — *Ἀποσπάσματα* · `gpo-ab`
 
 ## License and provenance
 

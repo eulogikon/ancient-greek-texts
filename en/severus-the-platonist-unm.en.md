@@ -20,7 +20,7 @@ Severus the Platonist was a late antique Neoplatonic philosopher exploring Plato
 
 ## Works
 
-- [On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-the-platonist-soul-unm-aa.grc.md) — *Περὶ ψυχῆς* · `unm-aa`
+- [On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-platonist-soul-unm-aa.grc.md) — *Περὶ ψυχῆς* · `unm-aa`
 
 ## License and provenance
 

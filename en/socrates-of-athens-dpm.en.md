@@ -19,7 +19,7 @@ Socrates of Athens, classical Greek philosopher of the 5th century BCE. Works fr
 
 ## Works
 
-- [Fragments on Gods and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-athens-gods-wisdom-dpm-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Σοφίας* · `dpm-aa`
+- [Fragments on Gods and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-athens-gods-wisdom-dpm-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Σοφίας* · `dpm-aa`
 
 ## License and provenance
 

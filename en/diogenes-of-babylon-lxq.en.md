@@ -20,7 +20,7 @@ Diogenes of Babylon, Stoic philosopher of the 2nd century BCE. Surviving Helleni
 
 ## Works
 
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-babylon-testimonies-lxq-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `lxq-aa`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-babylon-testimonies-lxq-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `lxq-aa`
 
 ## License and provenance
 

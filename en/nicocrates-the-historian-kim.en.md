@@ -19,7 +19,7 @@ Nicocrates the Historian, a Hellenistic historian of the 4th-3rd century BCE. Su
 
 ## Works
 
-- [On the Heliconian Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-the-historian-heliconian-contest-kim-aa.grc.md) — *Ἀποσπάσματα* · `kim-aa`
+- [On the Heliconian Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocrates-heliconian-contest-kim-aa.grc.md) — *Ἀποσπάσματα* · `kim-aa`
 
 ## License and provenance
 

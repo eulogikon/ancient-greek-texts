@@ -20,7 +20,7 @@ Lyco of Tarentum, 3rd century BCE Peripatetic philosopher and successor to Arist
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum-testimonies-ceo-aa.grc.md) — *Μαρτυρίαι* · `ceo-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-tarentum-testimonies-ceo-aa.grc.md) — *Μαρτυρίαι* · `ceo-aa`
 
 ## License and provenance
 

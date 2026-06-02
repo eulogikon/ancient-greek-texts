@@ -20,7 +20,7 @@ Metrodorus of Lampsacus the Elder was a 5th century BCE Ionic philosopher. Read 
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-lampsacus-testimonies-coe-aa.grc.md) — *Μαρτυρίαι* · `coe-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-lampsacus-testimonies-coe-aa.grc.md) — *Μαρτυρίαι* · `coe-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Apollonius Dyscolus, a 2nd century CE Alexandrian grammarian. Works include gram
 
 ## Works
 
-- [Homeric Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-grammarian-lexicon-pjq-aa.grc.md) — *Λεξικὸν Ὁμηρικόν* · `pjq-aa`
+- [Homeric Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian-lexicon-pjq-aa.grc.md) — *Λεξικὸν Ὁμηρικόν* · `pjq-aa`
 
 ## License and provenance
 

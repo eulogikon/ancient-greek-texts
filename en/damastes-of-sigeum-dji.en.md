@@ -19,7 +19,7 @@ Damastes of Sigeum was a 5th century BCE historian. His surviving historical fra
 
 ## Works
 
-- [Fragments on Peoples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum-peoples-dji-aa.grc.md) — *Ἀποσπάσματα περὶ Ἐθνῶν* · `dji-aa`
+- [Fragments on Peoples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-sigeum-peoples-dji-aa.grc.md) — *Ἀποσπάσματα περὶ Ἐθνῶν* · `dji-aa`
 
 ## License and provenance
 

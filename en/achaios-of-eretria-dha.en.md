@@ -19,7 +19,7 @@ Achaios of Eretria was a 5th century BCE Athenian dramatist. Fragments of his wo
 
 ## Works
 
-- [Fragments on Athletes and Satyrs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria-athletes-satyrs-dha-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύρων* · `dha-aa`
+- [Fragments on Athletes and Satyrs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-eretria-athletes-satyrs-dha-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύρων* · `dha-aa`
 
 ## License and provenance
 

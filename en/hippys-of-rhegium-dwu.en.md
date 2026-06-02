@@ -19,7 +19,7 @@ Hippys of Rhegium, a 5th-4th century BCE Doric historian. Preserved historical f
 
 ## Works
 
-- [Chronicles of Peoples and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium-chronicles-myths-dwu-aa.grc.md) — *Ἀποσπάσματα* · `dwu-aa`
+- [Chronicles of Peoples and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-rhegium-chronicles-myths-dwu-aa.grc.md) — *Ἀποσπάσματα* · `dwu-aa`
 
 ## License and provenance
 

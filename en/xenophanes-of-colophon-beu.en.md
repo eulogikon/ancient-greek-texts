@@ -20,11 +20,11 @@ Xenophanes of Colophon, Ionian poet and presocratic philosopher. Surviving fragm
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-epigram-beu-ae.grc.md) — *Ἐπίγραμμα* · `beu-ae`
-- [Fragments Silli and-Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-silli-nature-beu-aa.grc.md) — *Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως* · `beu-aa`
-- [On Piety and Festivity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-piety-festivity-beu-ac.grc.md) — *Ἀποσπάσματα* · `beu-ac`
-- [Symposium and Piety Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-symposium-piety-beu-ad.grc.md) — *Ἀποσπάσματα* · `beu-ad`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon-testimonies-beu-ab.grc.md) — *Μαρτυρίαι* · `beu-ab`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-colophon-epigram-beu-ae.grc.md) — *Ἐπίγραμμα* · `beu-ae`
+- [Fragments Silli and-Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-colophon-silli-nature-beu-aa.grc.md) — *Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως* · `beu-aa`
+- [On Piety and Festivity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-colophon-piety-festivity-beu-ac.grc.md) — *Ἀποσπάσματα* · `beu-ac`
+- [Symposium and Piety Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-colophon-symposium-piety-beu-ad.grc.md) — *Ἀποσπάσματα* · `beu-ad`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-colophon-testimonies-beu-ab.grc.md) — *Μαρτυρίαι* · `beu-ab`
 
 ## License and provenance
 

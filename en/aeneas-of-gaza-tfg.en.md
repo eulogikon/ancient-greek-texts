@@ -20,8 +20,8 @@ Aeneas of Gaza, a Christian philosopher and teacher. His surviving works include
 
 ## Works
 
-- [Letters to John](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-letters-to-john-tfg-ab.grc.md) — *Ἐπιστολαὶ πρὸς Ἰωάννην* · `tfg-ab`
-- [Theophrastus or-the Immortality of Souls and Resurrection of Bodies Dialogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-gaza-immortality-resurrection-tfg-aa.grc.md) — *Θεόφραστος ἢ Περὶ Ἀθανασίας Ψυχῶν καὶ Ἀναστάσεως* · `tfg-aa`
+- [Letters to John](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-gaza-letters-to-john-tfg-ab.grc.md) — *Ἐπιστολαὶ πρὸς Ἰωάννην* · `tfg-ab`
+- [Theophrastus or-the Immortality of Souls and Resurrection of Bodies Dialogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-gaza-immortality-resurrection-tfg-aa.grc.md) — *Θεόφραστος ἢ Περὶ Ἀθανασίας Ψυχῶν καὶ Ἀναστάσεως* · `tfg-aa`
 
 ## License and provenance
 

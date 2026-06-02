@@ -19,7 +19,7 @@ Apollonides, a Hellenistic tragic poet of the 3rd century BCE. Works include dra
 
 ## Works
 
-- [On the Virtues of Men and Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet-virtues-men-women-kbo-aa.grc.md) — *Ἀποσπάσματα* · `kbo-aa`
+- [On the Virtues of Men and Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-virtues-men-women-kbo-aa.grc.md) — *Ἀποσπάσματα* · `kbo-aa`
 
 ## License and provenance
 

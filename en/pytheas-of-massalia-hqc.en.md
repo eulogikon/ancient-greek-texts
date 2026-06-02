@@ -19,7 +19,7 @@ Pytheas of Massalia, Hellenistic explorer and geographer of the 4th century BCE.
 
 ## Works
 
-- [Fragments on Astronomy and Tides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-of-massalia-astronomy-tides-hqc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀστρονομίας καὶ Παλίρροιας* · `hqc-aa`
+- [Fragments on Astronomy and Tides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-massalia-astronomy-tides-hqc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀστρονομίας καὶ Παλίρροιας* · `hqc-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Socrates Scholasticus, 5th century Byzantine historian. His Ecclesiastical Histo
 
 ## Works
 
-- [Ecclesiastical History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-constantinople-ecclesiastical-history-tga-aa.grc.md) — *Ἐκκλησιαστικὴ Ἱστορία* · `tga-aa`
+- [Ecclesiastical History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-constantinople-ecclesiastical-history-tga-aa.grc.md) — *Ἐκκλησιαστικὴ Ἱστορία* · `tga-aa`
 
 ## License and provenance
 

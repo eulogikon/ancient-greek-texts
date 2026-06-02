@@ -19,7 +19,7 @@ Basilis the Historian was a Hellenistic era historian writing in Koine Greek. Hi
 
 ## Works
 
-- [Fragments on India and Meroe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-the-historian-india-meroe-ido-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰνδικῆς καὶ Μερόης* · `ido-aa`
+- [Fragments on India and Meroe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-india-meroe-ido-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰνδικῆς καὶ Μερόης* · `ido-aa`
 
 ## License and provenance
 

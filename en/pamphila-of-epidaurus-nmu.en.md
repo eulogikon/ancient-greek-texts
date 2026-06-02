@@ -19,7 +19,7 @@ Pamphila of Epidaurus was a 1st century CE historian. Her historical miscellany 
 
 ## Works
 
-- [Historical Memoranda Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus-historical-memoranda-nmu-aa.grc.md) — *Ἀποσπάσματα* · `nmu-aa`
+- [Historical Memoranda Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-epidaurus-historical-memoranda-nmu-aa.grc.md) — *Ἀποσπάσματα* · `nmu-aa`
 
 ## License and provenance
 

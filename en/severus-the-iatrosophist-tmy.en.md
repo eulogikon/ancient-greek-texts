@@ -19,7 +19,7 @@ Severus the Iatrosophist, a 5th century CE medical writer. Surviving medical tre
 
 ## Works
 
-- [On Infusion Instruments or Clysters to Timothy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-the-iatrosophist-infusion-instruments-tmy-aa.grc.md) — *Περὶ ὀργάνων ἐγχύσεων πρὸς Τιμόθεον* · `tmy-aa`
+- [On Infusion Instruments or Clysters to Timothy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-iatrosophist-infusion-instruments-tmy-aa.grc.md) — *Περὶ ὀργάνων ἐγχύσεων πρὸς Τιμόθεον* · `tmy-aa`
 
 ## License and provenance
 

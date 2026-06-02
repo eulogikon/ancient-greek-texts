@@ -19,7 +19,7 @@ Agesilaus II was a Spartan king of the classical period. Surviving works include
 
 ## Works
 
-- [On the Italian Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agesilaus-ii-of-sparta-italian-gods-ezg-aa.grc.md) — *Ἀπόσπασμα* · `ezg-aa`
+- [On the Italian Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agesilaus-sparta-italian-gods-ezg-aa.grc.md) — *Ἀπόσπασμα* · `ezg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Aristarchus of Tegea was a 5th century BCE Attic dramatist. Surviving fragments 
 
 ## Works
 
-- [Fragments on Achilles and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-tegea-achilles-love-ddy-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Ἔρωτος* · `ddy-aa`
+- [Fragments on Achilles and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-tegea-achilles-love-ddy-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Ἔρωτος* · `ddy-aa`
 
 ## License and provenance
 

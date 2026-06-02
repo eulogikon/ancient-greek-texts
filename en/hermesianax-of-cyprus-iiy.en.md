@@ -19,7 +19,7 @@ Hermesianax of Cyprus was a Hellenistic historian. His surviving historical work
 
 ## Works
 
-- [Phrygian Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus-histories-myths-iiy-aa.grc.md) — *Ἀποσπάσματα* · `iiy-aa`
+- [Phrygian Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-cyprus-histories-myths-iiy-aa.grc.md) — *Ἀποσπάσματα* · `iiy-aa`
 
 ## License and provenance
 

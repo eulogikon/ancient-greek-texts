@@ -314,6 +314,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εἶδον γὰρ φοβερὰν ὄψιν ἔμαθον ἐδάην].
 
+*[crux: εἶδον γὰρ φοβερὰν ὄψιν ἔμαθον ἐδάην]*
+
 ### 77.2
 
 ὦ χθόνιοι θεοί, σώσατε παῖδ’ ἐμόν,
@@ -666,6 +668,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δυστανοτάτας ματέρος, ἔξελθ’
 
+*[crux: δυστανοτάτας]*
+
 ### 170.5
 
 ἔξελθ’ οἴκων, ἄιε ματέρος αὐδάν.
@@ -773,6 +777,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 195.5
 
 οἵαν οἵαν αὖ σοι λώβαν ἐχθίσταν ἀρρήταν τ’
+
+*[crux: ἐχθίσταν]*
 
 ### 195.6
 
@@ -917,6 +923,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 235.2
 
 ἐξιστορῆσαι, σοὶ μὲν εἰρῆσθαι χρεών,
+
+*[crux: σοὶ μὲν εἰρῆσθαι]*
 
 ### 235.3
 
@@ -2061,6 +2069,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 540.1
 
 νεῶν δὸς ἡμῖν πρευμενοῦς τ’ ἀπ’ Ἰλίου
+
+*[crux: πρευμενοῦς]*
 
 ### 540.2
 
@@ -4749,6 +4759,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1270.1
 
 Εκ. θανοῦσα δ’ ἢ ζῶς’ ἐνθάδ’ ἐκπλήσω βιον;
+
+*[crux: βιον]*
 
 ### 1270.2
 

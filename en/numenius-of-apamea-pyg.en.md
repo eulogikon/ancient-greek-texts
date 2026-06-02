@@ -20,7 +20,7 @@ Numenius of Apamea, a 2nd century Platonist philosopher. Surviving works and fra
 
 ## Works
 
-- [On the Good](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-apamea-good-pyg-aa.grc.md) — *Ἀποσπάσματα* · `pyg-aa`
+- [On the Good](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-apamea-good-pyg-aa.grc.md) — *Ἀποσπάσματα* · `pyg-aa`
 
 ## License and provenance
 

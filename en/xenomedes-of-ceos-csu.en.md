@@ -19,7 +19,7 @@ Xenomedes of Ceos was a 5th century BCE historian. His surviving fragments docum
 
 ## Works
 
-- [Fragments on Divine Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos-divine-names-csu-aa.grc.md) — *Ἀποσπάσματα περὶ Θείων Ὀνομάτων* · `csu-aa`
+- [Fragments on Divine Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-ceos-divine-names-csu-aa.grc.md) — *Ἀποσπάσματα περὶ Θείων Ὀνομάτων* · `csu-aa`
 
 ## License and provenance
 

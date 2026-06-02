@@ -20,7 +20,7 @@ Diodorus of Tyre, a Hellenistic Peripatetic philosopher active around 110 BCE. S
 
 ## Works
 
-- [On the Goal of Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-tyre-goal-of-life-mrq-aa.grc.md) — *Ἀπόσπασμα* · `mrq-aa`
+- [On the Goal of Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-tyre-goal-of-life-mrq-aa.grc.md) — *Ἀπόσπασμα* · `mrq-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Dioxippus was a Hellenistic comic poet writing in Attic Greek. Surviving fragmen
 
 ## Works
 
-- [Fragments on Food and Drink](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-food-drink-hrq-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Ποτοῦ* · `hrq-ab`
-- [Fragments on Gourmet Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet-gourmet-feasting-hrq-aa.grc.md) — *Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας* · `hrq-aa`
+- [Fragments on Food and Drink](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-food-drink-hrq-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Ποτοῦ* · `hrq-ab`
+- [Fragments on Gourmet Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-gourmet-feasting-hrq-aa.grc.md) — *Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας* · `hrq-aa`
 
 ## License and provenance
 

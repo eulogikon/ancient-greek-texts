@@ -19,7 +19,7 @@ Phillis of Delos was a Hellenistic historian. Her surviving historical works are
 
 ## Works
 
-- [On Music and Chronology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos-music-chronology-kiw-aa.grc.md) — *Ἀποσπάσματα* · `kiw-aa`
+- [On Music and Chronology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-delos-music-chronology-kiw-aa.grc.md) — *Ἀποσπάσματα* · `kiw-aa`
 
 ## License and provenance
 

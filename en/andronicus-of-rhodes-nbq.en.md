@@ -20,8 +20,8 @@ Andronicus of Rhodes was a Peripatetic philosopher and scholarch of Aristotle's 
 
 ## Works
 
-- [On Passions, Book 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-1-nbq-aa.grc.md) — *Περὶ παθῶν* · `nbq-aa`
-- [On Passions, Book 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes-passions-book-2-nbq-ab.grc.md) — *Περὶ παθῶν* · `nbq-ab`
+- [On Passions, Book 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-rhodes-passions-book-1-nbq-aa.grc.md) — *Περὶ παθῶν* · `nbq-aa`
+- [On Passions, Book 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-rhodes-passions-book-2-nbq-ab.grc.md) — *Περὶ παθῶν* · `nbq-ab`
 
 ## License and provenance
 

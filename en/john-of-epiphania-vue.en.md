@@ -19,7 +19,7 @@ John of Epiphania, a 6th century CE historian writing in Koine Greek. His surviv
 
 ## Works
 
-- [Fragments on Persian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-epiphania-persian-history-vue-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Περσικῆς Ἱστορίας* · `vue-aa`
+- [Fragments on Persian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-epiphania-persian-history-vue-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Περσικῆς Ἱστορίας* · `vue-aa`
 
 ## License and provenance
 

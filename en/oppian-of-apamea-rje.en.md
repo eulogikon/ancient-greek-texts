@@ -19,7 +19,7 @@ Oppian of Apamea, a 3rd century CE Roman epic poet. Works include the didactic e
 
 ## Works
 
-- [Hunting Matters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea-hunting-rje-aa.grc.md) — *Κυνηγετικά* · `rje-aa`
+- [Hunting Matters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-apamea-hunting-rje-aa.grc.md) — *Κυνηγετικά* · `rje-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Demodocus of Leros, 6th century BCE Ionic elegiac poet. Two surviving poetic fra
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-epigrams-bea-ab.grc.md) — *Ἐπιγράμματα* · `bea-ab`
-- [Satirical Epigrams on Peoples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-of-leros-satirical-epigrams-bea-aa.grc.md) — *Ἀποσπάσματα* · `bea-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-leros-epigrams-bea-ab.grc.md) — *Ἐπιγράμματα* · `bea-ab`
+- [Satirical Epigrams on Peoples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demodocus-leros-satirical-epigrams-bea-aa.grc.md) — *Ἀποσπάσματα* · `bea-aa`
 
 ## License and provenance
 

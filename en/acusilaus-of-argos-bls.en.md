@@ -19,10 +19,10 @@ Acusilaus of Argos was a 6th century BCE Greek historian. His historical fragmen
 
 ## Works
 
-- [Fragments on Cosmogony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-cosmogony-bls-ad.grc.md) — *Ἀποσπάσματα περὶ Κοσμογονίας* · `bls-ad`
-- [Fragments on Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-rivers-bls-ac.grc.md) — *Ἀποσπάσματα περὶ Ποταμῶν* · `bls-ac`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-aa-bls-aa.grc.md) — *Μαρτυρίαι Α'* · `bls-aa`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos-testimonies-ab-bls-ab.grc.md) — *Μαρτυρίαι Β'* · `bls-ab`
+- [Fragments on Cosmogony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-argos-cosmogony-bls-ad.grc.md) — *Ἀποσπάσματα περὶ Κοσμογονίας* · `bls-ad`
+- [Fragments on Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-argos-rivers-bls-ac.grc.md) — *Ἀποσπάσματα περὶ Ποταμῶν* · `bls-ac`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-argos-testimonies-bls-aa.grc.md) — *Μαρτυρίαι Α'* · `bls-aa`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-argos-testimonies-bls-ab.grc.md) — *Μαρτυρίαι Β'* · `bls-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dositheus of Pelusium, a Hellenistic historian of the 3rd century BCE. Surviving
 
 ## Works
 
-- [Historical Fragments of Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-of-pelusium-historical-italy-jga-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλίας* · `jga-aa`
+- [Historical Fragments of Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-pelusium-historical-italy-jga-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλίας* · `jga-aa`
 
 ## License and provenance
 

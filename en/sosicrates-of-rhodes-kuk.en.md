@@ -19,7 +19,7 @@ Sosicrates of Rhodes, a 2nd century BCE Hellenistic historian. Surviving works p
 
 ## Works
 
-- [Fragments on Cretan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes-cretan-customs-kuk-aa.grc.md) — *Ἀποσπάσματα περὶ Κρητικῶν Ἐθῶν* · `kuk-aa`
+- [Fragments on Cretan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-rhodes-cretan-customs-kuk-aa.grc.md) — *Ἀποσπάσματα περὶ Κρητικῶν Ἐθῶν* · `kuk-aa`
 
 ## License and provenance
 

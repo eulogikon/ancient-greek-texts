@@ -20,7 +20,7 @@ Antiochus of Ascalon was a Hellenistic eclectic philosopher. Philosophical works
 
 ## Works
 
-- [Fragments on Antiochus of Ascalon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-ascalon-fragments-msk-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀντιόχου τοῦ Ἀσκαλωνίτου* · `msk-aa`
+- [Fragments on Antiochus of Ascalon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-ascalon-fragments-msk-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀντιόχου τοῦ Ἀσκαλωνίτου* · `msk-aa`
 
 ## License and provenance
 

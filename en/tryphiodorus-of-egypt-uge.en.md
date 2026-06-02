@@ -19,7 +19,7 @@ Tryphiodorus of Egypt was a late antique epic poet. His surviving epic The Sack 
 
 ## Works
 
-- [Sack of Ilium](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt-sack-of-ilium-uge-aa.grc.md) — *Ἅλωσις Ἰλίου* · `uge-aa`
+- [Sack of Ilium](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-egypt-sack-of-ilium-uge-aa.grc.md) — *Ἅλωσις Ἰλίου* · `uge-aa`
 
 ## License and provenance
 

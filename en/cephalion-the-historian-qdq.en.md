@@ -19,7 +19,7 @@ Cephalion, a 2nd century CE Roman historian. Surviving historical works from the
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian-historical-fragments-qdq-aa.grc.md) — *Ἀποσπάσματα* · `qdq-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-historical-fragments-qdq-aa.grc.md) — *Ἀποσπάσματα* · `qdq-aa`
 
 ## License and provenance
 

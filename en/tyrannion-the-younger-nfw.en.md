@@ -19,7 +19,7 @@ Tyrannion the Younger was a Hellenistic grammarian in Rome. His surviving gramma
 
 ## Works
 
-- [Scholia on Homeric Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger-homeric-prosody-nfw-aa.grc.md) — *Ἀποσπάσματα* · `nfw-aa`
+- [Scholia on Homeric Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-younger-homeric-prosody-nfw-aa.grc.md) — *Ἀποσπάσματα* · `nfw-aa`
 
 ## License and provenance
 

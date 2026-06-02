@@ -19,7 +19,7 @@ Stesimbrotus of Thasos, a 5th century BCE historian and biographer. Explore his 
 
 ## Works
 
-- [On Athenian Statesmen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-of-thasos-athenian-statesmen-dti-aa.grc.md) — *Ἀποσπάσματα* · `dti-aa`
+- [On Athenian Statesmen](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesimbrotus-thasos-athenian-statesmen-dti-aa.grc.md) — *Ἀποσπάσματα* · `dti-aa`
 
 ## License and provenance
 

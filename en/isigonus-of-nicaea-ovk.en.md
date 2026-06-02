@@ -19,7 +19,7 @@ Isigonus of Nicaea, a Roman era historian of the 1st to 2nd century CE. His surv
 
 ## Works
 
-- [On Marvelous Peoples and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea-marvelous-customs-ovk-aa.grc.md) — *Ἀποσπάσματα* · `ovk-aa`
+- [On Marvelous Peoples and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-nicaea-marvelous-customs-ovk-aa.grc.md) — *Ἀποσπάσματα* · `ovk-aa`
 
 ## License and provenance
 

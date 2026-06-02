@@ -1,0 +1,95 @@
+---
+title: Fragments on Socrates and Education
+title_greek: Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας
+author: Aeschines of Sphettus
+eul_wid: dys-ab
+eul_aid: dys
+canonical: "https://eulogikon.org/works/aeschines-sphettus-fragments-education-dys-ab"
+period: Classical
+dialect: "Attic (phi, frg)"
+domain: Philosophy
+format: Treatise
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Fragments on Socrates and Education
+
+*Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας*
+
+**Author:** Aeschines of Sphettus
+
+**eul_wid:** `dys-ab` · [HTML page](https://eulogikon.org/works/aeschines-sphettus-fragments-education-dys-ab)
+
+## Text
+
+### 1 fr a
+
+[Break in Text (point at which text breaks off for an unknown length)] . [ περὶ τοὺς] σεαυτοῦ γον[έας γεγε‐] νῆσθαι, οἷός περ [ὁ Θε‐] μιστοκλῆς λέγεται [πε‐] ρὶ τοὺς ἑαυτοῦ γ . [ ± 5];” “εὐφήμει, ἔφη, ὦ Σ[ώκρα‐] τες”. “π[ό]τερον δὲ δοκεῖ σοι το[ῖς] ἀνθρώποις ἀν[αγ‐] καῖον εἶναι ἀμού[σους] πρότε[ρο]ν ἢ μουσικο[ὺς γί‐] νεσ[θα]ι· καὶ πότερο[ν ἀ‐] φί[ππους] ἢ ἱππικο[ύς;” “ἀ‐] ναγ[καῖό]ν μοι δοκεῖ ἀμού[σους] πρότερον κ[αὶ] ἀφίπ[πους”.] “οὐκο[ῦν] [ . ]οχ[ ± 6]ην λ[] [± 7]παν [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [± 6]υ[] [ . [1]
+
+### 1 fr b
+
+... ]τηριουσ[] [ο]ὐδετέρους δε[ῖ] [ . ] οὔτε γὰρ τοὺς . [] [οὐδ]οτιοῦν δεῖ[] τῆσθαι ηπε[] [ .. ] ὥστε α[] [ . ]των δικ[ δι‐] απράξασθα[ι ἐ‐] παινεῖν· οὔτ[ε εἴ τι‐] νες διὰ τὰς τοι[αύτας ἀπο‐] λογίας ἀπέγν[ωσαν ἀν‐] θρώπων με[] [ ... ] . τω . [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] []υτα[] [Break in Text (point at which text breaks off for an unknown length)] desunt 4 versus, ut videtur [Break in Text (point at which text breaks off for an unknown length)] [] . [5]
+
+### 1 fr d,col 1
+
+[] καλῶς δὲ κα[ὶ] ὁ Ἀπο[λλό‐] δωρος ὑπὲρ τοῦ φαύ[λου] ἀπολογεῖσθαι”. “ἀλλ’ ἐκε[ῖ‐] νο, ἦ δ’ ὅς, ἐγὼ οὐκ ἂν ὤμη[ν] τὸν Θεμιστοκλέα ὑπ[ὸ] τοῦ πατρὸς ἀποκηρυχ[θῆ‐] ναι· φαύλου γὰρ καὶ πόρρω ἀνοίας ἥκοντα τά γε τοιαῦτα· ὅστις εἰς διαφορὰς τοιαύτας καὶ ἔχθρας τὰς μεγίστας πρὸς τοὺς ἑαυτοῦ γονέας κατέστη· ὃ καὶ παιδάριον εὐλαβηθῆναι [± 3] . ροι”. “οὕτω δὴ μικρὸν [νενό]μικας εἶναι, ἦν δ’ ἐ[γώ, ὦ] Ἀλκιβιάδη, γονε〈ῦσ〉ιν [± 3]ληθῆναι, ὥστε τοῦ [ἐπιτυχ]όντος ἀνθρώπου [± 6] . τοῦτ’ εἶ[ναι ± 2]. [± 6] . ς . [] [± 12]ταμ[ . ]ν [± 11] τῶν φαύ[λων τοῦτ’ ἐ]στιν· εἰ δὲ [± 7 τὴ]ν πόλιν τε desunt 12 versus, ut videtur [Break in Text (point at which text breaks off for an unknown length)] ει . [13]
+
+### 1 fr d,col 2
+
+[] τεσ[] θρω[] ητ[] α[] [] [] . [] . [] α[] . [] δ[] π[] λα[] τα[] . [] [] [] ἐν τοῖς [] μεγάλα [] αὐτῷ εἶχε[] κομένῳ τ[] αν ἁμαρτη[] γνοὺς οὖν α ὐτὸν ἐγὼ ὅτι ζηλοτύπ ως ἔχει πρὸσ Θεμιστοκλ έα, εἶπον· “ἐ πειδὴ τοῦ Θεμιστοκλέ ους βίου ἐπι λαμβάνεσ θ αι ἐτόλμη σας σκέψαι 12—16 desunt 5 versus, quos apud Aristidem legere potes ὦ Σώκρατες, τὰ τοιαῦτ α εἰδέναι”. [17]
+
+### 1 frr e,f,g,col 1
+
+“ἤδη ο ὖν πώπ ο τέ σοι ἐμέλησ εν ὅτι ταύ της τῆς χώρ ας τοσαύ της οὔσης ὅσ ην ὁ ἥλιος πορεύεται ἣ καλεῖ ται Ἀσία εἷς ἀνὴρ ἄρχει;” “π α νυ μὲν οὖν, ἔφη. ὅ γ ε μέ γας βασιλεύς”. “οἶσ θα οὖν ὅτι ἐκεῖνος ἐσ τράτευσε δεῦρο καὶ ἐπὶ Λακεδαι μονίους ἡγού μενος εἰ τοῦτω τὼ πόλ εε κατα στρέψαιτο ῥᾳ δίως τοὺς desunt 19 versus, ut videtur [Break in Text (point at which text breaks off for an unknown length)] πεζῶν καὶ χρημάτω ν τὰ τῶν Ἑλλή νων πράγμ α τα πολὺ ἐλεί πετο, τὰ δὲ βασιλέ ως προεῖχεν· ἀλλ’ ᾔδ ει ὅτι εἰ μὴ αὐτοῦ τ ῷ βουλ εύ εσθαι ἐκεῖνος πε ριέστ αι , τά γε ἄλλα α ὐτοῦ τοσαῦτα ὄντα, τὸ μέγ εθοσ οὐδ ὲ ν μέγα ἔμελλεν ὠ φελήσειν. [25]
+
+### 1 fr g col 2
+
+καὶ τοῦτο ἐγνώ κει ἄρα ὅτι ὁποτέρων ἂν desunt, ut videtur, 20 versus ca. [30]
+
+### 1 fr h
+
+[Break in Text (point at which text breaks off for an unknown length)] . [] ζ[] γα[] γε[] λου[] ως . [] ει . [] τε . [] γη[] . η . [] [Break in Text (point at which text breaks off for an unknown length)] σαυ . [1]
+
+### 1 fr i
+
+[] ηκα[] τριρα[] αλλ[] γαρ η . [] θοι μη[] [ . ]ιοιε[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [] . [1]
+
+### 1 fr l
+
+[] []νυμ[] [ὦ Σώκρ]ατες ο[] []τω . [] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] []υκα[] []ν καὶ το[] []υτῳ αδ[] []αντα[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [ . [1]
+
+### 1 fr n
+
+]οπ[] κωσ[] προ[] δο[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] και[] ξυν[] και[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [] . [1]
+
+### 1 fr p
+
+[]τι []ι . [Break in Text (point at which text breaks off for an unknown length)] []ουθε[] []ατοιαυ[] [Break in Text (point at which text breaks off for an unknown length)] α[] τω[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] . [1]
+
+### 1 fr s
+
+. [] πλ[] λιπ[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] []αι[] [] . [1]
+
+### 1 fr t
+
+ικ[] [Break in Text (point at which text breaks off for an unknown length)] [Break in Text (point at which text breaks off for an unknown length)] [] . [1]
+
+### 1 fr u
+
+. [] []ον[] [Break in Text (point at which text breaks off for an unknown length)] ἐτύγχανεν μ[ὲν] οὖσα πομπὴ τῶ[ν] μεγάλων Παν[α‐] θηναίων, ἐκα θή μεθα δὲ ἐν τῇ σ το ᾷ τοῦ Διὸς τοῦ Ἐλ[ε]υθερίου ἐγὼ κα[ὶ] Ἅγνων ὁ Θηραμ[έ‐] νους πατὴρ κα[ὶ] Εὐριπίδης ὁ πο[ιη‐] τής· παρῆλ[θεν] οὖν παρ’ αὐτοὺ[ς] ἡμᾶς περ[ . [10]
+
+### 2 1
+
+] . [] [Μι]λτιάδης [] [ἐπί]τηδες, κ[] [ .. ]ων . [] [ .. ]ον . α . [] [ ... ] . [ . ] . [] [Break in Text (point at which text breaks off for an unknown length)] οἴκοθέν εἰσιν τ . [18]
+
+### 3 a
+
+[ πε‐] πλεύκασιν οὐκ [] ἵνα τήν τε Ἑλλάδ[] εἴ τίς ἐστιν ἀνὴρ . [] μενος ἐν τοῖς Ἕλλ[ησι] μάλιστα τὸ ἐκείνω[] ται. ἀπεκρινάμη[ν] ὅτι οὐ θαυμάζοιμι [] τῷ σοφωτάτῳ τῶν Ἑλ[λήνων] παιδεῦσαι ἄνθρωπον [] συγγενέσθαι, ἀλλὰ καὶ . [] μην, ὅτι καὶ πλοῦν τοσοῦ[τον] [ . ] . ς . [ ..... ] ... ιον τηλικ[ου‐] [Break in Text (point at which text breaks off for an unknown length)] [ὠ]φελήσουσιν οὐ [] δεινόν, ἔφην ἐγώ, [ἀ]ποροῦμεν, ἐκεῖ[νος ± 12] οὐκ ἀπορήσει. [13]
+
+### 3 b
+
+θαυ[μ— ± 9 εἰ μὲ]ν ἠρόμην Εὐριπί[δην δημιουργῶν ὅ]τῳ ξυνὼν ἂν Μιλ[τιάδης ± 6]α βουλεύοιτο ὅπως χρὴ [ὑποδήματα] ποιεῖν, εἶχεν ἄν μοι λέ[γειν ὅτι τοῖ]ς σκυτοτόμοις, ἢ ὅτῳ ἂν [ξυνὼν ± 2]ιστα βουλεύοιτο ὅπως [χρὴ οἰκία]ν οἰκοδομεῖν, καὶ τοῦτ’ εἶ[χεν ἂν λέγ]ειν ὅτι τοῖς τέκτοσιν· νῦν [] . [] [Break in Text (point at which text breaks off for an unknown length)] [13]
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: dys-ab`.

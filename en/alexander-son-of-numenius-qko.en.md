@@ -20,8 +20,8 @@ Alexander son of Numenius, 2nd century CE Greek sophist. Two surviving orations 
 
 ## Works
 
-- [On Figures of Thought and Speech](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-figures-thought-speech-qko-aa.grc.md) — *Περὶ τῶν τῆς διανοίας καὶ τῆς λέξεως σχημάτων* · `qko-aa`
-- [On Rhetorical Topics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius-rhetorical-topics-qko-ab.grc.md) — *Περὶ ῥητορικῶν ἀφορμῶν* · `qko-ab`
+- [On Figures of Thought and Speech](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-numenius-figures-thought-speech-qko-aa.grc.md) — *Περὶ τῶν τῆς διανοίας καὶ τῆς λέξεως σχημάτων* · `qko-aa`
+- [On Rhetorical Topics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-numenius-rhetorical-topics-qko-ab.grc.md) — *Περὶ ῥητορικῶν ἀφορμῶν* · `qko-ab`
 
 ## License and provenance
 

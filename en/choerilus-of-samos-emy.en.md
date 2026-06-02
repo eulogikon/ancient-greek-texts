@@ -19,9 +19,9 @@ Choerilus of Samos was a 5th century BCE Greek epic poet. Three surviving epic w
 
 ## Works
 
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos-epic-fragments-emy-ac.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `emy-ac`
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos-fragments-emy-ab.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `emy-ab`
-- [Fragments on Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos-wine-fragments-emy-aa.grc.md) — *Ἀμφίβολα Ἀποσπάσματα Χοιρίλου Ἰασίου* · `emy-aa`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-samos-epic-fragments-emy-ac.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `emy-ac`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-samos-fragments-emy-ab.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `emy-ab`
+- [Fragments on Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-samos-wine-fragments-emy-aa.grc.md) — *Ἀμφίβολα Ἀποσπάσματα Χοιρίλου Ἰασίου* · `emy-aa`
 
 ## License and provenance
 

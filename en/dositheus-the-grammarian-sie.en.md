@@ -19,7 +19,7 @@ Dositheus the Grammarian was a 4th century CE scholar of technical Koine. His gr
 
 ## Works
 
-- [Grammatical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian-art-sie-aa.grc.md) — *Γραμματικὴ Τέχνη* · `sie-aa`
+- [Grammatical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-grammarian-art-sie-aa.grc.md) — *Γραμματικὴ Τέχνη* · `sie-aa`
 
 ## License and provenance
 

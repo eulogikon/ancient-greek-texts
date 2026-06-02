@@ -19,8 +19,8 @@ Phocylides of Miletus, 6th century BCE Ionic poet. Surviving verse fragments on 
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-epigrams-bdg-ab.grc.md) — *Ἐπίγραμμα* · `bdg-ab`
-- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus-sentences-bdg-aa.grc.md) — *Γνῶμαι* · `bdg-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-miletus-epigrams-bdg-ab.grc.md) — *Ἐπίγραμμα* · `bdg-ab`
+- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-miletus-sentences-bdg-aa.grc.md) — *Γνῶμαι* · `bdg-aa`
 
 ## License and provenance
 

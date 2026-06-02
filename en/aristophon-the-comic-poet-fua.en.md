@@ -19,8 +19,8 @@ Aristophon was a 4th century BCE Athenian comic poet. Read fragments of his clas
 
 ## Works
 
-- [Fragments on Poverty and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet-poverty-feasting-fua-ab.grc.md) — *Ἀποσπάσματα περὶ Πενίας καὶ Εὐωχίας* · `fua-ab`
-- [Fragments on Poverty and Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet-poverty-satire-fua-aa.grc.md) — *Ἀποσπάσματα περὶ Πενίας καὶ Σάτιρας* · `fua-aa`
+- [Fragments on Poverty and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-comic-poverty-feasting-fua-ab.grc.md) — *Ἀποσπάσματα περὶ Πενίας καὶ Εὐωχίας* · `fua-ab`
+- [Fragments on Poverty and Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-comic-poverty-satire-fua-aa.grc.md) — *Ἀποσπάσματα περὶ Πενίας καὶ Σάτιρας* · `fua-aa`
 
 ## License and provenance
 

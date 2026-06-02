@@ -19,7 +19,7 @@ Zeno of Rhodes was a Hellenistic historian of the 2nd century BCE. Fragments of 
 
 ## Works
 
-- [Rhodian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes-historical-fragments-lrw-aa.grc.md) — *Ἀποσπάσματα* · `lrw-aa`
+- [Rhodian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-rhodes-historical-fragments-lrw-aa.grc.md) — *Ἀποσπάσματα* · `lrw-aa`
 
 ## License and provenance
 

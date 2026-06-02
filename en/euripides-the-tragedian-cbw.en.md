@@ -19,7 +19,7 @@ Euripides, the 5th century BCE Athenian tragedian. Surviving works include Medea
 
 ## Works
 
-- [Letters to King Archelaus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-the-tragedian-letters-archelaus-cbw-aa.grc.md) — *Ἐπιστολαὶ πρὸς Ἀρχέλαον* · `cbw-aa`
+- [Letters to King Archelaus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides-letters-archelaus-cbw-aa.grc.md) — *Ἐπιστολαὶ πρὸς Ἀρχέλαον* · `cbw-aa`
 
 ## License and provenance
 

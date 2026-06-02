@@ -19,7 +19,7 @@ Maiistas was a Hellenistic epic poet of the 3rd to 2nd century BCE. Surviving wo
 
 ## Works
 
-- [Aretalogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet-aretalogy-jom-aa.grc.md) — *Ἀρεταλογία* · `jom-aa`
+- [Aretalogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-aretalogy-jom-aa.grc.md) — *Ἀρεταλογία* · `jom-aa`
 
 ## License and provenance
 

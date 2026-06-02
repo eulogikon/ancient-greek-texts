@@ -19,7 +19,7 @@ Minucianus the Younger, Roman era Atticizing rhetorician. Surviving works includ
 
 ## Works
 
-- [On Arguments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-the-younger-arguments-rvm-aa.grc.md) — *Περὶ ἐπιχειρημάτων* · `rvm-aa`
+- [On Arguments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minucianus-younger-arguments-rvm-aa.grc.md) — *Περὶ ἐπιχειρημάτων* · `rvm-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Simmias of Rhodes, an early Hellenistic poet. Works include grammatical treatise
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simmias-of-rhodes-epigrams-igq-ab.grc.md) — *Ἐπιγράμματα* · `igq-ab`
-- [Fragments on Distant Lands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simmias-of-rhodes-distant-lands-igq-aa.grc.md) — *Ἀποσπάσματα περὶ Μακρῶν Χωρῶν* · `igq-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simmias-rhodes-epigrams-igq-ab.grc.md) — *Ἐπιγράμματα* · `igq-ab`
+- [Fragments on Distant Lands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simmias-rhodes-distant-lands-igq-aa.grc.md) — *Ἀποσπάσματα περὶ Μακρῶν Χωρῶν* · `igq-aa`
 
 ## License and provenance
 

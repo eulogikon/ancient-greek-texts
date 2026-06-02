@@ -19,7 +19,7 @@ Marcellinus was a late antique Greek physician of the 4th century CE. His medica
 
 ## Works
 
-- [On Pulses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-physician-pulses-rzs-aa.grc.md) — *Περὶ Σφυγμῶν* · `rzs-aa`
+- [On Pulses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-pulses-rzs-aa.grc.md) — *Περὶ Σφυγμῶν* · `rzs-aa`
 
 ## License and provenance
 

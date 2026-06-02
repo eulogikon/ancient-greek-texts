@@ -19,7 +19,7 @@ Philoxenus of Alexandria was a Hellenistic grammarian of the 1st century BCE. Hi
 
 ## Works
 
-- [On Monosyllabic Verbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-alexandria-monosyllabic-verbs-nca-aa.grc.md) — *Ἀποσπάσματα* · `nca-aa`
+- [On Monosyllabic Verbs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-alexandria-monosyllabic-verbs-nca-aa.grc.md) — *Ἀποσπάσματα* · `nca-aa`
 
 ## License and provenance
 

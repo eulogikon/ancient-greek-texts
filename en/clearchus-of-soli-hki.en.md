@@ -20,7 +20,7 @@ Clearchus of Soli, Peripatetic philosopher and student of Aristotle. Works prese
 
 ## Works
 
-- [On Hunting with Mirrors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-of-soli-hunting-mirrors-hki-aa.grc.md) — *Ἀποσπάσματα* · `hki-aa`
+- [On Hunting with Mirrors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-soli-hunting-mirrors-hki-aa.grc.md) — *Ἀποσπάσματα* · `hki-aa`
 
 ## License and provenance
 

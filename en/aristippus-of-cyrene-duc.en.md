@@ -19,7 +19,7 @@ Aristippus of Cyrene, Greek philosopher and follower of Socrates. Surviving frag
 
 ## Works
 
-- [Arcadian Antiquities and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene-antiquities-myths-duc-aa.grc.md) — *Ἀποσπάσματα* · `duc-aa`
+- [Arcadian Antiquities and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-cyrene-antiquities-myths-duc-aa.grc.md) — *Ἀποσπάσματα* · `duc-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Archelaus of Chersonesus, 3rd century BCE historian. Two surviving historical wo
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-epigram-jcy-ab.grc.md) — *Ἐπίγραμμα* · `jcy-ab`
-- [On Marvels of Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus-marvels-nature-jcy-aa.grc.md) — *Ἀποσπάσματα* · `jcy-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-chersonesus-epigram-jcy-ab.grc.md) — *Ἐπίγραμμα* · `jcy-ab`
+- [On Marvels of Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-chersonesus-marvels-nature-jcy-aa.grc.md) — *Ἀποσπάσματα* · `jcy-aa`
 
 ## License and provenance
 

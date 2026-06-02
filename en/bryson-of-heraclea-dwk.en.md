@@ -20,7 +20,7 @@ Bryson of Heraclea, 4th century BCE Greek sophist. Works include his treatise on
 
 ## Works
 
-- [Fragments on Economics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-of-heraclea-economics-dwk-aa.grc.md) — *Ἀποσπάσματα περὶ Οἰκονομικῶν* · `dwk-aa`
+- [Fragments on Economics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bryson-heraclea-economics-dwk-aa.grc.md) — *Ἀποσπάσματα περὶ Οἰκονομικῶν* · `dwk-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Asclepiades of Samos, Hellenistic poet of the 3rd century BCE. Works include epi
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-samos-epigrams-jce-aa.grc.md) — *Ἐπιγράμματα* · `jce-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-samos-epigrams-jce-aa.grc.md) — *Ἐπιγράμματα* · `jce-aa`
 
 ## License and provenance
 

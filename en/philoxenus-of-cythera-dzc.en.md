@@ -19,7 +19,7 @@ Philoxenus of Cythera was a Greek dithyrambic poet of the late Classical period.
 
 ## Works
 
-- [Fragments on Galatea and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera-galatea-desire-dzc-aa.grc.md) — *Ἀποσπάσματα περὶ Γαλατείας καὶ Ἔρωτος* · `dzc-aa`
+- [Fragments on Galatea and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-cythera-galatea-desire-dzc-aa.grc.md) — *Ἀποσπάσματα περὶ Γαλατείας καὶ Ἔρωτος* · `dzc-aa`
 
 ## License and provenance
 

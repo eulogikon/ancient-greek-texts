@@ -19,7 +19,7 @@ Craterus the Macedonian historian of the Hellenistic period. Surviving fragments
 
 ## Works
 
-- [Collection of Decrees](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-the-macedonian-decrees-hsk-aa.grc.md) — *Ἀποσπάσματα* · `hsk-aa`
+- [Collection of Decrees](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/craterus-macedonian-decrees-hsk-aa.grc.md) — *Ἀποσπάσματα* · `hsk-aa`
 
 ## License and provenance
 

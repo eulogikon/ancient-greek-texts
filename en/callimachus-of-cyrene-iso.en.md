@@ -19,24 +19,24 @@ Callimachus of Cyrene, Hellenistic poet and scholar. Works include poetry fragme
 
 ## Works
 
-- [Causes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-causes-iso-ap.grc.md) — *Αἴτια* · `iso-ap`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-al-iso-al.grc.md) — *Ἐπιγράμματα* · `iso-al`
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-fragments-iso-ag.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `iso-ag`
-- [Fragments of Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-ae-iso-ae.grc.md) — *Ἀποσπάσματα Ἐπιγραμμάτων* · `iso-ae`
-- [Fragments of Uncertain Author](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-author-fragments-iso-ab.grc.md) — *Ἀποσπάσματα Ἀδήλου Συγγραφέως* · `iso-ab`
-- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-uncertain-fragments-iso-aa.grc.md) — *Ἀποσπάσματα Ἀδήλου Θέσεως* · `iso-aa`
-- [Grammatical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-grammatical-fragments-iso-af.grc.md) — *Γραμματικὰ Ἀποσπάσματα* · `iso-af`
-- [Hecale](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-hecale-iso-aq.grc.md) — *Ἑκάλη* · `iso-aq`
-- [Hymns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-epigrams-am-iso-am.grc.md) — *Ὕμνοι* · `iso-am`
-- [Iambs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-iambs-iso-ar.grc.md) — *Ἴαμβοι* · `iso-ar`
-- [Lyric Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-lyric-poems-iso-ah.grc.md) — *Λυρικὰ Ποιήματα* · `iso-ah`
-- [Minor Epic and Elegiac Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-minor-epics-elegiacs-iso-ac.grc.md) — *Ἐλάσσονα Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα* · `iso-ac`
-- [To Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-apollo-iso-ak.grc.md) — *εἰς Απόλλωνα* · `iso-ak`
-- [To Artemis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-artemis-iso-ai.grc.md) — *εἰς Ἄρτεμιν* · `iso-ai`
-- [To Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-delos-iso-an.grc.md) — *εἰς Δῆλον* · `iso-an`
-- [To Demeter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-demeter-iso-aj.grc.md) — *εἰς Δήμητρα* · `iso-aj`
-- [To the Baths of Pallas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-baths-pallas-iso-ad.grc.md) — *εἰς Λουτρά τῆς Παλλάδος* · `iso-ad`
-- [To Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene-to-zeus-iso-ao.grc.md) — *εἰς Δία* · `iso-ao`
+- [Causes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-causes-iso-ap.grc.md) — *Αἴτια* · `iso-ap`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-epigrams-iso-al.grc.md) — *Ἐπιγράμματα* · `iso-al`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-fragments-iso-ag.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `iso-ag`
+- [Fragments of Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-epigrams-iso-ae.grc.md) — *Ἀποσπάσματα Ἐπιγραμμάτων* · `iso-ae`
+- [Fragments of Uncertain Author](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-uncertain-author-fragments-iso-ab.grc.md) — *Ἀποσπάσματα Ἀδήλου Συγγραφέως* · `iso-ab`
+- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-uncertain-fragments-iso-aa.grc.md) — *Ἀποσπάσματα Ἀδήλου Θέσεως* · `iso-aa`
+- [Grammatical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-grammatical-fragments-iso-af.grc.md) — *Γραμματικὰ Ἀποσπάσματα* · `iso-af`
+- [Hecale](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-hecale-iso-aq.grc.md) — *Ἑκάλη* · `iso-aq`
+- [Hymns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-epigrams-iso-am.grc.md) — *Ὕμνοι* · `iso-am`
+- [Iambs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-iambs-iso-ar.grc.md) — *Ἴαμβοι* · `iso-ar`
+- [Lyric Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-lyric-poems-iso-ah.grc.md) — *Λυρικὰ Ποιήματα* · `iso-ah`
+- [Minor Epic and Elegiac Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-minor-epics-elegiacs-iso-ac.grc.md) — *Ἐλάσσονα Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα* · `iso-ac`
+- [To Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-to-apollo-iso-ak.grc.md) — *εἰς Απόλλωνα* · `iso-ak`
+- [To Artemis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-artemis-iso-ai.grc.md) — *εἰς Ἄρτεμιν* · `iso-ai`
+- [To Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-delos-iso-an.grc.md) — *εἰς Δῆλον* · `iso-an`
+- [To Demeter](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-to-demeter-iso-aj.grc.md) — *εἰς Δήμητρα* · `iso-aj`
+- [To the Baths of Pallas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-baths-pallas-iso-ad.grc.md) — *εἰς Λουτρά τῆς Παλλάδος* · `iso-ad`
+- [To Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-cyrene-to-zeus-iso-ao.grc.md) — *εἰς Δία* · `iso-ao`
 
 ## License and provenance
 

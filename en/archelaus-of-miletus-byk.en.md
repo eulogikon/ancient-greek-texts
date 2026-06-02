@@ -20,8 +20,8 @@ Archelaus, a 5th century BCE Ionic Presocratic philosopher. Two surviving verse 
 
 ## Works
 
-- [Fragments on Cimon and Physics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-cimon-physics-byk-ab.grc.md) — *Ἀποσπάσματα περὶ Κίμωνος καὶ Φυσικῶν* · `byk-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-miletus-testimonies-byk-aa.grc.md) — *Μαρτυρίαι* · `byk-aa`
+- [Fragments on Cimon and Physics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-miletus-cimon-physics-byk-ab.grc.md) — *Ἀποσπάσματα περὶ Κίμωνος καὶ Φυσικῶν* · `byk-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-miletus-testimonies-byk-aa.grc.md) — *Μαρτυρίαι* · `byk-aa`
 
 ## License and provenance
 

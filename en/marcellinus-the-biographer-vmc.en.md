@@ -19,7 +19,7 @@ Marcellinus the Biographer, a 6th century Byzantine writer. His work is a biogra
 
 ## Works
 
-- [Life of Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer-life-of-thucydides-vmc-aa.grc.md) — *Βίος Θουκυδίδου* · `vmc-aa`
+- [Life of Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-life-of-thucydides-vmc-aa.grc.md) — *Βίος Θουκυδίδου* · `vmc-aa`
 
 ## License and provenance
 

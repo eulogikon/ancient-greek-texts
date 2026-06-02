@@ -19,7 +19,7 @@ Callixenus of Rhodes was a Hellenistic historian of the 3rd century BCE. Fragmen
 
 ## Works
 
-- [On Alexandria and Its Monuments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes-alexandria-monuments-iqq-aa.grc.md) — *Ἀποσπάσματα* · `iqq-aa`
+- [On Alexandria and Its Monuments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-rhodes-alexandria-monuments-iqq-aa.grc.md) — *Ἀποσπάσματα* · `iqq-aa`
 
 ## License and provenance
 

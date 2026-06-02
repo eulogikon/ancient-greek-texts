@@ -19,11 +19,11 @@ Theocritus of Syracuse, Hellenistic poet writing in Doric Greek. Works include b
 
 ## Works
 
-- [Epigrams (Major Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-aa-izc-aa.grc.md) — *Ἐπιγράμματα* · `izc-aa`
-- [Epigrams (Minor Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-epigrams-ab-izc-ab.grc.md) — *Ἐπιγράμματα* · `izc-ab`
-- [Fisherman's Sacrificial Rite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-fisherman-rite-izc-ac.grc.md) — *Ἀπόσπασμα* · `izc-ac`
-- [Idylls](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-idylls-izc-ad.grc.md) — *Εἰδύλλια* · `izc-ad`
-- [Syrinx](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse-syrinx-izc-ae.grc.md) — *Σῦριγξ* · `izc-ae`
+- [Epigrams (Major Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-syracuse-epigrams-izc-aa.grc.md) — *Ἐπιγράμματα* · `izc-aa`
+- [Epigrams (Minor Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-syracuse-epigrams-izc-ab.grc.md) — *Ἐπιγράμματα* · `izc-ab`
+- [Fisherman's Sacrificial Rite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-syracuse-fisherman-rite-izc-ac.grc.md) — *Ἀπόσπασμα* · `izc-ac`
+- [Idylls](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-syracuse-idylls-izc-ad.grc.md) — *Εἰδύλλια* · `izc-ad`
+- [Syrinx](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-syracuse-syrinx-izc-ae.grc.md) — *Σῦριγξ* · `izc-ae`
 
 ## License and provenance
 

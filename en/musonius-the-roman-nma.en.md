@@ -20,9 +20,9 @@ Musonius the Roman, a first century Stoic philosopher from Rome. Surviving philo
 
 ## Works
 
-- [Minor Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-minor-fragments-nma-ac.grc.md) — *Ἀποσπάσματα Μικρά* · `nma-ac`
-- [Remains of the Dissertations Compiled by Lucius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-dissertations-nma-aa.grc.md) — *Λείψανα Διατριβῶν ὑπὸ Λουκίου* · `nma-aa`
-- [Spurious Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-the-roman-spurious-letters-nma-ab.grc.md) — *Νόθαι Ἐπιστολαί* · `nma-ab`
+- [Minor Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-roman-minor-fragments-nma-ac.grc.md) — *Ἀποσπάσματα Μικρά* · `nma-ac`
+- [Remains of the Dissertations Compiled by Lucius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-roman-dissertations-nma-aa.grc.md) — *Λείψανα Διατριβῶν ὑπὸ Λουκίου* · `nma-aa`
+- [Spurious Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musonius-roman-spurious-letters-nma-ab.grc.md) — *Νόθαι Ἐπιστολαί* · `nma-ab`
 
 ## License and provenance
 

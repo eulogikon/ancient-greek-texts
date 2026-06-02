@@ -19,7 +19,7 @@ Sositheus of Alexandria Troas, 3rd century BCE dramatist. Surviving dramatic ver
 
 ## Works
 
-- [Fragments on the Glutton of Celaenae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-of-alexandria-troas-glutton-celaenae-iqg-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Γάστρονος τῆς Κελαινῶν* · `iqg-aa`
+- [Fragments on the Glutton of Celaenae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sositheus-alexandria-troas-glutton-celaenae-iqg-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Γάστρονος τῆς Κελαινῶν* · `iqg-aa`
 
 ## License and provenance
 

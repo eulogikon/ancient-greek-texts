@@ -20,7 +20,7 @@ Metopus was a Hellenistic Pythagorean philosopher. Surviving treatise fragments 
 
 ## Works
 
-- [On the Nature of Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-the-philosopher-nature-virtue-kjg-aa.grc.md) — *Ἀποσπάσματα* · `kjg-aa`
+- [On the Nature of Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metopus-nature-virtue-kjg-aa.grc.md) — *Ἀποσπάσματα* · `kjg-aa`
 
 ## License and provenance
 

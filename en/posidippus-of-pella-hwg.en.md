@@ -19,8 +19,8 @@ Posidippus of Pella was a Hellenistic poet of the 3rd century BCE. Surviving wor
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-epigrams-hwg-ab.grc.md) — *Ἐπιγράμματα* · `hwg-ab`
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella-fragments-hwg-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hwg-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-pella-epigrams-hwg-ab.grc.md) — *Ἐπιγράμματα* · `hwg-ab`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-pella-fragments-hwg-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hwg-aa`
 
 ## License and provenance
 

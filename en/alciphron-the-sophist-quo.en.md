@@ -20,7 +20,7 @@ Alciphron was a Greek sophist and epistolographer. His surviving works are ficti
 
 ## Works
 
-- [Fishermen's Sea Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-the-sophist-sea-letters-quo-aa.grc.md) — *Ἐπιστολαί* · `quo-aa`
+- [Fishermen's Sea Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alciphron-sea-letters-quo-aa.grc.md) — *Ἐπιστολαί* · `quo-aa`
 
 ## License and provenance
 

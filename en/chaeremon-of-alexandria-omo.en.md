@@ -20,7 +20,7 @@ Chaeremon of Alexandria was a first century Stoic philosopher. Surviving works i
 
 ## Works
 
-- [Fragments on Egyptian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria-egyptian-history-omo-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰγυπτιακῆς Ἱστορίας* · `omo-aa`
+- [Fragments on Egyptian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-alexandria-egyptian-history-omo-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰγυπτιακῆς Ἱστορίας* · `omo-aa`
 
 ## License and provenance
 

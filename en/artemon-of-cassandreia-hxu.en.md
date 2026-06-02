@@ -19,7 +19,7 @@ Artemon of Cassandreia, Hellenistic grammarian of the 4th century BCE. Surviving
 
 ## Works
 
-- [On the Collection and Use of Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-cassandreia-books-collection-use-hxu-aa.grc.md) — *Ἀποσπάσματα* · `hxu-aa`
+- [On the Collection and Use of Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-cassandreia-books-collection-use-hxu-aa.grc.md) — *Ἀποσπάσματα* · `hxu-aa`
 
 ## License and provenance
 

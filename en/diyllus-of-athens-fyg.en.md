@@ -19,7 +19,7 @@ Diyllus of Athens was a classical historian of the 4th century BCE. His historic
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens-historical-fragments-fyg-aa.grc.md) — *Ἀποσπάσματα* · `fyg-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-athens-historical-fragments-fyg-aa.grc.md) — *Ἀποσπάσματα* · `fyg-aa`
 
 ## License and provenance
 

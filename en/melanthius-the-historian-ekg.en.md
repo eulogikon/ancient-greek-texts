@@ -19,7 +19,7 @@ Melanthius the Historian, a 4th century BCE Attic historian. Surviving works in 
 
 ## Works
 
-- [Fragments on Eleusinian Mysteries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian-eleusinian-mysteries-ekg-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἐλευσινίων Μυστηρίων* · `ekg-aa`
+- [Fragments on Eleusinian Mysteries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-eleusinian-mysteries-ekg-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἐλευσινίων Μυστηρίων* · `ekg-aa`
 
 ## License and provenance
 

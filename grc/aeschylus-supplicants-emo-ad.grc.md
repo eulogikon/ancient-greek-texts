@@ -802,6 +802,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τὸ μὴ μάταιον δ’ ἐκ μετώ πω σωφρονῶν
 
+*[crux: μετώ]*
+
 ### 195.5
 
 ἴτω προσώπων ὄμματος παρ’ ἡσύχου.
@@ -1077,6 +1079,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 265.2
 
 χρανθεῖς’ ἀνῆκε γαῖα μηνεῖται ἄκη
+
+*[crux: μηνεῖται]*
 
 ### 265.3
 
@@ -1449,6 +1453,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 360.3
 
 ποτιτρόπαιον αἰδόμενος οὖνπερ
+
+*[crux: οὖνπερ]*
 
 ### 360.4
 
@@ -1986,6 +1992,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 βωμοὺς προνάους καὶ πολισσούχων ἕδρας
 
+*[crux: πολισσούχων]*
+
 ### 495.1
 
 εὕρωμεν, ἀσφάλεια δ’ ᾖ δι’ ἄστεως
@@ -2065,6 +2073,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 510.5
 
 Βα.ἀεὶ δ’ ἀνάκτων ἐστι δεῖμ’ ἐξαίσιον.
+
+*[crux: ἀνάκτων]*
 
 ### 515.1
 
@@ -3170,6 +3180,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 βρόχου τυχεῖν ἐν σαργάναις ,
 
+*[crux: ἐν σαργάναις]*
+
 ### 790.1
 
 πρὶν ἄνδρ’ ἀπευκτὸν τῷδε χριμφθῆναι χροΐ·
@@ -3258,6 +3270,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 λύσιμα μάχιμα δ’· ἔπιδε, πάτερ,
 
+*[crux: μάχιμα]*
+
 ### 812-813
 
 βίαια μὴ φίλοις ὁρῶν
@@ -3334,6 +3348,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὁρῶ τάδε φροίμια πράξαν πόνων
 
+*[crux: πράξαν]*
+
 ### 830.2
 
 βιαίων ἐμῶν. ἠὲ ἠέ.
@@ -3381,6 +3397,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 840.3
 
 σοῦσθε σοῦσθ’ ὀλύμεναι ὀλόμεν’ ἐπ’ ἀμάδα.
+
+*[crux: ὀλύμεναι]*
 
 ### 842.1
 
@@ -3466,6 +3484,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 βάτεαι βαθυμιτροκακὰ παθῶν
 
+*[crux: βάτεαι βαθυμιτροκακὰ παθῶν]*
+
 ### 865
 
 [ὀλόμεναι παλάμαις].
@@ -3513,6 +3533,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 875
 
 βόα, πικρότερ’ ἀχέων οἰζύος ὄνομ’ ἔχων.
+
+*[crux: βόα, πικρότερ’ ἀχέων οἰζύος ὄνομ’ ἔχων.]*
 
 ### 875.1
 
@@ -3977,6 +3999,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 990.1
 
 χάριν σέβεσθαι τιμιωτέραν ἐμοῦ.
+
+*[crux: ἐμοῦ]*
 
 ### 990.2
 

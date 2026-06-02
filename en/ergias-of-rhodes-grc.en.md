@@ -19,7 +19,7 @@ Ergias of Rhodes was a 4th century BCE historian writing in Doric Greek. His his
 
 ## Works
 
-- [Fragments on Rhodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-of-rhodes-fragments-grc-aa.grc.md) — *Ἀποσπάσματα περὶ Ῥόδου* · `grc-aa`
+- [Fragments on Rhodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-rhodes-fragments-grc-aa.grc.md) — *Ἀποσπάσματα περὶ Ῥόδου* · `grc-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Apollodorus of Gela was a 4th century BCE Attic comic poet. His surviving comedy
 
 ## Works
 
-- [Fragments on Greed and Possessions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-greed-possessions-hee-aa.grc.md) — *Ἀποσπάσματα περὶ Πλεονεξίας καὶ Κτημάτων* · `hee-aa`
-- [Fragments on Household Management](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela-household-management-hee-ab.grc.md) — *Ἀποσπάσματα περὶ Οἰκονομίας* · `hee-ab`
+- [Fragments on Greed and Possessions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-gela-greed-possessions-hee-aa.grc.md) — *Ἀποσπάσματα περὶ Πλεονεξίας καὶ Κτημάτων* · `hee-aa`
+- [Fragments on Household Management](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-gela-household-management-hee-ab.grc.md) — *Ἀποσπάσματα περὶ Οἰκονομίας* · `hee-ab`
 
 ## License and provenance
 

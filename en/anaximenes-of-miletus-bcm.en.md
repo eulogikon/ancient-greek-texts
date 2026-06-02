@@ -20,8 +20,8 @@ Anaximenes of Miletus, 6th century BCE Ionian philosopher. Surviving fragments o
 
 ## Works
 
-- [Fragments on Cold and Heat](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-cold-heat-bcm-ab.grc.md) — *Ἀποσπάσματα περὶ Ψύχους καὶ Θέρμης* · `bcm-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-miletus-testimonies-bcm-aa.grc.md) — *Μαρτυρίαι* · `bcm-aa`
+- [Fragments on Cold and Heat](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-miletus-cold-heat-bcm-ab.grc.md) — *Ἀποσπάσματα περὶ Ψύχους καὶ Θέρμης* · `bcm-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-miletus-testimonies-bcm-aa.grc.md) — *Μαρτυρίαι* · `bcm-aa`
 
 ## License and provenance
 

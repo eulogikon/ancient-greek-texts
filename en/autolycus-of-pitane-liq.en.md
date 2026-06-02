@@ -19,8 +19,8 @@ Autolycus of Pitane, Hellenistic astronomer and mathematician. Two treatises on 
 
 ## Works
 
-- [On Risings and Settings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-risings-settings-liq-aa.grc.md) — *Περὶ Ἀνατολῶν καὶ Δύσεων* · `liq-aa`
-- [On the Moving Sphere](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-of-pitane-moving-sphere-liq-ab.grc.md) — *Περὶ τῆς κινούμενης σφαίρας* · `liq-ab`
+- [On Risings and Settings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-pitane-risings-settings-liq-aa.grc.md) — *Περὶ Ἀνατολῶν καὶ Δύσεων* · `liq-aa`
+- [On the Moving Sphere](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autolycus-pitane-moving-sphere-liq-ab.grc.md) — *Περὶ τῆς κινούμενης σφαίρας* · `liq-ab`
 
 ## License and provenance
 

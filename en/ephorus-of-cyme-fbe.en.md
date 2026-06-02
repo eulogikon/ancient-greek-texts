@@ -19,9 +19,9 @@ Ephorus of Cyme was a 4th century BCE Greek historian. Read his historical fragm
 
 ## Works
 
-- [Fragments on Harmonia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-harmonia-fbe-ac.grc.md) — *Ἀποσπάσματα περὶ Ἁρμονίας* · `fbe-ac`
-- [Fragments on Homer's Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-homer-origins-fbe-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμήρου Γενέσεως* · `fbe-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme-testimonies-fbe-aa.grc.md) — *Μαρτυρίαι* · `fbe-aa`
+- [Fragments on Harmonia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-cyme-harmonia-fbe-ac.grc.md) — *Ἀποσπάσματα περὶ Ἁρμονίας* · `fbe-ac`
+- [Fragments on Homer's Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-cyme-homer-origins-fbe-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμήρου Γενέσεως* · `fbe-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-cyme-testimonies-fbe-aa.grc.md) — *Μαρτυρίαι* · `fbe-aa`
 
 ## License and provenance
 

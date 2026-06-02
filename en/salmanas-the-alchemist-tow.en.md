@@ -19,7 +19,7 @@ Salmanas the Alchemist, a late antique Greco-Egyptian alchemist. His treatise ex
 
 ## Works
 
-- [Method by Which Spherical Hail is Made by the Renowned Craftsman Arabus Salmanas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-the-alchemist-spherical-hail-method-tow-aa.grc.md) — *Μέθοδος δι’ ἧς ἀποτελεῖται ἡ σφαιροειδὴς χάλαζα* · `tow-aa`
+- [Method by Which Spherical Hail is Made by the Renowned Craftsman Arabus Salmanas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/salmanas-spherical-hail-method-tow-aa.grc.md) — *Μέθοδος δι’ ἧς ἀποτελεῖται ἡ σφαιροειδὴς χάλαζα* · `tow-aa`
 
 ## License and provenance
 

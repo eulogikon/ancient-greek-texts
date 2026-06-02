@@ -19,7 +19,7 @@ Androetas of Tenos was a 4th century BCE historian writing in Ionic Greek. His s
 
 ## Works
 
-- [Periplus of the Propontis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-of-tenos-periplus-propontis-gue-aa.grc.md) — *Ἀπόσπασμα* · `gue-aa`
+- [Periplus of the Propontis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androetas-tenos-periplus-propontis-gue-aa.grc.md) — *Ἀπόσπασμα* · `gue-aa`
 
 ## License and provenance
 

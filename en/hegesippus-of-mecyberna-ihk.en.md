@@ -19,7 +19,7 @@ Hegesippus of Mecyberna was a 4th century BCE historian. His surviving historica
 
 ## Works
 
-- [Fragments on Pallene](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-of-mecyberna-pallene-ihk-aa.grc.md) — *Ἀποσπάσματα περὶ Παλλήνης* · `ihk-aa`
+- [Fragments on Pallene](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-mecyberna-pallene-ihk-aa.grc.md) — *Ἀποσπάσματα περὶ Παλλήνης* · `ihk-aa`
 
 ## License and provenance
 

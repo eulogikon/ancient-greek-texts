@@ -19,8 +19,8 @@ Lycus of Rhegium was a Hellenistic historian of the 4th-3rd century BCE. Two his
 
 ## Works
 
-- [Fragments on Alexandrian Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycus-of-rhegium-alexandrian-prosody-kgo-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Προσωδίας* · `kgo-aa`
-- [On Alexander and Italian Lore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycus-of-rhegium-alexander-italian-lore-kgo-ab.grc.md) — *Ἀποσπάσματα* · `kgo-ab`
+- [Fragments on Alexandrian Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycus-rhegium-alexandrian-prosody-kgo-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Προσωδίας* · `kgo-aa`
+- [On Alexander and Italian Lore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycus-rhegium-alexander-italian-lore-kgo-ab.grc.md) — *Ἀποσπάσματα* · `kgo-ab`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Lollianus, Greek author of prose fiction from the Roman Empire. Three surviving 
 
 ## Works
 
-- [Phoenician Matters (Main Papyrus Fragment)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer-phoenician-matters-aa-qek-aa.grc.md) — *Φοινικικά* · `qek-aa`
-- [Phoenician Matters (Minor Fragment)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer-phoenician-matters-ac-qek-ac.grc.md) — *Φοινικικά* · `qek-ac`
-- [Phoenician Matters (Secondary Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer-phoenician-matters-ab-qek-ab.grc.md) — *Φοινικικά* · `qek-ab`
+- [Phoenician Matters (Main Papyrus Fragment)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-phoenician-matters-qek-aa.grc.md) — *Φοινικικά* · `qek-aa`
+- [Phoenician Matters (Minor Fragment)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-phoenician-matters-qek-ac.grc.md) — *Φοινικικά* · `qek-ac`
+- [Phoenician Matters (Secondary Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-phoenician-matters-qek-ab.grc.md) — *Φοινικικά* · `qek-ab`
 
 ## License and provenance
 

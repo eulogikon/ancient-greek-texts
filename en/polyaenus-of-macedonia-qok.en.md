@@ -19,9 +19,9 @@ Polyaenus of Macedonia, second century CE Roman era orator. Three surviving orat
 
 ## Works
 
-- [Excerpts from Polyaenus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-excerpts-qok-aa.grc.md) — *Ἐκλογαὶ ἐκ Πολυαίνου* · `qok-aa`
-- [Fragments on Macedonian Governance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-governance-qok-ac.grc.md) — *Ἀποσπάσματα περὶ Μακεδονικῆς Πολιτείας* · `qok-ac`
-- [Stratagems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-of-macedonia-stratagems-qok-ab.grc.md) — *Στρατηγήματα* · `qok-ab`
+- [Excerpts from Polyaenus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-macedonia-excerpts-qok-aa.grc.md) — *Ἐκλογαὶ ἐκ Πολυαίνου* · `qok-aa`
+- [Fragments on Macedonian Governance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-macedonia-governance-qok-ac.grc.md) — *Ἀποσπάσματα περὶ Μακεδονικῆς Πολιτείας* · `qok-ac`
+- [Stratagems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyaenus-macedonia-stratagems-qok-ab.grc.md) — *Στρατηγήματα* · `qok-ab`
 
 ## License and provenance
 

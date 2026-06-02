@@ -19,7 +19,7 @@ Eustochius of Cappadocia, 4th century CE orator writing in Koine Greek. His surv
 
 ## Works
 
-- [On the City of Pantikapaion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-of-cappadocia-pantikapaion-ugo-aa.grc.md) — *Ἀπόσπασμα* · `ugo-aa`
+- [On the City of Pantikapaion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-cappadocia-pantikapaion-ugo-aa.grc.md) — *Ἀπόσπασμα* · `ugo-aa`
 
 ## License and provenance
 

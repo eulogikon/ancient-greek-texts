@@ -20,8 +20,8 @@ Chamaeleon was a Peripatetic philosopher from the late 4th century BCE. Two frag
 
 ## Works
 
-- [Fragments on Music and Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-music-maxims-gww-aa.grc.md) — *Ἀποσπάσματα περὶ Μουσικῆς καὶ Γνωμῶν* · `gww-aa`
-- [Fragments on Poetic Criticism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab.grc.md) — *Ἀποσπάσματα περὶ Ποητικῆς Κρίσεως* · `gww-ab`
+- [Fragments on Music and Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-heraclea-music-maxims-gww-aa.grc.md) — *Ἀποσπάσματα περὶ Μουσικῆς καὶ Γνωμῶν* · `gww-aa`
+- [Fragments on Poetic Criticism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-heraclea-poetic-criticism-gww-ab.grc.md) — *Ἀποσπάσματα περὶ Ποητικῆς Κρίσεως* · `gww-ab`
 
 ## License and provenance
 

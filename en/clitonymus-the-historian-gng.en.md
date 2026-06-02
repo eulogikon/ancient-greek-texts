@@ -19,7 +19,7 @@ Clitonymus the Historian, a 4th century BCE Attic writer. Historical fragments f
 
 ## Works
 
-- [Fragments on Italian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitonymus-the-historian-italian-cities-gng-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλικῶν Πόλεων* · `gng-aa`
+- [Fragments on Italian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitonymus-italian-cities-gng-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλικῶν Πόλεων* · `gng-aa`
 
 ## License and provenance
 

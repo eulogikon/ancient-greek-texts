@@ -20,7 +20,7 @@ Oenomaus of Gadara was a Cynic philosopher of the 2nd century CE. Surviving phil
 
 ## Works
 
-- [Fragments Against Oracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara-against-oracles-pak-aa.grc.md) — *Ἀποσπάσματα περὶ Χρηστηρίων* · `pak-aa`
+- [Fragments Against Oracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-gadara-against-oracles-pak-aa.grc.md) — *Ἀποσπάσματα περὶ Χρηστηρίων* · `pak-aa`
 
 ## License and provenance
 

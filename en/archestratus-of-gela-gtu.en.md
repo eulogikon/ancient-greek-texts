@@ -19,8 +19,8 @@ Archestratus of Gela, a 4th century BCE poet in Homeric style. Fragments of his 
 
 ## Works
 
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-fragments-gtu-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `gtu-aa`
-- [Gastronomic Journey Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-of-gela-gastronomic-journey-gtu-ab.grc.md) — *Ἀποσπάσματα* · `gtu-ab`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-gela-fragments-gtu-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `gtu-aa`
+- [Gastronomic Journey Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archestratus-gela-gastronomic-journey-gtu-ab.grc.md) — *Ἀποσπάσματα* · `gtu-ab`
 
 ## License and provenance
 

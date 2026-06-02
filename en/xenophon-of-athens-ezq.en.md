@@ -19,21 +19,21 @@ Xenophon of Athens, a classical historian and philosopher. Works include the Ana
 
 ## Works
 
-- [Agesilaus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-agesilaus-ezq-ai.grc.md) — *Ἀγησίλαος* · `ezq-ai`
-- [Anabasis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-anabasis-ezq-am.grc.md) — *Ἀνάβασις* · `ezq-am`
-- [Apology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-apology-ezq-an.grc.md) — *Ἀπολογία* · `ezq-an`
-- [Constitution of the Athenians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-ezq-ab.grc.md) — *Ἀθηναίων Πολιτεία* · `ezq-ab`
-- [Constitution of the Lacedaemonians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-constitution-lacedaemonians-ezq-aa.grc.md) — *Λακεδαιμονίων Πολιτεία* · `ezq-aa`
-- [Cyropaedia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cyropaedia-ezq-ag.grc.md) — *Κύρου Παιδεία* · `ezq-ag`
-- [Economics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-economics-ezq-aj.grc.md) — *Οἰκονομικός* · `ezq-aj`
-- [Hellenica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hellenica-ezq-ak.grc.md) — *Ἑλληνικά* · `ezq-ak`
-- [Hiero](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hiero-ezq-ao.grc.md) — *Ἱέρων* · `ezq-ao`
-- [Memorabilia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-memorabilia-ezq-af.grc.md) — *Κύρου Ἀνάβασις* · `ezq-af`
-- [On Hunting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-hunting-ezq-ah.grc.md) — *Κυνηγετικός* · `ezq-ah`
-- [On the Art of Horsemanship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-horsemanship-ezq-ac.grc.md) — *Περὶ Ἱππικῆς* · `ezq-ac`
-- [On the Cavalry Commander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-cavalry-commander-ezq-ad.grc.md) — *Περὶ Ἱππαρχίας* · `ezq-ad`
-- [Symposium](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-symposium-ezq-al.grc.md) — *Συμπόσιον* · `ezq-al`
-- [Ways and Means](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens-ways-means-ezq-ae.grc.md) — *Πόροι ἢ Περὶ Προσόδων* · `ezq-ae`
+- [Agesilaus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-agesilaus-ezq-ai.grc.md) — *Ἀγησίλαος* · `ezq-ai`
+- [Anabasis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-anabasis-ezq-am.grc.md) — *Ἀνάβασις* · `ezq-am`
+- [Apology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-apology-ezq-an.grc.md) — *Ἀπολογία* · `ezq-an`
+- [Constitution of the Athenians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-constitution-ezq-ab.grc.md) — *Ἀθηναίων Πολιτεία* · `ezq-ab`
+- [Constitution of the Lacedaemonians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-constitution-lacedaemonians-ezq-aa.grc.md) — *Λακεδαιμονίων Πολιτεία* · `ezq-aa`
+- [Cyropaedia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-cyropaedia-ezq-ag.grc.md) — *Κύρου Παιδεία* · `ezq-ag`
+- [Economics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-economics-ezq-aj.grc.md) — *Οἰκονομικός* · `ezq-aj`
+- [Hellenica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-hellenica-ezq-ak.grc.md) — *Ἑλληνικά* · `ezq-ak`
+- [Hiero](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-hiero-ezq-ao.grc.md) — *Ἱέρων* · `ezq-ao`
+- [Memorabilia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-memorabilia-ezq-af.grc.md) — *Κύρου Ἀνάβασις* · `ezq-af`
+- [On Hunting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-hunting-ezq-ah.grc.md) — *Κυνηγετικός* · `ezq-ah`
+- [On the Art of Horsemanship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-horsemanship-ezq-ac.grc.md) — *Περὶ Ἱππικῆς* · `ezq-ac`
+- [On the Cavalry Commander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-cavalry-commander-ezq-ad.grc.md) — *Περὶ Ἱππαρχίας* · `ezq-ad`
+- [Symposium](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-symposium-ezq-al.grc.md) — *Συμπόσιον* · `ezq-al`
+- [Ways and Means](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-athens-ways-means-ezq-ae.grc.md) — *Πόροι ἢ Περὶ Προσόδων* · `ezq-ae`
 
 ## License and provenance
 

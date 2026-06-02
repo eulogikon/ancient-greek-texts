@@ -19,7 +19,7 @@ Diogenianus the Grammarian, a 2nd century CE Roman scholar. Philosophical treati
 
 ## Works
 
-- [Fragments on Fate and Homer](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-the-grammarian-fate-homer-pby-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁμήρου* · `pby-aa`
+- [Fragments on Fate and Homer](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-fate-homer-pby-aa.grc.md) — *Ἀποσπάσματα περὶ Εἱμαρμένης καὶ Ὁμήρου* · `pby-aa`
 
 ## License and provenance
 

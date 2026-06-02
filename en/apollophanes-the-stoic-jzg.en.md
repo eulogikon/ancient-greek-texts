@@ -20,7 +20,7 @@ Apollophanes was a Stoic philosopher of the 3rd century BCE. Surviving works are
 
 ## Works
 
-- [Fragments on Physics and Perception](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic-physics-perception-jzg-aa.grc.md) — *Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθήσεως* · `jzg-aa`
+- [Fragments on Physics and Perception](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-stoic-physics-perception-jzg-aa.grc.md) — *Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθήσεως* · `jzg-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Aristodemus the Historian, a Hellenistic era writer. Surviving historical fragme
 
 ## Works
 
-- [Fragments on Mardonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-mardonius-fragments-nie-ab.grc.md) — *Ἀποσπάσματα περὶ Μαρδονίου* · `nie-ab`
-- [Fragments on the Battle of Salamis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian-battle-salamis-nie-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς ἐν Σαλαμῖνι Ναυμαχίας* · `nie-aa`
+- [Fragments on Mardonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-mardonius-fragments-nie-ab.grc.md) — *Ἀποσπάσματα περὶ Μαρδονίου* · `nie-ab`
+- [Fragments on the Battle of Salamis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-battle-salamis-nie-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς ἐν Σαλαμῖνι Ναυμαχίας* · `nie-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Astrampsychus the Magician was a Roman era author of scientific works. Two treat
 
 ## Works
 
-- [Oracles (Long Recension)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-aa-ptg-aa.grc.md) — *Χρησμοί* · `ptg-aa`
-- [Oracles (Short Recension)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-the-magician-oracles-ab-ptg-ab.grc.md) — *Χρησμοί* · `ptg-ab`
+- [Oracles (Long Recension)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-oracles-ptg-aa.grc.md) — *Χρησμοί* · `ptg-aa`
+- [Oracles (Short Recension)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/astrampsychus-oracles-ptg-ab.grc.md) — *Χρησμοί* · `ptg-ab`
 
 ## License and provenance
 

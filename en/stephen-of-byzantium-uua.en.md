@@ -19,8 +19,8 @@ Stephen of Byzantium, 6th century CE grammarian and lexicographer. Author of the
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-epigram-uua-ab.grc.md) — *Ἐπίγραμμα* · `uua-ab`
-- [Summary of Ethnica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium-ethnica-summary-uua-aa.grc.md) — *Σύνοψις τῶν Ἐθνικῶν* · `uua-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-byzantium-epigram-uua-ab.grc.md) — *Ἐπίγραμμα* · `uua-ab`
+- [Summary of Ethnica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-byzantium-ethnica-summary-uua-aa.grc.md) — *Σύνοψις τῶν Ἐθνικῶν* · `uua-aa`
 
 ## License and provenance
 

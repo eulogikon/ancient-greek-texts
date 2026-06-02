@@ -19,7 +19,7 @@ Corinna, Boeotian lyric poet and contemporary of Pindar. Her surviving poetic fr
 
 ## Works
 
-- [Fragments on the Birth of Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra-birth-of-zeus-bnq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Διὸς Γενέσεως* · `bnq-aa`
+- [Fragments on the Birth of Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-tanagra-birth-of-zeus-bnq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Διὸς Γενέσεως* · `bnq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dosiadas of Cydonia, a 4th-3rd century BCE Greek historian. His historical works
 
 ## Works
 
-- [On Cretan Communal Feasts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-cydonia-communal-feasts-hey-aa.grc.md) — *Ἀποσπάσματα* · `hey-aa`
+- [On Cretan Communal Feasts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-cydonia-communal-feasts-hey-aa.grc.md) — *Ἀποσπάσματα* · `hey-aa`
 
 ## License and provenance
 

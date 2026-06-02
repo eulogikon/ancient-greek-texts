@@ -19,8 +19,8 @@ Sappho and Alcaeus were major lyric poets from Lesbos. Their surviving works inc
 
 ## Works
 
-- [Fragments on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-virtue-anc-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀρετῆς* · `anc-ab`
-- [Lyric Fragments of Love and Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments-love-myth-anc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Μύθων* · `anc-aa`
+- [Fragments on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-alcaeus-fragments-virtue-anc-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀρετῆς* · `anc-ab`
+- [Lyric Fragments of Love and Myth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-alcaeus-fragments-love-myth-anc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Μύθων* · `anc-aa`
 
 ## License and provenance
 

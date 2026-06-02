@@ -19,7 +19,7 @@ Marcellus of Side, a 2nd century CE Roman era poet. Surviving works include frag
 
 ## Works
 
-- [On Fish](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side-fish-pku-aa.grc.md) — *Περὶ Ἰχθύων* · `pku-aa`
+- [On Fish](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-side-fish-pku-aa.grc.md) — *Περὶ Ἰχθύων* · `pku-aa`
 
 ## License and provenance
 

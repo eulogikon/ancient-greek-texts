@@ -19,7 +19,7 @@ Gryllus of Athens, a 4th century BCE Attic poet. Read his surviving poetic fragm
 
 ## Works
 
-- [Heracles and the Mime in Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens-mime-contest-cgw-aa.grc.md) — *Ἀπόσπασμα* · `cgw-aa`
+- [Heracles and the Mime in Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-athens-mime-contest-cgw-aa.grc.md) — *Ἀπόσπασμα* · `cgw-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Gaius Asinius Quadratus, 3rd century CE Roman historian writing in Ionic Greek. 
 
 ## Works
 
-- [Fragments of the Parthica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-asinius-quadratus-parthica-fragments-rmg-aa.grc.md) — *Ἀποσπάσματα τῆς Παρθικῆς* · `rmg-aa`
+- [Fragments of the Parthica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quadratus-parthica-fragments-rmg-aa.grc.md) — *Ἀποσπάσματα τῆς Παρθικῆς* · `rmg-aa`
 
 ## License and provenance
 

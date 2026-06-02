@@ -20,7 +20,7 @@ Athamas of Posidonia, a 5th century BCE Pythagorean philosopher. Surviving philo
 
 ## Works
 
-- [On the Four Roots of All Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-of-posidonia-four-roots-dcu-aa.grc.md) — *Ἀπόσπασμα* · `dcu-aa`
+- [On the Four Roots of All Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athamas-posidonia-four-roots-dcu-aa.grc.md) — *Ἀπόσπασμα* · `dcu-aa`
 
 ## License and provenance
 

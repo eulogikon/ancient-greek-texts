@@ -19,7 +19,7 @@ Aristocrates of Sparta, a 4th century BCE historian writing in Doric Greek. Frag
 
 ## Works
 
-- [Fragments on Spartan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta-customs-fau-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν* · `fau-aa`
+- [Fragments on Spartan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-sparta-customs-fau-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν* · `fau-aa`
 
 ## License and provenance
 

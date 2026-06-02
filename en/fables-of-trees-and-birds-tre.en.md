@@ -19,7 +19,7 @@ Anonymous Late Antique poet of the 3rd to 5th century CE. Verse fables about tre
 
 ## Works
 
-- [Fragments P. Heidelberg 222](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds-heidelberg-222-tre-aa.grc.md) — *Ἀποσπάσματα Π. Ἑϊδελβέργ 222* · `tre-aa`
+- [Fragments P. Heidelberg 222](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-trees-birds-heidelberg-222-tre-aa.grc.md) — *Ἀποσπάσματα Π. Ἑϊδελβέργ 222* · `tre-aa`
 
 ## License and provenance
 

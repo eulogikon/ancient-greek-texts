@@ -19,7 +19,7 @@ Autocrates was a Hellenistic historian of the 3rd to 2nd century BCE. His surviv
 
 ## Works
 
-- [Fragments on Achaean Cults](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian-achaean-cults-knw-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν* · `knw-aa`
+- [Fragments on Achaean Cults](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-achaean-cults-knw-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν* · `knw-aa`
 
 ## License and provenance
 

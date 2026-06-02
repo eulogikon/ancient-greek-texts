@@ -19,9 +19,9 @@ Machon of Sinope was a Hellenistic poet of comedy in Koine Greek. Surviving work
 
 ## Works
 
-- [Anecdotes of Court and Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-court-comedy-kpk-aa.grc.md) — *Ἀποσπάσματα* · `kpk-aa`
-- [Culinary and Comic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ab-kpk-ab.grc.md) — *Ἀποσπάσματα* · `kpk-ab`
-- [Culinary and Comic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope-culinary-comic-ac-kpk-ac.grc.md) — *Ἀποσπάσματα* · `kpk-ac`
+- [Anecdotes of Court and Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-sinope-court-comedy-kpk-aa.grc.md) — *Ἀποσπάσματα* · `kpk-aa`
+- [Culinary and Comic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-sinope-culinary-comic-kpk-ac.grc.md) — *Ἀποσπάσματα* · `kpk-ac`
+- [Culinary and Comic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-sinope-culinary-comic-kpk-ab.grc.md) — *Ἀποσπάσματα* · `kpk-ab`
 
 ## License and provenance
 

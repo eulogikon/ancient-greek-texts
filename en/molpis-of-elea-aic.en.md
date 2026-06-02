@@ -19,7 +19,7 @@ Molpis of Elea, a 6th century BCE Ionic Greek historian. His surviving historica
 
 ## Works
 
-- [On Spartan Customs and Cuisine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea-sparta-cuisine-aic-aa.grc.md) — *Ἀποσπάσματα* · `aic-aa`
+- [On Spartan Customs and Cuisine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-elea-sparta-cuisine-aic-aa.grc.md) — *Ἀποσπάσματα* · `aic-aa`
 
 ## License and provenance
 

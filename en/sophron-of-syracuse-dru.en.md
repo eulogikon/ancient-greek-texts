@@ -19,8 +19,8 @@ Sophron of Syracuse, 5th century BCE writer of Doric mime. Surviving fragments o
 
 ## Works
 
-- [Fragments on Purification Rituals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-purification-rituals-dru-ab.grc.md) — *Ἀποσπάσματα περὶ Καθαρσίων* · `dru-ab`
-- [Mime Fragments of Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse-mime-daily-life-dru-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dru-aa`
+- [Fragments on Purification Rituals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-syracuse-purification-rituals-dru-ab.grc.md) — *Ἀποσπάσματα περὶ Καθαρσίων* · `dru-ab`
+- [Mime Fragments of Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-syracuse-mime-daily-life-dru-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dru-aa`
 
 ## License and provenance
 

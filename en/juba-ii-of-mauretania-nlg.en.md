@@ -19,7 +19,7 @@ Juba II, Hellenistic king and scholar of the 1st century BCE. Works on geography
 
 ## Works
 
-- [Roman History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania-roman-history-nlg-aa.grc.md) — *Ἀποσπάσματα* · `nlg-aa`
+- [Roman History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-mauretania-roman-history-nlg-aa.grc.md) — *Ἀποσπάσματα* · `nlg-aa`
 
 ## License and provenance
 

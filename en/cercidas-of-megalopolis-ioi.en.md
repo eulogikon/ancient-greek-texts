@@ -19,7 +19,7 @@ Cercidas, a 3rd century BCE poet and statesman from Megalopolis. Fragments of hi
 
 ## Works
 
-- [Fragments of Cynic Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis-cynic-satire-ioi-aa.grc.md) — *Ἀποσπάσματα τῆς Κυνικῆς Σατύρας* · `ioi-aa`
+- [Fragments of Cynic Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-megalopolis-cynic-satire-ioi-aa.grc.md) — *Ἀποσπάσματα τῆς Κυνικῆς Σατύρας* · `ioi-aa`
 
 ## License and provenance
 

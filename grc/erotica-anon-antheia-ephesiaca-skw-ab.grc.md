@@ -1,0 +1,39 @@
+---
+title: "Antheia, Possibly Epitome of Ephesiaca"
+title_greek: Ἄνθεια
+author: Erotic Narrative Anonymous
+eul_wid: skw-ab
+eul_aid: skw
+canonical: "https://eulogikon.org/works/erotica-anon-antheia-ephesiaca-skw-ab"
+period: Late Antique
+dialect: Koine
+domain: Fiction
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Antheia, Possibly Epitome of Ephesiaca
+
+*Ἄνθεια*
+
+**Author:** Erotic Narrative Anonymous
+
+**eul_wid:** `skw-ab` · [HTML page](https://eulogikon.org/works/erotica-anon-antheia-ephesiaca-skw-ab)
+
+## Text
+
+### col1
+
+[ .. ]εις δ’ ἦσαν [10—12]ον[ ... ] . ροτε[ρ . ] . · τοὺς μητ[10—12]πους .. κον[ .. ]αν ὥσπερ ... [ ...... ]σεχ . ος ἐρρω[μέ]νοι· μήτες . [ . ]εν . [ ... ]των διεμεν[ .. ] [μήτ]ε ἀναστῆναι ...... ντας [ ...... ] [ ..... ] .. τες τὸν νεὼν καὶ χεῖρ[ας νί]ψαν[τες καὶ] πόδας καὶ εἴ τι ἄλλο ἦν ἄκρον· ενι [ ..... δ]εσποτικῶν ἀναθημάτ[ων] κα[ ...... ] .... πον προ .. ο .... [ ...... ] .. β .. δ[ . ]φρου .... τ[ .... ] ....... τες δίφρο[υ] τοῦ τῆς ..... [ ...... ]ταις ἡλίκαις π[άσ]αις ρ . ω .... [ ...... ]τα . η[ . ]ικου ἀνέστρεφε . εκ .. [ ..... ]τοξαρην ὡς δια .. ασιαυτ .... ρα [ ...... ]περ πολλῶν ἀπολογησαμεν . ν [ ...... ]ησιν φόνων. ἡ δὲ ἐπεὶ κατά[ ...... εἰς] τὴν πολίχνην ἔμελλεν, τὸ μὲν [ ....... ] τοῖς κόλποις κατέθετο, μή τις αὐ[τὴν ἀφέλη]ται πάλιν. αὐτὴ δὲ ἀνατείνασα [Break in Text (point at which text breaks off for an unknown length)] ἐγγραψάτω· Λύσιππος δ’ ἐ[λ]θὼν ἐπὶ θάλατταν σὺν Εὐξείνῳ πυνθάνεται τῶν γνω[ρί]μων τὴν κατάστασιν [π]ᾶσαν . [19]
+
+### col2
+
+... ωσα [2—3] πολιτ .... · Θρασέας μὲν ἄρχει .. ωνις [ . ] . τος. Θαλασσία δὲ ἀναρπάσασα τὸ πλοῖ[ο]ν Κλεάνδρου Θρασέαν περιέπει καὶ .. [] ..... εισιν ἀλλ .......... ὅτε ἐξέ[π]λευσεν λαθοῦσα αὐτὰ[ς ὧ]ν αὐτῇ μελ[εῖ . ]—ἀσφαλὲς γὰρ δοῦναι ... τὰς Θαλασσίας βουλάς—τὰ δὲ Ἀνθ[εί]ας ἑλομένη, [ . ] .. [ . ]ρες . [ .. ]ν Ἀνθείαν ἰδοῦσα τὸ φάρ[μ]ακον καὶ κατακρύψασα ὡς μάλιστα ὑ .. [ . ] ... ες ... περιεγένετο.” “τὰ δὲ Ἀνθείας, [ο]ὐδ’ ἔχ[ει] λέγειν, φίλτατε;” “οὐκ οἶδα,” ἔφη, “σαφῶ[ς . ὁ] μὲν γὰρ Λύσανδρος αὐτὴν ὑπ[ὸ ἁ]ρπαγῆς παρέδωκεν δ . [ .. ] ... καὶ Θρασέα[ς] ἐξήρητο ἐπ’ αὐτῆι. δ[ῆλ]α ταῦτα ἅπασιν· [τὰ δὲ] ἄλλα εἰκασία καὶ λόγος μεμιγμένος [ ...... ]ατι ἔχοντι τὸ ἄπιστον καὶ παράδο[ξον.”] [Break in Text (point at which text breaks off for an unknown length)] ἐσωζόμην [] ταύρων ορ[] ἐκεῖνοι κ[] ανο . [20]
+
+### col3
+
+.. αυ[] ωρα α ... [] θαι καὶ κτ . [] Ἄρτεμιν. ο[] ψευσαμεν[] .. λ[ .. ]ενο[] μήτε αὐτὸς . [] ἐκείνην ατ[] [ .... ]σαφη[] [ .... ]ηδε . [ ...... ] . [] [ ........ ] . [] . [] . ο . [] τα[] ρας κακισ[τ–] [Break in Text (point at which text breaks off for an unknown length)] [19]
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: skw-ab`.

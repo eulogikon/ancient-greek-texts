@@ -19,7 +19,7 @@ Demaratus of Corinth, a 2nd century BCE Hellenistic historian. His surviving his
 
 ## Works
 
-- [Arcadian and Phrygian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-of-corinth-arcadian-phrygian-histories-ltk-aa.grc.md) — *Ἀποσπάσματα* · `ltk-aa`
+- [Arcadian and Phrygian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demaratus-corinth-arcadian-phrygian-histories-ltk-aa.grc.md) — *Ἀποσπάσματα* · `ltk-aa`
 
 ## License and provenance
 

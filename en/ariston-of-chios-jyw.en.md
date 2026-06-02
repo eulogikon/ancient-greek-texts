@@ -20,7 +20,7 @@ Ariston of Chios was a Stoic philosopher and pupil of Zeno. His philosophical fr
 
 ## Works
 
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-chios-testimonies-jyw-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jyw-aa`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-chios-testimonies-jyw-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jyw-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Tyrannion of Amisus was a 1st century BCE Hellenistic grammarian. Surviving gram
 
 ## Works
 
-- [Fragments on Homeric Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-of-amisus-homeric-prosody-mai-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προσῳδίας* · `mai-aa`
+- [Fragments on Homeric Prosody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-amisus-homeric-prosody-mai-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προσῳδίας* · `mai-aa`
 
 ## License and provenance
 

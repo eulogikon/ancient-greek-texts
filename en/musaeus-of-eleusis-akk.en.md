@@ -19,8 +19,8 @@ Musaeus of Eleusis, a semi-legendary poet and religious teacher from the 6th cen
 
 ## Works
 
-- [Fragments on Theogony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-theogony-fragments-akk-ab.grc.md) — *Ἀποσπάσματα περὶ Θεογονίας* · `akk-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis-testimonies-akk-aa.grc.md) — *Τὰ καθ' Ἡρὼ καὶ Λέναδρον* · `akk-aa`
+- [Fragments on Theogony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-eleusis-theogony-fragments-akk-ab.grc.md) — *Ἀποσπάσματα περὶ Θεογονίας* · `akk-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-eleusis-testimonies-akk-aa.grc.md) — *Τὰ καθ' Ἡρὼ καὶ Λέναδρον* · `akk-aa`
 
 ## License and provenance
 

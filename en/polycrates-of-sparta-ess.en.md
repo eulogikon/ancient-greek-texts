@@ -19,7 +19,7 @@ Polycrates of Sparta was a 5th century BCE historian. His surviving historical w
 
 ## Works
 
-- [Fragments on Spartan Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-of-sparta-festivals-ess-aa.grc.md) — *Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν* · `ess-aa`
+- [Fragments on Spartan Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycrates-sparta-festivals-ess-aa.grc.md) — *Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν* · `ess-aa`
 
 ## License and provenance
 

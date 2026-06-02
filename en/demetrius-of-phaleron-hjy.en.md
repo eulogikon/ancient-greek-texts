@@ -20,7 +20,7 @@ Demetrius of Phaleron was an Athenian orator and Peripatetic philosopher. Surviv
 
 ## Works
 
-- [Letter on Jewish Law](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phaleron-jewish-law-hjy-aa.grc.md) — *Ἐπιστολή* · `hjy-aa`
+- [Letter on Jewish Law](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-phaleron-jewish-law-hjy-aa.grc.md) — *Ἐπιστολή* · `hjy-aa`
 
 ## License and provenance
 

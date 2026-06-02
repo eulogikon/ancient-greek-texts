@@ -19,7 +19,7 @@ Manetho, Egyptian priest and historian of the 3rd century BCE. Includes fragment
 
 ## Works
 
-- [Manetho's Egyptian Dynasties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos-egyptian-dynasties-ima-aa.grc.md) — *Ἀποσπάσματα* · `ima-aa`
+- [Manetho's Egyptian Dynasties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytos-egyptian-dynasties-ima-aa.grc.md) — *Ἀποσπάσματα* · `ima-aa`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Cebes of Thebes, a Socratic philosopher. His surviving treatise, the Pinax, is a
 
 ## Works
 
-- [Table of Cebes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-of-thebes-table-dyi-aa.grc.md) — *Πίναξ Κέβητος* · `dyi-aa`
+- [Table of Cebes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cebes-thebes-table-dyi-aa.grc.md) — *Πίναξ Κέβητος* · `dyi-aa`
 
 ## License and provenance
 

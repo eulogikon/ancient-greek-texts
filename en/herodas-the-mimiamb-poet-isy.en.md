@@ -19,7 +19,7 @@ Herodas, Hellenistic poet of the 3rd century BCE. Works include Ionic iambic mim
 
 ## Works
 
-- [Mimiambs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodas-the-mimiamb-poet-mimiambs-isy-aa.grc.md) — *Μιμίαμβοι* · `isy-aa`
+- [Mimiambs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodas-mimiambs-isy-aa.grc.md) — *Μιμίαμβοι* · `isy-aa`
 
 ## License and provenance
 

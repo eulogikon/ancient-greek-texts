@@ -19,9 +19,9 @@ John Malalas was a 6th century CE historian from Antioch. His works include the 
 
 ## Works
 
-- [Chronicle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronicle-vae-aa.grc.md) — *Χρονολογικόν* · `vae-aa`
-- [Chronography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ac-vae-ac.grc.md) — *Χρονογραφία* · `vae-ac`
-- [Chronography, Selections](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch-chronography-ab-vae-ab.grc.md) — *Χρονογραφία* · `vae-ab`
+- [Chronicle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-antioch-chronicle-vae-aa.grc.md) — *Χρονολογικόν* · `vae-aa`
+- [Chronography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-antioch-chronography-vae-ac.grc.md) — *Χρονογραφία* · `vae-ac`
+- [Chronography, Selections](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-antioch-chronography-vae-ab.grc.md) — *Χρονογραφία* · `vae-ab`
 
 ## License and provenance
 

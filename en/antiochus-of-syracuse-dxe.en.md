@@ -19,7 +19,7 @@ Antiochus of Syracuse was a 5th century BCE historian from Sicily. His fragments
 
 ## Works
 
-- [On Sicily and Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse-sicily-italy-dxe-aa.grc.md) — *Ἀποσπάσματα* · `dxe-aa`
+- [On Sicily and Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-syracuse-sicily-italy-dxe-aa.grc.md) — *Ἀποσπάσματα* · `dxe-aa`
 
 ## License and provenance
 

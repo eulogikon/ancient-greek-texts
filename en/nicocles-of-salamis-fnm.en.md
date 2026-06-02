@@ -19,7 +19,7 @@ Nicocles of Salamis, a 4th century BCE historian. His surviving works are preser
 
 ## Works
 
-- [Fragments on Spartan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-of-salamis-spartan-customs-fnm-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν* · `fnm-aa`
+- [Fragments on Spartan Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-salamis-spartan-customs-fnm-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν* · `fnm-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Panyassis of Halicarnassus, 5th century BCE epic poet. Surviving fragments of hi
 
 ## Works
 
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-aa-bok-aa.grc.md) — *Ἡρωϊκὰ Ἀποσπάσματα* · `bok-aa`
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus-epic-fragments-ab-bok-ab.grc.md) — *Ἡρωϊκὰ Ἀποσπάσματα* · `bok-ab`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-halicarnassus-epic-fragments-bok-ab.grc.md) — *Ἡρωϊκὰ Ἀποσπάσματα* · `bok-ab`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.md) — *Ἡρωϊκὰ Ἀποσπάσματα* · `bok-aa`
 
 ## License and provenance
 

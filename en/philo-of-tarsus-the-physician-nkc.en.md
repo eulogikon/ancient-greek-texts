@@ -19,7 +19,7 @@ Philo of Tarsus the Physician, a Hellenistic medical writer. Surviving medical t
 
 ## Works
 
-- [Philo's Medicinal Formulary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa.grc.md) — *Ἀπόσπασμα* · `nkc-aa`
+- [Philo's Medicinal Formulary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-tarsus-medicinal-formulary-nkc-aa.grc.md) — *Ἀπόσπασμα* · `nkc-aa`
 
 ## License and provenance
 

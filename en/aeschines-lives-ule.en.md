@@ -19,7 +19,7 @@ Aeschines Lives, a Late Antique author of Greek biography. The surviving work is
 
 ## Works
 
-- [Lives of Aeschines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-lives-ule-aa.grc.md) — *Βίοι Αἰσχίνου* · `ule-aa`
+- [Lives of Aeschines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives-ule-aa.grc.md) — *Βίοι Αἰσχίνου* · `ule-aa`
 
 ## License and provenance
 

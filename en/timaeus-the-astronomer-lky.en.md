@@ -19,7 +19,7 @@ Timaeus the Astronomer was a Hellenistic scientific writer of the 3rd-2nd centur
 
 ## Works
 
-- [Fragments on Fugitives and Thieves](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-astronomer-fugitives-thieves-lky-aa.grc.md) — *Ἀποσπάσματα περὶ Δραπέτων καὶ Κλεπτῶν* · `lky-aa`
+- [Fragments on Fugitives and Thieves](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-fugitives-thieves-lky-aa.grc.md) — *Ἀποσπάσματα περὶ Δραπέτων καὶ Κλεπτῶν* · `lky-aa`
 
 ## License and provenance
 

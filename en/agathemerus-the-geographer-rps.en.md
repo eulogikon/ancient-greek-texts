@@ -19,7 +19,7 @@ Agathemerus was a Greek geographer of the Roman period. His treatise outlines an
 
 ## Works
 
-- [InformatiGeography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-the-geographer-geography-rps-aa.grc.md) — *Πληροφορίαι περὶ γεωγραφίας* · `rps-aa`
+- [InformatiGeography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathemerus-geography-rps-aa.grc.md) — *Πληροφορίαι περὶ γεωγραφίας* · `rps-aa`
 
 ## License and provenance
 

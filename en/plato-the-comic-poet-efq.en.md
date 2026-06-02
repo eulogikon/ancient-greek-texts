@@ -19,11 +19,11 @@ Plato the Comic Poet was an Athenian playwright of Old Comedy. Five comedies sur
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-epigram-efq-ae.grc.md) — *Ἐπίγραμμα* · `efq-ae`
-- [Fragments of Comic Aphrodite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-aphrodite-fragments-efq-ac.grc.md) — *Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης* · `efq-ac`
-- [Fragments on Adonis and Cinyras](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-adonis-cinyras-efq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου* · `efq-aa`
-- [Fragments on Argus and Destruction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-argus-destruction-efq-ad.grc.md) — *Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρου* · `efq-ad`
-- [Fragments on Cinyras and Adonis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet-cinyras-adonis-efq-ab.grc.md) — *Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος* · `efq-ab`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-comic-epigram-efq-ae.grc.md) — *Ἐπίγραμμα* · `efq-ae`
+- [Fragments of Comic Aphrodite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-comic-aphrodite-fragments-efq-ac.grc.md) — *Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης* · `efq-ac`
+- [Fragments on Adonis and Cinyras](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-comic-adonis-cinyras-efq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου* · `efq-aa`
+- [Fragments on Argus and Destruction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-comic-argus-destruction-efq-ad.grc.md) — *Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρου* · `efq-ad`
+- [Fragments on Cinyras and Adonis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-comic-cinyras-adonis-efq-ab.grc.md) — *Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος* · `efq-ab`
 
 ## License and provenance
 

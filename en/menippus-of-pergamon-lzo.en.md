@@ -19,7 +19,7 @@ Menippus of Pergamon was a Hellenistic geographer. His surviving work is a coast
 
 ## Works
 
-- [Periplus of the Two Pontic Seas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-pergamon-two-pontic-seas-lzo-aa.grc.md) — *Ἀποσπάσματα* · `lzo-aa`
+- [Periplus of the Two Pontic Seas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-pergamon-two-pontic-seas-lzo-aa.grc.md) — *Ἀποσπάσματα* · `lzo-aa`
 
 ## License and provenance
 

@@ -20,16 +20,16 @@ Synesius of Cyrene was a Neoplatonist philosopher and bishop. Works include trea
 
 ## Works
 
-- [Catastases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-catastases-sys-ae.grc.md) — *Καταστάσεις* · `sys-ae`
-- [Dion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-dion-sys-aj.grc.md) — *Δίων* · `sys-aj`
-- [Egyptians or-Providence](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-egyptians-providence-sys-ab.grc.md) — *Αἰγύπτιοι ἢ Περὶ Προνοίας* · `sys-ab`
-- [Homilies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-homilies-sys-ag.grc.md) — *Ὁμιλίαι* · `sys-ag`
-- [Hymns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-hymns-sys-ai.grc.md) — *Ὕμνοι* · `sys-ai`
-- [Letters to Nicander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-letters-nicander-sys-ah.grc.md) — *Ἐπιστολαὶ πρὸς Νίκανδρον* · `sys-ah`
-- [On Dreams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-on-dreams-sys-af.grc.md) — *Περὶ Ἐνυπνίων* · `sys-af`
-- [Oratithe Kingdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-kingdom-sys-ac.grc.md) — *Λόγος περὶ Βασιλείας* · `sys-ac`
-- [Praise of Baldness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-praise-baldness-sys-ad.grc.md) — *Ἐγκώμιον τῆς Φαλάκρας* · `sys-ad`
-- [To Paeonius-the Gift of the Astrolabe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene-gift-astrolabe-sys-aa.grc.md) — *Πρὸς Παίωνιον περὶ Δώρου τοῦ Ἀστρολάβου* · `sys-aa`
+- [Catastases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-catastases-sys-ae.grc.md) — *Καταστάσεις* · `sys-ae`
+- [Dion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-dion-sys-aj.grc.md) — *Δίων* · `sys-aj`
+- [Egyptians or-Providence](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-egyptians-providence-sys-ab.grc.md) — *Αἰγύπτιοι ἢ Περὶ Προνοίας* · `sys-ab`
+- [Homilies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-homilies-sys-ag.grc.md) — *Ὁμιλίαι* · `sys-ag`
+- [Hymns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-hymns-sys-ai.grc.md) — *Ὕμνοι* · `sys-ai`
+- [Letters to Nicander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-letters-nicander-sys-ah.grc.md) — *Ἐπιστολαὶ πρὸς Νίκανδρον* · `sys-ah`
+- [On Dreams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-on-dreams-sys-af.grc.md) — *Περὶ Ἐνυπνίων* · `sys-af`
+- [Oratithe Kingdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-kingdom-sys-ac.grc.md) — *Λόγος περὶ Βασιλείας* · `sys-ac`
+- [Praise of Baldness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-praise-baldness-sys-ad.grc.md) — *Ἐγκώμιον τῆς Φαλάκρας* · `sys-ad`
+- [To Paeonius-the Gift of the Astrolabe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-cyrene-gift-astrolabe-sys-aa.grc.md) — *Πρὸς Παίωνιον περὶ Δώρου τοῦ Ἀστρολάβου* · `sys-aa`
 
 ## License and provenance
 

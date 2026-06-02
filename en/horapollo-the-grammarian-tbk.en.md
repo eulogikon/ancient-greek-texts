@@ -19,8 +19,8 @@ Horapollo was a 5th century CE Alexandrian grammarian. Two grammatical treatises
 
 ## Works
 
-- [Hieroglyphics, Translation by Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-hieroglyphics-tbk-aa.grc.md) — *Ἱερογλυφικά* · `tbk-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-the-grammarian-testimonies-tbk-ab.grc.md) — *Μαρτυρίαι* · `tbk-ab`
+- [Hieroglyphics, Translation by Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-hieroglyphics-tbk-aa.grc.md) — *Ἱερογλυφικά* · `tbk-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/horapollo-testimonies-tbk-ab.grc.md) — *Μαρτυρίαι* · `tbk-ab`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Pappus of Alexandria was a 4th century CE Greek mathematician. Works include mat
 
 ## Works
 
-- [Commentary-Ptolemy's Mathematical Syntax 5–6](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-of-alexandria-commentary-ptolemy-syntax-txs-aa.grc.md) — *Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν* · `txs-aa`
-- [Synagogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-of-alexandria-synagogue-txs-ab.grc.md) — *Συναγωγή* · `txs-ab`
+- [Commentary-Ptolemy's Mathematical Syntax 5–6](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-alexandria-commentary-ptolemy-syntax-txs-aa.grc.md) — *Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν* · `txs-aa`
+- [Synagogue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-alexandria-synagogue-txs-ab.grc.md) — *Συναγωγή* · `txs-ab`
 
 ## License and provenance
 

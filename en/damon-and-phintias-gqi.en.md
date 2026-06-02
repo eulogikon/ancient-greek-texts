@@ -20,7 +20,7 @@ Damon and Phintias were Pythagorean philosophers from Syracuse, known for their 
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-and-phintias-testimony-gqi-aa.grc.md) — *Μαρτυρία* · `gqi-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-phintias-testimony-gqi-aa.grc.md) — *Μαρτυρία* · `gqi-aa`
 
 ## License and provenance
 

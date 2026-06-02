@@ -19,7 +19,7 @@ Zaleucus of Locri was an archaic lawgiver of the 7th century BCE. Fragments of h
 
 ## Works
 
-- [Preamble to the Laws](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri-preamble-laws-aeg-aa.grc.md) — *Ἀποσπάσματα* · `aeg-aa`
+- [Preamble to the Laws](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-locri-preamble-laws-aeg-aa.grc.md) — *Ἀποσπάσματα* · `aeg-aa`
 
 ## License and provenance
 

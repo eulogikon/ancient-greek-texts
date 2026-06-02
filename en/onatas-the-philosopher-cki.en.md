@@ -19,7 +19,7 @@ Onatas, a 4th century BCE Pythagorean philosopher. Surviving philosophical treat
 
 ## Works
 
-- [On the Divine and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher-divine-cosmos-cki-aa.grc.md) — *Ἀποσπάσματα* · `cki-aa`
+- [On the Divine and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-divine-cosmos-cki-aa.grc.md) — *Ἀποσπάσματα* · `cki-aa`
 
 ## License and provenance
 

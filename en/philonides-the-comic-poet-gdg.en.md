@@ -19,8 +19,8 @@ Philonides, a 4th century BCE Athenian playwright of Attic comedy. Surviving fra
 
 ## Works
 
-- [Comic Fragments on Vice and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-vice-virtue-gdg-aa.grc.md) — *Ἀποσπάσματα περὶ Κακίας καὶ Ἀρετῆς* · `gdg-aa`
-- [Fragments on Morals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet-morals-gdg-ab.grc.md) — *Ἀποσπάσματα περὶ Ἠθικῶν* · `gdg-ab`
+- [Comic Fragments on Vice and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-comic-vice-virtue-gdg-aa.grc.md) — *Ἀποσπάσματα περὶ Κακίας καὶ Ἀρετῆς* · `gdg-aa`
+- [Fragments on Morals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-comic-morals-gdg-ab.grc.md) — *Ἀποσπάσματα περὶ Ἠθικῶν* · `gdg-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Synesius the Alchemist, a late Roman writer on alchemy. His treatise details alc
 
 ## Works
 
-- [Synesius the Philosopher to Dioscorus-the Book of Democritus, as in Notes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-the-alchemist-democritus-notes-sse-aa.grc.md) — *Συνεσίου φιλοσόφου πρὸς Διόσκορον εἰς τὴν βίβλον* · `sse-aa`
+- [Synesius the Philosopher to Dioscorus-the Book of Democritus, as in Notes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-democritus-notes-sse-aa.grc.md) — *Συνεσίου φιλοσόφου πρὸς Διόσκορον εἰς τὴν βίβλον* · `sse-aa`
 
 ## License and provenance
 

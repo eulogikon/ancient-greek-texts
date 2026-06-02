@@ -19,8 +19,8 @@ Bato was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary works 
 
 ## Works
 
-- [Fragments on Hedonism and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-hedonism-philosophy-ivg-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας* · `ivg-aa`
-- [Fragments on Philosophy and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet-philosophy-excess-ivg-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Ὑπερβολῆς* · `ivg-ab`
+- [Fragments on Hedonism and Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-hedonism-philosophy-ivg-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας* · `ivg-aa`
+- [Fragments on Philosophy and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-philosophy-excess-ivg-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Ὑπερβολῆς* · `ivg-ab`
 
 ## License and provenance
 

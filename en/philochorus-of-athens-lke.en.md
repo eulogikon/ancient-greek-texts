@@ -19,9 +19,9 @@ Philochorus was a Hellenistic Athenian historian and religious expert. His works
 
 ## Works
 
-- [Atthís: Athenian Origins and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens-origins-customs-lke-ab.grc.md) — *Ἀποσπάσματα* · `lke-ab`
-- [On the Sacred War at Delphi](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens-sacred-war-delphi-lke-ac.grc.md) — *Ἀπόσπασμα* · `lke-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens-testimonies-lke-aa.grc.md) — *Μαρτυρίαι* · `lke-aa`
+- [Atthís: Athenian Origins and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-athens-origins-customs-lke-ab.grc.md) — *Ἀποσπάσματα* · `lke-ab`
+- [On the Sacred War at Delphi](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-athens-sacred-war-delphi-lke-ac.grc.md) — *Ἀπόσπασμα* · `lke-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-athens-testimonies-lke-aa.grc.md) — *Μαρτυρίαι* · `lke-aa`
 
 ## License and provenance
 

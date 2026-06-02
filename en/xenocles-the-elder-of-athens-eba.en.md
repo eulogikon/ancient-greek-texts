@@ -19,7 +19,7 @@ Xenocles the Elder was a 5th century BCE Athenian dramatist. Surviving works inc
 
 ## Works
 
-- [Fragments on Alcmena's Lament](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenocles-the-elder-of-athens-alcmena-lament-eba-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλκμήνης Θρήνου* · `eba-aa`
+- [Fragments on Alcmena's Lament](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenocles-elder-athens-alcmena-lament-eba-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλκμήνης Θρήνου* · `eba-aa`
 
 ## License and provenance
 

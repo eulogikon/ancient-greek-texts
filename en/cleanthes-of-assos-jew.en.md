@@ -20,8 +20,8 @@ Cleanthes, Stoic philosopher of the Hellenistic period. Surviving fragments incl
 
 ## Works
 
-- [Hymn to Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-hymn-zeus-jew-ab.grc.md) — *Ἀποσπάσματα* · `jew-ab`
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos-testimonies-fragments-jew-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jew-aa`
+- [Hymn to Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-assos-hymn-zeus-jew-ab.grc.md) — *Ἀποσπάσματα* · `jew-ab`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-assos-testimonies-fragments-jew-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jew-aa`
 
 ## License and provenance
 

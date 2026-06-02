@@ -20,7 +20,7 @@ Dionysius the Renegade, ancient Greek philosopher and Stoic author. One survivin
 
 ## Works
 
-- [Fragments on Pleasure and Conduct](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-renegade-pleasure-conduct-hje-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῆς καὶ Ἀγωγῆς* · `hje-aa`
+- [Fragments on Pleasure and Conduct](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-renegade-pleasure-conduct-hje-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡδονῆς καὶ Ἀγωγῆς* · `hje-aa`
 
 ## License and provenance
 

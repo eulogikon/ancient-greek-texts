@@ -19,11 +19,11 @@ Rhianus was a Hellenistic poet and scholar from Crete. Five epic works in verse 
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-epigrams-izm-ae.grc.md) — *Ἐπιγράμματα* · `izm-ae`
-- [Fragments of the Achaean History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-achaean-history-izm-ac.grc.md) — *Ἀποσπάσματα τῆς Ἀχαϊκῆς Ἱστορίας* · `izm-ac`
-- [Fragments of the Messeniaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-messeniaca-izm-ad.grc.md) — *Ἀποσπάσματα τῶν Μεσσηνιακῶν* · `izm-ad`
-- [On Human Folly and Divine Gifts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-human-folly-divine-gifts-izm-ab.grc.md) — *Ἀποσπάσματα* · `izm-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete-testimonies-izm-aa.grc.md) — *Μαρτυρίαι* · `izm-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-crete-epigrams-izm-ae.grc.md) — *Ἐπιγράμματα* · `izm-ae`
+- [Fragments of the Achaean History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-crete-achaean-history-izm-ac.grc.md) — *Ἀποσπάσματα τῆς Ἀχαϊκῆς Ἱστορίας* · `izm-ac`
+- [Fragments of the Messeniaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-crete-messeniaca-izm-ad.grc.md) — *Ἀποσπάσματα τῶν Μεσσηνιακῶν* · `izm-ad`
+- [On Human Folly and Divine Gifts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-crete-human-folly-divine-gifts-izm-ab.grc.md) — *Ἀποσπάσματα* · `izm-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-crete-testimonies-izm-aa.grc.md) — *Μαρτυρίαι* · `izm-aa`
 
 ## License and provenance
 

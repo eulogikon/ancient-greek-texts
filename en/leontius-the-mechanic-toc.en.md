@@ -19,7 +19,7 @@ Leontius the Mechanic, a late antique technical writer. Works on mechanics and e
 
 ## Works
 
-- [On the Construction of Aratus' Sphere](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leontius-the-mechanic-aratus-sphere-toc-aa.grc.md) — *Περὶ κατασκευῆς τῆς σφαίρας τοῦ Ἄρατου* · `toc-aa`
+- [On the Construction of Aratus' Sphere](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leontius-mechanic-aratus-sphere-toc-aa.grc.md) — *Περὶ κατασκευῆς τῆς σφαίρας τοῦ Ἄρατου* · `toc-aa`
 
 ## License and provenance
 

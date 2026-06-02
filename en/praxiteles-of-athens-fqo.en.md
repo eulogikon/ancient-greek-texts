@@ -19,7 +19,7 @@ Praxiteles of Athens was a classical Attic poet of the 4th century BCE. Survivin
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-of-athens-epigram-fqo-aa.grc.md) — *Ἐπίγραμμα* · `fqo-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-athens-epigram-fqo-aa.grc.md) — *Ἐπίγραμμα* · `fqo-aa`
 
 ## License and provenance
 

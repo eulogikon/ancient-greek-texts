@@ -19,7 +19,7 @@ Aratus of Sicyon, a Hellenistic historian of the 3rd century BCE. His work is pr
 
 ## Works
 
-- [Historical Commentary Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-sicyon-historical-commentary-jba-aa.grc.md) — *Ἀποσπάσματα* · `jba-aa`
+- [Historical Commentary Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-sicyon-historical-commentary-jba-aa.grc.md) — *Ἀποσπάσματα* · `jba-aa`
 
 ## License and provenance
 

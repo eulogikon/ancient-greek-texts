@@ -19,7 +19,7 @@ Andriscus the Pretender, a Hellenistic era claimant to the Macedonian throne. 2n
 
 ## Works
 
-- [Naxian Tales of Polycrite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-the-pretender-naxian-tales-of-polycrite-lze-aa.grc.md) — *Ἀποσπάσματα* · `lze-aa`
+- [Naxian Tales of Polycrite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andriscus-naxian-tales-of-polycrite-lze-aa.grc.md) — *Ἀποσπάσματα* · `lze-aa`
 
 ## License and provenance
 

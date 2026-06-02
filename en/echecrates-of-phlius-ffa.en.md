@@ -20,7 +20,7 @@ Echecrates of Phlius was a Pythagorean philosopher of the late 5th century BCE. 
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-of-phlius-testimonies-ffa-aa.grc.md) — *Μαρτυρίαι* · `ffa-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echecrates-phlius-testimonies-ffa-aa.grc.md) — *Μαρτυρίαι* · `ffa-aa`
 
 ## License and provenance
 

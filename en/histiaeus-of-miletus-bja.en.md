@@ -19,7 +19,7 @@ Histiaeus of Miletus, 6th century BCE Ionian tyrant. Surviving fragments documen
 
 ## Works
 
-- [Phoenician History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-of-miletus-phoenician-history-bja-aa.grc.md) — *Ἀποσπάσματα* · `bja-aa`
+- [Phoenician History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/histiaeus-miletus-phoenician-history-bja-aa.grc.md) — *Ἀποσπάσματα* · `bja-aa`
 
 ## License and provenance
 

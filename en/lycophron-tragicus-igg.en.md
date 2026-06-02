@@ -19,7 +19,7 @@ Lycophron Tragicus, a Hellenistic orator of the 4th century BCE. Surviving works
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-tragicus-testimonies-igg-aa.grc.md) — *Μαρτυρίαι* · `igg-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-testimonies-igg-aa.grc.md) — *Μαρτυρίαι* · `igg-aa`
 
 ## License and provenance
 

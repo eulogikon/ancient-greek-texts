@@ -19,10 +19,10 @@ Hesychius of Miletus was a 6th century CE historian and biographer. Works includ
 
 ## Works
 
-- [Historical Fragments on Palmatius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-historical-fragments-uws-ad.grc.md) — *Ἀποσπάσματα περὶ Παλματίου* · `uws-ad`
-- [Homily-the Nativity of Christ, Possibly Part of Roman and Universal History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-nativity-christ-uws-ab.grc.md) — *Ὁμιλία εἰς τὴν Γέννησιν τοῦ Χριστοῦ* · `uws-ab`
-- [Origins of Constantinople (Excerpt)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-history-constantinople-ac-uws-ac.grc.md) — *Ἱστορία Κωνσταντινουπόλεως* · `uws-ac`
-- [Origins of Constantinople (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus-history-constantinople-aa-uws-aa.grc.md) — *Ἱστορία Κωνσταντινουπόλεως* · `uws-aa`
+- [Historical Fragments on Palmatius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-miletus-historical-fragments-uws-ad.grc.md) — *Ἀποσπάσματα περὶ Παλματίου* · `uws-ad`
+- [Homily-the Nativity of Christ, Possibly Part of Roman and Universal History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-miletus-nativity-christ-uws-ab.grc.md) — *Ὁμιλία εἰς τὴν Γέννησιν τοῦ Χριστοῦ* · `uws-ab`
+- [Origins of Constantinople (Excerpt)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-miletus-history-constantinople-uws-ac.grc.md) — *Ἱστορία Κωνσταντινουπόλεως* · `uws-ac`
+- [Origins of Constantinople (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-miletus-history-constantinople-uws-aa.grc.md) — *Ἱστορία Κωνσταντινουπόλεως* · `uws-aa`
 
 ## License and provenance
 

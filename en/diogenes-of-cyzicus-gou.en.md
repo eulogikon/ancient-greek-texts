@@ -19,7 +19,7 @@ Diogenes of Cyzicus was a 4th century BCE historian. His surviving works are pre
 
 ## Works
 
-- [On Cyzicus and Persian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-cyzicus-persian-customs-gou-aa.grc.md) — *Ἀποσπάσματα* · `gou-aa`
+- [On Cyzicus and Persian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-cyzicus-persian-customs-gou-aa.grc.md) — *Ἀποσπάσματα* · `gou-aa`
 
 ## License and provenance
 

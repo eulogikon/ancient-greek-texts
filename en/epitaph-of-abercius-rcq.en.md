@@ -19,7 +19,7 @@ Abercius, a 2nd century Christian bishop known for his poetic epitaph. Free to r
 
 ## Works
 
-- [Epitaph](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius-text-rcq-aa.grc.md) — *Ἐπιτάφιον* · `rcq-aa`
+- [Epitaph](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-abercius-text-rcq-aa.grc.md) — *Ἐπιτάφιον* · `rcq-aa`
 
 ## License and provenance
 

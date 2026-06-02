@@ -19,9 +19,9 @@ Hegesianax of Alexandria Troas, a Hellenistic author of the 2nd century BCE. Thr
 
 ## Works
 
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-of-alexandria-troas-fragments-kqe-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `kqe-aa`
-- [Fragments on Fiery Seas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-of-alexandria-troas-fiery-seas-kqe-ab.grc.md) — *Ἀποσπάσματα περὶ Θαλασσῶν Πυρίνων* · `kqe-ab`
-- [Trojan Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-of-alexandria-troas-trojan-legends-kqe-ac.grc.md) — *Ἀποσπάσματα* · `kqe-ac`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-alexandria-troas-fragments-kqe-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `kqe-aa`
+- [Fragments on Fiery Seas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-alexandria-troas-fiery-seas-kqe-ab.grc.md) — *Ἀποσπάσματα περὶ Θαλασσῶν Πυρίνων* · `kqe-ab`
+- [Trojan Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesianax-alexandria-troas-trojan-legends-kqe-ac.grc.md) — *Ἀποσπάσματα* · `kqe-ac`
 
 ## License and provenance
 

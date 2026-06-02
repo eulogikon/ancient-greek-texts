@@ -19,8 +19,8 @@ Hipparchus of Nicaea, Hellenistic astronomer of the 2nd century BCE. Surviving a
 
 ## Works
 
-- [Geographical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-geographical-fragments-lyk-ab.grc.md) — *Γεωγραφικὰ Ἀποσπάσματα* · `lyk-ab`
-- [On the Phenomena of Aratus and Eudoxus, Commentary Books III](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.md) — *Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου* · `lyk-aa`
+- [Geographical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-nicaea-geographical-fragments-lyk-ab.grc.md) — *Γεωγραφικὰ Ἀποσπάσματα* · `lyk-ab`
+- [On the Phenomena of Aratus and Eudoxus, Commentary Books III](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.md) — *Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου* · `lyk-aa`
 
 ## License and provenance
 

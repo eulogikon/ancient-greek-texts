@@ -19,7 +19,7 @@ Panteleius was an ancient Greek epic poet of the Classical period. His surviving
 
 ## Works
 
-- [Warrior of Unyielding Bronze](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-the-epic-poet-warrior-of-unyielding-bronze-avo-aa.grc.md) — *Ἀπόσπασμα* · `avo-aa`
+- [Warrior of Unyielding Bronze](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panteleius-warrior-of-unyielding-bronze-avo-aa.grc.md) — *Ἀπόσπασμα* · `avo-aa`
 
 ## License and provenance
 

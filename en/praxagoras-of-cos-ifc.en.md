@@ -19,7 +19,7 @@ Praxagoras of Cos, a 4th century BCE Hellenistic historian. His surviving works 
 
 ## Works
 
-- [History of Constantine the Great](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-of-cos-history-constantine-ifc-aa.grc.md) — *Ἀπόσπασμα* · `ifc-aa`
+- [History of Constantine the Great](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxagoras-cos-history-constantine-ifc-aa.grc.md) — *Ἀπόσπασμα* · `ifc-aa`
 
 ## License and provenance
 

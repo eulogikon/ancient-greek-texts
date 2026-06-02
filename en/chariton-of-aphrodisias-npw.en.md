@@ -19,7 +19,7 @@ Chariton of Aphrodisias was a Roman era Greek novelist. His surviving prose roma
 
 ## Works
 
-- [On Chaerea and Callirhoe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chariton-of-aphrodisias-chaerea-callirhoe-npw-aa.grc.md) — *Περὶ Χαιρέου καὶ Καλλιρρόης* · `npw-aa`
+- [On Chaerea and Callirhoe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chariton-aphrodisias-chaerea-callirhoe-npw-aa.grc.md) — *Περὶ Χαιρέου καὶ Καλλιρρόης* · `npw-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Bion of Abdera, a 4th century BCE mathematician. Surviving mathematical works fr
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-abdera-testimonies-dma-aa.grc.md) — *Μαρτυρίαι* · `dma-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-abdera-testimonies-dma-aa.grc.md) — *Μαρτυρίαι* · `dma-aa`
 
 ## License and provenance
 

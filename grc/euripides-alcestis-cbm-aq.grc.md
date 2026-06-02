@@ -390,6 +390,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 —οὔ τἂν φθιμένας γ’ ἐσιώπων. —οὐ γὰρ δὴ φροῦδός γ’ ἐξ οἴκων νέκυς ἤδη.
 
+*[crux: οὐ γὰρ δὴ φροῦδός γ’ ἐξ οἴκων νέκυς ἤδη.]*
+
 ### 95.1
 
 —πόθεν; οὐκ αὐχῶ. τί σε θαρσύνει;
@@ -418,6 +420,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τομαῖος, ἃ δὴ νεκύων
 
+*[crux: ἃ]*
+
 ### 95.8
 
 πένθει πίτνει, οὐδὲ νεολαία
@@ -433,6 +437,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 105.2
 
 —τί τόδ’ αὐδᾶις;
+
+*[crux: τί τόδ’ αὐδᾶις;]*
 
 ### 105.3
 
@@ -469,6 +475,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 115.2
 
 Ἀμμωνιάδας ἕδρας,
+
+*[crux: Ἀμμωνιάδας ἕδρας]*
 
 ### 115.3
 
@@ -525,6 +533,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 132.1
 
 [πάντα γὰρ ἤδη τετέλεσται βασιλεῦσιν,
+
+*[crux: τετέλεσται βασιλεῦσιν]*
 
 ### 132.2
 
@@ -858,6 +868,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἔξεισί τις ἢ τέμω τρίχα
 
+*[crux: ἔξεισί τις]*
+
 ### 215.2
 
 καὶ μέλανα στολμὸν πέπλων
@@ -893,6 +905,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 220.4
 
 τοῦδ’ ἐφεῦρες καὶ νῦν
+
+*[crux: τοῦδ’ ἐφεῦρες]*
 
 ### 220.5
 
@@ -1306,6 +1320,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δεῖ γὰρ θανεῖν με· καὶ τόδ’ οὐκ ἐς αὔριον οὐδ’ ἐς τρίτην μοι μηνὸς ἔρχεται κακόν,
 
+*[crux: μηνὸς]*
+
 ### 320.2
 
 ἀλλ’ αὐτίκ’ ἐν τοῖς οὐκέτ’ οὖσι λέξομαι.
@@ -1610,6 +1626,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἴδε γὰρ ἴδε βλέφαρον καὶ
 
+*[crux: ἴδε γὰρ ἴδε βλέφαρον καὶ]*
+
 ### 398.2
 
 παρατόνους χέρας. ὑπάκουσον ἄκουσον, ὦ μᾶτερ, ἀντιάζω.
@@ -1621,6 +1639,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 398.4
 
 καλοῦμαι ὁ σὸς ποτὶ σοῖσι πίτ‐ νων στόμασιν νεοσσός.
+
+*[crux: καλοῦμαι ὁ σὸς ποτὶ σοῖσι πίτ‐ νων]*
 
 ### 398.5
 
@@ -2370,6 +2390,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἱππόστασιν αἰθέρα τὰν Μολοσ‐
 
+*[crux: αἰθέρα τὰν]*
+
 ### 590.5
 
 σῶν 〈 〉 τίθεται,
@@ -3002,6 +3024,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ποτῆρα δ’ ἐν χείρεσσι κίσσινον λαβὼν
 
+*[crux: ἐν χείρεσσι]*
+
 ### 755.3
 
 πίνει μελαίνης μητρὸς εὔζωρον μέθυ,
@@ -3093,6 +3117,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 780.1
 
 τὰ θνητὰ πράγματ’ οἶδας ἣν ἔχει φύσιν;
+
+*[crux: οἶδας]*
 
 ### 780.2
 

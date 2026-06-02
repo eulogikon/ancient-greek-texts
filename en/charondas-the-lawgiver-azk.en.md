@@ -19,7 +19,7 @@ Charondas, an archaic lawgiver from the 6th century BCE. Surviving fragments of 
 
 ## Works
 
-- [Preambles to the Laws](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-the-lawgiver-preambles-laws-azk-aa.grc.md) — *Ἀπόσπασμα* · `azk-aa`
+- [Preambles to the Laws](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charondas-preambles-laws-azk-aa.grc.md) — *Ἀπόσπασμα* · `azk-aa`
 
 ## License and provenance
 

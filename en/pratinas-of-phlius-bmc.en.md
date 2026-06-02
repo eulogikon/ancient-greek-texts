@@ -19,8 +19,8 @@ Pratinas of Phlius, Archaic Greek playwright from the 6th-5th century BCE. Survi
 
 ## Works
 
-- [Chorus Against the Aulos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-against-aulos-bmc-aa.grc.md) — *Ἀποσπάσματα* · `bmc-aa`
-- [On the Dithyramb and Choral Dance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-of-phlius-dithyramb-dance-bmc-ab.grc.md) — *Ἀποσπάσματα* · `bmc-ab`
+- [Chorus Against the Aulos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-phlius-against-aulos-bmc-aa.grc.md) — *Ἀποσπάσματα* · `bmc-aa`
+- [On the Dithyramb and Choral Dance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pratinas-phlius-dithyramb-dance-bmc-ab.grc.md) — *Ἀποσπάσματα* · `bmc-ab`
 
 ## License and provenance
 

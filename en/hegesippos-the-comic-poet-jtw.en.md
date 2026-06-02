@@ -19,8 +19,8 @@ Hegesippos was a Hellenistic comic poet of the 3rd century BCE. Surviving fragme
 
 ## Works
 
-- [Art of Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-art-of-cooking-jtw-aa.grc.md) — *Ἀποσπάσματα* · `jtw-aa`
-- [Culinary Artisan's Boast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet-culinary-boast-jtw-ab.grc.md) — *Ἀποσπάσματα* · `jtw-ab`
+- [Art of Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-art-of-cooking-jtw-aa.grc.md) — *Ἀποσπάσματα* · `jtw-aa`
+- [Culinary Artisan's Boast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-culinary-boast-jtw-ab.grc.md) — *Ἀποσπάσματα* · `jtw-ab`
 
 ## License and provenance
 

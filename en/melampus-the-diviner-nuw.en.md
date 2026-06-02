@@ -19,10 +19,10 @@ Melampus the Diviner, author of treatises on divination and medicine from the Ro
 
 ## Works
 
-- [On Divination by Pulses to King Ptolemy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-divination-pulses-nuw-aa.grc.md) — *Περὶ παλμῶν μαντικὴ πρὸς Πτολεμαῖον βασιλέα* · `nuw-aa`
-- [On Pulses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-nuw-ac.grc.md) — *Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν* · `nuw-ac`
-- [On the Oils of the Body to King Ptolemy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-oils-body-ptolemy-nuw-ab.grc.md) — *Περὶ ἐλαιῶν τοῦ σώματος πρὸς Πτολεμαῖον βασιλέα* · `nuw-ab`
-- [On What Pulses Indicate in Each Part](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner-pulses-indicate-nuw-ad.grc.md) — *Περὶ παλμῶν τί σημαίνουσιν ἐν ἑκάστῳ μέρει* · `nuw-ad`
+- [On Divination by Pulses to King Ptolemy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-divination-pulses-nuw-aa.grc.md) — *Περὶ παλμῶν μαντικὴ πρὸς Πτολεμαῖον βασιλέα* · `nuw-aa`
+- [On Pulses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-pulses-nuw-ac.grc.md) — *Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν* · `nuw-ac`
+- [On the Oils of the Body to King Ptolemy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-oils-body-ptolemy-nuw-ab.grc.md) — *Περὶ ἐλαιῶν τοῦ σώματος πρὸς Πτολεμαῖον βασιλέα* · `nuw-ab`
+- [On What Pulses Indicate in Each Part](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-pulses-indicate-nuw-ad.grc.md) — *Περὶ παλμῶν τί σημαίνουσιν ἐν ἑκάστῳ μέρει* · `nuw-ad`
 
 ## License and provenance
 

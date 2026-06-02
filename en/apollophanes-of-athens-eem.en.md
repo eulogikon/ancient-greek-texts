@@ -19,8 +19,8 @@ Apollophanes of Athens was a classical Attic comic poet. Surviving fragments fro
 
 ## Works
 
-- [Fragments on Banquets and Merriment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-banquets-merriment-eem-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας* · `eem-ab`
-- [Fragments on Feasting and Merriment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens-feasting-merriment-eem-aa.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφροσύνης* · `eem-aa`
+- [Fragments on Banquets and Merriment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-athens-banquets-merriment-eem-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας* · `eem-ab`
+- [Fragments on Feasting and Merriment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-athens-feasting-merriment-eem-aa.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφροσύνης* · `eem-aa`
 
 ## License and provenance
 

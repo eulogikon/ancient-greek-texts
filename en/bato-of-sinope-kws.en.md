@@ -19,7 +19,7 @@ Bato of Sinope, Hellenistic historian of the 2nd century BCE. Surviving historic
 
 ## Works
 
-- [On the Tyrants of Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope-tyrants-ephesus-kws-aa.grc.md) — *Ἀποσπάσματα* · `kws-aa`
+- [On the Tyrants of Ephesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-sinope-tyrants-ephesus-kws-aa.grc.md) — *Ἀποσπάσματα* · `kws-aa`
 
 ## License and provenance
 

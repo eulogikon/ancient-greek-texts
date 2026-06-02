@@ -19,7 +19,7 @@ Memnon of Heraclea, a Roman-era historian of the 1st-2nd century CE. Surviving f
 
 ## Works
 
-- [Fragments on Heraclea's Tyrants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea-tyrants-qju-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν Ἡρακλείᾳ Τυράννων* · `qju-aa`
+- [Fragments on Heraclea's Tyrants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-heraclea-tyrants-qju-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν Ἡρακλείᾳ Τυράννων* · `qju-aa`
 
 ## License and provenance
 

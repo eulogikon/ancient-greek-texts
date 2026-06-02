@@ -19,9 +19,9 @@ Alcaeus was a 4th century BCE Athenian comic poet. Three fragmentary comedies su
 
 ## Works
 
-- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-ab-fim-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά* · `fim-ab`
-- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-daily-life-aa-fim-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `fim-aa`
-- [On Homeric Parody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet-homeric-parody-fim-ac.grc.md) — *Ἀπόσπασμα* · `fim-ac`
+- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-comic-daily-life-fim-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά* · `fim-ab`
+- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-comic-daily-life-fim-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `fim-aa`
+- [On Homeric Parody](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-comic-homeric-parody-fim-ac.grc.md) — *Ἀπόσπασμα* · `fim-ac`
 
 ## License and provenance
 

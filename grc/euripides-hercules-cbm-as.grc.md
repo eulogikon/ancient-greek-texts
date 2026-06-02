@@ -486,6 +486,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 μὴ προκάμητε πόδα βαρύ τε κῶ‐
 
+*[crux: μὴ προκάμητε πόδα]*
+
 ### 120.1
 
 λον ὥστε πρὸς πετραῖον
@@ -493,6 +495,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 120.2
 
 λέπας ζυγηφόρον πῶλον
+
+*[crux: ζυγηφόρον]*
 
 ### 120.3
 
@@ -905,6 +909,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 225.2
 
 χέρσου τ’ ἀμοιβὰς ὧν ἐμόχθησας χάριν.
+
+*[crux: ἐμόχθησας χάριν]*
 
 ### 225.3
 
@@ -1642,6 +1648,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κόρας Ἀρείας πέπλων
 
+*[crux: πέπλων]*
+
 ### 410.5
 
 χρυσεόστολον φάρος
@@ -1769,6 +1777,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 445.2
 
 ὑπὸ σειραίοις ποσὶν ἕλκουσαν
+
+*[crux: ὑπὸ σειραίοις ποσὶν]*
 
 ### 445.3
 
@@ -2962,6 +2972,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 οὐρανίων μακάρων κατέβαλ’ ὡς ἄρ’ οὐ
 
+*[crux: οὐρανίων μακάρων]*
+
 ### 760
 
 σθένουσιν θεοί;
@@ -3041,6 +3053,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 775.3
 
 χρόνου γὰρ οὔτις ἔτλα τὸ πάλιν εἰσορᾶν·
+
+*[crux: χρόνου γὰρ οὔτις ἔτλα τὸ πάλιν εἰσορᾶν]*
 
 ### 775.4
 
@@ -3297,6 +3311,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 845.1
 
 τιμάς τ’ ἔχω τάσδ’ οὐκ ἀγασθῆναι φίλοις
+
+*[crux: τιμάς τ’ ἔχω τάσδ’ οὐκ ἀγασθῆναι φίλοις]*
 
 ### 845.2
 
@@ -3906,6 +3922,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Παλλάς, κραδαίνους’ ἔγχος ἐπὶ λόφω κέαρ,
 
+*[crux: ἐπὶ λόφω κέαρ]*
+
 ### 995.9
 
 κἄρριψε πέτρον στέρνον εἰς Ἡρακλέους,
@@ -4426,6 +4444,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ηρ. ἦ γὰρ συνήραξ’ οἶκον ἢ βάκχευς’ ἐμόν;
 
+*[crux: ἢ βάκχευς’ ἐμόν]*
+
 ### 1140.4
 
 Αμ. οὐκ οἶδα πλὴν ἕν· πάντα δυστυχεῖ τὰ σά. Ηρ. ποῦ δ’ οἶστρος ἡμᾶς ἔλαβε; ποῦ διώλεσεν;
@@ -4453,6 +4473,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1145.6
 
 ἢ σάρκα τὴν ἐμὴν ἐμπρήσας πυρὶ
+
+*[crux: τὴν ἐμὴν]*
 
 ### 1145.7
 
@@ -4730,6 +4752,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 φέρει τὰ τῶν θεῶν γε πτώματ’ οὐδ’ ἀναίνεται.
 
+*[crux: τὰ τῶν θεῶν γε]*
+
 ### 1225.5
 
 Ηρ. Θησεῦ, δέδορκας τόνδ’ ἀγῶν’ ἐμῶν τέκνων;
@@ -4966,6 +4990,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 γλώσσης πικροῖς κέντροισι κληιδουχούμενοι·
 
+*[crux: κληιδουχούμενοι]*
+
 ### 1285.5
 
 Οὐχ οὗτος ὁ Διός, ὃς τέκν’ ἔκτεινέν ποτε
@@ -5021,6 +5047,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1295.8
 
 κρόους’ Ὀλυμπίου Ζηνὸς ἀρβύληι πόδα.
+
+*[crux: κρόους’ Ὀλυμπίου Ζηνὸς ἀρβύληι πόδα]*
 
 ### 1305.1
 
@@ -5458,6 +5486,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ηρ. πῶς οὖν ἔτ’ εἴπης ὅτι συνέσταλμαι κακοῖς;
 
+*[crux: ἔτ’ εἴπης]*
+
 ### 1415.4
 
 Θη. πρόβαινε. Ηρ. χαῖρ’, ὦ πρέσβυ. Αμ. καὶ σύ μοι, τέκνον.
@@ -5469,6 +5499,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1420.1
 
 Ηρ. ἐγώ. Αμ. πότ’ ἐλθών; Ηρ. ἡνίκ’ ἂν θάψηις τέκνα.
+
+*[crux: θάψηις τέκνα]*
 
 ### 1420.2
 

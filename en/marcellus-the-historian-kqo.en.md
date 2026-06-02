@@ -19,7 +19,7 @@ Marcellus the Historian, a Hellenistic Greek historian of the 3rd century BCE. F
 
 ## Works
 
-- [Fragments on the Atlantic Islands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian-atlantic-islands-kqo-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν Ἀτλαντικῷ Νήσων* · `kqo-aa`
+- [Fragments on the Atlantic Islands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-atlantic-islands-kqo-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν Ἀτλαντικῷ Νήσων* · `kqo-aa`
 
 ## License and provenance
 

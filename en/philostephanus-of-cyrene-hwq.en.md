@@ -19,8 +19,8 @@ Philostephanus of Cyrene was a Hellenistic historian of the 3rd century BCE. Two
 
 ## Works
 
-- [Geographical Fragments on Sicily](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-sicily-hwq-ab.grc.md) — *Ἀποσπάσματα περὶ Σικελίας* · `hwq-ab`
-- [On the Cities in Asia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene-cities-asia-hwq-aa.grc.md) — *Ἀποσπάσματα* · `hwq-aa`
+- [Geographical Fragments on Sicily](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-cyrene-sicily-hwq-ab.grc.md) — *Ἀποσπάσματα περὶ Σικελίας* · `hwq-ab`
+- [On the Cities in Asia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-cyrene-cities-asia-hwq-aa.grc.md) — *Ἀποσπάσματα* · `hwq-aa`
 
 ## License and provenance
 

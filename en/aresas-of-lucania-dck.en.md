@@ -20,7 +20,7 @@ Aresas of Lucania was a 5th century BCE Pythagorean philosopher. Surviving fragm
 
 ## Works
 
-- [On Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania-human-nature-dck-aa.grc.md) — *Ἀπόσπασμα* · `dck-aa`
+- [On Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-lucania-human-nature-dck-aa.grc.md) — *Ἀπόσπασμα* · `dck-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Aelian the Tactician, a 2nd century Roman military writer. His treatise details 
 
 ## Works
 
-- [Tactics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-the-tactician-tactics-opg-aa.grc.md) — *Τακτικά* · `opg-aa`
+- [Tactics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-tactician-tactics-opg-aa.grc.md) — *Τακτικά* · `opg-aa`
 
 ## License and provenance
 

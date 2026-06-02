@@ -19,7 +19,7 @@ Naumachius, a Roman-era didactic poet writing in Greek. Surviving works include 
 
 ## Works
 
-- [On Marriage and Wifely Duties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-the-didactic-poet-marriage-duties-qky-aa.grc.md) — *Ἀπόσπασμα* · `qky-aa`
+- [On Marriage and Wifely Duties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/naumachius-marriage-duties-qky-aa.grc.md) — *Ἀπόσπασμα* · `qky-aa`
 
 ## License and provenance
 

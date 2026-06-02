@@ -19,7 +19,7 @@ Neanthes of Cyzicus was a Hellenistic historian of the 4th century BCE. Fragment
 
 ## Works
 
-- [Historical Fragments on Themistocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-of-cyzicus-historical-fragments-themistocles-iac-aa.grc.md) — *Ἀποσπάσματα περὶ Θεμιστοκλέους* · `iac-aa`
+- [Historical Fragments on Themistocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neanthes-cyzicus-historical-fragments-themistocles-iac-aa.grc.md) — *Ἀποσπάσματα περὶ Θεμιστοκλέους* · `iac-aa`
 
 ## License and provenance
 

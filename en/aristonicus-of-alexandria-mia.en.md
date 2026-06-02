@@ -19,10 +19,10 @@ Aristonicus of Alexandria, Hellenistic grammarian and scholar. Surviving works o
 
 ## Works
 
-- [On Signs in the Iliad](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-iliad-mia-ab.grc.md) — *Περὶ τῶν σημείων τῆς Ἰλιάδος* · `mia-ab`
-- [On Signs in the Odyssey](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-signs-odyssey-mia-aa.grc.md) — *Περὶ Σημίων Ὀδυσσείας* · `mia-aa`
-- [On the Origins of Tragic Dance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-tragic-dance-mia-ad.grc.md) — *Ἀπόσπασμα* · `mia-ad`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-of-alexandria-testimonies-mia-ac.grc.md) — *Μαρτυρίαι* · `mia-ac`
+- [On Signs in the Iliad](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-alexandria-signs-iliad-mia-ab.grc.md) — *Περὶ τῶν σημείων τῆς Ἰλιάδος* · `mia-ab`
+- [On Signs in the Odyssey](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-alexandria-signs-odyssey-mia-aa.grc.md) — *Περὶ Σημίων Ὀδυσσείας* · `mia-aa`
+- [On the Origins of Tragic Dance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-alexandria-tragic-dance-mia-ad.grc.md) — *Ἀπόσπασμα* · `mia-ad`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonicus-alexandria-testimonies-mia-ac.grc.md) — *Μαρτυρίαι* · `mia-ac`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Moderatus of Gades was a 1st century CE Neopythagorean. His treatise explores Py
 
 ## Works
 
-- [On Pythagorean Number Theory](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-of-gades-pythagorean-number-theory-noi-aa.grc.md) — *Ἀποσπάσματα* · `noi-aa`
+- [On Pythagorean Number Theory](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moderatus-gades-pythagorean-number-theory-noi-aa.grc.md) — *Ἀποσπάσματα* · `noi-aa`
 
 ## License and provenance
 

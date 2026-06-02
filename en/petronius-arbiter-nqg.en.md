@@ -19,7 +19,7 @@ Petronius Arbiter, Roman author of the 1st century CE. Works and fragments in th
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-arbiter-testimony-nqg-aa.grc.md) — *Μαρτυρία* · `nqg-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/petronius-testimony-nqg-aa.grc.md) — *Μαρτυρία* · `nqg-aa`
 
 ## License and provenance
 

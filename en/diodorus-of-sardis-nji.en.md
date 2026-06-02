@@ -19,7 +19,7 @@ Diodorus of Sardis was a Hellenistic orator of the 1st century BCE. His survivin
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sardis-epigrams-nji-aa.grc.md) — *Ἐπιγράμματα* · `nji-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sardis-epigrams-nji-aa.grc.md) — *Ἐπιγράμματα* · `nji-aa`
 
 ## License and provenance
 

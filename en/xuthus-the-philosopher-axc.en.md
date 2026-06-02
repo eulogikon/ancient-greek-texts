@@ -20,7 +20,7 @@ Xuthus was a Pythagorean philosopher from Rhegium. His surviving philosophical w
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher-testimony-axc-aa.grc.md) — *Μαρτυρία* · `axc-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-testimony-axc-aa.grc.md) — *Μαρτυρία* · `axc-aa`
 
 ## License and provenance
 

@@ -20,8 +20,8 @@ Anaxarchus was a Democritean philosopher from Abdera. Surviving fragments of his
 
 ## Works
 
-- [On Kingship and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-kingship-wisdom-fhs-ab.grc.md) — *Ἀποσπάσματα* · `fhs-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-of-abdera-testimonies-fhs-aa.grc.md) — *Μαρτυρίαι* · `fhs-aa`
+- [On Kingship and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-abdera-kingship-wisdom-fhs-ab.grc.md) — *Ἀποσπάσματα* · `fhs-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxarchus-abdera-testimonies-fhs-aa.grc.md) — *Μαρτυρίαι* · `fhs-aa`
 
 ## License and provenance
 

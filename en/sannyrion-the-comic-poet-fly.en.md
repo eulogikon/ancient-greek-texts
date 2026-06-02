@@ -19,8 +19,8 @@ Sannyrion was an Athenian comic poet of Old Comedy. Surviving works are preserve
 
 ## Works
 
-- [Comic Fragments on Gods and Mortals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-ab-fly-ab.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν* · `fly-ab`
-- [Comic Fragments on Gods and Mortals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet-comic-fragments-aa-fly-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν* · `fly-aa`
+- [Comic Fragments on Gods and Mortals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-comic-fragments-fly-ab.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν* · `fly-ab`
+- [Comic Fragments on Gods and Mortals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-comic-fragments-fly-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν* · `fly-aa`
 
 ## License and provenance
 

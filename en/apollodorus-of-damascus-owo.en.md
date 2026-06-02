@@ -19,7 +19,7 @@ Apollodorus of Damascus, Roman era engineer and architect. Technical treatise on
 
 ## Works
 
-- [Siegecraft](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-damascus-siegecraft-owo-aa.grc.md) — *Πολιορκητικά* · `owo-aa`
+- [Siegecraft](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-damascus-siegecraft-owo-aa.grc.md) — *Πολιορκητικά* · `owo-aa`
 
 ## License and provenance
 

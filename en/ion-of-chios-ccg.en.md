@@ -19,13 +19,13 @@ Ion of Chios, a 5th century BCE Ionic philosopher and poet. Seven works preserve
 
 ## Works
 
-- [Foundations of Chios](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-foundations-ccg-af.grc.md) — *Ἀποσπάσματα* · `ccg-af`
-- [Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-fragments-ccg-ad.grc.md) — *Ἀποσπάσματα περὶ Διονύσου* · `ccg-ad`
-- [Fragments on Dionysus and Eros](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-dionysus-eros-ccg-ae.grc.md) — *Ἀποσπάσματα περὶ Διονύσου καὶ Ἔρωτος* · `ccg-ae`
-- [Fragments on Heracles and Omphale](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-heracles-omphale-ccg-ac.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους καὶ Ὀμφάλης* · `ccg-ac`
-- [On the Triadic Nature of Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-triadic-nature-ccg-ag.grc.md) — *Ἀποσπάσματα* · `ccg-ag`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-ccg-aa.grc.md) — *Μαρτυρίαι Α'* · `ccg-aa`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios-testimonies-2-ccg-ab.grc.md) — *Μαρτυρίαι Β'* · `ccg-ab`
+- [Foundations of Chios](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-foundations-ccg-af.grc.md) — *Ἀποσπάσματα* · `ccg-af`
+- [Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-dionysus-fragments-ccg-ad.grc.md) — *Ἀποσπάσματα περὶ Διονύσου* · `ccg-ad`
+- [Fragments on Dionysus and Eros](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-dionysus-eros-ccg-ae.grc.md) — *Ἀποσπάσματα περὶ Διονύσου καὶ Ἔρωτος* · `ccg-ae`
+- [Fragments on Heracles and Omphale](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-heracles-omphale-ccg-ac.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους καὶ Ὀμφάλης* · `ccg-ac`
+- [On the Triadic Nature of Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-triadic-nature-ccg-ag.grc.md) — *Ἀποσπάσματα* · `ccg-ag`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-testimonies-ccg-aa.grc.md) — *Μαρτυρίαι Α'* · `ccg-aa`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-chios-testimonies-2-ccg-ab.grc.md) — *Μαρτυρίαι Β'* · `ccg-ab`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Procopius of Caesarea, 6th century CE historian. Works include histories of Just
 
 ## Works
 
-- [On Buildings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-buildings-unc-ac.grc.md) — *Περὶ κτισμάτων* · `unc-ac`
-- [Secret History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-secret-history-unc-ab.grc.md) — *Ἀπόκρυφη Ἱστορία* · `unc-ab`
-- [Speeches in Defense of the Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea-defense-wars-unc-aa.grc.md) — *Ὑπὲρ τῶν Πολέμων Λόγοι* · `unc-aa`
+- [On Buildings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-caesarea-buildings-unc-ac.grc.md) — *Περὶ κτισμάτων* · `unc-ac`
+- [Secret History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-caesarea-secret-history-unc-ab.grc.md) — *Ἀπόκρυφη Ἱστορία* · `unc-ab`
+- [Speeches in Defense of the Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-caesarea-defense-wars-unc-aa.grc.md) — *Ὑπὲρ τῶν Πολέμων Λόγοι* · `unc-aa`
 
 ## License and provenance
 

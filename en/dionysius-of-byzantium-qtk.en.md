@@ -19,7 +19,7 @@ Dionysius of Byzantium, a 2nd century CE Roman geographer. His surviving geograp
 
 ## Works
 
-- [On the Navigation of the Bosporus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-byzantium-navigation-bosporus-qtk-aa.grc.md) — *Περὶ τῆς Πλοηγίας τοῦ Βοσπόρου* · `qtk-aa`
+- [On the Navigation of the Bosporus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-byzantium-navigation-bosporus-qtk-aa.grc.md) — *Περὶ τῆς Πλοηγίας τοῦ Βοσπόρου* · `qtk-aa`
 
 ## License and provenance
 

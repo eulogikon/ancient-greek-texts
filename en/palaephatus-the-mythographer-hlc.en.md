@@ -19,8 +19,8 @@ Palaephatus, a 4th century BCE mythographer who rationalized myths. Includes On 
 
 ## Works
 
-- [Fragments on Trojan Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palaephatus-the-mythographer-trojan-geography-hlc-ab.grc.md) — *Ἀποσπάσματα περὶ Τρωϊκῆς Γεωγραφίας* · `hlc-ab`
-- [On Incredible Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palaephatus-the-mythographer-incredible-things-hlc-aa.grc.md) — *Περὶ Ἀπίστων* · `hlc-aa`
+- [Fragments on Trojan Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palaephatus-trojan-geography-hlc-ab.grc.md) — *Ἀποσπάσματα περὶ Τρωϊκῆς Γεωγραφίας* · `hlc-ab`
+- [On Incredible Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/palaephatus-incredible-things-hlc-aa.grc.md) — *Περὶ Ἀπίστων* · `hlc-aa`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Alcidamas, a classical Greek sophist and student of Gorgias. His surviving orati
 
 ## Works
 
-- [Odysseus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcidamas-of-elaea-odysseus-dkm-aa.grc.md) — *Ὀδυσσεύς* · `dkm-aa`
+- [Odysseus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcidamas-elaea-odysseus-dkm-aa.grc.md) — *Ὀδυσσεύς* · `dkm-aa`
 
 ## License and provenance
 

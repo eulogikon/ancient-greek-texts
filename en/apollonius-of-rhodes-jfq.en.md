@@ -19,8 +19,8 @@ Apollonius of Rhodes, Hellenistic epic poet of the 3rd century BCE. Works includ
 
 ## Works
 
-- [Argonautica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-jfq-aa.grc.md) — *Ἀργοναυτικά* · `jfq-aa`
-- [Fragments on the Argonautic Voyage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-argonautica-fragments-jfq-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀργοναυτικῆς Πλόης* · `jfq-ab`
+- [Argonautica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-rhodes-argonautica-jfq-aa.grc.md) — *Ἀργοναυτικά* · `jfq-aa`
+- [Fragments on the Argonautic Voyage](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-rhodes-argonautica-fragments-jfq-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀργοναυτικῆς Πλόης* · `jfq-ab`
 
 ## License and provenance
 

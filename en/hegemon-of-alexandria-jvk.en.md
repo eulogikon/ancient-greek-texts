@@ -19,8 +19,8 @@ Hegemon of Alexandria, Hellenistic poet of the 3rd century BCE. Works include ep
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-epigram-jvk-ab.grc.md) — *Ἐπίγραμμα* · `jvk-ab`
-- [Fragments on Thessalian Aleuas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria-thessalian-aleuas-jvk-aa.grc.md) — *Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου* · `jvk-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-alexandria-epigram-jvk-ab.grc.md) — *Ἐπίγραμμα* · `jvk-ab`
+- [Fragments on Thessalian Aleuas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-alexandria-thessalian-aleuas-jvk-aa.grc.md) — *Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου* · `jvk-aa`
 
 ## License and provenance
 

@@ -19,24 +19,24 @@ Dionysius of Halicarnassus, 1st century BCE historian. Works include historical 
 
 ## Works
 
-- [Chronological Fragments on Rome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-chronological-rome-ndy-aq.grc.md) — *Ἀποσπάσματα περὶ Ῥώμης Χρονολογικά* · `ndy-aq`
-- [Isaeus the Athenian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isaeus-ndy-ai.grc.md) — *Ἰσαῖος Ἀθηναῖος* · `ndy-ai`
-- [Isocrates the Athenian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-isocrates-ndy-ag.grc.md) — *Ἰσοκρατης Ἀθηναῖος* · `ndy-ag`
-- [Letter to Ammaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ammaeus-ndy-ak.grc.md) — *Ἐπιστολὴ πρὸς Ἀμμαῖον* · `ndy-ak`
-- [Letter to Pompeius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-pompeius-ndy-aj.grc.md) — *Ἐπιστολὴ πρὸς Πομπήιον* · `ndy-aj`
-- [Lysias the Syracusan by Descent](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-lysias-syracusan-ndy-ac.grc.md) — *Λυσίας συρακούσιος πατρόθεν* · `ndy-ac`
-- [On Deinarchus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-deinarchus-ndy-an.grc.md) — *Περὶ Δεινάρχου* · `ndy-an`
-- [On Imitation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-imitation-ndy-ap.grc.md) — *Περὶ Μιμήσεως* · `ndy-ap`
-- [On the Ancient Orators](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-ancient-orators-ndy-ah.grc.md) — *Περὶ τῶν ἀρχαίων ῥητόρων* · `ndy-ah`
-- [On the Composition of Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-names-ndy-ad.grc.md) — *Περὶ συνθέσεως ὀνομάτων* · `ndy-ad`
-- [On the Composition of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-composition-words-ndy-ae.grc.md) — *Περὶ Συνθέσεως Λέξεων* · `ndy-ae`
-- [On the Idioms of Thucydides to Ammonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-idioms-ammonius-ndy-ab.grc.md) — *Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον* · `ndy-ab`
-- [On the Style of Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-demosthenes-style-ndy-af.grc.md) — *Περί της Δημοσθένους λέξεως* · `ndy-af`
-- [On Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-thucydides-ndy-ao.grc.md) — *Περὶ Θουκιδίδου* · `ndy-ao`
-- [Remains of the Second Book-Ancient Orators](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-second-book-orators-ndy-aa.grc.md) — *Λείψανα Βιβλίου Δευτέρου περὶ ἀρχαίων ῥητόρων* · `ndy-aa`
-- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-rhetoric-ndy-am.grc.md) — *Ῥητορικὴ Τέχνη* · `ndy-am`
-- [Roman Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-roman-antiquities-ndy-al.grc.md) — *Ῥωμαϊκὴ Ἀρχαιολογία* · `ndy-al`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus-testimony-ndy-ar.grc.md) — *Μαρτυρία* · `ndy-ar`
+- [Chronological Fragments on Rome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-chronological-rome-ndy-aq.grc.md) — *Ἀποσπάσματα περὶ Ῥώμης Χρονολογικά* · `ndy-aq`
+- [Isaeus the Athenian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-isaeus-ndy-ai.grc.md) — *Ἰσαῖος Ἀθηναῖος* · `ndy-ai`
+- [Isocrates the Athenian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-isocrates-ndy-ag.grc.md) — *Ἰσοκρατης Ἀθηναῖος* · `ndy-ag`
+- [Letter to Ammaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-ammaeus-ndy-ak.grc.md) — *Ἐπιστολὴ πρὸς Ἀμμαῖον* · `ndy-ak`
+- [Letter to Pompeius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-pompeius-ndy-aj.grc.md) — *Ἐπιστολὴ πρὸς Πομπήιον* · `ndy-aj`
+- [Lysias the Syracusan by Descent](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-lysias-syracusan-ndy-ac.grc.md) — *Λυσίας συρακούσιος πατρόθεν* · `ndy-ac`
+- [On Deinarchus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-deinarchus-ndy-an.grc.md) — *Περὶ Δεινάρχου* · `ndy-an`
+- [On Imitation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-imitation-ndy-ap.grc.md) — *Περὶ Μιμήσεως* · `ndy-ap`
+- [On the Ancient Orators](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-ancient-orators-ndy-ah.grc.md) — *Περὶ τῶν ἀρχαίων ῥητόρων* · `ndy-ah`
+- [On the Composition of Names](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-composition-names-ndy-ad.grc.md) — *Περὶ συνθέσεως ὀνομάτων* · `ndy-ad`
+- [On the Composition of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-composition-words-ndy-ae.grc.md) — *Περὶ Συνθέσεως Λέξεων* · `ndy-ae`
+- [On the Idioms of Thucydides to Ammonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-idioms-ammonius-ndy-ab.grc.md) — *Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον* · `ndy-ab`
+- [On the Style of Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-demosthenes-style-ndy-af.grc.md) — *Περί της Δημοσθένους λέξεως* · `ndy-af`
+- [On Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-thucydides-ndy-ao.grc.md) — *Περὶ Θουκιδίδου* · `ndy-ao`
+- [Remains of the Second Book-Ancient Orators](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-second-book-orators-ndy-aa.grc.md) — *Λείψανα Βιβλίου Δευτέρου περὶ ἀρχαίων ῥητόρων* · `ndy-aa`
+- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-rhetoric-ndy-am.grc.md) — *Ῥητορικὴ Τέχνη* · `ndy-am`
+- [Roman Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-roman-antiquities-ndy-al.grc.md) — *Ῥωμαϊκὴ Ἀρχαιολογία* · `ndy-al`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-halicarnassus-testimony-ndy-ar.grc.md) — *Μαρτυρία* · `ndy-ar`
 
 ## License and provenance
 

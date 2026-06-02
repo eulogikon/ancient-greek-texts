@@ -19,8 +19,8 @@ Crobylus was an Athenian comic poet of the 4th century BCE. Two fragmentary work
 
 ## Works
 
-- [Fragments on Parasites and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet-parasites-excess-lhc-ab.grc.md) — *Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς* · `lhc-ab`
-- [Fragments on Parasites and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet-parasites-feasting-lhc-aa.grc.md) — *Ἀποσπάσματα περὶ Παρασίτων καὶ Εὐωχίας* · `lhc-aa`
+- [Fragments on Parasites and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-parasites-excess-lhc-ab.grc.md) — *Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς* · `lhc-ab`
+- [Fragments on Parasites and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-parasites-feasting-lhc-aa.grc.md) — *Ἀποσπάσματα περὶ Παρασίτων καὶ Εὐωχίας* · `lhc-aa`
 
 ## License and provenance
 

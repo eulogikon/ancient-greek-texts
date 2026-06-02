@@ -19,8 +19,8 @@ Duris of Samos was a Hellenistic historian and tyrant. His surviving historical 
 
 ## Works
 
-- [Fragments on Agathocles' Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-agathocles-campaign-lju-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀγαθοκλέους Στρατηγίας* · `lju-aa`
-- [Historical Fragments of Duris](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos-historical-fragments-lju-ab.grc.md) — *Ἀποσπάσματα Δούριδος* · `lju-ab`
+- [Fragments on Agathocles' Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-samos-agathocles-campaign-lju-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀγαθοκλέους Στρατηγίας* · `lju-aa`
+- [Historical Fragments of Duris](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-samos-historical-fragments-lju-ab.grc.md) — *Ἀποσπάσματα Δούριδος* · `lju-ab`
 
 ## License and provenance
 

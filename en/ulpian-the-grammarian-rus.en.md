@@ -19,7 +19,7 @@ Ulpian the Grammarian was a Roman era scholar of the 2nd to 3rd century CE. Work
 
 ## Works
 
-- [Introduction to Demosthenes' Olynthiac and Philippic Orations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-the-grammarian-demosthenes-orations-rus-aa.grc.md) — *Εἰσαγωγὴ εἰς τὰς Δημοσθένους Ὀλυνθιακὰς καὶ* · `rus-aa`
+- [Introduction to Demosthenes' Olynthiac and Philippic Orations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-demosthenes-orations-rus-aa.grc.md) — *Εἰσαγωγὴ εἰς τὰς Δημοσθένους Ὀλυνθιακὰς καὶ* · `rus-aa`
 
 ## License and provenance
 

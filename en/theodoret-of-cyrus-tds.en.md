@@ -20,13 +20,13 @@ Theodoret of Cyrus was a 5th century Christian bishop. His works include theolog
 
 ## Works
 
-- [Compendium of Heretical Fables](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-heretical-fables-tds-ai.grc.md) — *Σύνοψις Αἱρετικῶν Μύθων* · `tds-ai`
-- [Little Book-Nestorius to Sporacius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-nestorius-sporacius-tds-ae.grc.md) — *Βιβλίον Κατὰ Νεστορίου πρὸς Σποράκιον* · `tds-ae`
-- [On Providence, Ten Orations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-providence-orations-tds-ao.grc.md) — *Περὶ Προνοίας* · `tds-ao`
-- [On the Holy Trinity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-holy-trinity-tds-av.grc.md) — *Περὶ τῆς Ἁγίας Τριάδος* · `tds-av`
-- [Questions and Answers to the Orthodox](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-questions-answers-tds-ag.grc.md) — *Ἐρωταποκρίσεις πρὸς Ὀρθοδόξους* · `tds-ag`
-- [That Our Only Son is Our Lord Jesus Christ from Letter 151](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-only-son-lord-jesus-christ-tds-aa.grc.md) — *Ὅτι ὁ Μονογενὴς Υἱὸς ἡμῶν Κύριος Ἰησοῦς Χριστός* · `tds-aa`
-- [Treatment of Greek Afflictions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus-greek-afflictions-tds-al.grc.md) — *Θεραπεία Ἑλληνικῶν Παθῶν* · `tds-al`
+- [Compendium of Heretical Fables](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-heretical-fables-tds-ai.grc.md) — *Σύνοψις Αἱρετικῶν Μύθων* · `tds-ai`
+- [Little Book-Nestorius to Sporacius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-nestorius-sporacius-tds-ae.grc.md) — *Βιβλίον Κατὰ Νεστορίου πρὸς Σποράκιον* · `tds-ae`
+- [On Providence, Ten Orations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-providence-orations-tds-ao.grc.md) — *Περὶ Προνοίας* · `tds-ao`
+- [On the Holy Trinity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-holy-trinity-tds-av.grc.md) — *Περὶ τῆς Ἁγίας Τριάδος* · `tds-av`
+- [Questions and Answers to the Orthodox](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-questions-answers-tds-ag.grc.md) — *Ἐρωταποκρίσεις πρὸς Ὀρθοδόξους* · `tds-ag`
+- [That Our Only Son is Our Lord Jesus Christ from Letter 151](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-only-son-lord-jesus-christ-tds-aa.grc.md) — *Ὅτι ὁ Μονογενὴς Υἱὸς ἡμῶν Κύριος Ἰησοῦς Χριστός* · `tds-aa`
+- [Treatment of Greek Afflictions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-cyrus-greek-afflictions-tds-al.grc.md) — *Θεραπεία Ἑλληνικῶν Παθῶν* · `tds-al`
 
 ## License and provenance
 

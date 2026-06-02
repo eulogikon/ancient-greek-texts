@@ -19,9 +19,9 @@ Sopater of Athens was a 4th century CE orator writing in Atticizing Greek. Three
 
 ## Works
 
-- [Division of Questions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-division-questions-spc-ac.grc.md) — *Διαίρεσις ζητημάτων* · `spc-ac`
-- [Introduction to Aristides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-introduction-spc-ab.grc.md) — *Εἰσαγωγὴ εἰς Ἀριστείδην* · `spc-ab`
-- [Scholia-Hermogenes's Status or Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens-scholia-hermogenes-spc-aa.grc.md) — *Σχόλια εἰς Ἑρμογένους Κατάστασιν ἢ Ῥητορικὴν* · `spc-aa`
+- [Division of Questions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-athens-division-questions-spc-ac.grc.md) — *Διαίρεσις ζητημάτων* · `spc-ac`
+- [Introduction to Aristides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-athens-introduction-spc-ab.grc.md) — *Εἰσαγωγὴ εἰς Ἀριστείδην* · `spc-ab`
+- [Scholia-Hermogenes's Status or Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-athens-scholia-hermogenes-spc-aa.grc.md) — *Σχόλια εἰς Ἑρμογένους Κατάστασιν ἢ Ῥητορικὴν* · `spc-aa`
 
 ## License and provenance
 

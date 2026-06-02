@@ -19,7 +19,7 @@ Agias of Troezen was a 7th-6th century BCE Greek historian. Read his surviving h
 
 ## Works
 
-- [Argolic Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen-histories-myths-aby-aa.grc.md) — *Ἀποσπάσματα* · `aby-aa`
+- [Argolic Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-troezen-histories-myths-aby-aa.grc.md) — *Ἀποσπάσματα* · `aby-aa`
 
 ## License and provenance
 

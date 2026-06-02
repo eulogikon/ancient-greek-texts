@@ -19,8 +19,8 @@ John of Gaza, a late antique grammarian and poet. His surviving works include ve
 
 ## Works
 
-- [Anacreontea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza-anacreontea-vuy-ab.grc.md) — *Ἀνακρεόντεια* · `vuy-ab`
-- [Description of the Cosmic Tablet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza-cosmic-tablet-vuy-aa.grc.md) — *Ἔκφρασις τοῦ κοσμικοῦ πίνακος* · `vuy-aa`
+- [Anacreontea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-gaza-anacreontea-vuy-ab.grc.md) — *Ἀνακρεόντεια* · `vuy-ab`
+- [Description of the Cosmic Tablet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-gaza-cosmic-tablet-vuy-aa.grc.md) — *Ἔκφρασις τοῦ κοσμικοῦ πίνακος* · `vuy-aa`
 
 ## License and provenance
 

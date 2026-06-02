@@ -20,7 +20,7 @@ Perictione was a noblewoman of Athens and mother of Plato. One philosophical tre
 
 ## Works
 
-- [On the Harmony of Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato-harmony-women-cqm-aa.grc.md) — *Ἀποσπάσματα* · `cqm-aa`
+- [On the Harmony of Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-harmony-women-cqm-aa.grc.md) — *Ἀποσπάσματα* · `cqm-aa`
 
 ## License and provenance
 

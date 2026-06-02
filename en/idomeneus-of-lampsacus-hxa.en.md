@@ -19,7 +19,7 @@ Idomeneus of Lampsacus, a Hellenistic historian of the 4th-3rd centuries BCE. Hi
 
 ## Works
 
-- [On the Socrates Circle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus-socrates-circle-hxa-aa.grc.md) — *Ἀποσπάσματα* · `hxa-aa`
+- [On the Socrates Circle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-lampsacus-socrates-circle-hxa-aa.grc.md) — *Ἀποσπάσματα* · `hxa-aa`
 
 ## License and provenance
 

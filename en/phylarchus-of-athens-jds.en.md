@@ -19,8 +19,8 @@ Phylarchus of Athens, a 3rd century BCE Hellenistic historian. Works include his
 
 ## Works
 
-- [Historical Fragments and Anecdotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-historical-anecdotes-jds-ab.grc.md) — *Ἀποσπάσματα* · `jds-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens-testimonies-jds-aa.grc.md) — *Μαρτυρίαι* · `jds-aa`
+- [Historical Fragments and Anecdotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-athens-historical-anecdotes-jds-ab.grc.md) — *Ἀποσπάσματα* · `jds-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-athens-testimonies-jds-aa.grc.md) — *Μαρτυρίαι* · `jds-aa`
 
 ## License and provenance
 

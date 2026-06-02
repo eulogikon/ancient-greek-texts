@@ -19,8 +19,8 @@ Lycurgus was a 4th century BCE Athenian orator and statesman. Two of his forensi
 
 ## Works
 
-- [Against Leocrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-against-leocrates-hfi-aa.grc.md) — *Κατὰ Λεωκράτους* · `hfi-aa`
-- [Political Defense and Speeches](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-of-athens-defense-speeches-hfi-ab.grc.md) — *Ἀποσπάσματα* · `hfi-ab`
+- [Against Leocrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-athens-against-leocrates-hfi-aa.grc.md) — *Κατὰ Λεωκράτους* · `hfi-aa`
+- [Political Defense and Speeches](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycurgus-athens-defense-speeches-hfi-ab.grc.md) — *Ἀποσπάσματα* · `hfi-ab`
 
 ## License and provenance
 

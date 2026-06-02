@@ -19,7 +19,7 @@ Menecrates of Tyre was a 4th century BCE historian. Surviving fragments of his w
 
 ## Works
 
-- [Mythological Fragments on Ino](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre-mythological-ino-gke-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰνοῦς* · `gke-aa`
+- [Mythological Fragments on Ino](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-tyre-mythological-ino-gke-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰνοῦς* · `gke-aa`
 
 ## License and provenance
 

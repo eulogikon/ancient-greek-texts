@@ -2,6 +2,15 @@
 *.pdf.part
 *.epub
 .env
+
+# Corpus moat (CDP-049 / INV-MD-08): per-work and per-author JSON are withheld
+# backend work product, never published. en/*.en.json is generated locally only
+# as the manifest builder's source-of-truth input; it must never be committed.
+# Work-body JSON (grc/*.json) has no emitter at all. These patterns are
+# directory-scoped, so the published top-level manifest.*.json indexes are
+# unaffected.
+grc/*.json
+en/*.json
 __pycache__/
 *.py
 work-reports/

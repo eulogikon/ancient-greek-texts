@@ -19,7 +19,7 @@ Iophon, 5th century BCE Athenian tragedian and son of Sophocles. Surviving fragm
 
 ## Works
 
-- [Fragments on Divine Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian-divine-knowledge-dvg-aa.grc.md) — *Ἀποσπάσματα περὶ Θείας Γνώσεως* · `dvg-aa`
+- [Fragments on Divine Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-divine-knowledge-dvg-aa.grc.md) — *Ἀποσπάσματα περὶ Θείας Γνώσεως* · `dvg-aa`
 
 ## License and provenance
 

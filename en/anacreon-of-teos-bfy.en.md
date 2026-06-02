@@ -19,9 +19,9 @@ Anacreon was a 6th century BCE Ionic lyric poet from Teos. Surviving works inclu
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-epigrams-bfy-ac.grc.md) — *Ἐπιγράμματα* · `bfy-ac`
-- [Fragments on Desire and Festivity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-desire-festivity-bfy-ab.grc.md) — *Ἀποσπάσματα περὶ Ἐπιθυμίας καὶ Ἑορτῆς* · `bfy-ab`
-- [Fragments on Wine and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-wine-love-bfy-aa.grc.md) — *Ἀποσπάσματα περὶ Οἴνου καὶ Ἔρωτος* · `bfy-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-teos-epigrams-bfy-ac.grc.md) — *Ἐπιγράμματα* · `bfy-ac`
+- [Fragments on Desire and Festivity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-teos-desire-festivity-bfy-ab.grc.md) — *Ἀποσπάσματα περὶ Ἐπιθυμίας καὶ Ἑορτῆς* · `bfy-ab`
+- [Fragments on Wine and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-teos-wine-love-bfy-aa.grc.md) — *Ἀποσπάσματα περὶ Οἴνου καὶ Ἔρωτος* · `bfy-aa`
 
 ## License and provenance
 

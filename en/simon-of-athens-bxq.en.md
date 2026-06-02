@@ -19,8 +19,8 @@ Simon of Athens, a 5th century BCE shoemaker and Socratic associate. Two survivi
 
 ## Works
 
-- [Fragments on Hippiatric Medicine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-hippiatric-fragments-bxq-ab.grc.md) — *Ἀποσπάσματα περὶ Ἱππιατρικῆς* · `bxq-ab`
-- [On the Form and Selection of Horses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens-horses-form-selection-bxq-aa.grc.md) — *Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων* · `bxq-aa`
+- [Fragments on Hippiatric Medicine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-athens-hippiatric-fragments-bxq-ab.grc.md) — *Ἀποσπάσματα περὶ Ἱππιατρικῆς* · `bxq-ab`
+- [On the Form and Selection of Horses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-athens-horses-form-selection-bxq-aa.grc.md) — *Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων* · `bxq-aa`
 
 ## License and provenance
 

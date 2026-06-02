@@ -19,7 +19,7 @@ Herodes Atticus was a Greek aristocrat and orator of the Second Sophistic. Survi
 
 ## Works
 
-- [On the Republic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodes-atticus-of-athens-republic-qoa-aa.grc.md) — *Περὶ πολιτείας* · `qoa-aa`
+- [On the Republic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-athens-republic-qoa-aa.grc.md) — *Περὶ πολιτείας* · `qoa-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Agathon of Samos was a 5th century BCE historian. His surviving historical fragm
 
 ## Works
 
-- [Scythian and Egyptian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos-scythian-egyptian-histories-dca-aa.grc.md) — *Ἀποσπάσματα* · `dca-aa`
+- [Scythian and Egyptian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-samos-scythian-egyptian-histories-dca-aa.grc.md) — *Ἀποσπάσματα* · `dca-aa`
 
 ## License and provenance
 

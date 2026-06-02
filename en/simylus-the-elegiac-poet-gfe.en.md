@@ -19,8 +19,8 @@ Simylus was a classical Greek elegiac poet of the 4th century BCE. Two surviving
 
 ## Works
 
-- [On the Nature of Art and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-nature-art-wisdom-gfe-aa.grc.md) — *Ἀποσπάσματα* · `gfe-aa`
-- [On the Senses and Human Excellence](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet-senses-excellence-gfe-ab.grc.md) — *Ἀποσπάσματα* · `gfe-ab`
+- [On the Nature of Art and Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-nature-art-wisdom-gfe-aa.grc.md) — *Ἀποσπάσματα* · `gfe-aa`
+- [On the Senses and Human Excellence](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-senses-excellence-gfe-ab.grc.md) — *Ἀποσπάσματα* · `gfe-ab`
 
 ## License and provenance
 

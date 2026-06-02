@@ -19,7 +19,7 @@ Pherenicus of Heraclea, a Hellenistic poet writing in Homeric style. His epic fr
 
 ## Works
 
-- [Fragments on the Hyperboreans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea-hyperboreans-gbi-aa.grc.md) — *Ἀποσπάσματα περὶ Ὑπερβορέων* · `gbi-aa`
+- [Fragments on the Hyperboreans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-heraclea-hyperboreans-gbi-aa.grc.md) — *Ἀποσπάσματα περὶ Ὑπερβορέων* · `gbi-aa`
 
 ## License and provenance
 

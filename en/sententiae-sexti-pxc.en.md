@@ -20,7 +20,7 @@ Sextus the Pythagorean, pseudonymous author of 2nd century CE ethical wisdom. Mo
 
 ## Works
 
-- [Sentences of Sextus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti-sentences-pxc-aa.grc.md) — *Γνῶμαι Σέξτου* · `pxc-aa`
+- [Sentences of Sextus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-sentences-pxc-aa.grc.md) — *Γνῶμαι Σέξτου* · `pxc-aa`
 
 ## License and provenance
 

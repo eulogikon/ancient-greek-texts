@@ -19,8 +19,8 @@ Pancrates of Arcadia, a Hellenistic poet writing in Homeric epic dialect. Surviv
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-epigrams-jqu-ab.grc.md) — *Ἐπιγράμματα* · `jqu-ab`
-- [Fragments on Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia-sea-creatures-jqu-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν θαλάσσῃ Ζῴων* · `jqu-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-arcadia-epigrams-jqu-ab.grc.md) — *Ἐπιγράμματα* · `jqu-ab`
+- [Fragments on Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-arcadia-sea-creatures-jqu-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν ἐν θαλάσσῃ Ζῴων* · `jqu-aa`
 
 ## License and provenance
 

@@ -20,8 +20,8 @@ Nausiphanes of Teos was a 4th century BCE Democritean atomist. Two surviving wor
 
 ## Works
 
-- [On Rhetoric and Natural Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-rhetoric-philosophy-hik-ab.grc.md) — *Ἀποσπάσματα* · `hik-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos-testimonies-hik-aa.grc.md) — *Μαρτυρίαι* · `hik-aa`
+- [On Rhetoric and Natural Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-teos-rhetoric-philosophy-hik-ab.grc.md) — *Ἀποσπάσματα* · `hik-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-teos-testimonies-hik-aa.grc.md) — *Μαρτυρίαι* · `hik-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dionysius of Corinth was a 2nd century Christian bishop. Surviving works include
 
 ## Works
 
-- [On Christian Charity and Tradition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-corinth-christian-charity-qrw-aa.grc.md) — *Ἀποσπάσματα* · `qrw-aa`
+- [On Christian Charity and Tradition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-corinth-christian-charity-qrw-aa.grc.md) — *Ἀποσπάσματα* · `qrw-aa`
 
 ## License and provenance
 

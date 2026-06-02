@@ -19,11 +19,11 @@ Phrynichus of Bithynia was a Roman era grammarian. His works include treatises o
 
 ## Works
 
-- [Eclogae (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ac-oqu-ac.grc.md) — *Ἐκλογαί* · `oqu-ac`
-- [Eclogae (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ad-oqu-ad.grc.md) — *Ἐκλογαί* · `oqu-ad`
-- [Eclogae (Recension C)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-text-ae-oqu-ae.grc.md) — *Ἐκλογαί* · `oqu-ae`
-- [Sophistic Preparation, Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab.grc.md) — *Σοφιστικὴ Προπαρασκευή* · `oqu-ab`
-- [Sophistic Preparation, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa.grc.md) — *Σοφιστικὴ Προπαρασκευή* · `oqu-aa`
+- [Eclogae (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-bithynia-text-oqu-ac.grc.md) — *Ἐκλογαί* · `oqu-ac`
+- [Eclogae (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-bithynia-text-oqu-ad.grc.md) — *Ἐκλογαί* · `oqu-ad`
+- [Eclogae (Recension C)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-bithynia-text-oqu-ae.grc.md) — *Ἐκλογαί* · `oqu-ae`
+- [Sophistic Preparation, Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-bithynia-sophistic-preparation-oqu-ab.grc.md) — *Σοφιστικὴ Προπαρασκευή* · `oqu-ab`
+- [Sophistic Preparation, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-bithynia-sophistic-preparation-oqu-aa.grc.md) — *Σοφιστικὴ Προπαρασκευή* · `oqu-aa`
 
 ## License and provenance
 

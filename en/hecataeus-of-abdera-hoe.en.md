@@ -19,10 +19,10 @@ Hecataeus of Abdera was a Hellenistic historian and ethnographer. Works include 
 
 ## Works
 
-- [On Egyptian Philosophy and Religion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac.grc.md) — *Ἀποσπάσματα* · `hoe-ac`
-- [On the Hyperboreans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-hyperboreans-hoe-ad.grc.md) — *Ἀποσπάσματα* · `hoe-ad`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-hoe-aa.grc.md) — *Μαρτυρίαι Α'* · `hoe-aa`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera-testimonies-2-hoe-ab.grc.md) — *Μαρτυρίαι Β'* · `hoe-ab`
+- [On Egyptian Philosophy and Religion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-abdera-egyptian-philosophy-religion-hoe-ac.grc.md) — *Ἀποσπάσματα* · `hoe-ac`
+- [On the Hyperboreans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-abdera-hyperboreans-hoe-ad.grc.md) — *Ἀποσπάσματα* · `hoe-ad`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-abdera-testimonies-hoe-aa.grc.md) — *Μαρτυρίαι Α'* · `hoe-aa`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-abdera-testimonies-2-hoe-ab.grc.md) — *Μαρτυρίαι Β'* · `hoe-ab`
 
 ## License and provenance
 

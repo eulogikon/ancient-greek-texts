@@ -20,8 +20,8 @@ Crantor of Soli was a Platonist philosopher of the early Academy. Fragments on g
 
 ## Works
 
-- [Commentary on Plato's Atlantis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-atlantis-commentary-hhq-ab.grc.md) — *Ἀποσπάσματα* · `hhq-ab`
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli-fragments-hhq-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `hhq-aa`
+- [Commentary on Plato's Atlantis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-soli-atlantis-commentary-hhq-ab.grc.md) — *Ἀποσπάσματα* · `hhq-ab`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-soli-fragments-hhq-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `hhq-aa`
 
 ## License and provenance
 

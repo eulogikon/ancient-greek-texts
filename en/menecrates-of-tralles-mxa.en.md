@@ -19,7 +19,7 @@ Menecrates of Tralles, a Hellenistic historian of 2nd-1st century BCE. Surviving
 
 ## Works
 
-- [On the Foundation of Nicaea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles-foundation-nicaea-mxa-aa.grc.md) — *Ἀπόσπασμα* · `mxa-aa`
+- [On the Foundation of Nicaea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-tralles-foundation-nicaea-mxa-aa.grc.md) — *Ἀπόσπασμα* · `mxa-aa`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Theodosius of Bithynia, Hellenistic astronomer and mathematician. Works include 
 
 ## Works
 
-- [On Days and Nights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-days-nights-lww-aa.grc.md) — *Περὶ ἡμερῶν καὶ νυκτῶν* · `lww-aa`
-- [On Dwellings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-dwellings-lww-ab.grc.md) — *Περὶ οἰκήσεων* · `lww-ab`
-- [Spherical](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-bithynia-spherical-lww-ac.grc.md) — *Σφαιρικά* · `lww-ac`
+- [On Days and Nights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-bithynia-days-nights-lww-aa.grc.md) — *Περὶ ἡμερῶν καὶ νυκτῶν* · `lww-aa`
+- [On Dwellings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-bithynia-dwellings-lww-ab.grc.md) — *Περὶ οἰκήσεων* · `lww-ab`
+- [Spherical](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-bithynia-spherical-lww-ac.grc.md) — *Σφαιρικά* · `lww-ac`
 
 ## License and provenance
 

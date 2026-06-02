@@ -20,7 +20,7 @@ Praxiphanes of Mytilene was a Hellenistic Peripatetic philosopher and scholar. R
 
 ## Works
 
-- [Fragments on Philosophical Discourse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-of-mytilene-philosophical-fragments-hna-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφικοῦ Λόγου* · `hna-aa`
+- [Fragments on Philosophical Discourse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiphanes-mytilene-philosophical-fragments-hna-aa.grc.md) — *Ἀποσπάσματα περὶ Φιλοσοφικοῦ Λόγου* · `hna-aa`
 
 ## License and provenance
 

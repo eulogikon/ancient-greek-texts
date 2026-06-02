@@ -19,7 +19,7 @@ Silenus of Caleacte was a Hellenistic historian. His historical fragments surviv
 
 ## Works
 
-- [Historical Fragments on Hannibal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte-historical-fragments-hannibal-ktq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀννίβα* · `ktq-aa`
+- [Historical Fragments on Hannibal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-caleacte-historical-fragments-hannibal-ktq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀννίβα* · `ktq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Hierotheus the Alchemical Poet, a 5th-6th century CE Greek poet. Surviving alche
 
 ## Works
 
-- [Hierotheus the Philosopher-the Divine and Sacred Art in Iambic Verses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa.grc.md) — *Ἱεροθέου φιλοσόφου περὶ τῆς θείας καὶ ἱερᾶς τέχνης* · `vke-aa`
+- [Hierotheus the Philosopher-the Divine and Sacred Art in Iambic Verses](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-divine-sacred-art-vke-aa.grc.md) — *Ἱεροθέου φιλοσόφου περὶ τῆς θείας καὶ ἱερᾶς τέχνης* · `vke-aa`
 
 ## License and provenance
 

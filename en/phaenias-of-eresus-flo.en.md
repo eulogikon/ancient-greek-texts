@@ -20,7 +20,7 @@ Phaenias of Eresus, 4th century BCE Peripatetic philosopher. Surviving treatises
 
 ## Works
 
-- [Fragments on Aristotelian Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus-aristotelian-philosophy-flo-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀριστοτελικῆς Φιλοσοφίας* · `flo-aa`
+- [Fragments on Aristotelian Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-eresus-aristotelian-philosophy-flo-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀριστοτελικῆς Φιλοσοφίας* · `flo-aa`
 
 ## License and provenance
 

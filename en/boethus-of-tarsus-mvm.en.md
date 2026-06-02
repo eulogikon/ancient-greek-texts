@@ -19,7 +19,7 @@ Boethus of Tarsus, a 1st century BCE Hellenistic poet. His surviving verse is pr
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus-epigram-mvm-aa.grc.md) — *Ἐπίγραμμα* · `mvm-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-tarsus-epigram-mvm-aa.grc.md) — *Ἐπίγραμμα* · `mvm-aa`
 
 ## License and provenance
 

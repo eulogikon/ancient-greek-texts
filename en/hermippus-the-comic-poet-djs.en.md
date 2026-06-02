@@ -19,9 +19,9 @@ Hermippus was an Athenian comic poet of Old Comedy. Three surviving works are pr
 
 ## Works
 
-- [Fragments of Comic Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-comic-dialogues-djs-ab.grc.md) — *Ἀποσπάσματα Κωμικῶν Διαλόγων* · `djs-ab`
-- [Fragments on Gods and Time](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-gods-time-djs-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου* · `djs-aa`
-- [Satirical Cityscape Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet-satirical-cityscape-djs-ac.grc.md) — *Ἀποσπάσματα* · `djs-ac`
+- [Fragments of Comic Dialogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-comic-dialogues-djs-ab.grc.md) — *Ἀποσπάσματα Κωμικῶν Διαλόγων* · `djs-ab`
+- [Fragments on Gods and Time](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-gods-time-djs-aa.grc.md) — *Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου* · `djs-aa`
+- [Satirical Cityscape Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-satirical-cityscape-djs-ac.grc.md) — *Ἀποσπάσματα* · `djs-ac`
 
 ## License and provenance
 

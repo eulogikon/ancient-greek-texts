@@ -19,7 +19,7 @@ Anacharsis, a Scythian prince and philosopher of the 6th century BCE. Epistles o
 
 ## Works
 
-- [Fragments on Barbarians and Greeks](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacharsis-the-scythian-barbarians-greeks-ars-aa.grc.md) — *Ἀποσπάσματα περὶ Βαρβάρων καὶ Ἑλλήνων* · `ars-aa`
+- [Fragments on Barbarians and Greeks](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacharsis-scythian-barbarians-greeks-ars-aa.grc.md) — *Ἀποσπάσματα περὶ Βαρβάρων καὶ Ἑλλήνων* · `ars-aa`
 
 ## License and provenance
 

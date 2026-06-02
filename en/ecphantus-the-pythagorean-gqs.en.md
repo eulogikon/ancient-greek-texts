@@ -20,8 +20,8 @@ Ecphantus was a 4th century BCE Pythagorean philosopher. Two surviving works are
 
 ## Works
 
-- [On Kingship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-kingship-gqs-aa.grc.md) — *Περὶ βασιλείας* · `gqs-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-the-pythagorean-testimonies-gqs-ab.grc.md) — *Μαρτυρίαι* · `gqs-ab`
+- [On Kingship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-pythagorean-kingship-gqs-aa.grc.md) — *Περὶ βασιλείας* · `gqs-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ecphantus-pythagorean-testimonies-gqs-ab.grc.md) — *Μαρτυρίαι* · `gqs-ab`
 
 ## License and provenance
 

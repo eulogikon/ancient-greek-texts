@@ -19,10 +19,10 @@ Philetas of Cos, Hellenistic poet of the 4th to 3rd centuries BCE. Fragments of 
 
 ## Works
 
-- [Fragments of Endurance and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-endurance-fate-hvm-ac.grc.md) — *Ἀποσπάσματα Καρτερίας καὶ Μοίρας* · `hvm-ac`
-- [Fragments on Demeter and Places](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-demeter-places-hvm-ad.grc.md) — *Ἀποσπάσματα περὶ Δήμητρος καὶ Τόπων* · `hvm-ad`
-- [Grammatical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-grammatical-fragments-hvm-aa.grc.md) — *Γραμματικὰ Ἀποσπάσματα* · `hvm-aa`
-- [Poetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos-poetic-fragments-hvm-ab.grc.md) — *Ποιητικὰ Ἀποσπάσματα* · `hvm-ab`
+- [Fragments of Endurance and Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-cos-endurance-fate-hvm-ac.grc.md) — *Ἀποσπάσματα Καρτερίας καὶ Μοίρας* · `hvm-ac`
+- [Fragments on Demeter and Places](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-cos-demeter-places-hvm-ad.grc.md) — *Ἀποσπάσματα περὶ Δήμητρος καὶ Τόπων* · `hvm-ad`
+- [Grammatical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-cos-grammatical-fragments-hvm-aa.grc.md) — *Γραμματικὰ Ἀποσπάσματα* · `hvm-aa`
+- [Poetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-cos-poetic-fragments-hvm-ab.grc.md) — *Ποιητικὰ Ἀποσπάσματα* · `hvm-ab`
 
 ## License and provenance
 

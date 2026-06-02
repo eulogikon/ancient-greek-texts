@@ -19,7 +19,7 @@ Timocreon of Rhodes was a 5th century BCE lyric poet. His poetic fragments are p
 
 ## Works
 
-- [Invective Against Themistocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-of-rhodes-invective-bpy-aa.grc.md) — *Ἀποσπάσματα* · `bpy-aa`
+- [Invective Against Themistocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-rhodes-invective-bpy-aa.grc.md) — *Ἀποσπάσματα* · `bpy-aa`
 
 ## License and provenance
 

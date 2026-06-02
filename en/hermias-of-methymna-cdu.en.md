@@ -19,7 +19,7 @@ Hermias of Methymna, a 4th century BCE Aeolic historian. His surviving historica
 
 ## Works
 
-- [Fragments on Sicilian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna-sicilian-customs-cdu-aa.grc.md) — *Ἀποσπάσματα περὶ Σικελικῶν Ἐθῶν* · `cdu-aa`
+- [Fragments on Sicilian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-methymna-sicilian-customs-cdu-aa.grc.md) — *Ἀποσπάσματα περὶ Σικελικῶν Ἐθῶν* · `cdu-aa`
 
 ## License and provenance
 

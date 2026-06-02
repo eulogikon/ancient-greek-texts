@@ -19,7 +19,7 @@ Phaedimus of Bisanthe, Hellenistic poet of the 3rd century BCE. Surviving poetic
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-of-bisanthe-epigrams-jro-aa.grc.md) — *Ἐπιγράμματα* · `jro-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaedimus-bisanthe-epigrams-jro-aa.grc.md) — *Ἐπιγράμματα* · `jro-aa`
 
 ## License and provenance
 

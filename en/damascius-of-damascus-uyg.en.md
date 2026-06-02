@@ -20,13 +20,13 @@ Damascius was a late antique Neoplatonic philosopher and head of the Platonic sc
 
 ## Works
 
-- [Bibl. codd. 181, 242), Life of Isidore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-life-of-isidore-uyg-aa.grc.md) — *Βίος Ἰσιδώρου* · `uyg-aa`
-- [Commentary on Phaedo (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-af-uyg-af.grc.md) — *Περὶ Φαίδωνος* · `uyg-af`
-- [Commentary on Phaedo (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-phaedo-ag-uyg-ag.grc.md) — *Περὶ Φαίδωνος* · `uyg-ag`
-- [Life of Isidore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-isidore-uyg-ab.grc.md) — *Βίος Ἰσιδώρου* · `uyg-ab`
-- [On Parmenides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-parmenides-uyg-ac.grc.md) — *Περὶ Παρμενίδου* · `uyg-ac`
-- [On Philebus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-philebus-uyg-ae.grc.md) — *Περὶ Φιλήβου* · `uyg-ae`
-- [On Principles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus-principles-uyg-ad.grc.md) — *Περὶ Ἀρχῶν* · `uyg-ad`
+- [Bibl. codd. 181, 242), Life of Isidore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-life-of-isidore-uyg-aa.grc.md) — *Βίος Ἰσιδώρου* · `uyg-aa`
+- [Commentary on Phaedo (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-phaedo-uyg-af.grc.md) — *Περὶ Φαίδωνος* · `uyg-af`
+- [Commentary on Phaedo (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-phaedo-uyg-ag.grc.md) — *Περὶ Φαίδωνος* · `uyg-ag`
+- [Life of Isidore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-isidore-uyg-ab.grc.md) — *Βίος Ἰσιδώρου* · `uyg-ab`
+- [On Parmenides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-parmenides-uyg-ac.grc.md) — *Περὶ Παρμενίδου* · `uyg-ac`
+- [On Philebus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-philebus-uyg-ae.grc.md) — *Περὶ Φιλήβου* · `uyg-ae`
+- [On Principles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-damascus-principles-uyg-ad.grc.md) — *Περὶ Ἀρχῶν* · `uyg-ad`
 
 ## License and provenance
 

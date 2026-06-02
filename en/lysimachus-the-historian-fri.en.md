@@ -19,8 +19,8 @@ Lysimachus the Historian, a 3rd century BCE Greek writer. Two surviving works ar
 
 ## Works
 
-- [Egyptian Histories Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-egyptian-histories-fri-ab.grc.md) — *Ἀποσπάσματα* · `fri-ab`
-- [Fragments on Literary Criticism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-the-historian-literary-criticism-fri-aa.grc.md) — *Ἀποσπάσματα περὶ Κριτικῆς Λογοτεχνίας* · `fri-aa`
+- [Egyptian Histories Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-egyptian-histories-fri-ab.grc.md) — *Ἀποσπάσματα* · `fri-ab`
+- [Fragments on Literary Criticism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysimachus-literary-criticism-fri-aa.grc.md) — *Ἀποσπάσματα περὶ Κριτικῆς Λογοτεχνίας* · `fri-aa`
 
 ## License and provenance
 

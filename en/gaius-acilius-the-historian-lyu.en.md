@@ -19,7 +19,7 @@ Gaius Acilius, a 2nd century BCE Hellenistic historian. Surviving works include 
 
 ## Works
 
-- [Fragments on Early Roman History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-the-historian-early-roman-history-lyu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας* · `lyu-aa`
+- [Fragments on Early Roman History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gaius-acilius-early-roman-history-lyu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς πρώτης Ῥωμαϊκῆς ἱστορίας* · `lyu-aa`
 
 ## License and provenance
 

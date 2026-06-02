@@ -19,7 +19,7 @@ Balagrus the Historian, a 2nd century CE Roman era writer. Surviving historical 
 
 ## Works
 
-- [Fragments of Macedonian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-the-historian-macedonian-cities-qfe-aa.grc.md) — *Ἀποσπάσματα Μακεδονικῶν Πόλεων* · `qfe-aa`
+- [Fragments of Macedonian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/balagrus-macedonian-cities-qfe-aa.grc.md) — *Ἀποσπάσματα Μακεδονικῶν Πόλεων* · `qfe-aa`
 
 ## License and provenance
 

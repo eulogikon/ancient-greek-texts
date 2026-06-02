@@ -20,7 +20,7 @@ Aspasius was a Peripatetic philosopher of the early Roman Imperial period. His t
 
 ## Works
 
-- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic-commentaries-aristotle-pms-aa.grc.md) — *Σχόλια εἰς τὰ Ἀριστοτέλους ἠθικὰ Νικομάχεια* · `pms-aa`
+- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-peripatetic-commentaries-aristotle-pms-aa.grc.md) — *Σχόλια εἰς τὰ Ἀριστοτέλους ἠθικὰ Νικομάχεια* · `pms-aa`
 
 ## License and provenance
 

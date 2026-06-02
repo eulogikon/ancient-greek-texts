@@ -202,6 +202,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἄνομοι τέκνα λῦσαι φθιμένων νεκύων οἳ
 
+*[crux: ἄνομοι τέκνα λῦσαι φθιμένων νεκύων οἳ]*
+
 ### 45.1
 
 καταλείπουσι μέλη
@@ -325,6 +327,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 80.3
 
 ἄπαυστος αἰεὶ γόων.
+
+*[crux: γόων]*
 
 ### 80.4
 
@@ -982,6 +986,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 αὐτὸς πιέζειν τὴν τύχην ἡμᾶς λίαν. Χο. ἥμαρτεν· ἐν νέοισι δ’ ἀνθρώπων τόδε
 
+*[crux: αὐτὸς πιέζειν τὴν τύχην ἡμᾶς λίαν]*
+
 ### 245.6
 
 ἔνεστι· συγγνώμην δὲ τῶιδ’ ἔχειν χρεών.
@@ -1082,6 +1088,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 [ἰώ μοι· λάβετε φέρετε πέμπετε κρίνετε
 
+*[crux: κρίνετε]*
+
 ### 275.2
 
 ταλαίνας χέρας γεραιάς.]
@@ -1097,6 +1105,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 280.1
 
 οἴκτισαι ἀμφὶ τέκνων μ’ ἱκέταν ἤ τιν’ ἀλάταν
+
+*[crux: μ’ ἱκέταν ἤ τιν’ ἀλάταν]*
 
 ### 280.2
 
@@ -2282,6 +2292,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 μοναμπύκων τε φάλαρα κινεῖσθαι στόμα
 
+*[crux: στόμα]*
+
 ### 585.3
 
 ἀφρῶι καταστάζοντα Καδμείων χθόνα.
@@ -2329,6 +2341,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 595.4
 
 ὥς μοι ὑφ’ ἥπατι χλωρὸν δεῖμα ταράσσει — τίν’ αὐδὰν τάνδε προσφέρεις νέαν;
+
+*[crux: χλωρὸν δεῖμα ταράσσει]*
 
 ### 595.5
 
@@ -2557,6 +2571,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 655.5
 
 αὐτὸν δὲ Πάραλον ἐστολισμένον δορὶ
+
+*[crux: αὐτὸν]*
 
 ### 660.1
 
@@ -2893,6 +2909,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 745.1
 
 οἳ τόξον ἐντείνοντες τοῦ καιροῦ πέρα
+
+*[crux: οἳ τόξον ἐντείνοντες τοῦ καιροῦ πέρα]*
 
 ### 745.2
 
@@ -3246,9 +3264,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Θη. μέλλων ς’ ἐρωτᾶν ἡνίκ’ ἐξήντλεις στρατῶι
 
+*[crux: ἡνίκ’]*
+
 ### 838.2
 
 γόους ἀφήσω τοὺς ἐκεῖ μὲν ἐκλιπὼν
+
+*[crux: τοὺς]*
 
 ### 840.1
 
@@ -3477,6 +3499,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 895.5
 
 πολλοὺς δ’ ἐραστὰς κἀπὸ θηλειῶν ὅσας ἔχων ἐφρούρει μηδὲν ἐξαμαρτάνειν.
+
+*[crux: ὅσας]*
 
 ### 895.6
 
@@ -3734,6 +3758,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 οὔτ’ ἐν φθιμένοισιν
 
+*[crux: οὔτ’]*
+
 ### 965.5
 
 οὔτ’ ἐν ζωοῖσιν ἀριθμουμένη,
@@ -3838,6 +3864,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 λαμπάδ’ ἵν’ ὠκυθόαι νύμφαι ἱππεύουσι δι’ ὀρφναίας,
 
+*[crux: λαμπάδ’ ἵν’ ὠκυθόαι νύμφαι ἱππεύουσι δι’ ὀρφναίας]*
+
 ### 995.1
 
 ἁνίκα 〈 〉 γάμων
@@ -3918,6 +3946,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εὐκλείας χάριν ἔνθεν ὁρ‐
 
+*[crux: εὐκλείας]*
+
 ### 1015.2
 
 μάσω τᾶσδ’ ἀπὸ πέτρας
@@ -3958,6 +3988,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εἴθε τινὲς εὐναὶ
 
+*[crux: εἴθε τινὲς εὐναὶ]*
+
 ### 1025.3
 
 δικαίων ὑμεναίων
@@ -3969,6 +4001,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1028
 
 φανῶσι τέκνοισιν
+
+*[crux: φανῶσι]*
 
 ### 1028.1
 
@@ -4226,6 +4260,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εἰ δ’ ἐς τόδ’ ἦλθον κἀξεπειράθην τέκνων
 
+*[crux: τέκνων]*
+
 ### 1090.1
 
 οἷον στέρεσθαι πατέρα γίγνεται τέκνων,
@@ -4450,6 +4486,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 〈Πα.〉 πάτερ, σὺ μὲν σῶν κλύεις τέκνων γόους;
 
+*[crux: σὺ μὲν σῶν]*
+
 ### 1140.4
 
 ἆρ’ ἀσπιδοῦχος ἔτι ποτ’ ἀντιτείσομαι
@@ -4457,6 +4495,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1140.5
 
 σὸν φόνον; εἰ γὰρ γένοιτο τέκνον.
+
+*[crux: τέκνον]*
 
 ### 1145.1
 
@@ -4609,6 +4649,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1183.2
 
 ἃ χρή σε δρᾶσαι, δρῶντα δ’ ὠφελεῖν τάδε.
+
+*[crux: τάδε]*
 
 ### 1185.1
 

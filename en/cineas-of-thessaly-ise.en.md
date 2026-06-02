@@ -19,7 +19,7 @@ Cineas of Thessaly, a Hellenistic orator of the 3rd century BCE. Surviving orati
 
 ## Works
 
-- [Thessalian Antiquities and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly-antiquities-myths-ise-aa.grc.md) — *Ἀποσπάσματα* · `ise-aa`
+- [Thessalian Antiquities and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-thessaly-antiquities-myths-ise-aa.grc.md) — *Ἀποσπάσματα* · `ise-aa`
 
 ## License and provenance
 

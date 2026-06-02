@@ -19,10 +19,10 @@ Eutecnius the Paraphrast, a Late Antique author of the 2nd to 4th century CE. Fo
 
 ## Works
 
-- [Paraphrase of Oppian's Cynegetica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast-oppian-cynegetica-sma-aa.grc.md) — *Παράφρασις εἰς τὰ Κυνηγετικά τοῦ Ὀππιανοῦ* · `sma-aa`
-- [Paraphrase of Oppian's Halieutica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast-oppian-halieutica-sma-ab.grc.md) — *Παράφρασις εἰς τὰ Ἁλιευτικά τοῦ Ὀππιανοῦ* · `sma-ab`
-- [Paraphrase-Nicander's Antidotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast-nicander-antidotes-sma-ac.grc.md) — *Παράφρασις εἰς τὰ Ἀντίδοτα Νικάνδρου* · `sma-ac`
-- [Paraphrase-Nicander's Theriaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast-theriaca-sma-ad.grc.md) — *Παράφρασις εἰς τὰ Θηριακὰ Νικάνδρου* · `sma-ad`
+- [Paraphrase of Oppian's Cynegetica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-paraphrast-oppian-cynegetica-sma-aa.grc.md) — *Παράφρασις εἰς τὰ Κυνηγετικά τοῦ Ὀππιανοῦ* · `sma-aa`
+- [Paraphrase of Oppian's Halieutica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-paraphrast-oppian-halieutica-sma-ab.grc.md) — *Παράφρασις εἰς τὰ Ἁλιευτικά τοῦ Ὀππιανοῦ* · `sma-ab`
+- [Paraphrase-Nicander's Antidotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-paraphrast-nicander-antidotes-sma-ac.grc.md) — *Παράφρασις εἰς τὰ Ἀντίδοτα Νικάνδρου* · `sma-ac`
+- [Paraphrase-Nicander's Theriaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-paraphrast-theriaca-sma-ad.grc.md) — *Παράφρασις εἰς τὰ Θηριακὰ Νικάνδρου* · `sma-ad`
 
 ## License and provenance
 

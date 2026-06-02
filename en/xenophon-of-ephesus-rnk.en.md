@@ -19,7 +19,7 @@ Xenophon of Ephesus, 2nd century CE Greek novelist. Author of the surviving roma
 
 ## Works
 
-- [Story of Anthia and Habrocomes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.md) — *Τὰ κατὰ Ἀνθίαν καὶ Ἁβροκόμην* · `rnk-aa`
+- [Story of Anthia and Habrocomes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.md) — *Τὰ κατὰ Ἀνθίαν καὶ Ἁβροκόμην* · `rnk-aa`
 
 ## License and provenance
 

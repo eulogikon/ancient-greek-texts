@@ -20,7 +20,7 @@ Antiphon of Rhamnus, Athenian orator and sophist. Forensic speeches and philosop
 
 ## Works
 
-- [Fragments on Meleager and the Hunt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus-meleager-hunt-dbg-aa.grc.md) — *Ἀποσπάσματα περὶ Μελεάγρου καὶ τῆς Κυνηγίας* · `dbg-aa`
+- [Fragments on Meleager and the Hunt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-rhamnus-meleager-hunt-dbg-aa.grc.md) — *Ἀποσπάσματα περὶ Μελεάγρου καὶ τῆς Κυνηγίας* · `dbg-aa`
 
 ## License and provenance
 

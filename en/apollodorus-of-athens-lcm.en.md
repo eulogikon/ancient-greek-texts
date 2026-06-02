@@ -19,8 +19,8 @@ Apollodorus of Athens, a Hellenistic historian of the 2nd century BCE. Surviving
 
 ## Works
 
-- [Fragments on Word Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-word-origins-lcm-aa.grc.md) — *Ἀποσπάσματα περὶ Ἐτυμολογίας* · `lcm-aa`
-- [On the Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens-gods-lcm-ab.grc.md) — *Ἀποσπάσματα* · `lcm-ab`
+- [Fragments on Word Origins](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-athens-word-origins-lcm-aa.grc.md) — *Ἀποσπάσματα περὶ Ἐτυμολογίας* · `lcm-aa`
+- [On the Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-athens-gods-lcm-ab.grc.md) — *Ἀποσπάσματα* · `lcm-ab`
 
 ## License and provenance
 

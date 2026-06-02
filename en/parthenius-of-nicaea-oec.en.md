@@ -19,9 +19,9 @@ Parthenius of Nicaea, a Roman era author of Greek prose fiction. Read his surviv
 
 ## Works
 
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea-fragments-oec-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `oec-aa`
-- [Love Stories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea-love-stories-oec-ac.grc.md) — *Ἐρωτικὰ Παθήματα* · `oec-ac`
-- [Remains of Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea-remains-poetry-oec-ab.grc.md) — *Λείψανα Ποιήσεως* · `oec-ab`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-nicaea-fragments-oec-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `oec-aa`
+- [Love Stories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-nicaea-love-stories-oec-ac.grc.md) — *Ἐρωτικὰ Παθήματα* · `oec-ac`
+- [Remains of Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-nicaea-remains-poetry-oec-ab.grc.md) — *Λείψανα Ποιήσεως* · `oec-ab`
 
 ## License and provenance
 

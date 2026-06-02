@@ -19,7 +19,7 @@ Hippostratus, a classical Greek historian of the 5th-4th century BCE. Surviving 
 
 ## Works
 
-- [Genealogies Concerning Minos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-the-historian-genealogies-minos-cvw-aa.grc.md) — *Ἀποσπάσματα* · `cvw-aa`
+- [Genealogies Concerning Minos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippostratus-genealogies-minos-cvw-aa.grc.md) — *Ἀποσπάσματα* · `cvw-aa`
 
 ## License and provenance
 

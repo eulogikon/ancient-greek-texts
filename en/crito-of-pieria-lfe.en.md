@@ -19,7 +19,7 @@ Crito of Pieria, a 5th century BCE historian. His surviving works are preserved 
 
 ## Works
 
-- [Historical Fragments on the Getae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria-historical-fragments-getae-lfe-aa.grc.md) — *Ἀποσπάσματα περὶ Γετῶν* · `lfe-aa`
+- [Historical Fragments on the Getae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-pieria-historical-fragments-getae-lfe-aa.grc.md) — *Ἀποσπάσματα περὶ Γετῶν* · `lfe-aa`
 
 ## License and provenance
 

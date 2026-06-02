@@ -20,7 +20,7 @@ Apollodorus of Cyzicus, a 5th century BCE Pythagorean philosopher. Surviving fra
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-cyzicus-testimonies-dei-aa.grc.md) — *Μαρτυρίαι* · `dei-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-cyzicus-testimonies-dei-aa.grc.md) — *Μαρτυρίαι* · `dei-aa`
 
 ## License and provenance
 

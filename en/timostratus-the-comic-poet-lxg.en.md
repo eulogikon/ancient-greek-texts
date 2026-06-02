@@ -19,7 +19,7 @@ Timostratus was a Hellenistic comic poet writing in Attic Greek. His surviving c
 
 ## Works
 
-- [Generational Conflict Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet-generational-conflict-lxg-aa.grc.md) — *Ἀποσπάσματα* · `lxg-aa`
+- [Generational Conflict Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-generational-conflict-lxg-aa.grc.md) — *Ἀποσπάσματα* · `lxg-aa`
 
 ## License and provenance
 

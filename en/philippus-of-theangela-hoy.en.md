@@ -19,7 +19,7 @@ Philippus of Theangela, a Hellenistic historian of the 4th-3rd century BCE. His 
 
 ## Works
 
-- [On the Carians and Leleges](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippus-of-theangela-carians-leleges-hoy-aa.grc.md) — *Ἀποσπάσματα* · `hoy-aa`
+- [On the Carians and Leleges](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippus-theangela-carians-leleges-hoy-aa.grc.md) — *Ἀποσπάσματα* · `hoy-aa`
 
 ## License and provenance
 

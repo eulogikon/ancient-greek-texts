@@ -19,7 +19,7 @@ Theophilus the Historian, a 4th century BCE Attic prose writer. His surviving hi
 
 ## Works
 
-- [Fragments on Italian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian-italian-history-cgc-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας* · `cgc-aa`
+- [Fragments on Italian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-italian-history-cgc-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας* · `cgc-aa`
 
 ## License and provenance
 

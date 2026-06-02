@@ -19,10 +19,10 @@ Sappho, the Archaic lyric poet from Lesbos. Her surviving poetry fragments inclu
 
 ## Works
 
-- [Addenda to Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-addenda-apu-aa.grc.md) — *Προσθήκαι εἰς τὰ Ἀποσπάσματα* · `apu-aa`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-epigrams-apu-ad.grc.md) — *Ἐπιγράμματα* · `apu-ad`
-- [Fragments on Sappho's School](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-school-fragments-apu-ac.grc.md) — *Ἀποσπάσματα περὶ τῆς Σαπφοῦς Σχολῆς* · `apu-ac`
-- [Hymn to Aphrodite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos-hymn-aphrodite-apu-ab.grc.md) — *Ἀποσπάσματα* · `apu-ab`
+- [Addenda to Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-lesbos-addenda-apu-aa.grc.md) — *Προσθήκαι εἰς τὰ Ἀποσπάσματα* · `apu-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-lesbos-epigrams-apu-ad.grc.md) — *Ἐπιγράμματα* · `apu-ad`
+- [Fragments on Sappho's School](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-lesbos-school-fragments-apu-ac.grc.md) — *Ἀποσπάσματα περὶ τῆς Σαπφοῦς Σχολῆς* · `apu-ac`
+- [Hymn to Aphrodite](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-lesbos-hymn-aphrodite-apu-ab.grc.md) — *Ἀποσπάσματα* · `apu-ab`
 
 ## License and provenance
 

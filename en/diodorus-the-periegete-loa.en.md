@@ -19,7 +19,7 @@ Diodorus the Periegete was a Hellenistic geographer. His surviving geographical 
 
 ## Works
 
-- [On Monuments and Tombs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-periegete-monuments-tombs-loa-aa.grc.md) — *Ἀποσπάσματα* · `loa-aa`
+- [On Monuments and Tombs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-periegete-monuments-tombs-loa-aa.grc.md) — *Ἀποσπάσματα* · `loa-aa`
 
 ## License and provenance
 

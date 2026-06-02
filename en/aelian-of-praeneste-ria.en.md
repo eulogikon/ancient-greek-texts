@@ -20,10 +20,10 @@ Claudius Aelianus, a Roman sophist writing in Greek. Surviving works include ora
 
 ## Works
 
-- [Excerpts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-excerpts-ria-ad.grc.md) — *Ἀποσπασμάτια* · `ria-ad`
-- [From Aelian's Rustic Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-rustic-letters-ria-aa.grc.md) — *ἐκ τῶν Αἰλιανοῦ ἀγροικικῶν ἐπιστολῶν* · `ria-aa`
-- [On the Nature of Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-nature-animals-ria-ab.grc.md) — *Περὶ ζῴων ἰδιότητος* · `ria-ab`
-- [Varied History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste-varied-history-ria-ac.grc.md) — *Ποικίλη ἱστορία* · `ria-ac`
+- [Excerpts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-praeneste-excerpts-ria-ad.grc.md) — *Ἀποσπασμάτια* · `ria-ad`
+- [From Aelian's Rustic Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-praeneste-rustic-letters-ria-aa.grc.md) — *ἐκ τῶν Αἰλιανοῦ ἀγροικικῶν ἐπιστολῶν* · `ria-aa`
+- [On the Nature of Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-praeneste-nature-animals-ria-ab.grc.md) — *Περὶ ζῴων ἰδιότητος* · `ria-ab`
+- [Varied History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-praeneste-varied-history-ria-ac.grc.md) — *Ποικίλη ἱστορία* · `ria-ac`
 
 ## License and provenance
 

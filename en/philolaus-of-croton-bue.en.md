@@ -20,9 +20,9 @@ Philolaus was a Pythagorean philosopher. Three surviving fragments of his work a
 
 ## Works
 
-- [On the Nature of the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-nature-cosmos-bue-ab.grc.md) — *Ἀποσπάσματα* · `bue-ab`
-- [On the Soul and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-soul-cosmos-bue-ac.grc.md) — *Ἀποσπάσματα* · `bue-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton-testimonies-bue-aa.grc.md) — *Μαρτυρίαι* · `bue-aa`
+- [On the Nature of the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-croton-nature-cosmos-bue-ab.grc.md) — *Ἀποσπάσματα* · `bue-ab`
+- [On the Soul and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-croton-soul-cosmos-bue-ac.grc.md) — *Ἀποσπάσματα* · `bue-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-croton-testimonies-bue-aa.grc.md) — *Μαρτυρίαι* · `bue-aa`
 
 ## License and provenance
 

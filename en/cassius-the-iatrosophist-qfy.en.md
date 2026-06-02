@@ -19,7 +19,7 @@ Cassius the Iatrosophist, a Roman-era medical writer. Surviving medical treatise
 
 ## Works
 
-- [Medical Puzzles and Natural Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist-medical-puzzles-qfy-aa.grc.md) — *Ἰατρικαὶ Ἀπορίαι καὶ Προβλήματα Φυσικά* · `qfy-aa`
+- [Medical Puzzles and Natural Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-iatrosophist-medical-puzzles-qfy-aa.grc.md) — *Ἰατρικαὶ Ἀπορίαι καὶ Προβλήματα Φυσικά* · `qfy-aa`
 
 ## License and provenance
 

@@ -20,9 +20,9 @@ Posidonius, Stoic philosopher and scientist. Three surviving works in this colle
 
 ## Works
 
-- [Fragments on Customs and Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-customs-wars-msa-ac.grc.md) — *Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων* · `msa-ac`
-- [Fragments on Ocean Tides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-ocean-tides-msa-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας* · `msa-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes-testimonies-msa-aa.grc.md) — *Μαρτυρίαι* · `msa-aa`
+- [Fragments on Customs and Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-apameia-rhodes-customs-wars-msa-ac.grc.md) — *Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων* · `msa-ac`
+- [Fragments on Ocean Tides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-apameia-rhodes-ocean-tides-msa-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας* · `msa-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-apameia-rhodes-testimonies-msa-aa.grc.md) — *Μαρτυρίαι* · `msa-aa`
 
 ## License and provenance
 

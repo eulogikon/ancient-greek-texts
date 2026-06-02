@@ -19,7 +19,7 @@ Ezechiel the Tragic Poet, a Hellenistic dramatist. Fragments of his biblical tra
 
 ## Works
 
-- [Extraction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-the-tragic-poet-extraction-nfm-aa.grc.md) — *Ἐξαγωγή* · `nfm-aa`
+- [Extraction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ezechiel-tragic-extraction-nfm-aa.grc.md) — *Ἐξαγωγή* · `nfm-aa`
 
 ## License and provenance
 

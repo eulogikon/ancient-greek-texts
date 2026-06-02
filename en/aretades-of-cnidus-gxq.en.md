@@ -19,7 +19,7 @@ Aretades of Cnidus, a 4th to 2nd century BCE Greek historian. His surviving hist
 
 ## Works
 
-- [Fragments on Macedonian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-of-cnidus-macedonian-history-gxq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Μακεδονικῆς Ἱστορίας* · `gxq-aa`
+- [Fragments on Macedonian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretades-cnidus-macedonian-history-gxq-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Μακεδονικῆς Ἱστορίας* · `gxq-aa`
 
 ## License and provenance
 

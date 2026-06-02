@@ -20,9 +20,9 @@ Apollonius of Tyana was a 1st century CE Pythagorean philosopher. His biography 
 
 ## Works
 
-- [Effects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-effects-nxe-ac.grc.md) — *Ἐπιδράσεις* · `nxe-ac`
-- [Letters of Apollonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-letters-nxe-ab.grc.md) — *Ἐπιστολαὶ Ἀπολλωνίου* · `nxe-ab`
-- [On the Hours of Day and Night](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana-hours-day-night-nxe-aa.grc.md) — *Περὶ ὡρῶν ἡμέρας καὶ νυκτός* · `nxe-aa`
+- [Effects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-tyana-effects-nxe-ac.grc.md) — *Ἐπιδράσεις* · `nxe-ac`
+- [Letters of Apollonius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-tyana-letters-nxe-ab.grc.md) — *Ἐπιστολαὶ Ἀπολλωνίου* · `nxe-ab`
+- [On the Hours of Day and Night](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-tyana-hours-day-night-nxe-aa.grc.md) — *Περὶ ὡρῶν ἡμέρας καὶ νυκτός* · `nxe-aa`
 
 ## License and provenance
 

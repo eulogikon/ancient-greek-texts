@@ -19,7 +19,7 @@ Sosthenes of Cnidus was a 4th century BCE historian. His surviving works are pre
 
 ## Works
 
-- [Fragments on Iberian Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-of-cnidus-iberian-myths-gfy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθων* · `gfy-aa`
+- [Fragments on Iberian Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosthenes-cnidus-iberian-myths-gfy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἰβηρικῶν Μύθων* · `gfy-aa`
 
 ## License and provenance
 

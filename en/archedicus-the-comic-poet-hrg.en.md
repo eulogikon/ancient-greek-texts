@@ -19,8 +19,8 @@ Archedicus was a 4th century BCE Hellenistic comic poet. Two surviving works sur
 
 ## Works
 
-- [Miser's Dinner Party](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet-misers-dinner-party-aa-hrg-aa.grc.md) — *Ἀποσπάσματα* · `hrg-aa`
-- [Miser's Dinner Party](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet-misers-dinner-party-ab-hrg-ab.grc.md) — *Ἀποσπάσματα* · `hrg-ab`
+- [Miser's Dinner Party](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-misers-dinner-party-hrg-ab.grc.md) — *Ἀποσπάσματα* · `hrg-ab`
+- [Miser's Dinner Party](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-misers-dinner-party-hrg-aa.grc.md) — *Ἀποσπάσματα* · `hrg-aa`
 
 ## License and provenance
 

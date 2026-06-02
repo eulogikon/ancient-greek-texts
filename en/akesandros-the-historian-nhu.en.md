@@ -19,8 +19,8 @@ Akesandros the Historian, a Hellenistic writer of the 1st century BCE. Two survi
 
 ## Works
 
-- [Fragments on Cyrenean Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-cyrenean-myths-nhu-ab.grc.md) — *Ἀποσπάσματα περὶ τῶν Κυρηναϊκῶν Μύθων* · `nhu-ab`
-- [Fragments on Mythological Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian-mythological-genealogy-nhu-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογικῆς Γενεαλογίας* · `nhu-aa`
+- [Fragments on Cyrenean Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-cyrenean-myths-nhu-ab.grc.md) — *Ἀποσπάσματα περὶ τῶν Κυρηναϊκῶν Μύθων* · `nhu-ab`
+- [Fragments on Mythological Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-mythological-genealogy-nhu-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογικῆς Γενεαλογίας* · `nhu-aa`
 
 ## License and provenance
 

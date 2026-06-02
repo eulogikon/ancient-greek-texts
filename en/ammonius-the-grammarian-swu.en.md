@@ -19,8 +19,8 @@ Ammonius the Grammarian, 4th century CE Alexandrian scholar. Two surviving gramm
 
 ## Works
 
-- [On Improprieties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-improprieties-swu-ab.grc.md) — *Περὶ ἀκυρολογίας* · `swu-ab`
-- [On Similar and Different Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-the-grammarian-similar-different-words-swu-aa.grc.md) — *περὶ ὁμοίων καὶ διαφόρων λέξεων* · `swu-aa`
+- [On Improprieties](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-improprieties-swu-ab.grc.md) — *Περὶ ἀκυρολογίας* · `swu-ab`
+- [On Similar and Different Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-similar-different-words-swu-aa.grc.md) — *περὶ ὁμοίων καὶ διαφόρων λέξεων* · `swu-aa`
 
 ## License and provenance
 

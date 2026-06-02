@@ -19,8 +19,8 @@ Isis Prophetissa is a pseudonymous author of late antique Greek alchemical texts
 
 ## Works
 
-- [Isis to Horus (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-aa-ukk-aa.grc.md) — *Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ* · `ukk-aa`
-- [Isis to Horus (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-ab-ukk-ab.grc.md) — *Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ* · `ukk-ab`
+- [Isis to Horus (Long)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-ukk-aa.grc.md) — *Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ* · `ukk-aa`
+- [Isis to Horus (Short)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isis-prophetissa-son-horus-ukk-ab.grc.md) — *Ἴσις προφῆτις τῷ υἱῷ Ὥρῳ* · `ukk-ab`
 
 ## License and provenance
 

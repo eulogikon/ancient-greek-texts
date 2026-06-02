@@ -19,7 +19,7 @@ Hyperochus of Cumae was a Hellenistic historian. Surviving fragments of his hist
 
 ## Works
 
-- [Fragments on Cumae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae-fragments-mmq-aa.grc.md) — *Ἀποσπάσματα περὶ Κύμης* · `mmq-aa`
+- [Fragments on Cumae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-cumae-fragments-mmq-aa.grc.md) — *Ἀποσπάσματα περὶ Κύμης* · `mmq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Satyrus of Callatis was a Hellenistic historian of the 3rd century BCE. Contains
 
 ## Works
 
-- [Fragments on Dionysian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-callatis-dionysian-genealogy-jhy-aa.grc.md) — *Ἀποσπάσματα περὶ Διονυσιακῆς Γενεαλογίας* · `jhy-aa`
+- [Fragments on Dionysian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-callatis-dionysian-genealogy-jhy-aa.grc.md) — *Ἀποσπάσματα περὶ Διονυσιακῆς Γενεαλογίας* · `jhy-aa`
 
 ## License and provenance
 

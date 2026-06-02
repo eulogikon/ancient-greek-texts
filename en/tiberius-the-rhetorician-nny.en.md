@@ -19,7 +19,7 @@ Tiberius the Rhetorician, a Roman orator of the 1st century CE. One surviving or
 
 ## Works
 
-- [On Figures in Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-the-rhetorician-demosthenes-figures-nny-aa.grc.md) — *Περὶ τῶν παρὰ Δημοσθένει σχημάτων* · `nny-aa`
+- [On Figures in Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-rhetor-demosthenes-figures-nny-aa.grc.md) — *Περὶ τῶν παρὰ Δημοσθένει σχημάτων* · `nny-aa`
 
 ## License and provenance
 

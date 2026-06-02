@@ -19,7 +19,7 @@ Euthydemus was a Hellenistic Greek physician of the 1st century BCE. His medical
 
 ## Works
 
-- [On Salted Fish and Fisheries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euthydemus-the-physician-salted-fish-fisheries-mas-aa.grc.md) — *Ἀπόσπασμα* · `mas-aa`
+- [On Salted Fish and Fisheries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euthydemus-salted-fish-fisheries-mas-aa.grc.md) — *Ἀπόσπασμα* · `mas-aa`
 
 ## License and provenance
 

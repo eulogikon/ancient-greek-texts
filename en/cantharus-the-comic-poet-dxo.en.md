@@ -19,8 +19,8 @@ Cantharus was an Athenian comic poet of 5th century BCE Old Comedy. Two fragment
 
 ## Works
 
-- [Athenian Woman and the Chorus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab.grc.md) — *Ἀποσπάσματα* · `dxo-ab`
-- [Fragments on Athenian Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet-athenian-women-dxo-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶν* · `dxo-aa`
+- [Athenian Woman and the Chorus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-athenian-woman-and-the-chorus-dxo-ab.grc.md) — *Ἀποσπάσματα* · `dxo-ab`
+- [Fragments on Athenian Women](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-athenian-women-dxo-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶν* · `dxo-aa`
 
 ## License and provenance
 

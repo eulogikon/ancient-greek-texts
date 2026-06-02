@@ -19,9 +19,9 @@ Nicochares was an Athenian comic poet of the late 5th and early 4th centuries BC
 
 ## Works
 
-- [Fragments of the Nereids](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-nereids-fragments-fcs-ac.grc.md) — *Ἀποσπάσματα τῶν Νηρηίδων* · `fcs-ac`
-- [Sympotic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab.grc.md) — *Ἀποσπάσματα* · `fcs-ab`
-- [Sympotic Fragments of Nicochares](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa.grc.md) — *Ἀποσπάσματα Νικοχάρους Συμποτικά* · `fcs-aa`
+- [Fragments of the Nereids](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-nereids-fragments-fcs-ac.grc.md) — *Ἀποσπάσματα τῶν Νηρηίδων* · `fcs-ac`
+- [Sympotic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-sympotic-fragments-fcs-ab.grc.md) — *Ἀποσπάσματα* · `fcs-ab`
+- [Sympotic Fragments of Nicochares](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-sympotic-fragments-fcs-aa.grc.md) — *Ἀποσπάσματα Νικοχάρους Συμποτικά* · `fcs-aa`
 
 ## License and provenance
 

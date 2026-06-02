@@ -19,7 +19,7 @@ Pittacus Letters, Hellenistic epistolary texts from the 3rd century BCE to 3rd c
 
 ## Works
 
-- [Letter to Croesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-letters-croesus-lta-aa.grc.md) — *Ἐπιστολή* · `lta-aa`
+- [Letter to Croesus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-croesus-lta-aa.grc.md) — *Ἐπιστολή* · `lta-aa`
 
 ## License and provenance
 

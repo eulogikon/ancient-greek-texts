@@ -19,11 +19,11 @@ Nicander of Colophon, Hellenistic poet of the 2nd century BCE. Didactic poems on
 
 ## Works
 
-- [Alexipharmaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-alexipharmaca-lcw-ab.grc.md) — *Αλεξιφάρμακα* · `lcw-ab`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-epigrams-lcw-ae.grc.md) — *Ἐπιγράμματα* · `lcw-ae`
-- [Fragments on Sea and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-sea-nature-lcw-ac.grc.md) — *Ἀποσπάσματα περὶ Θαλάσσης καὶ Φύσεως* · `lcw-ac`
-- [Fragments on the Trojan Cycle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-trojan-cycle-lcw-ad.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Κύκλου* · `lcw-ad`
-- [On Wild Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon-wild-animals-lcw-aa.grc.md) — *Θηριακά* · `lcw-aa`
+- [Alexipharmaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-colophon-alexipharmaca-lcw-ab.grc.md) — *Αλεξιφάρμακα* · `lcw-ab`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-colophon-epigrams-lcw-ae.grc.md) — *Ἐπιγράμματα* · `lcw-ae`
+- [Fragments on Sea and Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-colophon-sea-nature-lcw-ac.grc.md) — *Ἀποσπάσματα περὶ Θαλάσσης καὶ Φύσεως* · `lcw-ac`
+- [Fragments on the Trojan Cycle](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-colophon-trojan-cycle-lcw-ad.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Κύκλου* · `lcw-ad`
+- [On Wild Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-colophon-wild-animals-lcw-aa.grc.md) — *Θηριακά* · `lcw-aa`
 
 ## License and provenance
 

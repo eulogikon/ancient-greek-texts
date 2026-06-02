@@ -19,7 +19,7 @@ Archytas of Amphissa, a Hellenistic poet of Homeric verse. Surviving works inclu
 
 ## Works
 
-- [Fragments on Makynna and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa-makynna-desire-kaa-aa.grc.md) — *Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος* · `kaa-aa`
+- [Fragments on Makynna and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-amphissa-makynna-desire-kaa-aa.grc.md) — *Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος* · `kaa-aa`
 
 ## License and provenance
 

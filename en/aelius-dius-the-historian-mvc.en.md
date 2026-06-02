@@ -19,7 +19,7 @@ Aelius Dius, a Hellenistic Greek historian of the 1st century BCE. His surviving
 
 ## Works
 
-- [Fragments on Alexandria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian-alexandria-mvc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀλεξανδρείας* · `mvc-aa`
+- [Fragments on Alexandria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-alexandria-mvc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀλεξανδρείας* · `mvc-aa`
 
 ## License and provenance
 

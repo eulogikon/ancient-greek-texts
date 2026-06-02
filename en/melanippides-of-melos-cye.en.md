@@ -19,7 +19,7 @@ Melanippides of Melos was a 5th century BCE lyric poet. Surviving fragments of h
 
 ## Works
 
-- [Fragments on Dionysus and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-of-melos-dionysus-wine-cye-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου καὶ Οἴνου* · `cye-aa`
+- [Fragments on Dionysus and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-melos-dionysus-wine-cye-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου καὶ Οἴνου* · `cye-aa`
 
 ## License and provenance
 

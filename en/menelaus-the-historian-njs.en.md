@@ -19,7 +19,7 @@ Menelaus the Historian was a Hellenistic writer of the 1st century BCE. His surv
 
 ## Works
 
-- [Fragments on Italian Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian-italian-myths-njs-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλικῶν Μύθων* · `njs-aa`
+- [Fragments on Italian Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-italian-myths-njs-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰταλικῶν Μύθων* · `njs-aa`
 
 ## License and provenance
 

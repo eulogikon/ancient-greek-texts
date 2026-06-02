@@ -20,8 +20,8 @@ Archytas of Tarentum, 4th-century BCE Pythagorean philosopher and mathematician.
 
 ## Works
 
-- [Fragments on Mathematics and Harmony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-mathematics-harmony-faa-ab.grc.md) — *Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας* · `faa-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum-testimonies-faa-aa.grc.md) — *Μαρτυρίαι* · `faa-aa`
+- [Fragments on Mathematics and Harmony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-tarentum-mathematics-harmony-faa-ab.grc.md) — *Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας* · `faa-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-tarentum-testimonies-faa-aa.grc.md) — *Μαρτυρίαι* · `faa-aa`
 
 ## License and provenance
 

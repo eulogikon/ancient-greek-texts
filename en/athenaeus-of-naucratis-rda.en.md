@@ -19,9 +19,9 @@ Athenaeus of Naucratis, a Roman era orator writing in Atticizing Greek. Three su
 
 ## Works
 
-- [Deipnosophists](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-deipnosophists-rda-ab.grc.md) — *Δειπνοσοφισταί* · `rda-ab`
-- [Deipnosophists Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-deipnosophists-epitome-rda-aa.grc.md) — *Ἐπιτομὴ τῶν Δειπνοσοφιστῶν* · `rda-aa`
-- [On the Syrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-of-naucratis-syrian-kings-rda-ac.grc.md) — *Ἀπόσπασμα* · `rda-ac`
+- [Deipnosophists](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-naucratis-deipnosophists-rda-ab.grc.md) — *Δειπνοσοφισταί* · `rda-ab`
+- [Deipnosophists Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-naucratis-deipnosophists-epitome-rda-aa.grc.md) — *Ἐπιτομὴ τῶν Δειπνοσοφιστῶν* · `rda-aa`
+- [On the Syrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-naucratis-syrian-kings-rda-ac.grc.md) — *Ἀπόσπασμα* · `rda-ac`
 
 ## License and provenance
 

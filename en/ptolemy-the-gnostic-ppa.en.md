@@ -20,7 +20,7 @@ Ptolemy the Gnostic was a second century Valentinian theologian. His surviving w
 
 ## Works
 
-- [Letter to Flora](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-the-gnostic-flora-ppa-aa.grc.md) — *Πρὸς Φλώραν Ἐπιστολή* · `ppa-aa`
+- [Letter to Flora](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-gnostic-flora-ppa-aa.grc.md) — *Πρὸς Φλώραν Ἐπιστολή* · `ppa-aa`
 
 ## License and provenance
 

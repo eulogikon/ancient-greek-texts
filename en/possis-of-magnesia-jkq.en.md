@@ -19,7 +19,7 @@ Possis of Magnesia, a 3rd century BCE Hellenistic historian. His surviving works
 
 ## Works
 
-- [Fragments on Mythology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia-mythology-jkq-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογίας* · `jkq-aa`
+- [Fragments on Mythology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-magnesia-mythology-jkq-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθολογίας* · `jkq-aa`
 
 ## License and provenance
 

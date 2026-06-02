@@ -19,7 +19,7 @@ Dexippus of Athens, a 3rd century CE Roman historian. Surviving fragments of his
 
 ## Works
 
-- [History of the Successors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-of-athens-successors-rpi-aa.grc.md) — *Ἀποσπάσματα* · `rpi-aa`
+- [History of the Successors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-athens-successors-rpi-aa.grc.md) — *Ἀποσπάσματα* · `rpi-aa`
 
 ## License and provenance
 

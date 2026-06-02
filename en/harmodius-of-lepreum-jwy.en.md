@@ -19,7 +19,7 @@ Harmodius of Lepreum, a 3rd century BCE Hellenistic historian. Surviving fragmen
 
 ## Works
 
-- [On the Customs of Phigalia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum-customs-phigalia-jwy-aa.grc.md) — *Ἀποσπάσματα* · `jwy-aa`
+- [On the Customs of Phigalia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-lepreum-customs-phigalia-jwy-aa.grc.md) — *Ἀποσπάσματα* · `jwy-aa`
 
 ## License and provenance
 

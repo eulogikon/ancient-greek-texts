@@ -19,8 +19,8 @@ Athenaeus the Epigrammatist, Hellenistic poet of the 3rd-2nd centuries BCE. Two 
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-epigram-kcs-ab.grc.md) — *Ἐπίγραμμα* · `kcs-ab`
-- [Fragments on Wealth and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist-wealth-virtue-kcs-aa.grc.md) — *Ἀποσπάσματα περὶ Πλούτου καὶ Ἀρετῆς* · `kcs-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-epigrammatist-epigram-kcs-ab.grc.md) — *Ἐπίγραμμα* · `kcs-ab`
+- [Fragments on Wealth and Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-epigrammatist-wealth-virtue-kcs-aa.grc.md) — *Ἀποσπάσματα περὶ Πλούτου καὶ Ἀρετῆς* · `kcs-aa`
 
 ## License and provenance
 

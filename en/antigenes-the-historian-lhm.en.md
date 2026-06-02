@@ -19,7 +19,7 @@ Antigenes the Historian, a 4th century BCE Hellenistic historian. Surviving frag
 
 ## Works
 
-- [On the Rivers of Macedonia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-the-historian-rivers-macedonia-lhm-aa.grc.md) — *Ἀπόσπασμα* · `lhm-aa`
+- [On the Rivers of Macedonia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-rivers-macedonia-lhm-aa.grc.md) — *Ἀπόσπασμα* · `lhm-aa`
 
 ## License and provenance
 

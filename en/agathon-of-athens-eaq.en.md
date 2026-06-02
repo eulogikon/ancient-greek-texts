@@ -19,7 +19,7 @@ Agathon was a classical Athenian tragedian of the 5th century BCE. His dramatic 
 
 ## Works
 
-- [On Art, Chance, and Human Frailty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens-art-chance-frailty-eaq-aa.grc.md) — *Ἀποσπάσματα* · `eaq-aa`
+- [On Art, Chance, and Human Frailty](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-athens-art-chance-frailty-eaq-aa.grc.md) — *Ἀποσπάσματα* · `eaq-aa`
 
 ## License and provenance
 

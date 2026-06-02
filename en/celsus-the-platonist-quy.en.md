@@ -20,7 +20,7 @@ Celsus was a 2nd century Roman Platonist philosopher who wrote a major critique 
 
 ## Works
 
-- [True Discourse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-the-platonist-true-discourse-quy-aa.grc.md) — *Ἀληθὴς λόγος* · `quy-aa`
+- [True Discourse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/celsus-platonist-true-discourse-quy-aa.grc.md) — *Ἀληθὴς λόγος* · `quy-aa`
 
 ## License and provenance
 

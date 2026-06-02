@@ -19,7 +19,7 @@ Staphylus of Naucratis, a Hellenistic historian and mythographer from the 3rd-2n
 
 ## Works
 
-- [Thessalian Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-of-naucratis-histories-myths-rik-aa.grc.md) — *Ἀποσπάσματα* · `rik-aa`
+- [Thessalian Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-naucratis-histories-myths-rik-aa.grc.md) — *Ἀποσπάσματα* · `rik-aa`
 
 ## License and provenance
 

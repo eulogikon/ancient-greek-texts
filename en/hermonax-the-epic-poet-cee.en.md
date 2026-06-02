@@ -19,7 +19,7 @@ Hermonax was a 4th century BCE epic poet in the Homeric tradition. His surviving
 
 ## Works
 
-- [Fragments on Poseidon's Dominion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet-poseidon-dominion-cee-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀρχῆς* · `cee-aa`
+- [Fragments on Poseidon's Dominion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-poseidon-dominion-cee-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀρχῆς* · `cee-aa`
 
 ## License and provenance
 

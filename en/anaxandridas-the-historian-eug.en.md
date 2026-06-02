@@ -19,7 +19,7 @@ Anaxandridas the Historian, a 4th century BCE Greek historian. Historical fragme
 
 ## Works
 
-- [On the Delphic Oracle and Offerings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian-delphic-oracle-eug-aa.grc.md) — *Ἀποσπάσματα* · `eug-aa`
+- [On the Delphic Oracle and Offerings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-delphic-oracle-eug-aa.grc.md) — *Ἀποσπάσματα* · `eug-aa`
 
 ## License and provenance
 

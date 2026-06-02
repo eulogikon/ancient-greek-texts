@@ -19,7 +19,7 @@ Sclerias the Tragedian, a 4th century BCE Attic dramatist. Surviving fragmentary
 
 ## Works
 
-- [Fragments on Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sclerias-the-tragedian-human-nature-geu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως* · `geu-aa`
+- [Fragments on Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sclerias-human-nature-geu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως* · `geu-aa`
 
 ## License and provenance
 

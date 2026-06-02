@@ -19,7 +19,7 @@ John Cananus, 15th century Byzantine historian. His work details the Ottoman sie
 
 ## Works
 
-- [On the Siege of Constantinople](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-cananus-siege-constantinople-tdi-aa.grc.md) — *Περὶ τῆς Πολιορκίας τῆς Κωνσταντινουπόλεως* · `tdi-aa`
+- [On the Siege of Constantinople](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-can-siege-constantinople-tdi-aa.grc.md) — *Περὶ τῆς Πολιορκίας τῆς Κωνσταντινουπόλεως* · `tdi-aa`
 
 ## License and provenance
 

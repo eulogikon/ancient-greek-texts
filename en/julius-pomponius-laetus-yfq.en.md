@@ -19,7 +19,7 @@ Julius Pomponius Laetus, Renaissance humanist and antiquarian. His historical wr
 
 ## Works
 
-- [Fragments on Phoenician History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus-phoenician-history-yfq-aa.grc.md) — *Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας* · `yfq-aa`
+- [Fragments on Phoenician History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pomponius-laetus-phoenician-history-yfq-aa.grc.md) — *Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας* · `yfq-aa`
 
 ## License and provenance
 

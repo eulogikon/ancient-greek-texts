@@ -20,7 +20,7 @@ Oenopides of Chios was a 5th century BCE mathematician and astronomer. Surviving
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-of-chios-testimonies-btu-aa.grc.md) — *Μαρτυρίαι* · `btu-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenopides-chios-testimonies-btu-aa.grc.md) — *Μαρτυρίαι* · `btu-aa`
 
 ## License and provenance
 

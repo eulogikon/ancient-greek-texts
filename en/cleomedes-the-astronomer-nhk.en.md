@@ -19,7 +19,7 @@ Cleomedes, a Hellenistic Greek astronomer. His work is On the Circular Motions o
 
 ## Works
 
-- [Meteora](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-the-astronomer-meteora-nhk-aa.grc.md) — *Μετέωρα* · `nhk-aa`
+- [Meteora](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleomedes-meteora-nhk-aa.grc.md) — *Μετέωρα* · `nhk-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Timotheus of Miletus, a classical Greek historian. His surviving historical work
 
 ## Works
 
-- [Dionysian and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus-dionysian-mythology-dhk-aa.grc.md) — *Ἀποσπάσματα* · `dhk-aa`
+- [Dionysian and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-miletus-dionysian-mythology-dhk-aa.grc.md) — *Ἀποσπάσματα* · `dhk-aa`
 
 ## License and provenance
 

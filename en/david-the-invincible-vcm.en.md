@@ -20,8 +20,8 @@ David the Invincible, 6th century Neoplatonic philosopher. Two surviving philoso
 
 ## Works
 
-- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-commentary-aristotle-vcm-aa.grc.md) — *Σχόλια εἰς τὴν Πορφυρίου Εἰσαγωγήν* · `vcm-aa`
-- [Prolegomena to Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible-prolegomena-vcm-ab.grc.md) — *Προλεγόμενα τῆς φιλοσοφίας* · `vcm-ab`
+- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-invincible-commentary-aristotle-vcm-aa.grc.md) — *Σχόλια εἰς τὴν Πορφυρίου Εἰσαγωγήν* · `vcm-aa`
+- [Prolegomena to Philosophy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-invincible-prolegomena-vcm-ab.grc.md) — *Προλεγόμενα τῆς φιλοσοφίας* · `vcm-ab`
 
 ## License and provenance
 

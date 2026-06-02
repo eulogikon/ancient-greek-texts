@@ -19,8 +19,8 @@ Antagoras of Rhodes was a Hellenistic epic poet in Homeric dialect. Surviving wo
 
 ## Works
 
-- [Epigrams (Anthologia Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-ab-jco-ab.grc.md) — *Ἐπιγράμματα* · `jco-ab`
-- [Epigrams (Hymn-Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes-epigrams-aa-jco-aa.grc.md) — *Ἐπιγράμματα* · `jco-aa`
+- [Epigrams (Anthologia Selection)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-rhodes-epigrams-jco-ab.grc.md) — *Ἐπιγράμματα* · `jco-ab`
+- [Epigrams (Hymn-Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-rhodes-epigrams-jco-aa.grc.md) — *Ἐπιγράμματα* · `jco-aa`
 
 ## License and provenance
 

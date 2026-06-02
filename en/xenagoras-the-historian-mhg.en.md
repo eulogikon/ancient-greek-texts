@@ -19,7 +19,7 @@ Xenagoras the Historian, Hellenistic geographer of the 2nd century BCE. Geograph
 
 ## Works
 
-- [Chronological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-the-historian-chronological-fragments-mhg-aa.grc.md) — *Ἀποσπάσματα* · `mhg-aa`
+- [Chronological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-chronological-fragments-mhg-aa.grc.md) — *Ἀποσπάσματα* · `mhg-aa`
 
 ## License and provenance
 

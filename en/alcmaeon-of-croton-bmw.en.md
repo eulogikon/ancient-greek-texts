@@ -20,8 +20,8 @@ Alcmaeon of Croton, presocratic philosopher and physician. Medical and philosoph
 
 ## Works
 
-- [Fragments on Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-nature-bmw-ab.grc.md) — *Ἀποσπάσματα περὶ Φύσεως* · `bmw-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton-testimonies-bmw-aa.grc.md) — *Μαρτυρίαι* · `bmw-aa`
+- [Fragments on Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-croton-nature-bmw-ab.grc.md) — *Ἀποσπάσματα περὶ Φύσεως* · `bmw-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-croton-testimonies-bmw-aa.grc.md) — *Μαρτυρίαι* · `bmw-aa`
 
 ## License and provenance
 

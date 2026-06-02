@@ -19,7 +19,7 @@ Menippus of Gadara, a Hellenistic Cynic philosopher and satirist. Surviving work
 
 ## Works
 
-- [Fragments on Cynic Law](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara-cynic-law-ibq-aa.grc.md) — *Ἀπόσπασμα περὶ Κυνικοῦ Νόμου* · `ibq-aa`
+- [Fragments on Cynic Law](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-gadara-cynic-law-ibq-aa.grc.md) — *Ἀπόσπασμα περὶ Κυνικοῦ Νόμου* · `ibq-aa`
 
 ## License and provenance
 

@@ -19,14 +19,14 @@ Philon of Byblos, Greek grammarian and historian. Works include fragments on Pho
 
 ## Works
 
-- [On Proper Expression, Epitome under the Name of Herennius Philo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-proper-expression-oow-aa.grc.md) — *Περὶ κυριολεξίας* · `oow-aa`
-- [On the Alphabetical Meanings of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-alphabetical-meanings-oow-ab.grc.md) — *Περὶ* · `oow-ab`
-- [On the Difference of Related Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-difference-words-oow-ac.grc.md) — *Περὶ Διαφορᾶς Συγγενῶν Λέξεων* · `oow-ac`
-- [On the Knowledge of Ages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-knowledge-ages-oow-ae.grc.md) — *Γνῶσις περὶ ἡλικιῶν* · `oow-ae`
-- [On the Meanings of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-meanings-words-oow-ad.grc.md) — *Περὶ* · `oow-ad`
-- [Phoenician History (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ag-oow-ag.grc.md) — *Ἀποσπάσματα* · `oow-ag`
-- [Phoenician History (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-history-ah-oow-ah.grc.md) — *Ἀποσπάσματα* · `oow-ah`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos-testimonies-oow-af.grc.md) — *Μαρτυρίαι* · `oow-af`
+- [On Proper Expression, Epitome under the Name of Herennius Philo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-proper-expression-oow-aa.grc.md) — *Περὶ κυριολεξίας* · `oow-aa`
+- [On the Alphabetical Meanings of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-alphabetical-meanings-oow-ab.grc.md) — *Περὶ* · `oow-ab`
+- [On the Difference of Related Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-difference-words-oow-ac.grc.md) — *Περὶ Διαφορᾶς Συγγενῶν Λέξεων* · `oow-ac`
+- [On the Knowledge of Ages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-knowledge-ages-oow-ae.grc.md) — *Γνῶσις περὶ ἡλικιῶν* · `oow-ae`
+- [On the Meanings of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-meanings-words-oow-ad.grc.md) — *Περὶ* · `oow-ad`
+- [Phoenician History (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-history-oow-ag.grc.md) — *Ἀποσπάσματα* · `oow-ag`
+- [Phoenician History (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-history-oow-ah.grc.md) — *Ἀποσπάσματα* · `oow-ah`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-byblos-testimonies-oow-af.grc.md) — *Μαρτυρίαι* · `oow-af`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Simus the Philosopher, a Hellenistic thinker. Surviving philosophical works in t
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher-testimonies-gcc-aa.grc.md) — *Μαρτυρίαι* · `gcc-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-testimonies-gcc-aa.grc.md) — *Μαρτυρίαι* · `gcc-aa`
 
 ## License and provenance
 

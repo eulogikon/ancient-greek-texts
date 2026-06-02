@@ -19,8 +19,8 @@ Metagenes was an Athenian comic poet of Old Comedy. Surviving fragments from his
 
 ## Works
 
-- [Comic Feast of Crathis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-comic-feast-of-crathis-cxk-ab.grc.md) — *Ἀποσπάσματα* · `cxk-ab`
-- [Feast of Automatic Delicacies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-the-comic-poet-feast-of-automatic-delicacies-cxk-aa.grc.md) — *Ἀποσπάσματα* · `cxk-aa`
+- [Comic Feast of Crathis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-comic-feast-of-crathis-cxk-ab.grc.md) — *Ἀποσπάσματα* · `cxk-ab`
+- [Feast of Automatic Delicacies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metagenes-feast-of-automatic-delicacies-cxk-aa.grc.md) — *Ἀποσπάσματα* · `cxk-aa`
 
 ## License and provenance
 

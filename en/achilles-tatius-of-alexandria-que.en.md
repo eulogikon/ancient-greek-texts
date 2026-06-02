@@ -20,7 +20,7 @@ Achilles Tatius was a 2nd century CE Alexandrian sophist. His romance is Leucipp
 
 ## Works
 
-- [Adventures of Leucippe and Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achilles-tatius-of-alexandria-adventures-of-leucippe-and-clitophon-que-aa.grc.md) — *τὰ κατὰ Λευκίππην καὶ Κλειτοφῶντα* · `que-aa`
+- [Adventures of Leucippe and Clitophon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa.grc.md) — *τὰ κατὰ Λευκίππην καὶ Κλειτοφῶντα* · `que-aa`
 
 ## License and provenance
 

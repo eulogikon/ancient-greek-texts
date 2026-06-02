@@ -19,7 +19,7 @@ Minyas, an obscure Archaic Greek poet of the 6th century BCE. Surviving epic wor
 
 ## Works
 
-- [Minyas Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet-fragments-bbi-aa.grc.md) — *Μινύου Ἀποσπάσματα* · `bbi-aa`
+- [Minyas Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-fragments-bbi-aa.grc.md) — *Μινύου Ἀποσπάσματα* · `bbi-aa`
 
 ## License and provenance
 

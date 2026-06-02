@@ -19,8 +19,8 @@ Alcaeus was a lyric poet from Lesbos in the Archaic period. Works include his po
 
 ## Works
 
-- [Fragments on Marriage and Kingship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-marriage-kingship-asm-aa.grc.md) — *Ἀποσπάσματα περὶ Γάμου καὶ Βασιλείας* · `asm-aa`
-- [Fragments on War and Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene-war-exile-asm-ab.grc.md) — *Ἀποσπάσματα περὶ Πολέμου καὶ Φυγῆς* · `asm-ab`
+- [Fragments on Marriage and Kingship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-mytilene-marriage-kingship-asm-aa.grc.md) — *Ἀποσπάσματα περὶ Γάμου καὶ Βασιλείας* · `asm-aa`
+- [Fragments on War and Exile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-mytilene-war-exile-asm-ab.grc.md) — *Ἀποσπάσματα περὶ Πολέμου καὶ Φυγῆς* · `asm-ab`
 
 ## License and provenance
 

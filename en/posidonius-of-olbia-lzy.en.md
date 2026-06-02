@@ -19,7 +19,7 @@ Posidonius of Olbia, Hellenistic historian of the 1st century BCE. Historical fr
 
 ## Works
 
-- [Historical Account of Perseus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-olbia-historical-account-lzy-aa.grc.md) — *Ἀποσπάσματα* · `lzy-aa`
+- [Historical Account of Perseus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-olbia-historical-account-lzy-aa.grc.md) — *Ἀποσπάσματα* · `lzy-aa`
 
 ## License and provenance
 

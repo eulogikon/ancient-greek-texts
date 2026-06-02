@@ -19,7 +19,7 @@ Telephus the Grammarian was a 2nd century CE Greek scholar. His surviving gramma
 
 ## Works
 
-- [Fragments on Athenian Institutions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-the-grammarian-athenian-institutions-pxm-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτευμάτων* · `pxm-aa`
+- [Fragments on Athenian Institutions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-athenian-institutions-pxm-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτευμάτων* · `pxm-aa`
 
 ## License and provenance
 

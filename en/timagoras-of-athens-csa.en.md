@@ -19,7 +19,7 @@ Timagoras of Athens was a 5th century BCE historian. His surviving historical wo
 
 ## Works
 
-- [Theban Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens-theban-myths-csa-aa.grc.md) — *Ἀποσπάσματα* · `csa-aa`
+- [Theban Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-athens-theban-myths-csa-aa.grc.md) — *Ἀποσπάσματα* · `csa-aa`
 
 ## License and provenance
 

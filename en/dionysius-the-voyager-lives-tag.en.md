@@ -19,7 +19,7 @@ Dionysius the Voyager, a Byzantine Greek author of Late Antique biography. Works
 
 ## Works
 
-- [Life of Dionysius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-voyager-lives-life-tag-aa.grc.md) — *Βίος Διονυσίου* · `tag-aa`
+- [Life of Dionysius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-voyager-life-tag-aa.grc.md) — *Βίος Διονυσίου* · `tag-aa`
 
 ## License and provenance
 

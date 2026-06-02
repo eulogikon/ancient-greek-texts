@@ -20,8 +20,8 @@ Leucippus, founder of atomist philosophy in the 5th century BCE. Works on atoms 
 
 ## Works
 
-- [On the Cosmos and Necessity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-cosmos-necessity-dra-ab.grc.md) — *Ἀποσπάσματα* · `dra-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist-testimonies-dra-aa.grc.md) — *Μαρτυρίαι* · `dra-aa`
+- [On the Cosmos and Necessity](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-cosmos-necessity-dra-ab.grc.md) — *Ἀποσπάσματα* · `dra-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-testimonies-dra-aa.grc.md) — *Μαρτυρίαι* · `dra-aa`
 
 ## License and provenance
 

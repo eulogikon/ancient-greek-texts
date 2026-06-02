@@ -19,7 +19,7 @@ Choerilus of Athens, a 5th century BCE Attic dramatist. Surviving fragments of h
 
 ## Works
 
-- [Genealogical Fragments of Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens-genealogical-heroes-epg-aa.grc.md) — *Ἀποσπάσματα περὶ Γενεαλογιῶν Ἡρώων* · `epg-aa`
+- [Genealogical Fragments of Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-athens-genealogical-heroes-epg-aa.grc.md) — *Ἀποσπάσματα περὶ Γενεαλογιῶν Ἡρώων* · `epg-aa`
 
 ## License and provenance
 

@@ -862,6 +862,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἀστυδρομουμέναν πόλιν καὶ στράτευμ’
 
+*[crux: στράτευμ’]*
+
 ### 220.3
 
 ἁπτόμενον πυρὶ δαΐῳ.
@@ -1314,6 +1316,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κλαυτὸν δ’ ἀρτιδρόποις ὠμοδρόπων [ἀντ. β.
 
+*[crux: ἀρτιδρόποις ὠμοδρόπων]*
+
 ### unit_119
 
 νομίμων προπάροιθεν διαμεῖψαι
@@ -1414,6 +1418,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 εἰκάσαι λόγος πάρα;
 
+*[crux: λόγος]*
+
 ### 356.2
 
 παντοδαπὸς δὲ καρπὸς χαμάδις πεσὼν[ἀντ. γ.
@@ -1445,6 +1451,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 360.4
 
 δμωίδες δὲ καινοπήμονες νέαι
+
+*[crux: νέαι]*
 
 ### 360.5
 
@@ -2302,6 +2310,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 καὶ τὸν σὸν αὖθις πρὸς μόραν ἀδελφεόν,
 
+*[crux: πρὸς μόραν ἀδελφεόν,]*
+
 ### 575.3
 
 ἐξυπτιάζων ὄνομα, Πολυνείκους βίαν
@@ -3138,6 +3148,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κρεισσοτέκνων [δ’ ἀπ’] ὀμμάτων ἐπλάγχθη·
 
+*[crux: κρεισσοτέκνων [δ’ ἀπ’] ὀμμάτων ἐπλάγχθη·]*
+
 ### 785.1
 
 τέκνοις δ’ ἀρχαίας[ἀντ. ε.
@@ -3309,6 +3321,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 825.2
 
 πόλεως ἀσινεῖ σωτῆρι ...
+
+*[crux: σωτῆρι]*
 
 ### 825.3
 
@@ -3657,6 +3671,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 915
 
 Χο. δόμων μάλ’ ἀχάεσσα τοὺς
+
+*[crux: δόμων μάλ’ ἀχάεσσα τοὺς]*
 
 ### 915.1
 

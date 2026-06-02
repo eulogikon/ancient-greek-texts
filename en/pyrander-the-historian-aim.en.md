@@ -19,7 +19,7 @@ Pyrander was an early Greek historian of the 6th century BCE. Surviving fragment
 
 ## Works
 
-- [Peloponnesian Histories Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian-peloponnesian-histories-aim-aa.grc.md) — *Ἀποσπάσματα* · `aim-aa`
+- [Peloponnesian Histories Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-peloponnesian-histories-aim-aa.grc.md) — *Ἀποσπάσματα* · `aim-aa`
 
 ## License and provenance
 

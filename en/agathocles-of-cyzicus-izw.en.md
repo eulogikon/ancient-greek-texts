@@ -19,8 +19,8 @@ Agathocles of Cyzicus was a Hellenistic historian. Two fragmentary historical wo
 
 ## Works
 
-- [On Cyzicus and Its Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-legends-izw-aa.grc.md) — *Ἀποσπάσματα* · `izw-aa`
-- [On the Pontus River](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus-pontus-river-izw-ab.grc.md) — *Ἀπόσπασμα* · `izw-ab`
+- [On Cyzicus and Its Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-cyzicus-legends-izw-aa.grc.md) — *Ἀποσπάσματα* · `izw-aa`
+- [On the Pontus River](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-cyzicus-pontus-river-izw-ab.grc.md) — *Ἀπόσπασμα* · `izw-ab`
 
 ## License and provenance
 

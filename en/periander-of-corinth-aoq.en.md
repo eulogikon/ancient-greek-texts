@@ -19,7 +19,7 @@ Periander of Corinth was a 7th-6th century BCE tyrant of Corinth. His surviving 
 
 ## Works
 
-- [Letters of Periander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth-letters-aoq-aa.grc.md) — *Ἐπιστολαὶ Περίανδρου* · `aoq-aa`
+- [Letters of Periander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-corinth-letters-aoq-aa.grc.md) — *Ἐπιστολαὶ Περίανδρου* · `aoq-aa`
 
 ## License and provenance
 

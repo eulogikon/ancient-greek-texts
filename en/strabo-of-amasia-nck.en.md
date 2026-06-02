@@ -19,10 +19,10 @@ Strabo of Amasia, Hellenistic geographer. Surviving works include his extensive 
 
 ## Works
 
-- [Chrestomathies from Strabo's Geographical Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-chrestomathies-geography-nck-aa.grc.md) — *Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Στράβωνος* · `nck-aa`
-- [Fragments on Parthian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-parthian-customs-nck-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Παρθικῶν Ἐθῶν* · `nck-ac`
-- [Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-geography-nck-ad.grc.md) — *Γεωγραφικά* · `nck-ad`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia-testimonies-nck-ab.grc.md) — *Μαρτυρίαι* · `nck-ab`
+- [Chrestomathies from Strabo's Geographical Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-amasia-chrestomathies-geography-nck-aa.grc.md) — *Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Στράβωνος* · `nck-aa`
+- [Fragments on Parthian Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-amasia-parthian-customs-nck-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Παρθικῶν Ἐθῶν* · `nck-ac`
+- [Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-amasia-geography-nck-ad.grc.md) — *Γεωγραφικά* · `nck-ad`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-amasia-testimonies-nck-ab.grc.md) — *Μαρτυρίαι* · `nck-ab`
 
 ## License and provenance
 

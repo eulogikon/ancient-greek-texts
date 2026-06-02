@@ -19,7 +19,7 @@ Theocritus Scholia are ancient and medieval grammatical commentaries on the poet
 
 ## Works
 
-- [Scholia-Theocritus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-theocritus-text-ngg-aa.grc.md) — *Σχόλια εἰς Θεόκριτον* · `ngg-aa`
+- [Scholia-Theocritus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-theocritus-text-ngg-aa.grc.md) — *Σχόλια εἰς Θεόκριτον* · `ngg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Glaucus Historian, a Hellenistic historian of the 2nd century BCE. Surviving wor
 
 ## Works
 
-- [Arab Geography and Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian-geography-antiquities-mfs-aa.grc.md) — *Ἀποσπάσματα* · `mfs-aa`
+- [Arab Geography and Antiquities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-geography-antiquities-mfs-aa.grc.md) — *Ἀποσπάσματα* · `mfs-aa`
 
 ## License and provenance
 

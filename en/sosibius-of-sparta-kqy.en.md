@@ -19,8 +19,8 @@ Sosibius of Sparta was a Hellenistic grammarian of the 2nd century BCE. Two gram
 
 ## Works
 
-- [Fragments on Chronology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta-chronology-kqy-aa.grc.md) — *Ἀποσπάσματα περὶ Χρονολογίας* · `kqy-aa`
-- [On the Iberian People](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta-iberian-people-kqy-ab.grc.md) — *Ἀπόσπασμα* · `kqy-ab`
+- [Fragments on Chronology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-sparta-chronology-kqy-aa.grc.md) — *Ἀποσπάσματα περὶ Χρονολογίας* · `kqy-aa`
+- [On the Iberian People](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-sparta-iberian-people-kqy-ab.grc.md) — *Ἀπόσπασμα* · `kqy-ab`
 
 ## License and provenance
 

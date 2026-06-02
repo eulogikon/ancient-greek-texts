@@ -20,9 +20,9 @@ Metrodorus of Chios, 4th century BCE atomist philosopher. Philosophical fragment
 
 ## Works
 
-- [Fragments on Trojan Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-trojan-legends-dmk-ab.grc.md) — *Ἀποσπάσματα περὶ Τρωικῶν Μύθων* · `dmk-ab`
-- [On Nature and Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-nature-knowledge-dmk-ac.grc.md) — *Ἀποσπάσματα* · `dmk-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios-testimonies-dmk-aa.grc.md) — *Μαρτυρίαι* · `dmk-aa`
+- [Fragments on Trojan Legends](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-chios-trojan-legends-dmk-ab.grc.md) — *Ἀποσπάσματα περὶ Τρωικῶν Μύθων* · `dmk-ab`
+- [On Nature and Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-chios-nature-knowledge-dmk-ac.grc.md) — *Ἀποσπάσματα* · `dmk-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-chios-testimonies-dmk-aa.grc.md) — *Μαρτυρίαι* · `dmk-aa`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ Polybius, Hellenistic historian of the 3rd-2nd centuries BCE. Surviving works in
 
 ## Works
 
-- [Fragments from Uncertain Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-uncertain-books-ldg-aa.grc.md) — *Ἀποσπάσματα ἐξ Ἀδήλων Βιβλίων* · `ldg-aa`
-- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-histories-ldg-ab.grc.md) — *Ἱστορίαι* · `ldg-ab`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis-testimony-ldg-ac.grc.md) — *Μαρτυρία* · `ldg-ac`
+- [Fragments from Uncertain Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-megalopolis-uncertain-books-ldg-aa.grc.md) — *Ἀποσπάσματα ἐξ Ἀδήλων Βιβλίων* · `ldg-aa`
+- [Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-megalopolis-histories-ldg-ab.grc.md) — *Ἱστορίαι* · `ldg-ab`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-megalopolis-testimony-ldg-ac.grc.md) — *Μαρτυρία* · `ldg-ac`
 
 ## License and provenance
 

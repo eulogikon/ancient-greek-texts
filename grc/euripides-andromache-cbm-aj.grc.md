@@ -786,6 +786,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τύχηι θ’ ὑπερθεῖ κἄμ’ ἐλευθέραν ὁρᾶις;
 
+*[crux: τύχηι θ’ ὑπερθεῖ]*
+
 ### 195.2
 
 ἢ τῶι νέωι τε καὶ σφριγῶντι σώματι
@@ -925,6 +927,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 230.3
 
 Χο. δέσποιν’, ὅσον σοι ῥαιδίως προσίσταται,
+
+*[crux: προσίσταται]*
 
 ### 230.4
 
@@ -1197,6 +1201,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 305.1
 
 μόχθους οὓς ἀμφὶ Τροίαν
+
+*[crux: μόχθους οὓς ἀμφὶ Τροίαν]*
 
 ### 305.2
 
@@ -1818,17 +1824,25 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἔριδας οἴκων δυσμενεῖς τε λύπας·
 
+*[crux: ἔριδας]*
+
 ### 466.3
 
 μίαν μοι στεργέτω πόσις γάμοις
+
+*[crux: γάμοις]*
 
 ### 470.1
 
 ἀκοινώνητον ἀνδρὸς εὐνάν.
 
+*[crux: εὐνάν]*
+
 ### 470.2
 
 οὐδὲ γὰρ ἐν πόλεσι δίπτυχοι τυραννίδες
+
+*[crux: οὐδὲ γὰρ ἐν]*
 
 ### 474
 
@@ -2273,6 +2287,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 590.3
 
 ἄκληιστ’ ἄδουλα δώμαθ’ ἑστίας λιπών,
+
+*[crux: ἄδουλα δώμαθ’ ἑστίας]*
 
 ### 590.4
 
@@ -2977,6 +2993,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 785
 
 ταύταν ἤινεσα ταύταν καὶ φέρομαι βιοτάν,
+
+*[crux: φέρομαι]*
 
 ### 787.1
 
@@ -4442,6 +4460,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὦ σχέτλιος παθέων ἐγώ· εἰς τίνα
 
+*[crux: εἰς]*
+
 ### 1180.1
 
 δὴ φίλον αὐγὰς βαλὼν τέρψομαι;
@@ -4477,6 +4497,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1185.5
 
 μήποτε σῶν λεχέων τὸ δυσώνυμον
+
+*[crux: μήποτε]*
 
 ### 1190.1
 

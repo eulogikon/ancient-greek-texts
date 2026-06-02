@@ -19,7 +19,7 @@ Ptolemy III Euergetes, Hellenistic King of Egypt. Surviving poetic works from th
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes-epigram-kka-aa.grc.md) — *Ἐπίγραμμα* · `kka-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-epigram-kka-aa.grc.md) — *Ἐπίγραμμα* · `kka-aa`
 
 ## License and provenance
 

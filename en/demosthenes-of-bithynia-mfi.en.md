@@ -19,8 +19,8 @@ Demosthenes of Bithynia, a 2nd century BCE epic poet. Surviving fragments of his
 
 ## Works
 
-- [Geographical Fragments of Bithynia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Βιθυνίας* · `mfi-ab`
-- [Geographical Fragments on Bithynia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa.grc.md) — *Ἀποσπάσματα περὶ Βιθυνίας Γεωγραφικά* · `mfi-aa`
+- [Geographical Fragments of Bithynia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-bithynia-geographical-fragments-mfi-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Βιθυνίας* · `mfi-ab`
+- [Geographical Fragments on Bithynia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-bithynia-geographical-fragments-mfi-aa.grc.md) — *Ἀποσπάσματα περὶ Βιθυνίας Γεωγραφικά* · `mfi-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Sosiphanes of Syracuse was a 4th century BCE Doric dramatist. Surviving works in
 
 ## Works
 
-- [Fragments on Theban and Trojan Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse-theban-trojan-myths-heo-aa.grc.md) — *Ἀποσπάσματα περὶ Θηβαϊκῶν καὶ Τρωϊκῶν Μύθων* · `heo-aa`
+- [Fragments on Theban and Trojan Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-syracuse-theban-trojan-myths-heo-aa.grc.md) — *Ἀποσπάσματα περὶ Θηβαϊκῶν καὶ Τρωϊκῶν Μύθων* · `heo-aa`
 
 ## License and provenance
 

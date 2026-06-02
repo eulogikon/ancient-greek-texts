@@ -19,8 +19,8 @@ Choerilus of Iasus, a 4th century BCE Greek epic poet. Surviving fragments of hi
 
 ## Works
 
-- [Fragment and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-fragment-gwm-aa.grc.md) — *Ἀπόσπασμα καὶ Τίτλος* · `gwm-aa`
-- [On Mortality and Transience](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus-mortality-transience-gwm-ab.grc.md) — *Ἀπόσπασμα* · `gwm-ab`
+- [Fragment and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-iasus-fragment-gwm-aa.grc.md) — *Ἀπόσπασμα καὶ Τίτλος* · `gwm-aa`
+- [On Mortality and Transience](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-iasus-mortality-transience-gwm-ab.grc.md) — *Ἀπόσπασμα* · `gwm-ab`
 
 ## License and provenance
 

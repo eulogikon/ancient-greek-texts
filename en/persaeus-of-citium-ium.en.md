@@ -20,7 +20,7 @@ Persaeus of Citium, Stoic philosopher and student of Zeno. Hellenistic philosoph
 
 ## Works
 
-- [Persaeus's Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-of-citium-philosophical-fragments-ium-aa.grc.md) — *Ἀποσπάσματα* · `ium-aa`
+- [Persaeus's Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/persaeus-citium-philosophical-fragments-ium-aa.grc.md) — *Ἀποσπάσματα* · `ium-aa`
 
 ## License and provenance
 

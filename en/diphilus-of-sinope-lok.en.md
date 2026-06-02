@@ -19,8 +19,8 @@ Diphilus, Hellenistic comic playwright from Sinope and contemporary of Menander.
 
 ## Works
 
-- [Comic Fragments on Feasts and Fools](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-comic-feasts-fools-lok-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρῶν* · `lok-ab`
-- [Fragments on Feasts and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope-feasts-folly-lok-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρίας* · `lok-aa`
+- [Comic Fragments on Feasts and Fools](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-sinope-comic-feasts-fools-lok-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρῶν* · `lok-ab`
+- [Fragments on Feasts and Folly](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-sinope-feasts-folly-lok-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρίας* · `lok-aa`
 
 ## License and provenance
 

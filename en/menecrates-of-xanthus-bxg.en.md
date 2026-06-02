@@ -19,7 +19,7 @@ Menecrates of Xanthus, a 4th century BCE Ionic historian. Surviving historical w
 
 ## Works
 
-- [Lycian History and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-xanthus-history-myths-bxg-aa.grc.md) — *Ἀποσπάσματα* · `bxg-aa`
+- [Lycian History and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-xanthus-history-myths-bxg-aa.grc.md) — *Ἀποσπάσματα* · `bxg-aa`
 
 ## License and provenance
 

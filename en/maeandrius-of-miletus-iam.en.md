@@ -19,7 +19,7 @@ Maeandrius of Miletus, a Hellenistic historian writing in Ionic Greek. His survi
 
 ## Works
 
-- [Historical Fragments on Miletus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus-historical-fragments-iam-aa.grc.md) — *Ἀποσπάσματα περὶ Μιλήτου* · `iam-aa`
+- [Historical Fragments on Miletus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-miletus-historical-fragments-iam-aa.grc.md) — *Ἀποσπάσματα περὶ Μιλήτου* · `iam-aa`
 
 ## License and provenance
 

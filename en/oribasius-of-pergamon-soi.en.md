@@ -19,12 +19,12 @@ Oribasius, a 4th century Greek physician and imperial doctor. Six surviving medi
 
 ## Works
 
-- [Books to Eunapius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-eunapius-soi-ae.grc.md) — *Βιβλία πρὸς Εὐνάπιον* · `soi-ae`
-- [Medical Collections, Books 1–16, 24–25, 43–50](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medical-collections-aa-soi-aa.grc.md) — *Ἰατρικαὶ Συλλογαί* · `soi-aa`
-- [Medical Collections, Uncertain Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medical-collections-ab-soi-ab.grc.md) — *Ἰατρικαὶ Συλλογαί* · `soi-ab`
-- [Selections of Medicines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-medicinal-selections-soi-ad.grc.md) — *Ἐπιλογαὶ Φαρμάκων* · `soi-ad`
-- [Summary to Eustathius the Son](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-summary-eustathius-soi-ac.grc.md) — *Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν* · `soi-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon-testimonies-soi-af.grc.md) — *Μαρτυρίαι* · `soi-af`
+- [Books to Eunapius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-eunapius-soi-ae.grc.md) — *Βιβλία πρὸς Εὐνάπιον* · `soi-ae`
+- [Medical Collections, Books 1–16, 24–25, 43–50](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-medical-collections-soi-aa.grc.md) — *Ἰατρικαὶ Συλλογαί* · `soi-aa`
+- [Medical Collections, Uncertain Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-medical-collections-soi-ab.grc.md) — *Ἰατρικαὶ Συλλογαί* · `soi-ab`
+- [Selections of Medicines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-medicinal-selections-soi-ad.grc.md) — *Ἐπιλογαὶ Φαρμάκων* · `soi-ad`
+- [Summary to Eustathius the Son](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-summary-eustathius-soi-ac.grc.md) — *Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν* · `soi-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-pergamon-testimonies-soi-af.grc.md) — *Μαρτυρίαι* · `soi-af`
 
 ## License and provenance
 

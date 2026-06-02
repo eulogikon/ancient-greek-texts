@@ -19,7 +19,7 @@ Hermippus of Smyrna, a 3rd century BCE Hellenistic scholar. Surviving fragments 
 
 ## Works
 
-- [On the Magi, Lawgivers, and Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa.grc.md) — *Ἀποσπάσματα* · `ixy-aa`
+- [On the Magi, Lawgivers, and Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-smyrna-magi-lawgivers-sages-ixy-aa.grc.md) — *Ἀποσπάσματα* · `ixy-aa`
 
 ## License and provenance
 

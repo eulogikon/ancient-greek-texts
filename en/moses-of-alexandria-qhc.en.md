@@ -19,8 +19,8 @@ Moses of Alexandria, Roman era scientific writer. Two surviving technical treati
 
 ## Works
 
-- [Moses' Doubling](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moses-of-alexandria-doubling-qhc-ab.grc.md) — *Μωσέως δίπλωσις* · `qhc-ab`
-- [Prosperity and Success of the Builder and Success of Labor and Long Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moses-of-alexandria-prosperity-builder-labor-life-qhc-aa.grc.md) — *Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία* · `qhc-aa`
+- [Moses' Doubling](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moses-alexandria-doubling-qhc-ab.grc.md) — *Μωσέως δίπλωσις* · `qhc-ab`
+- [Prosperity and Success of the Builder and Success of Labor and Long Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moses-alexandria-prosperity-builder-labor-life-qhc-aa.grc.md) — *Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία* · `qhc-aa`
 
 ## License and provenance
 

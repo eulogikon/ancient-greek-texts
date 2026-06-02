@@ -19,7 +19,7 @@ Nonnosus the Historian, a 6th century CE Byzantine historian. Surviving historic
 
 ## Works
 
-- [Fragments on Roman-Persian Relations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-the-historian-roman-persian-relations-vcw-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ῥωμαϊκῶν καὶ Περσικῶν Σχέσεων* · `vcw-aa`
+- [Fragments on Roman-Persian Relations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnosus-roman-persian-relations-vcw-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ῥωμαϊκῶν καὶ Περσικῶν Σχέσεων* · `vcw-aa`
 
 ## License and provenance
 

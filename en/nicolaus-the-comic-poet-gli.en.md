@@ -19,8 +19,8 @@ Nicolaus was a 4th century BCE Attic comic poet. Surviving fragments of his come
 
 ## Works
 
-- [On Parasites and Flatterers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-flatterers-gli-aa.grc.md) — *Ἀποσπάσματα* · `gli-aa`
-- [On Parasites and Tantalus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet-parasites-tantalus-gli-ab.grc.md) — *Ἀπόσπασμα* · `gli-ab`
+- [On Parasites and Flatterers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-comic-parasites-flatterers-gli-aa.grc.md) — *Ἀποσπάσματα* · `gli-aa`
+- [On Parasites and Tantalus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-comic-parasites-tantalus-gli-ab.grc.md) — *Ἀπόσπασμα* · `gli-ab`
 
 ## License and provenance
 

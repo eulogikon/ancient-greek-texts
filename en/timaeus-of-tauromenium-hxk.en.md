@@ -19,9 +19,9 @@ Timaeus of Tauromenium was a Hellenistic historian of the 4th-3rd centuries BCE.
 
 ## Works
 
-- [Fragments on Heracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-heracles-fragments-hxk-ac.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους* · `hxk-ac`
-- [Historical Fragments of Timaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-historical-fragments-hxk-ab.grc.md) — *Ἀποσπάσματα Τιμαίου* · `hxk-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium-testimonies-hxk-aa.grc.md) — *Μαρτυρίαι* · `hxk-aa`
+- [Fragments on Heracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-tauromenium-heracles-fragments-hxk-ac.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους* · `hxk-ac`
+- [Historical Fragments of Timaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-tauromenium-historical-fragments-hxk-ab.grc.md) — *Ἀποσπάσματα Τιμαίου* · `hxk-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-tauromenium-testimonies-hxk-aa.grc.md) — *Μαρτυρίαι* · `hxk-aa`
 
 ## License and provenance
 

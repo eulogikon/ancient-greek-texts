@@ -19,7 +19,7 @@ Philistus of Syracuse, a 5th-4th century BCE Greek historian. His surviving work
 
 ## Works
 
-- [Fragments of Sicilian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse-sicilian-histories-drk-aa.grc.md) — *Ἀποσπάσματα τῶν Σικελικῶν Ἱστοριῶν* · `drk-aa`
+- [Fragments of Sicilian Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-syracuse-sicilian-histories-drk-aa.grc.md) — *Ἀποσπάσματα τῶν Σικελικῶν Ἱστοριῶν* · `drk-aa`
 
 ## License and provenance
 

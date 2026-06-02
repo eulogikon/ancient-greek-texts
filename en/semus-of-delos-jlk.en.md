@@ -19,7 +19,7 @@ Semus of Delos was a Hellenistic grammarian writing in Koine Greek. His survivin
 
 ## Works
 
-- [Delian Antiquities and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos-antiquities-customs-jlk-aa.grc.md) — *Ἀποσπάσματα* · `jlk-aa`
+- [Delian Antiquities and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-delos-antiquities-customs-jlk-aa.grc.md) — *Ἀποσπάσματα* · `jlk-aa`
 
 ## License and provenance
 

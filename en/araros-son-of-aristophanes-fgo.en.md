@@ -19,8 +19,8 @@ Araros, son of Aristophanes, was a 4th century BCE Athenian comic poet. Two surv
 
 ## Works
 
-- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-comic-daily-life-fgo-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά* · `fgo-aa`
-- [Fragments on Divine Judgment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes-divine-judgment-fgo-ab.grc.md) — *Ἀποσπάσματα περὶ Θείας Κρίσεως* · `fgo-ab`
+- [Comic Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-comic-daily-life-fgo-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά* · `fgo-aa`
+- [Fragments on Divine Judgment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-divine-judgment-fgo-ab.grc.md) — *Ἀποσπάσματα περὶ Θείας Κρίσεως* · `fgo-ab`
 
 ## License and provenance
 

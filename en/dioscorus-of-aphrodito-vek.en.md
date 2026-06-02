@@ -19,7 +19,7 @@ Dioscorus of Aphrodito was a 6th century CE poet writing in Koine Greek. His sur
 
 ## Works
 
-- [Panegyric to Emperor Justin](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorus-of-aphrodito-panegyric-justin-vek-aa.grc.md) — *Ἀποσπάσματα* · `vek-aa`
+- [Panegyric to Emperor Justin](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorus-aphrodito-panegyric-justin-vek-aa.grc.md) — *Ἀποσπάσματα* · `vek-aa`
 
 ## License and provenance
 

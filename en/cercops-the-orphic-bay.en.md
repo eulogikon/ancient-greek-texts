@@ -20,7 +20,7 @@ Cercops the Orphic, a sixth century BCE Pythagorean philosopher. Surviving works
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic-testimony-bay-aa.grc.md) — *Μαρτυρία* · `bay-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-orphic-testimony-bay-aa.grc.md) — *Μαρτυρία* · `bay-aa`
 
 ## License and provenance
 

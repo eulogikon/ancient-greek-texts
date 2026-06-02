@@ -19,7 +19,7 @@ Thespis of Icaria, 6th century BCE dramatist who originated Greek tragedy. Fragm
 
 ## Works
 
-- [Fragments of a Dionysian Hymn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-of-icaria-dionysian-hymn-bfe-aa.grc.md) — *Ἀποσπάσματα Διονυσιακοῦ Ὕμνου* · `bfe-aa`
+- [Fragments of a Dionysian Hymn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thespis-icaria-dionysian-hymn-bfe-aa.grc.md) — *Ἀποσπάσματα Διονυσιακοῦ Ὕμνου* · `bfe-aa`
 
 ## License and provenance
 

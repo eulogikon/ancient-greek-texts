@@ -20,8 +20,8 @@ Athenagoras of Athens, 2nd century Christian philosopher. Includes Apology and O
 
 ## Works
 
-- [Embassy or Petition for Christians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens-embassy-christians-qwc-aa.grc.md) — *Πρεσβεία ἢ Δέησις ὑπὲρ Χριστιανῶν* · `qwc-aa`
-- [On the Resurrection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens-resurrection-qwc-ab.grc.md) — *Περὶ Ἀναστάσεως* · `qwc-ab`
+- [Embassy or Petition for Christians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-athens-embassy-christians-qwc-aa.grc.md) — *Πρεσβεία ἢ Δέησις ὑπὲρ Χριστιανῶν* · `qwc-aa`
+- [On the Resurrection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-athens-resurrection-qwc-ab.grc.md) — *Περὶ Ἀναστάσεως* · `qwc-ab`
 
 ## License and provenance
 

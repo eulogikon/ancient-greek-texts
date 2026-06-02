@@ -19,7 +19,7 @@ Brutus Letters, Hellenistic epistles from the 1st century BCE. Surviving histori
 
 ## Works
 
-- [Letters to Pergamon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brutus-letters-pergamon-mzs-aa.grc.md) — *Ἐπιστολαὶ πρὸς Πέργαμον* · `mzs-aa`
+- [Letters to Pergamon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brutus-pergamon-mzs-aa.grc.md) — *Ἐπιστολαὶ πρὸς Πέργαμον* · `mzs-aa`
 
 ## License and provenance
 

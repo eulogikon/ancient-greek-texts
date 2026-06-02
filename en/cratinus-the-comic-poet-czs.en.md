@@ -19,11 +19,11 @@ Cratinus was a major Athenian playwright of Old Comedy. Surviving fragments from
 
 ## Works
 
-- [Comic Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-ab-czs-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `czs-ab`
-- [Fragments on Cimon and Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-athenian-life-aa-czs-aa.grc.md) — *Ἀποσπάσματα περὶ Κίμωνος καὶ τοῦ Ἀθηναίων Βίου* · `czs-aa`
-- [Fragments on Language and Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-language-poetry-czs-ac.grc.md) — *Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης* · `czs-ac`
-- [Fragments on the Judgment of Paris](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-judgment-paris-czs-ad.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως* · `czs-ad`
-- [On Feminine Noun Endings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet-feminine-nouns-czs-ae.grc.md) — *Ἀποσπάσματα* · `czs-ae`
+- [Comic Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-athenian-life-czs-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `czs-ab`
+- [Fragments on Cimon and Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-athenian-life-czs-aa.grc.md) — *Ἀποσπάσματα περὶ Κίμωνος καὶ τοῦ Ἀθηναίων Βίου* · `czs-aa`
+- [Fragments on Language and Poetry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-language-poetry-czs-ac.grc.md) — *Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης* · `czs-ac`
+- [Fragments on the Judgment of Paris](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-judgment-paris-czs-ad.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως* · `czs-ad`
+- [On Feminine Noun Endings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-feminine-nouns-czs-ae.grc.md) — *Ἀποσπάσματα* · `czs-ae`
 
 ## License and provenance
 

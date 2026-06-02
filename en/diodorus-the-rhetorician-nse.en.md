@@ -19,7 +19,7 @@ Diodorus the Rhetorician, Roman orator of the 1st-3rd century CE. Koine Greek or
 
 ## Works
 
-- [Fragment-Two Men](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-rhetorician-two-men-nse-aa.grc.md) — *Ἀπόσπασμα περὶ Δύο Ἀνδρῶν* · `nse-aa`
+- [Fragment-Two Men](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-rhetor-two-men-nse-aa.grc.md) — *Ἀπόσπασμα περὶ Δύο Ἀνδρῶν* · `nse-aa`
 
 ## License and provenance
 

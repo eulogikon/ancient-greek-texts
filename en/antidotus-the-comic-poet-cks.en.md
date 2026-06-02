@@ -19,8 +19,8 @@ Antidotus, a 4th century BCE Athenian poet of Middle Comedy. Read his surviving 
 
 ## Works
 
-- [Fragments on Healing](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-healing-cks-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰάσεως* · `cks-aa`
-- [Fragments on the Art of Parasitism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet-art-parasitism-cks-ab.grc.md) — *Ἀποσπάσματα περὶ Τέχνης Παρασιτισμοῦ* · `cks-ab`
+- [Fragments on Healing](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-comic-healing-cks-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰάσεως* · `cks-aa`
+- [Fragments on the Art of Parasitism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-comic-art-parasitism-cks-ab.grc.md) — *Ἀποσπάσματα περὶ Τέχνης Παρασιτισμοῦ* · `cks-ab`
 
 ## License and provenance
 

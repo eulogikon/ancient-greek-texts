@@ -19,7 +19,7 @@ Eumaeus the Historian, a Hellenistic era writer of the 3rd century BCE to 2nd ce
 
 ## Works
 
-- [Fragments on Hannibal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian-hannibal-fragments-krs-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀννίβου* · `krs-aa`
+- [Fragments on Hannibal](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-hannibal-fragments-krs-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀννίβου* · `krs-aa`
 
 ## License and provenance
 

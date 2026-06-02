@@ -19,7 +19,7 @@ Julius the Epic Poet, Roman era poet writing in Homeric Greek. Surviving epic fr
 
 ## Works
 
-- [Fragments on Cadmus and Agave](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet-cadmus-agave-nsy-aa.grc.md) — *Ἀποσπάσματα περὶ Κάδμου καὶ Ἀγαύης* · `nsy-aa`
+- [Fragments on Cadmus and Agave](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-epic-cadmus-agave-nsy-aa.grc.md) — *Ἀποσπάσματα περὶ Κάδμου καὶ Ἀγαύης* · `nsy-aa`
 
 ## License and provenance
 

@@ -20,12 +20,12 @@ Iamblichus, a major Syrian Neoplatonist philosopher. Surviving works include tre
 
 ## Works
 
-- [Discourse-the Pythagorean Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-pythagorean-life-udw-ab.grc.md) — *περὶ τοῦ Πυθαγορικοῦ βίου λόγος* · `udw-ab`
-- [Exhortation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-exhortation-udw-af.grc.md) — *Προτρεπτικός* · `udw-af`
-- [On Common Mathematical Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-common-mathematics-udw-ac.grc.md) — *Περί της κοινής μαθηματικής επιστήμης* · `udw-ac`
-- [On Nicomachus' Introduction to Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-nicomachus-arithmetic-udw-aa.grc.md) — *Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς* · `udw-aa`
-- [On the Mysteries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-mysteries-udw-ae.grc.md) — *Περὶ τῶν Μυστηρίων* · `udw-ae`
-- [Theological Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-theological-arithmetic-udw-ad.grc.md) — *Θεολογικὴ Ἀριθμητική* · `udw-ad`
+- [Discourse-the Pythagorean Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-pythagorean-life-udw-ab.grc.md) — *περὶ τοῦ Πυθαγορικοῦ βίου λόγος* · `udw-ab`
+- [Exhortation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-exhortation-udw-af.grc.md) — *Προτρεπτικός* · `udw-af`
+- [On Common Mathematical Knowledge](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-common-mathematics-udw-ac.grc.md) — *Περί της κοινής μαθηματικής επιστήμης* · `udw-ac`
+- [On Nicomachus' Introduction to Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-nicomachus-arithmetic-udw-aa.grc.md) — *Περὶ τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς* · `udw-aa`
+- [On the Mysteries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-mysteries-udw-ae.grc.md) — *Περὶ τῶν Μυστηρίων* · `udw-ae`
+- [Theological Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-chalcis-theological-arithmetic-udw-ad.grc.md) — *Θεολογικὴ Ἀριθμητική* · `udw-ad`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Athanis of Syracuse was a 4th century BCE historian. His surviving fragments cov
 
 ## Works
 
-- [Sicilian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-of-syracuse-historical-fragments-gvi-aa.grc.md) — *Ἀποσπάσματα* · `gvi-aa`
+- [Sicilian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athanis-syracuse-historical-fragments-gvi-aa.grc.md) — *Ἀποσπάσματα* · `gvi-aa`
 
 ## License and provenance
 

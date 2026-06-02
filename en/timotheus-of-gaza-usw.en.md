@@ -19,8 +19,8 @@ Timotheus of Gaza was a late antique grammarian writing in Christian Koine. His 
 
 ## Works
 
-- [Excerpts from Books-Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-excerpts-animals-usw-aa.grc.md) — *Ἐκλογαὶ ἐκ Βιβλίων περὶ Ζῴων* · `usw-aa`
-- [Universal Rules-Syntax](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-gaza-universal-syntax-usw-ab.grc.md) — *Κανόνες καθολικοὶ περὶ συντάξεως* · `usw-ab`
+- [Excerpts from Books-Animals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-gaza-excerpts-animals-usw-aa.grc.md) — *Ἐκλογαὶ ἐκ Βιβλίων περὶ Ζῴων* · `usw-aa`
+- [Universal Rules-Syntax](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-gaza-universal-syntax-usw-ab.grc.md) — *Κανόνες καθολικοὶ περὶ συντάξεως* · `usw-ab`
 
 ## License and provenance
 

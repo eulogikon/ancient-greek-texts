@@ -20,15 +20,15 @@ Antiphon, Athenian sophist and speechwriter of the 5th century BCE. Nine survivi
 
 ## Works
 
-- [Fragments on Oligarchy and Democracy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-oligarchy-democracy-bqs-ai.grc.md) — *Ἀποσπάσματα περὶ Ὀλιγαρχίας καὶ Δημοκρατίας* · `bqs-ai`
-- [On Sedition and Political Defense](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sedition-defense-bqs-ah.grc.md) — *Ἀποσπάσματα* · `bqs-ah`
-- [On Sorcery-The Stepmother](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-sorcery-stepmother-bqs-aa.grc.md) — *Φαρμακείας κατὰ τῆς μητρυιᾶς* · `bqs-aa`
-- [On the Dancer](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-dancer-bqs-ac.grc.md) — *Περὶ τοῦ χορευτοῦ* · `bqs-ac`
-- [On the Murder of Herodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-murder-herodes-bqs-ab.grc.md) — *Περὶ τοῦ Ἡρῷδου φόνου* · `bqs-ab`
-- [On the Samothracian Tribute](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-samothracian-tribute-bqs-ag.grc.md) — *Ἀποσπάσματα* · `bqs-ag`
-- [Tetralogy A](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-a-bqs-ad.grc.md) — *Τετραλογία Α΄* · `bqs-ad`
-- [Tetralogy B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-b-bqs-ae.grc.md) — *Τετραλογία Β΄* · `bqs-ae`
-- [Tetralogy C](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens-tetralogy-c-bqs-af.grc.md) — *Τετραλογία Γ΄* · `bqs-af`
+- [Fragments on Oligarchy and Democracy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-oligarchy-democracy-bqs-ai.grc.md) — *Ἀποσπάσματα περὶ Ὀλιγαρχίας καὶ Δημοκρατίας* · `bqs-ai`
+- [On Sedition and Political Defense](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-sedition-defense-bqs-ah.grc.md) — *Ἀποσπάσματα* · `bqs-ah`
+- [On Sorcery-The Stepmother](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-sorcery-stepmother-bqs-aa.grc.md) — *Φαρμακείας κατὰ τῆς μητρυιᾶς* · `bqs-aa`
+- [On the Dancer](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-dancer-bqs-ac.grc.md) — *Περὶ τοῦ χορευτοῦ* · `bqs-ac`
+- [On the Murder of Herodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-murder-herodes-bqs-ab.grc.md) — *Περὶ τοῦ Ἡρῷδου φόνου* · `bqs-ab`
+- [On the Samothracian Tribute](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-samothracian-tribute-bqs-ag.grc.md) — *Ἀποσπάσματα* · `bqs-ag`
+- [Tetralogy A](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-tetralogy-a-bqs-ad.grc.md) — *Τετραλογία Α΄* · `bqs-ad`
+- [Tetralogy B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-tetralogy-b-bqs-ae.grc.md) — *Τετραλογία Β΄* · `bqs-ae`
+- [Tetralogy C](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-athens-tetralogy-c-bqs-af.grc.md) — *Τετραλογία Γ΄* · `bqs-af`
 
 ## License and provenance
 

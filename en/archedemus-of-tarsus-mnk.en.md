@@ -20,7 +20,7 @@ Archedemus of Tarsus was a Stoic philosopher of the 2nd century BCE. His survivi
 
 ## Works
 
-- [Stoic Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-of-tarsus-stoic-fragments-mnk-aa.grc.md) — *Ἀποσπάσματα* · `mnk-aa`
+- [Stoic Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedemus-tarsus-stoic-fragments-mnk-aa.grc.md) — *Ἀποσπάσματα* · `mnk-aa`
 
 ## License and provenance
 

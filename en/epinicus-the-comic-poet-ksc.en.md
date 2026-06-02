@@ -19,8 +19,8 @@ Epinicus was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary wo
 
 ## Works
 
-- [Fragments on Seleucus and Drinking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-seleucus-drinking-ksc-aa.grc.md) — *Ἀποσπάσματα περὶ Σελεύκου καὶ Ποτοῦ* · `ksc-aa`
-- [Symposium and Satirical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet-symposium-satirical-ksc-ab.grc.md) — *Ἀποσπάσματα* · `ksc-ab`
+- [Fragments on Seleucus and Drinking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-seleucus-drinking-ksc-aa.grc.md) — *Ἀποσπάσματα περὶ Σελεύκου καὶ Ποτοῦ* · `ksc-aa`
+- [Symposium and Satirical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-symposium-satirical-ksc-ab.grc.md) — *Ἀποσπάσματα* · `ksc-ab`
 
 ## License and provenance
 

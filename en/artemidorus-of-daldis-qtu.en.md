@@ -19,7 +19,7 @@ Artemidorus of Daldis, a 2nd century CE author. Surviving works include the Onei
 
 ## Works
 
-- [Interpretation of Dreams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis-dreams-qtu-aa.grc.md) — *Ονειροκριτικά* · `qtu-aa`
+- [Interpretation of Dreams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-daldis-dreams-qtu-aa.grc.md) — *Ονειροκριτικά* · `qtu-aa`
 
 ## License and provenance
 

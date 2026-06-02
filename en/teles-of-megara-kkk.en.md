@@ -20,14 +20,14 @@ Teles of Megara was a Hellenistic Cynic philosopher. Surviving fragments of his 
 
 ## Works
 
-- [On Circumstances](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-circumstances-kkk-af.grc.md) — *Περὶ περιστάσεων* · `kkk-af`
-- [On Flight](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-flight-kkk-ah.grc.md) — *Περὶ φυγῆς* · `kkk-ah`
-- [On Impassibility](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-impassibility-kkk-ag.grc.md) — *Περὶ ἀπαθείας* · `kkk-ag`
-- [On Pleasure Not Being the End](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-pleasure-not-end-kkk-ac.grc.md) — *Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν* · `kkk-ac`
-- [On Seeming and Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-seeming-being-kkk-ad.grc.md) — *Περὶ τοῦ δοκεῖν καὶ τοῦ εἶναι* · `kkk-ad`
-- [On Self-Sufficiency](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-self-sufficiency-kkk-ae.grc.md) — *Περὶ αὐταρκείας* · `kkk-ae`
-- [On the Comparison of Poverty and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-ab-kkk-ab.grc.md) — *Περὶ συγκρίσεως πενίας καὶ πλούτου* · `kkk-ab`
-- [On the Comparison of Poverty and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara-poverty-wealth-aa-kkk-aa.grc.md) — *Περὶ συγκρίσεως πενίας καὶ πλούτου* · `kkk-aa`
+- [On Circumstances](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-circumstances-kkk-af.grc.md) — *Περὶ περιστάσεων* · `kkk-af`
+- [On Flight](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-flight-kkk-ah.grc.md) — *Περὶ φυγῆς* · `kkk-ah`
+- [On Impassibility](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-impassibility-kkk-ag.grc.md) — *Περὶ ἀπαθείας* · `kkk-ag`
+- [On Pleasure Not Being the End](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-pleasure-not-end-kkk-ac.grc.md) — *Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν* · `kkk-ac`
+- [On Seeming and Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-seeming-being-kkk-ad.grc.md) — *Περὶ τοῦ δοκεῖν καὶ τοῦ εἶναι* · `kkk-ad`
+- [On Self-Sufficiency](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-self-sufficiency-kkk-ae.grc.md) — *Περὶ αὐταρκείας* · `kkk-ae`
+- [On the Comparison of Poverty and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-poverty-wealth-kkk-aa.grc.md) — *Περὶ συγκρίσεως πενίας καὶ πλούτου* · `kkk-aa`
+- [On the Comparison of Poverty and Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-megara-poverty-wealth-kkk-ab.grc.md) — *Περὶ συγκρίσεως πενίας καὶ πλούτου* · `kkk-ab`
 
 ## License and provenance
 

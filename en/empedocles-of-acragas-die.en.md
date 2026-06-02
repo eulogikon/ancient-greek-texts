@@ -20,9 +20,9 @@ Empedocles, a presocratic philosopher from 5th century BCE Sicily. His surviving
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-epigrams-die-ac.grc.md) — *Ἐπίγραμμα* · `die-ac`
-- [On Nature and Perception](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-nature-perception-die-ab.grc.md) — *Ἀποσπάσματα* · `die-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas-testimonies-die-aa.grc.md) — *Μαρτυρίαι* · `die-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-acragas-epigrams-die-ac.grc.md) — *Ἐπίγραμμα* · `die-ac`
+- [On Nature and Perception](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-acragas-nature-perception-die-ab.grc.md) — *Ἀποσπάσματα* · `die-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-acragas-testimonies-die-aa.grc.md) — *Μαρτυρίαι* · `die-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Peisander of Camirus, an Archaic epic poet from Rhodes. Two surviving works are 
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-epigram-alo-ab.grc.md) — *Ἐπίγραμμα* · `alo-ab`
-- [Fragments of Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus-fragments-heraclea-alo-aa.grc.md) — *Ἀποσπάσματα Ἡρακλείας* · `alo-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-camirus-epigram-alo-ab.grc.md) — *Ἐπίγραμμα* · `alo-ab`
+- [Fragments of Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-camirus-fragments-heraclea-alo-aa.grc.md) — *Ἀποσπάσματα Ἡρακλείας* · `alo-aa`
 
 ## License and provenance
 

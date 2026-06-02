@@ -19,9 +19,9 @@ Diodorus of Sicily, 1st century BCE historian. Works include his universal histo
 
 ## Works
 
-- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-uncertain-fragments-nde-aa.grc.md) — *Ἀποσπάσματα Ἀδήλου Θέσεως* · `nde-aa`
-- [Historical Library, Books 18-20](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-18-20-nde-ab.grc.md) — *Βιβλιοθήκη Ἱστορική* · `nde-ab`
-- [Historical Library, Books 21-40](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily-historical-library-21-40-nde-ac.grc.md) — *Βιβλιοθήκη Ἱστορική* · `nde-ac`
+- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sicily-uncertain-fragments-nde-aa.grc.md) — *Ἀποσπάσματα Ἀδήλου Θέσεως* · `nde-aa`
+- [Historical Library, Books 18-20](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sicily-historical-library-18-20-nde-ab.grc.md) — *Βιβλιοθήκη Ἱστορική* · `nde-ab`
+- [Historical Library, Books 21-40](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-sicily-historical-library-21-40-nde-ac.grc.md) — *Βιβλιοθήκη Ἱστορική* · `nde-ac`
 
 ## License and provenance
 

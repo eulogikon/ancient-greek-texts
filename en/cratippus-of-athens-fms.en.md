@@ -19,7 +19,7 @@ Cratippus of Athens, a 4th century BCE historian. His surviving historical work 
 
 ## Works
 
-- [Fragments on the Hermae Affair](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-of-athens-hermae-affair-fms-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἑρμαϊκοῦ Πράγματος* · `fms-aa`
+- [Fragments on the Hermae Affair](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratippus-athens-hermae-affair-fms-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἑρμαϊκοῦ Πράγματος* · `fms-aa`
 
 ## License and provenance
 

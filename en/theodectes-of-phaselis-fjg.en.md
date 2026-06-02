@@ -19,7 +19,7 @@ Theodectes of Phaselis, a 4th century BCE Attic tragic poet. Surviving works inc
 
 ## Works
 
-- [Fragments on Women and Justice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis-women-justice-fjg-aa.grc.md) — *Ἀποσπάσματα περὶ Γυναικῶν καὶ Δικαιοσύνης* · `fjg-aa`
+- [Fragments on Women and Justice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-phaselis-women-justice-fjg-aa.grc.md) — *Ἀποσπάσματα περὶ Γυναικῶν καὶ Δικαιοσύνης* · `fjg-aa`
 
 ## License and provenance
 

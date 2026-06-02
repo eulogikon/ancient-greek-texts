@@ -19,7 +19,7 @@ Praxilla of Sicyon, a 5th century BCE Doric poet. Surviving poetic fragments and
 
 ## Works
 
-- [Lyric Fragments on Life and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon-lyric-fragments-ccq-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος* · `ccq-aa`
+- [Lyric Fragments on Life and Love](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-sicyon-lyric-fragments-ccq-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος* · `ccq-aa`
 
 ## License and provenance
 

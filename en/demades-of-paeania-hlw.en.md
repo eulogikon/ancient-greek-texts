@@ -19,9 +19,9 @@ Demades of Paeania, a 4th century BCE Athenian orator. Works include speeches an
 
 ## Works
 
-- [In Defense of the Twelve Years](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-defense-twelve-years-hlw-aa.grc.md) — *Ὑπὲρ τῆς δωδεκαετίας* · `hlw-aa`
-- [On the Abduction of Persephone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-abduction-persephone-hlw-ac.grc.md) — *Ἀπόσπασμα* · `hlw-ac`
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-of-paeania-testimony-hlw-ab.grc.md) — *Μαρτυρία* · `hlw-ab`
+- [In Defense of the Twelve Years](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-paeania-defense-twelve-years-hlw-aa.grc.md) — *Ὑπὲρ τῆς δωδεκαετίας* · `hlw-aa`
+- [On the Abduction of Persephone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-paeania-abduction-persephone-hlw-ac.grc.md) — *Ἀπόσπασμα* · `hlw-ac`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demades-paeania-testimony-hlw-ab.grc.md) — *Μαρτυρία* · `hlw-ab`
 
 ## License and provenance
 

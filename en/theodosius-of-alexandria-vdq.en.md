@@ -19,14 +19,14 @@ Theodosius of Alexandria was a late antique grammarian. He wrote eight grammatic
 
 ## Works
 
-- [Introductory Canons-Noun Inflection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-noun-inflection-vdq-ac.grc.md) — *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων* · `vdq-ac`
-- [Introductory Canons-Verb Inflection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-canons-verb-inflection-vdq-ad.grc.md) — *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων* · `vdq-ad`
-- [On Dialects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-dialects-vdq-af.grc.md) — *Περὶ Διαλέκτων* · `vdq-af`
-- [On Grammar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-grammar-vdq-ag.grc.md) — *Περὶ γραμματικῆς* · `vdq-ag`
-- [On the Declension of Acute Words Ending in -on](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-acute-words-vdq-aa.grc.md) — *Περὶ κλίσεως τῶν εἰς ων ὀξυτόνων* · `vdq-aa`
-- [On the Declension of Words Ending in -on](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-declension-on-words-vdq-ab.grc.md) — *Περὶ κλίσεως τῶν εἰς ων βαρυτόνων* · `vdq-ab`
-- [On Tone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-tone-vdq-ah.grc.md) — *Περὶ τόνου* · `vdq-ah`
-- [Summary of Herodian's Catholic Work](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria-herodian-summary-vdq-ae.grc.md) — *Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν* · `vdq-ae`
+- [Introductory Canons-Noun Inflection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-canons-noun-inflection-vdq-ac.grc.md) — *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων* · `vdq-ac`
+- [Introductory Canons-Verb Inflection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-canons-verb-inflection-vdq-ad.grc.md) — *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων* · `vdq-ad`
+- [On Dialects](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-dialects-vdq-af.grc.md) — *Περὶ Διαλέκτων* · `vdq-af`
+- [On Grammar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-grammar-vdq-ag.grc.md) — *Περὶ γραμματικῆς* · `vdq-ag`
+- [On the Declension of Acute Words Ending in -on](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-declension-acute-words-vdq-aa.grc.md) — *Περὶ κλίσεως τῶν εἰς ων ὀξυτόνων* · `vdq-aa`
+- [On the Declension of Words Ending in -on](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-declension-on-words-vdq-ab.grc.md) — *Περὶ κλίσεως τῶν εἰς ων βαρυτόνων* · `vdq-ab`
+- [On Tone](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-tone-vdq-ah.grc.md) — *Περὶ τόνου* · `vdq-ah`
+- [Summary of Herodian's Catholic Work](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-alexandria-herodian-summary-vdq-ae.grc.md) — *Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν* · `vdq-ae`
 
 ## License and provenance
 

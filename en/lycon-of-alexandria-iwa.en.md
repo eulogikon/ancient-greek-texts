@@ -20,7 +20,7 @@ Lycon of Alexandria, 3rd century BCE Peripatetic philosopher and student of Stra
 
 ## Works
 
-- [Last Will and Testament of Lycon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-of-alexandria-last-will-testament-iwa-aa.grc.md) — *Ἀποσπάσματα* · `iwa-aa`
+- [Last Will and Testament of Lycon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycon-alexandria-last-will-testament-iwa-aa.grc.md) — *Ἀποσπάσματα* · `iwa-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Nausicrates was a 4th century BCE Attic comic poet. Two surviving works are pres
 
 ## Works
 
-- [Fragments on Fish and Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-fish-sea-creatures-fqe-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Ἑρπετῶν θαλασσίων* · `fqe-aa`
-- [Fragments on Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-the-comic-poet-sea-creatures-fqe-ab.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἐνάλων Ζῴων* · `fqe-ab`
+- [Fragments on Fish and Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-fish-sea-creatures-fqe-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Ἑρπετῶν θαλασσίων* · `fqe-aa`
+- [Fragments on Sea Creatures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausicrates-sea-creatures-fqe-ab.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἐνάλων Ζῴων* · `fqe-ab`
 
 ## License and provenance
 

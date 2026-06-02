@@ -19,8 +19,8 @@ Eubulus was an Athenian comic poet of Middle Comedy in the 4th century BCE. Surv
 
 ## Works
 
-- [Fragments on Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasting-fpa-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας* · `fpa-ab`
-- [Fragments on Feasts and Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet-feasts-festivals-fpa-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Ἑορτασμῶν* · `fpa-aa`
+- [Fragments on Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-feasting-fpa-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας* · `fpa-ab`
+- [Fragments on Feasts and Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-feasts-festivals-fpa-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑορτῶν καὶ Ἑορτασμῶν* · `fpa-aa`
 
 ## License and provenance
 

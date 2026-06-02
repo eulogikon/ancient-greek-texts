@@ -19,8 +19,8 @@ Aristocles the Paradoxographer, a Hellenistic historian of the 3rd century BCE. 
 
 ## Works
 
-- [Hymn to Demeter of Hermione](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab.grc.md) — *Ἀπόσπασμα* · `kci-ab`
-- [Italic and Paradoxical Narratives](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer-italic-narratives-kci-aa.grc.md) — *Ἀποσπάσματα* · `kci-aa`
+- [Hymn to Demeter of Hermione](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-paradoxographer-hymn-demeter-hermione-kci-ab.grc.md) — *Ἀπόσπασμα* · `kci-ab`
+- [Italic and Paradoxical Narratives](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-paradoxographer-italic-narratives-kci-aa.grc.md) — *Ἀποσπάσματα* · `kci-aa`
 
 ## License and provenance
 

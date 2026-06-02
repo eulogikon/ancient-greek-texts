@@ -19,7 +19,7 @@ Philinus of Acragas, a Hellenistic historian of the 3rd century BCE. His survivi
 
 ## Works
 
-- [Fragments on the First Punic War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas-first-punic-war-jgk-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Πρώτου Πολεμικοῦ Πολέμου* · `jgk-aa`
+- [Fragments on the First Punic War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-acragas-first-punic-war-jgk-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Πρώτου Πολεμικοῦ Πολέμου* · `jgk-aa`
 
 ## License and provenance
 

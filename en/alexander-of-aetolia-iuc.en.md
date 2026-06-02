@@ -19,8 +19,8 @@ Alexander of Aetolia, a Hellenistic poet of the 3rd century BCE. Surviving fragm
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-epigrams-iuc-ab.grc.md) — *Ἐπιγράμματα* · `iuc-ab`
-- [Fragments on Helios and Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia-helios-heroes-iuc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων* · `iuc-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-aetolia-epigrams-iuc-ab.grc.md) — *Ἐπιγράμματα* · `iuc-ab`
+- [Fragments on Helios and Heroes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-aetolia-helios-heroes-iuc-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων* · `iuc-aa`
 
 ## License and provenance
 

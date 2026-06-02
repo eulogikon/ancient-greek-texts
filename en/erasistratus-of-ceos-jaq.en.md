@@ -19,7 +19,7 @@ Erasistratus of Ceos was a Hellenistic physician and anatomist. His surviving me
 
 ## Works
 
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erasistratus-of-ceos-testimonies-fragments-jaq-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jaq-aa`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erasistratus-ceos-testimonies-fragments-jaq-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `jaq-aa`
 
 ## License and provenance
 

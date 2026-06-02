@@ -20,11 +20,11 @@ The Seven Sages were early Greek intellectuals and lawgivers. Works include trea
 
 ## Works
 
-- [Precepts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-precepts-ayq-ae.grc.md) — *Παραγγέλματα* · `ayq-ae`
-- [Sayings of the Seven Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sayings-ayq-ab.grc.md) — *Γνῶμαι Πλειόνων Συγγραφέων* · `ayq-ab`
-- [Sayings, from the Collection of Demetrius Phalereus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-demetrius-phalereus-ayq-aa.grc.md) — *Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως* · `ayq-aa`
-- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-sentences-ayq-ad.grc.md) — *Γνῶμαι* · `ayq-ad`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece-testimonies-ayq-ac.grc.md) — *Τῶν ἑπτὰ σοφῶν* · `ayq-ac`
+- [Precepts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-precepts-ayq-ae.grc.md) — *Παραγγέλματα* · `ayq-ae`
+- [Sayings of the Seven Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-sayings-ayq-ab.grc.md) — *Γνῶμαι Πλειόνων Συγγραφέων* · `ayq-ab`
+- [Sayings, from the Collection of Demetrius Phalereus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-demetrius-phalereus-ayq-aa.grc.md) — *Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως* · `ayq-aa`
+- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-sentences-ayq-ad.grc.md) — *Γνῶμαι* · `ayq-ad`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-testimonies-ayq-ac.grc.md) — *Τῶν ἑπτὰ σοφῶν* · `ayq-ac`
 
 ## License and provenance
 

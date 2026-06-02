@@ -20,7 +20,7 @@ Xenocrates of Chalcedon, 4th century BCE Platonist philosopher. Surviving philos
 
 ## Works
 
-- [Fragments on Plato's Disciples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenocrates-of-chalcedon-plato-disciples-hda-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Πλάτωνος Μαθητῶν* · `hda-aa`
+- [Fragments on Plato's Disciples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenocrates-chalcedon-plato-disciples-hda-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Πλάτωνος Μαθητῶν* · `hda-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Peisander of Laranda, 3rd century CE epic poet in Homeric dialect. Surviving myt
 
 ## Works
 
-- [Fragments on Mythological Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda-mythological-figures-rki-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Προσώπων* · `rki-aa`
+- [Fragments on Mythological Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-laranda-mythological-figures-rki-aa.grc.md) — *Ἀποσπάσματα περὶ Μυθικῶν Προσώπων* · `rki-aa`
 
 ## License and provenance
 

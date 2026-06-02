@@ -19,7 +19,7 @@ Numenius of Heraclea, Hellenistic poet writing in Homeric dialect. Surviving poe
 
 ## Works
 
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-heraclea-fragments-lnq-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `lnq-aa`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-heraclea-fragments-lnq-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `lnq-aa`
 
 ## License and provenance
 

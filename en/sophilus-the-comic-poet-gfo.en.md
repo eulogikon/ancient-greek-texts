@@ -19,8 +19,8 @@ Sophilos was a 4th century BCE Attic comic poet. Read surviving fragments from h
 
 ## Works
 
-- [Symposium and Gluttony Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-gluttony-gfo-aa.grc.md) — *Ἀποσπάσματα* · `gfo-aa`
-- [Symposium and Revelry Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-the-comic-poet-symposium-revelry-gfo-ab.grc.md) — *Ἀποσπάσματα* · `gfo-ab`
+- [Symposium and Gluttony Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-symposium-gluttony-gfo-aa.grc.md) — *Ἀποσπάσματα* · `gfo-aa`
+- [Symposium and Revelry Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophilus-symposium-revelry-gfo-ab.grc.md) — *Ἀποσπάσματα* · `gfo-ab`
 
 ## License and provenance
 

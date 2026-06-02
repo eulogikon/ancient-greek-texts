@@ -19,8 +19,8 @@ Lobon of Argos was a Hellenistic poet of the 3rd century BCE. Surviving works in
 
 ## Works
 
-- [Epigrams-Poets Before Alexandrian Age](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos-epigrams-before-alexandria-kza-aa.grc.md) — *Ἐπιγράμματα εἰς Ποιητὰς πρὸ τῆς Ἀλεξανδρινῆς* · `kza-aa`
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos-fragments-kza-ab.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `kza-ab`
+- [Epigrams-Poets Before Alexandrian Age](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-argos-epigrams-before-alexandria-kza-aa.grc.md) — *Ἐπιγράμματα εἰς Ποιητὰς πρὸ τῆς Ἀλεξανδρινῆς* · `kza-aa`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-argos-fragments-kza-ab.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `kza-ab`
 
 ## License and provenance
 

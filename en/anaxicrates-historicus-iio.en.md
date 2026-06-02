@@ -19,7 +19,7 @@ Anaxicrates Historicus, a Hellenistic historian of the 4th–3rd century BCE. Hi
 
 ## Works
 
-- [Argolic Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-historicus-argolic-histories-iio-aa.grc.md) — *Ἀποσπάσματα* · `iio-aa`
+- [Argolic Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-argolic-histories-iio-aa.grc.md) — *Ἀποσπάσματα* · `iio-aa`
 
 ## License and provenance
 

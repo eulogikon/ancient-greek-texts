@@ -19,8 +19,8 @@ Polykleitos of Argos, a 5th century BCE philosopher writing in Doric Greek. Two 
 
 ## Works
 
-- [Canon of Polykleitos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-canon-of-polykleitos-cqw-ab.grc.md) — *Ἀποσπάσματα* · `cqw-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos-testimonies-cqw-aa.grc.md) — *Μαρτυρίαι* · `cqw-aa`
+- [Canon of Polykleitos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-argos-canon-of-polykleitos-cqw-ab.grc.md) — *Ἀποσπάσματα* · `cqw-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-argos-testimonies-cqw-aa.grc.md) — *Μαρτυρίαι* · `cqw-aa`
 
 ## License and provenance
 

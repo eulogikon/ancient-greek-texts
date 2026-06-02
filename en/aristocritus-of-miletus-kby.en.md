@@ -19,7 +19,7 @@ Aristocritus of Miletus, a Hellenistic historian of the 3rd century BCE. Works i
 
 ## Works
 
-- [Fragments on Miletus and Its Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus-myths-kby-aa.grc.md) — *Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς* · `kby-aa`
+- [Fragments on Miletus and Its Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-miletus-myths-kby-aa.grc.md) — *Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς* · `kby-aa`
 
 ## License and provenance
 

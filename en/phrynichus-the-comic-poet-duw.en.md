@@ -19,9 +19,9 @@ Phrynichus, an Athenian comic playwright of the late 5th century BCE. Read his s
 
 ## Works
 
-- [Fragments on Domestic Strife](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-domestic-strife-duw-ac.grc.md) — *Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως* · `duw-ac`
-- [Fragments on Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-human-nature-duw-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως* · `duw-aa`
-- [Fragments on Misanthropy and Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet-misanthropy-satire-duw-ab.grc.md) — *Ἀποσπάσματα περὶ Μισανθρωπίας καὶ Σάτυρας* · `duw-ab`
+- [Fragments on Domestic Strife](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-athens-domestic-strife-duw-ac.grc.md) — *Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως* · `duw-ac`
+- [Fragments on Human Nature](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-athens-human-nature-duw-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀνθρωπίνης Φύσεως* · `duw-aa`
+- [Fragments on Misanthropy and Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-athens-misanthropy-satire-duw-ab.grc.md) — *Ἀποσπάσματα περὶ Μισανθρωπίας καὶ Σάτυρας* · `duw-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Nicias, Athenian general and statesman of the 5th century BCE. Surviving works i
 
 ## Works
 
-- [Athenian Expedition to Syracuse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-athens-expedition-syracuse-dkw-aa.grc.md) — *Ἐπιστολή* · `dkw-aa`
+- [Athenian Expedition to Syracuse](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-athens-expedition-syracuse-dkw-aa.grc.md) — *Ἐπιστολή* · `dkw-aa`
 
 ## License and provenance
 

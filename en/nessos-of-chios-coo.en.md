@@ -20,8 +20,8 @@ Nessos of Chios, a 5th century BCE Presocratic philosopher. Two surviving works 
 
 ## Works
 
-- [Fragments on Homeric Interpretation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-homeric-interpretation-coo-ab.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῆς Ἑρμηνείας* · `coo-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios-testimonies-coo-aa.grc.md) — *Μαρτυρίαι* · `coo-aa`
+- [Fragments on Homeric Interpretation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-chios-homeric-interpretation-coo-ab.grc.md) — *Ἀποσπάσματα περὶ Ὁμηρικῆς Ἑρμηνείας* · `coo-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-chios-testimonies-coo-aa.grc.md) — *Μαρτυρίαι* · `coo-aa`
 
 ## License and provenance
 

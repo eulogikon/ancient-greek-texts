@@ -19,7 +19,7 @@ Demetrius of Salamis, a 3rd century BCE historian writing in Koine Greek. His su
 
 ## Works
 
-- [Pamphylian Histories and Travels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis-histories-travels-fyq-aa.grc.md) — *Ἀποσπάσματα* · `fyq-aa`
+- [Pamphylian Histories and Travels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-salamis-histories-travels-fyq-aa.grc.md) — *Ἀποσπάσματα* · `fyq-aa`
 
 ## License and provenance
 

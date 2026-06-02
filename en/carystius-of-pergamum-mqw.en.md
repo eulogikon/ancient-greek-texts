@@ -19,7 +19,7 @@ Carystius of Pergamum, a 2nd century BCE historian. Surviving historical fragmen
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-of-pergamum-historical-fragments-mqw-aa.grc.md) — *Ἀποσπάσματα* · `mqw-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carystius-pergamum-historical-fragments-mqw-aa.grc.md) — *Ἀποσπάσματα* · `mqw-aa`
 
 ## License and provenance
 

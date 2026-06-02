@@ -19,7 +19,7 @@ Nicias of Nicaea was a Hellenistic historian of the 3rd century BCE. His survivi
 
 ## Works
 
-- [On the Arcadian Beauty Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea-arcadian-beauty-contest-lpo-aa.grc.md) — *Ἀπόσπασμα* · `lpo-aa`
+- [On the Arcadian Beauty Contest](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-nicaea-arcadian-beauty-contest-lpo-aa.grc.md) — *Ἀπόσπασμα* · `lpo-aa`
 
 ## License and provenance
 

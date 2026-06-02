@@ -19,8 +19,8 @@ Semonides of Amorgos, 7th century BCE Ionic poet. Fragments of his satirical and
 
 ## Works
 
-- [On the Uncertainty of Human Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-uncertainty-life-agy-ab.grc.md) — *Ἀποσπάσματα* · `agy-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos-testimonies-agy-aa.grc.md) — *Μαρτυρίαι* · `agy-aa`
+- [On the Uncertainty of Human Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-amorgos-uncertainty-life-agy-ab.grc.md) — *Ἀποσπάσματα* · `agy-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-amorgos-testimonies-agy-aa.grc.md) — *Μαρτυρίαι* · `agy-aa`
 
 ## License and provenance
 

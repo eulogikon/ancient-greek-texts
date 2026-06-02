@@ -19,7 +19,7 @@ Quintus of Smyrna, a late antique Greek epic poet continuing Homeric tradition. 
 
 ## Works
 
-- [Post-Homeric Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-of-smyrna-post-homeric-poem-ujg-aa.grc.md) — *τὰ μεθ᾿ Ὅμηρον* · `ujg-aa`
+- [Post-Homeric Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/quintus-smyrna-post-homeric-poem-ujg-aa.grc.md) — *τὰ μεθ᾿ Ὅμηρον* · `ujg-aa`
 
 ## License and provenance
 

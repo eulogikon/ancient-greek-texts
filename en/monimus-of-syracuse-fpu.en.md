@@ -20,7 +20,7 @@ Monimus of Syracuse, a 4th century BCE Cynic philosopher. Surviving fragments of
 
 ## Works
 
-- [Cynic Maxims and Sayings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-of-syracuse-maxims-sayings-fpu-aa.grc.md) — *Ἀποσπάσματα* · `fpu-aa`
+- [Cynic Maxims and Sayings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/monimus-syracuse-maxims-sayings-fpu-aa.grc.md) — *Ἀποσπάσματα* · `fpu-aa`
 
 ## License and provenance
 

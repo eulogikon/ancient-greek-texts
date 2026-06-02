@@ -19,7 +19,7 @@ Dionysius of Rhodes, a Hellenistic historian. Surviving fragments of his histori
 
 ## Works
 
-- [Cyclical History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes-cyclical-history-mki-aa.grc.md) — *Ἀποσπάσματα* · `mki-aa`
+- [Cyclical History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-rhodes-cyclical-history-mki-aa.grc.md) — *Ἀποσπάσματα* · `mki-aa`
 
 ## License and provenance
 

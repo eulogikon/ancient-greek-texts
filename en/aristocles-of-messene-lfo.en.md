@@ -20,7 +20,7 @@ Aristocles of Messene was a Hellenistic Peripatetic philosopher. Treatises in At
 
 ## Works
 
-- [Fragments on the Nature of Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene-nature-wisdom-lfo-aa.grc.md) — *Ἀποσπάσματα περὶ Σοφίας* · `lfo-aa`
+- [Fragments on the Nature of Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-messene-nature-wisdom-lfo-aa.grc.md) — *Ἀποσπάσματα περὶ Σοφίας* · `lfo-aa`
 
 ## License and provenance
 

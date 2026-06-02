@@ -19,8 +19,8 @@ Euphro of Sicyon, a 5th century BCE comic poet. Two surviving fragmentary works 
 
 ## Works
 
-- [Fragments on Cooks and Deceit](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-cooks-deceit-ery-ab.grc.md) — *Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης* · `ery-ab`
-- [Seven Gastronomic Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon-seven-gastronomic-sages-ery-aa.grc.md) — *Ἀποσπάσματα* · `ery-aa`
+- [Fragments on Cooks and Deceit](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-sicyon-cooks-deceit-ery-ab.grc.md) — *Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης* · `ery-ab`
+- [Seven Gastronomic Sages](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-sicyon-seven-gastronomic-sages-ery-aa.grc.md) — *Ἀποσπάσματα* · `ery-aa`
 
 ## License and provenance
 

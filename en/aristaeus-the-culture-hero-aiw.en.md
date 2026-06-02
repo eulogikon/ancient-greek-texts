@@ -19,7 +19,7 @@ Aristaeus the Culture Hero, 7th century BCE Greek philosophical figure. Survivin
 
 ## Works
 
-- [On Harmony and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero-harmony-cosmos-aiw-aa.grc.md) — *Ἀποσπάσματα* · `aiw-aa`
+- [On Harmony and the Cosmos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-harmony-cosmos-aiw-aa.grc.md) — *Ἀποσπάσματα* · `aiw-aa`
 
 ## License and provenance
 

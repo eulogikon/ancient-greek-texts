@@ -19,7 +19,7 @@ Cleitarchus, a Hellenistic historian of 4th century BCE. Surviving historical wo
 
 ## Works
 
-- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian-text-hyo-aa.grc.md) — *Γνῶμαι* · `hyo-aa`
+- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-text-hyo-aa.grc.md) — *Γνῶμαι* · `hyo-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Philo of Alexandria, a Hellenistic epic poet of the 1st century BCE. Works inclu
 
 ## Works
 
-- [Fragments on Abraham and Patriarchs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria-the-elder-abraham-patriarchs-mcq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Πατριαρχῶν* · `mcq-aa`
+- [Fragments on Abraham and Patriarchs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-alexandria-abraham-patriarchs-mcq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀβραὰμ καὶ τῶν Πατριαρχῶν* · `mcq-aa`
 
 ## License and provenance
 

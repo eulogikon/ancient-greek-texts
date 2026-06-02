@@ -20,17 +20,17 @@ John Philoponus, 6th century Christian philosopher and scholar. Philosophical an
 
 ## Works
 
-- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah.grc.md) — *Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους* · `uxc-ah`
-- [Commentary on On Generation and Corruption](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al.grc.md) — *Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς* · `uxc-al`
-- [Commentary on the Categories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uxc-ai`
-- [Commentary on the Prior Analytics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-aristotle-aj-uxc-aj.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους* · `uxc-aj`
-- [On Aristotle's Books-the Soul, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-on-soul-commentary-uxc-ad.grc.md) — *Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους* · `uxc-ad`
-- [On Aristotle's Meteorology Book I. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-meteorology-commentary-uxc-ac.grc.md) — *Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους,* · `uxc-ac`
-- [On Aristotle's Physics Books, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-commentary-physics-uxc-ag.grc.md) — *Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους* · `uxc-ag`
-- [On Aristotle's Posterior Analytics, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-posterior-analytics-commentary-uxc-ab.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ ὕστερα Ἀριστοτέλους* · `uxc-ab`
-- [On the Creation of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-creation-world-uxc-am.grc.md) — *Περὶ τῆς τοῦ κόσμου δημιουργίας* · `uxc-am`
-- [On the Eternity of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-eternity-world-uxc-an.grc.md) — *Περὶ τῆς τοῦ κόσμου ἀϊδιότητος* · `uxc-an`
-- [On the Use and Construction of the Astrolabe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria-astrolabe-use-construction-uxc-ae.grc.md) — *Περὶ τῆς χρήσεως καὶ κατασκευῆς τοῦ ἀστρολάβου* · `uxc-ae`
+- [Commentaries-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-commentaries-aristotle-uxc-ah.grc.md) — *Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους* · `uxc-ah`
+- [Commentary on On Generation and Corruption](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-commentary-aristotle-uxc-al.grc.md) — *Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς* · `uxc-al`
+- [Commentary on the Categories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-commentary-aristotle-uxc-ai.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uxc-ai`
+- [Commentary on the Prior Analytics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-commentary-aristotle-uxc-aj.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους* · `uxc-aj`
+- [On Aristotle's Books-the Soul, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-on-soul-commentary-uxc-ad.grc.md) — *Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους* · `uxc-ad`
+- [On Aristotle's Meteorology Book I. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-meteorology-commentary-uxc-ac.grc.md) — *Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους,* · `uxc-ac`
+- [On Aristotle's Physics Books, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-commentary-physics-uxc-ag.grc.md) — *Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους* · `uxc-ag`
+- [On Aristotle's Posterior Analytics, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-posterior-analytics-commentary-uxc-ab.grc.md) — *Σχόλια εἰς τὰ ἀναλυτικὰ ὕστερα Ἀριστοτέλους* · `uxc-ab`
+- [On the Creation of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-creation-world-uxc-am.grc.md) — *Περὶ τῆς τοῦ κόσμου δημιουργίας* · `uxc-am`
+- [On the Eternity of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-eternity-world-uxc-an.grc.md) — *Περὶ τῆς τοῦ κόσμου ἀϊδιότητος* · `uxc-an`
+- [On the Use and Construction of the Astrolabe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae.grc.md) — *Περὶ τῆς χρήσεως καὶ κατασκευῆς τοῦ ἀστρολάβου* · `uxc-ae`
 
 ## License and provenance
 

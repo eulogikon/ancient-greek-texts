@@ -19,10 +19,10 @@ Antimachus of Colophon, a 5th century BCE Greek poet. Read surviving fragments o
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-epigram-ehe-ad.grc.md) — *Ἐπίγραμμα* · `ehe-ad`
-- [Fragments of the Thebaid](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebaid-fragments-ehe-ab.grc.md) — *Ἀποσπάσματα τῆς Θηβαΐδος* · `ehe-ab`
-- [Fragments on Myth and Ships](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-myth-ships-ehe-aa.grc.md) — *Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν* · `ehe-aa`
-- [Fragments on Thebes and Titans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon-thebes-titans-ehe-ac.grc.md) — *Ἀποσπάσματα περὶ Θηβῶν καὶ Τιτάνων* · `ehe-ac`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-colophon-epigram-ehe-ad.grc.md) — *Ἐπίγραμμα* · `ehe-ad`
+- [Fragments of the Thebaid](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-colophon-thebaid-fragments-ehe-ab.grc.md) — *Ἀποσπάσματα τῆς Θηβαΐδος* · `ehe-ab`
+- [Fragments on Myth and Ships](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-colophon-myth-ships-ehe-aa.grc.md) — *Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν* · `ehe-aa`
+- [Fragments on Thebes and Titans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-colophon-thebes-titans-ehe-ac.grc.md) — *Ἀποσπάσματα περὶ Θηβῶν καὶ Τιτάνων* · `ehe-ac`
 
 ## License and provenance
 

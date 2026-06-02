@@ -19,8 +19,8 @@ Ptolemy of Ascalon was a 2nd century BCE grammarian. Two grammatical treatises a
 
 ## Works
 
-- [On the Difference of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-oyc-ab.grc.md) — *Περὶ διαφορᾶς* · `oyc-ab`
-- [On the Difference of Words by Element](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon-difference-words-element-oyc-aa.grc.md) — *Περὶ διαφορᾶς λέξεων* · `oyc-aa`
+- [On the Difference of Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-ascalon-difference-words-oyc-ab.grc.md) — *Περὶ διαφορᾶς* · `oyc-ab`
+- [On the Difference of Words by Element](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-ascalon-difference-words-element-oyc-aa.grc.md) — *Περὶ διαφορᾶς λέξεων* · `oyc-aa`
 
 ## License and provenance
 

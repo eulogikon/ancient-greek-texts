@@ -19,7 +19,7 @@ Moschion was a Hellenistic tragic poet of the 2nd century CE. Surviving fragment
 
 ## Works
 
-- [Fragments on Human Progress](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet-human-progress-jme-aa.grc.md) — *Ἀποσπάσματα περὶ Προκοπῆς Ἀνθρώπων* · `jme-aa`
+- [Fragments on Human Progress](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-human-progress-jme-aa.grc.md) — *Ἀποσπάσματα περὶ Προκοπῆς Ἀνθρώπων* · `jme-aa`
 
 ## License and provenance
 

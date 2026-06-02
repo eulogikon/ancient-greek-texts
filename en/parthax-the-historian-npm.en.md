@@ -19,7 +19,7 @@ Parthax the Historian, a Roman era historian writing in Koine Greek. Historical 
 
 ## Works
 
-- [Fragments of Italian Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthax-the-historian-italian-geography-npm-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Γεωγραφίας* · `npm-aa`
+- [Fragments of Italian Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthax-italian-geography-npm-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Γεωγραφίας* · `npm-aa`
 
 ## License and provenance
 

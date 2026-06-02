@@ -19,7 +19,7 @@ Agaclytus, Roman era historian writing in Koine Greek. Surviving historical work
 
 ## Works
 
-- [On the Olympic Dedications](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-the-historian-olympic-dedications-qjk-aa.grc.md) — *Ἀπόσπασμα* · `qjk-aa`
+- [On the Olympic Dedications](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agaclytus-olympic-dedications-qjk-aa.grc.md) — *Ἀπόσπασμα* · `qjk-aa`
 
 ## License and provenance
 

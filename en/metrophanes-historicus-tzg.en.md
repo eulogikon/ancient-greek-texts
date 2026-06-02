@@ -19,7 +19,7 @@ Metrophanes Historicus, a late antique historian of the 3rd–4th century CE. Hi
 
 ## Works
 
-- [On the Fertility of Phrygia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus-fertility-phrygia-tzg-aa.grc.md) — *Ἀπόσπασμα* · `tzg-aa`
+- [On the Fertility of Phrygia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-fertility-phrygia-tzg-aa.grc.md) — *Ἀπόσπασμα* · `tzg-aa`
 
 ## License and provenance
 

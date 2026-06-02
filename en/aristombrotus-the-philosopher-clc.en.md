@@ -20,7 +20,7 @@ Aristombrotus, a 4th-century BCE Peripatetic philosopher. One surviving philosop
 
 ## Works
 
-- [On Vision and Light](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-the-philosopher-vision-light-clc-aa.grc.md) — *Ἀπόσπασμα* · `clc-aa`
+- [On Vision and Light](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-vision-light-clc-aa.grc.md) — *Ἀπόσπασμα* · `clc-aa`
 
 ## License and provenance
 

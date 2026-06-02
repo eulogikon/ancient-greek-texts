@@ -19,8 +19,8 @@ Hedylus of Samos, a Hellenistic poet of the 3rd century BCE. Includes epigrams a
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-epigrams-jug-ab.grc.md) — *Ἐπιγράμματα* · `jug-ab`
-- [Fragment and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos-fragments-jug-aa.grc.md) — *Ἀπόσπασμα καὶ Τίτλος* · `jug-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-samos-epigrams-jug-ab.grc.md) — *Ἐπιγράμματα* · `jug-ab`
+- [Fragment and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-samos-fragments-jug-aa.grc.md) — *Ἀπόσπασμα καὶ Τίτλος* · `jug-aa`
 
 ## License and provenance
 

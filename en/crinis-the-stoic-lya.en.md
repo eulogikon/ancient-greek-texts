@@ -20,7 +20,7 @@ Crinis was a Hellenistic Stoic philosopher and disciple of Chrysippus. Surviving
 
 ## Works
 
-- [Fragments on Stoic Logic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic-logic-fragments-lya-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς* · `lya-aa`
+- [Fragments on Stoic Logic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-stoic-logic-fragments-lya-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς* · `lya-aa`
 
 ## License and provenance
 

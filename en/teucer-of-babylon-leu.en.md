@@ -19,8 +19,8 @@ Teucer of Babylon was a Hellenistic astrologer and scientist. Two surviving tech
 
 ## Works
 
-- [On the Rising Stars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-rising-stars-leu-aa.grc.md) — *Περὶ τῶν ἀνατελλόντων ἀστέρων* · `leu-aa`
-- [On the Twelve Signs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon-twelve-signs-leu-ab.grc.md) — *Περὶ τῶν δώδεκα σημείων* · `leu-ab`
+- [On the Rising Stars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-babylon-rising-stars-leu-aa.grc.md) — *Περὶ τῶν ἀνατελλόντων ἀστέρων* · `leu-aa`
+- [On the Twelve Signs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-babylon-twelve-signs-leu-ab.grc.md) — *Περὶ τῶν δώδεκα σημείων* · `leu-ab`
 
 ## License and provenance
 

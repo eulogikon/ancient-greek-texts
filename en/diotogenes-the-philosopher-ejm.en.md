@@ -20,7 +20,7 @@ Diotogenes, a Pythagorean philosopher of uncertain date. Surviving treatise On K
 
 ## Works
 
-- [On Kingship and Rule](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher-kingship-rule-ejm-aa.grc.md) — *Ἀποσπάσματα* · `ejm-aa`
+- [On Kingship and Rule](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-kingship-rule-ejm-aa.grc.md) — *Ἀποσπάσματα* · `ejm-aa`
 
 ## License and provenance
 

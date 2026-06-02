@@ -19,7 +19,7 @@ Diotimus of Adramyttium, Hellenistic epic poet of the 3rd century BCE. Homeric v
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium-epigrams-jxs-aa.grc.md) — *Ἐπιγράμματα* · `jxs-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-adramyttium-epigrams-jxs-aa.grc.md) — *Ἐπιγράμματα* · `jxs-aa`
 
 ## License and provenance
 

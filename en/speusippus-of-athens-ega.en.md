@@ -20,9 +20,9 @@ Speusippus succeeded Plato as head of the Academy. Surviving fragments include p
 
 ## Works
 
-- [Fragments on Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-philosophers-ega-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλοσόφων* · `ega-ab`
-- [Letter to King Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-king-philip-ega-aa.grc.md) — *Πρὸς Φίλιππον βασιλέα* · `ega-aa`
-- [Letters to Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens-letters-philip-ega-ac.grc.md) — *Ἐπιστολαὶ πρὸς Φίλιππον* · `ega-ac`
+- [Fragments on Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-athens-philosophers-ega-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλοσόφων* · `ega-ab`
+- [Letter to King Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-athens-king-philip-ega-aa.grc.md) — *Πρὸς Φίλιππον βασιλέα* · `ega-aa`
+- [Letters to Philip](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-athens-letters-philip-ega-ac.grc.md) — *Ἐπιστολαὶ πρὸς Φίλιππον* · `ega-ac`
 
 ## License and provenance
 

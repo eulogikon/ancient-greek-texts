@@ -19,7 +19,7 @@ Parrhasius of Ephesus was a classical Ionic elegiac poet of the late 5th century
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-of-ephesus-epigrams-ewe-aa.grc.md) — *Ἐπιγράμματα* · `ewe-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parrhasius-ephesus-epigrams-ewe-aa.grc.md) — *Ἐπιγράμματα* · `ewe-aa`
 
 ## License and provenance
 

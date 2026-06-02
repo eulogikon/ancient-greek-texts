@@ -19,7 +19,7 @@ Aeschylus of Alexandria, a Hellenistic poet of the 2nd century BCE. Surviving wo
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria-testimony-mjy-aa.grc.md) — *Μαρτυρία* · `mjy-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-alexandria-testimony-mjy-aa.grc.md) — *Μαρτυρία* · `mjy-aa`
 
 ## License and provenance
 

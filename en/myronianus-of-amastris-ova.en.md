@@ -19,7 +19,7 @@ Myronianus of Amastris was a Roman era historian writing in Koine Greek. Survivi
 
 ## Works
 
-- [Historical Parallels and Anecdotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris-historical-parallels-ova-aa.grc.md) — *Ἀποσπάσματα* · `ova-aa`
+- [Historical Parallels and Anecdotes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-amastris-historical-parallels-ova-aa.grc.md) — *Ἀποσπάσματα* · `ova-aa`
 
 ## License and provenance
 

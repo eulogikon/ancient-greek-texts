@@ -19,8 +19,8 @@ Mnaseas of Patara was a Hellenistic geographer. Fragments of his geographical wo
 
 ## Works
 
-- [Fragments on Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-kpu-aa.grc.md) — *Ἀποσπάσματα περὶ Εὐρώπης* · `kpu-aa`
-- [Fragments on Europe and Judea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara-europe-judea-kpu-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐρώπης καὶ Ἰουδαίας* · `kpu-ab`
+- [Fragments on Europe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-patara-europe-kpu-aa.grc.md) — *Ἀποσπάσματα περὶ Εὐρώπης* · `kpu-aa`
+- [Fragments on Europe and Judea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-patara-europe-judea-kpu-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐρώπης καὶ Ἰουδαίας* · `kpu-ab`
 
 ## License and provenance
 

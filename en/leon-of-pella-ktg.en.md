@@ -19,7 +19,7 @@ Leon of Pella, a 4th century BCE Hellenistic historian. Surviving works include 
 
 ## Works
 
-- [On the Egyptian Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-of-pella-egyptian-gods-ktg-aa.grc.md) — *Ἀποσπάσματα* · `ktg-aa`
+- [On the Egyptian Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-pella-egyptian-gods-ktg-aa.grc.md) — *Ἀποσπάσματα* · `ktg-aa`
 
 ## License and provenance
 

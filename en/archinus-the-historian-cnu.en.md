@@ -19,7 +19,7 @@ Archinus the Historian, a Greek historian of the 4th–2nd century BCE. Survivin
 
 ## Works
 
-- [Thessalian Geography and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-the-historian-geography-myths-cnu-aa.grc.md) — *Ἀποσπάσματα* · `cnu-aa`
+- [Thessalian Geography and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archinus-geography-myths-cnu-aa.grc.md) — *Ἀποσπάσματα* · `cnu-aa`
 
 ## License and provenance
 

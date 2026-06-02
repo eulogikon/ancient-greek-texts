@@ -19,8 +19,8 @@ Stesichorus, Archaic Greek lyric poet of the 7th-6th century BCE. Contains his c
 
 ## Works
 
-- [Fragments of the Geryoneis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-geryoneis-ams-aa.grc.md) — *Ἀποσπάσματα τῆς Γηρυονηΐδος* · `ams-aa`
-- [Fragments on the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-of-metauros-hesperides-ams-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑσπερίδων* · `ams-ab`
+- [Fragments of the Geryoneis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-metauros-geryoneis-ams-aa.grc.md) — *Ἀποσπάσματα τῆς Γηρυονηΐδος* · `ams-aa`
+- [Fragments on the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesichorus-metauros-hesperides-ams-ab.grc.md) — *Ἀποσπάσματα περὶ Ἑσπερίδων* · `ams-ab`
 
 ## License and provenance
 

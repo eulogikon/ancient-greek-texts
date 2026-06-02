@@ -19,7 +19,7 @@ Pappus the Alchemist, a late antique Greco-Egyptian alchemical writer. His treat
 
 ## Works
 
-- [Pappus the Philosopher Oath](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-the-alchemist-oath-sei-aa.grc.md) — *Πάππου φιλοσόφου ὅρκος* · `sei-aa`
+- [Pappus the Philosopher Oath](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pappus-oath-sei-aa.grc.md) — *Πάππου φιλοσόφου ὅρκος* · `sei-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Mnesimachus was a 4th century BCE Attic comic poet. Fragments from his comedies 
 
 ## Works
 
-- [Fragments on Pythagorean Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet-pythagorean-dining-fpk-ab.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Συμποσίας* · `fpk-ab`
-- [Fragments on Pythagorean Sacrifice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet-pythagorean-sacrifice-fpk-aa.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Θυσίας* · `fpk-aa`
+- [Fragments on Pythagorean Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-pythagorean-dining-fpk-ab.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Συμποσίας* · `fpk-ab`
+- [Fragments on Pythagorean Sacrifice](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-pythagorean-sacrifice-fpk-aa.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Θυσίας* · `fpk-aa`
 
 ## License and provenance
 

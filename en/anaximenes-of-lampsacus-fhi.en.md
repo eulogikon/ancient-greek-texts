@@ -19,9 +19,9 @@ Anaximenes of Lampsacus, 4th century BCE historian and rhetorician. Historical a
 
 ## Works
 
-- [Historical and Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-historical-rhetorical-fhi-ac.grc.md) — *Ἀποσπάσματα* · `fhi-ac`
-- [Rhetoric to Alexander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-rhetoric-alexander-fhi-aa.grc.md) — *Τέχνη Ῥητορικὴ πρὸς Ἀλέξανδρον* · `fhi-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-of-lampsacus-testimonies-fhi-ab.grc.md) — *Μαρτυρίαι* · `fhi-ab`
+- [Historical and Rhetorical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-lampsacus-historical-rhetorical-fhi-ac.grc.md) — *Ἀποσπάσματα* · `fhi-ac`
+- [Rhetoric to Alexander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-lampsacus-rhetoric-alexander-fhi-aa.grc.md) — *Τέχνη Ῥητορικὴ πρὸς Ἀλέξανδρον* · `fhi-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximenes-lampsacus-testimonies-fhi-ab.grc.md) — *Μαρτυρίαι* · `fhi-ab`
 
 ## License and provenance
 

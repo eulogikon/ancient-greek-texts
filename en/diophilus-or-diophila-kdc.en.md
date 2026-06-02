@@ -19,7 +19,7 @@ Diophilus or Diophila, a Hellenistic poet from the 3rd century BCE. Poetic fragm
 
 ## Works
 
-- [Fragments on Celestial Bodies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila-celestial-bodies-kdc-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Οὐρανίων* · `kdc-aa`
+- [Fragments on Celestial Bodies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-celestial-bodies-kdc-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Οὐρανίων* · `kdc-aa`
 
 ## License and provenance
 

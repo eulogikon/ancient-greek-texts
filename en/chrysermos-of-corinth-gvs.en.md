@@ -19,7 +19,7 @@ Chrysermos of Corinth was a 4th century BCE historian. Surviving fragments of hi
 
 ## Works
 
-- [Peloponnesian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth-historical-fragments-gvs-aa.grc.md) — *Ἀποσπάσματα* · `gvs-aa`
+- [Peloponnesian Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-corinth-historical-fragments-gvs-aa.grc.md) — *Ἀποσπάσματα* · `gvs-aa`
 
 ## License and provenance
 

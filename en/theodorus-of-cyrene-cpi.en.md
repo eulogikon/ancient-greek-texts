@@ -19,7 +19,7 @@ Theodorus of Cyrene, a 5th century BCE mathematician. Surviving mathematical wor
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-of-cyrene-testimonies-cpi-aa.grc.md) — *Μαρτυρίαι* · `cpi-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodorus-cyrene-testimonies-cpi-aa.grc.md) — *Μαρτυρίαι* · `cpi-aa`
 
 ## License and provenance
 

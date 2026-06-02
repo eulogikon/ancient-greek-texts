@@ -19,8 +19,8 @@ Erotianus, a 1st century CE grammarian of ancient medical vocabulary. Works on H
 
 ## Works
 
-- [Collection of Hippocratic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-hippocratic-words-nzc-aa.grc.md) — *Συναγωγὴ Ἱπποκρατικῶν Λέξεων* · `nzc-aa`
-- [Medical Lexicon Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian-medical-lexicon-nzc-ab.grc.md) — *Ἀποσπάσματα* · `nzc-ab`
+- [Collection of Hippocratic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-hippocratic-words-nzc-aa.grc.md) — *Συναγωγὴ Ἱπποκρατικῶν Λέξεων* · `nzc-aa`
+- [Medical Lexicon Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-medical-lexicon-nzc-ab.grc.md) — *Ἀποσπάσματα* · `nzc-ab`
 
 ## License and provenance
 

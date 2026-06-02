@@ -19,7 +19,7 @@ Philodamus of Scarpheia was a 4th century BCE Attic lyric poet. His surviving wo
 
 ## Works
 
-- [Paean to Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia-paean-dionysus-hdk-aa.grc.md) — *Παιὰν πρὸς Διόνυσον* · `hdk-aa`
+- [Paean to Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-scarpheia-paean-dionysus-hdk-aa.grc.md) — *Παιὰν πρὸς Διόνυσον* · `hdk-aa`
 
 ## License and provenance
 

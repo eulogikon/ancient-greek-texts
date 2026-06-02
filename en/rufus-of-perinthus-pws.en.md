@@ -19,7 +19,7 @@ Rufus of Perinthus, a 2nd century CE Roman orator in Koine Greek. One surviving 
 
 ## Works
 
-- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-perinthus-rhetoric-pws-aa.grc.md) — *Ῥητορικὴ Τέχνη* · `pws-aa`
+- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-perinthus-rhetoric-pws-aa.grc.md) — *Ῥητορικὴ Τέχνη* · `pws-aa`
 
 ## License and provenance
 

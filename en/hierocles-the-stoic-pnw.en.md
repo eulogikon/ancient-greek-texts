@@ -20,9 +20,9 @@ Hierocles, a 2nd century CE Stoic philosopher. Surviving works include ethical f
 
 ## Works
 
-- [Ethical Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-elements-pnw-ac.grc.md) — *Ἠθικὴ στοιχείωσις* · `pnw-ac`
-- [Ethical Fragments from Stobaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-ethical-fragments-pnw-aa.grc.md) — *Ἠθικὰ Ἀποσπάσματα ἐκ Στοβαίου* · `pnw-aa`
-- [Fragments from Suda](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic-fragments-pnw-ab.grc.md) — *Ἀποσπάσματα ἐκ Σοῦδας* · `pnw-ab`
+- [Ethical Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-stoic-ethical-elements-pnw-ac.grc.md) — *Ἠθικὴ στοιχείωσις* · `pnw-ac`
+- [Ethical Fragments from Stobaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-stoic-ethical-fragments-pnw-aa.grc.md) — *Ἠθικὰ Ἀποσπάσματα ἐκ Στοβαίου* · `pnw-aa`
+- [Fragments from Suda](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-stoic-fragments-pnw-ab.grc.md) — *Ἀποσπάσματα ἐκ Σοῦδας* · `pnw-ab`
 
 ## License and provenance
 

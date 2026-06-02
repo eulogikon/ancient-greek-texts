@@ -19,7 +19,7 @@ Heraclitus the Paradoxographer, Roman era writer of the 2nd century CE. Work On 
 
 ## Works
 
-- [On Incredible Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-the-paradoxographer-incredible-things-qfo-aa.grc.md) — *Περὶ Ἀπίστων* · `qfo-aa`
+- [On Incredible Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-paradoxographer-incredible-things-qfo-aa.grc.md) — *Περὶ Ἀπίστων* · `qfo-aa`
 
 ## License and provenance
 

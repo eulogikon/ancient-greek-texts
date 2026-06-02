@@ -20,11 +20,11 @@ Critias, Athenian aristocrat and sophist of the 5th century BCE. Philosophical a
 
 ## Works
 
-- [Fragments on Anacreon and Cotabus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-anacreon-cotabus-bzo-ae.grc.md) — *Ἀποσπάσματα περὶ Ἀνακρέοντος καὶ Κοτάβου* · `bzo-ae`
-- [Heracles in the Underworld](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-heracles-underworld-bzo-ac.grc.md) — *Ἀποσπάσματα* · `bzo-ac`
-- [Inventions and Praises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-inventions-praises-bzo-ad.grc.md) — *Ἀποσπάσματα* · `bzo-ad`
-- [Pirithous, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-pirithous-bzo-aa.grc.md) — *Πειρίθους Ἀποσπάσματα* · `bzo-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens-testimonies-bzo-ab.grc.md) — *Μαρτυρίαι* · `bzo-ab`
+- [Fragments on Anacreon and Cotabus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-athens-anacreon-cotabus-bzo-ae.grc.md) — *Ἀποσπάσματα περὶ Ἀνακρέοντος καὶ Κοτάβου* · `bzo-ae`
+- [Heracles in the Underworld](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-athens-heracles-underworld-bzo-ac.grc.md) — *Ἀποσπάσματα* · `bzo-ac`
+- [Inventions and Praises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-athens-inventions-praises-bzo-ad.grc.md) — *Ἀποσπάσματα* · `bzo-ad`
+- [Pirithous, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-athens-pirithous-bzo-aa.grc.md) — *Πειρίθους Ἀποσπάσματα* · `bzo-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-athens-testimonies-bzo-ab.grc.md) — *Μαρτυρίαι* · `bzo-ab`
 
 ## License and provenance
 

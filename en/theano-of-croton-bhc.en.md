@@ -20,7 +20,7 @@ Theano of Croton, a 6th century BCE Pythagorean philosopher. Her surviving fragm
 
 ## Works
 
-- [Pythagorean Teachings and Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton-teachings-letters-bhc-aa.grc.md) — *Ἀποσπάσματα* · `bhc-aa`
+- [Pythagorean Teachings and Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-croton-teachings-letters-bhc-aa.grc.md) — *Ἀποσπάσματα* · `bhc-aa`
 
 ## License and provenance
 

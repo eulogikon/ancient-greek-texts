@@ -19,7 +19,7 @@ Menophilus the Poet, a Hellenistic or Imperial era Greek poet. Surviving fragmen
 
 ## Works
 
-- [Fragments on Divine Vision](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet-divine-vision-gao-aa.grc.md) — *Ἀποσπάσματα περὶ Θείας Ὄψεως* · `gao-aa`
+- [Fragments on Divine Vision](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-divine-vision-gao-aa.grc.md) — *Ἀποσπάσματα περὶ Θείας Ὄψεως* · `gao-aa`
 
 ## License and provenance
 

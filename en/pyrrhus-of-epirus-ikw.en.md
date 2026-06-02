@@ -19,7 +19,7 @@ Pyrrhus of Epirus, Hellenistic king and commander of the 3rd century BCE. Histor
 
 ## Works
 
-- [Pyrrhus's Royal Memoirs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus-royal-memoirs-ikw-aa.grc.md) — *Ἀποσπάσματα* · `ikw-aa`
+- [Pyrrhus's Royal Memoirs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-epirus-royal-memoirs-ikw-aa.grc.md) — *Ἀποσπάσματα* · `ikw-aa`
 
 ## License and provenance
 

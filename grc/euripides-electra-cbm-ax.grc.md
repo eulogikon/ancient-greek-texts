@@ -30,6 +30,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Ὦ γῆς παλαιὸν Ἄργος, Ἰνάχου ῥοαί,
 
+*[crux: παλαιὸν Ἄργος]*
+
 ### 1.2
 
 ὅθεν ποτ’ ἄρας ναυσὶ χιλίαις Ἄρη
@@ -578,6 +580,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἰαχὰν ἀοιδὰν μέλος
 
+*[crux: ἰαχὰν]*
+
 ### 143.1
 
 Ἀίδα, πάτερ, σοὶ
@@ -649,6 +653,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 160.2
 
 σᾶς, πάτερ, πικρᾶς δ’ ἐκ
+
+*[crux: ἐκ]*
 
 ### 161.1
 
@@ -1093,6 +1099,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 275.3
 
 Ηλ. τολμῶν ὑπ’ ἐχθρῶν οἷ’ ἐτολμήθη πατήρ.
+
+*[crux: πατήρ]*
 
 ### 275.4
 
@@ -1626,6 +1634,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κέλευε δ’ αὐτὸν τόνδ’ ἐς δόμους ἀφιγμένον
 
+*[crux: αὐτὸν τόνδ’ ἐς δόμους ἀφιγμένον]*
+
 ### 410.5
 
 ἐλθεῖν ξένιά τ’ ἐς δαῖτα πορσῦναί τινα.
@@ -1762,6 +1772,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κόρας μάτευσ’ ἔνθα πατὴρ
 
+*[crux: κόρας μάτευσ’]*
+
 ### 445.5
 
 ἱππότας τρέφεν Ἑλλάδι φῶς Θέτιδος εἰναλίας γόνον
@@ -1790,9 +1802,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τοιάδε σήματα δείματα
 
+*[crux: δείματα]*
+
 ### 455.3
 
 Φρύγια τετύχθαι·
+
+*[crux: τετύχθαι]*
 
 ### 455.4
 
@@ -1830,9 +1846,13 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Πλειάδες Ὑάδες, Ἕκτορος
 
+*[crux: Ἕκτορος]*
+
 ### 465.4
 
 ὄμμασι τροπαῖοι·
+
+*[crux: τροπαῖοι]*
 
 ### 470.1
 
@@ -2125,6 +2145,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 545.2
 
 ἐκείρατ’ ἢ τῆσδε σκοποὺς λαβὼν χθονός. Πρ. οἱ δὲ ξένοι ποῦ; βούλομαι γὰρ εἰσιδὼν
+
+*[crux: ἐκείρατ’ ἢ τῆσδε σκοποὺς λαβὼν χθονός]*
 
 ### 545.3
 
@@ -2554,6 +2576,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Πρ. πόθεν; τί δ’ αὐτῆι σοῦ μέλειν δοκεῖς, τέκνον;
 
+*[crux: τί δ’]*
+
 ### 655.4
 
 Ηλ. ναί· καὶ δακρύσει γ’ ἀξίωμ’ ἐμῶν τόκων.
@@ -2718,6 +2742,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Χο. ἀταλᾶς ὑπὸ ματέρος Ἀργείων ὀρέων ποτὲ κληδὼν
 
+*[crux: ματέρος Ἀργείων]*
+
 ### 695.5
 
 ἐν πολιαῖσι μένει φήμαις
@@ -2762,6 +2788,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 φάσματα δείματα.
 
+*[crux: δείματα]*
+
 ### 710.3
 
 χοροὶ δ’ Ἀτρειδῶν ἐγέραιρον οἴκους.
@@ -2793,6 +2821,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 715.5
 
 χρυσέας ἀρνὸς ἐπίλογοι
+
+*[crux: ἐπίλογοι]*
 
 ### 720.1
 
@@ -3454,6 +3484,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Αἴγισθον· ὡς δὲ τῶι σάφ’ εἰδέναι τάδε
 
+*[crux: ὡς]*
+
 ### 895.1
 
 προσθῶμεν, αὐτὸν τὸν θανόντα σοι φέρω,
@@ -3798,6 +3830,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ὧι καὶ πόσιν καθεῖλεν Αἴγισθον κτανών;
 
+*[crux: Αἴγισθον κτανών]*
+
 ### 985.1
 
 Ορ. ἔσειμι· δεινοῦ δ’ ἄρχομαι προβήματος,
@@ -3849,6 +3883,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 995.2
 
 τὰς σὰς δὲ τύχας θεραπεύεσθαι καιρός, ὦ βασίλεια.
+
+*[crux: καιρός, ὦ βασίλεια]*
 
 ### 995.3
 
@@ -4093,6 +4129,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1055.5
 
 Κλ. οὐκ ἔστι, τῆι σῆι δ’ ἡδὺ προσθήσω φρενί.
+
+*[crux: οὐκ ἔστι, τῆι σῆι δ’ ἡδὺ προσθήσω φρενί]*
 
 ### 1060.1
 
@@ -4478,6 +4516,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ξυθήκτωι βέλους ἔκανεν αὐτόχειρ,
 
+*[crux: βέλους ἔκανεν]*
+
 ### 1160.1
 
 πέλεκυν ἐν χεροῖν λαβοῦς’. ὦ τλάμων
@@ -4566,6 +4606,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 χθονὶ κείμενα πλαγᾶι
 
+*[crux: χθονὶ κείμενα πλαγᾶι]*
+
 ### 1180.2
 
 χερὸς ὕπ’ ἐμᾶς, ἄποιν’ ἐμῶν
@@ -4593,6 +4635,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1185.1
 
 〈Χο.〉 ἰὼ τύχας σᾶς τύχας
+
+*[crux: σᾶς]*
 
 ### 1185.2
 

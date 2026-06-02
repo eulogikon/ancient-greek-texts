@@ -19,8 +19,8 @@ Tyrtaeus, a 7th century BCE Spartan poet known for martial elegies. Read his sur
 
 ## Works
 
-- [Spartan Constitution (Papyrus Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta-constitution-aa-ahi-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας* · `ahi-aa`
-- [Spartan Constitution (Testimonies)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta-constitution-ab-ahi-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας* · `ahi-ab`
+- [Spartan Constitution (Papyrus Fragments)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-sparta-constitution-ahi-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας* · `ahi-aa`
+- [Spartan Constitution (Testimonies)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-sparta-constitution-ahi-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας* · `ahi-ab`
 
 ## License and provenance
 

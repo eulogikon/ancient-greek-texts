@@ -19,7 +19,7 @@ Dorieus of Sparta was an Archaic Greek poet writing in Doric dialect. His surviv
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta-epigram-ahs-aa.grc.md) — *Ἐπίγραμμα* · `ahs-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-sparta-epigram-ahs-aa.grc.md) — *Ἐπίγραμμα* · `ahs-aa`
 
 ## License and provenance
 

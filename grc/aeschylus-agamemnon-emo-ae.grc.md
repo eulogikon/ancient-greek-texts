@@ -438,6 +438,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 τὴν θυμοφθόρον λύπης φρένα.
 
+*[crux: τὴν θυμοφθόρον λύπης φρένα.]*
+
 ### 103
 
 κύριός εἰμι θροεῖν ὅδιον κράτος αἴσιον ἀνδρῶν[στρ. α.
@@ -569,6 +571,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 145.1
 
 δεξιὰ μὲν κατάμομφα δὲ φάσματα στρουθῶν.
+
+*[crux: στρουθῶν]*
 
 ### 145.2
 
@@ -1262,6 +1266,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 διχοστατοῦντ’ ἂν οὐ φίλως προσεννέποις.
 
+*[crux: προσεννέποις]*
+
 ### 320.5
 
 καὶ τῶν ἁλόντων καὶ κρατησάντων δίχα
@@ -1601,6 +1607,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### unit_136.2
 
 πάρεστι σιγᾶς ἄτιμος ἀλοίδορος
+
+*[crux: πάρεστι σιγᾶς ἄτιμος]*
 
 ### unit_136.3
 
@@ -2101,6 +2109,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 535.5
 
 Κη.χαίρω, τεθνᾶναι δ’ οὐκέτ’ ἀντερῶ θεοῖς.
+
+*[crux: τεθνᾶναι δ’ οὐκέτ’ ἀντερῶ θεοῖς.]*
 
 ### 540.1
 
@@ -3870,6 +3880,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 χρόνος δ’ ἐπεὶ
 
+*[crux: ἐπεὶ]*
+
 ### 982.3
 
 πρυμνησίων ξυνεμβολαῖς
@@ -3877,6 +3889,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 985.1
 
 ψαμμίας ἀκάτα παρή‐
+
+*[crux: παρή‐]*
 
 ### 985.2
 
@@ -3945,6 +3959,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### unit_303.1
 
 μάλα γάρ τοι τᾶς πολλᾶς [στρ. β.
+
+*[crux: γάρ τοι τᾶς πολλᾶς]*
 
 ### unit_303.2
 
@@ -4097,6 +4113,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1040.2
 
 πραθέντα τλῆναι, δουλίας μάζης βίᾳ.
+
+*[crux: δουλίας]*
 
 ### 1040.3
 
@@ -4301,6 +4319,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1090.2
 
 αὐτόφονα, κακὰ καρτάναι
+
+*[crux: κακὰ καρτάναι]*
 
 ### 1090.3
 
@@ -4886,6 +4906,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 θύουσαν Ἅιδου μητέρ’ ἄσπονδόν τ’ Ἄρη
 
+*[crux: θύουσαν Ἅιδου μητέρ’]*
+
 ### 1235.2
 
 φίλοις πνέουσαν; ὡς δ’ ἐπωλολύξατο
@@ -5030,6 +5052,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κἀν τοῖσδε κόσμοις καταγελωμένην μετὰ
 
+*[crux: μετὰ]*
+
 ### 1270.3
 
 φίλων ὑπ’ ἐχθρῶν οὐ διχορρόπως μάτην.
@@ -5141,6 +5165,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### unit_388.2
 
 Κα.οὐκ ἔστ’ ἄλυξις, οὔ, ξένοι, χρόνῳ πλέῳ.
+
+*[crux: χρόνῳ]*
 
 ### unit_389.1
 
@@ -5429,6 +5455,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1370.2
 
 τρανῶς Ἀτρείδην εἰδέναι κυροῦνθ’ ὅπως.
+
+*[crux: εἰδέναι]*
 
 ### 1371
 
@@ -5741,6 +5769,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1445.2
 
 κεῖται φιλήτως τοῦδ’, ἐμοὶ δ’ ἐπήγαγεν
+
+*[crux: φιλήτως]*
 
 ### 1445.3
 

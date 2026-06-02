@@ -19,7 +19,7 @@ Andron of Ephesus, a 4th century BCE Ionic historian. Surviving historical fragm
 
 ## Works
 
-- [On the Seven Sages and Pythagoras](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus-seven-sages-pythagoras-fmi-aa.grc.md) — *Ἀποσπάσματα* · `fmi-aa`
+- [On the Seven Sages and Pythagoras](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-ephesus-seven-sages-pythagoras-fmi-aa.grc.md) — *Ἀποσπάσματα* · `fmi-aa`
 
 ## License and provenance
 

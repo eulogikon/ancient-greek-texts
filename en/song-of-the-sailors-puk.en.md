@@ -19,8 +19,8 @@ Song of the Sailors, Roman era Koine poet of the 2nd-3rd century CE. Two survivi
 
 ## Works
 
-- [Fragments on Sea and Nile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-sea-nile-puk-ab.grc.md) — *Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου* · `puk-ab`
-- [To the Winds of Rhodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors-winds-rhodes-puk-aa.grc.md) — *Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου* · `puk-aa`
+- [Fragments on Sea and Nile](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-sailors-sea-nile-puk-ab.grc.md) — *Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου* · `puk-ab`
+- [To the Winds of Rhodes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-sailors-winds-rhodes-puk-aa.grc.md) — *Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου* · `puk-aa`
 
 ## License and provenance
 

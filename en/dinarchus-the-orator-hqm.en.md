@@ -19,11 +19,11 @@ Dinarchus was a professional speechwriter in late classical Athens. Five of his 
 
 ## Works
 
-- [Against Aristogeiton](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator-against-aristogeiton-hqm-ab.grc.md) — *Κατὰ Ἀριστογείτονος* · `hqm-ab`
-- [Against Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator-against-demosthenes-hqm-ac.grc.md) — *Κατὰ Δημοσθένους* · `hqm-ac`
-- [Against Philocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator-against-philocles-hqm-ad.grc.md) — *Κατὰ Φιλοκλέους* · `hqm-ad`
-- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator-uncertain-fragments-hqm-aa.grc.md) — *Ἀποσπάσματα ἀδήλου θέσεως* · `hqm-aa`
-- [Prosecution of Polyεύktos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator-prosecution-polyeuktos-hqm-ae.grc.md) — *Ἀποσπάσματα* · `hqm-ae`
+- [Against Aristogeiton](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-against-aristogeiton-hqm-ab.grc.md) — *Κατὰ Ἀριστογείτονος* · `hqm-ab`
+- [Against Demosthenes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-against-demosthenes-hqm-ac.grc.md) — *Κατὰ Δημοσθένους* · `hqm-ac`
+- [Against Philocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-against-philocles-hqm-ad.grc.md) — *Κατὰ Φιλοκλέους* · `hqm-ad`
+- [Fragments of Uncertain Placement](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-uncertain-fragments-hqm-aa.grc.md) — *Ἀποσπάσματα ἀδήλου θέσεως* · `hqm-aa`
+- [Prosecution of Polyεύktos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-prosecution-polyeuktos-hqm-ae.grc.md) — *Ἀποσπάσματα* · `hqm-ae`
 
 ## License and provenance
 

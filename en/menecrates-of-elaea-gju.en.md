@@ -19,7 +19,7 @@ Menecrates of Elaea was a 4th century BCE historian writing in Attic Greek. His 
 
 ## Works
 
-- [Fragments on City Foundations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-elaea-city-foundations-gju-aa.grc.md) — *Ἀποσπάσματα περὶ Κτισμάτων Πόλεων* · `gju-aa`
+- [Fragments on City Foundations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-elaea-city-foundations-gju-aa.grc.md) — *Ἀποσπάσματα περὶ Κτισμάτων Πόλεων* · `gju-aa`
 
 ## License and provenance
 

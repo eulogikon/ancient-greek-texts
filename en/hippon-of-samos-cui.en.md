@@ -20,8 +20,8 @@ Hippon of Samos, a Presocratic philosopher of the 5th century BCE. Surviving fra
 
 ## Works
 
-- [Fragments on Oceanic Hydrology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-oceanic-hydrology-cui-ab.grc.md) — *Ἀποσπάσματα περὶ Ὠκεανίου Ὑδρολογίας* · `cui-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-of-samos-testimonies-cui-aa.grc.md) — *Μαρτυρίαι* · `cui-aa`
+- [Fragments on Oceanic Hydrology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-samos-oceanic-hydrology-cui-ab.grc.md) — *Ἀποσπάσματα περὶ Ὠκεανίου Ὑδρολογίας* · `cui-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippon-samos-testimonies-cui-aa.grc.md) — *Μαρτυρίαι* · `cui-aa`
 
 ## License and provenance
 

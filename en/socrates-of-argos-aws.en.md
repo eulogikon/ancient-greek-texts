@@ -19,7 +19,7 @@ Socrates of Argos, a 5th century BCE Doric historian from the Argolid. Surviving
 
 ## Works
 
-- [Argolic Histories and Genealogies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos-histories-genealogies-aws-aa.grc.md) — *Ἀποσπάσματα* · `aws-aa`
+- [Argolic Histories and Genealogies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-argos-histories-genealogies-aws-aa.grc.md) — *Ἀποσπάσματα* · `aws-aa`
 
 ## License and provenance
 

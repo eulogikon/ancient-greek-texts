@@ -19,7 +19,7 @@ Chaeremon, a 4th century BCE Athenian tragic poet. Surviving works include his d
 
 ## Works
 
-- [Fragments of a Dionysian Tragedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-the-tragic-poet-dionysian-tragedy-gsq-aa.grc.md) — *Ἀποσπάσματα Διονυσιακῆς Τραγῳδίας* · `gsq-aa`
+- [Fragments of a Dionysian Tragedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-dionysian-tragedy-gsq-aa.grc.md) — *Ἀποσπάσματα Διονυσιακῆς Τραγῳδίας* · `gsq-aa`
 
 ## License and provenance
 

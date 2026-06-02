@@ -20,7 +20,7 @@ Marinus of Neapolis, a 5th century Neoplatonic philosopher. Surviving treatise: 
 
 ## Works
 
-- [Commentary-Euclid's Data](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-of-neapolis-euclid-data-tsi-aa.grc.md) — *Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα* · `tsi-aa`
+- [Commentary-Euclid's Data](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marinus-neapolis-euclid-data-tsi-aa.grc.md) — *Ὑπόμνημα εἰς τὰ Εὐκλείδου Δεδομένα* · `tsi-aa`
 
 ## License and provenance
 

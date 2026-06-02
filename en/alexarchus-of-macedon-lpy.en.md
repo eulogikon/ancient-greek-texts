@@ -19,7 +19,7 @@ Alexarchus of Macedon, a Hellenistic historian of the 4th-3rd century BCE. Survi
 
 ## Works
 
-- [Historical Fragments on Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon-historical-italy-lpy-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλίας* · `lpy-aa`
+- [Historical Fragments on Italy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-macedon-historical-italy-lpy-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰταλίας* · `lpy-aa`
 
 ## License and provenance
 

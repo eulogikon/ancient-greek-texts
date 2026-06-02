@@ -19,11 +19,11 @@ Theon of Alexandria, a 4th century CE mathematician and astronomer. Surviving wo
 
 ## Works
 
-- [Commentary-Ptolemy's Mathematical Syntax I–IV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-commentary-ptolemy-syntax-spw-ab.grc.md) — *Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν Α'-Δ'* · `spw-ab`
-- [Commentary-the Handy Tables of Ptolemy, Books 1–3](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-handy-tables-commentary-spw-aa.grc.md) — *Ὑπόμνημα εἰς τοὺς προχείρους Πτολεμαίου κανόνας* · `spw-aa`
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-epigrams-spw-ae.grc.md) — *Ἐπιγράμματα* · `spw-ae`
-- [On the Ready Rules](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-ready-rules-spw-ac.grc.md) — *Εἰς τοὺς προχείρους κανόνας* · `spw-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria-testimonies-spw-ad.grc.md) — *Μαρτυρίαι* · `spw-ad`
+- [Commentary-Ptolemy's Mathematical Syntax I–IV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-alexandria-commentary-ptolemy-syntax-spw-ab.grc.md) — *Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν Α'-Δ'* · `spw-ab`
+- [Commentary-the Handy Tables of Ptolemy, Books 1–3](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-alexandria-handy-tables-commentary-spw-aa.grc.md) — *Ὑπόμνημα εἰς τοὺς προχείρους Πτολεμαίου κανόνας* · `spw-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-alexandria-epigrams-spw-ae.grc.md) — *Ἐπιγράμματα* · `spw-ae`
+- [On the Ready Rules](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-alexandria-ready-rules-spw-ac.grc.md) — *Εἰς τοὺς προχείρους κανόνας* · `spw-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-alexandria-testimonies-spw-ad.grc.md) — *Μαρτυρίαι* · `spw-ad`
 
 ## License and provenance
 

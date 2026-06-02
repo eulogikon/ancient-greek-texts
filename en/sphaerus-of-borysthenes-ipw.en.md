@@ -20,7 +20,7 @@ Sphaerus of Borysthenes, a 3rd century BCE Stoic philosopher. His surviving work
 
 ## Works
 
-- [Stoic Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes-stoic-fragments-ipw-aa.grc.md) — *Ἀποσπάσματα* · `ipw-aa`
+- [Stoic Philosophical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-borysthenes-stoic-fragments-ipw-aa.grc.md) — *Ἀποσπάσματα* · `ipw-aa`
 
 ## License and provenance
 

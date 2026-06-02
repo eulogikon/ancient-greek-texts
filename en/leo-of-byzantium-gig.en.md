@@ -19,7 +19,7 @@ Leo of Byzantium, a 4th century BCE historian. His surviving historical fragment
 
 ## Works
 
-- [Fragments on Cities and Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium-cities-rivers-gig-aa.grc.md) — *Ἀποσπάσματα περὶ Πόλεων καὶ Ποταμῶν* · `gig-aa`
+- [Fragments on Cities and Rivers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-byzantium-cities-rivers-gig-aa.grc.md) — *Ἀποσπάσματα περὶ Πόλεων καὶ Ποταμῶν* · `gig-aa`
 
 ## License and provenance
 

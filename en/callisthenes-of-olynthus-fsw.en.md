@@ -19,9 +19,9 @@ Callisthenes of Olynthus, 4th century BCE Greek historian. Surviving fragments o
 
 ## Works
 
-- [Historical and Encomiastic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-historical-encomiastic-fsw-ac.grc.md) — *Ἀποσπάσματα* · `fsw-ac`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-ab-fsw-ab.grc.md) — *Μαρτυρίαι Α'* · `fsw-ab`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus-testimonies-aa-fsw-aa.grc.md) — *Μαρτυρίαι Β'* · `fsw-aa`
+- [Historical and Encomiastic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-olynthus-historical-encomiastic-fsw-ac.grc.md) — *Ἀποσπάσματα* · `fsw-ac`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-olynthus-testimonies-fsw-ab.grc.md) — *Μαρτυρίαι Α'* · `fsw-ab`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-olynthus-testimonies-fsw-aa.grc.md) — *Μαρτυρίαι Β'* · `fsw-aa`
 
 ## License and provenance
 

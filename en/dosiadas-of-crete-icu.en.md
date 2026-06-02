@@ -19,8 +19,8 @@ Dosiadas of Crete, a Hellenistic poet of the 3rd century BCE. Two surviving poet
 
 ## Works
 
-- [Altar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-altar-icu-ab.grc.md) — *Βωμός* · `icu-ab`
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete-epigram-icu-aa.grc.md) — *Ἐπίγραμμα* · `icu-aa`
+- [Altar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-crete-altar-icu-ab.grc.md) — *Βωμός* · `icu-ab`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-crete-epigram-icu-aa.grc.md) — *Ἐπίγραμμα* · `icu-aa`
 
 ## License and provenance
 

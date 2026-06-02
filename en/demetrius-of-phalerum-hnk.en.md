@@ -19,7 +19,7 @@ Demetrius of Phalerum was an Athenian orator and statesman. Surviving works incl
 
 ## Works
 
-- [On Interpretation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum-interpretation-hnk-aa.grc.md) — *Περὶ ἑρμηνείας* · `hnk-aa`
+- [On Interpretation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-phalerum-interpretation-hnk-aa.grc.md) — *Περὶ ἑρμηνείας* · `hnk-aa`
 
 ## License and provenance
 

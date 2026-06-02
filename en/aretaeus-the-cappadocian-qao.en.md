@@ -19,10 +19,10 @@ Aretaeus, a Greek physician from Cappadocia. Surviving treatises on acute and ch
 
 ## Works
 
-- [On Causes and Signs of Acute Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-acute-diseases-ab-qao-ab.grc.md) — *Περὶ αἰτίων καὶ σημείων ὀξέων παθών* · `qao-ab`
-- [On Causes and Signs of Chronic Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa.grc.md) — *Περὶ αἰτίων καὶ σημείων χρονίων παθῶν* · `qao-aa`
-- [Treatment of Acute Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-acute-diseases-ad-qao-ad.grc.md) — *Ὀξέων νούσων θεραπευτικόν* · `qao-ad`
-- [Treatment of Chronic Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian-chronic-diseases-ac-qao-ac.grc.md) — *Χρονίων νούσων θεραπευτικών* · `qao-ac`
+- [On Causes and Signs of Acute Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-cappadocian-acute-diseases-qao-ab.grc.md) — *Περὶ αἰτίων καὶ σημείων ὀξέων παθών* · `qao-ab`
+- [On Causes and Signs of Chronic Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-cappadocian-chronic-diseases-qao-aa.grc.md) — *Περὶ αἰτίων καὶ σημείων χρονίων παθῶν* · `qao-aa`
+- [Treatment of Acute Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-cappadocian-acute-diseases-qao-ad.grc.md) — *Ὀξέων νούσων θεραπευτικόν* · `qao-ad`
+- [Treatment of Chronic Diseases](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-cappadocian-chronic-diseases-qao-ac.grc.md) — *Χρονίων νούσων θεραπευτικών* · `qao-ac`
 
 ## License and provenance
 

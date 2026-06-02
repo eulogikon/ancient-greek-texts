@@ -20,7 +20,7 @@ Anatolius of Alexandria was a Christian scholar and mathematician in late 3rd ce
 
 ## Works
 
-- [On the Decade and the Numbers Within It](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-of-alexandria-decade-numbers-uak-aa.grc.md) — *Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν* · `uak-aa`
+- [On the Decade and the Numbers Within It](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anatolius-alexandria-decade-numbers-uak-aa.grc.md) — *Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν* · `uak-aa`
 
 ## License and provenance
 

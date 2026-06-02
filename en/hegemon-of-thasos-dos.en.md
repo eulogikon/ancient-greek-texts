@@ -19,7 +19,7 @@ Hegemon of Thasos was a 5th century BCE poet of Attic comedy. His surviving frag
 
 ## Works
 
-- [Hegemon's Thasian Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-thasos-satire-dos-aa.grc.md) — *Ἀπόσπασμα* · `dos-aa`
+- [Hegemon's Thasian Satire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-thasos-satire-dos-aa.grc.md) — *Ἀπόσπασμα* · `dos-aa`
 
 ## License and provenance
 

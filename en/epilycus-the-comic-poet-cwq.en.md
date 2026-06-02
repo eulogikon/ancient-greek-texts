@@ -19,7 +19,7 @@ Epilycus was a 5th century BCE poet of Old Comedy. Read his surviving fragments 
 
 ## Works
 
-- [Comic Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet-comic-food-feasting-cwq-aa.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας* · `cwq-aa`
+- [Comic Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-comic-food-feasting-cwq-aa.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας* · `cwq-aa`
 
 ## License and provenance
 

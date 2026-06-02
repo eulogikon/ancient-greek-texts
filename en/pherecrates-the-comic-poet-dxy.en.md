@@ -19,9 +19,9 @@ Pherecrates, Athenian comic poet of Old Comedy in the 5th century BCE. Surviving
 
 ## Works
 
-- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-daily-life-dxy-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dxy-aa`
-- [Fragments on Gluttony and Slaves](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-gluttony-slaves-dxy-ab.grc.md) — *Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων* · `dxy-ab`
-- [Fragments on Human Affairs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet-human-affairs-dxy-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀνθρωπίνων Πραγμάτων* · `dxy-ac`
+- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-daily-life-dxy-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dxy-aa`
+- [Fragments on Gluttony and Slaves](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-gluttony-slaves-dxy-ab.grc.md) — *Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων* · `dxy-ab`
+- [Fragments on Human Affairs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-human-affairs-dxy-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀνθρωπίνων Πραγμάτων* · `dxy-ac`
 
 ## License and provenance
 

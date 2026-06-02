@@ -19,7 +19,7 @@ Anonymous author of a Late Antique geographical compendium. Contains the Brief E
 
 ## Works
 
-- [Concise Exposition of Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-of-geography-anon-exposition-the-aa.grc.md) — *Συνοπτικὴ ἔκθεσις γεωγραφίας* · `the-aa`
+- [Concise Exposition of Geography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-geography-anon-exposition-the-aa.grc.md) — *Συνοπτικὴ ἔκθεσις γεωγραφίας* · `the-aa`
 
 ## License and provenance
 

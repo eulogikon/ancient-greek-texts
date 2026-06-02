@@ -19,7 +19,7 @@ Apollonius of Perga was a Hellenistic mathematician and astronomer known for his
 
 ## Works
 
-- [Conics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-perga-conics-kle-aa.grc.md) — *Κωνικά* · `kle-aa`
+- [Conics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-perga-conics-kle-aa.grc.md) — *Κωνικά* · `kle-aa`
 
 ## License and provenance
 

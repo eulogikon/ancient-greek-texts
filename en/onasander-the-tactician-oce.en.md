@@ -19,7 +19,7 @@ Onasander was a Roman era writer on military science. His surviving treatise is 
 
 ## Works
 
-- [Strategic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-the-tactician-strategos-oce-aa.grc.md) — *Στρατηγικός* · `oce-aa`
+- [Strategic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onasander-strategos-oce-aa.grc.md) — *Στρατηγικός* · `oce-aa`
 
 ## License and provenance
 

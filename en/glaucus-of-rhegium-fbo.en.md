@@ -19,7 +19,7 @@ Glaucus of Rhegium was a 5th century BCE historian writing in Doric Greek prose.
 
 ## Works
 
-- [On Ancient Poets and Musicians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-of-rhegium-ancient-poets-musicians-fbo-aa.grc.md) — *Ἀποσπάσματα* · `fbo-aa`
+- [On Ancient Poets and Musicians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-rhegium-ancient-poets-musicians-fbo-aa.grc.md) — *Ἀποσπάσματα* · `fbo-aa`
 
 ## License and provenance
 

@@ -19,9 +19,9 @@ John the Lydian was a 6th century Byzantine historian. His surviving works inclu
 
 ## Works
 
-- [On Omens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-omens-vhw-ac.grc.md) — *Περὶ Οἰωνῶν* · `vhw-ac`
-- [On the Magistrates of the Roman People](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-magistrates-roman-vhw-aa.grc.md) — *Περὶ τῶν Ἄρχοντων τοῦ Ῥωμαϊκοῦ Λαοῦ* · `vhw-aa`
-- [On the Months](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian-months-vhw-ab.grc.md) — *Περὶ Μηνῶν* · `vhw-ab`
+- [On Omens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-lydian-omens-vhw-ac.grc.md) — *Περὶ Οἰωνῶν* · `vhw-ac`
+- [On the Magistrates of the Roman People](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-lydian-magistrates-roman-vhw-aa.grc.md) — *Περὶ τῶν Ἄρχοντων τοῦ Ῥωμαϊκοῦ Λαοῦ* · `vhw-aa`
+- [On the Months](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-lydian-months-vhw-ab.grc.md) — *Περὶ Μηνῶν* · `vhw-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Herodicus of Selymbria, a 5th century BCE grammarian writing in Ionic Greek. His
 
 ## Works
 
-- [Fragments on Socrates and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-of-selymbria-fragments-desire-cai-aa.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους καὶ Ἐπιθυμίας* · `cai-aa`
+- [Fragments on Socrates and Desire](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodicus-selymbria-fragments-desire-cai-aa.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους καὶ Ἐπιθυμίας* · `cai-aa`
 
 ## License and provenance
 

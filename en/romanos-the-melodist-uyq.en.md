@@ -19,10 +19,10 @@ Romanos the Melodist, a major sixth-century Byzantine hymnographer. Kontakia and
 
 ## Works
 
-- [Akathist Hymn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-akathist-uyq-aa.grc.md) — *Ἀκάθιστος ὕμνος* · `uyq-aa`
-- [Dubious Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-dubious-songs-uyq-ab.grc.md) — *Ἀμφίβολοι ᾨδαί* · `uyq-ab`
-- [Genuine Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-genuine-songs-uyq-ac.grc.md) — *Γνήσιαι ᾨδαί* · `uyq-ac`
-- [Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist-hymns-uyq-ad.grc.md) — *ᾨδαί* · `uyq-ad`
+- [Akathist Hymn](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-melodist-akathist-uyq-aa.grc.md) — *Ἀκάθιστος ὕμνος* · `uyq-aa`
+- [Dubious Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-melodist-dubious-songs-uyq-ab.grc.md) — *Ἀμφίβολοι ᾨδαί* · `uyq-ab`
+- [Genuine Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-melodist-genuine-songs-uyq-ac.grc.md) — *Γνήσιαι ᾨδαί* · `uyq-ac`
+- [Songs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-melodist-hymns-uyq-ad.grc.md) — *ᾨδαί* · `uyq-ad`
 
 ## License and provenance
 

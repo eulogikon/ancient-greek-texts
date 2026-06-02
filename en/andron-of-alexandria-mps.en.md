@@ -19,7 +19,7 @@ Andron of Alexandria, a Hellenistic historian of the 2nd-1st century BCE. His su
 
 ## Works
 
-- [Fragments on Alexandrian Education](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria-education-mps-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Παιδείας* · `mps-aa`
+- [Fragments on Alexandrian Education](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-alexandria-education-mps-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Παιδείας* · `mps-aa`
 
 ## License and provenance
 

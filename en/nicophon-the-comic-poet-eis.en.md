@@ -19,8 +19,8 @@ Nicophon was an Athenian comic poet of late 5th century BCE Old Comedy. Two frag
 
 ## Works
 
-- [Comic Fragments on Food and Markets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet-food-markets-eis-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Ἀγορᾶς* · `eis-ab`
-- [Fragments on Food and Gluttony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet-food-gluttony-eis-aa.grc.md) — *Ἀποσπάσματα περὶ Βρώσεως καὶ Λαιμαργίας* · `eis-aa`
+- [Comic Fragments on Food and Markets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-food-markets-eis-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Ἀγορᾶς* · `eis-ab`
+- [Fragments on Food and Gluttony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-food-gluttony-eis-aa.grc.md) — *Ἀποσπάσματα περὶ Βρώσεως καὶ Λαιμαργίας* · `eis-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Eunapius of Sardis was a Late Antique Greek historian. Works include Lives of th
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-historical-fragments-sos-aa.grc.md) — *Ἱστορικὰ Ἀποσπάσματα* · `sos-aa`
-- [Works of Libanius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis-works-sos-ab.grc.md) — *Λιβανίου Ἔργα* · `sos-ab`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-sardis-historical-fragments-sos-aa.grc.md) — *Ἱστορικὰ Ἀποσπάσματα* · `sos-aa`
+- [Works of Libanius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-sardis-works-sos-ab.grc.md) — *Λιβανίου Ἔργα* · `sos-ab`
 
 ## License and provenance
 

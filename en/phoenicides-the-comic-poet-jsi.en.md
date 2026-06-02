@@ -19,8 +19,8 @@ Phoenicides was a Hellenistic Greek comic poet of New Comedy. Two surviving frag
 
 ## Works
 
-- [Fragments of Comic Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-comic-courtesans-jsi-aa.grc.md) — *Ἀποσπάσματα Ἑταιρῶν Κωμικῶν* · `jsi-aa`
-- [Fragments on Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet-feasting-jsi-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας* · `jsi-ab`
+- [Fragments of Comic Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-comic-courtesans-jsi-aa.grc.md) — *Ἀποσπάσματα Ἑταιρῶν Κωμικῶν* · `jsi-aa`
+- [Fragments on Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-feasting-jsi-ab.grc.md) — *Ἀποσπάσματα περὶ Εὐωχίας* · `jsi-ab`
 
 ## License and provenance
 

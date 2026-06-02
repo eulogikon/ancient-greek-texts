@@ -19,7 +19,7 @@ Heliodorus of Athens was a 2nd century BCE Hellenistic geographer. His surviving
 
 ## Works
 
-- [On the Athenian Acropolis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-athens-acropolis-mgc-aa.grc.md) — *Ἀποσπάσματα* · `mgc-aa`
+- [On the Athenian Acropolis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-athens-acropolis-mgc-aa.grc.md) — *Ἀποσπάσματα* · `mgc-aa`
 
 ## License and provenance
 

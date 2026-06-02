@@ -20,7 +20,7 @@ Thrasyalces, a 5th century BCE sophist from Thasos. His surviving works are know
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist-testimonies-etc-aa.grc.md) — *Μαρτυρίαι* · `etc-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-testimonies-etc-aa.grc.md) — *Μαρτυρίαι* · `etc-aa`
 
 ## License and provenance
 

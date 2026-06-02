@@ -20,8 +20,8 @@ Anaxagoras, a major Presocratic philosopher from Ionia. Surviving fragments on n
 
 ## Works
 
-- [On the Nature of Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-nature-btk-ab.grc.md) — *Ἀποσπάσματα* · `btk-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae-testimonies-btk-aa.grc.md) — *Μαρτυρίαι* · `btk-aa`
+- [On the Nature of Things](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-clazomenae-nature-btk-ab.grc.md) — *Ἀποσπάσματα* · `btk-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-clazomenae-testimonies-btk-aa.grc.md) — *Μαρτυρίαι* · `btk-aa`
 
 ## License and provenance
 

@@ -20,8 +20,8 @@ Arius Didymus, Stoic philosopher and advisor to Emperor Augustus. Two surviving 
 
 ## Works
 
-- [Book-the Sects of Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-sects-philosophers-nac-aa.grc.md) — *Περὶ Αἱρέσεων Φιλοσόφων* · `nac-aa`
-- [Physics, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria-physics-fragments-nac-ab.grc.md) — *Φυσικὰ Ἀποσπάσματα* · `nac-ab`
+- [Book-the Sects of Philosophers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-alexandria-sects-philosophers-nac-aa.grc.md) — *Περὶ Αἱρέσεων Φιλοσόφων* · `nac-aa`
+- [Physics, Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-alexandria-physics-fragments-nac-ab.grc.md) — *Φυσικὰ Ἀποσπάσματα* · `nac-ab`
 
 ## License and provenance
 

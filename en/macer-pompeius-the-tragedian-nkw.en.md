@@ -19,7 +19,7 @@ Macer Pompeius was a Hellenistic tragedian writing in Koine Greek during the 1st
 
 ## Works
 
-- [Medea's Lament to Her Children](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian-medeas-lament-nkw-aa.grc.md) — *Ἀπόσπασμα* · `nkw-aa`
+- [Medea's Lament to Her Children](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-medeas-lament-nkw-aa.grc.md) — *Ἀπόσπασμα* · `nkw-aa`
 
 ## License and provenance
 

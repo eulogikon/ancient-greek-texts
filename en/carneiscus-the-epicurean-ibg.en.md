@@ -20,8 +20,8 @@ Carneiscus, a 3rd century BCE Epicurean philosopher. Two surviving treatises are
 
 ## Works
 
-- [Fragments on Friendship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-friendship-ibg-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλίας* · `ibg-ab`
-- [Philistas, Book II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean-philistas-ii-ibg-aa.grc.md) — *Φιλίστας Βιβλίον Βʹ* · `ibg-aa`
+- [Fragments on Friendship](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-friendship-ibg-ab.grc.md) — *Ἀποσπάσματα περὶ Φιλίας* · `ibg-ab`
+- [Philistas, Book II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-philistas-ii-ibg-aa.grc.md) — *Φιλίστας Βιβλίον Βʹ* · `ibg-aa`
 
 ## License and provenance
 

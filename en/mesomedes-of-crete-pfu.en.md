@@ -19,8 +19,8 @@ Mesomedes of Crete was a 2nd century CE Greek poet. Two surviving poetic works a
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-epigrams-pfu-ab.grc.md) — *Ἐπιγράμματα* · `pfu-ab`
-- [Fragments on Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete-apollo-fragments-pfu-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀπόλλωνος* · `pfu-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-crete-epigrams-pfu-ab.grc.md) — *Ἐπιγράμματα* · `pfu-ab`
+- [Fragments on Apollo](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-crete-apollo-fragments-pfu-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀπόλλωνος* · `pfu-aa`
 
 ## License and provenance
 

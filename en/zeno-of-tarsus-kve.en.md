@@ -20,7 +20,7 @@ Zeno of Tarsus was a Hellenistic Stoic philosopher and student of Chrysippus. Hi
 
 ## Works
 
-- [Fragments on Stoic Succession](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-tarsus-stoic-succession-kve-aa.grc.md) — *Ἀποσπάσματα περὶ Διαδοχῆς Στωικῆς* · `kve-aa`
+- [Fragments on Stoic Succession](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-tarsus-stoic-succession-kve-aa.grc.md) — *Ἀποσπάσματα περὶ Διαδοχῆς Στωικῆς* · `kve-aa`
 
 ## License and provenance
 

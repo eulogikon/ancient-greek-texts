@@ -19,8 +19,8 @@ Diogenianus, a 2nd century CE Greek grammarian from Heraclea. Two surviving gram
 
 ## Works
 
-- [Proverbs Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-aa-pdm-aa.grc.md) — *Παροιμίαι* · `pdm-aa`
-- [Proverbs of Diogenianus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea-proverbs-ab-pdm-ab.grc.md) — *Παροιμίαι δημώδεις ἐκ τῆς Διογενιανοῦ συναγωγῆς* · `pdm-ab`
+- [Proverbs Epitome](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-heraclea-proverbs-pdm-aa.grc.md) — *Παροιμίαι* · `pdm-aa`
+- [Proverbs of Diogenianus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-heraclea-proverbs-pdm-ab.grc.md) — *Παροιμίαι δημώδεις ἐκ τῆς Διογενιανοῦ συναγωγῆς* · `pdm-ab`
 
 ## License and provenance
 

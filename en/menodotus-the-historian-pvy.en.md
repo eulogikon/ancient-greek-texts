@@ -19,7 +19,7 @@ Menodotus the Historian, a 2nd century CE Greek historian. Historical fragments 
 
 ## Works
 
-- [On the Famous People of Samos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian-famous-people-pvy-aa.grc.md) — *Ἀποσπάσματα* · `pvy-aa`
+- [On the Famous People of Samos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-famous-people-pvy-aa.grc.md) — *Ἀποσπάσματα* · `pvy-aa`
 
 ## License and provenance
 

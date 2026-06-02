@@ -19,7 +19,7 @@ Lucius Licinius Lucullus, Roman general and statesman. His historical work survi
 
 ## Works
 
-- [On the City of Thessalonica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus-thessalonica-mrg-aa.grc.md) — *Ἀποσπάσματα* · `mrg-aa`
+- [On the City of Thessalonica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucullus-thessalonica-mrg-aa.grc.md) — *Ἀποσπάσματα* · `mrg-aa`
 
 ## License and provenance
 

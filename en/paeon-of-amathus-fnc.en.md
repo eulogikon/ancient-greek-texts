@@ -19,7 +19,7 @@ Paeon of Amathus was a 5th century BCE historian writing in Koine Greek. His sur
 
 ## Works
 
-- [Cypriot Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus-cypriot-histories-fnc-aa.grc.md) — *Ἀποσπάσματα* · `fnc-aa`
+- [Cypriot Histories and Myths](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-amathus-cypriot-histories-fnc-aa.grc.md) — *Ἀποσπάσματα* · `fnc-aa`
 
 ## License and provenance
 

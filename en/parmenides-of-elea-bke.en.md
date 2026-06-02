@@ -20,8 +20,8 @@ Parmenides, pre-Socratic philosopher and founder of the Eleatic school. Survivin
 
 ## Works
 
-- [On the Nature of Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-nature-being-bke-ab.grc.md) — *Ἀποσπάσματα* · `bke-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-of-elea-testimonies-bke-aa.grc.md) — *Μαρτυρίαι* · `bke-aa`
+- [On the Nature of Being](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-elea-nature-being-bke-ab.grc.md) — *Ἀποσπάσματα* · `bke-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenides-elea-testimonies-bke-aa.grc.md) — *Μαρτυρίαι* · `bke-aa`
 
 ## License and provenance
 

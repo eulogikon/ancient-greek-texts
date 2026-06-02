@@ -20,7 +20,7 @@ Cratylus, Athenian philosopher and follower of Heraclitus. Surviving fragments o
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean-testimonies-bmm-aa.grc.md) — *Μαρτυρίαι* · `bmm-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-heraclitean-testimonies-bmm-aa.grc.md) — *Μαρτυρίαι* · `bmm-aa`
 
 ## License and provenance
 

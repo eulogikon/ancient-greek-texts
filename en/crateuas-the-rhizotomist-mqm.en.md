@@ -19,7 +19,7 @@ Crateuas, a Hellenistic physician and pharmacologist of medicinal roots. Survivi
 
 ## Works
 
-- [Botanical and Medicinal Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist-botanical-medicinal-mqm-aa.grc.md) — *Ἀποσπάσματα* · `mqm-aa`
+- [Botanical and Medicinal Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-rhizotomist-botanical-medicinal-mqm-aa.grc.md) — *Ἀποσπάσματα* · `mqm-aa`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Apollonius of Aphrodisias was a Hellenistic historian. His surviving historical 
 
 ## Works
 
-- [Geographical Fragments on Caria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-aphrodisias-geographical-caria-kdw-aa.grc.md) — *Ἀποσπάσματα περὶ Καρίας* · `kdw-aa`
+- [Geographical Fragments on Caria](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-aphrodisias-geographical-caria-kdw-aa.grc.md) — *Ἀποσπάσματα περὶ Καρίας* · `kdw-aa`
 
 ## License and provenance
 

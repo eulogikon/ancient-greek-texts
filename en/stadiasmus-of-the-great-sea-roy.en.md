@@ -19,7 +19,7 @@ Anonymous Roman era sailing guide for the Mediterranean Sea. Contains coastal na
 
 ## Works
 
-- [Stadiasmus of the Great Sea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-of-the-great-sea-periplous-roy-aa.grc.md) — *Σταδιασμὸς τοῦ Μεγάλου Πελάγους* · `roy-aa`
+- [Stadiasmus of the Great Sea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-great-sea-periplous-roy-aa.grc.md) — *Σταδιασμὸς τοῦ Μεγάλου Πελάγους* · `roy-aa`
 
 ## License and provenance
 

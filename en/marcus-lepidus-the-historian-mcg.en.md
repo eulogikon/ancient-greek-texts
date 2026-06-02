@@ -19,7 +19,7 @@ Marcus Lepidus, a Hellenistic historian of the 1st century BCE. Surviving histor
 
 ## Works
 
-- [Historical Epitome Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-lepidus-the-historian-historical-epitome-mcg-aa.grc.md) — *Ἀποσπάσματα* · `mcg-aa`
+- [Historical Epitome Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-lepidus-historical-epitome-mcg-aa.grc.md) — *Ἀποσπάσματα* · `mcg-aa`
 
 ## License and provenance
 

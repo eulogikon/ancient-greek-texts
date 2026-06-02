@@ -19,12 +19,12 @@ Bolus of Mendes, Hellenistic medical writer of the 3rd century BCE. Six fragment
 
 ## Works
 
-- [Fragments on Democritus and Magic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-democritus-magic-kzk-ae.grc.md) — *Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς* · `kzk-ae`
-- [On Sympathies and Antipathies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-sympathies-antipathies-kzk-ab.grc.md) — *Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν* · `kzk-ab`
-- [On the Cheiromekta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-cheiromekta-kzk-aa.grc.md) — *Χειρόμηκτα* · `kzk-aa`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-testimonies-1-kzk-ad.grc.md) — *Μαρτυρίαι Α'* · `kzk-ad`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-testimonies-2-kzk-af.grc.md) — *Μαρτυρίαι Β'* · `kzk-af`
-- [To Leucippus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes-leucippus-kzk-ac.grc.md) — *Πρὸς Λεύκιππον* · `kzk-ac`
+- [Fragments on Democritus and Magic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-democritus-magic-kzk-ae.grc.md) — *Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς* · `kzk-ae`
+- [On Sympathies and Antipathies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-sympathies-antipathies-kzk-ab.grc.md) — *Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν* · `kzk-ab`
+- [On the Cheiromekta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-cheiromekta-kzk-aa.grc.md) — *Χειρόμηκτα* · `kzk-aa`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-testimonies-1-kzk-ad.grc.md) — *Μαρτυρίαι Α'* · `kzk-ad`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-testimonies-2-kzk-af.grc.md) — *Μαρτυρίαι Β'* · `kzk-af`
+- [To Leucippus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-mendes-leucippus-kzk-ac.grc.md) — *Πρὸς Λεύκιππον* · `kzk-ac`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Polemon of Laodicea, 2nd century CE Roman geographer. Surviving geographical tre
 
 ## Works
 
-- [On the Athenian Acropolis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea-athenian-acropolis-ola-ab.grc.md) — *Ἀποσπάσματα* · `ola-ab`
-- [Testimony and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea-testimony-fragments-ola-aa.grc.md) — *Μαρτυρία καὶ Ἀποσπάσματα* · `ola-aa`
+- [On the Athenian Acropolis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-lao-athenian-acropolis-ola-ab.grc.md) — *Ἀποσπάσματα* · `ola-ab`
+- [Testimony and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-lao-testimony-fragments-ola-aa.grc.md) — *Μαρτυρία καὶ Ἀποσπάσματα* · `ola-aa`
 
 ## License and provenance
 

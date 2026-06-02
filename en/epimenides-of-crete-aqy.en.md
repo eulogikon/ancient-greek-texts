@@ -19,11 +19,11 @@ Epimenides of Crete, Archaic poet and philosopher. Works include oracles and the
 
 ## Works
 
-- [Fragments on Glaucus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-glaucus-aqy-ae.grc.md) — *Ἀποσπάσματα περὶ Γλαύκου* · `aqy-ae`
-- [Oracles and Theological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-oracles-fragments-aqy-ad.grc.md) — *Ἀποσπάσματα* · `aqy-ad`
-- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-aqy-aa.grc.md) — *Μαρτυρίαι Α'* · `aqy-aa`
-- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-testimonies-2-aqy-ab.grc.md) — *Μαρτυρίαι Β'* · `aqy-ab`
-- [Theological and Prophetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete-theological-prophetic-aqy-ac.grc.md) — *Ἀποσπάσματα* · `aqy-ac`
+- [Fragments on Glaucus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-crete-glaucus-aqy-ae.grc.md) — *Ἀποσπάσματα περὶ Γλαύκου* · `aqy-ae`
+- [Oracles and Theological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-crete-oracles-fragments-aqy-ad.grc.md) — *Ἀποσπάσματα* · `aqy-ad`
+- [Testimonies 1](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-crete-testimonies-aqy-aa.grc.md) — *Μαρτυρίαι Α'* · `aqy-aa`
+- [Testimonies 2](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-crete-testimonies-2-aqy-ab.grc.md) — *Μαρτυρίαι Β'* · `aqy-ab`
+- [Theological and Prophetic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-crete-theological-prophetic-aqy-ac.grc.md) — *Ἀποσπάσματα* · `aqy-ac`
 
 ## License and provenance
 

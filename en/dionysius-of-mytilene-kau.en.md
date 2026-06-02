@@ -19,9 +19,9 @@ Dionysius Scytobrachion, a Hellenistic grammarian of the 3rd century BCE. Gramma
 
 ## Works
 
-- [Argonautic Genealogical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-argonautica-kau-ab.grc.md) — *Ἀποσπάσματα* · `kau-ab`
-- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-trojan-war-fragments-kau-ac.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `kau-ac`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene-testimonies-kau-aa.grc.md) — *Μαρτυρίαι* · `kau-aa`
+- [Argonautic Genealogical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-mytilene-argonautica-kau-ab.grc.md) — *Ἀποσπάσματα* · `kau-ab`
+- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-mytilene-trojan-war-fragments-kau-ac.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `kau-ac`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-mytilene-testimonies-kau-aa.grc.md) — *Μαρτυρίαι* · `kau-aa`
 
 ## License and provenance
 

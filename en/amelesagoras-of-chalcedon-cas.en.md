@@ -19,7 +19,7 @@ Amelesagoras of Chalcedon was a 5th century BCE historian writing in Attic Greek
 
 ## Works
 
-- [Atthid Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon-atthid-cas-aa.grc.md) — *Ἀποσπάσματα* · `cas-aa`
+- [Atthid Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-chalcedon-atthid-cas-aa.grc.md) — *Ἀποσπάσματα* · `cas-aa`
 
 ## License and provenance
 

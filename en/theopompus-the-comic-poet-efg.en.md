@@ -19,9 +19,9 @@ Theopompus was an Athenian comic poet and rival of Aristophanes. Fragments from 
 
 ## Works
 
-- [Comic Fragments of Domestic Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-domestic-life-efg-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ Κωμικά* · `efg-ab`
-- [Comic Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-food-feasting-efg-aa.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας* · `efg-aa`
-- [Fragments on Delphi and Agriculture](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet-delphi-agriculture-efg-ac.grc.md) — *Ἀποσπάσματα περὶ Δελφῶν καὶ Γεωργίας* · `efg-ac`
+- [Comic Fragments of Domestic Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-comic-domestic-life-efg-ab.grc.md) — *Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ Κωμικά* · `efg-ab`
+- [Comic Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-comic-food-feasting-efg-aa.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας* · `efg-aa`
+- [Fragments on Delphi and Agriculture](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-comic-delphi-agriculture-efg-ac.grc.md) — *Ἀποσπάσματα περὶ Δελφῶν καὶ Γεωργίας* · `efg-ac`
 
 ## License and provenance
 

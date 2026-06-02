@@ -19,8 +19,8 @@ Valerius Apsines, a 3rd century Greek rhetorician. Works on oratory and rhetoric
 
 ## Works
 
-- [On Formed Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-formed-problems-rlm-aa.grc.md) — *Περὶ τῶν ἐσχηματισμένων προβλημάτων* · `rlm-aa`
-- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara-rhetoric-rlm-ab.grc.md) — *Τέχνη Ῥητορική* · `rlm-ab`
+- [On Formed Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-gadara-formed-problems-rlm-aa.grc.md) — *Περὶ τῶν ἐσχηματισμένων προβλημάτων* · `rlm-aa`
+- [Rhetorical Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-gadara-rhetoric-rlm-ab.grc.md) — *Τέχνη Ῥητορική* · `rlm-ab`
 
 ## License and provenance
 

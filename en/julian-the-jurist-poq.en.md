@@ -19,7 +19,7 @@ Julian the Jurist, a 2nd century Roman legal scholar. His surviving legal treati
 
 ## Works
 
-- [Law-Physicians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-jurist-law-physicians-poq-aa.grc.md) — *Νόμος περὶ Ἰατρῶν* · `poq-aa`
+- [Law-Physicians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-jurist-law-physicians-poq-aa.grc.md) — *Νόμος περὶ Ἰατρῶν* · `poq-aa`
 
 ## License and provenance
 

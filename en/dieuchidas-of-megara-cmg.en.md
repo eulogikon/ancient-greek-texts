@@ -19,7 +19,7 @@ Dieuchidas of Megara was a 4th century BCE historian writing in Attic Greek. His
 
 ## Works
 
-- [Megarian Local History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-of-megara-local-history-cmg-aa.grc.md) — *Ἀποσπάσματα* · `cmg-aa`
+- [Megarian Local History Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-megara-local-history-cmg-aa.grc.md) — *Ἀποσπάσματα* · `cmg-aa`
 
 ## License and provenance
 

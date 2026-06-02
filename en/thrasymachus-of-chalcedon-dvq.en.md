@@ -19,8 +19,8 @@ Thrasymachus, a classical sophist and teacher of rhetoric. Surviving works inclu
 
 ## Works
 
-- [On Rhetorical Style and Governance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasymachus-of-chalcedon-rhetorical-style-governance-dvq-ab.grc.md) — *Ἀποσπάσματα* · `dvq-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasymachus-of-chalcedon-testimonies-dvq-aa.grc.md) — *Μαρτυρίαι* · `dvq-aa`
+- [On Rhetorical Style and Governance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasymachus-chalcedon-rhetorical-style-governance-dvq-ab.grc.md) — *Ἀποσπάσματα* · `dvq-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasymachus-chalcedon-testimonies-dvq-aa.grc.md) — *Μαρτυρίαι* · `dvq-aa`
 
 ## License and provenance
 

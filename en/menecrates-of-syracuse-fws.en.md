@@ -19,7 +19,7 @@ Menecrates of Syracuse, 4th century BCE physician to King Philip II. Medical tre
 
 ## Works
 
-- [Menecrates the Physician](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse-physician-fws-aa.grc.md) — *Μενεκράτης ὁ Ἰατρός* · `fws-aa`
+- [Menecrates the Physician](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-syracuse-physician-fws-aa.grc.md) — *Μενεκράτης ὁ Ἰατρός* · `fws-aa`
 
 ## License and provenance
 

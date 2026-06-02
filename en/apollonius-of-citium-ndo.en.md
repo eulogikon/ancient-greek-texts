@@ -19,7 +19,7 @@ Apollonius of Citium, a 1st century BCE physician from Cyprus. His surviving med
 
 ## Works
 
-- [Commentary-Hippocrates-Joints](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-citium-commentary-joints-ndo-aa.grc.md) — *Ὑπόμνημα εἰς Ἱπποκράτους Περὶ Ἄρθρων* · `ndo-aa`
+- [Commentary-Hippocrates-Joints](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-citium-commentary-joints-ndo-aa.grc.md) — *Ὑπόμνημα εἰς Ἱπποκράτους Περὶ Ἄρθρων* · `ndo-aa`
 
 ## License and provenance
 

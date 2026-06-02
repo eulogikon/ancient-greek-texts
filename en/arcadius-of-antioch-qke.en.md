@@ -19,7 +19,7 @@ Arcadius of Antioch was a 2nd century Greek grammarian. His grammatical treatise
 
 ## Works
 
-- [On Accents](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-of-antioch-accents-qke-aa.grc.md) — *Περὶ Προσῳδιῶν* · `qke-aa`
+- [On Accents](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcadius-antioch-accents-qke-aa.grc.md) — *Περὶ Προσῳδιῶν* · `qke-aa`
 
 ## License and provenance
 

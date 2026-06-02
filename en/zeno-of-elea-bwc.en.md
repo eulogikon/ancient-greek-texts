@@ -20,7 +20,7 @@ Zeno of Elea, pre-Socratic philosopher of the Eleatic school. Surviving fragment
 
 ## Works
 
-- [On the Nature of Plurality](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea-nature-plurality-bwc-aa.grc.md) — *Ἀποσπάσματα* · `bwc-aa`
+- [On the Nature of Plurality](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-elea-nature-plurality-bwc-aa.grc.md) — *Ἀποσπάσματα* · `bwc-aa`
 
 ## License and provenance
 

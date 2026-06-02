@@ -19,7 +19,7 @@ Priscian of Caesarea, a late antique Neoplatonic philosopher. His surviving trea
 
 ## Works
 
-- [Paraphrase-Theophrastus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-of-caesarea-theophrastus-paraphrase-uve-aa.grc.md) — *Παράφρασις εἰς Θεόφραστον* · `uve-aa`
+- [Paraphrase-Theophrastus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscian-caesarea-theophrastus-paraphrase-uve-aa.grc.md) — *Παράφρασις εἰς Θεόφραστον* · `uve-aa`
 
 ## License and provenance
 

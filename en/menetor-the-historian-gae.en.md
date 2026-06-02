@@ -19,7 +19,7 @@ Menetor the Historian, a Greek historian of the Classical period. His surviving 
 
 ## Works
 
-- [Fragments on Dedications](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian-dedications-gae-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀναθημάτων* · `gae-aa`
+- [Fragments on Dedications](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-dedications-gae-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀναθημάτων* · `gae-aa`
 
 ## License and provenance
 

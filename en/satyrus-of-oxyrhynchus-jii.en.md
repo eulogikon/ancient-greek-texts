@@ -19,8 +19,8 @@ Satyrus of Oxyrhynchus, a Hellenistic biographer of the 3rd century BCE. Biograp
 
 ## Works
 
-- [Fragments on Alcibiades' Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-alcibiades-life-jii-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλκιβιάδου Βίου* · `jii-ab`
-- [Life of Euripides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus-life-of-euripides-jii-aa.grc.md) — *Βίος Εὐριπίδου* · `jii-aa`
+- [Fragments on Alcibiades' Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-oxyrhynchus-alcibiades-life-jii-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλκιβιάδου Βίου* · `jii-ab`
+- [Life of Euripides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-oxyrhynchus-life-of-euripides-jii-aa.grc.md) — *Βίος Εὐριπίδου* · `jii-aa`
 
 ## License and provenance
 

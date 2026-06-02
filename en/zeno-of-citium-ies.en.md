@@ -20,7 +20,7 @@ Zeno of Citium, founder of Stoic philosophy. Surviving fragments of his works ar
 
 ## Works
 
-- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium-testimonies-fragments-ies-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `ies-aa`
+- [Testimonies and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-citium-testimonies-fragments-ies-aa.grc.md) — *Μαρτυρίαι καὶ Ἀποσπάσματα* · `ies-aa`
 
 ## License and provenance
 

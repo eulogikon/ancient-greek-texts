@@ -20,7 +20,7 @@ Hieronymus of Rhodes, 3rd century BCE Peripatetic philosopher. Aristotelian trad
 
 ## Works
 
-- [On the Supreme Good and Happiness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-of-rhodes-supreme-good-happiness-ilq-aa.grc.md) — *Ἀποσπάσματα* · `ilq-aa`
+- [On the Supreme Good and Happiness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hieronymus-rhodes-supreme-good-happiness-ilq-aa.grc.md) — *Ἀποσπάσματα* · `ilq-aa`
 
 ## License and provenance
 

@@ -19,10 +19,10 @@ Eratosthenes of Cyrene, a Hellenistic polymath of the 3rd century BCE. Surviving
 
 ## Works
 
-- [Catasterisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-catasterisms-kly-ab.grc.md) — *Καταστερισμοί* · `kly-ab`
-- [Fragments on Cosmic Order](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-cosmic-order-kly-ac.grc.md) — *Ἀποσπάσματα περὶ Κόσμου Διατάξεως* · `kly-ac`
-- [Fragments on Hermes and Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-hermes-zeus-kly-ad.grc.md) — *Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός* · `kly-ad`
-- [On the Adornment of Stars and Their Etymology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene-adornment-stars-kly-aa.grc.md) — *Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας* · `kly-aa`
+- [Catasterisms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-cyrene-catasterisms-kly-ab.grc.md) — *Καταστερισμοί* · `kly-ab`
+- [Fragments on Cosmic Order](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-cyrene-cosmic-order-kly-ac.grc.md) — *Ἀποσπάσματα περὶ Κόσμου Διατάξεως* · `kly-ac`
+- [Fragments on Hermes and Zeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-cyrene-hermes-zeus-kly-ad.grc.md) — *Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός* · `kly-ad`
+- [On the Adornment of Stars and Their Etymology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-cyrene-adornment-stars-kly-aa.grc.md) — *Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας* · `kly-aa`
 
 ## License and provenance
 

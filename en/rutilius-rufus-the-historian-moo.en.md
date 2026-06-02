@@ -19,7 +19,7 @@ Rutilius Rufus, a Hellenistic historian of the 2nd-1st centuries BCE. Surviving 
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian-historical-fragments-moo-aa.grc.md) — *Ἀποσπάσματα* · `moo-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-historical-fragments-moo-aa.grc.md) — *Ἀποσπάσματα* · `moo-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Mnesimachus of Phaselis, 4th century BCE Ionic historian. Surviving historical w
 
 ## Works
 
-- [On Scythians and Cosmology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-of-phaselis-scythians-cosmology-ekq-aa.grc.md) — *Ἀποσπάσματα* · `ekq-aa`
+- [On Scythians and Cosmology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-phaselis-scythians-cosmology-ekq-aa.grc.md) — *Ἀποσπάσματα* · `ekq-aa`
 
 ## License and provenance
 

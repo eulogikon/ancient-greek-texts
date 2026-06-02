@@ -19,7 +19,7 @@ Patrocles of Thurii was a 4th century BCE Attic dramatist. One surviving work is
 
 ## Works
 
-- [On the Vicissitudes of Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii-vicissitudes-fate-gmc-aa.grc.md) — *Ἀποσπάσματα* · `gmc-aa`
+- [On the Vicissitudes of Fate](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-thurii-vicissitudes-fate-gmc-aa.grc.md) — *Ἀποσπάσματα* · `gmc-aa`
 
 ## License and provenance
 

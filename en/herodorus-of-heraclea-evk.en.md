@@ -19,7 +19,7 @@ Herodorus of Heraclea was a classical historian writing in Ionic Greek. His surv
 
 ## Works
 
-- [Fragments on Heracles' Ancestry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea-ancestry-evk-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Ἡρακλέους Γενέσεως* · `evk-aa`
+- [Fragments on Heracles' Ancestry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-heraclea-ancestry-evk-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς τοῦ Ἡρακλέους Γενέσεως* · `evk-aa`
 
 ## License and provenance
 

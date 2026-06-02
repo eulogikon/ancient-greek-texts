@@ -20,7 +20,7 @@ Paron of Miletus, a 5th century BCE Ionic Presocratic philosopher. One surviving
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus-testimony-avy-aa.grc.md) — *Μαρτυρία* · `avy-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-miletus-testimony-avy-aa.grc.md) — *Μαρτυρία* · `avy-aa`
 
 ## License and provenance
 

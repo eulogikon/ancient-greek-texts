@@ -19,7 +19,7 @@ Aristeas of Proconnesus, 7th century BCE epic poet. Fragments of his verse in Ho
 
 ## Works
 
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-of-proconnesus-fragments-adc-aa.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `adc-aa`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-proconnesus-fragments-adc-aa.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `adc-aa`
 
 ## License and provenance
 

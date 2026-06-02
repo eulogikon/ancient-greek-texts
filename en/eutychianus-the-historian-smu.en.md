@@ -19,7 +19,7 @@ Eutychianus the Historian, a late antique Greek writer. Historical works in frag
 
 ## Works
 
-- [Fragments on Julian's Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutychianus-the-historian-julian-campaign-smu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰουλιανοῦ Στρατείας* · `smu-aa`
+- [Fragments on Julian's Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutychianus-julian-campaign-smu-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἰουλιανοῦ Στρατείας* · `smu-aa`
 
 ## License and provenance
 

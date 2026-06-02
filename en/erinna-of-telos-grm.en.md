@@ -19,9 +19,9 @@ Erinna of Telos, a 4th century BCE Greek poet. Surviving fragmentary works in Do
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-epigrams-grm-ac.grc.md) — *Ἐπιγράμματα* · `grm-ac`
-- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-fragments-grm-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `grm-aa`
-- [Lament for Baukis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos-lament-baukis-grm-ab.grc.md) — *Ἀποσπάσματα* · `grm-ab`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-telos-epigrams-grm-ac.grc.md) — *Ἐπιγράμματα* · `grm-ac`
+- [Fragments and Title](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-telos-fragments-grm-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλος* · `grm-aa`
+- [Lament for Baukis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-telos-lament-baukis-grm-ab.grc.md) — *Ἀποσπάσματα* · `grm-ab`
 
 ## License and provenance
 

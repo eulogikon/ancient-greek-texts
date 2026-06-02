@@ -19,10 +19,10 @@ Oppian Lives is a biographical text from the Roman era, containing four survivin
 
 ## Works
 
-- [Life of Oppian (Version A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ac-qvi-ac.grc.md) — *Βίτα Ὀππιανοῦ (Βίτα α)* · `qvi-ac`
-- [Life of Oppian (Version B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-ad-qvi-ad.grc.md) — *Βίτα Ὀππιανοῦ (β)* · `qvi-ad`
-- [Life of Oppian of Anazarbus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-aa-qvi-aa.grc.md) — *Βίος Ὀππιανοῦ Ἀναζαρβοῦ* · `qvi-aa`
-- [Life of Tzetzes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives-life-of-tzetzes-qvi-ab.grc.md) — *Βίος Τζέτζου* · `qvi-ab`
+- [Life of Oppian (Version A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-life-qvi-ac.grc.md) — *Βίτα Ὀππιανοῦ (Βίτα α)* · `qvi-ac`
+- [Life of Oppian (Version B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-life-qvi-ad.grc.md) — *Βίτα Ὀππιανοῦ (β)* · `qvi-ad`
+- [Life of Oppian of Anazarbus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-life-qvi-aa.grc.md) — *Βίος Ὀππιανοῦ Ἀναζαρβοῦ* · `qvi-aa`
+- [Life of Tzetzes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-life-of-tzetzes-qvi-ab.grc.md) — *Βίος Τζέτζου* · `qvi-ab`
 
 ## License and provenance
 

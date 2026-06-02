@@ -19,7 +19,7 @@ Scholia on Homer are ancient notes on the Iliad and Odyssey. This archive preser
 
 ## Works
 
-- [Scholia-Dionysius of Byzantium's Bosporus Navigation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-homer-bosporus-navigation-jmo-aa.grc.md) — *Σχόλια εἰς Διονύσιον Βυζάντιον περὶ Βοσπόρου* · `jmo-aa`
+- [Scholia-Dionysius of Byzantium's Bosporus Navigation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-homer-bosporus-navigation-jmo-aa.grc.md) — *Σχόλια εἰς Διονύσιον Βυζάντιον περὶ Βοσπόρου* · `jmo-aa`
 
 ## License and provenance
 

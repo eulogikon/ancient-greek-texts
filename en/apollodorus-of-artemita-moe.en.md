@@ -19,7 +19,7 @@ Apollodorus of Artemita, a Hellenistic historian of the 1st century BCE. Fragmen
 
 ## Works
 
-- [Historical Fragments on Parthia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita-historical-parthia-moe-aa.grc.md) — *Ἀποσπάσματα περὶ Παρθίας* · `moe-aa`
+- [Historical Fragments on Parthia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-artemita-historical-parthia-moe-aa.grc.md) — *Ἀποσπάσματα περὶ Παρθίας* · `moe-aa`
 
 ## License and provenance
 

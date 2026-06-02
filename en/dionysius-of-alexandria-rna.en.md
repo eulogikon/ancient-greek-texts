@@ -19,9 +19,9 @@ Dionysius of Alexandria was a 3rd century CE geographer writing in Christian Koi
 
 ## Works
 
-- [Description of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-world-description-rna-ab.grc.md) — *Περιγραφὴ τοῦ Κόσμου* · `rna-ab`
-- [Ixeuticon or-Hunting, Paraphrase](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-ixeuticon-hunting-rna-aa.grc.md) — *Ἰξευτικόν ἢ Περὶ Κυνηγεσίας* · `rna-aa`
-- [On Stones or Lithica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria-lithica-rna-ac.grc.md) — *Περὶ Λίθων* · `rna-ac`
+- [Description of the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-alexandria-world-description-rna-ab.grc.md) — *Περιγραφὴ τοῦ Κόσμου* · `rna-ab`
+- [Ixeuticon or-Hunting, Paraphrase](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-alexandria-ixeuticon-hunting-rna-aa.grc.md) — *Ἰξευτικόν ἢ Περὶ Κυνηγεσίας* · `rna-aa`
+- [On Stones or Lithica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-alexandria-lithica-rna-ac.grc.md) — *Περὶ Λίθων* · `rna-ac`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Aristocreon the Historian, a 5th century BCE Ionic historian. Surviving fragment
 
 ## Works
 
-- [Fragments on Ethiopia and Libya](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian-ethiopia-libya-ere-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης* · `ere-aa`
+- [Fragments on Ethiopia and Libya](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-ethiopia-libya-ere-aa.grc.md) — *Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης* · `ere-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Ameipsias was an Athenian comic poet and rival of Aristophanes. Two surviving fr
 
 ## Works
 
-- [Comic Fragments on Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-comic-fragments-dwa-ab.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους Κωμικά* · `dwa-ab`
-- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-the-comic-poet-daily-life-dwa-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dwa-aa`
+- [Comic Fragments on Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-comic-fragments-dwa-ab.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους Κωμικά* · `dwa-ab`
+- [Fragments on Daily Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ameipsias-daily-life-dwa-aa.grc.md) — *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ* · `dwa-aa`
 
 ## License and provenance
 

@@ -19,11 +19,11 @@ Nicomachus of Gerasa, Roman era mathematician and music theorist. Includes Intro
 
 ## Works
 
-- [Arithmetic Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-arithmetic-introduction-owy-aa.grc.md) — *Ἀριθμητικὴ εἰσαγωγή* · `owy-aa`
-- [Arithmetic Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-arithmetic-owy-ad.grc.md) — *Προβλήματα ἀριθμητικά* · `owy-ad`
-- [Excerpts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-excerpts-owy-ae.grc.md) — *Ἐκλογαί* · `owy-ae`
-- [Handbook of Harmonics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-handbook-harmonics-owy-ac.grc.md) — *Ἐγχειρίδιον ἁρμονικῆς* · `owy-ac`
-- [Theological Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa-theological-arithmetic-owy-ab.grc.md) — *Θεολογικὴ ἀριθμητική* · `owy-ab`
+- [Arithmetic Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-gerasa-arithmetic-introduction-owy-aa.grc.md) — *Ἀριθμητικὴ εἰσαγωγή* · `owy-aa`
+- [Arithmetic Problems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-gerasa-arithmetic-owy-ad.grc.md) — *Προβλήματα ἀριθμητικά* · `owy-ad`
+- [Excerpts](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-gerasa-excerpts-owy-ae.grc.md) — *Ἐκλογαί* · `owy-ae`
+- [Handbook of Harmonics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-gerasa-handbook-harmonics-owy-ac.grc.md) — *Ἐγχειρίδιον ἁρμονικῆς* · `owy-ac`
+- [Theological Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-gerasa-theological-arithmetic-owy-ab.grc.md) — *Θεολογικὴ ἀριθμητική* · `owy-ab`
 
 ## License and provenance
 

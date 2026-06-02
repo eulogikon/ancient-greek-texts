@@ -19,8 +19,8 @@ Ion of Samos was a 5th century BCE Ionic elegiac poet. Two surviving works of ve
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-epigram-esi-ab.grc.md) — *Ἐπίγραμμα* · `esi-ab`
-- [Lysander's Victory Dedication](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-samos-victory-dedication-esi-aa.grc.md) — *Ἀπόσπασμα* · `esi-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-samos-epigram-esi-ab.grc.md) — *Ἐπίγραμμα* · `esi-ab`
+- [Lysander's Victory Dedication](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-samos-victory-dedication-esi-aa.grc.md) — *Ἀπόσπασμα* · `esi-aa`
 
 ## License and provenance
 

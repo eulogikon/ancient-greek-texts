@@ -19,7 +19,7 @@ Aristodemus of Nyssa, a 1st century BCE Hellenistic historian. Works preserved i
 
 ## Works
 
-- [Fragments on the Galatians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-of-nyssa-galatians-fragments-mik-aa.grc.md) — *Ἀποσπάσματα περὶ Γαλατῶν* · `mik-aa`
+- [Fragments on the Galatians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-nyssa-galatians-fragments-mik-aa.grc.md) — *Ἀποσπάσματα περὶ Γαλατῶν* · `mik-aa`
 
 ## License and provenance
 

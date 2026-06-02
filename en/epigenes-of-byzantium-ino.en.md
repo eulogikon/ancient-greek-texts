@@ -19,8 +19,8 @@ Epigenes of Byzantium was a Hellenistic comic poet. Two fragmentary works surviv
 
 ## Works
 
-- [Fragments on Banquets and Vessels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-banquets-vessels-ino-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων καὶ Σκευῶν* · `ino-ab`
-- [Fragments on Drinking Vessels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium-drinking-vessels-ino-aa.grc.md) — *Ἀποσπάσματα περὶ Ποτηρίων* · `ino-aa`
+- [Fragments on Banquets and Vessels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-byzantium-banquets-vessels-ino-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων καὶ Σκευῶν* · `ino-ab`
+- [Fragments on Drinking Vessels](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-byzantium-drinking-vessels-ino-aa.grc.md) — *Ἀποσπάσματα περὶ Ποτηρίων* · `ino-aa`
 
 ## License and provenance
 

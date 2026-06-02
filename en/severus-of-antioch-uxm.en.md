@@ -19,7 +19,7 @@ Severus of Antioch, a 6th century Christian orator. Read his surviving orations 
 
 ## Works
 
-- [Narratives and Ethopoeiae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-of-antioch-narratives-ethopoeiae-uxm-aa.grc.md) — *Διηγήσεις καὶ Ἠθοποιΐαι* · `uxm-aa`
+- [Narratives and Ethopoeiae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/severus-antioch-narratives-ethopoeiae-uxm-aa.grc.md) — *Διηγήσεις καὶ Ἠθοποιΐαι* · `uxm-aa`
 
 ## License and provenance
 

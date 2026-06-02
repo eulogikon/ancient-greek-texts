@@ -20,9 +20,9 @@ Ocellus of Lucania, an early Pythagorean philosopher from Italy. Surviving works
 
 ## Works
 
-- [On Cosmic Order and Human Harmony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-cosmic-harmony-eoc-ac.grc.md) — *Ἀποσπάσματα* · `eoc-ac`
-- [On the Nature of the Universe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-nature-universe-eoc-aa.grc.md) — *Περὶ φύσεως τοῦ κόσμου* · `eoc-aa`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-testimonies-eoc-ab.grc.md) — *Μαρτυρίαι* · `eoc-ab`
+- [On Cosmic Order and Human Harmony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-lucania-cosmic-harmony-eoc-ac.grc.md) — *Ἀποσπάσματα* · `eoc-ac`
+- [On the Nature of the Universe](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-lucania-nature-universe-eoc-aa.grc.md) — *Περὶ φύσεως τοῦ κόσμου* · `eoc-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-lucania-testimonies-eoc-ab.grc.md) — *Μαρτυρίαι* · `eoc-ab`
 
 ## License and provenance
 

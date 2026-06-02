@@ -19,7 +19,7 @@ Phoebammon was a Greek sophist and teacher of rhetoric. His surviving oration is
 
 ## Works
 
-- [On Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist-figures-prs-aa.grc.md) — *Περὶ Σχημάτων* · `prs-aa`
+- [On Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-figures-prs-aa.grc.md) — *Περὶ Σχημάτων* · `prs-aa`
 
 ## License and provenance
 

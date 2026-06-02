@@ -19,7 +19,7 @@ Charax of Pergamum was a 2nd century CE Roman historian. His surviving works are
 
 ## Works
 
-- [Geographical and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum-geographical-mythological-qiq-aa.grc.md) — *Ἀποσπάσματα* · `qiq-aa`
+- [Geographical and Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-pergamum-geographical-mythological-qiq-aa.grc.md) — *Ἀποσπάσματα* · `qiq-aa`
 
 ## License and provenance
 

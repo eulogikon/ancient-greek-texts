@@ -20,8 +20,8 @@ Aetius, a Roman period compiler of philosophical knowledge. Two surviving doxogr
 
 ## Works
 
-- [Opinions (Stobaean Tradition)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-aa-ovu-aa.grc.md) — *Περὶ Δογμάτων Ἀπολείμματα* · `ovu-aa`
-- [Opinions (Theodoret Tradition)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-the-doxographer-doctrines-remnants-ab-ovu-ab.grc.md) — *Περὶ Δογμάτων Ἀπολείμματα* · `ovu-ab`
+- [Opinions (Stobaean Tradition)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-doctrines-remnants-ovu-aa.grc.md) — *Περὶ Δογμάτων Ἀπολείμματα* · `ovu-aa`
+- [Opinions (Theodoret Tradition)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-doctrines-remnants-ovu-ab.grc.md) — *Περὶ Δογμάτων Ἀπολείμματα* · `ovu-ab`
 
 ## License and provenance
 

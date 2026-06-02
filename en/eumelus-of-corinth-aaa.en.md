@@ -19,10 +19,10 @@ Eumelus of Corinth, archaic Greek poet of the 8th-7th century BCE. Surviving fra
 
 ## Works
 
-- [Corinthian Matters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-matters-aaa-aa.grc.md) — *Κορινθιακὰ Πράγματα* · `aaa-aa`
-- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-epic-fragments-aaa-ab.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `aaa-ab`
-- [Fragments on Corinthian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-genealogy-aaa-ad.grc.md) — *Ἀποσπάσματα περὶ Κορινθιακῆς Γενεαλογίας* · `aaa-ad`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth-testimonies-aaa-ac.grc.md) — *Μαρτυρίαι* · `aaa-ac`
+- [Corinthian Matters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-corinth-matters-aaa-aa.grc.md) — *Κορινθιακὰ Πράγματα* · `aaa-aa`
+- [Epic Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-corinth-epic-fragments-aaa-ab.grc.md) — *Ἐπικὰ Ἀποσπάσματα* · `aaa-ab`
+- [Fragments on Corinthian Genealogy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-corinth-genealogy-aaa-ad.grc.md) — *Ἀποσπάσματα περὶ Κορινθιακῆς Γενεαλογίας* · `aaa-ad`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-corinth-testimonies-aaa-ac.grc.md) — *Μαρτυρίαι* · `aaa-ac`
 
 ## License and provenance
 

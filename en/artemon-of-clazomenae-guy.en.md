@@ -19,7 +19,7 @@ Artemon of Clazomenae was a 4th century BCE Ionic historian. Fragments of his hi
 
 ## Works
 
-- [Chronicles and Homeric Studies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae-chronicles-homeric-studies-guy-aa.grc.md) — *Ἀποσπάσματα* · `guy-aa`
+- [Chronicles and Homeric Studies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-clazomenae-chronicles-homeric-studies-guy-aa.grc.md) — *Ἀποσπάσματα* · `guy-aa`
 
 ## License and provenance
 

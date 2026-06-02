@@ -19,7 +19,7 @@ Aeneas of Stymphalus, 4th century BCE military writer. His treatise covers tacti
 
 ## Works
 
-- [On How Those Under Siege Should Resist](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-stymphalus-under-siege-resist-ftq-aa.grc.md) — *Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν* · `ftq-aa`
+- [On How Those Under Siege Should Resist](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-stymphalus-under-siege-resist-ftq-aa.grc.md) — *Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν* · `ftq-aa`
 
 ## License and provenance
 

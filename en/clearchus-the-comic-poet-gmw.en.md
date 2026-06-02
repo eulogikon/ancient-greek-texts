@@ -19,8 +19,8 @@ Clearchus was a 4th century BCE Attic comic poet. Surviving fragments of his com
 
 ## Works
 
-- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab.grc.md) — *Ἀποσπάσματα* · `gmw-ab`
-- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa.grc.md) — *Ἀποσπάσματα* · `gmw-aa`
+- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-comic-symposium-drinking-gmw-aa.grc.md) — *Ἀποσπάσματα* · `gmw-aa`
+- [Symposium and Drinking Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-comic-symposium-drinking-gmw-ab.grc.md) — *Ἀποσπάσματα* · `gmw-ab`
 
 ## License and provenance
 

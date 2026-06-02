@@ -20,7 +20,7 @@ Euphantus of Olynthus was a Hellenistic philosopher. Surviving works include a t
 
 ## Works
 
-- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus-historical-fragments-hmq-aa.grc.md) — *Ἀποσπάσματα* · `hmq-aa`
+- [Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-olynthus-historical-fragments-hmq-aa.grc.md) — *Ἀποσπάσματα* · `hmq-aa`
 
 ## License and provenance
 

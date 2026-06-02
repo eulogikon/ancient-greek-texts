@@ -20,7 +20,7 @@ Arimnestus was a Greek philosopher mentioned by Plato. His surviving treatise is
 
 ## Works
 
-- [Fragments on Pythagorean Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-the-philosopher-pythagorean-wisdom-ddo-aa.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Σοφίας* · `ddo-aa`
+- [Fragments on Pythagorean Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arimnestus-pythagorean-wisdom-ddo-aa.grc.md) — *Ἀποσπάσματα περὶ Πυθαγορικῆς Σοφίας* · `ddo-aa`
 
 ## License and provenance
 

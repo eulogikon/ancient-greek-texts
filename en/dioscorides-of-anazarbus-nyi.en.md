@@ -19,10 +19,10 @@ Dioscorides of Anazarbus, 1st century CE Greek physician and botanist. Author of
 
 ## Works
 
-- [On Medical Material](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-medical-material-ac-nyi-ac.grc.md) — *Περὶ Ὑλῆς Ἰατρικῆς* · `nyi-ac`
-- [On Medical Material, Recensions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-medical-material-aa-nyi-aa.grc.md) — *Περὶ Ὑλῆς Ἰατρικῆς* · `nyi-aa`
-- [On Peony and What It Can Do](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-peony-nyi-ab.grc.md) — *Περὶ παιωνίας καὶ ὅσα ποιεῖν δύναται* · `nyi-ab`
-- [On Simple Medicines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus-simple-medicines-nyi-ad.grc.md) — *Περὶ ἀπλῶν φαρμάκων* · `nyi-ad`
+- [On Medical Material](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-anazarbus-medical-material-nyi-ac.grc.md) — *Περὶ Ὑλῆς Ἰατρικῆς* · `nyi-ac`
+- [On Medical Material, Recensions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-anazarbus-medical-material-nyi-aa.grc.md) — *Περὶ Ὑλῆς Ἰατρικῆς* · `nyi-aa`
+- [On Peony and What It Can Do](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-anazarbus-peony-nyi-ab.grc.md) — *Περὶ παιωνίας καὶ ὅσα ποιεῖν δύναται* · `nyi-ab`
+- [On Simple Medicines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-anazarbus-simple-medicines-nyi-ad.grc.md) — *Περὶ ἀπλῶν φαρμάκων* · `nyi-ad`
 
 ## License and provenance
 

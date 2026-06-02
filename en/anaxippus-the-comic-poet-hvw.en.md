@@ -19,8 +19,8 @@ Anaxippus was an Athenian comic poet of the early Hellenistic period. Two works 
 
 ## Works
 
-- [Cook's Art and Death](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab.grc.md) — *Ἀποσπάσματα* · `hvw-ab`
-- [Fragments on Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet-cooking-fragments-hvw-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας* · `hvw-aa`
+- [Cook's Art and Death](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-cooks-art-and-death-hvw-ab.grc.md) — *Ἀποσπάσματα* · `hvw-ab`
+- [Fragments on Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-cooking-fragments-hvw-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας* · `hvw-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Phanodemus, a 4th century BCE Athenian historian and Atthidographer. Fragments o
 
 ## Works
 
-- [Atthid Fragments on Athenian Lore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens-atthid-lore-fvy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Παραδόσεων* · `fvy-aa`
+- [Atthid Fragments on Athenian Lore](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-athens-atthid-lore-fvy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Παραδόσεων* · `fvy-aa`
 
 ## License and provenance
 

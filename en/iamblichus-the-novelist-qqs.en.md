@@ -19,7 +19,7 @@ Iamblichus the Novelist, a 2nd century CE Greek romance writer. Surviving works 
 
 ## Works
 
-- [Babyloniaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-the-novelist-babyloniaca-qqs-aa.grc.md) — *Βαβυλωνιακά* · `qqs-aa`
+- [Babyloniaca](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-babyloniaca-qqs-aa.grc.md) — *Βαβυλωνιακά* · `qqs-aa`
 
 ## License and provenance
 

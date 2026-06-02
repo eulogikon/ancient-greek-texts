@@ -19,9 +19,9 @@ Geminus of Rhodes, a 1st century BCE scientific writer. Works include astronomy 
 
 ## Works
 
-- [Calendar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-calendar-nwa-ac.grc.md) — *Ἡμερολόγιον* · `nwa-ac`
-- [Elements of Astronomy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-astronomy-nwa-aa.grc.md) — *Στοιχεῖα Ἀστρονομίας* · `nwa-aa`
-- [Optical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes-optical-fragments-nwa-ab.grc.md) — *Ὀπτικὰ Ἀποσπάσματα* · `nwa-ab`
+- [Calendar](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-rhodes-calendar-nwa-ac.grc.md) — *Ἡμερολόγιον* · `nwa-ac`
+- [Elements of Astronomy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-rhodes-astronomy-nwa-aa.grc.md) — *Στοιχεῖα Ἀστρονομίας* · `nwa-aa`
+- [Optical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-rhodes-optical-fragments-nwa-ab.grc.md) — *Ὀπτικὰ Ἀποσπάσματα* · `nwa-ab`
 
 ## License and provenance
 

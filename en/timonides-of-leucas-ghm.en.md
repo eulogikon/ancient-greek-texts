@@ -19,7 +19,7 @@ Timonides of Leucas was a 4th century BCE historian writing in Attic Greek. His 
 
 ## Works
 
-- [Historical Fragments on Dion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas-historical-fragments-dion-ghm-aa.grc.md) — *Ἀποσπάσματα περὶ Δίωνος* · `ghm-aa`
+- [Historical Fragments on Dion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-leucas-historical-fragments-dion-ghm-aa.grc.md) — *Ἀποσπάσματα περὶ Δίωνος* · `ghm-aa`
 
 ## License and provenance
 

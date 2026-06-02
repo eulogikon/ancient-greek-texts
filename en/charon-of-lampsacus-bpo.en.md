@@ -19,7 +19,7 @@ Charon of Lampsacus was a 5th century BCE Greek historian. His surviving histori
 
 ## Works
 
-- [Persian and Greek Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus-persian-greek-histories-bpo-aa.grc.md) — *Ἀποσπάσματα* · `bpo-aa`
+- [Persian and Greek Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-lampsacus-persian-greek-histories-bpo-aa.grc.md) — *Ἀποσπάσματα* · `bpo-aa`
 
 ## License and provenance
 

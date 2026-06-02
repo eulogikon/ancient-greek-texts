@@ -19,7 +19,7 @@ Aristonymus was an Athenian comic poet of Old Comedy. Surviving fragments from h
 
 ## Works
 
-- [Fragments on Fish and Seafood](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet-fish-seafood-dts-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων* · `dts-aa`
+- [Fragments on Fish and Seafood](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-fish-seafood-dts-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων* · `dts-aa`
 
 ## License and provenance
 

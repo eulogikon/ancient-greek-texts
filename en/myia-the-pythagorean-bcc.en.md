@@ -20,7 +20,7 @@ Myia was a philosopher of the Pythagorean school. Her surviving work is an epist
 
 ## Works
 
-- [Letter to Phyllis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean-phyllis-bcc-aa.grc.md) — *Πρὸς Φυλλίδα Ἐπιστολή* · `bcc-aa`
+- [Letter to Phyllis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-phyllis-bcc-aa.grc.md) — *Πρὸς Φυλλίδα Ἐπιστολή* · `bcc-aa`
 
 ## License and provenance
 

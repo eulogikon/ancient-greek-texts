@@ -20,7 +20,7 @@ Hierocles of Alexandria, a 5th century CE Neoplatonic philosopher. His work On P
 
 ## Works
 
-- [On the Golden Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria-golden-poem-tbu-aa.grc.md) — *Περὶ τοῦ Χρυσοῦ Ποιήματος* · `tbu-aa`
+- [On the Golden Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-alexandria-golden-poem-tbu-aa.grc.md) — *Περὶ τοῦ Χρυσοῦ Ποιήματος* · `tbu-aa`
 
 ## License and provenance
 

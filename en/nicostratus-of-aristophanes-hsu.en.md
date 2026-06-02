@@ -19,8 +19,8 @@ Nicostratus, 4th century BCE comic poet and son of Aristophanes. Includes surviv
 
 ## Works
 
-- [Fragments on Banquets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-banquets-hsu-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων* · `hsu-ab`
-- [Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes-food-feasting-hsu-aa.grc.md) — *Ἀποσπάσματα περὶ Σίτου καὶ Εὐωχίας* · `hsu-aa`
+- [Fragments on Banquets](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-aristophanes-banquets-hsu-ab.grc.md) — *Ἀποσπάσματα περὶ Συμποσίων* · `hsu-ab`
+- [Fragments on Food and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-aristophanes-food-feasting-hsu-aa.grc.md) — *Ἀποσπάσματα περὶ Σίτου καὶ Εὐωχίας* · `hsu-aa`
 
 ## License and provenance
 

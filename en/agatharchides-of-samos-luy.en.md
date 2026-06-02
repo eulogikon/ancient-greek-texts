@@ -19,7 +19,7 @@ Agatharchides of Samos, Hellenistic historian of the 2nd-1st century BCE. Fragme
 
 ## Works
 
-- [Fragments on Persian Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-samos-persian-wars-luy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων* · `luy-aa`
+- [Fragments on Persian Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-samos-persian-wars-luy-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Περσικῶν Πολέμων* · `luy-aa`
 
 ## License and provenance
 

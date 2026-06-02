@@ -19,7 +19,7 @@ Xenophilus, a Pythagorean philosopher and musician of the 4th century BCE. Fragm
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-the-pythagorean-testimonies-fwi-aa.grc.md) — *Μαρτυρίαι* · `fwi-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophilus-pythagorean-testimonies-fwi-aa.grc.md) — *Μαρτυρίαι* · `fwi-aa`
 
 ## License and provenance
 

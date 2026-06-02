@@ -19,9 +19,9 @@ Hellanicus of Lesbos, a 5th century BCE historian. Fragmentary historical and my
 
 ## Works
 
-- [Fragments on Heraclean Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-heraclean-wars-cvm-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἡρακλειωτικῶν Πολέμων* · `cvm-ac`
-- [Phoronis: Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-phoronis-mythological-fragments-cvm-ab.grc.md) — *Ἀποσπάσματα* · `cvm-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos-testimonies-cvm-aa.grc.md) — *Μαρτυρίαι* · `cvm-aa`
+- [Fragments on Heraclean Wars](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-lesbos-heraclean-wars-cvm-ac.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἡρακλειωτικῶν Πολέμων* · `cvm-ac`
+- [Phoronis: Mythological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-lesbos-phoronis-mythological-fragments-cvm-ab.grc.md) — *Ἀποσπάσματα* · `cvm-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-lesbos-testimonies-cvm-aa.grc.md) — *Μαρτυρίαι* · `cvm-aa`
 
 ## License and provenance
 

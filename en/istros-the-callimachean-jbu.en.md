@@ -19,8 +19,8 @@ Istros the Callimachean, a 3rd century BCE Hellenistic historian. Surviving frag
 
 ## Works
 
-- [Attic Antiquities and Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-attica-festivals-jbu-aa.grc.md) — *Ἀποσπάσματα* · `jbu-aa`
-- [Fragments on the Olympic Region](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean-olympic-region-jbu-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὀλυμπικῆς Χώρας* · `jbu-ab`
+- [Attic Antiquities and Festivals](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-callimachean-attica-festivals-jbu-aa.grc.md) — *Ἀποσπάσματα* · `jbu-aa`
+- [Fragments on the Olympic Region](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-callimachean-olympic-region-jbu-ab.grc.md) — *Ἀποσπάσματα περὶ τῆς Ὀλυμπικῆς Χώρας* · `jbu-ab`
 
 ## License and provenance
 

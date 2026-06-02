@@ -19,8 +19,8 @@ Demetrius On Style, a 2nd century BCE Roman author on rhetoric. Two works on ora
 
 ## Works
 
-- [Epistolary Forms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style-epistolary-forms-ab-nvg-ab.grc.md) — *Ἐπιστολικὰ Σχήματα* · `nvg-ab`
-- [Epistolary Forms, Two Spurious Examples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style-epistolary-forms-aa-nvg-aa.grc.md) — *Ἐπιστολικὰ Σχήματα* · `nvg-aa`
+- [Epistolary Forms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-style-epistolary-forms-nvg-ab.grc.md) — *Ἐπιστολικὰ Σχήματα* · `nvg-ab`
+- [Epistolary Forms, Two Spurious Examples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-style-epistolary-forms-nvg-aa.grc.md) — *Ἐπιστολικὰ Σχήματα* · `nvg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Diophantus of Alexandria, Greek mathematician of the Roman period. His surviving
 
 ## Works
 
-- [Fragments on Pontic Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-pontic-histories-rqc-aa.grc.md) — *Ἀποσπάσματα περὶ Ποντικῶν Ἱστοριῶν* · `rqc-aa`
+- [Fragments on Pontic Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-alexandria-pontic-histories-rqc-aa.grc.md) — *Ἀποσπάσματα περὶ Ποντικῶν Ἱστοριῶν* · `rqc-aa`
 
 ## License and provenance
 

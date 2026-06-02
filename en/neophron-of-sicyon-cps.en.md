@@ -19,7 +19,7 @@ Neophron of Sicyon, a 5th century BCE Attic dramatist. Surviving fragments of hi
 
 ## Works
 
-- [Medea's Revenge Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-of-sicyon-medea-revenge-cps-aa.grc.md) — *Ἀποσπάσματα* · `cps-aa`
+- [Medea's Revenge Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-sicyon-medea-revenge-cps-aa.grc.md) — *Ἀποσπάσματα* · `cps-aa`
 
 ## License and provenance
 

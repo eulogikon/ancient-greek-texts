@@ -19,8 +19,8 @@ Athenion, a Greek comic poet of the 4th-3rd century BCE. Fragments of his comedi
 
 ## Works
 
-- [Fragments on Cooking and Piety](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-cooking-piety-gtk-ab.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Εὐσεβείας* · `gtk-ab`
-- [On the Origins of Cookery](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet-origins-cookery-gtk-aa.grc.md) — *Ἀπόσπασμα* · `gtk-aa`
+- [Fragments on Cooking and Piety](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-cooking-piety-gtk-ab.grc.md) — *Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Εὐσεβείας* · `gtk-ab`
+- [On the Origins of Cookery](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-origins-cookery-gtk-aa.grc.md) — *Ἀπόσπασμα* · `gtk-aa`
 
 ## License and provenance
 

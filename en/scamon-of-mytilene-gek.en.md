@@ -19,7 +19,7 @@ Scamon of Mytilene was a classical Greek historian writing in the Aeolic dialect
 
 ## Works
 
-- [On Inventions and Discoveries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene-inventions-discoveries-gek-aa.grc.md) — *Ἀποσπάσματα* · `gek-aa`
+- [On Inventions and Discoveries](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-mytilene-inventions-discoveries-gek-aa.grc.md) — *Ἀποσπάσματα* · `gek-aa`
 
 ## License and provenance
 

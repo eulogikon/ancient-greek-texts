@@ -20,8 +20,8 @@ Anonymous collection of Pythagorean ethical maxims from the Roman Imperial perio
 
 ## Works
 
-- [Pythagorean Sentences (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-aa-pza-aa.grc.md) — *Γνῶμαι Πυθαγορείων* · `pza-aa`
-- [Pythagorean Sentences (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sayings-sentences-ab-pza-ab.grc.md) — *Γνῶμαι Πυθαγορείων* · `pza-ab`
+- [Pythagorean Sentences (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sentences-pza-aa.grc.md) — *Γνῶμαι Πυθαγορείων* · `pza-aa`
+- [Pythagorean Sentences (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoreans-sentences-pza-ab.grc.md) — *Γνῶμαι Πυθαγορείων* · `pza-ab`
 
 ## License and provenance
 

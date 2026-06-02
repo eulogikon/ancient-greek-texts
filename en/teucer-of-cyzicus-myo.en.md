@@ -19,7 +19,7 @@ Teucer of Cyzicus was a Hellenistic historian of the 1st century BCE. His histor
 
 ## Works
 
-- [Fragments on Greek Toponymy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus-greek-toponymy-myo-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑλληνικῆς Τοπωνυμίας* · `myo-aa`
+- [Fragments on Greek Toponymy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-cyzicus-greek-toponymy-myo-aa.grc.md) — *Ἀποσπάσματα περὶ Ἑλληνικῆς Τοπωνυμίας* · `myo-aa`
 
 ## License and provenance
 

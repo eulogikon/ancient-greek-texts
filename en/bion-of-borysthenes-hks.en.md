@@ -20,8 +20,8 @@ Bion of Borysthenes, a 3rd century BCE Hellenistic Cynic philosopher. Surviving 
 
 ## Works
 
-- [Bion's Philosophical Autobiography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-philosophical-autobiography-hks-aa.grc.md) — *Ἐπιτάφιος Ἀδώνιδος* · `hks-aa`
-- [Fragments on Archytas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes-archytas-fragments-hks-ab.grc.md) — *Αποσπάσματα* · `hks-ab`
+- [Bion's Philosophical Autobiography](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-borysthenes-philosophical-autobiography-hks-aa.grc.md) — *Ἐπιτάφιος Ἀδώνιδος* · `hks-aa`
+- [Fragments on Archytas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-borysthenes-archytas-fragments-hks-ab.grc.md) — *Αποσπάσματα* · `hks-ab`
 
 ## License and provenance
 

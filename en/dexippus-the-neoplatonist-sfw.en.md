@@ -20,7 +20,7 @@ Dexippus, a 4th century CE Neoplatonist student of Iamblichus. His treatise on A
 
 ## Works
 
-- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-the-neoplatonist-commentary-aristotle-sfw-aa.grc.md) — *Σχόλια εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους* · `sfw-aa`
+- [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dexippus-commentary-aristotle-sfw-aa.grc.md) — *Σχόλια εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους* · `sfw-aa`
 
 ## License and provenance
 

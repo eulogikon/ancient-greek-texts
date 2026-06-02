@@ -19,7 +19,7 @@ Phrynichus, Athenian tragic poet and predecessor to Aeschylus. Surviving fragmen
 
 ## Works
 
-- [Fragments on Heracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet-heracles-fragments-bjk-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους* · `bjk-aa`
+- [Fragments on Heracles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-heracles-fragments-bjk-aa.grc.md) — *Ἀποσπάσματα περὶ Ἡρακλέους* · `bjk-aa`
 
 ## License and provenance
 

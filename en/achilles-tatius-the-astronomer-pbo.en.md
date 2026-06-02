@@ -19,7 +19,7 @@ Achilles Tatius the Astronomer, Roman era scientific writer. Astronomical treati
 
 ## Works
 
-- [Excerpted Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achilles-tatius-the-astronomer-excerpted-introduction-pbo-aa.grc.md) — *Ἐκλογὴ Εἰσαγωγῆς* · `pbo-aa`
+- [Excerpted Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achilles-tatius-excerpted-introduction-pbo-aa.grc.md) — *Ἐκλογὴ Εἰσαγωγῆς* · `pbo-aa`
 
 ## License and provenance
 

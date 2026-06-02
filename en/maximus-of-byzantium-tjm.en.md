@@ -19,7 +19,7 @@ Maximus of Byzantium Late Antique orator writing in Byzantine Greeksurviving ora
 
 ## Works
 
-- [On the Insoluble Contradictions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium-insoluble-contradictions-tjm-aa.grc.md) — *Περὶ τῶν ἀλύτων ἀντιθέσεων* · `tjm-aa`
+- [On the Insoluble Contradictions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-byzantium-insoluble-contradictions-tjm-aa.grc.md) — *Περὶ τῶν ἀλύτων ἀντιθέσεων* · `tjm-aa`
 
 ## License and provenance
 

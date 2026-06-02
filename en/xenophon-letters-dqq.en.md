@@ -19,7 +19,7 @@ Xenophon, classical Greek historian and philosopher of the 5th-4th century BCE. 
 
 ## Works
 
-- [Fragments on Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-letters-socrates-fragments-dqq-aa.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους* · `dqq-aa`
+- [Fragments on Socrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-socrates-fragments-dqq-aa.grc.md) — *Ἀποσπάσματα περὶ Σωκράτους* · `dqq-aa`
 
 ## License and provenance
 

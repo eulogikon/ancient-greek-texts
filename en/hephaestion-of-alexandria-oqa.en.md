@@ -19,11 +19,11 @@ Hephaestion of Alexandria, 2nd century CE Greek grammarian. Five works on meter 
 
 ## Works
 
-- [Handbook-Meters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-handbook-meters-oqa-ac.grc.md) — *Ἐγχειρίδιον περὶ Μέτρων* · `oqa-ac`
-- [Hephaestion Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-fragments-oqa-aa.grc.md) — *Ἡφαιστίωνος Ἀποσπάσματα* · `oqa-aa`
-- [Metric Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-metric-introduction-oqa-ab.grc.md) — *Μετρικὴ εἰσαγωγή* · `oqa-ab`
-- [On Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-on-poems-oqa-ad.grc.md) — *Περὶ ποιημάτων* · `oqa-ad`
-- [On Signs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria-signs-oqa-ae.grc.md) — *Περὶ Σημείων* · `oqa-ae`
+- [Handbook-Meters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-alexandria-handbook-meters-oqa-ac.grc.md) — *Ἐγχειρίδιον περὶ Μέτρων* · `oqa-ac`
+- [Hephaestion Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-alexandria-fragments-oqa-aa.grc.md) — *Ἡφαιστίωνος Ἀποσπάσματα* · `oqa-aa`
+- [Metric Introduction](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-alexandria-metric-introduction-oqa-ab.grc.md) — *Μετρικὴ εἰσαγωγή* · `oqa-ab`
+- [On Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-alexandria-on-poems-oqa-ad.grc.md) — *Περὶ ποιημάτων* · `oqa-ad`
+- [On Signs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-alexandria-signs-oqa-ae.grc.md) — *Περὶ Σημείων* · `oqa-ae`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Magnus the Historian, a 5th-6th century CE Greek historian. His surviving histor
 
 ## Works
 
-- [On Julian's Persian Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-the-historian-julian-persian-campaign-vli-aa.grc.md) — *Ἀπόσπασμα* · `vli-aa`
+- [On Julian's Persian Campaign](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-julian-persian-campaign-vli-aa.grc.md) — *Ἀπόσπασμα* · `vli-aa`
 
 ## License and provenance
 

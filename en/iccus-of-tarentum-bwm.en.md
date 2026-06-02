@@ -20,7 +20,7 @@ Iccus of Tarentum was a 5th century BCE Olympic athlete and Pythagorean philosop
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-of-tarentum-testimonies-bwm-aa.grc.md) — *Μαρτυρίαι* · `bwm-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iccus-tarentum-testimonies-bwm-aa.grc.md) — *Μαρτυρίαι* · `bwm-aa`
 
 ## License and provenance
 

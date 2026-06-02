@@ -19,7 +19,7 @@ Diogenes of Athens was a classical Attic dramatist of the late 5th century BCE. 
 
 ## Works
 
-- [Fragments on Foreign Rites](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens-foreign-rites-cjy-aa.grc.md) — *Ἀποσπάσματα περὶ Ξένων Ἱερῶν* · `cjy-aa`
+- [Fragments on Foreign Rites](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-athens-foreign-rites-cjy-aa.grc.md) — *Ἀποσπάσματα περὶ Ξένων Ἱερῶν* · `cjy-aa`
 
 ## License and provenance
 

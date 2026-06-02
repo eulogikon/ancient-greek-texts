@@ -19,7 +19,7 @@ Clytus the Historian, a 4th century BCE Greek historian. Historical works preser
 
 ## Works
 
-- [On the Birds of Leros](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian-birds-leros-gnq-aa.grc.md) — *Ἀποσπάσματα* · `gnq-aa`
+- [On the Birds of Leros](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-birds-leros-gnq-aa.grc.md) — *Ἀποσπάσματα* · `gnq-aa`
 
 ## License and provenance
 

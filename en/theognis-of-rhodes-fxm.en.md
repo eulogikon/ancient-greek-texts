@@ -19,7 +19,7 @@ Theognis of Rhodes, a Hellenistic poet. Surviving fragments of his work are pres
 
 ## Works
 
-- [On the Rhodian Swallow Festival](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes-swallow-festival-fxm-aa.grc.md) — *Ἀπόσπασμα* · `fxm-aa`
+- [On the Rhodian Swallow Festival](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-rhodes-swallow-festival-fxm-aa.grc.md) — *Ἀπόσπασμα* · `fxm-aa`
 
 ## License and provenance
 

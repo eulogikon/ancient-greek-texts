@@ -19,7 +19,7 @@ Python of Catana was a Hellenistic dramatist of the 4th century BCE. His works a
 
 ## Works
 
-- [Fragments on Harpalus and Athens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-of-catana-harpalus-athens-lja-aa.grc.md) — *Ἀποσπάσματα περὶ Ἁρπάλου καὶ Ἀθηνῶν* · `lja-aa`
+- [Fragments on Harpalus and Athens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-catana-harpalus-athens-lja-aa.grc.md) — *Ἀποσπάσματα περὶ Ἁρπάλου καὶ Ἀθηνῶν* · `lja-aa`
 
 ## License and provenance
 

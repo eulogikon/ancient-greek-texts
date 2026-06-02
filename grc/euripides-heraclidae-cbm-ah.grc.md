@@ -710,6 +710,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἐρεῖς τὸ λῶιστον ἐλπίδ’ εὑρήσειν μόνον·
 
+*[crux: ἐρεῖς τὸ λῶιστον ἐλπίδ’ εὑρήσειν μόνον]*
+
 ### 170.1
 
 καὶ τοῦτο πολλῶι τοῦ παρόντος ἐνδεές.
@@ -1586,6 +1588,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ποίαι προσάξει στρατόπεδον τὰ νῦν δορὸς
 
+*[crux: τὰ νῦν δορὸς]*
+
 ### 395.3
 
 ἐν ἀσφαλεῖ τε τῆσδ’ ἱδρύσεται χθονός.
@@ -2094,6 +2098,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 καὶ στεμματοῦτε καὶ κατάρχεσθ’ εἰ δοκεῖ·
 
+*[crux: κατάρχεσθ’ εἰ δοκεῖ]*
+
 ### 530.1
 
 νικᾶτε δ’ ἐχθρούς· ἥδε γὰρ ψυχὴ πάρα
@@ -2201,6 +2207,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 555.4
 
 Πα. σοφῶς κελεύεις· μὴ τρέσηις μιάσματος
+
+*[crux: κελεύεις]*
 
 ### 555.5
 
@@ -2413,6 +2421,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 610.5
 
 τὸν δ’ ἀλήταν εὐδαίμονα τεύχει.
+
+*[crux: ἀλήταν]*
 
 ### 615.1
 
@@ -3078,6 +3088,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 δέσποινα, μύθους σοί τε συντομωτάτους
 
+*[crux: συντομωτάτους]*
+
 ### 785.1
 
 κλύειν ἐμοί τε τῶιδε καλλίστους φέρω·
@@ -3093,6 +3105,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 785.4
 
 Αλ. ὦ φίλταθ’, ἥδε ς’ ἡμέρα διήλασεν·
+
+*[crux: διήλασεν]*
 
 ### 785.5
 
@@ -3113,6 +3127,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 790.4
 
 Αλ. ὁ μὲν γέρων οὐκ ἔστιν Ἰόλεως ὅδε;
+
+*[crux: οὐκ ἔστιν Ἰόλεως ὅδε]*
 
 ### 790.5
 
@@ -3294,6 +3310,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πολλοὶ δ’ ἔπιπτον. ἦν δὲ τοῦ κελεύσματος
 
+*[crux: τοῦ κελεύσματος]*
+
 ### 835.5
 
 Ὦ τὰς Ἀθήνας—Ὦ τὸν Ἀργείων γύην
@@ -3470,6 +3488,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 κρατοῦντα καὶ σῆι δεσποτούμενον χερί.
 
+*[crux: κρατοῦντα]*
+
 ### 885.1
 
 οὐ μὴν ἑκόντα γ’ αὐτὸν ἀλλὰ πρὸς βίαν
@@ -3501,6 +3521,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 890.3
 
 τοῦ χάρις ἐνὶ δαΐ·
+
+*[crux: ἐνὶ δαΐ]*
 
 ### 890.4
 
@@ -3782,6 +3804,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 Αλ. χρῆν τόνδε μὴ ζῆν μηδ’ ὁρᾶν φάος ἔτι.
 
+*[crux: ὁρᾶν φάος ἔτι]*
+
 ### 970.1
 
 Θε. τότ’ ἠδικήθη πρῶτον οὐ θανὼν ὅδε.
@@ -3902,6 +3926,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ἀκούσεταί γ’ ἐσθλὰ χρηστὸς ὢν ἀνήρ. κείνου δ’ ἀπαλλαχθέντος οὐκ ἐχρῆν μ’ ἄρα,
 
+*[crux: γ’ ἐσθλὰ]*
+
 ### 995.6
 
 μισούμενον πρὸς τῶνδε καὶ ξυνειδότα ἔχθραν πατρώιαν, πάντα κινῆσαι πέτρον
@@ -3957,6 +3983,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1015.1
 
 τὸν προστρόπαιον τόν τε γενναῖον καλεῖν.
+
+*[crux: τόν τε γενναῖον]*
 
 ### 1015.2
 

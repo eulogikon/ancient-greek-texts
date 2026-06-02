@@ -7,7 +7,7 @@ eul_aid: fzu
 canonical: "https://eulogikon.org/works/chilonis-letters-periander-fzu-aa"
 period: Classical
 dialect: Attic
-domain: Rhetoric
+domain: Oratory
 format: Epistle
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

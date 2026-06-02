@@ -19,7 +19,7 @@ Eparchides of Oineis, a 4th century BCE Attic historian. His historical works su
 
 ## Works
 
-- [Fragments on Icarus and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis-icarus-wine-cmq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου* · `cmq-aa`
+- [Fragments on Icarus and Wine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-oineis-icarus-wine-cmq-aa.grc.md) — *Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου* · `cmq-aa`
 
 ## License and provenance
 

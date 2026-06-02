@@ -20,7 +20,7 @@ Favorinus of Arelate, a 2nd-century CE Roman sophist. His surviving philosophica
 
 ## Works
 
-- [Fragments on Old Age and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate-old-age-pleasure-peq-aa.grc.md) — *Ἀποσπάσματα περὶ Γήρως καὶ Ἡδονῆς* · `peq-aa`
+- [Fragments on Old Age and Pleasure](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-arelate-old-age-pleasure-peq-aa.grc.md) — *Ἀποσπάσματα περὶ Γήρως καὶ Ἡδονῆς* · `peq-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dionysius of Antioch, a 1st-2nd century CE Roman orator. His surviving epistles 
 
 ## Works
 
-- [Letters to Philoxenus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch-letters-philoxenus-oug-aa.grc.md) — *Ἐπιστολαὶ πρὸς Φιλόξενον* · `oug-aa`
+- [Letters to Philoxenus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-antioch-letters-philoxenus-oug-aa.grc.md) — *Ἐπιστολαὶ πρὸς Φιλόξενον* · `oug-aa`
 
 ## License and provenance
 

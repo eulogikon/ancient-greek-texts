@@ -20,7 +20,7 @@ Ariston of Ceos, 3rd century BCE Peripatetic philosopher. His surviving treatise
 
 ## Works
 
-- [Fragments on Philosophical Doctrines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-of-ceos-philosophical-doctrines-kpa-aa.grc.md) — *Ἀποσπάσματα περὶ Δογμάτων Φιλοσοφικῶν* · `kpa-aa`
+- [Fragments on Philosophical Doctrines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ariston-ceos-philosophical-doctrines-kpa-aa.grc.md) — *Ἀποσπάσματα περὶ Δογμάτων Φιλοσοφικῶν* · `kpa-aa`
 
 ## License and provenance
 

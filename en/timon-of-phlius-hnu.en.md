@@ -20,7 +20,7 @@ Timon of Phlius, Hellenistic philosopher and poet, follower of Pyrrho. Surviving
 
 ## Works
 
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timon-of-phlius-fragments-hnu-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hnu-aa`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timon-phlius-fragments-hnu-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `hnu-aa`
 
 ## License and provenance
 

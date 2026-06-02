@@ -19,7 +19,7 @@ Lachares was an Athenian orator and teacher of rhetoric in the 4th century BCE. 
 
 ## Works
 
-- [Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lachares-the-sophist-rhetoric-ghw-aa.grc.md) — *Ῥητορική* · `ghw-aa`
+- [Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lachares-rhetoric-ghw-aa.grc.md) — *Ῥητορική* · `ghw-aa`
 
 ## License and provenance
 

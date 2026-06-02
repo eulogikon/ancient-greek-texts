@@ -19,7 +19,7 @@ Hermias of Alexandria was a 5th century CE poet writing in philosophical Koine. 
 
 ## Works
 
-- [Scholia-Plato's Phaedrus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-alexandria-scholia-phaedrus-tce-aa.grc.md) — *Σχόλια εἰς τὸν Πλάτωνος Φαῖδρον* · `tce-aa`
+- [Scholia-Plato's Phaedrus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-alexandria-scholia-phaedrus-tce-aa.grc.md) — *Σχόλια εἰς τὸν Πλάτωνος Φαῖδρον* · `tce-aa`
 
 ## License and provenance
 

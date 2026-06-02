@@ -19,7 +19,7 @@ Philostratus the Lemnian, a Roman era orator writing in Attic Greek. His survivi
 
 ## Works
 
-- [Images](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-lemnian-images-riu-aa.grc.md) — *Εἰκόνες* · `riu-aa`
+- [Images](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-lemnian-images-riu-aa.grc.md) — *Εἰκόνες* · `riu-aa`
 
 ## License and provenance
 

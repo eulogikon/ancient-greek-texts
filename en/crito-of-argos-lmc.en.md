@@ -19,7 +19,7 @@ Crito of Argos, a 3rd century BCE Hellenistic philosopher. Surviving fragments o
 
 ## Works
 
-- [Fragments on Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos-wisdom-fragments-lmc-aa.grc.md) — *Ἀποσπάσματα περὶ Σοφίας* · `lmc-aa`
+- [Fragments on Wisdom](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-argos-wisdom-fragments-lmc-aa.grc.md) — *Ἀποσπάσματα περὶ Σοφίας* · `lmc-aa`
 
 ## License and provenance
 

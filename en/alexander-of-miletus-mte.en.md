@@ -19,7 +19,7 @@ Alexander of Miletus, a 1st century BCE grammarian. Grammatical treatises surviv
 
 ## Works
 
-- [Fragments on Assyrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-miletus-assyrian-kings-mte-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀσσυρίων Βασιλέων* · `mte-aa`
+- [Fragments on Assyrian Kings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-miletus-assyrian-kings-mte-aa.grc.md) — *Ἀποσπάσματα περὶ τῶν Ἀσσυρίων Βασιλέων* · `mte-aa`
 
 ## License and provenance
 

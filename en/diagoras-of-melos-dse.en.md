@@ -19,7 +19,7 @@ Diagoras of Melos was a 5th century BCE poet writing in Doric dialect. Surviving
 
 ## Works
 
-- [On the Nature of the Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-of-melos-nature-gods-dse-aa.grc.md) — *Ἀποσπάσματα* · `dse-aa`
+- [On the Nature of the Gods](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-melos-nature-gods-dse-aa.grc.md) — *Ἀποσπάσματα* · `dse-aa`
 
 ## License and provenance
 

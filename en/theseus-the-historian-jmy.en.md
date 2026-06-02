@@ -19,7 +19,7 @@ Theseus the Historian was a Hellenistic writer of Koine Greek prose. His survivi
 
 ## Works
 
-- [Fragments on Corinthian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-the-historian-corinthian-history-jmy-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Κορινθίων Ἱστορίας* · `jmy-aa`
+- [Fragments on Corinthian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-corinthian-history-jmy-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Κορινθίων Ἱστορίας* · `jmy-aa`
 
 ## License and provenance
 

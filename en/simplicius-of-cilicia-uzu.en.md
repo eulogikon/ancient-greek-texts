@@ -20,12 +20,12 @@ Simplicius of Cilicia, 6th century CE Neoplatonic philosopher and commentator on
 
 ## Works
 
-- [Commentary on On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae.grc.md) — *Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους* · `uzu-ae`
-- [Commentary on the Physics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad.grc.md) — *Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους* · `uzu-ad`
-- [Commentary-Epictetus' Handbook](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-handbook-commentary-uzu-ac.grc.md) — *Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον* · `uzu-ac`
-- [On Aristotle's Categories, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-categories-commentary-uzu-ab.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uzu-ab`
-- [On Aristotle's Four Books-the Heavens, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-on-heavens-commentary-uzu-aa.grc.md) — *Περὶ τῶν Τεσσάρων Βιβλίων τοῦ Ἀριστοτέλους Περὶ* · `uzu-aa`
-- [On the Heavens, Book I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia-heavens-book-1-uzu-af.grc.md) — *Περὶ οὐρανοῦ, Βιβλίον Αʹ* · `uzu-af`
+- [Commentary on On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-commentary-aristotle-uzu-ae.grc.md) — *Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους* · `uzu-ae`
+- [Commentary on the Physics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-commentary-aristotle-uzu-ad.grc.md) — *Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους* · `uzu-ad`
+- [Commentary-Epictetus' Handbook](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-handbook-commentary-uzu-ac.grc.md) — *Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον* · `uzu-ac`
+- [On Aristotle's Categories, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-categories-commentary-uzu-ab.grc.md) — *Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους* · `uzu-ab`
+- [On Aristotle's Four Books-the Heavens, Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-on-heavens-commentary-uzu-aa.grc.md) — *Περὶ τῶν Τεσσάρων Βιβλίων τοῦ Ἀριστοτέλους Περὶ* · `uzu-aa`
+- [On the Heavens, Book I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-cilicia-heavens-book-1-uzu-af.grc.md) — *Περὶ οὐρανοῦ, Βιβλίον Αʹ* · `uzu-af`
 
 ## License and provenance
 

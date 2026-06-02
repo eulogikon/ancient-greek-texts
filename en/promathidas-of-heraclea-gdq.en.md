@@ -19,7 +19,7 @@ Promathidas of Heraclea, a 4th century BCE historian. His surviving historical w
 
 ## Works
 
-- [On Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea-text-gdq-aa.grc.md) — *Ἀποσπάσματα* · `gdq-aa`
+- [On Heraclea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-heraclea-text-gdq-aa.grc.md) — *Ἀποσπάσματα* · `gdq-aa`
 
 ## License and provenance
 

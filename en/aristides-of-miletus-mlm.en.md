@@ -19,7 +19,7 @@ Aristides of Miletus, Hellenistic novelist of the 2nd-1st century BCE. Milesian 
 
 ## Works
 
-- [Italica: Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus-historical-fragments-mlm-aa.grc.md) — *Ἀποσπάσματα* · `mlm-aa`
+- [Italica: Historical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-miletus-historical-fragments-mlm-aa.grc.md) — *Ἀποσπάσματα* · `mlm-aa`
 
 ## License and provenance
 

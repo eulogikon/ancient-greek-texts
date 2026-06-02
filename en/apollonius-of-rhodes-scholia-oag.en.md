@@ -19,7 +19,7 @@ Ancient Greek poet and scholar, author of the epic Argonautica. Includes scholia
 
 ## Works
 
-- [Scholia-Apollonius Rhodius's Argonautica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes-scholia-argonautica-oag-aa.grc.md) — *Σχόλια εἰς Ἀργοναυτικά Ἀπολλωνίου* · `oag-aa`
+- [Scholia-Apollonius Rhodius's Argonautica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-rhodius-scholia-argonautica-oag-aa.grc.md) — *Σχόλια εἰς Ἀργοναυτικά Ἀπολλωνίου* · `oag-aa`
 
 ## License and provenance
 

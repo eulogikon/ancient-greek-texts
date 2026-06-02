@@ -19,7 +19,7 @@ Timaeus Sophist was a Late Antique grammarian writing in technical Koine. His su
 
 ## Works
 
-- [Platonic Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-sophist-lexicon-slq-aa.grc.md) — *Πλατωνικὸν Λεξικόν* · `slq-aa`
+- [Platonic Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-sophist-lexicon-slq-aa.grc.md) — *Πλατωνικὸν Λεξικόν* · `slq-aa`
 
 ## License and provenance
 

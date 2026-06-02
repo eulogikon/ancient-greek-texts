@@ -19,7 +19,7 @@ Asclepiades of Mendes was a Hellenistic grammarian of the 1st century BCE. His g
 
 ## Works
 
-- [On the Apples of the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-mendes-apples-hesperides-nio-aa.grc.md) — *Ἀπόσπασμα* · `nio-aa`
+- [On the Apples of the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-mendes-apples-hesperides-nio-aa.grc.md) — *Ἀπόσπασμα* · `nio-aa`
 
 ## License and provenance
 

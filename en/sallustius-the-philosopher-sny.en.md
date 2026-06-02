@@ -20,7 +20,7 @@ Sallustius, a 4th century Neoplatonic philosopher. His treatise On the Gods and 
 
 ## Works
 
-- [On the Gods and the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-the-philosopher-gods-world-sny-aa.grc.md) — *Περὶ Θεῶν καὶ Κόσμου* · `sny-aa`
+- [On the Gods and the World](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-gods-world-sny-aa.grc.md) — *Περὶ Θεῶν καὶ Κόσμου* · `sny-aa`
 
 ## License and provenance
 

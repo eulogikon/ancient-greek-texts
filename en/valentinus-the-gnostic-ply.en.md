@@ -20,7 +20,7 @@ Valentinus, 2nd century Christian theologian and founder of Valentinianism. Read
 
 ## Works
 
-- [Hymn of Valentinus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic-hymn-ply-aa.grc.md) — *Ὕμνος Βαλεντίνου* · `ply-aa`
+- [Hymn of Valentinus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-hymn-ply-aa.grc.md) — *Ὕμνος Βαλεντίνου* · `ply-aa`
 
 ## License and provenance
 

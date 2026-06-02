@@ -19,7 +19,7 @@ Timolaus of Cyzicus, a 4th century BCE historian. His historical fragments survi
 
 ## Works
 
-- [On the River Maeander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus-river-maeander-ewo-aa.grc.md) — *Ἀπόσπασμα* · `ewo-aa`
+- [On the River Maeander](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-cyzicus-river-maeander-ewo-aa.grc.md) — *Ἀπόσπασμα* · `ewo-aa`
 
 ## License and provenance
 

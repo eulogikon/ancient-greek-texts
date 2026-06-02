@@ -4,7 +4,7 @@ title_greek: "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ �
 author: Diogenes of Laertia
 eul_wid: rjo-aa
 eul_aid: rjo
-canonical: "https://eulogikon.org/works/diogenes-laertia-lives-opinions-rjo-aa"
+canonical: "https://eulogikon.org/works/diogenes-of-laertia-lives-seven-sages-rjo-aa"
 period: Roman
 dialect: Atticizing
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Laertia
 
-**eul_wid:** `rjo-aa` · [HTML page](https://eulogikon.org/works/diogenes-laertia-lives-opinions-rjo-aa)
+**eul_wid:** `rjo-aa` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-seven-sages-rjo-aa)
 
 ## Text
 

@@ -19,7 +19,7 @@ Telestes of Selinus, a 5th century BCE poet writing in Aeolic dialect. Surviving
 
 ## Works
 
-- [On the Flute and Musical Rivalry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus-flute-rivalry-crg-aa.grc.md) — *Ἀποσπάσματα* · `crg-aa`
+- [On the Flute and Musical Rivalry](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-selinus-flute-rivalry-crg-aa.grc.md) — *Ἀποσπάσματα* · `crg-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Theotimus of Tomi was a late antique historian. His surviving historical work is
 
 ## Works
 
-- [On Cyrene and the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi-cyrene-heesperides-sxy-aa.grc.md) — *Ἀποσπάσματα* · `sxy-aa`
+- [On Cyrene and the Hesperides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-tomi-cyrene-heesperides-sxy-aa.grc.md) — *Ἀποσπάσματα* · `sxy-aa`
 
 ## License and provenance
 

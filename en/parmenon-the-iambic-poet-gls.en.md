@@ -19,8 +19,8 @@ Parmenon, a 4th century BCE iambic poet in Ionic dialect. Two surviving fragment
 
 ## Works
 
-- [Drunken Revelry and Travel](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa.grc.md) — *Ἀποσπάσματα* · `gls-aa`
-- [Fragments on Egyptian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet-egyptian-cities-gls-ab.grc.md) — *Ἀποσπάσματα περὶ Αἰγυπτιακῶν Πόλεων* · `gls-ab`
+- [Drunken Revelry and Travel](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-drunken-revelry-travel-gls-aa.grc.md) — *Ἀποσπάσματα* · `gls-aa`
+- [Fragments on Egyptian Cities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-egyptian-cities-gls-ab.grc.md) — *Ἀποσπάσματα περὶ Αἰγυπτιακῶν Πόλεων* · `gls-ab`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Metrodorus of Scepsis, a Hellenistic historian. Surviving fragments of his histo
 
 ## Works
 
-- [Fragments on History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-scepsis-history-mnu-aa.grc.md) — *Ἀποσπάσματα περὶ Ἱστορίας* · `mnu-aa`
+- [Fragments on History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-scepsis-history-mnu-aa.grc.md) — *Ἀποσπάσματα περὶ Ἱστορίας* · `mnu-aa`
 
 ## License and provenance
 

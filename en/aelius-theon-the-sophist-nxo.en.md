@@ -20,7 +20,7 @@ Aelius Theon was a Greek teacher of rhetoric. Surviving works include his rhetor
 
 ## Works
 
-- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-the-sophist-preliminary-exercises-nxo-aa.grc.md) — *Προγυμνάσματα* · `nxo-aa`
+- [Preliminary Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-preliminary-exercises-nxo-aa.grc.md) — *Προγυμνάσματα* · `nxo-aa`
 
 ## License and provenance
 

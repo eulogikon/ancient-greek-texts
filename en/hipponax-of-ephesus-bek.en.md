@@ -19,7 +19,7 @@ Hipponax of Ephesus, 6th century BCE iambic poet. Surviving fragments of his sat
 
 ## Works
 
-- [Fragment 128](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-of-ephesus-fragment-128-bek-aa.grc.md) — *Ἀπόσπασμα* · `bek-aa`
+- [Fragment 128](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-ephesus-fragment-128-bek-aa.grc.md) — *Ἀπόσπασμα* · `bek-aa`
 
 ## License and provenance
 

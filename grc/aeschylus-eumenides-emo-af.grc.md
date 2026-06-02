@@ -1430,6 +1430,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 παλλεύκων δὲ πέπλων ἄμοιρος ἄκληρος ἐτύχθην.
 
+*[crux: ἄμοιρος]*
+
 ### unit_106.3
 
 . . . . . .
@@ -1994,6 +1996,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πέμπειν τε, δυσπήματ’ ἀμηχάνως ἐμοί.
 
+*[crux: δυσπήματ’ ἀμηχάνως ἐμοί.]*
+
 ### 480.3
 
 ἐπεὶ δὲ πρᾶγμα δεῦρ’ ἐπέσκηψεν τόδε,
@@ -2325,6 +2329,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 565.2
 
 ἥ τ’ οὖν διάτορος Τυρσηνικὴ
+
+*[crux: ἥ τ’ οὖν διάτορος]*
 
 ### 565.3
 
@@ -2806,6 +2812,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 πάγον δ’ Ἄρειον τόνδ’, Ἀμαζόνων ἕδραν
 
+*[crux: Ἄρειον]*
+
 ### 685.2
 
 σκηνάς θ’, ὅτ’ ἦλθον Θησέως κατὰ φθόνον
@@ -3141,6 +3149,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 765.5
 
 ἀμηχάνοισι πράξομεν δυσπραξίαις,
+
+*[crux: πράξομεν]*
 
 ### 770.1
 
@@ -3746,6 +3756,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 γαίας ἐξαμβρόσαι
 
+*[crux: ἐξαμβρόσαι]*
+
 ### unit_279.1
 
 φαιδρὸν ἁλίου σέλας.
@@ -4229,6 +4241,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ### 1043
 
 σπονδαὶ δ’ ἐς τὸ πᾶν ἔνδαιδες οἴκων [ἀντ. β.
+
+*[crux: σπονδαὶ δ’ ἐς τὸ πᾶν ἔνδαιδες οἴκων]*
 
 ### 1045.1
 

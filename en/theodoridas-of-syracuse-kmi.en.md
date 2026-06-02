@@ -19,8 +19,8 @@ Theodoridas of Syracuse, a Hellenistic poet of the 3rd century BCE. Two survivin
 
 ## Works
 
-- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-epigrams-kmi-ab.grc.md) — *Ἐπιγράμματα* · `kmi-ab`
-- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse-fragments-kmi-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `kmi-aa`
+- [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-syracuse-epigrams-kmi-ab.grc.md) — *Ἐπιγράμματα* · `kmi-ab`
+- [Fragments and Titles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-syracuse-fragments-kmi-aa.grc.md) — *Ἀποσπάσματα καὶ Τίτλοι* · `kmi-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Cleopatra the Alchemist, a late antique figure in technical Koine. Treatise on a
 
 ## Works
 
-- [On Weights and Measures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-the-alchemist-weights-measures-ses-aa.grc.md) — *Περὶ Μέτρων καὶ Σταθμῶν* · `ses-aa`
+- [On Weights and Measures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleopatra-alchemist-weights-measures-ses-aa.grc.md) — *Περὶ Μέτρων καὶ Σταθμῶν* · `ses-aa`
 
 ## License and provenance
 

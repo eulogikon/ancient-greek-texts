@@ -19,7 +19,7 @@ Aelius Moeris, Roman-era Greek grammarian. His Atticist treatise compares Greek 
 
 ## Works
 
-- [Attic Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-the-atticist-attic-lexicon-rdk-aa.grc.md) — *Ἀττικὸν Λεξικόν* · `rdk-aa`
+- [Attic Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-attic-lexicon-rdk-aa.grc.md) — *Ἀττικὸν Λεξικόν* · `rdk-aa`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Babrius, a Roman era fabulist writing in Koine Greek. His surviving works includ
 
 ## Works
 
-- [Aesopic Fables](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/babrius-the-fabulist-fables-rdu-aa.grc.md) — *Αἰσώπειοι Μῦθοι* · `rdu-aa`
+- [Aesopic Fables](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/babrius-fables-rdu-aa.grc.md) — *Αἰσώπειοι Μῦθοι* · `rdu-aa`
 
 ## License and provenance
 

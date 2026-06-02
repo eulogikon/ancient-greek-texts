@@ -19,7 +19,7 @@ Polycharmus the Historian, a 4th-3rd century BCE Greek historian. Surviving work
 
 ## Works
 
-- [Lycian Oracle Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian-lycian-oracle-cfs-aa.grc.md) — *Ἀποσπάσματα* · `cfs-aa`
+- [Lycian Oracle Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-lycian-oracle-cfs-aa.grc.md) — *Ἀποσπάσματα* · `cfs-aa`
 
 ## License and provenance
 

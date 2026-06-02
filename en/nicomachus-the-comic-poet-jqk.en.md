@@ -19,8 +19,8 @@ Nicomachus the Comic Poet, a Hellenistic poet of the 3rd century BCE. Works incl
 
 ## Works
 
-- [Comic Chef's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-comic-chefs-art-jqk-ab.grc.md) — *Ἀποσπάσματα* · `jqk-ab`
-- [Cook's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet-cooks-art-jqk-aa.grc.md) — *Ἀποσπάσματα* · `jqk-aa`
+- [Comic Chef's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-comic-comic-chefs-art-jqk-ab.grc.md) — *Ἀποσπάσματα* · `jqk-ab`
+- [Cook's Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-comic-cooks-art-jqk-aa.grc.md) — *Ἀποσπάσματα* · `jqk-aa`
 
 ## License and provenance
 

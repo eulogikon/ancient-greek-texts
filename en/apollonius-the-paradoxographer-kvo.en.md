@@ -19,7 +19,7 @@ Apollonius the Paradoxographer, Hellenistic historian of the 2nd century BCE. Fe
 
 ## Works
 
-- [Marvelous Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer-marvelous-histories-kvo-aa.grc.md) — *Θαυμασίαι Ἱστορίαι* · `kvo-aa`
+- [Marvelous Histories](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-paradoxographer-marvelous-histories-kvo-aa.grc.md) — *Θαυμασίαι Ἱστορίαι* · `kvo-aa`
 
 ## License and provenance
 

@@ -20,7 +20,7 @@ Melissa, a Hellenistic Pythagorean philosopher of the 3rd century BCE. Her survi
 
 ## Works
 
-- [Fragment of a Letter to Cleareta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean-letter-cleareta-jow-aa.grc.md) — *Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέταν* · `jow-aa`
+- [Fragment of a Letter to Cleareta](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-pythagorean-letter-cleareta-jow-aa.grc.md) — *Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέταν* · `jow-aa`
 
 ## License and provenance
 

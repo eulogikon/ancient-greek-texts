@@ -19,7 +19,7 @@ Philoxenus of Leucas was a Greek poet of the 5th to 4th century BCE. Surviving v
 
 ## Works
 
-- [Fragments of a Luxurious Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas-luxurious-banquet-dsy-aa.grc.md) — *Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ* · `dsy-aa`
+- [Fragments of a Luxurious Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-leucas-luxurious-banquet-dsy-aa.grc.md) — *Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ* · `dsy-aa`
 
 ## License and provenance
 

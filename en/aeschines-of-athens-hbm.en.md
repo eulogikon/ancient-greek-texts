@@ -19,10 +19,10 @@ Aeschines was a classical Athenian orator of the 4th century BCE. Three of his s
 
 ## Works
 
-- [Against Ctesiphon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-ctesiphon-hbm-aa.grc.md) — *Κατά Κτησιφώντος* · `hbm-aa`
-- [Against Timarchus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-against-timarchus-hbm-ab.grc.md) — *Κατὰ Τιμάρχου* · `hbm-ab`
-- [Letters from Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-letters-delos-hbm-ad.grc.md) — *Ἐπιστολαὶ ἐκ Δήλου* · `hbm-ad`
-- [On the Embassy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens-embassy-hbm-ac.grc.md) — *Περὶ τῆς παραπρεσβείας* · `hbm-ac`
+- [Against Ctesiphon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-athens-against-ctesiphon-hbm-aa.grc.md) — *Κατά Κτησιφώντος* · `hbm-aa`
+- [Against Timarchus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-athens-against-timarchus-hbm-ab.grc.md) — *Κατὰ Τιμάρχου* · `hbm-ab`
+- [Letters from Delos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-athens-letters-delos-hbm-ad.grc.md) — *Ἐπιστολαὶ ἐκ Δήλου* · `hbm-ad`
+- [On the Embassy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-athens-embassy-hbm-ac.grc.md) — *Περὶ τῆς παραπρεσβείας* · `hbm-ac`
 
 ## License and provenance
 

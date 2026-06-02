@@ -19,7 +19,7 @@ Arsenius the Paroemiographer, 5th-6th century CE grammarian. Surviving work is a
 
 ## Works
 
-- [Sayings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-the-paroemiographer-sayings-vko-aa.grc.md) — *Γνῶμαι* · `vko-aa`
+- [Sayings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-paroemiographer-sayings-vko-aa.grc.md) — *Γνῶμαι* · `vko-aa`
 
 ## License and provenance
 

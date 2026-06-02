@@ -19,7 +19,7 @@ A Late Antique Atticizing grammar commentary on Thucydides from 2nd to 6th centu
 
 ## Works
 
-- [Scholia-Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-commentary-scholia-uku-aa.grc.md) — *Σχόλια εἰς Θουκυδίδην* · `uku-aa`
+- [Scholia-Thucydides](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-comm-scholia-uku-aa.grc.md) — *Σχόλια εἰς Θουκυδίδην* · `uku-aa`
 
 ## License and provenance
 

@@ -19,8 +19,8 @@ Polybius of Sardis, a Roman era orator writing in Koine Greek. Two surviving ora
 
 ## Works
 
-- [Fragments-Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis-fragments-figures-nno-ab.grc.md) — *Ἀποσπάσματα περὶ σχημάτων* · `nno-ab`
-- [On Barbarism and Solecism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis-barbarism-solecism-nno-aa.grc.md) — *Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ* · `nno-aa`
+- [Fragments-Figures](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-sardis-fragments-figures-nno-ab.grc.md) — *Ἀποσπάσματα περὶ σχημάτων* · `nno-ab`
+- [On Barbarism and Solecism](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-sardis-barbarism-solecism-nno-aa.grc.md) — *Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ* · `nno-aa`
 
 ## License and provenance
 

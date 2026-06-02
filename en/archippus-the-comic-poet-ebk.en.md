@@ -19,9 +19,9 @@ Archippus was an Athenian comic poet of Old Comedy, a rival to Aristophanes. Sur
 
 ## Works
 
-- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-comic-feast-ebk-aa.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `ebk-aa`
-- [Fragments on Fish and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-fish-feasting-ebk-ab.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας* · `ebk-ab`
-- [Fragments on Love and Persuasion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet-love-persuasion-ebk-ac.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Πειθοῦς* · `ebk-ac`
+- [Fragments of a Comic Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-comic-feast-ebk-aa.grc.md) — *Ἀποσπάσματα Συμποσίου Κωμικοῦ* · `ebk-aa`
+- [Fragments on Fish and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-fish-feasting-ebk-ab.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας* · `ebk-ab`
+- [Fragments on Love and Persuasion](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-love-persuasion-ebk-ac.grc.md) — *Ἀποσπάσματα περὶ Ἔρωτος καὶ Πειθοῦς* · `ebk-ac`
 
 ## License and provenance
 

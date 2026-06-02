@@ -19,7 +19,7 @@ Anonymous 7th century BCE epic poem, part of the Epic Cycle. Fragments recount t
 
 ## Works
 
-- [Sack of Ilium Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium-fragments-afk-aa.grc.md) — *Ἰλίου Πέρσις Ἀποσπάσματα* · `afk-aa`
+- [Sack of Ilium Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-ili-fragments-afk-aa.grc.md) — *Ἰλίου Πέρσις Ἀποσπάσματα* · `afk-aa`
 
 ## License and provenance
 

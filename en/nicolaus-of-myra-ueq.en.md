@@ -19,9 +19,9 @@ Nicolaus of Myra, a late antique Atticizing orator of the 5th-6th century CE. Th
 
 ## Works
 
-- [Preliminary Exercises (Complete)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ab-ueq-ab.grc.md) — *Προγυμνάσματα* · `ueq-ab`
-- [Preliminary Exercises (On Comparison)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-aa-ueq-aa.grc.md) — *Προγυμνάσματα (κεφάλαιον περὶ συγκρίσεως)* · `ueq-aa`
-- [Preliminary Exercises (Selected Chapters)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra-preliminary-exercises-ac-ueq-ac.grc.md) — *Προγυμνάσματα (κεφάλαια περὶ συγκρίσεως, περὶ ἠθοποιίας, περὶ ἐκφράσεως, περὶ θέσεως, περὶ νόμου)* · `ueq-ac`
+- [Preliminary Exercises (Complete)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-myra-preliminary-exercises-ueq-ab.grc.md) — *Προγυμνάσματα* · `ueq-ab`
+- [Preliminary Exercises (On Comparison)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-myra-preliminary-exercises-ueq-aa.grc.md) — *Προγυμνάσματα (κεφάλαιον περὶ συγκρίσεως)* · `ueq-aa`
+- [Preliminary Exercises (Selected Chapters)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-myra-preliminary-exercises-ueq-ac.grc.md) — *Προγυμνάσματα (κεφάλαια περὶ συγκρίσεως, περὶ ἠθοποιίας, περὶ ἐκφράσεως, περὶ θέσεως, περὶ νόμου)* · `ueq-ac`
 
 ## License and provenance
 

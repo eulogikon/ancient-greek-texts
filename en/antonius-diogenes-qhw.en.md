@@ -19,9 +19,9 @@ Antonius Diogenes, Roman era writer of erotic fiction. Three surviving works of 
 
 ## Works
 
-- [On Incredible Things (Fragment A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ab-qhw-ab.grc.md) — *Περὶ Ἀπίστων* · `qhw-ab`
-- [On Incredible Things (Fragment B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-ac-qhw-ac.grc.md) — *Περὶ Ἀπίστων* · `qhw-ac`
-- [On Incredible Things or Herpyllis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-aa-qhw-aa.grc.md) — *Περὶ Ἀπίστων ἢ Ἑρπυλλίδος* · `qhw-aa`
+- [On Incredible Things (Fragment A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-qhw-ab.grc.md) — *Περὶ Ἀπίστων* · `qhw-ab`
+- [On Incredible Things (Fragment B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-qhw-ac.grc.md) — *Περὶ Ἀπίστων* · `qhw-ac`
+- [On Incredible Things or Herpyllis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes-incredible-things-qhw-aa.grc.md) — *Περὶ Ἀπίστων ἢ Ἑρπυλλίδος* · `qhw-aa`
 
 ## License and provenance
 

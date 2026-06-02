@@ -19,7 +19,7 @@ Phalaris of Acragas, 6th century BCE Doric tyrant of Sicily. Epistles attributed
 
 ## Works
 
-- [Ethical Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-of-acragas-ethical-letters-auk-aa.grc.md) — *Ἐπιστολαί* · `auk-aa`
+- [Ethical Letters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-acragas-ethical-letters-auk-aa.grc.md) — *Ἐπιστολαί* · `auk-aa`
 
 ## License and provenance
 

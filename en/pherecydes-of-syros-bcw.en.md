@@ -20,8 +20,8 @@ Pherecydes of Syros, a 6th century BCE thinker, wrote pioneering prose. Read his
 
 ## Works
 
-- [Fragments on Cosmology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-cosmology-bcw-ab.grc.md) — *Ἀποσπάσματα περὶ Κοσμολογίας* · `bcw-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-syros-testimonies-bcw-aa.grc.md) — *Μαρτυρίαι* · `bcw-aa`
+- [Fragments on Cosmology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-syros-cosmology-bcw-ab.grc.md) — *Ἀποσπάσματα περὶ Κοσμολογίας* · `bcw-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-syros-testimonies-bcw-aa.grc.md) — *Μαρτυρίαι* · `bcw-aa`
 
 ## License and provenance
 

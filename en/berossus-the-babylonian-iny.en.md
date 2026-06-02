@@ -19,7 +19,7 @@ Berossus, a Babylonian priest and scholar. His treatise blends Babylonian and Gr
 
 ## Works
 
-- [Fragments on Babylonian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-the-babylonian-history-fragments-iny-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Βαβυλωνιακῆς Ἱστορίας* · `iny-aa`
+- [Fragments on Babylonian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/berossus-babylonian-history-fragments-iny-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Βαβυλωνιακῆς Ἱστορίας* · `iny-aa`
 
 ## License and provenance
 

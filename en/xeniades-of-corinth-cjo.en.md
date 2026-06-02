@@ -19,7 +19,7 @@ Xeniades of Corinth was a 4th century BCE orator writing in Doric Greek. His sur
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-of-corinth-testimony-cjo-aa.grc.md) — *Μαρτυρία* · `cjo-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-corinth-testimony-cjo-aa.grc.md) — *Μαρτυρία* · `cjo-aa`
 
 ## License and provenance
 

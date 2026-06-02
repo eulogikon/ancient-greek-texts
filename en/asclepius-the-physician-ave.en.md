@@ -19,8 +19,8 @@ Asclepius the Physician, a 5th century BCE Greek medical writer. Two surviving w
 
 ## Works
 
-- [Commentary-Nicomachus of Gerasa's Introduction to Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-nicomachus-arithmetic-ave-aa.grc.md) — *Σχόλια εἰς τὴν Νικομάχου Γερασηνοῦ Ἀριθμητικὴν* · `ave-aa`
-- [On Aristotle's Metaphysics Books A-Z. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab.grc.md) — *Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους, Βιβλία Α-Ω* · `ave-ab`
+- [Commentary-Nicomachus of Gerasa's Introduction to Arithmetic](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-nicomachus-arithmetic-ave-aa.grc.md) — *Σχόλια εἰς τὴν Νικομάχου Γερασηνοῦ Ἀριθμητικὴν* · `ave-aa`
+- [On Aristotle's Metaphysics Books A-Z. Commentary](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-aristotle-metaphysics-commentary-ave-ab.grc.md) — *Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους, Βιβλία Α-Ω* · `ave-ab`
 
 ## License and provenance
 

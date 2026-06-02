@@ -19,7 +19,7 @@ Aristobulus of Cassandreia was a 4th century BCE historian of Alexander the Grea
 
 ## Works
 
-- [Historical and Natural Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia-historical-natural-fragments-hiu-aa.grc.md) — *Ἀποσπάσματα* · `hiu-aa`
+- [Historical and Natural Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-cassandreia-historical-natural-fragments-hiu-aa.grc.md) — *Ἀποσπάσματα* · `hiu-aa`
 
 ## License and provenance
 

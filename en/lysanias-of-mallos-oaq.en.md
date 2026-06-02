@@ -19,7 +19,7 @@ Lysanias of Mallos, a 4th century BCE Greek historian. Historical works preserve
 
 ## Works
 
-- [On the Eretrian Expedition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysanias-of-mallos-eretrian-expedition-oaq-aa.grc.md) — *Ἀπόσπασμα* · `oaq-aa`
+- [On the Eretrian Expedition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysanias-mallos-eretrian-expedition-oaq-aa.grc.md) — *Ἀπόσπασμα* · `oaq-aa`
 
 ## License and provenance
 

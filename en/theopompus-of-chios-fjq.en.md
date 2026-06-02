@@ -19,9 +19,9 @@ Theopompus of Chios was a 4th century BCE Greek historian. His historical fragme
 
 ## Works
 
-- [Fragments on Naval Preparations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-naval-preparations-fjq-ac.grc.md) — *Ἀποσπάσματα περὶ Παρασκευῆς Ναυτικῆς* · `fjq-ac`
-- [Historical Epitome Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-historical-epitome-fjq-ab.grc.md) — *Ἀποσπάσματα* · `fjq-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios-testimonies-fjq-aa.grc.md) — *Μαρτυρίαι* · `fjq-aa`
+- [Fragments on Naval Preparations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-chios-naval-preparations-fjq-ac.grc.md) — *Ἀποσπάσματα περὶ Παρασκευῆς Ναυτικῆς* · `fjq-ac`
+- [Historical Epitome Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-chios-historical-epitome-fjq-ab.grc.md) — *Ἀποσπάσματα* · `fjq-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-chios-testimonies-fjq-aa.grc.md) — *Μαρτυρίαι* · `fjq-aa`
 
 ## License and provenance
 

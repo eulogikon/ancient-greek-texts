@@ -19,11 +19,11 @@ Alexander of Tralles, a 6th century Greek physician. Five medical treatises from
 
 ## Works
 
-- [Dedication to Cosmas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-dedication-cosmas-vcc-ab.grc.md) — *Ἀφιέρωσις πρὸς Κοσμᾶν* · `vcc-ab`
-- [Letter-Worms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-letter-worms-vcc-ac.grc.md) — *Ἐπιστολὴ περὶ σκωλήκων* · `vcc-ac`
-- [On Fevers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-fevers-vcc-ae.grc.md) — *Περὶ πυρετῶν* · `vcc-ae`
-- [On the Eyes, Three Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-eyes-vcc-aa.grc.md) — *Περὶ ὀφθαλμῶν* · `vcc-aa`
-- [Therapeutics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles-therapeutics-vcc-ad.grc.md) — *Θεραπευτικά* · `vcc-ad`
+- [Dedication to Cosmas](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-tralleis-dedication-cosmas-vcc-ab.grc.md) — *Ἀφιέρωσις πρὸς Κοσμᾶν* · `vcc-ab`
+- [Letter-Worms](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-tralleis-letter-worms-vcc-ac.grc.md) — *Ἐπιστολὴ περὶ σκωλήκων* · `vcc-ac`
+- [On Fevers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-tralleis-fevers-vcc-ae.grc.md) — *Περὶ πυρετῶν* · `vcc-ae`
+- [On the Eyes, Three Books](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-tralleis-eyes-vcc-aa.grc.md) — *Περὶ ὀφθαλμῶν* · `vcc-aa`
+- [Therapeutics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-tralleis-therapeutics-vcc-ad.grc.md) — *Θεραπευτικά* · `vcc-ad`
 
 ## License and provenance
 

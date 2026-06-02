@@ -20,8 +20,8 @@ Democritus, the Classical Greek philosopher from Abdera. Two surviving philosoph
 
 ## Works
 
-- [On the Underworld and the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-underworld-soul-byu-ab.grc.md) — *Ἀποσπάσματα* · `byu-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera-testimonies-byu-aa.grc.md) — *Μαρτυρίαι* · `byu-aa`
+- [On the Underworld and the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-abdera-underworld-soul-byu-ab.grc.md) — *Ἀποσπάσματα* · `byu-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-abdera-testimonies-byu-aa.grc.md) — *Μαρτυρίαι* · `byu-aa`
 
 ## License and provenance
 

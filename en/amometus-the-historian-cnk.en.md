@@ -19,7 +19,7 @@ Amometus the Historian, a 4th–3rd century BCE Greek historian. Surviving works
 
 ## Works
 
-- [Fragments on Distant Lands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amometus-the-historian-distant-lands-cnk-aa.grc.md) — *Ἀποσπάσματα περὶ Μακρῶν Χωρῶν* · `cnk-aa`
+- [Fragments on Distant Lands](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amometus-distant-lands-cnk-aa.grc.md) — *Ἀποσπάσματα περὶ Μακρῶν Χωρῶν* · `cnk-aa`
 
 ## License and provenance
 

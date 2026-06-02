@@ -19,8 +19,8 @@ Lysippus was an Athenian comic poet of Old Comedy. Two surviving works are prese
 
 ## Works
 
-- [Fragments of the Well and the Dog](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-well-dog-dso-aa.grc.md) — *Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός* · `dso-aa`
-- [Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet-athenian-life-dso-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `dso-ab`
+- [Fragments of the Well and the Dog](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-comic-well-dog-dso-aa.grc.md) — *Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός* · `dso-aa`
+- [Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-comic-athenian-life-dso-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `dso-ab`
 
 ## License and provenance
 

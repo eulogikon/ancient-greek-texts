@@ -19,7 +19,7 @@ Demon of Athens, a 4th century BCE Attic historian. His historical works survive
 
 ## Works
 
-- [Fragments on Athenian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens-fragments-history-clw-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας* · `clw-aa`
+- [Fragments on Athenian History](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-athens-fragments-history-clw-aa.grc.md) — *Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας* · `clw-aa`
 
 ## License and provenance
 

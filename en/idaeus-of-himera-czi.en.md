@@ -20,7 +20,7 @@ Idaeus of Himera, a 5th century BCE Presocratic philosopher. His philosophical f
 
 ## Works
 
-- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera-testimony-czi-aa.grc.md) — *Μαρτυρία* · `czi-aa`
+- [Testimony](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-himera-testimony-czi-aa.grc.md) — *Μαρτυρία* · `czi-aa`
 
 ## License and provenance
 

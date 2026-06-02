@@ -19,7 +19,7 @@ Alexander the Great, Macedonian king and conqueror. Surviving epistles attribute
 
 ## Works
 
-- [Letters to Aristotle and Darius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-the-great-letters-aristotle-darius-hgm-aa.grc.md) — *Ἐπιστολαὶ πρὸς Ἀριστοτέλην καὶ Δαρεῖον* · `hgm-aa`
+- [Letters to Aristotle and Darius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-letters-aristotle-darius-hgm-aa.grc.md) — *Ἐπιστολαὶ πρὸς Ἀριστοτέλην καὶ Δαρεῖον* · `hgm-aa`
 
 ## License and provenance
 

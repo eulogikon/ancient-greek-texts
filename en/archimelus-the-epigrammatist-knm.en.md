@@ -19,8 +19,8 @@ Archimelus, Hellenistic epigrammatist of the 3rd century BCE. Two surviving epig
 
 ## Works
 
-- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-epigram-knm-ab.grc.md) — *Ἐπίγραμμα* · `knm-ab`
-- [Fragment-the Ship of Hiero II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist-ship-hiero-ii-knm-aa.grc.md) — *Ἀπόσπασμα περὶ τοῦ πλοίου Ἱέρωνος Β'* · `knm-aa`
+- [Epigram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-epigram-knm-ab.grc.md) — *Ἐπίγραμμα* · `knm-ab`
+- [Fragment-the Ship of Hiero II](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-ship-hiero-ii-knm-aa.grc.md) — *Ἀπόσπασμα περὶ τοῦ πλοίου Ἱέρωνος Β'* · `knm-aa`
 
 ## License and provenance
 

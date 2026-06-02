@@ -19,7 +19,7 @@ Hippocrates of Chios, a 5th century BCE mathematician. Surviving mathematical wo
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios-testimonies-cus-aa.grc.md) — *Μαρτυρίαι* · `cus-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-chios-testimonies-cus-aa.grc.md) — *Μαρτυρίαι* · `cus-aa`
 
 ## License and provenance
 

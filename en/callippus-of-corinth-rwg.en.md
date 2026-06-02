@@ -19,7 +19,7 @@ Callippus of Corinth was a 2nd century CE Roman historian. His works are preserv
 
 ## Works
 
-- [On the Orchomenians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-of-corinth-orchomenians-rwg-aa.grc.md) — *Ἀπόσπασμα* · `rwg-aa`
+- [On the Orchomenians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callippus-corinth-orchomenians-rwg-aa.grc.md) — *Ἀπόσπασμα* · `rwg-aa`
 
 ## License and provenance
 

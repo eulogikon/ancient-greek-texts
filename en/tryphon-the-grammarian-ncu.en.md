@@ -19,9 +19,9 @@ Tryphon the Grammarian was a Hellenistic scholar. Three grammatical treatises ar
 
 ## Works
 
-- [On Accents and Breathings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian-accents-breathings-ncu-ab.grc.md) — *Ἀποσπάσματα* · `ncu-ab`
-- [On Passions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian-passions-ncu-aa.grc.md) — *Περὶ παθῶν* · `ncu-aa`
-- [On Tropes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian-tropes-ncu-ac.grc.md) — *Περὶ τρόπων* · `ncu-ac`
+- [On Accents and Breathings](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-accents-breathings-ncu-ab.grc.md) — *Ἀποσπάσματα* · `ncu-ab`
+- [On Passions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-passions-ncu-aa.grc.md) — *Περὶ παθῶν* · `ncu-aa`
+- [On Tropes](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-grammarian-tropes-ncu-ac.grc.md) — *Περὶ τρόπων* · `ncu-ac`
 
 ## License and provenance
 

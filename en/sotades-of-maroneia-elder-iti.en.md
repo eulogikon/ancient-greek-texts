@@ -19,9 +19,9 @@ Sotades of Maroneia the Elder was a Hellenistic poet of comic Ionic verse. His f
 
 ## Works
 
-- [Fragments on Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-cooking-iti-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας* · `iti-aa`
-- [Fragments on Fish and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-fish-feasting-iti-ab.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας* · `iti-ab`
-- [On Learning and Suffering](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder-learning-suffering-iti-ac.grc.md) — *Ἀπόσπασμα* · `iti-ac`
+- [Fragments on Cooking](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-maroneia-cooking-iti-aa.grc.md) — *Ἀποσπάσματα περὶ Ὀψοποιίας* · `iti-aa`
+- [Fragments on Fish and Feasting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-maroneia-fish-feasting-iti-ab.grc.md) — *Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας* · `iti-ab`
+- [On Learning and Suffering](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-maroneia-learning-suffering-iti-ac.grc.md) — *Ἀπόσπασμα* · `iti-ac`
 
 ## License and provenance
 

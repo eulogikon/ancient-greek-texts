@@ -19,10 +19,10 @@ Strattis, Athenian comic poet of late 5th century BCE Old Comedy. Surviving frag
 
 ## Works
 
-- [Comic Fragments on Food and Theater](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-comic-food-theater-eco-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Θεάτρου Κωμικά* · `eco-ab`
-- [Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-athenian-life-eco-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `eco-aa`
-- [Fragments on Chios and Cos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-chios-cos-eco-ad.grc.md) — *Ἀποσπάσματα περὶ Χίου καὶ Κῶ* · `eco-ad`
-- [Fragments on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet-virtue-fragments-eco-ac.grc.md) — *Ἀποσπάσματα περὶ Ἀρετῆς* · `eco-ac`
+- [Comic Fragments on Food and Theater](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-comic-food-theater-eco-ab.grc.md) — *Ἀποσπάσματα περὶ Τροφῆς καὶ Θεάτρου Κωμικά* · `eco-ab`
+- [Fragments on Athenian Life](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-athenian-life-eco-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου* · `eco-aa`
+- [Fragments on Chios and Cos](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-chios-cos-eco-ad.grc.md) — *Ἀποσπάσματα περὶ Χίου καὶ Κῶ* · `eco-ad`
+- [Fragments on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-virtue-fragments-eco-ac.grc.md) — *Ἀποσπάσματα περὶ Ἀρετῆς* · `eco-ac`
 
 ## License and provenance
 

@@ -19,7 +19,7 @@ Dionysius of Syracuse, 5th-4th century BCE Greek tyrant and dramatist. Surviving
 
 ## Works
 
-- [Fragments of Philosophical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-syracuse-philosophical-maxims-eii-aa.grc.md) — *Ἀποσπάσματα φιλοσοφικῶν γνωμῶν* · `eii-aa`
+- [Fragments of Philosophical Maxims](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-syracuse-philosophical-maxims-eii-aa.grc.md) — *Ἀποσπάσματα φιλοσοφικῶν γνωμῶν* · `eii-aa`
 
 ## License and provenance
 

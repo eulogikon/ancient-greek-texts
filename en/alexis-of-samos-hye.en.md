@@ -19,7 +19,7 @@ Alexis of Samos, a Hellenistic historian of the 3rd century BCE. Fragments of hi
 
 ## Works
 
-- [Samian Chronicles and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos-chronicles-customs-hye-aa.grc.md) — *Ἀποσπάσματα* · `hye-aa`
+- [Samian Chronicles and Customs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-samos-chronicles-customs-hye-aa.grc.md) — *Ἀποσπάσματα* · `hye-aa`
 
 ## License and provenance
 

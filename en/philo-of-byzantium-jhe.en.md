@@ -19,8 +19,8 @@ Philo of Byzantium, a 3rd century BCE Greek engineer. Technical treatises on mec
 
 ## Works
 
-- [Art of War Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-war-machines-jhe-ab.grc.md) — *Τέχνη πολεμικῶν μηχανημάτων* · `jhe-ab`
-- [Preparations and Siegecraft](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium-preparations-siegecraft-jhe-aa.grc.md) — *Προπαρασκευαὶ καὶ πολιορκητικά* · `jhe-aa`
+- [Art of War Machines](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium-war-machines-jhe-ab.grc.md) — *Τέχνη πολεμικῶν μηχανημάτων* · `jhe-ab`
+- [Preparations and Siegecraft](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium-preparations-siegecraft-jhe-aa.grc.md) — *Προπαρασκευαὶ καὶ πολιορκητικά* · `jhe-aa`
 
 ## License and provenance
 

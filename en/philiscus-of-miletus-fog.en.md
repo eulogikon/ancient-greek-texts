@@ -19,7 +19,7 @@ Philiscus of Miletus, a classical Attic orator. Surviving works include one orat
 
 ## Works
 
-- [Hymn to Lysias on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-miletus-hymn-virtue-fog-aa.grc.md) — *Ἀπόσπασμα* · `fog-aa`
+- [Hymn to Lysias on Virtue](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-miletus-hymn-virtue-fog-aa.grc.md) — *Ἀπόσπασμα* · `fog-aa`
 
 ## License and provenance
 

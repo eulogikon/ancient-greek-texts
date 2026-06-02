@@ -19,8 +19,8 @@ Prodicus of Ceos, a 5th century BCE Sophist. Fragments of his philosophical and 
 
 ## Works
 
-- [Heracles at the Crossroads](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos-herakles-crossroads-dpw-ab.grc.md) — *Ἀποσπάσματα* · `dpw-ab`
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos-testimonies-dpw-aa.grc.md) — *Μαρτυρίαι* · `dpw-aa`
+- [Heracles at the Crossroads](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-ceos-herakles-crossroads-dpw-ab.grc.md) — *Ἀποσπάσματα* · `dpw-ab`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-ceos-testimonies-dpw-aa.grc.md) — *Μαρτυρίαι* · `dpw-aa`
 
 ## License and provenance
 

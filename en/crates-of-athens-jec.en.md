@@ -19,7 +19,7 @@ Crates of Athens was a Hellenistic philosopher and third scholarch of the Peripa
 
 ## Works
 
-- [On Athenian Sacrifices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-of-athens-sacrifices-jec-aa.grc.md) — *Ἀποσπάσματα* · `jec-aa`
+- [On Athenian Sacrifices](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-athens-sacrifices-jec-aa.grc.md) — *Ἀποσπάσματα* · `jec-aa`
 
 ## License and provenance
 

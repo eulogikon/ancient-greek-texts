@@ -20,7 +20,7 @@ Herillus of Carthage, Stoic philosopher and student of Zeno. Hellenistic philoso
 
 ## Works
 
-- [Stoic Ethical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage-ethical-fragments-jtc-aa.grc.md) — *Ἀποσπάσματα* · `jtc-aa`
+- [Stoic Ethical Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-carthage-ethical-fragments-jtc-aa.grc.md) — *Ἀποσπάσματα* · `jtc-aa`
 
 ## License and provenance
 

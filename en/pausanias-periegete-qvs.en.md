@@ -19,7 +19,7 @@ Pausanias Periegete, a 2nd century CE Greek traveler and geographer. His Descrip
 
 ## Works
 
-- [Description of Greece](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-periegete-description-greece-qvs-aa.grc.md) — *Ἑλλάδος Περιηγήσεως* · `qvs-aa`
+- [Description of Greece](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-description-greece-qvs-aa.grc.md) — *Ἑλλάδος Περιηγήσεως* · `qvs-aa`
 
 ## License and provenance
 

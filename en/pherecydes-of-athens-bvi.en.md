@@ -19,7 +19,7 @@ Pherecydes of Athens was a 5th century BCE Attic historian. Fragments of his his
 
 ## Works
 
-- [Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens-dionysus-bvi-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου* · `bvi-aa`
+- [Fragments on Dionysus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-athens-dionysus-bvi-aa.grc.md) — *Ἀποσπάσματα περὶ Διονύσου* · `bvi-aa`
 
 ## License and provenance
 

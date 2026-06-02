@@ -19,7 +19,7 @@ Nymphodorus of Abdera, a 5th century BCE historian writing in Ionic. Surviving f
 
 ## Works
 
-- [On the Wonders of Sicily](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera-wonders-sicily-dpc-aa.grc.md) — *Ἀποσπάσματα* · `dpc-aa`
+- [On the Wonders of Sicily](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-abdera-wonders-sicily-dpc-aa.grc.md) — *Ἀποσπάσματα* · `dpc-aa`
 
 ## License and provenance
 

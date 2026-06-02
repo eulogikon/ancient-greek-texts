@@ -20,7 +20,7 @@ Hippasus of Metapontum was a 5th century BCE Pythagorean philosopher and mathema
 
 ## Works
 
-- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-of-metapontum-testimonies-bng-aa.grc.md) — *Μαρτυρίαι* · `bng-aa`
+- [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippasus-metapontum-testimonies-bng-aa.grc.md) — *Μαρτυρίαι* · `bng-aa`
 
 ## License and provenance
 
