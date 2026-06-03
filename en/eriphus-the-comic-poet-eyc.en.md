@@ -19,8 +19,8 @@ Eriphus was an Athenian comic poet of the 5th century BCE. Two fragmentary works
 
 ## Works
 
-- [Fragments on Golden Apples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-golden-apples-eyc-aa.grc.md) — *Ἀποσπάσματα περὶ Χρυσῶν Μήλων* · `eyc-aa`
 - [Fragments on Golden Apples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-golden-apples-eyc-ab.grc.md) — *Ἀποσπάσματα περὶ Μήλων Χρυσῶν* · `eyc-ab`
+- [Fragments on Golden Apples](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-golden-apples-eyc-aa.grc.md) — *Ἀποσπάσματα περὶ Χρυσῶν Μήλων* · `eyc-aa`
 
 ## License and provenance
 

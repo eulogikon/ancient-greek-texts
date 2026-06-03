@@ -1,6 +1,6 @@
 # Ancient Greek Texts
 
-> CC0 corpus of 1,343 authors and 4,030 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, and plain text. Data store for [Eulogikon](https://eulogikon.org).
+> CC0 corpus of 1,344 authors and 4,031 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, and plain text. Data store for [Eulogikon](https://eulogikon.org).
 
 This repository is a flat file archive. Do not crawl `grc/` or `en/` to discover contents — use the lookup files below.
 
@@ -24,8 +24,8 @@ Licence: CC0 1.0 Universal — public domain, no restrictions on use, redistribu
 ## Lookup indexes
 
 - [README](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/README.md): corpus overview, layout, licence
-- [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,343 rows)
-- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,030 rows; grep/filter friendly)
+- [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,344 rows)
+- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,031 rows; grep/filter friendly)
 - [dataset.jsonld](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/dataset.jsonld): schema.org Dataset metadata (JSON-LD)
 - [CITATION.cff](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff): citation metadata
 
@@ -85,6 +85,6 @@ Pre-built PDF bundles, one per philosophical school or tradition.
 
 Skip these unless you need an exhaustive offline dump — each is far too large to load whole into a context window:
 
-- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,373 entries)
+- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,375 entries)
 - [manifest.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json): full nested machine-readable index
 - [manifest.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv): full spreadsheet with all file paths

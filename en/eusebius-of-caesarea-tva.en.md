@@ -26,7 +26,7 @@ Eusebius of Caesarea, Christian bishop and historian. Theological treatises and 
 - [Evangelical Demonstration Fragments of Book XV](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-caesarea-evangelical-demonstration-fragments-tva-ab.grc.md) — *Ἐπίδειξις Εὐαγγελική, Ἀποσπάσματα Βιβλίου ΙΕʹ* · `tva-ab`
 - [On Ecclesiastical Theology](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-caesarea-ecclesiastical-theology-tva-at.grc.md) — *περὶ τῆς ἐκκλησιαστικῆς θεολογίας* · `tva-at`
 - [On Theophany](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-caesarea-theophany-tva-bm.grc.md) — *Περὶ Θεοφανείας* · `tva-bm`
-- [Works of Eusebius of Caesarea](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-caesarea-works-tva-aq.grc.md) — *Εὐσεβίου Καισαρείας Ἔργα, Προπαρασκευή Εὐαγγελική* · `tva-aq`
+- [Preparation for the Gospel](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-caesarea-preparation-gospel-tva-aq.grc.md) — *Εὐαγγελικὴ Προπαρασκευή* · `tva-aq`
 
 ## License and provenance
 

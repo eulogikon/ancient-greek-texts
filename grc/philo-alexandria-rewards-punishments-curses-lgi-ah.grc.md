@@ -1,6 +1,6 @@
 ---
-title: On Rewards and Punishments and-Curses
-title_greek: Περὶ Μισθῶν καὶ Ποινῶν καὶ Καταρωμένων
+title: "On Rewards, Punishments, and Curses"
+title_greek: Περὶ ἀθλῶν καὶ ἐπιτιμίων καὶ ἀρῶν
 author: Philo of Alexandria
 eul_wid: lgi-ah
 eul_aid: lgi
@@ -12,9 +12,9 @@ format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
-# On Rewards and Punishments and-Curses
+# On Rewards, Punishments, and Curses
 
-*Περὶ Μισθῶν καὶ Ποινῶν καὶ Καταρωμένων*
+*Περὶ ἀθλῶν καὶ ἐπιτιμίων καὶ ἀρῶν*
 
 **Author:** Philo of Alexandria
 

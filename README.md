@@ -13,7 +13,7 @@ tags:
 
 # Ancient Greek Texts
 
-A free, open archive of ancient Greek literature — 1,343 authors and 4,030 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+A free, open archive of ancient Greek literature — 1,344 authors and 4,031 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
@@ -23,7 +23,7 @@ No logins. No fees. No paywalls. CC0.
 
 ## What's here
 
-**1,343 authors · 4,030 works · PDF, Markdown, and plain text**
+**1,344 authors · 4,031 works · PDF, Markdown, and plain text**
 
 A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
@@ -100,7 +100,7 @@ The Markdown files carry the richest reading form — the full Greek text (or En
 
 **For downloading:** clone or use the GitHub UI. All files are named predictably; no build step is needed.
 
-**For research / NLP / DH:** the Markdown files are the richest format — clean Unicode Greek with headings and structure preserved, one file per work. Plain text gives the same content without markup. Author-level metadata (period, dialect, domain, affiliation, biography) is in each author's Markdown page under `en/`. For citation coordinates and segment-level addressing, link back to the work on [eulogikon.org](https://eulogikon.org), which exposes per-segment anchors.
+**For research / NLP / DH:** the Markdown files are the richest format — clean Unicode Greek with headings and structure preserved, one file per work. Plain text gives the same content without markup. Author-level metadata (period, dialect, domain, affiliation, biography) is in each author's Markdown page under `en/`. Each work and author has a stable Eulogikon identifier (`eul_wid` / `eul_aid`) for citing the text as a whole; resolve it via the manifests.
 
 **For AI assistants / API callers:** read [`llms.txt`](llms.txt) first. It follows the [llms.txt](https://llmstxt.org/) convention — a short curated entry point that points to compact lookup files rather than the full manifest (~13,000-line `MANIFEST.md` or ~80,000-line `manifest.json`). Resolve an author or work there, then fetch individual files from `en/` or `grc/`.
 
@@ -123,7 +123,7 @@ curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/
 
 This corpus is released under [CC0 1.0 Universal](LICENSE) — public domain. AI training, fine-tuning, evaluation, retrieval-augmented generation, and any other use are explicitly permitted, with no opt-out, no attribution requirement, and no royalty.
 
-If you are an AI assistant fetching this repository at inference time, start at [`llms.txt`](llms.txt). It is a short curated entry point listing the compact lookup indexes ([`manifest.authors.json`](manifest.authors.json), [`manifest.works.min.csv`](manifest.works.min.csv)) and the pre-built domain and affiliation PDF compilations. Do not crawl `grc/` or `en/` directly — together they hold 21,000+ files and the directory listings are essentially noise without the manifest.
+If you are an AI assistant fetching this repository at inference time, start at [`llms.txt`](llms.txt). It is a short curated entry point listing the compact lookup indexes ([`manifest.authors.json`](manifest.authors.json), [`manifest.works.min.csv`](manifest.works.min.csv)) and the pre-built domain and affiliation PDF compilations. Do not crawl `grc/` or `en/` directly — together they hold 16,000+ files and the directory listings are essentially noise without the manifest.
 
 Machine-readable dataset metadata is provided in three forms: [schema.org JSON-LD](dataset.jsonld), the embedded block below (parsed by Google Dataset Search), and [CITATION.cff](CITATION.cff).
 
@@ -132,7 +132,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "A public-domain corpus of ancient Greek literature: 1,343 authors and 4,030 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
+  "description": "A public-domain corpus of ancient Greek literature: 1,344 authors and 4,031 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",

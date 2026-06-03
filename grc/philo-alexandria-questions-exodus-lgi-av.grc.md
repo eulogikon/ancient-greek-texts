@@ -1,6 +1,6 @@
 ---
-title: Questions-Exodus Fragments
-title_greek: Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα
+title: Questions on Exodus
+title_greek: Ζητήματα ἐν Ἐξόδῳ
 author: Philo of Alexandria
 eul_wid: lgi-av
 eul_aid: lgi
@@ -12,9 +12,9 @@ format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
-# Questions-Exodus Fragments
+# Questions on Exodus
 
-*Ζητήματα ἐν Ἐξόδῳ Ἀποσπάσματα*
+*Ζητήματα ἐν Ἐξόδῳ*
 
 **Author:** Philo of Alexandria
 

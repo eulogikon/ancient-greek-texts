@@ -109,7 +109,7 @@ Plutarch, Greek philosopher and biographer of the Roman era. Works include biogr
 - [On Not Needing to Borrow](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-not-borrowing-okg-ck.grc.md) — *Περὶ τοῦ μὴ δεῖν δανείζεσθαι* · `okg-ck`
 - [On Praising Oneself Without Envy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-praising-without-envy-okg-bq.grc.md) — *Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως* · `okg-bq`
 - [On Shyness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-shyness-okg-ec.grc.md) — *Περὶ δυσωπίας* · `okg-ec`
-- [On Stoic Riddles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-stoic-riddles-okg-dh.grc.md) — *Περὶ Στωικῶν ἐνιγμάτων.* · `okg-dh`
+- [On Stoic Contradictions](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-stoic-contradictions-okg-dh.grc.md) — *Περὶ Στωικῶν ἐναντιωμάτων* · `okg-dh`
 - [On Superstition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-superstition-okg-dl.grc.md) — *Περὶ δεισιδαιμονίας* · `okg-dl`
 - [On That the Philosopher Should Converse Especially with Rulers](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-philosopher-rulers-okg-ac.grc.md) — *Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν* · `okg-ac`
 - [On the Creation of the Soul in the Timaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-chaeronea-soul-timaeus-okg-an.grc.md) — *Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας* · `okg-an`

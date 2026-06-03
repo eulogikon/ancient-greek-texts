@@ -19,8 +19,8 @@ Lynceus of Samos was a Hellenistic comic poet of the 4th to 3rd century BCE. Two
 
 ## Works
 
-- [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-samos-athenian-dining-iyi-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-ab`
 - [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-samos-athenian-dining-iyi-aa.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-aa`
+- [Fragments on Athenian Dining](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-samos-athenian-dining-iyi-ab.grc.md) — *Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων* · `iyi-ab`
 
 ## License and provenance
 

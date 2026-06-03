@@ -45,8 +45,8 @@ Themistius, a 4th century philosopher and statesman. His surviving works include
 - [On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-soul-rye-bl.grc.md) — *Περὶ ψυχῆς* · `rye-bl`
 - [On Those Who Failed Under Valens](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-failed-valens-rye-au.grc.md) — *Περὶ τῶν ἠτυχηκότων ἐπὶ Οὐάλεντος* · `rye-au`
 - [Oration to Emperor Constantius on the Philosopher King](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-oration-constantius-philosopher-king-rye-aa.grc.md) — *Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα* · `rye-aa`
-- [Paraphrase of On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-rye-ar.grc.md) — *Σχόλια εἰς τὰ Ἀριστοτέλους περὶ ψυχῆς* · `rye-ar`
-- [Paraphrase of Parva Naturalia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-commentary-aristotle-rye-as.grc.md) — *Σχόλια εἰς τὰ Παρὰ Φυσικά* · `rye-as`
+- [Paraphrase of On Memory and Recollection](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-paraphrase-memory-recollection-rye-as.grc.md) — *Παράφρασις εἰς τὸ Περὶ Μνήμης καὶ Ἀναμνήσεως* · `rye-as`
+- [Paraphrase of On the Soul](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-paraphrase-on-the-soul-rye-ar.grc.md) — *Παράφρασις εἰς τὸ Περὶ Ψυχῆς* · `rye-ar`
 - [Paraphrase Of Posterior Analytics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-posterior-analytics-rye-ap.grc.md) — *Παράφρασις τῶν Ἀναλυτικῶν Ὑστέρων* · `rye-ap`
 - [Penteteric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-penteteric-rye-bm.grc.md) — *Πενταετηρικός* · `rye-bm`
 - [Philadelphians or-Philanthropy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius-philanthropy-rye-aq.grc.md) — *Φιλάδελφοι ἢ περὶ φιλανθρωπίας* · `rye-aq`

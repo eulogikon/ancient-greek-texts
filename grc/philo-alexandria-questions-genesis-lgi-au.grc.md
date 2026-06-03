@@ -1,6 +1,6 @@
 ---
-title: Questions-Genesis Fragments
-title_greek: Ζητήματα ἐν Γενέσει Ἀποσπάσματα
+title: Questions on Genesis
+title_greek: Ζητήματα ἐν Γενέσει
 author: Philo of Alexandria
 eul_wid: lgi-au
 eul_aid: lgi
@@ -12,9 +12,9 @@ format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
-# Questions-Genesis Fragments
+# Questions on Genesis
 
-*Ζητήματα ἐν Γενέσει Ἀποσπάσματα*
+*Ζητήματα ἐν Γενέσει*
 
 **Author:** Philo of Alexandria
 
