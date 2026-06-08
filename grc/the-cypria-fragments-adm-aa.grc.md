@@ -1,10 +1,10 @@
 ---
 title: Cypria
 title_greek: Κύπρια
-author: Epic Work Anonymous II
+author: The Cypria
 eul_wid: adm-aa
 eul_aid: adm
-canonical: "https://eulogikon.org/works/epic-anon-ii-cypria-adm-aa"
+canonical: "https://eulogikon.org/works/the-cypria-fragments-adm-aa"
 period: Archaic
 dialect: Mixed Dialects
 domain: Epic
@@ -16,9 +16,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κύπρια*
 
-**Author:** Epic Work Anonymous II
+**Author:** The Cypria
 
-**eul_wid:** `adm-aa` · [HTML page](https://eulogikon.org/works/epic-anon-ii-cypria-adm-aa)
+**eul_wid:** `adm-aa` · [HTML page](https://eulogikon.org/works/the-cypria-fragments-adm-aa)
 
 ## Text
 

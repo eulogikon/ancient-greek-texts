@@ -4,7 +4,7 @@ title_greek: Ἀποσπάσματα τοῦ Χελιδονίου ᾨδοῦ
 author: Lyric Work Anonymous
 eul_wid: aeq-aa
 eul_aid: aeq
-canonical: "https://eulogikon.org/works/anon-lyric-swallow-song-aeq-aa"
+canonical: "https://eulogikon.org/works/popular-songs-swallow-song-aeq-aa"
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Lyric Work Anonymous
 
-**eul_wid:** `aeq-aa` · [HTML page](https://eulogikon.org/works/anon-lyric-swallow-song-aeq-aa)
+**eul_wid:** `aeq-aa` · [HTML page](https://eulogikon.org/works/popular-songs-swallow-song-aeq-aa)
 
 ## Text
 
