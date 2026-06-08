@@ -19,8 +19,8 @@ Ibycus of Rhegium, 6th century BCE Greek poet. Surviving poetic fragments in the
 
 ## Works
 
-- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-rhegium-trojan-war-asw-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `asw-ab`
 - [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-rhegium-trojan-war-asw-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `asw-aa`
+- [Fragments on the Trojan War](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-rhegium-trojan-war-asw-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου* · `asw-ab`
 
 ## License and provenance
 

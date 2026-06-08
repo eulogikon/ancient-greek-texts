@@ -184,7 +184,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 13(b)
 
-. . .[ln_1][]μι [ ] [ [ ]μιc [[ln_3]. . .
+. . .[ln_1][]μι [ ] [ [ ]μις [[ln_3]. . .
 
 ### book 14
 

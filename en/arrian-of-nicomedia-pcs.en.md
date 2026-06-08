@@ -29,8 +29,8 @@ Arrian, a 2nd century CE Greek historian and Roman official. Historical and phil
 - [Fragments of Parthica, According to John Lydus and Syncellus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-parthica-fragments-pcs-aa.grc.md) — *Ἀποσπάσματα Παρθικῶν* · `pcs-aa`
 - [Fragments on Cavalry Tactics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-cavalry-tactics-pcs-ap.grc.md) — *Ἀποσπάσματα περὶ Ἱππικῆς Τακτικῆς* · `pcs-ap`
 - [Fragments-Physical Matters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-physical-matters-pcs-ad.grc.md) — *Ἀποσπάσματα Φυσικῶν* · `pcs-ad`
-- [History of Alexander's Successors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-alexander-successors-pcs-ac.grc.md) — *Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου* · `pcs-ac`
 - [History of Alexander's Successors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.md) — *Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου* · `pcs-ab`
+- [History of Alexander's Successors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-alexander-successors-pcs-ac.grc.md) — *Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου* · `pcs-ac`
 - [Hunting](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-cynegeticus-pcs-aq.grc.md) — *Κυνηγετικός* · `pcs-aq`
 - [Indica](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-indica-pcs-ar.grc.md) — *Ἰνδική* · `pcs-ar`
 - [Letter to Lucius Gellius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-nicomedia-letter-lucius-gellius-pcs-ah.grc.md) — *Ἐπιστολὴ πρὸς Λούκιον Γέλλιον* · `pcs-ah`

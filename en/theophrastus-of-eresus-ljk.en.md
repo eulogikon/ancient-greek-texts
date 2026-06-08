@@ -6,7 +6,7 @@ canonical: "https://eulogikon.org/authors/theophrastus-of-eresus-ljk"
 period: Hellenistic
 dialect: Attic Philosophical
 affiliation: Peripatetic
-works_count: 21
+works_count: 20
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -24,7 +24,6 @@ Theophrastus, successor to Aristotle. Surviving treatises on plants, ethics, and
 - [Enquiry into Plants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-enquiry-plants-ljk-ag.grc.md) — *Περὶ φυτῶν ἱστορία* · `ljk-ag`
 - [Fragments 13-190](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-fragments-ljk-ab.grc.md) — *Ἀποσπάσματα διάφορα* · `ljk-ab`
 - [From the Metaphysics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-metaphysics-ljk-af.grc.md) — *Ἐκ τῶν μετὰ τὰ φυσικά* · `ljk-af`
-- [Minor Works and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-minor-works-fragments-ljk-an.grc.md) — *Ἀποσπάσματα* · `ljk-an`
 - [On Causes of Plants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-causes-plants-ljk-ah.grc.md) — *Περὶ φυτῶν αἰτιῶν* · `ljk-ah`
 - [On Dizziness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-dizziness-ljk-ak.grc.md) — *Περὶ τῆς Ἰλιγγιάδος* · `ljk-ak`
 - [On Electing Magistrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-electing-magistrates-ljk-ac.grc.md) — *Περὶ τῆς ἐκλογῆς ἀρχόντων* · `ljk-ac`

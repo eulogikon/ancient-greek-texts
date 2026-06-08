@@ -19,8 +19,8 @@ Matron of Pitane was a classical Greek poet writing in Homeric epic style. His s
 
 ## Works
 
-- [Attic Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-pitane-banquet-fle-aa.grc.md) — *Δεῖπνον Ἀττικόν* · `fle-aa`
 - [Attic Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-pitane-banquet-fle-ab.grc.md) — *Δεῖπνον Ἀττικόν* · `fle-ab`
+- [Attic Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-pitane-banquet-fle-aa.grc.md) — *Δεῖπνον Ἀττικόν* · `fle-aa`
 - [Banquet of Xenocles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-pitane-banquet-of-xenocles-fle-ac.grc.md) — *Ἀποσπάσματα* · `fle-ac`
 
 ## License and provenance

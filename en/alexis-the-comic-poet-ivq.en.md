@@ -20,8 +20,8 @@ Alexis was a Hellenistic comic playwright from Thurii. Three surviving fragmenta
 ## Works
 
 - [Fragments on Servants and Masters](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-servants-masters-ivq-ac.grc.md) — *Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν* · `ivq-ac`
-- [Sympotic Fragments of Alexis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-sympotic-fragments-ivq-ab.grc.md) — *Ἀποσπάσματα Συμποτικὰ Ἀλεξίδος* · `ivq-ab`
 - [Sympotic Fragments of Alexis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-sympotic-fragments-ivq-aa.grc.md) — *Ἀποσπάσματα Συμποτικὰ Ἀλεξίδου* · `ivq-aa`
+- [Sympotic Fragments of Alexis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-sympotic-fragments-ivq-ab.grc.md) — *Ἀποσπάσματα Συμποτικὰ Ἀλεξίδος* · `ivq-ab`
 
 ## License and provenance
 

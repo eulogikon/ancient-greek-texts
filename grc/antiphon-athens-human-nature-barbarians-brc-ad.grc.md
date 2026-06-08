@@ -24,7 +24,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1364 fr a,col 1
 
-[]του [] . []ο []λ [ἀνθ]ρώποις []ματα []ητης []ηλου· ε []ωcενε [τε]κμαίρε[σθαι δὲ] παρέχει [] . [ . ]ταc []ειcτων []ρων ⟧ []τα ε[]αν []κ[ .. ] [] [] [] [] [] [] [] [] [] [] [] [] [] []νο []ν []υc ⟧ ουκ . [] []εν[]
+[]του [] . []ο []λ [ἀνθ]ρώποις []ματα []ητης []ηλου· ε []ωσενε [τε]κμαίρε[σθαι δὲ] παρέχει [] . [ . ]τας []ειστων []ρων ⟧ []τα ε[]αν []κ[ .. ] [] [] [] [] [] [] [] [] [] [] [] [] [] []νο []ν []υς ⟧ ουκ . [] []εν[]
 
 ### 1364 fr a,col 2
 
@@ -64,19 +64,19 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1364 fr b,col 7
 
-[] [] [] [ τῷ] [ἀπο]λογ[οῦντί ἐ‐] στιν ἡ ἀπ[ολογία] ὅσηπερ τ[ῷ κα‐] τηγοροῦ[ντι ἡ] κατηγορ[ία, ἡ δὲ] πειθὼ ἀν[τίπαλος] τῷ γε πε[πονθό‐] τι καὶ τῷ [δεδρα‐] κότι ἐγίγ[νετο] γὰρ ν[] μασι κ[] καὶ κ[] δυν[α] δεcα[] ουδ[] μα[] τευ . [] ωcε[] τωι[] εδ[] α[] τ[] θ[] ⟦ α[] ⟦ ν[] ⟦ αc[] η[] ν[] το[] ⟦ ν ⟧ []
+[] [] [] [ τῷ] [ἀπο]λογ[οῦντί ἐ‐] στιν ἡ ἀπ[ολογία] ὅσηπερ τ[ῷ κα‐] τηγοροῦ[ντι ἡ] κατηγορ[ία, ἡ δὲ] πειθὼ ἀν[τίπαλος] τῷ γε πε[πονθό‐] τι καὶ τῷ [δεδρα‐] κότι ἐγίγ[νετο] γὰρ ν[] μασι κ[] καὶ κ[] δυν[α] δεσα[] ουδ[] μα[] τευ . [] ωσε[] τωι[] εδ[] α[] τ[] θ[] ⟦ α[] ⟦ ν[] ⟦ ας[] η[] ν[] το[] ⟦ ν ⟧ []
 
 ### 1364 fr c
 
-[Break in Text (point at which text breaks off for an unknown length)] [] .. [] []ν ἱείς· αλ[] []χοι[ . ]ανο[] [] . [ ... ]cαλ[] []γου· ν[] []ενε[] []αυτ[] [Break in Text (point at which text breaks off for an unknown length)]
+[Break in Text (point at which text breaks off for an unknown length)] [] .. [] []ν ἱείς· αλ[] []χοι[ . ]ανο[] [] . [ ... ]σαλ[] []γου· ν[] []ενε[] []αυτ[] [Break in Text (point at which text breaks off for an unknown length)]
 
 ### 1364 fr d
 
-[Break in Text (point at which text breaks off for an unknown length)] []ο . [] [] .. [] []υ[] []πο[] []υ· . [] []ακα [] προc
+[Break in Text (point at which text breaks off for an unknown length)] []ο . [] [] .. [] []υ[] []πο[] []υ· . [] []ακα [] προς
 
 ### 1364 fr e
 
-[Break in Text (point at which text breaks off for an unknown length)] []ιαπ[] []ουcα[] [] . οτ[] []το . [] [Break in Text (point at which text breaks off for an unknown length)]
+[Break in Text (point at which text breaks off for an unknown length)] []ιαπ[] []ουσα[] [] . οτ[] []το . [] [Break in Text (point at which text breaks off for an unknown length)]
 
 ### 1364 fr f
 
@@ -88,11 +88,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### 1364 fr h
 
-[Break in Text (point at which text breaks off for an unknown length)] []ιc[] []ν[] [] . ον[] [Break in Text (point at which text breaks off for an unknown length)]
+[Break in Text (point at which text breaks off for an unknown length)] []ις[] []ν[] [] . ον[] [Break in Text (point at which text breaks off for an unknown length)]
 
 ### 1364 fr i
 
-[Break in Text (point at which text breaks off for an unknown length)] [] . [] []μη[] []φυc[] [Break in Text (point at which text breaks off for an unknown length)]
+[Break in Text (point at which text breaks off for an unknown length)] [] . [] []μη[] []φυς[] [Break in Text (point at which text breaks off for an unknown length)]
 
 ### 1364 fr l
 

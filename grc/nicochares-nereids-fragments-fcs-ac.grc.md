@@ -24,7 +24,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1
 
-Νηρῇδεc.
+Νηρῇδες.
 
 ### book 2
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4
 
-εἰ πεύcομαί 〈cε κἂν〉 τὸν ἀηδόνιον ὕπνον τῆc νυκτὸc ἀποδαρθόντα, cαυτὸν αἰτιῶ.
+εἰ πεύσομαί 〈σε κἂν〉 τὸν ἀηδόνιον ὕπνον τῆς νυκτὸς ἀποδαρθόντα, σαυτὸν αἰτιῶ.
 
 ### book 5
 
@@ -44,7 +44,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 6
 
-ῥηγνὺc δὲ πολλὰc κυμάτων ἀναρρόαc.
+ῥηγνὺς δὲ πολλὰς κυμάτων ἀναρρόας.
 
 ## License and provenance
 

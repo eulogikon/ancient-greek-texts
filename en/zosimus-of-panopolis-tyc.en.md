@@ -21,8 +21,8 @@ Zosimus of Panopolis, Greco-Egyptian alchemist of the late third century. Works 
 
 - [Advisory Recommendations for Practitioners of the Art](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-advisory-practitioners-tyc-ak.grc.md) — *Παραινέσεις συστατικαὶ τῶν ἐγχειρούντων τὴν τέχνην* · `tyc-ak`
 - [Aerial Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-aerial-water-tyc-cd.grc.md) — *Τὸ ἀέριον ὕδωρ* · `tyc-cd`
-- [Alchemical Excerpt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-alchemical-excerpt-tyc-ca.grc.md) — *Ἀλχημικὸν ἀπόσπασμα* · `tyc-ca`
 - [Alchemical Excerpt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.md) — *Ἀλχημικὸν ἀπόσπασμα* · `tyc-bz`
+- [Alchemical Excerpt](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-alchemical-excerpt-tyc-ca.grc.md) — *Ἀλχημικὸν ἀπόσπασμα* · `tyc-ca`
 - [Creation of Mercury](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-mercury-creation-tyc-bt.grc.md) — *Ὑδραργύρου ποίησις* · `tyc-bt`
 - [Diagram](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-diagram-tyc-cn.grc.md) — *Διάγραμμα* · `tyc-cn`
 - [Excerpt-Bronze Men](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-bronze-men-tyc-br.grc.md) — *περὶ χαλκανθρώπων* · `tyc-br`
@@ -50,9 +50,9 @@ Zosimus of Panopolis, Greco-Egyptian alchemist of the late third century. Works 
 - [On the Causes of Composition](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-causes-composition-tyc-bd.grc.md) — *Περὶ ἀφορμῶν συνθέσεως* · `tyc-bd`
 - [On the Difference of Burnt Copper](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.md) — *Περὶ διαφορᾶς χαλκοῦ κεκαυμένου* · `tyc-ba`
 - [On the Difference of Burnt Copper](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-burnt-copper-tyc-az.grc.md) — *Περὶ διαφορᾶς χαλκοῦ κεκαυμένου* · `tyc-az`
-- [On the Divine Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-divine-water-tyc-bv.grc.md) — *Περὶ τοῦ θείου ὕδατος (= Ζωσίμου τοῦ Πανοπολίτου* · `tyc-bv`
 - [On the Divine Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-divine-water-tyc-bw.grc.md) — *Περὶ τοῦ θείου ὕδατος* · `tyc-bw`
 - [On the Divine Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-divine-water-tyc-bu.grc.md) — *Περὶ τοῦ θείου ὕδατος* · `tyc-bu`
+- [On the Divine Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-divine-water-tyc-bv.grc.md) — *Περὶ τοῦ θείου ὕδατος (= Ζωσίμου τοῦ Πανοπολίτου* · `tyc-bv`
 - [On the Drying Agent](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-drying-agent-tyc-bx.grc.md) — *Περὶ ξηρίου* · `tyc-bx`
 - [On the Economy of the Magnet Body](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-magnet-body-tyc-bb.grc.md) — *Περὶ οἰκονομίας τοῦ τῆς μαγνησίας σώματος* · `tyc-bb`
 - [On the Evaporation of Divine Water](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-evaporation-divine-water-tyc-ay.grc.md) — *Περὶ τῆς ἐξατμίσεως ὕδατος θείου* · `tyc-ay`
@@ -68,10 +68,10 @@ Zosimus of Panopolis, Greco-Egyptian alchemist of the late third century. Works 
 - [On the Work to be Done at Every Time](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-work-done-tyc-au.grc.md) — *Περὶ τοῦ ἐν παντὶ καιρῷ ἀρκτέον τὸ ἔργον* · `tyc-au`
 - [On Weights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-weights-tyc-ck.grc.md) — *Περὶ σταθμῶν* · `tyc-ck`
 - [On What is According to the Art, Substance and NSubstance](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-art-substance-tyc-ag.grc.md) — *Περὶ τοῦ τί ἐστιν κατὰ τὴν τέχνην, οὐσία καὶ* · `tyc-ag`
-- [On Whitening](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-whitening-tyc-cj.grc.md) — *Περὶ λευκώσεως* · `tyc-cj`
 - [On Whitening](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-whitening-tyc-ci.grc.md) — *Περὶ λευκώσεως* · `tyc-ci`
-- [Poem of Zosimus, Act 3](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.md) — *Ποίημα τοῦ Ζωσίμου (πρᾶξις γʹ)* · `tyc-bo`
+- [On Whitening](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-whitening-tyc-cj.grc.md) — *Περὶ λευκώσεως* · `tyc-cj`
 - [Poem of Zosimus, Act 3](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.md) — *Ποίημα Ζωσίμου (πρᾶξις γʹ)* · `tyc-bn`
+- [Poem of Zosimus, Act 3](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.md) — *Ποίημα τοῦ Ζωσίμου (πρᾶξις γʹ)* · `tyc-bo`
 - [True Book of Sophos the Egyptian and the Divine Lord of the Hebrews Sabaoth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa.grc.md) — *Βίβλος ἀληθὴς Σοφὲ Αἰγυπτίου καὶ θείου Ἑβραίων* · `tyc-aa`
 - [Washing of Cadmia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-washing-cadmia-tyc-cc.grc.md) — *Καδμίας πλύσις* · `tyc-cc`
 - [Zosimus of Panopolis, *Genuine Writing-the Divine Art*](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-panopolis-genuine-divine-art-tyc-aj.grc.md) — *Ζωσίμου τοῦ Πανοπολίτου γνησία γραφὴ περὶ τῆς* · `tyc-aj`

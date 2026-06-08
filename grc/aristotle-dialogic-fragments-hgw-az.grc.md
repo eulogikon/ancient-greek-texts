@@ -2976,11 +2976,11 @@ in Aristidis Panathen. (ἐνδοξότατοι πάντων οἱ κατὰ τ�
 
 ### 8 50 638n
 
-gr. lat. Laudun. (cod. 444 s. IX) habet post Greca Prisciani collecta varia gr. lat. rei grammaticae Item greca de membris hominum. Item de inventione litterarum etc. (ut legitur in indice vet.). locus de inventione litterarum sic extat f. 289b (ed. E. Miller: Not. et extr. XXIX, 2. Par. 1880. p. 181): ΕΧ ΠΕΠΛΟ ΤΕΟΦΡΑϹΤΙ proprium et interpellatur deum intelligens. [5]
+gr. lat. Laudun. (cod. 444 s. IX) habet post Greca Prisciani collecta varia gr. lat. rei grammaticae Item greca de membris hominum. Item de inventione litterarum etc. (ut legitur in indice vet.). locus de inventione litterarum sic extat f. 289b (ed. E. Miller: Not. et extr. XXIX, 2. Par. 1880. p. 181): ΕΧ ΠΕΠΛΟ ΤΕΟΦΡΑΣΤΙ proprium et interpellatur deum intelligens. [5]
 
 ### 8 50 638
 
-Primi quidem invenerunt ( sup. s. apud quosdam Caldei) litteras Aegiptii. Secundi Foenices ( sup. i. Afri), unde foeniceae ( sup. i. rubicundae) litterae dicuntur. In Graeciam autem Cathmos Sidonius, Agenoris filius, detulit litteras. Sunt autem hae numero XVI: ΑΒΓΔΕΙΚΛΜ ΝΟΠΡϹΤΥ. Post vero Cathmum Palamidis filius Naucli grecus ( sup. proprium) invenit ΖΘΧΦ. Deinde Simonidis filius Leopreppi ΗΞΨΩ. Fiunt omnes XXIIII. De inventione litterarum sic accepimus. Schol. [10]
+Primi quidem invenerunt ( sup. s. apud quosdam Caldei) litteras Aegiptii. Secundi Foenices ( sup. i. Afri), unde foeniceae ( sup. i. rubicundae) litterae dicuntur. In Graeciam autem Cathmos Sidonius, Agenoris filius, detulit litteras. Sunt autem hae numero XVI: ΑΒΓΔΕΙΚΛΜ ΝΟΠΡΣΤΥ. Post vero Cathmum Palamidis filius Naucli grecus ( sup. proprium) invenit ΖΘΧΦ. Deinde Simonidis filius Leopreppi ΗΞΨΩ. Fiunt omnes XXIIII. De inventione litterarum sic accepimus. Schol. [10]
 
 ### 8 50 639
 

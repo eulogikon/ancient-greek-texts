@@ -24,11 +24,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1
 
-ἔπειτα κἀν Δελφοῖcιν ἀνετέθη γραφείc· ἀεὶ γεωργὸc εἰc νέωτα
+ἔπειτα κἀν Δελφοῖσιν ἀνετέθη γραφείς· ἀεὶ γεωργὸς εἰς νέωτα
 
 ### book 1.2
 
-χρηcτὸc ἦν, πρῶτον
+χρηστὸς ἦν, πρῶτον
 
 ### book 1.3
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-ὁ δὲ ταῦρόc ἐcτιν ἀγόμενοc πρὸc τῷ νεῴ.
+ὁ δὲ ταῦρός ἐστιν ἀγόμενος πρὸς τῷ νεῴ.
 
 ### book 3
 

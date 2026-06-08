@@ -104,7 +104,7 @@ XXII. Ammonius in Porph. isag. prooem. 4 r. 30 (ed. Busse, p. 9) καὶ ὁ π�
 
 ### book 23
 
-XXIII. Servius in Verg. Aen. xii. 691 striduntque hastilibus aurae] Homerus συρίζουσα ΜΑΚΕΛΟΝ ΙϹΙΤΙΤΑΤΕ λόγχηconicias μακεδνόν (auctori idem quod μακρόν) et ἵστατο vel ἴπτατο.
+XXIII. Servius in Verg. Aen. xii. 691 striduntque hastilibus aurae] Homerus συρίζουσα ΜΑΚΕΛΟΝ ΙΣΙΤΙΤΑΤΕ λόγχηconicias μακεδνόν (auctori idem quod μακρόν) et ἵστατο vel ἴπτατο.
 
 ### book 24
 

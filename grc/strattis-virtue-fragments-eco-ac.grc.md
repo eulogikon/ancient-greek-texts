@@ -24,11 +24,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1
 
-ἀλλ’ εἰ μέλλειc ἀνδρείωc φῴζειν ὥcπερ μύcτακα cαυτοῦ ...
+ἀλλ’ εἰ μέλλεις ἀνδρείως φῴζειν ὥσπερ μύστακα σαυτοῦ ...
 
 ### book 2.1
 
-δὸc νῦν τὸν ἄμυλον
+δὸς νῦν τὸν ἄμυλον
 
 ### book 2.2
 
@@ -40,7 +40,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4
 
-αὐτοcχεδιαcθείc.
+αὐτοσχεδιασθείς.
 
 ### book 5
 
@@ -52,7 +52,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7
 
-ἀμφίβληcτρον.
+ἀμφίβληστρον.
 
 ### book 8
 
@@ -60,11 +60,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 9
 
-ἀνωφέλητοc καὶ θεοῖc ἐχθρόc.
+ἀνωφέλητος καὶ θεοῖς ἐχθρός.
 
 ### book 10
 
-cαυτὸν δ’ ἀποφαίνειc κενότερον λεβηρίδοc.
+σαυτὸν δ’ ἀποφαίνεις κενότερον λεβηρίδος.
 
 ## License and provenance
 

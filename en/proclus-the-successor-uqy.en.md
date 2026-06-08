@@ -6,7 +6,7 @@ canonical: "https://eulogikon.org/authors/proclus-the-successor-uqy"
 period: Late Antique
 dialect: Philosophical Koine
 affiliation: Neoplatonist
-works_count: 20
+works_count: 21
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -21,6 +21,7 @@ Proclus, 5th century CE Neoplatonist philosopher. Surviving works include philos
 ## Works
 
 - [Chrestomathy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-chrestomathy-uqy-aq.grc.md) — *Χρηστομάθεια* · `uqy-aq`
+- [Commentary-Hesiod's Works and Days](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-hesiod-works-days-commentary-uqy-au.grc.md) — *Σχόλια εἰς τὰ Ἡσιόδου Ἔργα καὶ Ἡμέρας* · `uqy-au`
 - [Commentary-Plato's Cratylus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-cratylus-commentary-uqy-ag.grc.md) — *Σχόλια εἰς τὸν Πλάτωνος Κρατύλον* · `uqy-ag`
 - [Commentary-Plato's Timaeus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-timaeus-commentary-uqy-ah.grc.md) — *Σχόλια εἰς τὸν Πλάτωνος Τίμαιον* · `uqy-ah`
 - [Commentary-the First Book of Euclid's Elements](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-euclid-elements-commentary-uqy-ab.grc.md) — *Σχόλια εἰς τὸ πρῶτον βιβλίον τῶν Εὐκλείδου* · `uqy-ab`
