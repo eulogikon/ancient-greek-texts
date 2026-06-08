@@ -104,7 +104,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.11
 
-τειχοῖν δ’ ἅμ’, ἀ‐ ρι]cτ〈ητ〉ικώτεροι γάρ εἰcιν ἡμῶν·
+τειχοῖν δ’ ἅμ’, ἀρι]cτ〈ητ〉ικώτεροι γάρ εἰcιν ἡμῶν·
 
 ### book 7.1
 
@@ -180,7 +180,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 10.2
 
-τοίαιcιν ἡ‐ δοναῖcι κείμεθα.[ln_5]ἐπ]εὶ δ’ ὁρῶ τοὺc ἄνδραc ἤδη
+τοίαιcιν ἡδοναῖcι κείμεθα.[ln_5]ἐπ]εὶ δ’ ὁρῶ τοὺc ἄνδραc ἤδη
 
 ### book 10.3
 

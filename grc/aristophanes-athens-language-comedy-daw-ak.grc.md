@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 48.2
 
-σο‐ φίσματ’ ἐστίν· ἐγὼ κτησάμην οὐκ εὐθὺς ἀπεδίδρασκες ἐκ διδασκάλου;
+σοφίσματ’ ἐστίν· ἐγὼ κτησάμην οὐκ εὐθὺς ἀπεδίδρασκες ἐκ διδασκάλου;
 
 ### book 11.1
 
@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 11.2
 
-παῖ‐ δες οἱ γέροντες
+παῖδες οἱ γέροντες
 
 ### book 29
 
@@ -48,7 +48,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 83
 
-ὀ πίττομαι· οὐ πείθομαι. καὶ τοῦτο Βοιώ‐ τιον.
+ὀ πίττομαι· οὐ πείθομαι. καὶ τοῦτο Βοιώτιον.
 
 ### book 84
 

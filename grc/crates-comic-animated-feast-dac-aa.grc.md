@@ -212,7 +212,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 23.1
 
-παί‐ ζειν δ’ ἐν ἀνδρικοῖς
+παίζειν δ’ ἐν ἀνδρικοῖς
 
 ### book 23.2
 

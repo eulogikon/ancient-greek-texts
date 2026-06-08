@@ -844,7 +844,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 3.4
 
-πρᾶγμα καλῶς εἰς δύνα‐ μιν τίθεσθαι.
+πρᾶγμα καλῶς εἰς δύναμιν τίθεσθαι.
 
 ### book 4.1
 
@@ -1464,7 +1464,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 111.1
 
-Ἀλλ’ εἴσιθ’ εἴσω καὶ πιοῦ‐ σα
+Ἀλλ’ εἴσιθ’ εἴσω καὶ πιοῦσα
 
 ### book 111.2
 

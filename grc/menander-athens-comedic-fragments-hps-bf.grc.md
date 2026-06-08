@@ -988,7 +988,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 202.1
 
-μ]ητέρα χήρα[ν ..]ωι τὸ χρυc[ίον λα‐ βὼν
+μ]ητέρα χήρα[ν ..]ωι τὸ χρυc[ίον λαβὼν
 
 ### book 202.2
 
@@ -996,7 +996,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 203.1
 
-].παν εἰcιὼν ἐλευθέρωc ο[ .]ωτοc διακονῶν ἑτοιμ[ πρά‐ γματα
+].παν εἰcιὼν ἐλευθέρωc ο[ .]ωτοc διακονῶν ἑτοιμ[ πράγματα
 
 ### book 203.2
 

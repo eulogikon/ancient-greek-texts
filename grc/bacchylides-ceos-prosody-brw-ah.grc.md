@@ -36,7 +36,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2
 
-πάντεσσι θνατοῖσι δαί‐ μων ἐπέταξε πόνους ἄλλοισιν ἄλλους
+πάντεσσι θνατοῖσι δαίμων ἐπέταξε πόνους ἄλλοισιν ἄλλους
 
 ## License and provenance
 

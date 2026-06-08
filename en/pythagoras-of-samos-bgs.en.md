@@ -20,8 +20,8 @@ Pythagoras, 6th century BCE philosopher who founded a school. Five surviving wor
 
 ## Works
 
-- [Astrological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.md) — *Ἀστρολογικὰ Ἀποσπάσματα* · `bgs-ab`
 - [Astrological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-astrology-bgs-aa.grc.md) — *Ἀστρολογικὰ Ἀποσπάσματα* · `bgs-aa`
+- [Astrological Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.md) — *Ἀστρολογικὰ Ἀποσπάσματα* · `bgs-ab`
 - [Fragments on Sacred Doctrine](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-sacred-doctrine-bgs-ae.grc.md) — *Ἀποσπάσματα περὶ Ἱερᾶς Διδασκαλίας* · `bgs-ae`
 - [Golden Poem](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-golden-poem-bgs-ac.grc.md) — *Χρυσοῦν Ποίημα* · `bgs-ac`
 - [Testimonies](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-samos-testimonies-bgs-ad.grc.md) — *Μαρτυρίαι* · `bgs-ad`

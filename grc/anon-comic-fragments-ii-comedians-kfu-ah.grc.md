@@ -24,7 +24,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 344.1
 
-Ὑψικράτουc τῶν κωμωι‐ δουμένων ϛ ζ
+Ὑψικράτουc τῶν κωμωιδουμένων ϛ ζ
 
 ### book 344.2
 
@@ -32,7 +32,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 344.3
 
-τοῖc Πωλίωνοc αὐτὰ βιβλί‐ οιc εἶναι. εἰκὸc δὲ καὶ ἄλλουc αὐτὰ ἐcχηκέναι.
+τοῖc Πωλίωνοc αὐτὰ βιβλίοιc εἶναι. εἰκὸc δὲ καὶ ἄλλουc αὐτὰ ἐcχηκέναι.
 
 ## License and provenance
 

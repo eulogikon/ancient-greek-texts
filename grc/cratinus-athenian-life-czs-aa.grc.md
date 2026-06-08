@@ -128,7 +128,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 17.2
 
-σκια‐ μαχῶν ἀπο‐ κτίννυσι
+σκιαμαχῶν ἀποκτίννυσι
 
 ### book 17.3
 
@@ -628,7 +628,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 116.3
 
-πλεῖ‐ στα τύχης.
+πλεῖστα τύχης.
 
 ### book 120
 
@@ -1636,7 +1636,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 297.1
 
-ἀλλ’ εἴσιθ’ εἴσω καὶ πιοῦ‐ σα
+ἀλλ’ εἴσιθ’ εἴσω καὶ πιοῦσα
 
 ### book 297.2
 

@@ -4,7 +4,7 @@ title_greek: "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ �
 author: Diogenes of Laertia
 eul_wid: rjo-ab
 eul_aid: rjo
-canonical: "https://eulogikon.org/works/diogenes-of-laertia-epigrams-rjo-ak"
+canonical: "https://eulogikon.org/works/diogenes-of-laertia-lives-socratics-rjo-ab"
 period: Roman
 dialect: Atticizing
 domain: Biography
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Diogenes of Laertia
 
-**eul_wid:** `rjo-ab` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-epigrams-rjo-ak)
+**eul_wid:** `rjo-ab` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-socratics-rjo-ab)
 
 ## Text
 

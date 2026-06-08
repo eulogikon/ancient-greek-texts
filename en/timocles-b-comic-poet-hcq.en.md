@@ -20,8 +20,8 @@ Timocles was a 4th century BCE Athenian comic poet. Read fragments of his classi
 ## Works
 
 - [Comic Fragments on Demagogues](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-comic-demagogues-hcq-ab.grc.md) — *Ἀποσπάσματα περὶ Δημαγωγῶν* · `hcq-ab`
-- [Fragments on Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-comedy-fragments-hcq-ac.grc.md) — *Ἀποσπάσματα περὶ Κωμῳδίας* · `hcq-ac`
 - [Fragments on Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-comedy-fragments-hcq-ad.grc.md) — *Ἀποσπάσματα περὶ Κωμῳδίας* · `hcq-ad`
+- [Fragments on Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-comedy-fragments-hcq-ac.grc.md) — *Ἀποσπάσματα περὶ Κωμῳδίας* · `hcq-ac`
 - [Fragments on Rhetoric and Corruption](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-rhetoric-corruption-hcq-aa.grc.md) — *Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Διαφθορᾶς* · `hcq-aa`
 
 ## License and provenance

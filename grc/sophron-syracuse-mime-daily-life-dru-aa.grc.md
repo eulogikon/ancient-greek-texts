@@ -288,7 +288,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 52*.2
 
-πλόον δοκά‐ ζων· ποντίναι γὰρ ἤδη
+πλόον δοκάζων· ποντίναι γὰρ ἤδη
 
 ### book 52*.3
 

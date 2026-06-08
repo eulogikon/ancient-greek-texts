@@ -3,8 +3,8 @@
   "kind": "corpus_manifest",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "counts": {
-    "authors": 1344,
-    "works": 4031,
+    "authors": 1353,
+    "works": 4051,
     "domain_pdfs": 17,
     "affiliation_pdfs": 25
   },
@@ -268,7 +268,7 @@
           "work_display_string": "achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon",
           "title_english": "Adventures of Leucippe and Clitophon",
           "title_greek": "τὰ κατὰ Λευκίππην καὶ Κλειτοφῶντα",
-          "passages": 185,
+          "passages": 837,
           "files": {
             "pdf": "grc/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa.grc.pdf",
             "md": "grc/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa.grc.md",
@@ -2126,50 +2126,6 @@
       ]
     },
     {
-      "eul_aid": "vig",
-      "author_display_string": "agathias-the-scholastic",
-      "author_stem": "agathias-the-scholastic-vig",
-      "name_english": "Agathias the Scholastic",
-      "name_greek": "Ἀγαθίας ὁ Σχολαστικός",
-      "period": "Late Antique",
-      "dialect": "Koine",
-      "domain": "History",
-      "format": "Verse",
-      "affiliation": null,
-      "works_count": 2,
-      "files": {
-        "pdf": "en/agathias-the-scholastic-vig.en.pdf",
-        "md": "en/agathias-the-scholastic-vig.en.md",
-        "txt": "en/agathias-the-scholastic-vig.en.txt"
-      },
-      "works": [
-        {
-          "eul_wid": "vig-ab",
-          "work_display_string": "agathias-epigrams",
-          "title_english": "Epigrams",
-          "title_greek": "Ἐπιγράμματα",
-          "passages": 108,
-          "files": {
-            "pdf": "grc/agathias-epigrams-vig-ab.grc.pdf",
-            "md": "grc/agathias-epigrams-vig-ab.grc.md",
-            "txt": "grc/agathias-epigrams-vig-ab.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "vig-aa",
-          "work_display_string": "agathias-histories",
-          "title_english": "Histories",
-          "title_greek": "Ἱστορίαι",
-          "passages": 598,
-          "files": {
-            "pdf": "grc/agathias-histories-vig-aa.grc.pdf",
-            "md": "grc/agathias-histories-vig-aa.grc.md",
-            "txt": "grc/agathias-histories-vig-aa.grc.txt"
-          }
-        }
-      ]
-    },
-    {
       "eul_aid": "izw",
       "author_display_string": "agathocles-of-cyzicus",
       "author_stem": "agathocles-of-cyzicus-izw",
@@ -2688,42 +2644,6 @@
       },
       "works": [
         {
-          "eul_wid": "rrg-bs",
-          "work_display_string": "alchemist-i-fragment",
-          "title_english": "Alchemical Fragment",
-          "title_greek": "Χημικὸν Ἀπόσπασμα",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/alchemist-i-fragment-rrg-bs.grc.pdf",
-            "md": "grc/alchemist-i-fragment-rrg-bs.grc.md",
-            "txt": "grc/alchemist-i-fragment-rrg-bs.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "rrg-bt",
-          "work_display_string": "alchemist-i-fragment",
-          "title_english": "Alchemical Fragment",
-          "title_greek": "Χημικὸν Ἀπόσπασμα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/alchemist-i-fragment-rrg-bt.grc.pdf",
-            "md": "grc/alchemist-i-fragment-rrg-bt.grc.md",
-            "txt": "grc/alchemist-i-fragment-rrg-bt.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "rrg-bw",
-          "work_display_string": "alchemist-i-fragment",
-          "title_english": "Alchemical Fragment",
-          "title_greek": "Ἀλχημικὸν Ἀπόσπασμα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/alchemist-i-fragment-rrg-bw.grc.pdf",
-            "md": "grc/alchemist-i-fragment-rrg-bw.grc.md",
-            "txt": "grc/alchemist-i-fragment-rrg-bw.grc.txt"
-          }
-        },
-        {
           "eul_wid": "rrg-bv",
           "work_display_string": "alchemist-i-fragment",
           "title_english": "Alchemical Fragment",
@@ -2748,15 +2668,15 @@
           }
         },
         {
-          "eul_wid": "rrg-bu",
+          "eul_wid": "rrg-bw",
           "work_display_string": "alchemist-i-fragment",
           "title_english": "Alchemical Fragment",
           "title_greek": "Ἀλχημικὸν Ἀπόσπασμα",
           "passages": 1,
           "files": {
-            "pdf": "grc/alchemist-i-fragment-rrg-bu.grc.pdf",
-            "md": "grc/alchemist-i-fragment-rrg-bu.grc.md",
-            "txt": "grc/alchemist-i-fragment-rrg-bu.grc.txt"
+            "pdf": "grc/alchemist-i-fragment-rrg-bw.grc.pdf",
+            "md": "grc/alchemist-i-fragment-rrg-bw.grc.md",
+            "txt": "grc/alchemist-i-fragment-rrg-bw.grc.txt"
           }
         },
         {
@@ -2769,6 +2689,42 @@
             "pdf": "grc/alchemist-i-fragment-rrg-br.grc.pdf",
             "md": "grc/alchemist-i-fragment-rrg-br.grc.md",
             "txt": "grc/alchemist-i-fragment-rrg-br.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "rrg-bs",
+          "work_display_string": "alchemist-i-fragment",
+          "title_english": "Alchemical Fragment",
+          "title_greek": "Χημικὸν Ἀπόσπασμα",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/alchemist-i-fragment-rrg-bs.grc.pdf",
+            "md": "grc/alchemist-i-fragment-rrg-bs.grc.md",
+            "txt": "grc/alchemist-i-fragment-rrg-bs.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "rrg-bt",
+          "work_display_string": "alchemist-i-fragment",
+          "title_english": "Alchemical Fragment",
+          "title_greek": "Χημικὸν Ἀπόσπασμα",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/alchemist-i-fragment-rrg-bt.grc.pdf",
+            "md": "grc/alchemist-i-fragment-rrg-bt.grc.md",
+            "txt": "grc/alchemist-i-fragment-rrg-bt.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "rrg-bu",
+          "work_display_string": "alchemist-i-fragment",
+          "title_english": "Alchemical Fragment",
+          "title_greek": "Ἀλχημικὸν Ἀπόσπασμα",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/alchemist-i-fragment-rrg-bu.grc.pdf",
+            "md": "grc/alchemist-i-fragment-rrg-bu.grc.md",
+            "txt": "grc/alchemist-i-fragment-rrg-bu.grc.txt"
           }
         },
         {
@@ -4368,18 +4324,6 @@
           }
         },
         {
-          "eul_wid": "ivq-aa",
-          "work_display_string": "alexis-sympotic-fragments",
-          "title_english": "Sympotic Fragments of Alexis",
-          "title_greek": "Ἀποσπάσματα Συμποτικὰ Ἀλεξίδου",
-          "passages": 1068,
-          "files": {
-            "pdf": "grc/alexis-sympotic-fragments-ivq-aa.grc.pdf",
-            "md": "grc/alexis-sympotic-fragments-ivq-aa.grc.md",
-            "txt": "grc/alexis-sympotic-fragments-ivq-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "ivq-ab",
           "work_display_string": "alexis-sympotic-fragments",
           "title_english": "Sympotic Fragments of Alexis",
@@ -4389,6 +4333,18 @@
             "pdf": "grc/alexis-sympotic-fragments-ivq-ab.grc.pdf",
             "md": "grc/alexis-sympotic-fragments-ivq-ab.grc.md",
             "txt": "grc/alexis-sympotic-fragments-ivq-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "ivq-aa",
+          "work_display_string": "alexis-sympotic-fragments",
+          "title_english": "Sympotic Fragments of Alexis",
+          "title_greek": "Ἀποσπάσματα Συμποτικὰ Ἀλεξίδου",
+          "passages": 1068,
+          "files": {
+            "pdf": "grc/alexis-sympotic-fragments-ivq-aa.grc.pdf",
+            "md": "grc/alexis-sympotic-fragments-ivq-aa.grc.md",
+            "txt": "grc/alexis-sympotic-fragments-ivq-aa.grc.txt"
           }
         }
       ]
@@ -8104,7 +8060,7 @@
           "work_display_string": "appian-alexandria-first-civil-war",
           "title_english": "First Civil War",
           "title_greek": "Ἐμφυλίων Πρώτη",
-          "passages": 81,
+          "passages": 653,
           "files": {
             "pdf": "grc/appian-alexandria-first-civil-war-pdc-ah.grc.pdf",
             "md": "grc/appian-alexandria-first-civil-war-pdc-ah.grc.md",
@@ -8496,18 +8452,6 @@
           }
         },
         {
-          "eul_wid": "iru-ab",
-          "work_display_string": "aratus-life",
-          "title_english": "Life of Aratus",
-          "title_greek": "Βίος Ἀράτου",
-          "passages": 5,
-          "files": {
-            "pdf": "grc/aratus-life-iru-ab.grc.pdf",
-            "md": "grc/aratus-life-iru-ab.grc.md",
-            "txt": "grc/aratus-life-iru-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "iru-ak",
           "work_display_string": "aratus-life",
           "title_english": "Life of Aratus",
@@ -8517,6 +8461,18 @@
             "pdf": "grc/aratus-life-iru-ak.grc.pdf",
             "md": "grc/aratus-life-iru-ak.grc.md",
             "txt": "grc/aratus-life-iru-ak.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "iru-ab",
+          "work_display_string": "aratus-life",
+          "title_english": "Life of Aratus",
+          "title_greek": "Βίος Ἀράτου",
+          "passages": 5,
+          "files": {
+            "pdf": "grc/aratus-life-iru-ab.grc.pdf",
+            "md": "grc/aratus-life-iru-ab.grc.md",
+            "txt": "grc/aratus-life-iru-ab.grc.txt"
           }
         },
         {
@@ -8712,15 +8668,27 @@
       },
       "works": [
         {
-          "eul_wid": "ngq-af",
+          "eul_wid": "ngq-ae",
           "work_display_string": "aratus-scholia-text",
           "title_english": "Scholia-Aratus",
           "title_greek": "Σχόλια εἰς Ἄρατον",
-          "passages": 1,
+          "passages": 3,
           "files": {
-            "pdf": "grc/aratus-scholia-text-ngq-af.grc.pdf",
-            "md": "grc/aratus-scholia-text-ngq-af.grc.md",
-            "txt": "grc/aratus-scholia-text-ngq-af.grc.txt"
+            "pdf": "grc/aratus-scholia-text-ngq-ae.grc.pdf",
+            "md": "grc/aratus-scholia-text-ngq-ae.grc.md",
+            "txt": "grc/aratus-scholia-text-ngq-ae.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "ngq-ad",
+          "work_display_string": "aratus-scholia-text",
+          "title_english": "Scholia-Aratus",
+          "title_greek": "Σχόλια εἰς Ἄρατον",
+          "passages": 31,
+          "files": {
+            "pdf": "grc/aratus-scholia-text-ngq-ad.grc.pdf",
+            "md": "grc/aratus-scholia-text-ngq-ad.grc.md",
+            "txt": "grc/aratus-scholia-text-ngq-ad.grc.txt"
           }
         },
         {
@@ -8736,18 +8704,6 @@
           }
         },
         {
-          "eul_wid": "ngq-ae",
-          "work_display_string": "aratus-scholia-text",
-          "title_english": "Scholia-Aratus",
-          "title_greek": "Σχόλια εἰς Ἄρατον",
-          "passages": 3,
-          "files": {
-            "pdf": "grc/aratus-scholia-text-ngq-ae.grc.pdf",
-            "md": "grc/aratus-scholia-text-ngq-ae.grc.md",
-            "txt": "grc/aratus-scholia-text-ngq-ae.grc.txt"
-          }
-        },
-        {
           "eul_wid": "ngq-aa",
           "work_display_string": "aratus-scholia-text",
           "title_english": "Scholia-Aratus",
@@ -8760,15 +8716,15 @@
           }
         },
         {
-          "eul_wid": "ngq-ad",
+          "eul_wid": "ngq-af",
           "work_display_string": "aratus-scholia-text",
           "title_english": "Scholia-Aratus",
           "title_greek": "Σχόλια εἰς Ἄρατον",
-          "passages": 31,
+          "passages": 1,
           "files": {
-            "pdf": "grc/aratus-scholia-text-ngq-ad.grc.pdf",
-            "md": "grc/aratus-scholia-text-ngq-ad.grc.md",
-            "txt": "grc/aratus-scholia-text-ngq-ad.grc.txt"
+            "pdf": "grc/aratus-scholia-text-ngq-af.grc.pdf",
+            "md": "grc/aratus-scholia-text-ngq-af.grc.md",
+            "txt": "grc/aratus-scholia-text-ngq-af.grc.txt"
           }
         },
         {
@@ -8932,18 +8888,6 @@
       },
       "works": [
         {
-          "eul_wid": "hrg-aa",
-          "work_display_string": "archedicus-misers-dinner-party",
-          "title_english": "Miser's Dinner Party",
-          "title_greek": "Ἀποσπάσματα",
-          "passages": 26,
-          "files": {
-            "pdf": "grc/archedicus-misers-dinner-party-hrg-aa.grc.pdf",
-            "md": "grc/archedicus-misers-dinner-party-hrg-aa.grc.md",
-            "txt": "grc/archedicus-misers-dinner-party-hrg-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "hrg-ab",
           "work_display_string": "archedicus-misers-dinner-party",
           "title_english": "Miser's Dinner Party",
@@ -8953,6 +8897,18 @@
             "pdf": "grc/archedicus-misers-dinner-party-hrg-ab.grc.pdf",
             "md": "grc/archedicus-misers-dinner-party-hrg-ab.grc.md",
             "txt": "grc/archedicus-misers-dinner-party-hrg-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "hrg-aa",
+          "work_display_string": "archedicus-misers-dinner-party",
+          "title_english": "Miser's Dinner Party",
+          "title_greek": "Ἀποσπάσματα",
+          "passages": 26,
+          "files": {
+            "pdf": "grc/archedicus-misers-dinner-party-hrg-aa.grc.pdf",
+            "md": "grc/archedicus-misers-dinner-party-hrg-aa.grc.md",
+            "txt": "grc/archedicus-misers-dinner-party-hrg-aa.grc.txt"
           }
         }
       ]
@@ -9736,7 +9692,7 @@
           "work_display_string": "aretaeus-cappadocian-acute-diseases",
           "title_english": "On Causes and Signs of Acute Diseases",
           "title_greek": "Περὶ αἰτίων καὶ σημείων ὀξέων παθών",
-          "passages": 29,
+          "passages": 112,
           "files": {
             "pdf": "grc/aretaeus-cappadocian-acute-diseases-qao-ab.grc.pdf",
             "md": "grc/aretaeus-cappadocian-acute-diseases-qao-ab.grc.md",
@@ -9748,7 +9704,7 @@
           "work_display_string": "aretaeus-cappadocian-chronic-diseases",
           "title_english": "On Causes and Signs of Chronic Diseases",
           "title_greek": "Περὶ αἰτίων καὶ σημείων χρονίων παθῶν",
-          "passages": 29,
+          "passages": 221,
           "files": {
             "pdf": "grc/aretaeus-cappadocian-chronic-diseases-qao-aa.grc.pdf",
             "md": "grc/aretaeus-cappadocian-chronic-diseases-qao-aa.grc.md",
@@ -9760,7 +9716,7 @@
           "work_display_string": "aretaeus-cappadocian-acute-diseases",
           "title_english": "Treatment of Acute Diseases",
           "title_greek": "Ὀξέων νούσων θεραπευτικόν",
-          "passages": 15,
+          "passages": 211,
           "files": {
             "pdf": "grc/aretaeus-cappadocian-acute-diseases-qao-ad.grc.pdf",
             "md": "grc/aretaeus-cappadocian-acute-diseases-qao-ad.grc.md",
@@ -9772,7 +9728,7 @@
           "work_display_string": "aretaeus-cappadocian-chronic-diseases",
           "title_english": "Treatment of Chronic Diseases",
           "title_greek": "Χρονίων νούσων θεραπευτικών",
-          "passages": 15,
+          "passages": 116,
           "files": {
             "pdf": "grc/aretaeus-cappadocian-chronic-diseases-qao-ac.grc.pdf",
             "md": "grc/aretaeus-cappadocian-chronic-diseases-qao-ac.grc.md",
@@ -10580,7 +10536,7 @@
           "work_display_string": "aristides-orator-political-discourse",
           "title_english": "On Political Discourse",
           "title_greek": "Περὶ πολιτικοῦ λόγου",
-          "passages": 28,
+          "passages": 195,
           "files": {
             "pdf": "grc/aristides-orator-political-discourse-qwm-ax.grc.pdf",
             "md": "grc/aristides-orator-political-discourse-qwm-ax.grc.md",
@@ -11652,7 +11608,7 @@
           "work_display_string": "aristophanes-athens-assemblywomen",
           "title_english": "Assemblywomen",
           "title_greek": "Ἐκκλησιάζουσαι",
-          "passages": 1287,
+          "passages": 877,
           "files": {
             "pdf": "grc/aristophanes-athens-assemblywomen-daw-ab.grc.pdf",
             "md": "grc/aristophanes-athens-assemblywomen-daw-ab.grc.md",
@@ -11664,7 +11620,7 @@
           "work_display_string": "aristophanes-athens-birds",
           "title_english": "Birds",
           "title_greek": "Ὄρνιθες",
-          "passages": 155,
+          "passages": 1803,
           "files": {
             "pdf": "grc/aristophanes-athens-birds-daw-ap.grc.pdf",
             "md": "grc/aristophanes-athens-birds-daw-ap.grc.md",
@@ -11772,7 +11728,7 @@
           "work_display_string": "aristophanes-athens-lysistrata",
           "title_english": "Lysistrata",
           "title_greek": "Λυσιστράτη",
-          "passages": 115,
+          "passages": 1320,
           "files": {
             "pdf": "grc/aristophanes-athens-lysistrata-daw-ad.grc.pdf",
             "md": "grc/aristophanes-athens-lysistrata-daw-ad.grc.md",
@@ -11808,7 +11764,7 @@
           "work_display_string": "aristophanes-athens-wasps",
           "title_english": "Wasps",
           "title_greek": "Σφῆκες",
-          "passages": 1723,
+          "passages": 1448,
           "files": {
             "pdf": "grc/aristophanes-athens-wasps-daw-al.grc.pdf",
             "md": "grc/aristophanes-athens-wasps-daw-al.grc.md",
@@ -11832,7 +11788,7 @@
           "work_display_string": "aristophanes-athens-thesmophoria",
           "title_english": "Women at the Thesmophoria",
           "title_greek": "Θεσμοφοριάζουσαι",
-          "passages": 1394,
+          "passages": 1175,
           "files": {
             "pdf": "grc/aristophanes-athens-thesmophoria-daw-aa.grc.pdf",
             "md": "grc/aristophanes-athens-thesmophoria-daw-aa.grc.md",
@@ -12520,7 +12476,7 @@
           "work_display_string": "aristotle-great-ethics",
           "title_english": "Great Ethics",
           "title_greek": "Μεγάλα Ἠθικά",
-          "passages": 51,
+          "passages": 388,
           "files": {
             "pdf": "grc/aristotle-great-ethics-hgw-bg.grc.pdf",
             "md": "grc/aristotle-great-ethics-hgw-bg.grc.md",
@@ -13336,7 +13292,7 @@
           "work_display_string": "arrian-nicomedia-anabasis",
           "title_english": "Alexander's Anabasis",
           "title_greek": "Ἀλεξάνδρου Ἀνάβασις",
-          "passages": 206,
+          "passages": 1108,
           "files": {
             "pdf": "grc/arrian-nicomedia-anabasis-pcs-ak.grc.pdf",
             "md": "grc/arrian-nicomedia-anabasis-pcs-ak.grc.md",
@@ -13440,18 +13396,6 @@
           }
         },
         {
-          "eul_wid": "pcs-ab",
-          "work_display_string": "arrian-nicomedia-alexander-successors",
-          "title_english": "History of Alexander's Successors",
-          "title_greek": "Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου",
-          "passages": 6,
-          "files": {
-            "pdf": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.pdf",
-            "md": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.md",
-            "txt": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "pcs-ac",
           "work_display_string": "arrian-nicomedia-alexander-successors",
           "title_english": "History of Alexander's Successors",
@@ -13461,6 +13405,18 @@
             "pdf": "grc/arrian-nicomedia-alexander-successors-pcs-ac.grc.pdf",
             "md": "grc/arrian-nicomedia-alexander-successors-pcs-ac.grc.md",
             "txt": "grc/arrian-nicomedia-alexander-successors-pcs-ac.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "pcs-ab",
+          "work_display_string": "arrian-nicomedia-alexander-successors",
+          "title_english": "History of Alexander's Successors",
+          "title_greek": "Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου",
+          "passages": 6,
+          "files": {
+            "pdf": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.pdf",
+            "md": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.md",
+            "txt": "grc/arrian-nicomedia-alexander-successors-pcs-ab.grc.txt"
           }
         },
         {
@@ -14290,6 +14246,38 @@
       ]
     },
     {
+      "eul_aid": "twe",
+      "author_display_string": "athanasius-alexandria",
+      "author_stem": "athanasius-alexandria-twe",
+      "name_english": "Athanasius the Great of Alexandria",
+      "name_greek": "Ἀθανάσιος ὁ Μέγας Ἀλεξανδρείας",
+      "period": "Late Antique",
+      "dialect": null,
+      "domain": "Theology",
+      "format": "Oration",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/athanasius-alexandria-twe.en.pdf",
+        "md": "en/athanasius-alexandria-twe.en.md",
+        "txt": "en/athanasius-alexandria-twe.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "twe-bk",
+          "work_display_string": "athanasius-alexandria-fourth-oration-arians",
+          "title_english": "Fourth Oratithe Arians",
+          "title_greek": "",
+          "passages": 36,
+          "files": {
+            "pdf": "grc/athanasius-alexandria-fourth-oration-arians-twe-bk.grc.pdf",
+            "md": "grc/athanasius-alexandria-fourth-oration-arians-twe-bk.grc.md",
+            "txt": "grc/athanasius-alexandria-fourth-oration-arians-twe-bk.grc.txt"
+          }
+        }
+      ]
+    },
+    {
       "eul_aid": "gvi",
       "author_display_string": "athanis-of-syracuse",
       "author_stem": "athanis-of-syracuse-gvi",
@@ -14720,18 +14708,6 @@
       },
       "works": [
         {
-          "eul_wid": "gzo-ab",
-          "work_display_string": "autocrates-lydian-maidens",
-          "title_english": "Fragments on Lydian Maidens",
-          "title_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν",
-          "passages": 7,
-          "files": {
-            "pdf": "grc/autocrates-lydian-maidens-gzo-ab.grc.pdf",
-            "md": "grc/autocrates-lydian-maidens-gzo-ab.grc.md",
-            "txt": "grc/autocrates-lydian-maidens-gzo-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "gzo-aa",
           "work_display_string": "autocrates-lydian-maidens",
           "title_english": "Fragments on Lydian Maidens",
@@ -14741,6 +14717,18 @@
             "pdf": "grc/autocrates-lydian-maidens-gzo-aa.grc.pdf",
             "md": "grc/autocrates-lydian-maidens-gzo-aa.grc.md",
             "txt": "grc/autocrates-lydian-maidens-gzo-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "gzo-ab",
+          "work_display_string": "autocrates-lydian-maidens",
+          "title_english": "Fragments on Lydian Maidens",
+          "title_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν",
+          "passages": 7,
+          "files": {
+            "pdf": "grc/autocrates-lydian-maidens-gzo-ab.grc.pdf",
+            "md": "grc/autocrates-lydian-maidens-gzo-ab.grc.md",
+            "txt": "grc/autocrates-lydian-maidens-gzo-ab.grc.txt"
           }
         }
       ]
@@ -16560,6 +16548,18 @@
           }
         },
         {
+          "eul_wid": "vmw-aq",
+          "work_display_string": "callimachus-scholia-aetia",
+          "title_english": "Scholia-Aetia I",
+          "title_greek": "Σχόλια εἰς Αἴτια Α'",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/callimachus-scholia-aetia-vmw-aq.grc.pdf",
+            "md": "grc/callimachus-scholia-aetia-vmw-aq.grc.md",
+            "txt": "grc/callimachus-scholia-aetia-vmw-aq.grc.txt"
+          }
+        },
+        {
           "eul_wid": "vmw-ap",
           "work_display_string": "callimachus-scholia-aetia",
           "title_english": "Scholia-Aetia I",
@@ -16581,18 +16581,6 @@
             "pdf": "grc/callimachus-scholia-aetia-vmw-ao.grc.pdf",
             "md": "grc/callimachus-scholia-aetia-vmw-ao.grc.md",
             "txt": "grc/callimachus-scholia-aetia-vmw-ao.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "vmw-aq",
-          "work_display_string": "callimachus-scholia-aetia",
-          "title_english": "Scholia-Aetia I",
-          "title_greek": "Σχόλια εἰς Αἴτια Α'",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/callimachus-scholia-aetia-vmw-aq.grc.pdf",
-            "md": "grc/callimachus-scholia-aetia-vmw-aq.grc.md",
-            "txt": "grc/callimachus-scholia-aetia-vmw-aq.grc.txt"
           }
         },
         {
@@ -17073,6 +17061,38 @@
             "pdf": "grc/carcinus-thoricus-demeter-persephone-fiw-aa.grc.pdf",
             "md": "grc/carcinus-thoricus-demeter-persephone-fiw-aa.grc.md",
             "txt": "grc/carcinus-thoricus-demeter-persephone-fiw-aa.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "lyz",
+      "author_display_string": "carneades-of-cyrene",
+      "author_stem": "carneades-of-cyrene-lyz",
+      "name_english": "Carneades of Cyrene",
+      "name_greek": "Καρνεάδης ὁ Κυρηναῖος",
+      "period": "Hellenistic",
+      "dialect": "Koine (phi, frg)",
+      "domain": "Philosophy",
+      "format": "Collection",
+      "affiliation": "Academic Skeptic",
+      "works_count": 1,
+      "files": {
+        "pdf": "en/carneades-of-cyrene-lyz.en.pdf",
+        "md": "en/carneades-of-cyrene-lyz.en.md",
+        "txt": "en/carneades-of-cyrene-lyz.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "lyz-aa",
+          "work_display_string": "carneades-of-cyrene-testimonies",
+          "title_english": "Testimonies",
+          "title_greek": "Μαρτυρίαι",
+          "passages": 143,
+          "files": {
+            "pdf": "grc/carneades-of-cyrene-testimonies-lyz-aa.grc.pdf",
+            "md": "grc/carneades-of-cyrene-testimonies-lyz-aa.grc.md",
+            "txt": "grc/carneades-of-cyrene-testimonies-lyz-aa.grc.txt"
           }
         }
       ]
@@ -17716,7 +17736,7 @@
           "work_display_string": "chariton-aphrodisias-chaerea-callirhoe",
           "title_english": "On Chaerea and Callirhoe",
           "title_greek": "Περὶ Χαιρέου καὶ Καλλιρρόης",
-          "passages": 75,
+          "passages": 704,
           "files": {
             "pdf": "grc/chariton-aphrodisias-chaerea-callirhoe-npw-aa.grc.pdf",
             "md": "grc/chariton-aphrodisias-chaerea-callirhoe-npw-aa.grc.md",
@@ -18696,7 +18716,7 @@
           "work_display_string": "clement-alexandria-exhortation",
           "title_english": "Exhortation to the Greeks",
           "title_greek": "Προτρεπτικὸς πρὸς Ἕλληνας",
-          "passages": 12,
+          "passages": 390,
           "files": {
             "pdf": "grc/clement-alexandria-exhortation-qya-ac.grc.pdf",
             "md": "grc/clement-alexandria-exhortation-qya-ac.grc.md",
@@ -18720,7 +18740,7 @@
           "work_display_string": "clement-alexandria-instructor",
           "title_english": "Instructor",
           "title_greek": "Παιδαγωγός",
-          "passages": 40,
+          "passages": 997,
           "files": {
             "pdf": "grc/clement-alexandria-instructor-qya-ag.grc.pdf",
             "md": "grc/clement-alexandria-instructor-qya-ag.grc.md",
@@ -18732,7 +18752,7 @@
           "work_display_string": "clement-alexandria-stromata",
           "title_english": "Stromata",
           "title_greek": "Στρώματα",
-          "passages": 154,
+          "passages": 3706,
           "files": {
             "pdf": "grc/clement-alexandria-stromata-qya-ah.grc.pdf",
             "md": "grc/clement-alexandria-stromata-qya-ah.grc.md",
@@ -21204,18 +21224,6 @@
       },
       "works": [
         {
-          "eul_wid": "jag-aa",
-          "work_display_string": "damoxenus-cookery-philosophy",
-          "title_english": "Fragments on Cookery and Philosophy",
-          "title_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας",
-          "passages": 63,
-          "files": {
-            "pdf": "grc/damoxenus-cookery-philosophy-jag-aa.grc.pdf",
-            "md": "grc/damoxenus-cookery-philosophy-jag-aa.grc.md",
-            "txt": "grc/damoxenus-cookery-philosophy-jag-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "jag-ab",
           "work_display_string": "damoxenus-cookery-philosophy",
           "title_english": "Fragments on Cookery and Philosophy",
@@ -21225,6 +21233,18 @@
             "pdf": "grc/damoxenus-cookery-philosophy-jag-ab.grc.pdf",
             "md": "grc/damoxenus-cookery-philosophy-jag-ab.grc.md",
             "txt": "grc/damoxenus-cookery-philosophy-jag-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "jag-aa",
+          "work_display_string": "damoxenus-cookery-philosophy",
+          "title_english": "Fragments on Cookery and Philosophy",
+          "title_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας",
+          "passages": 63,
+          "files": {
+            "pdf": "grc/damoxenus-cookery-philosophy-jag-aa.grc.pdf",
+            "md": "grc/damoxenus-cookery-philosophy-jag-aa.grc.md",
+            "txt": "grc/damoxenus-cookery-philosophy-jag-aa.grc.txt"
           }
         }
       ]
@@ -21724,18 +21744,6 @@
       },
       "works": [
         {
-          "eul_wid": "eds-ab",
-          "work_display_string": "demetrius-comic-naval-comedy",
-          "title_english": "Fragments of a Naval Comedy",
-          "title_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας",
-          "passages": 8,
-          "files": {
-            "pdf": "grc/demetrius-comic-naval-comedy-eds-ab.grc.pdf",
-            "md": "grc/demetrius-comic-naval-comedy-eds-ab.grc.md",
-            "txt": "grc/demetrius-comic-naval-comedy-eds-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "eds-aa",
           "work_display_string": "demetrius-comic-naval-comedy",
           "title_english": "Fragments of a Naval Comedy",
@@ -21745,6 +21753,18 @@
             "pdf": "grc/demetrius-comic-naval-comedy-eds-aa.grc.pdf",
             "md": "grc/demetrius-comic-naval-comedy-eds-aa.grc.md",
             "txt": "grc/demetrius-comic-naval-comedy-eds-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "eds-ab",
+          "work_display_string": "demetrius-comic-naval-comedy",
+          "title_english": "Fragments of a Naval Comedy",
+          "title_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας",
+          "passages": 8,
+          "files": {
+            "pdf": "grc/demetrius-comic-naval-comedy-eds-ab.grc.pdf",
+            "md": "grc/demetrius-comic-naval-comedy-eds-ab.grc.md",
+            "txt": "grc/demetrius-comic-naval-comedy-eds-ab.grc.txt"
           }
         }
       ]
@@ -22060,18 +22080,6 @@
       },
       "works": [
         {
-          "eul_wid": "gzy-ab",
-          "work_display_string": "demonicus-boeotian-banquet",
-          "title_english": "Boeotian Banquet",
-          "title_greek": "Ἀπόσπασμα",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/demonicus-boeotian-banquet-gzy-ab.grc.pdf",
-            "md": "grc/demonicus-boeotian-banquet-gzy-ab.grc.md",
-            "txt": "grc/demonicus-boeotian-banquet-gzy-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "gzy-aa",
           "work_display_string": "demonicus-boeotian-banquet",
           "title_english": "Boeotian Banquet",
@@ -22081,6 +22089,18 @@
             "pdf": "grc/demonicus-boeotian-banquet-gzy-aa.grc.pdf",
             "md": "grc/demonicus-boeotian-banquet-gzy-aa.grc.md",
             "txt": "grc/demonicus-boeotian-banquet-gzy-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "gzy-ab",
+          "work_display_string": "demonicus-boeotian-banquet",
+          "title_english": "Boeotian Banquet",
+          "title_greek": "Ἀπόσπασμα",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/demonicus-boeotian-banquet-gzy-ab.grc.pdf",
+            "md": "grc/demonicus-boeotian-banquet-gzy-ab.grc.md",
+            "txt": "grc/demonicus-boeotian-banquet-gzy-ab.grc.txt"
           }
         }
       ]
@@ -23652,7 +23672,7 @@
           "work_display_string": "dio-cassius-nicaea-roman-history",
           "title_english": "Roman History",
           "title_greek": "Ῥωμαϊκὴ Ἱστορία",
-          "passages": 953,
+          "passages": 6214,
           "files": {
             "pdf": "grc/dio-cassius-nicaea-roman-history-rhq-ap.grc.pdf",
             "md": "grc/dio-cassius-nicaea-roman-history-rhq-ap.grc.md",
@@ -25644,7 +25664,7 @@
           "work_display_string": "dioscorides-anazarbus-medical-material",
           "title_english": "On Medical Material",
           "title_greek": "Περὶ Ὑλῆς Ἰατρικῆς",
-          "passages": 835,
+          "passages": 1380,
           "files": {
             "pdf": "grc/dioscorides-anazarbus-medical-material-nyi-ac.grc.pdf",
             "md": "grc/dioscorides-anazarbus-medical-material-nyi-ac.grc.md",
@@ -25680,7 +25700,7 @@
           "work_display_string": "dioscorides-anazarbus-simple-medicines",
           "title_english": "On Simple Medicines",
           "title_greek": "Περὶ ἀπλῶν φαρμάκων",
-          "passages": 405,
+          "passages": 308,
           "files": {
             "pdf": "grc/dioscorides-anazarbus-simple-medicines-nyi-ad.grc.pdf",
             "md": "grc/dioscorides-anazarbus-simple-medicines-nyi-ad.grc.md",
@@ -26792,18 +26812,6 @@
       },
       "works": [
         {
-          "eul_wid": "fkk-ab",
-          "work_display_string": "ephippus-athens-alexander-feast",
-          "title_english": "Fragments on Alexander's Feast",
-          "title_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου",
-          "passages": 101,
-          "files": {
-            "pdf": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.pdf",
-            "md": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.md",
-            "txt": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "fkk-aa",
           "work_display_string": "ephippus-athens-alexander-feast",
           "title_english": "Fragments on Alexander's Feast",
@@ -26813,6 +26821,18 @@
             "pdf": "grc/ephippus-athens-alexander-feast-fkk-aa.grc.pdf",
             "md": "grc/ephippus-athens-alexander-feast-fkk-aa.grc.md",
             "txt": "grc/ephippus-athens-alexander-feast-fkk-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "fkk-ab",
+          "work_display_string": "ephippus-athens-alexander-feast",
+          "title_english": "Fragments on Alexander's Feast",
+          "title_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου",
+          "passages": 101,
+          "files": {
+            "pdf": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.pdf",
+            "md": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.md",
+            "txt": "grc/ephippus-athens-alexander-feast-fkk-ab.grc.txt"
           }
         }
       ]
@@ -27144,18 +27164,6 @@
           }
         },
         {
-          "eul_wid": "kjq-al",
-          "work_display_string": "epic-anon-ethopoeic-exercise",
-          "title_english": "Ethopoeic Exercise",
-          "title_greek": "Ἠθοποιία",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.pdf",
-            "md": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md",
-            "txt": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.txt"
-          }
-        },
-        {
           "eul_wid": "kjq-am",
           "work_display_string": "epic-anon-ethopoeia",
           "title_english": "Ethopoeic Exercise",
@@ -27165,6 +27173,18 @@
             "pdf": "grc/epic-anon-ethopoeia-kjq-am.grc.pdf",
             "md": "grc/epic-anon-ethopoeia-kjq-am.grc.md",
             "txt": "grc/epic-anon-ethopoeia-kjq-am.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "kjq-al",
+          "work_display_string": "epic-anon-ethopoeic-exercise",
+          "title_english": "Ethopoeic Exercise",
+          "title_greek": "Ἠθοποιία",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.pdf",
+            "md": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md",
+            "txt": "grc/epic-anon-ethopoeic-exercise-kjq-al.grc.txt"
           }
         },
         {
@@ -27400,18 +27420,6 @@
           }
         },
         {
-          "eul_wid": "bhm-ab",
-          "work_display_string": "epicharmus-syracuse-pseudepicharmea",
-          "title_english": "Fragments of Pseudepicharmea",
-          "title_greek": "Ψευδεπιχάρμου Ἀποσπάσματα",
-          "passages": 8,
-          "files": {
-            "pdf": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.pdf",
-            "md": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.md",
-            "txt": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "bhm-aa",
           "work_display_string": "epicharmus-syracuse-pseudepicharmea",
           "title_english": "Fragments of Pseudepicharmea",
@@ -27421,6 +27429,18 @@
             "pdf": "grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.pdf",
             "md": "grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.md",
             "txt": "grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "bhm-ab",
+          "work_display_string": "epicharmus-syracuse-pseudepicharmea",
+          "title_english": "Fragments of Pseudepicharmea",
+          "title_greek": "Ψευδεπιχάρμου Ἀποσπάσματα",
+          "passages": 8,
+          "files": {
+            "pdf": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.pdf",
+            "md": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.md",
+            "txt": "grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.txt"
           }
         },
         {
@@ -27973,6 +27993,38 @@
             "pdf": "grc/epinicus-symposium-satirical-ksc-ab.grc.pdf",
             "md": "grc/epinicus-symposium-satirical-ksc-ab.grc.md",
             "txt": "grc/epinicus-symposium-satirical-ksc-ab.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "sqg",
+      "author_display_string": "epiphanius-salamis",
+      "author_stem": "epiphanius-salamis-sqg",
+      "name_english": "Epiphanius of Salamis",
+      "name_greek": "Ἐπιφάνιος ὁ Σαλαμῖνος",
+      "period": "Late Antique",
+      "dialect": null,
+      "domain": "Theology",
+      "format": "Treatise",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/epiphanius-salamis-sqg.en.pdf",
+        "md": "en/epiphanius-salamis-sqg.en.md",
+        "txt": "en/epiphanius-salamis-sqg.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "sqg-bn",
+          "work_display_string": "epiphanius-salamis-faith",
+          "title_english": "On Faith",
+          "title_greek": "Περὶ πίστεως",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/epiphanius-salamis-faith-sqg-bn.grc.pdf",
+            "md": "grc/epiphanius-salamis-faith-sqg-bn.grc.md",
+            "txt": "grc/epiphanius-salamis-faith-sqg-bn.grc.txt"
           }
         }
       ]
@@ -28781,21 +28833,57 @@
         },
         {
           "eul_wid": "iaw-al",
-          "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
+          "work_display_string": "euclid-alexandria-elements-alternative-demonstrations-book-10",
+          "title_english": "Elements, Alternative Demonstrations (Book X)",
+          "title_greek": "Στοιχεῖα· Ἄλλαι ἀποδείξεις (βιβλ. ιʹ)",
           "passages": 28,
           "files": {
-            "pdf": "grc/euclid-alexandria-elements-iaw-al.grc.pdf",
-            "md": "grc/euclid-alexandria-elements-iaw-al.grc.md",
-            "txt": "grc/euclid-alexandria-elements-iaw-al.grc.txt"
+            "pdf": "grc/euclid-alexandria-elements-alternative-demonstrations-book-10-iaw-al.grc.pdf",
+            "md": "grc/euclid-alexandria-elements-alternative-demonstrations-book-10-iaw-al.grc.md",
+            "txt": "grc/euclid-alexandria-elements-alternative-demonstrations-book-10-iaw-al.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "iaw-am",
+          "work_display_string": "euclid-alexandria-elements-alternative-demonstrations-book-11",
+          "title_english": "Elements, Alternative Demonstrations (Book XI)",
+          "title_greek": "Στοιχεῖα· Ἄλλαι ἀποδείξεις (βιβλ. ιαʹ)",
+          "passages": 13,
+          "files": {
+            "pdf": "grc/euclid-alexandria-elements-alternative-demonstrations-book-11-iaw-am.grc.pdf",
+            "md": "grc/euclid-alexandria-elements-alternative-demonstrations-book-11-iaw-am.grc.md",
+            "txt": "grc/euclid-alexandria-elements-alternative-demonstrations-book-11-iaw-am.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "iaw-aj",
+          "work_display_string": "euclid-alexandria-elements-alternative-demonstrations-books-1-3",
+          "title_english": "Elements, Alternative Demonstrations (Books I–III)",
+          "title_greek": "Στοιχεῖα· Ἄλλαι ἀποδείξεις (βιβλ. αʹ–γʹ)",
+          "passages": 8,
+          "files": {
+            "pdf": "grc/euclid-alexandria-elements-alternative-demonstrations-books-1-3-iaw-aj.grc.pdf",
+            "md": "grc/euclid-alexandria-elements-alternative-demonstrations-books-1-3-iaw-aj.grc.md",
+            "txt": "grc/euclid-alexandria-elements-alternative-demonstrations-books-1-3-iaw-aj.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "iaw-ak",
+          "work_display_string": "euclid-alexandria-elements-alternative-demonstrations-books-5-6",
+          "title_english": "Elements, Alternative Demonstrations (Books V–VI)",
+          "title_greek": "Στοιχεῖα· Ἄλλαι ἀποδείξεις (βιβλ. εʹ–ϛʹ)",
+          "passages": 10,
+          "files": {
+            "pdf": "grc/euclid-alexandria-elements-alternative-demonstrations-books-5-6-iaw-ak.grc.pdf",
+            "md": "grc/euclid-alexandria-elements-alternative-demonstrations-books-5-6-iaw-ak.grc.md",
+            "txt": "grc/euclid-alexandria-elements-alternative-demonstrations-books-5-6-iaw-ak.grc.txt"
           }
         },
         {
           "eul_wid": "iaw-ai",
           "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
+          "title_english": "Elements, Books I–XIII",
+          "title_greek": "Στοιχεῖα (βίβλοι αʹ–ιγʹ)",
           "passages": 624,
           "files": {
             "pdf": "grc/euclid-alexandria-elements-iaw-ai.grc.pdf",
@@ -28804,51 +28892,15 @@
           }
         },
         {
-          "eul_wid": "iaw-am",
-          "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
-          "passages": 13,
-          "files": {
-            "pdf": "grc/euclid-alexandria-elements-iaw-am.grc.pdf",
-            "md": "grc/euclid-alexandria-elements-iaw-am.grc.md",
-            "txt": "grc/euclid-alexandria-elements-iaw-am.grc.txt"
-          }
-        },
-        {
           "eul_wid": "iaw-an",
-          "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
+          "work_display_string": "euclid-alexandria-elements-books-11-12-supplement",
+          "title_english": "Elements, Books XI–XII (Supplement)",
+          "title_greek": "Στοιχεῖα (βιβλ. ιαʹ–ιβʹ, ἀποσπάσματα)",
           "passages": 30,
           "files": {
-            "pdf": "grc/euclid-alexandria-elements-iaw-an.grc.pdf",
-            "md": "grc/euclid-alexandria-elements-iaw-an.grc.md",
-            "txt": "grc/euclid-alexandria-elements-iaw-an.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "iaw-aj",
-          "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
-          "passages": 8,
-          "files": {
-            "pdf": "grc/euclid-alexandria-elements-iaw-aj.grc.pdf",
-            "md": "grc/euclid-alexandria-elements-iaw-aj.grc.md",
-            "txt": "grc/euclid-alexandria-elements-iaw-aj.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "iaw-ak",
-          "work_display_string": "euclid-alexandria-elements",
-          "title_english": "Elements",
-          "title_greek": "Στοιχεῖα",
-          "passages": 10,
-          "files": {
-            "pdf": "grc/euclid-alexandria-elements-iaw-ak.grc.pdf",
-            "md": "grc/euclid-alexandria-elements-iaw-ak.grc.md",
-            "txt": "grc/euclid-alexandria-elements-iaw-ak.grc.txt"
+            "pdf": "grc/euclid-alexandria-elements-books-11-12-supplement-iaw-an.grc.pdf",
+            "md": "grc/euclid-alexandria-elements-books-11-12-supplement-iaw-an.grc.md",
+            "txt": "grc/euclid-alexandria-elements-books-11-12-supplement-iaw-an.grc.txt"
           }
         },
         {
@@ -30120,7 +30172,7 @@
           "work_display_string": "eusebius-caesarea-against-marcellus",
           "title_english": "Against Marcellus",
           "title_greek": "των κατά Μαρκέλλου",
-          "passages": 10,
+          "passages": 246,
           "files": {
             "pdf": "grc/eusebius-caesarea-against-marcellus-tva-bh.grc.pdf",
             "md": "grc/eusebius-caesarea-against-marcellus-tva-bh.grc.md",
@@ -30132,7 +30184,7 @@
           "work_display_string": "eusebius-caesarea-evangelical-demonstration",
           "title_english": "Evangelical Demonstration",
           "title_greek": "Ἐπίδειξις Εὐαγγελική",
-          "passages": 135,
+          "passages": 1743,
           "files": {
             "pdf": "grc/eusebius-caesarea-evangelical-demonstration-tva-av.grc.pdf",
             "md": "grc/eusebius-caesarea-evangelical-demonstration-tva-av.grc.md",
@@ -30156,7 +30208,7 @@
           "work_display_string": "eusebius-caesarea-ecclesiastical-theology",
           "title_english": "On Ecclesiastical Theology",
           "title_greek": "περὶ τῆς ἐκκλησιαστικῆς θεολογίας",
-          "passages": 22,
+          "passages": 511,
           "files": {
             "pdf": "grc/eusebius-caesarea-ecclesiastical-theology-tva-at.grc.pdf",
             "md": "grc/eusebius-caesarea-ecclesiastical-theology-tva-at.grc.md",
@@ -30217,6 +30269,50 @@
             "pdf": "grc/eusebius-myndus-ethical-maxims-sio-aa.grc.pdf",
             "md": "grc/eusebius-myndus-ethical-maxims-sio-aa.grc.md",
             "txt": "grc/eusebius-myndus-ethical-maxims-sio-aa.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "xpw",
+      "author_display_string": "eustathius-thessalonica",
+      "author_stem": "eustathius-thessalonica-xpw",
+      "name_english": "Eustathius of Thessalonica",
+      "name_greek": "Εὐστάθιος ὁ Θεσσαλονίκης",
+      "period": "Byzantine",
+      "dialect": null,
+      "domain": "Grammar",
+      "format": "Treatise",
+      "affiliation": null,
+      "works_count": 2,
+      "files": {
+        "pdf": "en/eustathius-thessalonica-xpw.en.pdf",
+        "md": "en/eustathius-thessalonica-xpw.en.md",
+        "txt": "en/eustathius-thessalonica-xpw.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "xpw-ad",
+          "work_display_string": "eustathius-thessalonica-commentary-iliad",
+          "title_english": "Commentary on Homer's Iliad",
+          "title_greek": "Ὑπόμνημα εἰς τὴν Ἰλιάδα",
+          "passages": 3575,
+          "files": {
+            "pdf": "grc/eustathius-thessalonica-commentary-iliad-xpw-ad.grc.pdf",
+            "md": "grc/eustathius-thessalonica-commentary-iliad-xpw-ad.grc.md",
+            "txt": "grc/eustathius-thessalonica-commentary-iliad-xpw-ad.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "xpw-ac",
+          "work_display_string": "eustathius-thessalonica-commentary-odyssey",
+          "title_english": "Commentary on Homer's Odyssey",
+          "title_greek": "Ὑπόμνημα εἰς τὴν Ὀδύσσειαν",
+          "passages": 777,
+          "files": {
+            "pdf": "grc/eustathius-thessalonica-commentary-odyssey-xpw-ac.grc.pdf",
+            "md": "grc/eustathius-thessalonica-commentary-odyssey-xpw-ac.grc.md",
+            "txt": "grc/eustathius-thessalonica-commentary-odyssey-xpw-ac.grc.txt"
           }
         }
       ]
@@ -31788,7 +31884,7 @@
           "work_display_string": "galen-pergamon-doctrines-hippocrates-plato",
           "title_english": "On the Doctrines of Hippocrates and Plato",
           "title_greek": "Περὶ τῶν δογμάτων Ἱπποκράτους καὶ Πλάτωνος",
-          "passages": 70,
+          "passages": 1513,
           "files": {
             "pdf": "grc/galen-pergamon-doctrines-hippocrates-plato-qmm-az.grc.pdf",
             "md": "grc/galen-pergamon-doctrines-hippocrates-plato-qmm-az.grc.md",
@@ -32196,7 +32292,7 @@
           "work_display_string": "galen-pergamon-purgative-medicines",
           "title_english": "Whom to Purge with Which Purgative Medicines and When",
           "title_greek": "Ποιοὺς τίνι καθαρτικῷ καὶ πότε καθαίρειν δεῖ",
-          "passages": 3,
+          "passages": 46,
           "files": {
             "pdf": "grc/galen-pergamon-purgative-medicines-qmm-ah.grc.pdf",
             "md": "grc/galen-pergamon-purgative-medicines-qmm-ah.grc.md",
@@ -32672,18 +32768,6 @@
           }
         },
         {
-          "eul_wid": "tqa-ar",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-ar.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-ar.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-ar.grc.txt"
-          }
-        },
-        {
           "eul_wid": "tqa-ak",
           "work_display_string": "anon-grammarian-fragment",
           "title_english": "Grammatical Fragment",
@@ -32693,90 +32777,6 @@
             "pdf": "grc/anon-grammarian-fragment-tqa-ak.grc.pdf",
             "md": "grc/anon-grammarian-fragment-tqa-ak.grc.md",
             "txt": "grc/anon-grammarian-fragment-tqa-ak.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-ae",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-ae.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-ae.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-ae.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-aj",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 3,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-aj.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-aj.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-aj.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-aq",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-aq.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-aq.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-aq.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-ah",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 5,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-ah.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-ah.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-ah.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-al",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-al.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-al.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-al.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-af",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 3,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-af.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-af.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-af.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "tqa-ao",
-          "work_display_string": "anon-grammarian-fragment",
-          "title_english": "Grammatical Fragment",
-          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-ao.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-ao.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-ao.grc.txt"
           }
         },
         {
@@ -32792,15 +32792,27 @@
           }
         },
         {
-          "eul_wid": "tqa-as",
+          "eul_wid": "tqa-aq",
           "work_display_string": "anon-grammarian-fragment",
           "title_english": "Grammatical Fragment",
           "title_greek": "Γραμματικὸν Ἀπόσπασμα",
-          "passages": 2,
+          "passages": 1,
           "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-as.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-as.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-as.grc.txt"
+            "pdf": "grc/anon-grammarian-fragment-tqa-aq.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-aq.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-aq.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-aj",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 3,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-aj.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-aj.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-aj.grc.txt"
           }
         },
         {
@@ -32816,15 +32828,27 @@
           }
         },
         {
-          "eul_wid": "tqa-at",
+          "eul_wid": "tqa-al",
           "work_display_string": "anon-grammarian-fragment",
           "title_english": "Grammatical Fragment",
           "title_greek": "Γραμματικὸν Ἀπόσπασμα",
           "passages": 1,
           "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-at.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-at.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-at.grc.txt"
+            "pdf": "grc/anon-grammarian-fragment-tqa-al.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-al.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-al.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-ao",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-ao.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-ao.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-ao.grc.txt"
           }
         },
         {
@@ -32840,6 +32864,42 @@
           }
         },
         {
+          "eul_wid": "tqa-ag",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-ag.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-ag.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-ag.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-ar",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-ar.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-ar.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-ar.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-as",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-as.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-as.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-as.grc.txt"
+          }
+        },
+        {
           "eul_wid": "tqa-an",
           "work_display_string": "anon-grammarian-fragment",
           "title_english": "Grammatical Fragment",
@@ -32852,15 +32912,51 @@
           }
         },
         {
-          "eul_wid": "tqa-ag",
+          "eul_wid": "tqa-ah",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 5,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-ah.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-ah.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-ah.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-at",
           "work_display_string": "anon-grammarian-fragment",
           "title_english": "Grammatical Fragment",
           "title_greek": "Γραμματικὸν Ἀπόσπασμα",
           "passages": 1,
           "files": {
-            "pdf": "grc/anon-grammarian-fragment-tqa-ag.grc.pdf",
-            "md": "grc/anon-grammarian-fragment-tqa-ag.grc.md",
-            "txt": "grc/anon-grammarian-fragment-tqa-ag.grc.txt"
+            "pdf": "grc/anon-grammarian-fragment-tqa-at.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-at.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-at.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-af",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 3,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-af.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-af.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-af.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tqa-ae",
+          "work_display_string": "anon-grammarian-fragment",
+          "title_english": "Grammatical Fragment",
+          "title_greek": "Γραμματικὸν Ἀπόσπασμα",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/anon-grammarian-fragment-tqa-ae.grc.pdf",
+            "md": "grc/anon-grammarian-fragment-tqa-ae.grc.md",
+            "txt": "grc/anon-grammarian-fragment-tqa-ae.grc.txt"
           }
         },
         {
@@ -32929,6 +33025,98 @@
             "pdf": "grc/anon-greek-lyric-fragments-dgg-aa.grc.pdf",
             "md": "grc/anon-greek-lyric-fragments-dgg-aa.grc.md",
             "txt": "grc/anon-greek-lyric-fragments-dgg-aa.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "sne",
+      "author_display_string": "gregory-nazianzus",
+      "author_stem": "gregory-nazianzus-sne",
+      "name_english": "Gregory of Nazianzus",
+      "name_greek": "Γρηγόριος ὁ Ναζιανζηνός",
+      "period": "Late Antique",
+      "dialect": null,
+      "domain": "Theology",
+      "format": "Epistle",
+      "affiliation": null,
+      "works_count": 6,
+      "files": {
+        "pdf": "en/gregory-nazianzus-sne.en.pdf",
+        "md": "en/gregory-nazianzus-sne.en.md",
+        "txt": "en/gregory-nazianzus-sne.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "sne-cc",
+          "work_display_string": "gregory-nazianzus-dogmatic-poems",
+          "title_english": "Dogmatic Poems",
+          "title_greek": "",
+          "passages": 515,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-dogmatic-poems-sne-cc.grc.pdf",
+            "md": "grc/gregory-nazianzus-dogmatic-poems-sne-cc.grc.md",
+            "txt": "grc/gregory-nazianzus-dogmatic-poems-sne-cc.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "sne-cl",
+          "work_display_string": "gregory-nazianzus-friendship-duty",
+          "title_english": "Letters on Friendship and Duty",
+          "title_greek": "",
+          "passages": 803,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-friendship-duty-sne-cl.grc.pdf",
+            "md": "grc/gregory-nazianzus-friendship-duty-sne-cl.grc.md",
+            "txt": "grc/gregory-nazianzus-friendship-duty-sne-cl.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "sne-by",
+          "work_display_string": "gregory-nazianzus-moral-poem-30",
+          "title_english": "Moral Poem Thirty",
+          "title_greek": "",
+          "passages": 1663,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-moral-poem-30-sne-by.grc.pdf",
+            "md": "grc/gregory-nazianzus-moral-poem-30-sne-by.grc.md",
+            "txt": "grc/gregory-nazianzus-moral-poem-30-sne-by.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "sne-bt",
+          "work_display_string": "gregory-nazianzus-poems",
+          "title_english": "Poems About Himself",
+          "title_greek": "",
+          "passages": 1446,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-poems-sne-bt.grc.pdf",
+            "md": "grc/gregory-nazianzus-poems-sne-bt.grc.md",
+            "txt": "grc/gregory-nazianzus-poems-sne-bt.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "sne-bn",
+          "work_display_string": "gregory-nazianzus-others",
+          "title_english": "Poems Concerning Others",
+          "title_greek": "",
+          "passages": 463,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-others-sne-bn.grc.pdf",
+            "md": "grc/gregory-nazianzus-others-sne-bn.grc.md",
+            "txt": "grc/gregory-nazianzus-others-sne-bn.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "sne-bu",
+          "work_display_string": "gregory-nazianzus-theological-letters",
+          "title_english": "Theological Letters",
+          "title_greek": "",
+          "passages": 74,
+          "files": {
+            "pdf": "grc/gregory-nazianzus-theological-letters-sne-bu.grc.pdf",
+            "md": "grc/gregory-nazianzus-theological-letters-sne-bu.grc.md",
+            "txt": "grc/gregory-nazianzus-theological-letters-sne-bu.grc.txt"
           }
         }
       ]
@@ -33644,7 +33832,7 @@
           "work_display_string": "heliodorus-emesa-ethiopica",
           "title_english": "Ethiopian Tales",
           "title_greek": "Αἰθιοπικά",
-          "passages": 273,
+          "passages": 908,
           "files": {
             "pdf": "grc/heliodorus-emesa-ethiopica-sru-aa.grc.pdf",
             "md": "grc/heliodorus-emesa-ethiopica-sru-aa.grc.md",
@@ -34228,18 +34416,6 @@
       },
       "works": [
         {
-          "eul_wid": "fqy-ab",
-          "work_display_string": "heraclides-ponticus-rooster-philip",
-          "title_english": "On the Rooster of Philip",
-          "title_greek": "Ἀπόσπασμα",
-          "passages": 4,
-          "files": {
-            "pdf": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.pdf",
-            "md": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.md",
-            "txt": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "fqy-aa",
           "work_display_string": "heraclides-ponticus-rooster-philip",
           "title_english": "On the Rooster of Philip",
@@ -34249,6 +34425,18 @@
             "pdf": "grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.pdf",
             "md": "grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.md",
             "txt": "grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "fqy-ab",
+          "work_display_string": "heraclides-ponticus-rooster-philip",
+          "title_english": "On the Rooster of Philip",
+          "title_greek": "Ἀπόσπασμα",
+          "passages": 4,
+          "files": {
+            "pdf": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.pdf",
+            "md": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.md",
+            "txt": "grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.txt"
           }
         }
       ]
@@ -36280,7 +36468,7 @@
           "work_display_string": "herodian-antioch-death-marcus",
           "title_english": "From the Death of Divine Marcus",
           "title_greek": "Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου",
-          "passages": 99,
+          "passages": 736,
           "files": {
             "pdf": "grc/herodian-antioch-death-marcus-qzy-aa.grc.pdf",
             "md": "grc/herodian-antioch-death-marcus-qzy-aa.grc.md",
@@ -37160,7 +37348,7 @@
           "work_display_string": "hipparchus-nicaea-phenomena-aratus-eudoxus",
           "title_english": "On the Phenomena of Aratus and Eudoxus, Commentary Books III",
           "title_greek": "Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου",
-          "passages": 22,
+          "passages": 368,
           "files": {
             "pdf": "grc/hipparchus-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.pdf",
             "md": "grc/hipparchus-nicaea-phenomena-aratus-eudoxus-lyk-aa.grc.md",
@@ -38536,7 +38724,7 @@
           "work_display_string": "hippolytus-rome-refutation-heresies",
           "title_english": "Refutation of All Heresies",
           "title_greek": "Κατὰ πασῶν αἱρέσεων ἔλεγχος",
-          "passages": 285,
+          "passages": 1198,
           "files": {
             "pdf": "grc/hippolytus-rome-refutation-heresies-qsg-at.grc.pdf",
             "md": "grc/hippolytus-rome-refutation-heresies-qsg-at.grc.md",
@@ -40736,18 +40924,6 @@
       },
       "works": [
         {
-          "eul_wid": "asw-aa",
-          "work_display_string": "ibycus-rhegium-trojan-war",
-          "title_english": "Fragments on the Trojan War",
-          "title_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου",
-          "passages": 105,
-          "files": {
-            "pdf": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.pdf",
-            "md": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.md",
-            "txt": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "asw-ab",
           "work_display_string": "ibycus-rhegium-trojan-war",
           "title_english": "Fragments on the Trojan War",
@@ -40757,6 +40933,18 @@
             "pdf": "grc/ibycus-rhegium-trojan-war-asw-ab.grc.pdf",
             "md": "grc/ibycus-rhegium-trojan-war-asw-ab.grc.md",
             "txt": "grc/ibycus-rhegium-trojan-war-asw-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "asw-aa",
+          "work_display_string": "ibycus-rhegium-trojan-war",
+          "title_english": "Fragments on the Trojan War",
+          "title_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου",
+          "passages": 105,
+          "files": {
+            "pdf": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.pdf",
+            "md": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.md",
+            "txt": "grc/ibycus-rhegium-trojan-war-asw-aa.grc.txt"
           }
         }
       ]
@@ -42926,6 +43114,50 @@
       ]
     },
     {
+      "eul_aid": "qbs",
+      "author_display_string": "justin-martyr",
+      "author_stem": "justin-martyr-qbs",
+      "name_english": "Justin the Martyr",
+      "name_greek": "Ἰουστῖνος ὁ Μάρτυς",
+      "period": "Roman",
+      "dialect": null,
+      "domain": "Theology",
+      "format": "Treatise",
+      "affiliation": null,
+      "works_count": 2,
+      "files": {
+        "pdf": "en/justin-martyr-qbs.en.pdf",
+        "md": "en/justin-martyr-qbs.en.md",
+        "txt": "en/justin-martyr-qbs.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "qbs-ad",
+          "work_display_string": "justin-martyr-apology",
+          "title_english": "Apology",
+          "title_greek": "Ἀπολογία",
+          "passages": 237,
+          "files": {
+            "pdf": "grc/justin-martyr-apology-qbs-ad.grc.pdf",
+            "md": "grc/justin-martyr-apology-qbs-ad.grc.md",
+            "txt": "grc/justin-martyr-apology-qbs-ad.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "qbs-ac",
+          "work_display_string": "justin-martyr-second-apology",
+          "title_english": "Second Apology",
+          "title_greek": "Δευτέρα Ἀπολογία",
+          "passages": 52,
+          "files": {
+            "pdf": "grc/justin-martyr-second-apology-qbs-ac.grc.pdf",
+            "md": "grc/justin-martyr-second-apology-qbs-ac.grc.md",
+            "txt": "grc/justin-martyr-second-apology-qbs-ac.grc.txt"
+          }
+        }
+      ]
+    },
+    {
       "eul_aid": "ghw",
       "author_display_string": "lachares-the-sophist",
       "author_stem": "lachares-the-sophist-ghw",
@@ -43616,7 +43848,7 @@
           "work_display_string": "libanius-antioch-declamations",
           "title_english": "Declamations 1–51",
           "title_greek": "Μελέται Αʹ–ΝΑʹ",
-          "passages": 537,
+          "passages": 2458,
           "files": {
             "pdf": "grc/libanius-antioch-declamations-swk-ag.grc.pdf",
             "md": "grc/libanius-antioch-declamations-swk-ag.grc.md",
@@ -44004,7 +44236,7 @@
           "work_display_string": "longus-daphnis-chloe",
           "title_english": "Daphnis and Chloe",
           "title_greek": "Δάφνις καὶ Χλόη",
-          "passages": 146,
+          "passages": 342,
           "files": {
             "pdf": "grc/longus-daphnis-chloe-rte-aa.grc.pdf",
             "md": "grc/longus-daphnis-chloe-rte-aa.grc.md",
@@ -45228,18 +45460,6 @@
       },
       "works": [
         {
-          "eul_wid": "iyi-aa",
-          "work_display_string": "lynceus-samos-athenian-dining",
-          "title_english": "Fragments on Athenian Dining",
-          "title_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων",
-          "passages": 18,
-          "files": {
-            "pdf": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.pdf",
-            "md": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.md",
-            "txt": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "iyi-ab",
           "work_display_string": "lynceus-samos-athenian-dining",
           "title_english": "Fragments on Athenian Dining",
@@ -45249,6 +45469,18 @@
             "pdf": "grc/lynceus-samos-athenian-dining-iyi-ab.grc.pdf",
             "md": "grc/lynceus-samos-athenian-dining-iyi-ab.grc.md",
             "txt": "grc/lynceus-samos-athenian-dining-iyi-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "iyi-aa",
+          "work_display_string": "lynceus-samos-athenian-dining",
+          "title_english": "Fragments on Athenian Dining",
+          "title_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων",
+          "passages": 18,
+          "files": {
+            "pdf": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.pdf",
+            "md": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.md",
+            "txt": "grc/lynceus-samos-athenian-dining-iyi-aa.grc.txt"
           }
         }
       ]
@@ -46080,18 +46312,6 @@
           }
         },
         {
-          "eul_wid": "kpk-ab",
-          "work_display_string": "machon-sinope-culinary-comic",
-          "title_english": "Culinary and Comic Fragments",
-          "title_greek": "Ἀποσπάσματα",
-          "passages": 8,
-          "files": {
-            "pdf": "grc/machon-sinope-culinary-comic-kpk-ab.grc.pdf",
-            "md": "grc/machon-sinope-culinary-comic-kpk-ab.grc.md",
-            "txt": "grc/machon-sinope-culinary-comic-kpk-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "kpk-ac",
           "work_display_string": "machon-sinope-culinary-comic",
           "title_english": "Culinary and Comic Fragments",
@@ -46101,6 +46321,18 @@
             "pdf": "grc/machon-sinope-culinary-comic-kpk-ac.grc.pdf",
             "md": "grc/machon-sinope-culinary-comic-kpk-ac.grc.md",
             "txt": "grc/machon-sinope-culinary-comic-kpk-ac.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "kpk-ab",
+          "work_display_string": "machon-sinope-culinary-comic",
+          "title_english": "Culinary and Comic Fragments",
+          "title_greek": "Ἀποσπάσματα",
+          "passages": 8,
+          "files": {
+            "pdf": "grc/machon-sinope-culinary-comic-kpk-ab.grc.pdf",
+            "md": "grc/machon-sinope-culinary-comic-kpk-ab.grc.md",
+            "txt": "grc/machon-sinope-culinary-comic-kpk-ab.grc.txt"
           }
         }
       ]
@@ -46616,7 +46848,7 @@
           "work_display_string": "marcus-aurelius-to-himself",
           "title_english": "To Himself",
           "title_greek": "Τὰ εἰς ἑαυτόν",
-          "passages": 486,
+          "passages": 417,
           "files": {
             "pdf": "grc/marcus-aurelius-to-himself-qpy-aa.grc.pdf",
             "md": "grc/marcus-aurelius-to-himself-qpy-aa.grc.md",
@@ -46773,6 +47005,38 @@
             "pdf": "grc/matron-pitane-banquet-of-xenocles-fle-ac.grc.pdf",
             "md": "grc/matron-pitane-banquet-of-xenocles-fle-ac.grc.md",
             "txt": "grc/matron-pitane-banquet-of-xenocles-fle-ac.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "vzo",
+      "author_display_string": "maximus-confessor",
+      "author_stem": "maximus-confessor-vzo",
+      "name_english": "Maximus the Confessor",
+      "name_greek": "Μάξιμος ὁ Ὁμολογητής",
+      "period": "Byzantine",
+      "dialect": null,
+      "domain": "Philosophy",
+      "format": "Prose",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/maximus-confessor-vzo.en.pdf",
+        "md": "en/maximus-confessor-vzo.en.md",
+        "txt": "en/maximus-confessor-vzo.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "vzo-aa",
+          "work_display_string": "maximus-confessor-book-fragment",
+          "title_english": "Fragment on Matter",
+          "title_greek": "Ἀπόσπασμα ἐκ τοῦ Βιβλίου περὶ Ὕλης",
+          "passages": 21,
+          "files": {
+            "pdf": "grc/maximus-confessor-book-fragment-vzo-aa.grc.pdf",
+            "md": "grc/maximus-confessor-book-fragment-vzo-aa.grc.md",
+            "txt": "grc/maximus-confessor-book-fragment-vzo-aa.grc.txt"
           }
         }
       ]
@@ -51084,7 +51348,7 @@
           "work_display_string": "nicomachus-gerasa-arithmetic-introduction",
           "title_english": "Arithmetic Introduction",
           "title_greek": "Ἀριθμητικὴ εἰσαγωγή",
-          "passages": 3,
+          "passages": 229,
           "files": {
             "pdf": "grc/nicomachus-gerasa-arithmetic-introduction-owy-aa.grc.pdf",
             "md": "grc/nicomachus-gerasa-arithmetic-introduction-owy-aa.grc.md",
@@ -52376,7 +52640,7 @@
           "work_display_string": "origen-alexandria-gospel-john",
           "title_english": "Commentaries-the Gospel of John",
           "title_greek": "Ὑπομνήματα εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον",
-          "passages": 126,
+          "passages": 1045,
           "files": {
             "pdf": "grc/origen-alexandria-gospel-john-uhs-av.grc.pdf",
             "md": "grc/origen-alexandria-gospel-john-uhs-av.grc.md",
@@ -54124,7 +54388,7 @@
           "work_display_string": "pausanias-description-greece",
           "title_english": "Description of Greece",
           "title_greek": "Ἑλλάδος Περιηγήσεως",
-          "passages": 357,
+          "passages": 2991,
           "files": {
             "pdf": "grc/pausanias-description-greece-qvs-aa.grc.pdf",
             "md": "grc/pausanias-description-greece-qvs-aa.grc.md",
@@ -55016,18 +55280,6 @@
       },
       "works": [
         {
-          "eul_wid": "lig-aa",
-          "work_display_string": "philemon-younger-culinary-medical-dialogues",
-          "title_english": "Culinary and Medical Dialogues",
-          "title_greek": "Ἀποσπάσματα",
-          "passages": 12,
-          "files": {
-            "pdf": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.pdf",
-            "md": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.md",
-            "txt": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "lig-ab",
           "work_display_string": "philemon-younger-culinary-medical-dialogues",
           "title_english": "Culinary and Medical Dialogues",
@@ -55037,6 +55289,18 @@
             "pdf": "grc/philemon-younger-culinary-medical-dialogues-lig-ab.grc.pdf",
             "md": "grc/philemon-younger-culinary-medical-dialogues-lig-ab.grc.md",
             "txt": "grc/philemon-younger-culinary-medical-dialogues-lig-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "lig-aa",
+          "work_display_string": "philemon-younger-culinary-medical-dialogues",
+          "title_english": "Culinary and Medical Dialogues",
+          "title_greek": "Ἀποσπάσματα",
+          "passages": 12,
+          "files": {
+            "pdf": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.pdf",
+            "md": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.md",
+            "txt": "grc/philemon-younger-culinary-medical-dialogues-lig-aa.grc.txt"
           }
         }
       ]
@@ -56216,7 +56480,7 @@
       "domain": "Philosophy",
       "format": "Treatise",
       "affiliation": "Epicurean",
-      "works_count": 3,
+      "works_count": 6,
       "files": {
         "pdf": "en/philodemus-of-gadara-msu.en.pdf",
         "md": "en/philodemus-of-gadara-msu.en.md",
@@ -56225,38 +56489,74 @@
       "works": [
         {
           "eul_wid": "msu-ac",
-          "work_display_string": "philodemos-of-gadara-index-stoicorum",
+          "work_display_string": "philodemus-of-gadara-index-stoicorum",
           "title_english": "Index of Stoics of Herculaneum",
           "title_greek": "Σύνταξις τῶν φιλοσόφων (Index Stoikōn Herkoulanesion)",
           "passages": 82,
           "files": {
-            "pdf": "grc/philodemos-of-gadara-index-stoicorum-msu-ac.grc.pdf",
-            "md": "grc/philodemos-of-gadara-index-stoicorum-msu-ac.grc.md",
-            "txt": "grc/philodemos-of-gadara-index-stoicorum-msu-ac.grc.txt"
+            "pdf": "grc/philodemus-of-gadara-index-stoicorum-msu-ac.grc.pdf",
+            "md": "grc/philodemus-of-gadara-index-stoicorum-msu-ac.grc.md",
+            "txt": "grc/philodemus-of-gadara-index-stoicorum-msu-ac.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "msu-ad",
+          "work_display_string": "philodemus-of-gadara-on-anger",
+          "title_english": "On Anger",
+          "title_greek": "Περὶ ὀργῆς",
+          "passages": 67,
+          "files": {
+            "pdf": "grc/philodemus-of-gadara-on-anger-msu-ad.grc.pdf",
+            "md": "grc/philodemus-of-gadara-on-anger-msu-ad.grc.md",
+            "txt": "grc/philodemus-of-gadara-on-anger-msu-ad.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "msu-ae",
+          "work_display_string": "philodemus-of-gadara-on-piety",
+          "title_english": "On Piety",
+          "title_greek": "Περὶ εὐσεβείας",
+          "passages": 237,
+          "files": {
+            "pdf": "grc/philodemus-of-gadara-on-piety-msu-ae.grc.pdf",
+            "md": "grc/philodemus-of-gadara-on-piety-msu-ae.grc.md",
+            "txt": "grc/philodemus-of-gadara-on-piety-msu-ae.grc.txt"
           }
         },
         {
           "eul_wid": "msu-ab",
-          "work_display_string": "philodemus-gadara-rhetoric",
+          "work_display_string": "philodemus-of-gadara-rhetoric",
           "title_english": "On Rhetoric",
           "title_greek": "ΠΕΡΙ ΡΗΤΟΡΙΚΗΣ",
           "passages": 151,
           "files": {
-            "pdf": "grc/philodemus-gadara-rhetoric-msu-ab.grc.pdf",
-            "md": "grc/philodemus-gadara-rhetoric-msu-ab.grc.md",
-            "txt": "grc/philodemus-gadara-rhetoric-msu-ab.grc.txt"
+            "pdf": "grc/philodemus-of-gadara-rhetoric-msu-ab.grc.pdf",
+            "md": "grc/philodemus-of-gadara-rhetoric-msu-ab.grc.md",
+            "txt": "grc/philodemus-of-gadara-rhetoric-msu-ab.grc.txt"
           }
         },
         {
           "eul_wid": "msu-aa",
-          "work_display_string": "philodemus-gadara-existing-music-books",
+          "work_display_string": "philodemus-of-gadara-existing-music-books",
           "title_english": "On the Existing Books of Music",
           "title_greek": "Περὶ τῶν ὑπαρχόντων βιβλίων μουσικῆς",
           "passages": 132,
           "files": {
-            "pdf": "grc/philodemus-gadara-existing-music-books-msu-aa.grc.pdf",
-            "md": "grc/philodemus-gadara-existing-music-books-msu-aa.grc.md",
-            "txt": "grc/philodemus-gadara-existing-music-books-msu-aa.grc.txt"
+            "pdf": "grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.pdf",
+            "md": "grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.md",
+            "txt": "grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "msu-af",
+          "work_display_string": "philodemus-of-gadara-on-the-gods-iii",
+          "title_english": "On the Gods, Book III (On the Way of Life of the Gods)",
+          "title_greek": "Περὶ τῆς τῶν θεῶν διαγωγῆς (Γ)",
+          "passages": 159,
+          "files": {
+            "pdf": "grc/philodemus-of-gadara-on-the-gods-iii-msu-af.grc.pdf",
+            "md": "grc/philodemus-of-gadara-on-the-gods-iii-msu-af.grc.md",
+            "txt": "grc/philodemus-of-gadara-on-the-gods-iii-msu-af.grc.txt"
           }
         }
       ]
@@ -56836,18 +57136,6 @@
       },
       "works": [
         {
-          "eul_wid": "fdc-aa",
-          "work_display_string": "philyllius-comic-feast",
-          "title_english": "Fragments of a Comic Feast",
-          "title_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ",
-          "passages": 46,
-          "files": {
-            "pdf": "grc/philyllius-comic-feast-fdc-aa.grc.pdf",
-            "md": "grc/philyllius-comic-feast-fdc-aa.grc.md",
-            "txt": "grc/philyllius-comic-feast-fdc-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "fdc-ab",
           "work_display_string": "philyllius-comic-feast",
           "title_english": "Fragments of a Comic Feast",
@@ -56857,6 +57145,18 @@
             "pdf": "grc/philyllius-comic-feast-fdc-ab.grc.pdf",
             "md": "grc/philyllius-comic-feast-fdc-ab.grc.md",
             "txt": "grc/philyllius-comic-feast-fdc-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "fdc-aa",
+          "work_display_string": "philyllius-comic-feast",
+          "title_english": "Fragments of a Comic Feast",
+          "title_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ",
+          "passages": 46,
+          "files": {
+            "pdf": "grc/philyllius-comic-feast-fdc-aa.grc.pdf",
+            "md": "grc/philyllius-comic-feast-fdc-aa.grc.md",
+            "txt": "grc/philyllius-comic-feast-fdc-aa.grc.txt"
           }
         }
       ]
@@ -57144,7 +57444,7 @@
       "domain": "Grammar",
       "format": "Collection",
       "affiliation": null,
-      "works_count": 1,
+      "works_count": 3,
       "files": {
         "pdf": "en/photius-of-constantinople-woy.en.pdf",
         "md": "en/photius-of-constantinople-woy.en.md",
@@ -57161,6 +57461,30 @@
             "pdf": "grc/photius-bibliotheca-codex-212-woy-aa.grc.pdf",
             "md": "grc/photius-bibliotheca-codex-212-woy-aa.grc.md",
             "txt": "grc/photius-bibliotheca-codex-212-woy-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "woy-ao",
+          "work_display_string": "photius-constantinople-lexicon",
+          "title_english": "Lexicon, Part 1 (Alpha–Delta)",
+          "title_greek": "Λεξικόν (Α–Δ)",
+          "passages": 4974,
+          "files": {
+            "pdf": "grc/photius-constantinople-lexicon-woy-ao.grc.pdf",
+            "md": "grc/photius-constantinople-lexicon-woy-ao.grc.md",
+            "txt": "grc/photius-constantinople-lexicon-woy-ao.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "woy-an",
+          "work_display_string": "photius-constantinople-lexicon",
+          "title_english": "Lexicon, Part 2 (Epsilon–Omega)",
+          "title_greek": "Λεξικόν (Ε–Ω)",
+          "passages": 666,
+          "files": {
+            "pdf": "grc/photius-constantinople-lexicon-woy-an.grc.pdf",
+            "md": "grc/photius-constantinople-lexicon-woy-an.grc.md",
+            "txt": "grc/photius-constantinople-lexicon-woy-an.grc.txt"
           }
         }
       ]
@@ -58360,7 +58684,7 @@
           "work_display_string": "plotinus-enneads",
           "title_english": "Enneads",
           "title_greek": "Ἐννεάδες",
-          "passages": 54,
+          "passages": 658,
           "files": {
             "pdf": "grc/plotinus-enneads-rlc-aa.grc.pdf",
             "md": "grc/plotinus-enneads-rlc-aa.grc.md",
@@ -60396,7 +60720,7 @@
           "work_display_string": "polyaenus-macedonia-stratagems",
           "title_english": "Stratagems",
           "title_greek": "Στρατηγήματα",
-          "passages": 333,
+          "passages": 830,
           "files": {
             "pdf": "grc/polyaenus-macedonia-stratagems-qok-ab.grc.pdf",
             "md": "grc/polyaenus-macedonia-stratagems-qok-ab.grc.md",
@@ -61076,18 +61400,6 @@
           }
         },
         {
-          "eul_wid": "ios-aa",
-          "work_display_string": "posidippus-cassandreia-cooks-courtesans",
-          "title_english": "Fragments on Cooks and Courtesans",
-          "title_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν",
-          "passages": 93,
-          "files": {
-            "pdf": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.pdf",
-            "md": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.md",
-            "txt": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "ios-ab",
           "work_display_string": "posidippus-cassandreia-cooks-courtesans",
           "title_english": "Fragments on Cooks and Courtesans",
@@ -61097,6 +61409,18 @@
             "pdf": "grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.pdf",
             "md": "grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.md",
             "txt": "grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "ios-aa",
+          "work_display_string": "posidippus-cassandreia-cooks-courtesans",
+          "title_english": "Fragments on Cooks and Courtesans",
+          "title_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν",
+          "passages": 93,
+          "files": {
+            "pdf": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.pdf",
+            "md": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.md",
+            "txt": "grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.txt"
           }
         }
       ]
@@ -61852,7 +62176,7 @@
           "work_display_string": "procopius-caesarea-defense-wars",
           "title_english": "Speeches in Defense of the Wars",
           "title_greek": "Ὑπὲρ τῶν Πολέμων Λόγοι",
-          "passages": 243,
+          "passages": 6211,
           "files": {
             "pdf": "grc/procopius-caesarea-defense-wars-unc-aa.grc.pdf",
             "md": "grc/procopius-caesarea-defense-wars-unc-aa.grc.md",
@@ -63166,6 +63490,70 @@
       ]
     },
     {
+      "eul_aid": "uau",
+      "author_display_string": "pseudo-justin",
+      "author_stem": "pseudo-justin-uau",
+      "name_english": "Pseudo-Justin the Christian Apologist",
+      "name_greek": "Ψευδο-Ἰουστῖνος ὁ ἀπολογητής",
+      "period": "Late Antique",
+      "dialect": null,
+      "domain": "Theology",
+      "format": "Treatise",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/pseudo-justin-uau.en.pdf",
+        "md": "en/pseudo-justin-uau.en.md",
+        "txt": "en/pseudo-justin-uau.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "uau-aj",
+          "work_display_string": "pseudo-justin-resurrection",
+          "title_english": "On the Resurrection",
+          "title_greek": "Περὶ Ἀναστάσεως",
+          "passages": 41,
+          "files": {
+            "pdf": "grc/pseudo-justin-resurrection-uau-aj.grc.pdf",
+            "md": "grc/pseudo-justin-resurrection-uau-aj.grc.md",
+            "txt": "grc/pseudo-justin-resurrection-uau-aj.grc.txt"
+          }
+        }
+      ]
+    },
+    {
+      "eul_aid": "yem",
+      "author_display_string": "pseudo-zonaras",
+      "author_stem": "pseudo-zonaras-yem",
+      "name_english": "Pseudo-Zonaras ",
+      "name_greek": "Ψευδοζωναρᾶς",
+      "period": "Byzantine",
+      "dialect": null,
+      "domain": "Grammar",
+      "format": "Collection",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/pseudo-zonaras-yem.en.pdf",
+        "md": "en/pseudo-zonaras-yem.en.md",
+        "txt": "en/pseudo-zonaras-yem.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "yem-aa",
+          "work_display_string": "pseudo-zonaras-lexicon",
+          "title_english": "Lexicon",
+          "title_greek": "Λεξικόν",
+          "passages": 1922,
+          "files": {
+            "pdf": "grc/pseudo-zonaras-lexicon-yem-aa.grc.pdf",
+            "md": "grc/pseudo-zonaras-lexicon-yem-aa.grc.md",
+            "txt": "grc/pseudo-zonaras-lexicon-yem-aa.grc.txt"
+          }
+        }
+      ]
+    },
+    {
       "eul_aid": "jla",
       "author_display_string": "ptolemais-of-cyrene",
       "author_stem": "ptolemais-of-cyrene-jla",
@@ -63428,7 +63816,7 @@
           "work_display_string": "ptolemy-alexandria-tetrabiblos",
           "title_english": "Tetrabiblos",
           "title_greek": "Τετράβιβλος",
-          "passages": 63,
+          "passages": 463,
           "files": {
             "pdf": "grc/ptolemy-alexandria-tetrabiblos-phs-ai.grc.pdf",
             "md": "grc/ptolemy-alexandria-tetrabiblos-phs-ai.grc.md",
@@ -63724,18 +64112,6 @@
       },
       "works": [
         {
-          "eul_wid": "bgs-ab",
-          "work_display_string": "pythagoras-samos-astrological-fragments",
-          "title_english": "Astrological Fragments",
-          "title_greek": "Ἀστρολογικὰ Ἀποσπάσματα",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.pdf",
-            "md": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.md",
-            "txt": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "bgs-aa",
           "work_display_string": "pythagoras-samos-astrology",
           "title_english": "Astrological Fragments",
@@ -63745,6 +64121,18 @@
             "pdf": "grc/pythagoras-samos-astrology-bgs-aa.grc.pdf",
             "md": "grc/pythagoras-samos-astrology-bgs-aa.grc.md",
             "txt": "grc/pythagoras-samos-astrology-bgs-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "bgs-ab",
+          "work_display_string": "pythagoras-samos-astrological-fragments",
+          "title_english": "Astrological Fragments",
+          "title_greek": "Ἀστρολογικὰ Ἀποσπάσματα",
+          "passages": 1,
+          "files": {
+            "pdf": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.pdf",
+            "md": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.md",
+            "txt": "grc/pythagoras-samos-astrological-fragments-bgs-ab.grc.txt"
           }
         },
         {
@@ -64800,18 +65188,6 @@
       },
       "works": [
         {
-          "eul_wid": "fly-ab",
-          "work_display_string": "sannyrion-comic-fragments",
-          "title_english": "Comic Fragments on Gods and Mortals",
-          "title_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν",
-          "passages": 9,
-          "files": {
-            "pdf": "grc/sannyrion-comic-fragments-fly-ab.grc.pdf",
-            "md": "grc/sannyrion-comic-fragments-fly-ab.grc.md",
-            "txt": "grc/sannyrion-comic-fragments-fly-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "fly-aa",
           "work_display_string": "sannyrion-comic-fragments",
           "title_english": "Comic Fragments on Gods and Mortals",
@@ -64821,6 +65197,18 @@
             "pdf": "grc/sannyrion-comic-fragments-fly-aa.grc.pdf",
             "md": "grc/sannyrion-comic-fragments-fly-aa.grc.md",
             "txt": "grc/sannyrion-comic-fragments-fly-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "fly-ab",
+          "work_display_string": "sannyrion-comic-fragments",
+          "title_english": "Comic Fragments on Gods and Mortals",
+          "title_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν",
+          "passages": 9,
+          "files": {
+            "pdf": "grc/sannyrion-comic-fragments-fly-ab.grc.pdf",
+            "md": "grc/sannyrion-comic-fragments-fly-ab.grc.md",
+            "txt": "grc/sannyrion-comic-fragments-fly-ab.grc.txt"
           }
         }
       ]
@@ -66982,6 +67370,38 @@
       ]
     },
     {
+      "eul_aid": "xwk",
+      "author_display_string": "sophonias",
+      "author_stem": "sophonias-xwk",
+      "name_english": "Sophonias the Aristotelian Commentator",
+      "name_greek": "Σοφονίας ὁ σχολιαστής",
+      "period": "Byzantine",
+      "dialect": null,
+      "domain": "Philosophy",
+      "format": "Treatise",
+      "affiliation": null,
+      "works_count": 1,
+      "files": {
+        "pdf": "en/sophonias-xwk.en.pdf",
+        "md": "en/sophonias-xwk.en.md",
+        "txt": "en/sophonias-xwk.en.txt"
+      },
+      "works": [
+        {
+          "eul_wid": "xwk-aa",
+          "work_display_string": "sophonias-aristotle-soul-paraphrase",
+          "title_english": "Paraphrase of Aristotle's On the Soul",
+          "title_greek": "Περὶ τῶν Ἀριστοτέλους περὶ ψυχῆς βιβλίων",
+          "passages": 152,
+          "files": {
+            "pdf": "grc/sophonias-aristotle-soul-paraphrase-xwk-aa.grc.pdf",
+            "md": "grc/sophonias-aristotle-soul-paraphrase-xwk-aa.grc.md",
+            "txt": "grc/sophonias-aristotle-soul-paraphrase-xwk-aa.grc.txt"
+          }
+        }
+      ]
+    },
+    {
       "eul_aid": "dru",
       "author_display_string": "sophron-of-syracuse",
       "author_stem": "sophron-of-syracuse-dru",
@@ -67048,7 +67468,7 @@
           "work_display_string": "soranus-ephesus-four-books-women",
           "title_english": "Four Books-Women",
           "title_greek": "Γυναικείων Βιβλία Δ'",
-          "passages": 70,
+          "passages": 683,
           "files": {
             "pdf": "grc/soranus-ephesus-four-books-women-omy-ac.grc.pdf",
             "md": "grc/soranus-ephesus-four-books-women-omy-ac.grc.md",
@@ -68060,7 +68480,7 @@
           "work_display_string": "strabo-amasia-geography",
           "title_english": "Geography",
           "title_greek": "Γεωγραφικά",
-          "passages": 96,
+          "passages": 1491,
           "files": {
             "pdf": "grc/strabo-amasia-geography-nck-ad.grc.pdf",
             "md": "grc/strabo-amasia-geography-nck-ad.grc.md",
@@ -68968,18 +69388,6 @@
       },
       "works": [
         {
-          "eul_wid": "edi-aa",
-          "work_display_string": "telecleides-golden-age-of-plenty",
-          "title_english": "Golden Age of Plenty",
-          "title_greek": "Ἀποσπάσματα",
-          "passages": 85,
-          "files": {
-            "pdf": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.pdf",
-            "md": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.md",
-            "txt": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "edi-ab",
           "work_display_string": "telecleides-golden-age-of-plenty",
           "title_english": "Golden Age of Plenty",
@@ -68989,6 +69397,18 @@
             "pdf": "grc/telecleides-golden-age-of-plenty-edi-ab.grc.pdf",
             "md": "grc/telecleides-golden-age-of-plenty-edi-ab.grc.md",
             "txt": "grc/telecleides-golden-age-of-plenty-edi-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "edi-aa",
+          "work_display_string": "telecleides-golden-age-of-plenty",
+          "title_english": "Golden Age of Plenty",
+          "title_greek": "Ἀποσπάσματα",
+          "passages": 85,
+          "files": {
+            "pdf": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.pdf",
+            "md": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.md",
+            "txt": "grc/telecleides-golden-age-of-plenty-edi-aa.grc.txt"
           }
         }
       ]
@@ -69116,18 +69536,6 @@
           }
         },
         {
-          "eul_wid": "kkk-aa",
-          "work_display_string": "teles-megara-poverty-wealth",
-          "title_english": "On the Comparison of Poverty and Wealth",
-          "title_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου",
-          "passages": 2,
-          "files": {
-            "pdf": "grc/teles-megara-poverty-wealth-kkk-aa.grc.pdf",
-            "md": "grc/teles-megara-poverty-wealth-kkk-aa.grc.md",
-            "txt": "grc/teles-megara-poverty-wealth-kkk-aa.grc.txt"
-          }
-        },
-        {
           "eul_wid": "kkk-ab",
           "work_display_string": "teles-megara-poverty-wealth",
           "title_english": "On the Comparison of Poverty and Wealth",
@@ -69137,6 +69545,18 @@
             "pdf": "grc/teles-megara-poverty-wealth-kkk-ab.grc.pdf",
             "md": "grc/teles-megara-poverty-wealth-kkk-ab.grc.md",
             "txt": "grc/teles-megara-poverty-wealth-kkk-ab.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "kkk-aa",
+          "work_display_string": "teles-megara-poverty-wealth",
+          "title_english": "On the Comparison of Poverty and Wealth",
+          "title_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/teles-megara-poverty-wealth-kkk-aa.grc.pdf",
+            "md": "grc/teles-megara-poverty-wealth-kkk-aa.grc.md",
+            "txt": "grc/teles-megara-poverty-wealth-kkk-aa.grc.txt"
           }
         }
       ]
@@ -71040,18 +71460,6 @@
       },
       "works": [
         {
-          "eul_wid": "ggs-ab",
-          "work_display_string": "theophilus-comic-dining-excess",
-          "title_english": "Comic Fragments on Dining and Excess",
-          "title_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας",
-          "passages": 43,
-          "files": {
-            "pdf": "grc/theophilus-comic-dining-excess-ggs-ab.grc.pdf",
-            "md": "grc/theophilus-comic-dining-excess-ggs-ab.grc.md",
-            "txt": "grc/theophilus-comic-dining-excess-ggs-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "ggs-aa",
           "work_display_string": "theophilus-comic-dining-excess",
           "title_english": "Comic Fragments on Dining and Excess",
@@ -71061,6 +71469,18 @@
             "pdf": "grc/theophilus-comic-dining-excess-ggs-aa.grc.pdf",
             "md": "grc/theophilus-comic-dining-excess-ggs-aa.grc.md",
             "txt": "grc/theophilus-comic-dining-excess-ggs-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "ggs-ab",
+          "work_display_string": "theophilus-comic-dining-excess",
+          "title_english": "Comic Fragments on Dining and Excess",
+          "title_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας",
+          "passages": 43,
+          "files": {
+            "pdf": "grc/theophilus-comic-dining-excess-ggs-ab.grc.pdf",
+            "md": "grc/theophilus-comic-dining-excess-ggs-ab.grc.md",
+            "txt": "grc/theophilus-comic-dining-excess-ggs-ab.grc.txt"
           }
         }
       ]
@@ -71164,7 +71584,7 @@
           "work_display_string": "theophrastus-eresus-enquiry-plants",
           "title_english": "Enquiry into Plants",
           "title_greek": "Περὶ φυτῶν ἱστορία",
-          "passages": 14,
+          "passages": 743,
           "files": {
             "pdf": "grc/theophrastus-eresus-enquiry-plants-ljk-ag.grc.pdf",
             "md": "grc/theophrastus-eresus-enquiry-plants-ljk-ag.grc.md",
@@ -71196,11 +71616,23 @@
           }
         },
         {
+          "eul_wid": "ljk-an",
+          "work_display_string": "theophrastus-eresus-minor-works-fragments",
+          "title_english": "Minor Works and Fragments",
+          "title_greek": "Ἀποσπάσματα",
+          "passages": 3668,
+          "files": {
+            "pdf": "grc/theophrastus-eresus-minor-works-fragments-ljk-an.grc.pdf",
+            "md": "grc/theophrastus-eresus-minor-works-fragments-ljk-an.grc.md",
+            "txt": "grc/theophrastus-eresus-minor-works-fragments-ljk-an.grc.txt"
+          }
+        },
+        {
           "eul_wid": "ljk-ah",
           "work_display_string": "theophrastus-eresus-causes-plants",
           "title_english": "On Causes of Plants",
           "title_greek": "Περὶ φυτῶν αἰτιῶν",
-          "passages": 119,
+          "passages": 140,
           "files": {
             "pdf": "grc/theophrastus-eresus-causes-plants-ljk-ah.grc.pdf",
             "md": "grc/theophrastus-eresus-causes-plants-ljk-ah.grc.md",
@@ -71313,18 +71745,6 @@
             "pdf": "grc/theophrastus-eresus-smells-ljk-ao.grc.pdf",
             "md": "grc/theophrastus-eresus-smells-ljk-ao.grc.md",
             "txt": "grc/theophrastus-eresus-smells-ljk-ao.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "ljk-an",
-          "work_display_string": "theophrastus-eresus-smells-odors",
-          "title_english": "On Smells and Odors",
-          "title_greek": "Ἀποσπάσματα",
-          "passages": 3668,
-          "files": {
-            "pdf": "grc/theophrastus-eresus-smells-odors-ljk-an.grc.pdf",
-            "md": "grc/theophrastus-eresus-smells-odors-ljk-an.grc.md",
-            "txt": "grc/theophrastus-eresus-smells-odors-ljk-an.grc.txt"
           }
         },
         {
@@ -71628,27 +72048,15 @@
       },
       "works": [
         {
-          "eul_wid": "ece-aa",
+          "eul_wid": "ece-ae",
           "work_display_string": "thessalus-cos-virtues-herbs",
           "title_english": "On the Virtues of Herbs",
           "title_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων",
-          "passages": 47,
+          "passages": 2,
           "files": {
-            "pdf": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.pdf",
-            "md": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.md",
-            "txt": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.txt"
-          }
-        },
-        {
-          "eul_wid": "ece-ac",
-          "work_display_string": "thessalus-cos-virtues-herbs",
-          "title_english": "On the Virtues of Herbs",
-          "title_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων",
-          "passages": 41,
-          "files": {
-            "pdf": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.pdf",
-            "md": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.md",
-            "txt": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.txt"
+            "pdf": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.pdf",
+            "md": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.md",
+            "txt": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.txt"
           }
         },
         {
@@ -71664,15 +72072,27 @@
           }
         },
         {
-          "eul_wid": "ece-ae",
+          "eul_wid": "ece-ac",
           "work_display_string": "thessalus-cos-virtues-herbs",
           "title_english": "On the Virtues of Herbs",
           "title_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων",
-          "passages": 2,
+          "passages": 41,
           "files": {
-            "pdf": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.pdf",
-            "md": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.md",
-            "txt": "grc/thessalus-cos-virtues-herbs-ece-ae.grc.txt"
+            "pdf": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.pdf",
+            "md": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.md",
+            "txt": "grc/thessalus-cos-virtues-herbs-ece-ac.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "ece-aa",
+          "work_display_string": "thessalus-cos-virtues-herbs",
+          "title_english": "On the Virtues of Herbs",
+          "title_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων",
+          "passages": 47,
+          "files": {
+            "pdf": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.pdf",
+            "md": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.md",
+            "txt": "grc/thessalus-cos-virtues-herbs-ece-aa.grc.txt"
           }
         },
         {
@@ -72332,18 +72752,6 @@
           }
         },
         {
-          "eul_wid": "hcq-ac",
-          "work_display_string": "timocles-comedy-fragments",
-          "title_english": "Fragments on Comedy",
-          "title_greek": "Ἀποσπάσματα περὶ Κωμῳδίας",
-          "passages": 5,
-          "files": {
-            "pdf": "grc/timocles-comedy-fragments-hcq-ac.grc.pdf",
-            "md": "grc/timocles-comedy-fragments-hcq-ac.grc.md",
-            "txt": "grc/timocles-comedy-fragments-hcq-ac.grc.txt"
-          }
-        },
-        {
           "eul_wid": "hcq-ad",
           "work_display_string": "timocles-comedy-fragments",
           "title_english": "Fragments on Comedy",
@@ -72353,6 +72761,18 @@
             "pdf": "grc/timocles-comedy-fragments-hcq-ad.grc.pdf",
             "md": "grc/timocles-comedy-fragments-hcq-ad.grc.md",
             "txt": "grc/timocles-comedy-fragments-hcq-ad.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "hcq-ac",
+          "work_display_string": "timocles-comedy-fragments",
+          "title_english": "Fragments on Comedy",
+          "title_greek": "Ἀποσπάσματα περὶ Κωμῳδίας",
+          "passages": 5,
+          "files": {
+            "pdf": "grc/timocles-comedy-fragments-hcq-ac.grc.pdf",
+            "md": "grc/timocles-comedy-fragments-hcq-ac.grc.md",
+            "txt": "grc/timocles-comedy-fragments-hcq-ac.grc.txt"
           }
         },
         {
@@ -73520,18 +73940,6 @@
       },
       "works": [
         {
-          "eul_wid": "lli-ab",
-          "work_display_string": "xenarchus-fate-fragments",
-          "title_english": "Fragments on Fate",
-          "title_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης",
-          "passages": 56,
-          "files": {
-            "pdf": "grc/xenarchus-fate-fragments-lli-ab.grc.pdf",
-            "md": "grc/xenarchus-fate-fragments-lli-ab.grc.md",
-            "txt": "grc/xenarchus-fate-fragments-lli-ab.grc.txt"
-          }
-        },
-        {
           "eul_wid": "lli-aa",
           "work_display_string": "xenarchus-fate-fragments",
           "title_english": "Fragments on Fate",
@@ -73541,6 +73949,18 @@
             "pdf": "grc/xenarchus-fate-fragments-lli-aa.grc.pdf",
             "md": "grc/xenarchus-fate-fragments-lli-aa.grc.md",
             "txt": "grc/xenarchus-fate-fragments-lli-aa.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "lli-ab",
+          "work_display_string": "xenarchus-fate-fragments",
+          "title_english": "Fragments on Fate",
+          "title_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης",
+          "passages": 56,
+          "files": {
+            "pdf": "grc/xenarchus-fate-fragments-lli-ab.grc.pdf",
+            "md": "grc/xenarchus-fate-fragments-lli-ab.grc.md",
+            "txt": "grc/xenarchus-fate-fragments-lli-ab.grc.txt"
           }
         }
       ]
@@ -74104,7 +74524,7 @@
           "work_display_string": "xenophon-ephesus-story-of-anthia-and-habrocomes",
           "title_english": "Story of Anthia and Habrocomes",
           "title_greek": "Τὰ κατὰ Ἀνθίαν καὶ Ἁβροκόμην",
-          "passages": 63,
+          "passages": 249,
           "files": {
             "pdf": "grc/xenophon-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.pdf",
             "md": "grc/xenophon-ephesus-story-of-anthia-and-habrocomes-rnk-aa.grc.md",
@@ -74588,7 +75008,7 @@
           "work_display_string": "zosimus-constantinople-new-history",
           "title_english": "New History",
           "title_greek": "Νέα Ἱστορία",
-          "passages": 287,
+          "passages": 521,
           "files": {
             "pdf": "grc/zosimus-constantinople-new-history-thy-aa.grc.pdf",
             "md": "grc/zosimus-constantinople-new-history-thy-aa.grc.md",
@@ -74832,18 +75252,6 @@
           }
         },
         {
-          "eul_wid": "tyc-ce",
-          "work_display_string": "zosimus-panopolis-divine-water",
-          "title_english": "On Divine Water",
-          "title_greek": "Περὶ θείου ὕδατος",
-          "passages": 3,
-          "files": {
-            "pdf": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.pdf",
-            "md": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.md",
-            "txt": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.txt"
-          }
-        },
-        {
           "eul_wid": "tyc-cf",
           "work_display_string": "zosimus-panopolis-divine-water",
           "title_english": "On Divine Water",
@@ -74853,6 +75261,18 @@
             "pdf": "grc/zosimus-panopolis-divine-water-tyc-cf.grc.pdf",
             "md": "grc/zosimus-panopolis-divine-water-tyc-cf.grc.md",
             "txt": "grc/zosimus-panopolis-divine-water-tyc-cf.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tyc-ce",
+          "work_display_string": "zosimus-panopolis-divine-water",
+          "title_english": "On Divine Water",
+          "title_greek": "Περὶ θείου ὕδατος",
+          "passages": 3,
+          "files": {
+            "pdf": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.pdf",
+            "md": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.md",
+            "txt": "grc/zosimus-panopolis-divine-water-tyc-ce.grc.txt"
           }
         },
         {
@@ -74964,18 +75384,6 @@
           }
         },
         {
-          "eul_wid": "tyc-az",
-          "work_display_string": "zosimus-panopolis-burnt-copper",
-          "title_english": "On the Difference of Burnt Copper",
-          "title_greek": "Περὶ διαφορᾶς χαλκοῦ κεκαυμένου",
-          "passages": 3,
-          "files": {
-            "pdf": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.pdf",
-            "md": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.md",
-            "txt": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.txt"
-          }
-        },
-        {
           "eul_wid": "tyc-ba",
           "work_display_string": "zosimus-panopolis-burnt-copper",
           "title_english": "On the Difference of Burnt Copper",
@@ -74988,15 +75396,15 @@
           }
         },
         {
-          "eul_wid": "tyc-bu",
-          "work_display_string": "zosimus-panopolis-divine-water",
-          "title_english": "On the Divine Water",
-          "title_greek": "Περὶ τοῦ θείου ὕδατος",
+          "eul_wid": "tyc-az",
+          "work_display_string": "zosimus-panopolis-burnt-copper",
+          "title_english": "On the Difference of Burnt Copper",
+          "title_greek": "Περὶ διαφορᾶς χαλκοῦ κεκαυμένου",
           "passages": 3,
           "files": {
-            "pdf": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.pdf",
-            "md": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.md",
-            "txt": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.txt"
+            "pdf": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.pdf",
+            "md": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.md",
+            "txt": "grc/zosimus-panopolis-burnt-copper-tyc-az.grc.txt"
           }
         },
         {
@@ -75021,6 +75429,18 @@
             "pdf": "grc/zosimus-panopolis-divine-water-tyc-bw.grc.pdf",
             "md": "grc/zosimus-panopolis-divine-water-tyc-bw.grc.md",
             "txt": "grc/zosimus-panopolis-divine-water-tyc-bw.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tyc-bu",
+          "work_display_string": "zosimus-panopolis-divine-water",
+          "title_english": "On the Divine Water",
+          "title_greek": "Περὶ τοῦ θείου ὕδατος",
+          "passages": 3,
+          "files": {
+            "pdf": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.pdf",
+            "md": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.md",
+            "txt": "grc/zosimus-panopolis-divine-water-tyc-bu.grc.txt"
           }
         },
         {
@@ -75204,18 +75624,6 @@
           }
         },
         {
-          "eul_wid": "tyc-ci",
-          "work_display_string": "zosimus-panopolis-whitening",
-          "title_english": "On Whitening",
-          "title_greek": "Περὶ λευκώσεως",
-          "passages": 1,
-          "files": {
-            "pdf": "grc/zosimus-panopolis-whitening-tyc-ci.grc.pdf",
-            "md": "grc/zosimus-panopolis-whitening-tyc-ci.grc.md",
-            "txt": "grc/zosimus-panopolis-whitening-tyc-ci.grc.txt"
-          }
-        },
-        {
           "eul_wid": "tyc-cj",
           "work_display_string": "zosimus-panopolis-whitening",
           "title_english": "On Whitening",
@@ -75228,15 +75636,15 @@
           }
         },
         {
-          "eul_wid": "tyc-bn",
-          "work_display_string": "zosimus-panopolis-poem-act-3",
-          "title_english": "Poem of Zosimus, Act 3",
-          "title_greek": "Ποίημα Ζωσίμου (πρᾶξις γʹ)",
-          "passages": 2,
+          "eul_wid": "tyc-ci",
+          "work_display_string": "zosimus-panopolis-whitening",
+          "title_english": "On Whitening",
+          "title_greek": "Περὶ λευκώσεως",
+          "passages": 1,
           "files": {
-            "pdf": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.pdf",
-            "md": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.md",
-            "txt": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.txt"
+            "pdf": "grc/zosimus-panopolis-whitening-tyc-ci.grc.pdf",
+            "md": "grc/zosimus-panopolis-whitening-tyc-ci.grc.md",
+            "txt": "grc/zosimus-panopolis-whitening-tyc-ci.grc.txt"
           }
         },
         {
@@ -75249,6 +75657,18 @@
             "pdf": "grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.pdf",
             "md": "grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.md",
             "txt": "grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.txt"
+          }
+        },
+        {
+          "eul_wid": "tyc-bn",
+          "work_display_string": "zosimus-panopolis-poem-act-3",
+          "title_english": "Poem of Zosimus, Act 3",
+          "title_greek": "Ποίημα Ζωσίμου (πρᾶξις γʹ)",
+          "passages": 2,
+          "files": {
+            "pdf": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.pdf",
+            "md": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.md",
+            "txt": "grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.txt"
           }
         },
         {

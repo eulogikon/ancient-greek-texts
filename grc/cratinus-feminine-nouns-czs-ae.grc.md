@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 179.2
 
-χαίρουσι θηλυκῶς ἐκφέ‐ ροντες, οἷον τήν
+χαίρουσι θηλυκῶς ἐκφέροντες, οἷον τήν
 
 ### book 179.3
 

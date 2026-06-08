@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1a.2
 
-Πριάμοιο μέ‐ γ’ ἄσ]τυ
+Πριάμοιο μέγ’ ἄσ]τυ
 
 ### book 1a.3
 
@@ -92,7 +92,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1a.3
 
-Τρωίλον ὡσεὶ χρυσὸν ὀρει‐ χάλκωι
+Τρωίλον ὡσεὶ χρυσὸν ὀρειχάλκωι
 
 ### book 1a.4
 
@@ -204,7 +204,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 5.6
 
-παρὰ Κύπριδος ἀζαλέ‐ αις μανίαισιν ἐρεμνὸς ἀθαμβὴς ἐγκρατέως
+παρὰ Κύπριδος ἀζαλέαις μανίαισιν ἐρεμνὸς ἀθαμβὴς ἐγκρατέως
 
 ### book 5.7
 
@@ -248,7 +248,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 7.3
 
-Πει‐ θὼ ῥοδέοισιν ἐν ἄνθεσι θρέψαν.
+Πειθὼ ῥοδέοισιν ἐν ἄνθεσι θρέψαν.
 
 ### book 12.1
 

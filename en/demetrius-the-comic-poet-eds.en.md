@@ -19,8 +19,8 @@ Demetrius, a 5th century BCE Athenian poet of Old Comedy. Two fragmentary works 
 
 ## Works
 
-- [Fragments of a Naval Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-comic-naval-comedy-eds-ab.grc.md) — *Ἀποσπάσματα Ναυτικῆς Κωμῳδίας* · `eds-ab`
 - [Fragments of a Naval Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-comic-naval-comedy-eds-aa.grc.md) — *Ἀποσπάσματα Ναυτικῆς Κωμῳδίας* · `eds-aa`
+- [Fragments of a Naval Comedy](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-comic-naval-comedy-eds-ab.grc.md) — *Ἀποσπάσματα Ναυτικῆς Κωμῳδίας* · `eds-ab`
 
 ## License and provenance
 

@@ -28,7 +28,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.2
 
-προ‐ εστηκότες
+προεστηκότες
 
 ### book 2
 

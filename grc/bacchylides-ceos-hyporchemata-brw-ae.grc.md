@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 4
 
-Ὦ περικλειτέ, δῆλ’ ἀγνοή‐ σειν μὲν οὔ ς’ ἔλπομαι.
+Ὦ περικλειτέ, δῆλ’ ἀγνοήσειν μὲν οὔ ς’ ἔλπομαι.
 
 ## License and provenance
 

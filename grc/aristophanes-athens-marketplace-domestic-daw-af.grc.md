@@ -2544,7 +2544,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 442.2
 
-τε πλεί‐ στων αἰτίαν
+τε πλείστων αἰτίαν
 
 ### book 442.3
 

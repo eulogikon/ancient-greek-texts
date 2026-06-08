@@ -24,6 +24,7 @@ Theophrastus, successor to Aristotle. Surviving treatises on plants, ethics, and
 - [Enquiry into Plants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-enquiry-plants-ljk-ag.grc.md) — *Περὶ φυτῶν ἱστορία* · `ljk-ag`
 - [Fragments 13-190](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-fragments-ljk-ab.grc.md) — *Ἀποσπάσματα διάφορα* · `ljk-ab`
 - [From the Metaphysics](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-metaphysics-ljk-af.grc.md) — *Ἐκ τῶν μετὰ τὰ φυσικά* · `ljk-af`
+- [Minor Works and Fragments](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-minor-works-fragments-ljk-an.grc.md) — *Ἀποσπάσματα* · `ljk-an`
 - [On Causes of Plants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-causes-plants-ljk-ah.grc.md) — *Περὶ φυτῶν αἰτιῶν* · `ljk-ah`
 - [On Dizziness](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-dizziness-ljk-ak.grc.md) — *Περὶ τῆς Ἰλιγγιάδος* · `ljk-ak`
 - [On Electing Magistrates](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-electing-magistrates-ljk-ac.grc.md) — *Περὶ τῆς ἐκλογῆς ἀρχόντων* · `ljk-ac`
@@ -34,7 +35,6 @@ Theophrastus, successor to Aristotle. Surviving treatises on plants, ethics, and
 - [On Sense and Sensibles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-sense-sensibles-ljk-ae.grc.md) — *Περὶ αἰσθήσεως καὶ τῶν αἰσθητῶν* · `ljk-ae`
 - [On Signs of Waters, Winds, Storms, and Fair Weather](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-weather-signs-ljk-aa.grc.md) — *Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας* · `ljk-aa`
 - [On Smells](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-smells-ljk-ao.grc.md) — *Περὶ Ὀσμῶν* · `ljk-ao`
-- [On Smells and Odors](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-smells-odors-ljk-an.grc.md) — *Ἀποσπάσματα* · `ljk-an`
 - [On Stones](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-stones-ljk-ap.grc.md) — *Περὶ λίθων* · `ljk-ap`
 - [On Sweats](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-on-sweats-ljk-aq.grc.md) — *Περὶ Ἰδρώτων* · `ljk-aq`
 - [On the Causes of Plants](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-eresus-causes-plants-ljk-ad.grc.md) — *Περὶ τῶν αἰτιῶν τῶν φυτῶν* · `ljk-ad`

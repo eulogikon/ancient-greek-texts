@@ -24,7 +24,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.1
 
-[ln_1][para]PLUTARCH. Cimon 4 Κίμων ὁ Μιλτιάδου μητρὸς ἦν Ἡγη‐ σιπύλης, γένος Θράιττης, θυγατρὸς Ὀλόρου
+[ln_1][para]PLUTARCH. Cimon 4 Κίμων ὁ Μιλτιάδου μητρὸς ἦν Ἡγησιπύλης, γένος Θράιττης, θυγατρὸς Ὀλόρου
 
 ### book 1.2
 
@@ -44,11 +44,11 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.6
 
-συμβιώσασαν ὁ Κίμων ἐμπαθέστερον διατεθεὶς καὶ δυσφο‐ ρήσας ἀποθανούσης, εἴ τι δεῖ τεκμαίρεσθαι
+συμβιώσασαν ὁ Κίμων ἐμπαθέστερον διατεθεὶς καὶ δυσφορήσας ἀποθανούσης, εἴ τι δεῖ τεκμαίρεσθαι
 
 ### book 1.7
 
-ταῖς γεγραμμέναις ἐπὶ παρη‐ γορίαι
+ταῖς γεγραμμέναις ἐπὶ παρηγορίαι
 
 ### book 1.8
 
@@ -56,7 +56,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 1.9
 
-Παναί‐ τιος ὁ φιλόσοφος οἴεται
+Παναίτιος ὁ φιλόσοφος οἴεται
 
 ### book 1.10
 
@@ -92,7 +92,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ### book 2.1
 
-[ln_1]Berthelot Coll. des Alchim. gr. I p. 25, 6 γίνωσκε, ὦ φίλε, καὶ τὰ ὀνό‐ ματα τῶν
+[ln_1]Berthelot Coll. des Alchim. gr. I p. 25, 6 γίνωσκε, ὦ φίλε, καὶ τὰ ὀνόματα τῶν
 
 ### book 2.2
 

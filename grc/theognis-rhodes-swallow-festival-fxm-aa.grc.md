@@ -80,7 +80,7 @@ Athenaeus VIII: Καὶ χελιδονίζειν δὲ καλεῖται
 
 ### book 1.7
 
-χρη‐ μάτων.»
+χρημάτων.»
 
 ## License and provenance
 

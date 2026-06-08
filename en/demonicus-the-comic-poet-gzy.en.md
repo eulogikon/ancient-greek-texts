@@ -19,8 +19,8 @@ Demonicus was an Athenian comic poet of the Classical period. Two surviving work
 
 ## Works
 
-- [Boeotian Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-boeotian-banquet-gzy-ab.grc.md) — *Ἀπόσπασμα* · `gzy-ab`
 - [Boeotian Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-boeotian-banquet-gzy-aa.grc.md) — *Ἀπόσπασμα* · `gzy-aa`
+- [Boeotian Banquet](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-boeotian-banquet-gzy-ab.grc.md) — *Ἀπόσπασμα* · `gzy-ab`
 
 ## License and provenance
 

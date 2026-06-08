@@ -4,7 +4,7 @@ name_greek: Φώτιος ὁ Κωνσταντινουπόλεως
 eul_aid: woy
 canonical: "https://eulogikon.org/authors/photius-of-constantinople-woy"
 period: Byzantine
-works_count: 1
+works_count: 3
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -17,6 +17,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ## Works
 
 - [Bibliotheca, Codex 212 (Aenesidemus, Pyrrhonian Discourses)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/photius-bibliotheca-codex-212-woy-aa.grc.md) — *Βιβλιοθήκη, κῶδιξ σιβʹ* · `woy-aa`
+- [Lexicon, Part 1 (Alpha–Delta)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/photius-constantinople-lexicon-woy-ao.grc.md) — *Λεξικόν (Α–Δ)* · `woy-ao`
+- [Lexicon, Part 2 (Epsilon–Omega)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/photius-constantinople-lexicon-woy-an.grc.md) — *Λεξικόν (Ε–Ω)* · `woy-an`
 
 ## License and provenance
 

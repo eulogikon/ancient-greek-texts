@@ -19,3 +19,6 @@ cache/
 .claude/
 .githooks/
 _docs-staging/
+# Submission-metadata drafts (Zenodo/HF/Kaggle): staged locally, deployed by
+# hand after review; never published from here.
+_metadata-staging/

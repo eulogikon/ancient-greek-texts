@@ -13,7 +13,7 @@ tags:
 
 # Ancient Greek Texts
 
-A free, open archive of ancient Greek literature — 1,344 authors and 4,031 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+A free, open archive of ancient Greek literature — 1,353 authors and 4,051 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
@@ -23,7 +23,7 @@ No logins. No fees. No paywalls. CC0.
 
 ## What's here
 
-**1,344 authors · 4,031 works · PDF, Markdown, and plain text**
+**1,353 authors · 4,051 works · PDF, Markdown, and plain text**
 
 A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
@@ -132,7 +132,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "A public-domain corpus of ancient Greek literature: 1,344 authors and 4,031 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
+  "description": "A public-domain corpus of ancient Greek literature: 1,353 authors and 4,051 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",

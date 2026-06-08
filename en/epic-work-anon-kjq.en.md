@@ -23,8 +23,8 @@ Anonymous fragments of Hellenistic Greek epic poetry in Homeric meter. Eighteen 
 - [encom-Heraclius the Leader](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-heraclius-leader-kjq-ad.grc.md) — *Ἐγκώμιον εἰς Ἡράκλειον τὸν ἡγεμόνα* · `kjq-ad`
 - [encom-the Roman Leader](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-roman-leader-kjq-af.grc.md) — *Ἐγκώμιον εἰς τὸν Ῥωμαῖον ἡγεμόνα* · `kjq-af`
 - [Epic Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-fragment-kjq-ap.grc.md) — *Ἐπικὸν Ἀπόσπασμα* · `kjq-ap`
-- [Ethopoeic Exercise](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md) — *Ἠθοποιία* · `kjq-al`
 - [Ethopoeic Exercise](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-ethopoeia-kjq-am.grc.md) — *Ἠθοποιία* · `kjq-am`
+- [Ethopoeic Exercise](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md) — *Ἠθοποιία* · `kjq-al`
 - [Ethopoeic Exercises](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-ethopoeia-kjq-ak.grc.md) — *Ἠθοποιίαι* · `kjq-ak`
 - [Historical Epic Fragment A](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-historical-fragment-kjq-ag.grc.md) — *Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα* · `kjq-ag`
 - [Historical Epic Fragment B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anon-historical-fragment-kjq-ah.grc.md) — *Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα* · `kjq-ah`
