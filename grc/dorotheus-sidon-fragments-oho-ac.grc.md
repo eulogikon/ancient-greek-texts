@@ -1,7 +1,7 @@
 ---
 title: Greek Fragments
 title_greek: Ἑλληνικὰ Ἀποσπάσματα
-author: Dorotheus the Astrologer of Sidon
+author: Dorotheus of Sidon
 eul_wid: oho-ac
 eul_aid: oho
 canonical: "https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac"
@@ -16,7 +16,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑλληνικὰ Ἀποσπάσματα*
 
-**Author:** Dorotheus the Astrologer of Sidon
+**Author:** Dorotheus of Sidon
 
 **eul_wid:** `oho-ac` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac)
 

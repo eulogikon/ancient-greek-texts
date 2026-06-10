@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/anthology-anon-philogelos-jokes-tpg-aa"
 period: Late Antique
 dialect: Koine
 domain: Poetry
-format: Verse
+format: Prose
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

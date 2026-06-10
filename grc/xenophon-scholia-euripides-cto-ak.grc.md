@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/xenophon-scholia-euripides-cto-ak"
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
-format: Verse
+format: Prose
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

@@ -23,9 +23,9 @@ Anonymous commentator on Aristotle's Sophistical Refutations. Philosophical comm
 - [Commentary-Aristotle in Greek](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-commentary-aristotle-vls-af.grc.md) — *Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί* · `vls-af`
 - [Commentary-Sophistical Refutations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-commentary-vls-ab.grc.md) — *Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ab`
 - [Concise Tradition of Modes of Sophistic Importunities](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-modes-importunities-vls-aa.grc.md) — *Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν* · `vls-aa`
-- [Scholia on Sophistical Refutations (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ac.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ac`
-- [Scholia on Sophistical Refutations (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ad.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ad`
-- [Scholia on Sophistical Refutations (Recension C)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ae.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ae`
+- [Scholia-Sophistical Refutations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ac.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ac`
+- [Scholia-Sophistical Refutations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ad.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ad`
+- [Scholia-Sophistical Refutations](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-soph-ref-scholia-vls-ae.grc.md) — *Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη* · `vls-ae`
 
 ## License and provenance
 

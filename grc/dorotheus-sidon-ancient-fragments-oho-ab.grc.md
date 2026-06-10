@@ -1,7 +1,7 @@
 ---
 title: Other Ancient Fragments
 title_greek: Ἄλλα Ἀρχαῖα Ἀποσπάσματα
-author: Dorotheus the Astrologer of Sidon
+author: Dorotheus of Sidon
 eul_wid: oho-ab
 eul_aid: oho
 canonical: "https://eulogikon.org/works/dorotheus-sidon-ancient-fragments-oho-ab"
@@ -16,7 +16,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἄλλα Ἀρχαῖα Ἀποσπάσματα*
 
-**Author:** Dorotheus the Astrologer of Sidon
+**Author:** Dorotheus of Sidon
 
 **eul_wid:** `oho-ab` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-ancient-fragments-oho-ab)
 

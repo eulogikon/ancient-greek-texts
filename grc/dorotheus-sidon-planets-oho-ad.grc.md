@@ -2,9 +2,9 @@
 title: Fragments on the Planets
 title_greek: Ἀποσπάσματα περὶ Πλανητῶν
 author: Dorotheus of Sidon
-eul_wid: ogk-aa
-eul_aid: ogk
-canonical: "https://eulogikon.org/works/dorotheus-sidon-planets-ogk-aa"
+eul_wid: oho-ad
+eul_aid: oho
+canonical: "https://eulogikon.org/works/dorotheus-sidon-planets-oho-ad"
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -18,7 +18,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **Author:** Dorotheus of Sidon
 
-**eul_wid:** `ogk-aa` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-planets-ogk-aa)
+**eul_wid:** `oho-ad` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-planets-oho-ad)
 
 ## Text
 
@@ -34,4 +34,4 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ## License and provenance
 
-Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: ogk-aa`.
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: oho-ad`.

@@ -20,8 +20,8 @@ Posidippus of Cassandreia, Hellenistic comic poet of the 3rd century BCE. Surviv
 ## Works
 
 - [Fragments of Apocleiomene](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-cassandreia-apocleiomene-ios-ac.grc.md) — *Ἀποσπάσματα τοῦ Ἀποκλειωμένου* · `ios-ac`
-- [Fragments on Cooks and Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.md) — *Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν* · `ios-ab`
 - [Fragments on Cooks and Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.md) — *Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν* · `ios-aa`
+- [Fragments on Cooks and Courtesans](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.md) — *Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν* · `ios-ab`
 
 ## License and provenance
 

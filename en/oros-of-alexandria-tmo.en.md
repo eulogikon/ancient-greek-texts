@@ -19,8 +19,8 @@ Oros of Alexandria was a 5th century CE grammarian. Three grammatical treatises 
 
 ## Works
 
-- [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-alexandria-attic-words-tmo-ac.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ac`
 - [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-alexandria-attic-words-tmo-ab.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ab`
+- [Collection of Attic Words](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-alexandria-attic-words-tmo-ac.grc.md) — *Συναγωγὴ Ἀττικῶν Λέξεων* · `tmo-ac`
 - [Orthography-the Unpronounced Iota](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oros-alexandria-unpronounced-iota-tmo-aa.grc.md) — *περὶ τῆς ι ἀνεκφωνήτου* · `tmo-aa`
 
 ## License and provenance

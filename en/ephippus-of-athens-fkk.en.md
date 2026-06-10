@@ -19,8 +19,8 @@ Ephippus of Athens was a 4th century BCE Attic comic poet. Surviving fragments f
 
 ## Works
 
-- [Fragments on Alexander's Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-athens-alexander-feast-fkk-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου* · `fkk-ab`
 - [Fragments on Alexander's Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-athens-alexander-feast-fkk-aa.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου* · `fkk-aa`
+- [Fragments on Alexander's Feast](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-athens-alexander-feast-fkk-ab.grc.md) — *Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου* · `fkk-ab`
 
 ## License and provenance
 

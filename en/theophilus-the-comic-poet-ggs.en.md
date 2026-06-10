@@ -19,8 +19,8 @@ Theophilus, a 4th century BCE Attic comic poet. Two surviving works of ancient G
 
 ## Works
 
-- [Comic Fragments on Dining and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-comic-dining-excess-ggs-aa.grc.md) — *Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας* · `ggs-aa`
 - [Comic Fragments on Dining and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-comic-dining-excess-ggs-ab.grc.md) — *Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας* · `ggs-ab`
+- [Comic Fragments on Dining and Excess](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-comic-dining-excess-ggs-aa.grc.md) — *Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας* · `ggs-aa`
 
 ## License and provenance
 

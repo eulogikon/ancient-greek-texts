@@ -22,22 +22,22 @@ Anonymous Greek Grammarian, a late antique Koine scholar. Twenty-two grammatical
 - [Commentary-the Anonymous Work-the Declension of Nouns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-declension-nouns-tqa-aa.grc.md) — *Περὶ κλίσεως ὀνομάτων* · `tqa-aa`
 - [Compendium of Catholic Herodian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-compendium-herodian-tqa-ad.grc.md) — *Σύνοψις Καθολικοῦ Ἡρωδιανοῦ* · `tqa-ad`
 - [Compendium of Herodian's Work-Declension of Nouns](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-herodian-declension-tqa-ab.grc.md) — *Περὶ κλίσεως* · `tqa-ab`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-as.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-as`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ar.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ar`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-at.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-at`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-al.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-al`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ao.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ao`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-aq.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-aq`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ai.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ai`
 - [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-af.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-af`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-am.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-am`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ag.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ag`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ah.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ah`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-aj.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-aj`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-an.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-an`
-- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ak.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ak`
 - [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ae.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ae`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-al.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-al`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-aq.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-aq`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ao.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ao`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-aj.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-aj`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ai.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ai`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-at.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-at`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ar.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ar`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-as.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-as`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ak.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ak`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ah.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ah`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-am.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-am`
 - [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ap.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ap`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-ag.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-ag`
+- [Grammatical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-fragment-tqa-an.grc.md) — *Γραμματικὸν Ἀπόσπασμα* · `tqa-an`
 - [On Aeolis](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-aeolis-tqa-av.grc.md) — *Περὶ Αἰολίδος* · `tqa-av`
 - [On Participles](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-participles-tqa-au.grc.md) — *Περὶ Μετοχῶν* · `tqa-au`
 - [Supplements to the Ancient Art of Dionysius](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-grammarian-ancient-art-tqa-ac.grc.md) — *Προσθήκαι εἰς τὴν Ἀρχαίαν Τέχνην τοῦ Διονυσίου* · `tqa-ac`

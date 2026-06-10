@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/chaldean-oracles-text-qpo-aa"
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Theology
-format: Prose
+format: Verse
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

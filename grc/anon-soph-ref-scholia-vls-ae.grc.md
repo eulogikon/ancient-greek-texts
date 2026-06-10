@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/anon-soph-ref-scholia-vls-ae"
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
-format: Verse
+format: Prose
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

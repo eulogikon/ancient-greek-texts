@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ag"
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
-format: Verse
+format: Prose
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

@@ -20,8 +20,8 @@ Anonymous author of Greek narrative fiction from the Hellenistic period. Three s
 ## Works
 
 - [Ninus Fragment C](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-narrative-ninus-fragment-c-oba-ac.grc.md) — *Νίνου Ἀπόσπασμα Γ* · `oba-ac`
-- [Ninus Fragments A–B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-narrative-ninus-fragments-oba-aa.grc.md) — *Νίνου Ἀποσπάσματα Α–Β* · `oba-aa`
 - [Ninus Fragments A–B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-narrative-ninus-fragments-oba-ab.grc.md) — *Νίνου Ἀποσπάσματα Α–Β* · `oba-ab`
+- [Ninus Fragments A–B](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anon-narrative-ninus-fragments-oba-aa.grc.md) — *Νίνου Ἀποσπάσματα Α–Β* · `oba-aa`
 
 ## License and provenance
 

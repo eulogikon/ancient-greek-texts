@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/theognis-megara-uncertain-fragments-bbs-
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
-format: Prose
+format: Verse
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

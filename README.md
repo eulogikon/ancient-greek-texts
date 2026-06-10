@@ -15,7 +15,7 @@ tags:
 
 # Ancient Greek Texts
 
-The surviving literary works of ancient Greece — 1,354 authors and 4,053 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+The surviving literary works of ancient Greece — 1,352 authors and 4,051 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
@@ -25,7 +25,7 @@ No logins. No fees. No paywalls. Public Domain Mark 1.0.
 
 ## What's here
 
-**1,354 authors · 4,053 works · PDF, Markdown, and plain text**
+**1,352 authors · 4,051 works · PDF, Markdown, and plain text**
 
 A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
@@ -134,7 +134,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "The surviving literary works of ancient Greece: 1,354 authors and 4,053 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
+  "description": "The surviving literary works of ancient Greece: 1,352 authors and 4,051 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",

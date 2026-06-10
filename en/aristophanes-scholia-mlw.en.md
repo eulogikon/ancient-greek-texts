@@ -19,23 +19,23 @@ Aristophanes Scholia are ancient grammatical commentaries from the Hellenistic e
 
 ## Works
 
-- [Aldine Scholia on Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ap.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ap`
 - [Argument-the Knights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-mlw-ac.grc.md) — *Προοίμιον εἰς Ἱππεῖς* · `mlw-ac`
-- [Commentary on Clouds (Ὑπόμνημα)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ag.grc.md) — *Ὑπόμνημα εἰς Νεφέλας* · `mlw-ag`
-- [Commentary on Frogs (Supplementary)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-mlw-al.grc.md) — *Ὑπόμνημα εἰς Βάτραχους* · `mlw-al`
 - [Commentary on Frogs (Ὑπόμνημα)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-mlw-ak.grc.md) — *Ὑπόμνημα εἰς Βάτραχους* · `mlw-ak`
-- [Commentary on Wealth (Supplementary)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-ai.grc.md) — *Ὑπόμνημα εἰς Πλοῦτον* · `mlw-ai`
-- [Commentary on Wealth (Ὑπόμνημα)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-ah.grc.md) — *Ὑπόμνημα εἰς Πλοῦτον* · `mlw-ah`
 - [Commentary-Birds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-mlw-aj.grc.md) — *Ὑπόμνημα εἰς Ὄρνιθας* · `mlw-aj`
+- [Commentary-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ag.grc.md) — *Ὑπόμνημα εἰς Νεφέλας* · `mlw-ag`
+- [Commentary-Frogs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-mlw-al.grc.md) — *Ὑπόμνημα εἰς Βάτραχους* · `mlw-al`
+- [Commentary-Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-ai.grc.md) — *Ὑπόμνημα εἰς Πλοῦτον* · `mlw-ai`
+- [Commentary-Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-ah.grc.md) — *Ὑπόμνημα εἰς Πλοῦτον* · `mlw-ah`
 - [Eustathius-derived Scholia on Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-aq.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-aq`
 - [Glosses-Plutus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-plutus-mlw-an.grc.md) — *Γλῶσσαι εἰς Πλοῦτον* · `mlw-an`
 - [Later Scholia on Acharnians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-mlw-ae.grc.md) — *Σχόλια εἰς Ἀχαρνῆς* · `mlw-ae`
-- [Later Scholia on Clouds (Triclinian)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ar.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ar`
 - [Old Scholia on Acharnians](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-acharnians-mlw-ad.grc.md) — *Σχόλια εἰς Ἀχαρνῆς* · `mlw-ad`
-- [Old Scholia on Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ao.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ao`
 - [Old Scholia on Frogs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-mlw-au.grc.md) — *Σχόλια εἰς Βάτραχους* · `mlw-au`
 - [Old Scholia on Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-as.grc.md) — *Σχόλια εἰς Πλοῦτον* · `mlw-as`
 - [Scholia-Birds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-mlw-at.grc.md) — *Σχόλια εἰς Ὄρνιθας* · `mlw-at`
+- [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ap.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ap`
+- [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ar.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ar`
+- [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ao.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ao`
 - [Scholia-Ecclesiazusae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.md) — *Σχόλια εἰς Ἐκκλησιάζουσας* · `mlw-ab`
 - [Scholia-Knights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-mlw-am.grc.md) — *Σχόλια εἰς Ἱππεῖς* · `mlw-am`
 - [Scholia-Lysistrata](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-lysistrata-mlw-af.grc.md) — *Σχόλια εἰς Λυσιστράτην* · `mlw-af`

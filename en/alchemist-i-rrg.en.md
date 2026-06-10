@@ -19,14 +19,14 @@ Alchemist I, a Roman era writer on chemistry and transmutation. Works include a 
 
 ## Works
 
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bw.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bw`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bq.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bq`
 - [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bs.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bs`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bt.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bt`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bw.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bw`
 - [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bu.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bu`
 - [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bx.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bx`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bv.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bv`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bq.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bq`
-- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bt.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-bt`
 - [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-br.grc.md) — *Χημικὸν Ἀπόσπασμα* · `rrg-br`
+- [Alchemical Fragment](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-fragment-rrg-bv.grc.md) — *Ἀλχημικὸν Ἀπόσπασμα* · `rrg-bv`
 - [Alchemical Lexicon](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-lexicon-rrg-cb.grc.md) — *Λεξικὸν κατὰ στοιχεῖον τῆς* · `rrg-cb`
 - [Alchemical Treatise (Recension A)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-rrg-by.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-by`
 - [Alchemical Treatise (Recension B)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i-treatise-rrg-bz.grc.md) — *Χημικὸν Σύγγραμμα* · `rrg-bz`

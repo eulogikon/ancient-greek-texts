@@ -8,7 +8,7 @@ canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-tro-am"
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
-format: Verse
+format: Prose
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 

@@ -4,11 +4,11 @@ Complete index of every author and work in this repository. This file is generat
 
 **Do not edit by hand.** Re-run the script to refresh.
 
-> **AI assistants:** start with [`llms.txt`](llms.txt) and the compact indexes [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv). Do not load this file whole — it lists every author and work (~5,404 entries).
+> **AI assistants:** start with [`llms.txt`](llms.txt) and the compact indexes [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv). Do not load this file whole — it lists every author and work (~5,403 entries).
 
 ## Counts
 
-- Authors: **1353**
+- Authors: **1352**
 - Works: **4051**
 - Domains (PDF compilations): **17**
 - Affiliations (PDF compilations): **25**
@@ -1308,7 +1308,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 - **Timocreon of Rhodes** (Τιμοκρέων ὁ Ῥόδιος) — `timocreon-of-rhodes` [`bpy`] · 1 works · [author page](en/timocreon-of-rhodes-bpy.en.md)
 - **Tyrtaeus of Sparta** (Τυρταῖος ὁ Λακεδαιμόνιος) — `tyrtaeus-of-sparta` [`ahi`] · 2 works · [author page](en/tyrtaeus-of-sparta-ahi.en.md)
 
-### Science (71 authors)
+### Science (70 authors)
 
 - **Achilles Tatius the Astronomer** (Ἀχιλλεὺς Τάτιος ὁ Ἀστρονόμος) — `achilles-tatius-the-astronomer` [`pbo`] · 1 works · [author page](en/achilles-tatius-the-astronomer-pbo.en.md)
 - **Aelian the Tactician** (Αἰλιανός ὁ Τακτικός) — `aelian-the-tactician` [`opg`] · 1 works · [author page](en/aelian-the-tactician-opg.en.md)
@@ -1341,8 +1341,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 - **Damigeron the Magus** (Δαμίγηρον ὁ Μάγος) — `damigeron-the-magus` [`uka`] · 1 works · [author page](en/damigeron-the-magus-uka.en.md)
 - **Damon the Historian** (Δάμων ὁ Ἀθηναῖος (ὁ ἐξ Οἴης)) — `damon-of-athens` [`eni`] · 2 works · [author page](en/damon-of-athens-eni.en.md)
 - **Disciple of Isidore of Miletus Anonymous** (Ἀνώνυμος Μαθητής τοῦ Ἰσιδώρου τοῦ Μιλησίου) — `disciple-of-isidore-anon` [`upk`] · 1 works · [author page](en/disciple-of-isidore-anon-upk.en.md)
-- **Dorotheus of Sidon** (Δωρόθεος ὁ Σιδώνιος) — `dorotheus-of-sidon` [`ogk`] · 1 works · [author page](en/dorotheus-of-sidon-ogk.en.md)
-- **Dorotheus the Astrologer of Sidon** (Δωρόθεος ὁ Σιδώνιος) — `dorotheus-the-astrologer` [`oho`] · 3 works · [author page](en/dorotheus-the-astrologer-oho.en.md)
+- **Dorotheus of Sidon** (Δωρόθεος ὁ Σιδώνιος) — `dorotheus-of-sidon` [`oho`] · 4 works · [author page](en/dorotheus-of-sidon-oho.en.md)
 - **Earthquakes Treatise** (Περὶ σεισμῶν πραγματεία) — `earthquakes-treatise` [`rgm`] · 1 works · [author page](en/earthquakes-treatise-rgm.en.md)
 - **Eudoxus of Cnidus** (Εὔδοξος ὁ Κνίδιος) — `eudoxus-cnidus` [`feq`] · 2 works · [author page](en/eudoxus-cnidus-feq.en.md)
 - **Eugenius the Alchemist** (Εὐγένιος ὁ Χημικός) — `eugenius-the-alchemist` [`rsa`] · 1 works · [author page](en/eugenius-the-alchemist-rsa.en.md)
@@ -1754,7 +1753,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 - Zeno of Citium (`zeno-of-citium`) · 1 works
 - Zeno of Tarsus (`zeno-of-tarsus`) · 1 works
 
-### Unaffiliated (1103 authors)
+### Unaffiliated (1102 authors)
 
 - Abydenus the Historian (`abydenus-the-historian`) · 1 works
 - Achaios of Eretria (`achaios-of-eretria`) · 1 works
@@ -2153,8 +2152,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 - Dius the Historian of Phoenicia (`dius-the-historian`) · 1 works
 - Diyllus of Athens (`diyllus-of-athens`) · 1 works
 - Dorieus of Sparta (`dorieus-of-sparta`) · 1 works
-- Dorotheus of Sidon (`dorotheus-of-sidon`) · 1 works
-- Dorotheus the Astrologer of Sidon (`dorotheus-the-astrologer`) · 3 works
+- Dorotheus of Sidon (`dorotheus-of-sidon`) · 4 works
 - Dosiadas of Crete (`dosiadas-of-crete`) · 2 works
 - Dosiadas of Cydonia (`dosiadas-of-cydonia`) · 1 works
 - Dositheus of Pelusium (`dositheus-of-pelusium`) · 1 works
@@ -2982,8 +2980,8 @@ Author files: [pdf](en/aeschines-of-athens-hbm.en.pdf) · [md](en/aeschines-of-a
 _Αἰσχίνης ὁ Σφήττιος · Classical · Attic (phi, frg) · Philosophy · Socratic_
 Author files: [pdf](en/aeschines-of-sphettus-dys.en.pdf) · [md](en/aeschines-of-sphettus-dys.en.md) · [txt](en/aeschines-of-sphettus-dys.en.txt)
 
-- **Fragments on Socrates and Education** (Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας) [`dys-aa`] — [pdf](grc/aeschines-sphettus-socrates-education-dys-aa.grc.pdf) · [md](grc/aeschines-sphettus-socrates-education-dys-aa.grc.md) · [txt](grc/aeschines-sphettus-socrates-education-dys-aa.grc.txt)
 - **Fragments on Socrates and Education** (Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας) [`dys-ab`] — [pdf](grc/aeschines-sphettus-fragments-education-dys-ab.grc.pdf) · [md](grc/aeschines-sphettus-fragments-education-dys-ab.grc.md) · [txt](grc/aeschines-sphettus-fragments-education-dys-ab.grc.txt)
+- **Fragments on Socrates and Education** (Ἀποσπάσματα περὶ Σωκράτους καὶ Παιδείας) [`dys-aa`] — [pdf](grc/aeschines-sphettus-socrates-education-dys-aa.grc.pdf) · [md](grc/aeschines-sphettus-socrates-education-dys-aa.grc.md) · [txt](grc/aeschines-sphettus-socrates-education-dys-aa.grc.txt)
 
 ### Aeschrion of Samos — `aeschrion-of-samos` [`hvc`]
 _Αἰσχρίων ὁ Σάμιος · Hellenistic · Ionic (ia, frg) · Poetry_
@@ -3004,7 +3002,6 @@ Author files: [pdf](en/aeschylus-scholia-tro.en.pdf) · [md](en/aeschylus-scholi
 
 - **Argument and Interlinear Glosses-the Persians** (Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι εἰς Πέρσας) [`tro-aa`] — [pdf](grc/aeschylus-scholia-persians-glosses-tro-aa.grc.pdf) · [md](grc/aeschylus-scholia-persians-glosses-tro-aa.grc.md) · [txt](grc/aeschylus-scholia-persians-glosses-tro-aa.grc.txt)
 - **Catalogue of Fables** (Κατάλογος Μύθων) [`tro-ak`] — [pdf](grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.pdf) · [md](grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.md) · [txt](grc/aeschylus-scholia-catalogue-fables-tro-ak.grc.txt)
-- **Later Scholia on Persians** (Σχόλια εἰς Πέρσας) [`tro-am`] — [pdf](grc/aeschylus-scholia-persians-tro-am.grc.pdf) · [md](grc/aeschylus-scholia-persians-tro-am.grc.md) · [txt](grc/aeschylus-scholia-persians-tro-am.grc.txt)
 - **Later Scholia on Prometheus Bound** (Σχόλια εἰς Προμηθέα Δεσμώτην) [`tro-af`] — [pdf](grc/aeschylus-scholia-prometheus-bound-tro-af.grc.pdf) · [md](grc/aeschylus-scholia-prometheus-bound-tro-af.grc.md) · [txt](grc/aeschylus-scholia-prometheus-bound-tro-af.grc.txt)
 - **Magister's Commentary on Persians** (Σχόλια εἰς Πέρσας) [`tro-an`] — [pdf](grc/aeschylus-scholia-persians-tro-an.grc.pdf) · [md](grc/aeschylus-scholia-persians-tro-an.grc.md) · [txt](grc/aeschylus-scholia-persians-tro-an.grc.txt)
 - **Marginal Scholia on Persians** (Σχόλια εἰς Πέρσας) [`tro-ao`] — [pdf](grc/aeschylus-scholia-persians-tro-ao.grc.pdf) · [md](grc/aeschylus-scholia-persians-tro-ao.grc.md) · [txt](grc/aeschylus-scholia-persians-tro-ao.grc.txt)
@@ -3016,6 +3013,7 @@ Author files: [pdf](en/aeschylus-scholia-tro.en.pdf) · [md](en/aeschylus-scholi
 - **Scholia on Aeschylus (Prometheus and Other Plays)** (Σχόλια εἰς Αἰσχύλον) [`tro-ai`] — [pdf](grc/aeschylus-scholia-text-tro-ai.grc.pdf) · [md](grc/aeschylus-scholia-text-tro-ai.grc.md) · [txt](grc/aeschylus-scholia-text-tro-ai.grc.txt)
 - **Scholia-Aeschylus's Meters** (Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου) [`tro-ad`] — [pdf](grc/aeschylus-scholia-meters-tro-ad.grc.pdf) · [md](grc/aeschylus-scholia-meters-tro-ad.grc.md) · [txt](grc/aeschylus-scholia-meters-tro-ad.grc.txt)
 - **Scholia-Eumenides** (Σχόλια εἰς Εὐμενίδας) [`tro-aj`] — [pdf](grc/aeschylus-scholia-eumenides-tro-aj.grc.pdf) · [md](grc/aeschylus-scholia-eumenides-tro-aj.grc.md) · [txt](grc/aeschylus-scholia-eumenides-tro-aj.grc.txt)
+- **Scholia-Persians** (Σχόλια εἰς Πέρσας) [`tro-am`] — [pdf](grc/aeschylus-scholia-persians-tro-am.grc.pdf) · [md](grc/aeschylus-scholia-persians-tro-am.grc.md) · [txt](grc/aeschylus-scholia-persians-tro-am.grc.txt)
 - **Triclinian Scholia on Aeschylus (Agamemnon)** (Σχόλια εἰς Αἰσχύλον) [`tro-ah`] — [pdf](grc/aeschylus-scholia-text-tro-ah.grc.pdf) · [md](grc/aeschylus-scholia-text-tro-ah.grc.md) · [txt](grc/aeschylus-scholia-text-tro-ah.grc.txt)
 
 ### Aeschylus the Tragedian — `aeschylus-the-tragedian` [`emo`]
@@ -3206,14 +3204,14 @@ Author files: [pdf](en/alcaeus-the-comic-poet-fim.en.pdf) · [md](en/alcaeus-the
 _Χρυσοποιὸς Αʹ · Roman · Technical Koine · Science_
 Author files: [pdf](en/alchemist-i-rrg.en.pdf) · [md](en/alchemist-i-rrg.en.md) · [txt](en/alchemist-i-rrg.en.txt)
 
-- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bw`] — [pdf](grc/alchemist-i-fragment-rrg-bw.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bw.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bw.grc.txt)
+- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bq`] — [pdf](grc/alchemist-i-fragment-rrg-bq.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bq.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bq.grc.txt)
 - **Alchemical Fragment** (Χημικὸν Ἀπόσπασμα) [`rrg-bs`] — [pdf](grc/alchemist-i-fragment-rrg-bs.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bs.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bs.grc.txt)
+- **Alchemical Fragment** (Χημικὸν Ἀπόσπασμα) [`rrg-bt`] — [pdf](grc/alchemist-i-fragment-rrg-bt.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bt.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bt.grc.txt)
+- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bw`] — [pdf](grc/alchemist-i-fragment-rrg-bw.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bw.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bw.grc.txt)
 - **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bu`] — [pdf](grc/alchemist-i-fragment-rrg-bu.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bu.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bu.grc.txt)
 - **Alchemical Fragment** (Χημικὸν Ἀπόσπασμα) [`rrg-bx`] — [pdf](grc/alchemist-i-fragment-rrg-bx.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bx.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bx.grc.txt)
-- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bv`] — [pdf](grc/alchemist-i-fragment-rrg-bv.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bv.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bv.grc.txt)
-- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bq`] — [pdf](grc/alchemist-i-fragment-rrg-bq.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bq.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bq.grc.txt)
-- **Alchemical Fragment** (Χημικὸν Ἀπόσπασμα) [`rrg-bt`] — [pdf](grc/alchemist-i-fragment-rrg-bt.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bt.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bt.grc.txt)
 - **Alchemical Fragment** (Χημικὸν Ἀπόσπασμα) [`rrg-br`] — [pdf](grc/alchemist-i-fragment-rrg-br.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-br.grc.md) · [txt](grc/alchemist-i-fragment-rrg-br.grc.txt)
+- **Alchemical Fragment** (Ἀλχημικὸν Ἀπόσπασμα) [`rrg-bv`] — [pdf](grc/alchemist-i-fragment-rrg-bv.grc.pdf) · [md](grc/alchemist-i-fragment-rrg-bv.grc.md) · [txt](grc/alchemist-i-fragment-rrg-bv.grc.txt)
 - **Alchemical Lexicon** (Λεξικὸν κατὰ στοιχεῖον τῆς) [`rrg-cb`] — [pdf](grc/alchemist-i-lexicon-rrg-cb.grc.pdf) · [md](grc/alchemist-i-lexicon-rrg-cb.grc.md) · [txt](grc/alchemist-i-lexicon-rrg-cb.grc.txt)
 - **Alchemical Treatise (Recension A)** (Χημικὸν Σύγγραμμα) [`rrg-by`] — [pdf](grc/alchemist-i-treatise-rrg-by.grc.pdf) · [md](grc/alchemist-i-treatise-rrg-by.grc.md) · [txt](grc/alchemist-i-treatise-rrg-by.grc.txt)
 - **Alchemical Treatise (Recension B)** (Χημικὸν Σύγγραμμα) [`rrg-bz`] — [pdf](grc/alchemist-i-treatise-rrg-bz.grc.pdf) · [md](grc/alchemist-i-treatise-rrg-bz.grc.md) · [txt](grc/alchemist-i-treatise-rrg-bz.grc.txt)
@@ -4102,9 +4100,9 @@ Author files: [pdf](en/aratus-lives-iru.en.pdf) · [md](en/aratus-lives-iru.en.m
 - **Introduction to Aratus,-Interpretation** (Περὶ ἐξηγήσεως) [`iru-ad`] — [pdf](grc/aratus-introduction-iru-ad.grc.pdf) · [md](grc/aratus-introduction-iru-ad.grc.md) · [txt](grc/aratus-introduction-iru-ad.grc.txt)
 - **Letter to Julian** (Πρὸς Ἰουλιανὸν ἐπιστολή) [`iru-aa`] — [pdf](grc/aratus-letter-to-julian-iru-aa.grc.pdf) · [md](grc/aratus-letter-to-julian-iru-aa.grc.md) · [txt](grc/aratus-letter-to-julian-iru-aa.grc.txt)
 - **Life of Aratus** (Βίος Ἀράτου) [`iru-aj`] — [pdf](grc/aratus-life-iru-aj.grc.pdf) · [md](grc/aratus-life-iru-aj.grc.md) · [txt](grc/aratus-life-iru-aj.grc.txt)
-- **Life of Aratus** (Βίος Ἀράτου) [`iru-ak`] — [pdf](grc/aratus-life-iru-ak.grc.pdf) · [md](grc/aratus-life-iru-ak.grc.md) · [txt](grc/aratus-life-iru-ak.grc.txt)
 - **Life of Aratus** (Βίος Ἀράτου) [`iru-ab`] — [pdf](grc/aratus-life-iru-ab.grc.pdf) · [md](grc/aratus-life-iru-ab.grc.md) · [txt](grc/aratus-life-iru-ab.grc.txt)
 - **Life of Aratus** (Βίος Ἄρατου) [`iru-al`] — [pdf](grc/aratus-life-iru-al.grc.pdf) · [md](grc/aratus-life-iru-al.grc.md) · [txt](grc/aratus-life-iru-al.grc.txt)
+- **Life of Aratus** (Βίος Ἀράτου) [`iru-ak`] — [pdf](grc/aratus-life-iru-ak.grc.pdf) · [md](grc/aratus-life-iru-ak.grc.md) · [txt](grc/aratus-life-iru-ak.grc.txt)
 - **On the Zodiac** (Περὶ τοῦ Ζῳδιακοῦ) [`iru-am`] — [pdf](grc/aratus-zodiac-iru-am.grc.pdf) · [md](grc/aratus-zodiac-iru-am.grc.md) · [txt](grc/aratus-zodiac-iru-am.grc.txt)
 - **Phenomena** (Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου) [`iru-ac`] — [pdf](grc/aratus-phenomena-iru-ac.grc.pdf) · [md](grc/aratus-phenomena-iru-ac.grc.md) · [txt](grc/aratus-phenomena-iru-ac.grc.txt)
 - **Prooemium to Aratus' Phenomena** (Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου) [`iru-ag`] — [pdf](grc/aratus-prooemium-phenomena-iru-ag.grc.pdf) · [md](grc/aratus-prooemium-phenomena-iru-ag.grc.md) · [txt](grc/aratus-prooemium-phenomena-iru-ag.grc.txt)
@@ -4130,12 +4128,12 @@ Author files: [pdf](en/aratus-of-soli-hte.en.pdf) · [md](en/aratus-of-soli-hte.
 _Ἄρατου Σχόλια · Hellenistic · Technical Koine · Grammar_
 Author files: [pdf](en/aratus-scholia-ngq.en.pdf) · [md](en/aratus-scholia-ngq.en.md) · [txt](en/aratus-scholia-ngq.en.txt)
 
-- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-aa`] — [pdf](grc/aratus-scholia-text-ngq-aa.grc.pdf) · [md](grc/aratus-scholia-text-ngq-aa.grc.md) · [txt](grc/aratus-scholia-text-ngq-aa.grc.txt)
-- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ab`] — [pdf](grc/aratus-scholia-text-ngq-ab.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ab.grc.md) · [txt](grc/aratus-scholia-text-ngq-ab.grc.txt)
-- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-af`] — [pdf](grc/aratus-scholia-text-ngq-af.grc.pdf) · [md](grc/aratus-scholia-text-ngq-af.grc.md) · [txt](grc/aratus-scholia-text-ngq-af.grc.txt)
-- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ae`] — [pdf](grc/aratus-scholia-text-ngq-ae.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ae.grc.md) · [txt](grc/aratus-scholia-text-ngq-ae.grc.txt)
 - **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ac`] — [pdf](grc/aratus-scholia-text-ngq-ac.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ac.grc.md) · [txt](grc/aratus-scholia-text-ngq-ac.grc.txt)
+- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-af`] — [pdf](grc/aratus-scholia-text-ngq-af.grc.pdf) · [md](grc/aratus-scholia-text-ngq-af.grc.md) · [txt](grc/aratus-scholia-text-ngq-af.grc.txt)
 - **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ad`] — [pdf](grc/aratus-scholia-text-ngq-ad.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ad.grc.md) · [txt](grc/aratus-scholia-text-ngq-ad.grc.txt)
+- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ae`] — [pdf](grc/aratus-scholia-text-ngq-ae.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ae.grc.md) · [txt](grc/aratus-scholia-text-ngq-ae.grc.txt)
+- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-ab`] — [pdf](grc/aratus-scholia-text-ngq-ab.grc.pdf) · [md](grc/aratus-scholia-text-ngq-ab.grc.md) · [txt](grc/aratus-scholia-text-ngq-ab.grc.txt)
+- **Scholia-Aratus** (Σχόλια εἰς Ἄρατον) [`ngq-aa`] — [pdf](grc/aratus-scholia-text-ngq-aa.grc.pdf) · [md](grc/aratus-scholia-text-ngq-aa.grc.md) · [txt](grc/aratus-scholia-text-ngq-aa.grc.txt)
 
 ### Arcadius of Antioch the Grammarian — `arcadius-of-antioch` [`qke`]
 _Ἀρκάδιος ὁ Ἀντιοχεύς, γραμματικός · Roman · Technical Koine · Grammar_
@@ -4165,8 +4163,8 @@ Author files: [pdf](en/archedemus-of-tarsus-mnk.en.pdf) · [md](en/archedemus-of
 _Ἀρχέδικος · Hellenistic · Attic Comedy · Comedy_
 Author files: [pdf](en/archedicus-the-comic-poet-hrg.en.pdf) · [md](en/archedicus-the-comic-poet-hrg.en.md) · [txt](en/archedicus-the-comic-poet-hrg.en.txt)
 
-- **Miser's Dinner Party** (Ἀποσπάσματα) [`hrg-ab`] — [pdf](grc/archedicus-misers-dinner-party-hrg-ab.grc.pdf) · [md](grc/archedicus-misers-dinner-party-hrg-ab.grc.md) · [txt](grc/archedicus-misers-dinner-party-hrg-ab.grc.txt)
 - **Miser's Dinner Party** (Ἀποσπάσματα) [`hrg-aa`] — [pdf](grc/archedicus-misers-dinner-party-hrg-aa.grc.pdf) · [md](grc/archedicus-misers-dinner-party-hrg-aa.grc.md) · [txt](grc/archedicus-misers-dinner-party-hrg-aa.grc.txt)
+- **Miser's Dinner Party** (Ἀποσπάσματα) [`hrg-ab`] — [pdf](grc/archedicus-misers-dinner-party-hrg-ab.grc.pdf) · [md](grc/archedicus-misers-dinner-party-hrg-ab.grc.md) · [txt](grc/archedicus-misers-dinner-party-hrg-ab.grc.txt)
 
 ### Archelaus of Chersonesus in Egypt — `archelaus-of-chersonesus` [`jcy`]
 _Ἀρχέλαος ὁ Χερσονησίτης · Hellenistic · Koine · History_
@@ -4602,23 +4600,23 @@ Author files: [pdf](en/aristophanes-of-byzantium-klo.en.pdf) · [md](en/aristoph
 _Ἀριστοφάνους Σχόλια · Hellenistic · Technical Koine · Grammar_
 Author files: [pdf](en/aristophanes-scholia-mlw.en.pdf) · [md](en/aristophanes-scholia-mlw.en.md) · [txt](en/aristophanes-scholia-mlw.en.txt)
 
-- **Aldine Scholia on Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-ap`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ap.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ap.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ap.grc.txt)
 - **Argument-the Knights** (Προοίμιον εἰς Ἱππεῖς) [`mlw-ac`] — [pdf](grc/aristophanes-scholia-knights-mlw-ac.grc.pdf) · [md](grc/aristophanes-scholia-knights-mlw-ac.grc.md) · [txt](grc/aristophanes-scholia-knights-mlw-ac.grc.txt)
-- **Commentary on Clouds (Ὑπόμνημα)** (Ὑπόμνημα εἰς Νεφέλας) [`mlw-ag`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ag.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ag.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ag.grc.txt)
-- **Commentary on Frogs (Supplementary)** (Ὑπόμνημα εἰς Βάτραχους) [`mlw-al`] — [pdf](grc/aristophanes-scholia-frogs-mlw-al.grc.pdf) · [md](grc/aristophanes-scholia-frogs-mlw-al.grc.md) · [txt](grc/aristophanes-scholia-frogs-mlw-al.grc.txt)
 - **Commentary on Frogs (Ὑπόμνημα)** (Ὑπόμνημα εἰς Βάτραχους) [`mlw-ak`] — [pdf](grc/aristophanes-scholia-frogs-mlw-ak.grc.pdf) · [md](grc/aristophanes-scholia-frogs-mlw-ak.grc.md) · [txt](grc/aristophanes-scholia-frogs-mlw-ak.grc.txt)
-- **Commentary on Wealth (Supplementary)** (Ὑπόμνημα εἰς Πλοῦτον) [`mlw-ai`] — [pdf](grc/aristophanes-scholia-wealth-mlw-ai.grc.pdf) · [md](grc/aristophanes-scholia-wealth-mlw-ai.grc.md) · [txt](grc/aristophanes-scholia-wealth-mlw-ai.grc.txt)
-- **Commentary on Wealth (Ὑπόμνημα)** (Ὑπόμνημα εἰς Πλοῦτον) [`mlw-ah`] — [pdf](grc/aristophanes-scholia-wealth-mlw-ah.grc.pdf) · [md](grc/aristophanes-scholia-wealth-mlw-ah.grc.md) · [txt](grc/aristophanes-scholia-wealth-mlw-ah.grc.txt)
 - **Commentary-Birds** (Ὑπόμνημα εἰς Ὄρνιθας) [`mlw-aj`] — [pdf](grc/aristophanes-scholia-birds-mlw-aj.grc.pdf) · [md](grc/aristophanes-scholia-birds-mlw-aj.grc.md) · [txt](grc/aristophanes-scholia-birds-mlw-aj.grc.txt)
+- **Commentary-Clouds** (Ὑπόμνημα εἰς Νεφέλας) [`mlw-ag`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ag.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ag.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ag.grc.txt)
+- **Commentary-Frogs** (Ὑπόμνημα εἰς Βάτραχους) [`mlw-al`] — [pdf](grc/aristophanes-scholia-frogs-mlw-al.grc.pdf) · [md](grc/aristophanes-scholia-frogs-mlw-al.grc.md) · [txt](grc/aristophanes-scholia-frogs-mlw-al.grc.txt)
+- **Commentary-Wealth** (Ὑπόμνημα εἰς Πλοῦτον) [`mlw-ai`] — [pdf](grc/aristophanes-scholia-wealth-mlw-ai.grc.pdf) · [md](grc/aristophanes-scholia-wealth-mlw-ai.grc.md) · [txt](grc/aristophanes-scholia-wealth-mlw-ai.grc.txt)
+- **Commentary-Wealth** (Ὑπόμνημα εἰς Πλοῦτον) [`mlw-ah`] — [pdf](grc/aristophanes-scholia-wealth-mlw-ah.grc.pdf) · [md](grc/aristophanes-scholia-wealth-mlw-ah.grc.md) · [txt](grc/aristophanes-scholia-wealth-mlw-ah.grc.txt)
 - **Eustathius-derived Scholia on Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-aq`] — [pdf](grc/aristophanes-scholia-clouds-mlw-aq.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-aq.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-aq.grc.txt)
 - **Glosses-Plutus** (Γλῶσσαι εἰς Πλοῦτον) [`mlw-an`] — [pdf](grc/aristophanes-scholia-plutus-mlw-an.grc.pdf) · [md](grc/aristophanes-scholia-plutus-mlw-an.grc.md) · [txt](grc/aristophanes-scholia-plutus-mlw-an.grc.txt)
 - **Later Scholia on Acharnians** (Σχόλια εἰς Ἀχαρνῆς) [`mlw-ae`] — [pdf](grc/aristophanes-scholia-acharnians-mlw-ae.grc.pdf) · [md](grc/aristophanes-scholia-acharnians-mlw-ae.grc.md) · [txt](grc/aristophanes-scholia-acharnians-mlw-ae.grc.txt)
-- **Later Scholia on Clouds (Triclinian)** (Σχόλια εἰς Νεφέλας) [`mlw-ar`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ar.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ar.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ar.grc.txt)
 - **Old Scholia on Acharnians** (Σχόλια εἰς Ἀχαρνῆς) [`mlw-ad`] — [pdf](grc/aristophanes-scholia-acharnians-mlw-ad.grc.pdf) · [md](grc/aristophanes-scholia-acharnians-mlw-ad.grc.md) · [txt](grc/aristophanes-scholia-acharnians-mlw-ad.grc.txt)
-- **Old Scholia on Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-ao`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ao.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ao.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ao.grc.txt)
 - **Old Scholia on Frogs** (Σχόλια εἰς Βάτραχους) [`mlw-au`] — [pdf](grc/aristophanes-scholia-frogs-mlw-au.grc.pdf) · [md](grc/aristophanes-scholia-frogs-mlw-au.grc.md) · [txt](grc/aristophanes-scholia-frogs-mlw-au.grc.txt)
 - **Old Scholia on Wealth** (Σχόλια εἰς Πλοῦτον) [`mlw-as`] — [pdf](grc/aristophanes-scholia-wealth-mlw-as.grc.pdf) · [md](grc/aristophanes-scholia-wealth-mlw-as.grc.md) · [txt](grc/aristophanes-scholia-wealth-mlw-as.grc.txt)
 - **Scholia-Birds** (Σχόλια εἰς Ὄρνιθας) [`mlw-at`] — [pdf](grc/aristophanes-scholia-birds-mlw-at.grc.pdf) · [md](grc/aristophanes-scholia-birds-mlw-at.grc.md) · [txt](grc/aristophanes-scholia-birds-mlw-at.grc.txt)
+- **Scholia-Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-ap`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ap.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ap.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ap.grc.txt)
+- **Scholia-Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-ar`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ar.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ar.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ar.grc.txt)
+- **Scholia-Clouds** (Σχόλια εἰς Νεφέλας) [`mlw-ao`] — [pdf](grc/aristophanes-scholia-clouds-mlw-ao.grc.pdf) · [md](grc/aristophanes-scholia-clouds-mlw-ao.grc.md) · [txt](grc/aristophanes-scholia-clouds-mlw-ao.grc.txt)
 - **Scholia-Ecclesiazusae** (Σχόλια εἰς Ἐκκλησιάζουσας) [`mlw-ab`] — [pdf](grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.pdf) · [md](grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.md) · [txt](grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.txt)
 - **Scholia-Knights** (Σχόλια εἰς Ἱππεῖς) [`mlw-am`] — [pdf](grc/aristophanes-scholia-knights-mlw-am.grc.pdf) · [md](grc/aristophanes-scholia-knights-mlw-am.grc.md) · [txt](grc/aristophanes-scholia-knights-mlw-am.grc.txt)
 - **Scholia-Lysistrata** (Σχόλια εἰς Λυσιστράτην) [`mlw-af`] — [pdf](grc/aristophanes-scholia-lysistrata-mlw-af.grc.pdf) · [md](grc/aristophanes-scholia-lysistrata-mlw-af.grc.md) · [txt](grc/aristophanes-scholia-lysistrata-mlw-af.grc.txt)
@@ -4958,8 +4956,8 @@ Author files: [pdf](en/autesion-the-historian-ero.en.pdf) · [md](en/autesion-th
 _Αὐτοκράτης ὁ κωμικός · Classical · Attic Comedy · Comedy_
 Author files: [pdf](en/autocrates-the-comic-poet-gzo.en.pdf) · [md](en/autocrates-the-comic-poet-gzo.en.md) · [txt](en/autocrates-the-comic-poet-gzo.en.txt)
 
-- **Fragments on Lydian Maidens** (Ἀποσπάσματα περὶ Λυδῶν Κορῶν) [`gzo-ab`] — [pdf](grc/autocrates-lydian-maidens-gzo-ab.grc.pdf) · [md](grc/autocrates-lydian-maidens-gzo-ab.grc.md) · [txt](grc/autocrates-lydian-maidens-gzo-ab.grc.txt)
 - **Fragments on Lydian Maidens** (Ἀποσπάσματα περὶ Λυδῶν Κορῶν) [`gzo-aa`] — [pdf](grc/autocrates-lydian-maidens-gzo-aa.grc.pdf) · [md](grc/autocrates-lydian-maidens-gzo-aa.grc.md) · [txt](grc/autocrates-lydian-maidens-gzo-aa.grc.txt)
+- **Fragments on Lydian Maidens** (Ἀποσπάσματα περὶ Λυδῶν Κορῶν) [`gzo-ab`] — [pdf](grc/autocrates-lydian-maidens-gzo-ab.grc.pdf) · [md](grc/autocrates-lydian-maidens-gzo-ab.grc.md) · [txt](grc/autocrates-lydian-maidens-gzo-ab.grc.txt)
 
 ### Autocrates the Historian — `autocrates-the-historian` [`knw`]
 _Αὐτοκράτης ὁ Ἱστορικός · Hellenistic · Koine (frg) · History_
@@ -5247,8 +5245,8 @@ Author files: [pdf](en/callimachus-scholia-vmw.en.pdf) · [md](en/callimachus-sc
 - **Scholia on the Hymns (Continuous)** (σχόλια εἰς ὕμνους) [`vmw-au`] — [pdf](grc/callimachus-scholia-hymns-vmw-au.grc.pdf) · [md](grc/callimachus-scholia-hymns-vmw-au.grc.md) · [txt](grc/callimachus-scholia-hymns-vmw-au.grc.txt)
 - **Scholia on the Hymns (Marginal)** (Σχόλια εἰς Ὕμνους) [`vmw-av`] — [pdf](grc/callimachus-scholia-hymns-vmw-av.grc.pdf) · [md](grc/callimachus-scholia-hymns-vmw-av.grc.md) · [txt](grc/callimachus-scholia-hymns-vmw-av.grc.txt)
 - **Scholia-Aetia** (Σχόλια εἰς Αἴτια) [`vmw-at`] — [pdf](grc/callimachus-scholia-aetia-vmw-at.grc.pdf) · [md](grc/callimachus-scholia-aetia-vmw-at.grc.md) · [txt](grc/callimachus-scholia-aetia-vmw-at.grc.txt)
-- **Scholia-Aetia I** (Σχόλια εἰς Αἴτια Α') [`vmw-aq`] — [pdf](grc/callimachus-scholia-aetia-vmw-aq.grc.pdf) · [md](grc/callimachus-scholia-aetia-vmw-aq.grc.md) · [txt](grc/callimachus-scholia-aetia-vmw-aq.grc.txt)
 - **Scholia-Aetia I** (Σχόλια εἰς Αἴτια Α') [`vmw-ap`] — [pdf](grc/callimachus-scholia-aetia-vmw-ap.grc.pdf) · [md](grc/callimachus-scholia-aetia-vmw-ap.grc.md) · [txt](grc/callimachus-scholia-aetia-vmw-ap.grc.txt)
+- **Scholia-Aetia I** (Σχόλια εἰς Αἴτια Α') [`vmw-aq`] — [pdf](grc/callimachus-scholia-aetia-vmw-aq.grc.pdf) · [md](grc/callimachus-scholia-aetia-vmw-aq.grc.md) · [txt](grc/callimachus-scholia-aetia-vmw-aq.grc.txt)
 - **Scholia-Aetia I** (Σχόλια εἰς Αἴτια Α') [`vmw-ao`] — [pdf](grc/callimachus-scholia-aetia-vmw-ao.grc.pdf) · [md](grc/callimachus-scholia-aetia-vmw-ao.grc.md) · [txt](grc/callimachus-scholia-aetia-vmw-ao.grc.txt)
 - **Scholia-Hymns II and III** (Σχόλια εἰς Ὕμνους Β΄ καὶ Γ΄) [`vmw-ah`] — [pdf](grc/callimachus-scholia-hymns-ii-iii-vmw-ah.grc.pdf) · [md](grc/callimachus-scholia-hymns-ii-iii-vmw-ah.grc.md) · [txt](grc/callimachus-scholia-hymns-ii-iii-vmw-ah.grc.txt)
 - **Scholia-Lyric Poems** (Σχόλια εἰς Λυρικὰ Ποιήματα) [`vmw-ai`] — [pdf](grc/callimachus-scholia-lyric-poems-vmw-ai.grc.pdf) · [md](grc/callimachus-scholia-lyric-poems-vmw-ai.grc.md) · [txt](grc/callimachus-scholia-lyric-poems-vmw-ai.grc.txt)
@@ -5442,8 +5440,8 @@ Author files: [pdf](en/charax-of-pergamum-qiq.en.pdf) · [md](en/charax-of-perga
 _Χάρης ὁ Μυτιληναῖος · Classical · Attic (frg) · Philosophy_
 Author files: [pdf](en/chares-of-mytilene-hfs.en.pdf) · [md](en/chares-of-mytilene-hfs.en.md) · [txt](en/chares-of-mytilene-hfs.en.txt)
 
-- **Sentences** (Γνῶμαι) [`hfs-aa`] — [pdf](grc/chares-mytilene-sentences-hfs-aa.grc.pdf) · [md](grc/chares-mytilene-sentences-hfs-aa.grc.md) · [txt](grc/chares-mytilene-sentences-hfs-aa.grc.txt)
 - **Sentences** (Γνῶμαι) [`hfs-ab`] — [pdf](grc/chares-mytilene-text-hfs-ab.grc.pdf) · [md](grc/chares-mytilene-text-hfs-ab.grc.md) · [txt](grc/chares-mytilene-text-hfs-ab.grc.txt)
+- **Sentences** (Γνῶμαι) [`hfs-aa`] — [pdf](grc/chares-mytilene-sentences-hfs-aa.grc.pdf) · [md](grc/chares-mytilene-sentences-hfs-aa.grc.md) · [txt](grc/chares-mytilene-sentences-hfs-aa.grc.txt)
 
 ### Chariton of Aphrodisias — `chariton-of-aphrodisias` [`npw`]
 _Χαρίτων ὁ Ἀφροδισιεύς · Roman · Koine · Fiction_
@@ -5588,8 +5586,8 @@ Author files: [pdf](en/clearchus-of-soli-hki.en.pdf) · [md](en/clearchus-of-sol
 _Κλέαρχος ὁ Κωμικός · Classical · Attic (com, frg) · Comedy_
 Author files: [pdf](en/clearchus-the-comic-poet-gmw.en.pdf) · [md](en/clearchus-the-comic-poet-gmw.en.md) · [txt](en/clearchus-the-comic-poet-gmw.en.txt)
 
-- **Symposium and Drinking Fragments** (Ἀποσπάσματα) [`gmw-aa`] — [pdf](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.pdf) · [md](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.md) · [txt](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.txt)
 - **Symposium and Drinking Fragments** (Ἀποσπάσματα) [`gmw-ab`] — [pdf](grc/clearchus-comic-symposium-drinking-gmw-ab.grc.pdf) · [md](grc/clearchus-comic-symposium-drinking-gmw-ab.grc.md) · [txt](grc/clearchus-comic-symposium-drinking-gmw-ab.grc.txt)
+- **Symposium and Drinking Fragments** (Ἀποσπάσματα) [`gmw-aa`] — [pdf](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.pdf) · [md](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.md) · [txt](grc/clearchus-comic-symposium-drinking-gmw-aa.grc.txt)
 
 ### Cleidemus of Athens I — `cleidemus-of-athens` [`dfc`]
 _Κλείδημος ὁ Ἀθηναῖος · Classical · Attic (frg) · Philosophy_
@@ -6032,8 +6030,8 @@ Author files: [pdf](en/damon-of-athens-bzy.en.pdf) · [md](en/damon-of-athens-bz
 _Δαμόξενoς ὁ κωμικός · Hellenistic · Attic (com, frg) · Comedy_
 Author files: [pdf](en/damoxenus-the-comic-poet-jag.en.pdf) · [md](en/damoxenus-the-comic-poet-jag.en.md) · [txt](en/damoxenus-the-comic-poet-jag.en.txt)
 
-- **Fragments on Cookery and Philosophy** (Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας) [`jag-ab`] — [pdf](grc/damoxenus-cookery-philosophy-jag-ab.grc.pdf) · [md](grc/damoxenus-cookery-philosophy-jag-ab.grc.md) · [txt](grc/damoxenus-cookery-philosophy-jag-ab.grc.txt)
 - **Fragments on Cookery and Philosophy** (Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας) [`jag-aa`] — [pdf](grc/damoxenus-cookery-philosophy-jag-aa.grc.pdf) · [md](grc/damoxenus-cookery-philosophy-jag-aa.grc.md) · [txt](grc/damoxenus-cookery-philosophy-jag-aa.grc.txt)
+- **Fragments on Cookery and Philosophy** (Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας) [`jag-ab`] — [pdf](grc/damoxenus-cookery-philosophy-jag-ab.grc.pdf) · [md](grc/damoxenus-cookery-philosophy-jag-ab.grc.md) · [txt](grc/damoxenus-cookery-philosophy-jag-ab.grc.txt)
 
 ### David the Invincible — `david-the-invincible` [`vcm`]
 _Δαβίδ ὁ Ἀνίκητος · Late Antique · Philosophical Koine · Philosophy · Neoplatonist_
@@ -6390,8 +6388,8 @@ Author files: [pdf](en/dio-chrysostom-of-prusa-okq.en.pdf) · [md](en/dio-chryso
 _Διοκλῆς ὁ Κωμικός · Classical · Attic (com, frg) · Comedy_
 Author files: [pdf](en/diocles-comicus-dam.en.pdf) · [md](en/diocles-comicus-dam.en.md) · [txt](en/diocles-comicus-dam.en.txt)
 
-- **Domestic Comedy Fragments** (Ἀποσπάσματα) [`dam-aa`] — [pdf](grc/diocles-domestic-comedy-dam-aa.grc.pdf) · [md](grc/diocles-domestic-comedy-dam-aa.grc.md) · [txt](grc/diocles-domestic-comedy-dam-aa.grc.txt)
 - **Domestic Comedy Fragments** (Ἀποσπάσματα) [`dam-ab`] — [pdf](grc/diocles-domestic-comedy-dam-ab.grc.pdf) · [md](grc/diocles-domestic-comedy-dam-ab.grc.md) · [txt](grc/diocles-domestic-comedy-dam-ab.grc.txt)
+- **Domestic Comedy Fragments** (Ἀποσπάσματα) [`dam-aa`] — [pdf](grc/diocles-domestic-comedy-dam-aa.grc.pdf) · [md](grc/diocles-domestic-comedy-dam-aa.grc.md) · [txt](grc/diocles-domestic-comedy-dam-aa.grc.txt)
 
 ### Diodorus of Sardis — `diodorus-of-sardis` [`nji`]
 _Διόδωρος ὁ Σαρδιανός · Hellenistic · Koine · Oratory_
@@ -6743,17 +6741,12 @@ Author files: [pdf](en/dorieus-of-sparta-ahs.en.pdf) · [md](en/dorieus-of-spart
 
 - **Epigram** (Ἐπίγραμμα) [`ahs-aa`] — [pdf](grc/dorieus-sparta-epigram-ahs-aa.grc.pdf) · [md](grc/dorieus-sparta-epigram-ahs-aa.grc.md) · [txt](grc/dorieus-sparta-epigram-ahs-aa.grc.txt)
 
-### Dorotheus of Sidon — `dorotheus-of-sidon` [`ogk`]
+### Dorotheus of Sidon — `dorotheus-of-sidon` [`oho`]
 _Δωρόθεος ὁ Σιδώνιος · Roman · Technical Koine · Science_
-Author files: [pdf](en/dorotheus-of-sidon-ogk.en.pdf) · [md](en/dorotheus-of-sidon-ogk.en.md) · [txt](en/dorotheus-of-sidon-ogk.en.txt)
-
-- **Fragments on the Planets** (Ἀποσπάσματα περὶ Πλανητῶν) [`ogk-aa`] — [pdf](grc/dorotheus-sidon-planets-ogk-aa.grc.pdf) · [md](grc/dorotheus-sidon-planets-ogk-aa.grc.md) · [txt](grc/dorotheus-sidon-planets-ogk-aa.grc.txt)
-
-### Dorotheus the Astrologer of Sidon — `dorotheus-the-astrologer` [`oho`]
-_Δωρόθεος ὁ Σιδώνιος · Roman · Technical Koine · Science_
-Author files: [pdf](en/dorotheus-the-astrologer-oho.en.pdf) · [md](en/dorotheus-the-astrologer-oho.en.md) · [txt](en/dorotheus-the-astrologer-oho.en.txt)
+Author files: [pdf](en/dorotheus-of-sidon-oho.en.pdf) · [md](en/dorotheus-of-sidon-oho.en.md) · [txt](en/dorotheus-of-sidon-oho.en.txt)
 
 - **Fragments Drawn from Hephaestion's Apotelesmatica** (Ἀποτελεσματικῶν) [`oho-aa`] — [pdf](grc/dorotheus-sidon-hephaestion-fragments-oho-aa.grc.pdf) · [md](grc/dorotheus-sidon-hephaestion-fragments-oho-aa.grc.md) · [txt](grc/dorotheus-sidon-hephaestion-fragments-oho-aa.grc.txt)
+- **Fragments on the Planets** (Ἀποσπάσματα περὶ Πλανητῶν) [`oho-ad`] — [pdf](grc/dorotheus-sidon-planets-oho-ad.grc.pdf) · [md](grc/dorotheus-sidon-planets-oho-ad.grc.md) · [txt](grc/dorotheus-sidon-planets-oho-ad.grc.txt)
 - **Greek Fragments** (Ἑλληνικὰ Ἀποσπάσματα) [`oho-ac`] — [pdf](grc/dorotheus-sidon-fragments-oho-ac.grc.pdf) · [md](grc/dorotheus-sidon-fragments-oho-ac.grc.md) · [txt](grc/dorotheus-sidon-fragments-oho-ac.grc.txt)
 - **Other Ancient Fragments** (Ἄλλα Ἀρχαῖα Ἀποσπάσματα) [`oho-ab`] — [pdf](grc/dorotheus-sidon-ancient-fragments-oho-ab.grc.pdf) · [md](grc/dorotheus-sidon-ancient-fragments-oho-ab.grc.md) · [txt](grc/dorotheus-sidon-ancient-fragments-oho-ab.grc.txt)
 
@@ -6859,8 +6852,8 @@ Author files: [pdf](en/eparchides-of-oineis-cmq.en.pdf) · [md](en/eparchides-of
 _Ἔφιππος ὁ Ἀθηναῖος · Classical · Attic (com, frg) · Comedy_
 Author files: [pdf](en/ephippus-of-athens-fkk.en.pdf) · [md](en/ephippus-of-athens-fkk.en.md) · [txt](en/ephippus-of-athens-fkk.en.txt)
 
-- **Fragments on Alexander's Feast** (Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου) [`fkk-ab`] — [pdf](grc/ephippus-athens-alexander-feast-fkk-ab.grc.pdf) · [md](grc/ephippus-athens-alexander-feast-fkk-ab.grc.md) · [txt](grc/ephippus-athens-alexander-feast-fkk-ab.grc.txt)
 - **Fragments on Alexander's Feast** (Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου) [`fkk-aa`] — [pdf](grc/ephippus-athens-alexander-feast-fkk-aa.grc.pdf) · [md](grc/ephippus-athens-alexander-feast-fkk-aa.grc.md) · [txt](grc/ephippus-athens-alexander-feast-fkk-aa.grc.txt)
+- **Fragments on Alexander's Feast** (Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου) [`fkk-ab`] — [pdf](grc/ephippus-athens-alexander-feast-fkk-ab.grc.pdf) · [md](grc/ephippus-athens-alexander-feast-fkk-ab.grc.md) · [txt](grc/ephippus-athens-alexander-feast-fkk-ab.grc.txt)
 
 ### Ephorus of Cyme — `ephorus-of-cyme` [`fbe`]
 _Ἔφορος ὁ Κυμαῖος · Classical · Attic · History_
@@ -6897,8 +6890,8 @@ Author files: [pdf](en/epic-work-anon-kjq.en.pdf) · [md](en/epic-work-anon-kjq.
 - **encom-Heraclius the Leader** (Ἐγκώμιον εἰς Ἡράκλειον τὸν ἡγεμόνα) [`kjq-ad`] — [pdf](grc/epic-anon-heraclius-leader-kjq-ad.grc.pdf) · [md](grc/epic-anon-heraclius-leader-kjq-ad.grc.md) · [txt](grc/epic-anon-heraclius-leader-kjq-ad.grc.txt)
 - **encom-the Roman Leader** (Ἐγκώμιον εἰς τὸν Ῥωμαῖον ἡγεμόνα) [`kjq-af`] — [pdf](grc/epic-anon-roman-leader-kjq-af.grc.pdf) · [md](grc/epic-anon-roman-leader-kjq-af.grc.md) · [txt](grc/epic-anon-roman-leader-kjq-af.grc.txt)
 - **Epic Fragment** (Ἐπικὸν Ἀπόσπασμα) [`kjq-ap`] — [pdf](grc/epic-anon-fragment-kjq-ap.grc.pdf) · [md](grc/epic-anon-fragment-kjq-ap.grc.md) · [txt](grc/epic-anon-fragment-kjq-ap.grc.txt)
-- **Ethopoeic Exercise** (Ἠθοποιία) [`kjq-al`] — [pdf](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.pdf) · [md](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md) · [txt](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.txt)
 - **Ethopoeic Exercise** (Ἠθοποιία) [`kjq-am`] — [pdf](grc/epic-anon-ethopoeia-kjq-am.grc.pdf) · [md](grc/epic-anon-ethopoeia-kjq-am.grc.md) · [txt](grc/epic-anon-ethopoeia-kjq-am.grc.txt)
+- **Ethopoeic Exercise** (Ἠθοποιία) [`kjq-al`] — [pdf](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.pdf) · [md](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.md) · [txt](grc/epic-anon-ethopoeic-exercise-kjq-al.grc.txt)
 - **Ethopoeic Exercises** (Ἠθοποιίαι) [`kjq-ak`] — [pdf](grc/epic-anon-ethopoeia-kjq-ak.grc.pdf) · [md](grc/epic-anon-ethopoeia-kjq-ak.grc.md) · [txt](grc/epic-anon-ethopoeia-kjq-ak.grc.txt)
 - **Historical Epic Fragment A** (Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα) [`kjq-ag`] — [pdf](grc/epic-anon-historical-fragment-kjq-ag.grc.pdf) · [md](grc/epic-anon-historical-fragment-kjq-ag.grc.md) · [txt](grc/epic-anon-historical-fragment-kjq-ag.grc.txt)
 - **Historical Epic Fragment B** (Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα) [`kjq-ah`] — [pdf](grc/epic-anon-historical-fragment-kjq-ah.grc.pdf) · [md](grc/epic-anon-historical-fragment-kjq-ah.grc.md) · [txt](grc/epic-anon-historical-fragment-kjq-ah.grc.txt)
@@ -6929,8 +6922,8 @@ _Ἐπίχαρμος ὁ Συρακόσιος · Archaic · Doric · Comedy_
 Author files: [pdf](en/epicharmus-syracuse-bhm.en.pdf) · [md](en/epicharmus-syracuse-bhm.en.md) · [txt](en/epicharmus-syracuse-bhm.en.txt)
 
 - **Fragments of Comic Wisdom** (Ἀποσπάσματα περὶ Κωμικῆς Σοφίας) [`bhm-af`] — [pdf](grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.pdf) · [md](grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.md) · [txt](grc/epicharmus-syracuse-comic-wisdom-bhm-af.grc.txt)
-- **Fragments of Epicharmus** (Ἐπιχάρμου Ἀποσπάσματα) [`bhm-ad`] — [pdf](grc/epicharmus-syracuse-fragments-bhm-ad.grc.pdf) · [md](grc/epicharmus-syracuse-fragments-bhm-ad.grc.md) · [txt](grc/epicharmus-syracuse-fragments-bhm-ad.grc.txt)
 - **Fragments of Epicharmus** (Ἐπιχάρμου Ἀποσπάσματα) [`bhm-ac`] — [pdf](grc/epicharmus-syracuse-fragments-bhm-ac.grc.pdf) · [md](grc/epicharmus-syracuse-fragments-bhm-ac.grc.md) · [txt](grc/epicharmus-syracuse-fragments-bhm-ac.grc.txt)
+- **Fragments of Epicharmus** (Ἐπιχάρμου Ἀποσπάσματα) [`bhm-ad`] — [pdf](grc/epicharmus-syracuse-fragments-bhm-ad.grc.pdf) · [md](grc/epicharmus-syracuse-fragments-bhm-ad.grc.md) · [txt](grc/epicharmus-syracuse-fragments-bhm-ad.grc.txt)
 - **Fragments of Pseudepicharmea** (Ψευδεπιχάρμου Ἀποσπάσματα) [`bhm-ab`] — [pdf](grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.pdf) · [md](grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.md) · [txt](grc/epicharmus-syracuse-pseudepicharmea-bhm-ab.grc.txt)
 - **Fragments of Pseudepicharmea** (Ψευδεπιχάρμου Ἀποσπάσματα) [`bhm-aa`] — [pdf](grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.pdf) · [md](grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.md) · [txt](grc/epicharmus-syracuse-pseudepicharmea-bhm-aa.grc.txt)
 - **Gnomic and Comic Wisdom Fragments** (Ἀποσπάσματα) [`bhm-ag`] — [pdf](grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.pdf) · [md](grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.md) · [txt](grc/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag.grc.txt)
@@ -7620,22 +7613,22 @@ Author files: [pdf](en/greek-grammarian-anon-tqa.en.pdf) · [md](en/greek-gramma
 - **Commentary-the Anonymous Work-the Declension of Nouns** (Περὶ κλίσεως ὀνομάτων) [`tqa-aa`] — [pdf](grc/anon-grammarian-declension-nouns-tqa-aa.grc.pdf) · [md](grc/anon-grammarian-declension-nouns-tqa-aa.grc.md) · [txt](grc/anon-grammarian-declension-nouns-tqa-aa.grc.txt)
 - **Compendium of Catholic Herodian** (Σύνοψις Καθολικοῦ Ἡρωδιανοῦ) [`tqa-ad`] — [pdf](grc/anon-grammarian-compendium-herodian-tqa-ad.grc.pdf) · [md](grc/anon-grammarian-compendium-herodian-tqa-ad.grc.md) · [txt](grc/anon-grammarian-compendium-herodian-tqa-ad.grc.txt)
 - **Compendium of Herodian's Work-Declension of Nouns** (Περὶ κλίσεως) [`tqa-ab`] — [pdf](grc/anon-grammarian-herodian-declension-tqa-ab.grc.pdf) · [md](grc/anon-grammarian-herodian-declension-tqa-ab.grc.md) · [txt](grc/anon-grammarian-herodian-declension-tqa-ab.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-as`] — [pdf](grc/anon-grammarian-fragment-tqa-as.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-as.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-as.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ar`] — [pdf](grc/anon-grammarian-fragment-tqa-ar.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ar.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ar.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-at`] — [pdf](grc/anon-grammarian-fragment-tqa-at.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-at.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-at.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-al`] — [pdf](grc/anon-grammarian-fragment-tqa-al.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-al.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-al.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ao`] — [pdf](grc/anon-grammarian-fragment-tqa-ao.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ao.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ao.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-aq`] — [pdf](grc/anon-grammarian-fragment-tqa-aq.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-aq.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-aq.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ai`] — [pdf](grc/anon-grammarian-fragment-tqa-ai.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ai.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ai.grc.txt)
 - **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-af`] — [pdf](grc/anon-grammarian-fragment-tqa-af.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-af.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-af.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-am`] — [pdf](grc/anon-grammarian-fragment-tqa-am.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-am.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-am.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ag`] — [pdf](grc/anon-grammarian-fragment-tqa-ag.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ag.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ag.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ah`] — [pdf](grc/anon-grammarian-fragment-tqa-ah.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ah.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ah.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-aj`] — [pdf](grc/anon-grammarian-fragment-tqa-aj.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-aj.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-aj.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-an`] — [pdf](grc/anon-grammarian-fragment-tqa-an.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-an.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-an.grc.txt)
-- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ak`] — [pdf](grc/anon-grammarian-fragment-tqa-ak.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ak.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ak.grc.txt)
 - **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ae`] — [pdf](grc/anon-grammarian-fragment-tqa-ae.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ae.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ae.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-al`] — [pdf](grc/anon-grammarian-fragment-tqa-al.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-al.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-al.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-aq`] — [pdf](grc/anon-grammarian-fragment-tqa-aq.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-aq.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-aq.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ao`] — [pdf](grc/anon-grammarian-fragment-tqa-ao.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ao.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ao.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-aj`] — [pdf](grc/anon-grammarian-fragment-tqa-aj.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-aj.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-aj.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ai`] — [pdf](grc/anon-grammarian-fragment-tqa-ai.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ai.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ai.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-at`] — [pdf](grc/anon-grammarian-fragment-tqa-at.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-at.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-at.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ar`] — [pdf](grc/anon-grammarian-fragment-tqa-ar.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ar.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ar.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-as`] — [pdf](grc/anon-grammarian-fragment-tqa-as.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-as.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-as.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ak`] — [pdf](grc/anon-grammarian-fragment-tqa-ak.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ak.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ak.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ah`] — [pdf](grc/anon-grammarian-fragment-tqa-ah.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ah.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ah.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-am`] — [pdf](grc/anon-grammarian-fragment-tqa-am.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-am.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-am.grc.txt)
 - **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ap`] — [pdf](grc/anon-grammarian-fragment-tqa-ap.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ap.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ap.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-ag`] — [pdf](grc/anon-grammarian-fragment-tqa-ag.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-ag.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-ag.grc.txt)
+- **Grammatical Fragment** (Γραμματικὸν Ἀπόσπασμα) [`tqa-an`] — [pdf](grc/anon-grammarian-fragment-tqa-an.grc.pdf) · [md](grc/anon-grammarian-fragment-tqa-an.grc.md) · [txt](grc/anon-grammarian-fragment-tqa-an.grc.txt)
 - **On Aeolis** (Περὶ Αἰολίδος) [`tqa-av`] — [pdf](grc/anon-grammarian-aeolis-tqa-av.grc.pdf) · [md](grc/anon-grammarian-aeolis-tqa-av.grc.md) · [txt](grc/anon-grammarian-aeolis-tqa-av.grc.txt)
 - **On Participles** (Περὶ Μετοχῶν) [`tqa-au`] — [pdf](grc/anon-grammarian-participles-tqa-au.grc.pdf) · [md](grc/anon-grammarian-participles-tqa-au.grc.md) · [txt](grc/anon-grammarian-participles-tqa-au.grc.txt)
 - **Supplements to the Ancient Art of Dionysius** (Προσθήκαι εἰς τὴν Ἀρχαίαν Τέχνην τοῦ Διονυσίου) [`tqa-ac`] — [pdf](grc/anon-grammarian-ancient-art-tqa-ac.grc.pdf) · [md](grc/anon-grammarian-ancient-art-tqa-ac.grc.md) · [txt](grc/anon-grammarian-ancient-art-tqa-ac.grc.txt)
@@ -7864,8 +7857,8 @@ Author files: [pdf](en/heraclides-of-pontus-3-feg.en.pdf) · [md](en/heraclides-
 _Ἡρακλείδης ὁ Ποντικός · Classical · Attic · Comedy_
 Author files: [pdf](en/heraclides-ponticus-4-fqy.en.pdf) · [md](en/heraclides-ponticus-4-fqy.en.md) · [txt](en/heraclides-ponticus-4-fqy.en.txt)
 
-- **On the Rooster of Philip** (Ἀπόσπασμα) [`fqy-aa`] — [pdf](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.pdf) · [md](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.md) · [txt](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.txt)
 - **On the Rooster of Philip** (Ἀπόσπασμα) [`fqy-ab`] — [pdf](grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.pdf) · [md](grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.md) · [txt](grc/heraclides-ponticus-rooster-philip-fqy-ab.grc.txt)
+- **On the Rooster of Philip** (Ἀπόσπασμα) [`fqy-aa`] — [pdf](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.pdf) · [md](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.md) · [txt](grc/heraclides-ponticus-rooster-philip-fqy-aa.grc.txt)
 
 ### Heraclides the Critic — `heraclides-the-critic` [`lrm`]
 _Ἡρακλείδης ὁ Κριτικός · Hellenistic · Koine · Philosophy · Pythagorean_
@@ -8693,8 +8686,8 @@ Author files: [pdf](en/iamblichus-the-novelist-qqs.en.pdf) · [md](en/iamblichus
 _Ἴβυκος ὁ Ῥηγῖνος · Archaic · Epic (Homeric) (frg) · Poetry_
 Author files: [pdf](en/ibycus-of-rhegium-asw.en.pdf) · [md](en/ibycus-of-rhegium-asw.en.md) · [txt](en/ibycus-of-rhegium-asw.en.txt)
 
-- **Fragments on the Trojan War** (Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου) [`asw-aa`] — [pdf](grc/ibycus-rhegium-trojan-war-asw-aa.grc.pdf) · [md](grc/ibycus-rhegium-trojan-war-asw-aa.grc.md) · [txt](grc/ibycus-rhegium-trojan-war-asw-aa.grc.txt)
 - **Fragments on the Trojan War** (Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου) [`asw-ab`] — [pdf](grc/ibycus-rhegium-trojan-war-asw-ab.grc.pdf) · [md](grc/ibycus-rhegium-trojan-war-asw-ab.grc.md) · [txt](grc/ibycus-rhegium-trojan-war-asw-ab.grc.txt)
+- **Fragments on the Trojan War** (Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου) [`asw-aa`] — [pdf](grc/ibycus-rhegium-trojan-war-asw-aa.grc.pdf) · [md](grc/ibycus-rhegium-trojan-war-asw-aa.grc.md) · [txt](grc/ibycus-rhegium-trojan-war-asw-aa.grc.txt)
 
 ### Iccus of Tarentum — `iccus-of-tarentum` [`bwm`]
 _Ἴκκος ὁ Ταραντῖνος · Classical · Doric · Philosophy · Pythagorean_
@@ -9012,8 +9005,8 @@ Author files: [pdf](en/lamprocles-the-athenian-bsg.en.pdf) · [md](en/lamprocles
 _Λάων ὁ κωμικός · Classical · Koine · Comedy_
 Author files: [pdf](en/laon-the-comic-poet-gmm.en.pdf) · [md](en/laon-the-comic-poet-gmm.en.md) · [txt](en/laon-the-comic-poet-gmm.en.txt)
 
-- **On Boeotia and Character** (Ἀποσπάσματα) [`gmm-ab`] — [pdf](grc/laon-comic-boeotia-character-gmm-ab.grc.pdf) · [md](grc/laon-comic-boeotia-character-gmm-ab.grc.md) · [txt](grc/laon-comic-boeotia-character-gmm-ab.grc.txt)
 - **On Boeotia and Character** (Ἀποσπάσματα) [`gmm-aa`] — [pdf](grc/laon-comic-boeotia-character-gmm-aa.grc.pdf) · [md](grc/laon-comic-boeotia-character-gmm-aa.grc.md) · [txt](grc/laon-comic-boeotia-character-gmm-aa.grc.txt)
+- **On Boeotia and Character** (Ἀποσπάσματα) [`gmm-ab`] — [pdf](grc/laon-comic-boeotia-character-gmm-ab.grc.pdf) · [md](grc/laon-comic-boeotia-character-gmm-ab.grc.md) · [txt](grc/laon-comic-boeotia-character-gmm-ab.grc.txt)
 
 ### Leo of Byzantium — `leo-of-byzantium` [`gig`]
 _Λέων ὁ Βυζάντιος · Classical · Attic (frg) · History_
@@ -10013,8 +10006,8 @@ _Ἄγνωστος [Διηγήματος] Ἔργον · Roman · Koine · Ficti
 Author files: [pdf](en/narrative-fiction-work-anon-oba.en.pdf) · [md](en/narrative-fiction-work-anon-oba.en.md) · [txt](en/narrative-fiction-work-anon-oba.en.txt)
 
 - **Ninus Fragment C** (Νίνου Ἀπόσπασμα Γ) [`oba-ac`] — [pdf](grc/anon-narrative-ninus-fragment-c-oba-ac.grc.pdf) · [md](grc/anon-narrative-ninus-fragment-c-oba-ac.grc.md) · [txt](grc/anon-narrative-ninus-fragment-c-oba-ac.grc.txt)
-- **Ninus Fragments A–B** (Νίνου Ἀποσπάσματα Α–Β) [`oba-aa`] — [pdf](grc/anon-narrative-ninus-fragments-oba-aa.grc.pdf) · [md](grc/anon-narrative-ninus-fragments-oba-aa.grc.md) · [txt](grc/anon-narrative-ninus-fragments-oba-aa.grc.txt)
 - **Ninus Fragments A–B** (Νίνου Ἀποσπάσματα Α–Β) [`oba-ab`] — [pdf](grc/anon-narrative-ninus-fragments-oba-ab.grc.pdf) · [md](grc/anon-narrative-ninus-fragments-oba-ab.grc.md) · [txt](grc/anon-narrative-ninus-fragments-oba-ab.grc.txt)
+- **Ninus Fragments A–B** (Νίνου Ἀποσπάσματα Α–Β) [`oba-aa`] — [pdf](grc/anon-narrative-ninus-fragments-oba-aa.grc.pdf) · [md](grc/anon-narrative-ninus-fragments-oba-aa.grc.md) · [txt](grc/anon-narrative-ninus-fragments-oba-aa.grc.txt)
 
 ### Naumachius the Didactic Poet — `naumachius-the-didactic-poet` [`qky`]
 _Ναυμάχιος ὁ διδακτικός · Roman · Koine · Epic_
@@ -10400,8 +10393,8 @@ Author files: [pdf](en/orion-of-thebes-tme.en.pdf) · [md](en/orion-of-thebes-tm
 _Ὦρος ὁ Ἀλεξανδρεύς · Late Antique · Attic · Grammar_
 Author files: [pdf](en/oros-of-alexandria-tmo.en.pdf) · [md](en/oros-of-alexandria-tmo.en.md) · [txt](en/oros-of-alexandria-tmo.en.txt)
 
-- **Collection of Attic Words** (Συναγωγὴ Ἀττικῶν Λέξεων) [`tmo-ac`] — [pdf](grc/oros-alexandria-attic-words-tmo-ac.grc.pdf) · [md](grc/oros-alexandria-attic-words-tmo-ac.grc.md) · [txt](grc/oros-alexandria-attic-words-tmo-ac.grc.txt)
 - **Collection of Attic Words** (Συναγωγὴ Ἀττικῶν Λέξεων) [`tmo-ab`] — [pdf](grc/oros-alexandria-attic-words-tmo-ab.grc.pdf) · [md](grc/oros-alexandria-attic-words-tmo-ab.grc.md) · [txt](grc/oros-alexandria-attic-words-tmo-ab.grc.txt)
+- **Collection of Attic Words** (Συναγωγὴ Ἀττικῶν Λέξεων) [`tmo-ac`] — [pdf](grc/oros-alexandria-attic-words-tmo-ac.grc.pdf) · [md](grc/oros-alexandria-attic-words-tmo-ac.grc.md) · [txt](grc/oros-alexandria-attic-words-tmo-ac.grc.txt)
 - **Orthography-the Unpronounced Iota** (περὶ τῆς ι ἀνεκφωνήτου) [`tmo-aa`] — [pdf](grc/oros-alexandria-unpronounced-iota-tmo-aa.grc.pdf) · [md](grc/oros-alexandria-unpronounced-iota-tmo-aa.grc.md) · [txt](grc/oros-alexandria-unpronounced-iota-tmo-aa.grc.txt)
 
 ### Orphic Poems — `orphic-poems` [`lea`]
@@ -10413,8 +10406,8 @@ Author files: [pdf](en/orphic-poems-lea.en.pdf) · [md](en/orphic-poems-lea.en.m
 - **Fragments on Medicinal Herbs** (Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν) [`lea-af`] — [pdf](grc/orphic-poems-medicinal-herbs-lea-af.grc.pdf) · [md](grc/orphic-poems-medicinal-herbs-lea-af.grc.md) · [txt](grc/orphic-poems-medicinal-herbs-lea-af.grc.txt)
 - **Fragments P. Derveni** (Ἀποσπάσματα Π. Δερβενίου) [`lea-ac`] — [pdf](grc/orphic-poems-derveni-lea-ac.grc.pdf) · [md](grc/orphic-poems-derveni-lea-ac.grc.md) · [txt](grc/orphic-poems-derveni-lea-ac.grc.txt)
 - **Hymns** (Ὕμνοι) [`lea-aj`] — [pdf](grc/orphic-poems-hymns-lea-aj.grc.pdf) · [md](grc/orphic-poems-hymns-lea-aj.grc.md) · [txt](grc/orphic-poems-hymns-lea-aj.grc.txt)
-- **On Stones** (Περὶ λίθων) [`lea-ah`] — [pdf](grc/orphic-poems-stones-lea-ah.grc.pdf) · [md](grc/orphic-poems-stones-lea-ah.grc.md) · [txt](grc/orphic-poems-stones-lea-ah.grc.txt)
 - **On Stones** (Περὶ λίθων) [`lea-ai`] — [pdf](grc/orphic-poems-stones-lea-ai.grc.pdf) · [md](grc/orphic-poems-stones-lea-ai.grc.md) · [txt](grc/orphic-poems-stones-lea-ai.grc.txt)
+- **On Stones** (Περὶ λίθων) [`lea-ah`] — [pdf](grc/orphic-poems-stones-lea-ah.grc.pdf) · [md](grc/orphic-poems-stones-lea-ah.grc.md) · [txt](grc/orphic-poems-stones-lea-ah.grc.txt)
 - **Orphic Cosmogony and Soul Fragments** (Ἀποσπάσματα) [`lea-ag`] — [pdf](grc/orphic-poems-cosmogony-soul-lea-ag.grc.pdf) · [md](grc/orphic-poems-cosmogony-soul-lea-ag.grc.md) · [txt](grc/orphic-poems-cosmogony-soul-lea-ag.grc.txt)
 - **Proclamations-Stones** (Προκηρύξεις περὶ λίθων) [`lea-aa`] — [pdf](grc/orphic-poems-proclamations-stones-lea-aa.grc.pdf) · [md](grc/orphic-poems-proclamations-stones-lea-aa.grc.md) · [txt](grc/orphic-poems-proclamations-stones-lea-aa.grc.txt)
 - **Testimonies** (Μαρτυρίαι) [`lea-ae`] — [pdf](grc/orphic-poems-testimonies-lea-ae.grc.pdf) · [md](grc/orphic-poems-testimonies-lea-ae.grc.md) · [txt](grc/orphic-poems-testimonies-lea-ae.grc.txt)
@@ -10496,8 +10489,8 @@ Author files: [pdf](en/panteleius-the-epic-poet-avo.en.pdf) · [md](en/panteleiu
 _Πανύασις ὁ Ἁλικαρνασσεύς · Archaic · Epic (Homeric) · Epic_
 Author files: [pdf](en/panyassis-of-halicarnassus-bok.en.pdf) · [md](en/panyassis-of-halicarnassus-bok.en.md) · [txt](en/panyassis-of-halicarnassus-bok.en.txt)
 
-- **Epic Fragments** (Ἡρωϊκὰ Ἀποσπάσματα) [`bok-aa`] — [pdf](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.pdf) · [md](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.md) · [txt](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.txt)
 - **Epic Fragments** (Ἡρωϊκὰ Ἀποσπάσματα) [`bok-ab`] — [pdf](grc/panyassis-halicarnassus-epic-fragments-bok-ab.grc.pdf) · [md](grc/panyassis-halicarnassus-epic-fragments-bok-ab.grc.md) · [txt](grc/panyassis-halicarnassus-epic-fragments-bok-ab.grc.txt)
+- **Epic Fragments** (Ἡρωϊκὰ Ἀποσπάσματα) [`bok-aa`] — [pdf](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.pdf) · [md](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.md) · [txt](grc/panyassis-halicarnassus-epic-fragments-bok-aa.grc.txt)
 
 ### Pappus of Alexandria — `pappus-of-alexandria` [`txs`]
 _Πάππος ὁ Ἀλεξανδρεύς · Late Antique · Technical Koine · Mathematics_
@@ -11041,8 +11034,8 @@ Author files: [pdf](en/philumenus-the-physician-rsu.en.pdf) · [md](en/philumenu
 _Φιλύλλιος ὁ Κωμικός · Classical · Attic Comedy · Comedy_
 Author files: [pdf](en/philyllius-the-comic-poet-fdc.en.pdf) · [md](en/philyllius-the-comic-poet-fdc.en.md) · [txt](en/philyllius-the-comic-poet-fdc.en.txt)
 
-- **Fragments of a Comic Feast** (Ἀποσπάσματα Συμποσίου Κωμικοῦ) [`fdc-aa`] — [pdf](grc/philyllius-comic-feast-fdc-aa.grc.pdf) · [md](grc/philyllius-comic-feast-fdc-aa.grc.md) · [txt](grc/philyllius-comic-feast-fdc-aa.grc.txt)
 - **Fragments of a Comic Feast** (Ἀποσπάσματα Συμποσίου Κωμικοῦ) [`fdc-ab`] — [pdf](grc/philyllius-comic-feast-fdc-ab.grc.pdf) · [md](grc/philyllius-comic-feast-fdc-ab.grc.md) · [txt](grc/philyllius-comic-feast-fdc-ab.grc.txt)
+- **Fragments of a Comic Feast** (Ἀποσπάσματα Συμποσίου Κωμικοῦ) [`fdc-aa`] — [pdf](grc/philyllius-comic-feast-fdc-aa.grc.pdf) · [md](grc/philyllius-comic-feast-fdc-aa.grc.md) · [txt](grc/philyllius-comic-feast-fdc-aa.grc.txt)
 
 ### Phintys of Sparta — `phintys-of-sparta` [`exi`]
 _Φίντυς ἡ Σπαρτιᾶτις · Classical · Doric (phi, frg) · Philosophy · Pythagorean_
@@ -11523,8 +11516,8 @@ _Ποσείδιππος ὁ Κασσανδρεύς · Hellenistic · Attic Comed
 Author files: [pdf](en/posidippus-of-cassandreia-ios.en.pdf) · [md](en/posidippus-of-cassandreia-ios.en.md) · [txt](en/posidippus-of-cassandreia-ios.en.txt)
 
 - **Fragments of Apocleiomene** (Ἀποσπάσματα τοῦ Ἀποκλειωμένου) [`ios-ac`] — [pdf](grc/posidippus-cassandreia-apocleiomene-ios-ac.grc.pdf) · [md](grc/posidippus-cassandreia-apocleiomene-ios-ac.grc.md) · [txt](grc/posidippus-cassandreia-apocleiomene-ios-ac.grc.txt)
-- **Fragments on Cooks and Courtesans** (Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν) [`ios-ab`] — [pdf](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.pdf) · [md](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.md) · [txt](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.txt)
 - **Fragments on Cooks and Courtesans** (Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν) [`ios-aa`] — [pdf](grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.pdf) · [md](grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.md) · [txt](grc/posidippus-cassandreia-cooks-courtesans-ios-aa.grc.txt)
+- **Fragments on Cooks and Courtesans** (Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν) [`ios-ab`] — [pdf](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.pdf) · [md](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.md) · [txt](grc/posidippus-cassandreia-cooks-courtesans-ios-ab.grc.txt)
 
 ### Posidippus of Pella — `posidippus-of-pella` [`hwg`]
 _Ποσείδιππος ὁ Πελλαῖος · Hellenistic · Koine · Poetry_
@@ -12086,8 +12079,8 @@ Author files: [pdf](en/salmanas-the-alchemist-tow.en.pdf) · [md](en/salmanas-th
 _Σαννυρίων ὁ κωμικός · Classical · Attic Comedy · Comedy_
 Author files: [pdf](en/sannyrion-the-comic-poet-fly.en.pdf) · [md](en/sannyrion-the-comic-poet-fly.en.md) · [txt](en/sannyrion-the-comic-poet-fly.en.txt)
 
-- **Comic Fragments on Gods and Mortals** (Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν) [`fly-aa`] — [pdf](grc/sannyrion-comic-fragments-fly-aa.grc.pdf) · [md](grc/sannyrion-comic-fragments-fly-aa.grc.md) · [txt](grc/sannyrion-comic-fragments-fly-aa.grc.txt)
 - **Comic Fragments on Gods and Mortals** (Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν) [`fly-ab`] — [pdf](grc/sannyrion-comic-fragments-fly-ab.grc.pdf) · [md](grc/sannyrion-comic-fragments-fly-ab.grc.md) · [txt](grc/sannyrion-comic-fragments-fly-ab.grc.txt)
+- **Comic Fragments on Gods and Mortals** (Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν) [`fly-aa`] — [pdf](grc/sannyrion-comic-fragments-fly-aa.grc.pdf) · [md](grc/sannyrion-comic-fragments-fly-aa.grc.md) · [txt](grc/sannyrion-comic-fragments-fly-aa.grc.txt)
 
 ### Sappho and Alcaeus of Lesbos — `sappho-and-alcaeus-of-lesbos` [`aqe`]
 _Σαπφώ καὶ Ἀλκαῖος · Archaic · Aeolic · Poetry_
@@ -12411,9 +12404,9 @@ Author files: [pdf](en/sophistical-refutations-anon-vls.en.pdf) · [md](en/sophi
 - **Commentary-Aristotle in Greek** (Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί) [`vls-af`] — [pdf](grc/anon-soph-ref-commentary-aristotle-vls-af.grc.pdf) · [md](grc/anon-soph-ref-commentary-aristotle-vls-af.grc.md) · [txt](grc/anon-soph-ref-commentary-aristotle-vls-af.grc.txt)
 - **Commentary-Sophistical Refutations** (Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ab`] — [pdf](grc/anon-soph-ref-commentary-vls-ab.grc.pdf) · [md](grc/anon-soph-ref-commentary-vls-ab.grc.md) · [txt](grc/anon-soph-ref-commentary-vls-ab.grc.txt)
 - **Concise Tradition of Modes of Sophistic Importunities** (Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν) [`vls-aa`] — [pdf](grc/anon-soph-ref-modes-importunities-vls-aa.grc.pdf) · [md](grc/anon-soph-ref-modes-importunities-vls-aa.grc.md) · [txt](grc/anon-soph-ref-modes-importunities-vls-aa.grc.txt)
-- **Scholia on Sophistical Refutations (Recension A)** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ac`] — [pdf](grc/anon-soph-ref-scholia-vls-ac.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ac.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ac.grc.txt)
-- **Scholia on Sophistical Refutations (Recension B)** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ad`] — [pdf](grc/anon-soph-ref-scholia-vls-ad.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ad.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ad.grc.txt)
-- **Scholia on Sophistical Refutations (Recension C)** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ae`] — [pdf](grc/anon-soph-ref-scholia-vls-ae.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ae.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ae.grc.txt)
+- **Scholia-Sophistical Refutations** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ac`] — [pdf](grc/anon-soph-ref-scholia-vls-ac.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ac.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ac.grc.txt)
+- **Scholia-Sophistical Refutations** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ad`] — [pdf](grc/anon-soph-ref-scholia-vls-ad.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ad.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ad.grc.txt)
+- **Scholia-Sophistical Refutations** (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) [`vls-ae`] — [pdf](grc/anon-soph-ref-scholia-vls-ae.grc.pdf) · [md](grc/anon-soph-ref-scholia-vls-ae.grc.md) · [txt](grc/anon-soph-ref-scholia-vls-ae.grc.txt)
 
 ### Sophocles — `sophocles` [`buo`]
 _Σοφοκλῆς · Classical · Attic Drama · Drama_
@@ -12690,8 +12683,8 @@ Author files: [pdf](en/suetonius-oem.en.pdf) · [md](en/suetonius-oem.en.md) · 
 _Σουσαρίων ὁ Μεγαρεύς · Archaic · Doric (frg) · Comedy_
 Author files: [pdf](en/susarion-of-megara-atg.en.pdf) · [md](en/susarion-of-megara-atg.en.md) · [txt](en/susarion-of-megara-atg.en.txt)
 
-- **On the Evils of Marriage** (Ἀπόσπασμα) [`atg-ac`] — [pdf](grc/susarion-megara-evils-marriage-atg-ac.grc.pdf) · [md](grc/susarion-megara-evils-marriage-atg-ac.grc.md) · [txt](grc/susarion-megara-evils-marriage-atg-ac.grc.txt)
 - **On the Evils of Marriage** (Ἀπόσπασμα) [`atg-ab`] — [pdf](grc/susarion-megara-evils-marriage-atg-ab.grc.pdf) · [md](grc/susarion-megara-evils-marriage-atg-ab.grc.md) · [txt](grc/susarion-megara-evils-marriage-atg-ab.grc.txt)
+- **On the Evils of Marriage** (Ἀπόσπασμα) [`atg-ac`] — [pdf](grc/susarion-megara-evils-marriage-atg-ac.grc.pdf) · [md](grc/susarion-megara-evils-marriage-atg-ac.grc.md) · [txt](grc/susarion-megara-evils-marriage-atg-ac.grc.txt)
 - **On the Nature of Women** (Ἀπόσπασμα) [`atg-aa`] — [pdf](grc/susarion-megara-nature-women-atg-aa.grc.pdf) · [md](grc/susarion-megara-nature-women-atg-aa.grc.md) · [txt](grc/susarion-megara-nature-women-atg-aa.grc.txt)
 
 ### Synesius of Cyrene — `synesius-of-cyrene` [`sys`]
@@ -12746,8 +12739,8 @@ Author files: [pdf](en/tatian-the-assyrian-pci.en.pdf) · [md](en/tatian-the-ass
 _Τηλεκλείδης ὁ Κωμικός · Classical · Attic (com, frg) · Comedy_
 Author files: [pdf](en/telecleides-comicus-edi.en.pdf) · [md](en/telecleides-comicus-edi.en.md) · [txt](en/telecleides-comicus-edi.en.txt)
 
-- **Golden Age of Plenty** (Ἀποσπάσματα) [`edi-aa`] — [pdf](grc/telecleides-golden-age-of-plenty-edi-aa.grc.pdf) · [md](grc/telecleides-golden-age-of-plenty-edi-aa.grc.md) · [txt](grc/telecleides-golden-age-of-plenty-edi-aa.grc.txt)
 - **Golden Age of Plenty** (Ἀποσπάσματα) [`edi-ab`] — [pdf](grc/telecleides-golden-age-of-plenty-edi-ab.grc.pdf) · [md](grc/telecleides-golden-age-of-plenty-edi-ab.grc.md) · [txt](grc/telecleides-golden-age-of-plenty-edi-ab.grc.txt)
+- **Golden Age of Plenty** (Ἀποσπάσματα) [`edi-aa`] — [pdf](grc/telecleides-golden-age-of-plenty-edi-aa.grc.pdf) · [md](grc/telecleides-golden-age-of-plenty-edi-aa.grc.md) · [txt](grc/telecleides-golden-age-of-plenty-edi-aa.grc.txt)
 
 ### Telephus the Grammarian — `telephus-the-grammarian` [`pxm`]
 _Τήλεφος ὁ Γραμματικός · Roman · Koine (frg) · Grammar_
@@ -12765,8 +12758,8 @@ Author files: [pdf](en/teles-of-megara-kkk.en.pdf) · [md](en/teles-of-megara-kk
 - **On Pleasure Not Being the End** (Περὶ τοῦ μὴ εἶναι τέλος ἡδονήν) [`kkk-ac`] — [pdf](grc/teles-megara-pleasure-not-end-kkk-ac.grc.pdf) · [md](grc/teles-megara-pleasure-not-end-kkk-ac.grc.md) · [txt](grc/teles-megara-pleasure-not-end-kkk-ac.grc.txt)
 - **On Seeming and Being** (Περὶ τοῦ δοκεῖν καὶ τοῦ εἶναι) [`kkk-ad`] — [pdf](grc/teles-megara-seeming-being-kkk-ad.grc.pdf) · [md](grc/teles-megara-seeming-being-kkk-ad.grc.md) · [txt](grc/teles-megara-seeming-being-kkk-ad.grc.txt)
 - **On Self-Sufficiency** (Περὶ αὐταρκείας) [`kkk-ae`] — [pdf](grc/teles-megara-self-sufficiency-kkk-ae.grc.pdf) · [md](grc/teles-megara-self-sufficiency-kkk-ae.grc.md) · [txt](grc/teles-megara-self-sufficiency-kkk-ae.grc.txt)
-- **On the Comparison of Poverty and Wealth** (Περὶ συγκρίσεως πενίας καὶ πλούτου) [`kkk-ab`] — [pdf](grc/teles-megara-poverty-wealth-kkk-ab.grc.pdf) · [md](grc/teles-megara-poverty-wealth-kkk-ab.grc.md) · [txt](grc/teles-megara-poverty-wealth-kkk-ab.grc.txt)
 - **On the Comparison of Poverty and Wealth** (Περὶ συγκρίσεως πενίας καὶ πλούτου) [`kkk-aa`] — [pdf](grc/teles-megara-poverty-wealth-kkk-aa.grc.pdf) · [md](grc/teles-megara-poverty-wealth-kkk-aa.grc.md) · [txt](grc/teles-megara-poverty-wealth-kkk-aa.grc.txt)
+- **On the Comparison of Poverty and Wealth** (Περὶ συγκρίσεως πενίας καὶ πλούτου) [`kkk-ab`] — [pdf](grc/teles-megara-poverty-wealth-kkk-ab.grc.pdf) · [md](grc/teles-megara-poverty-wealth-kkk-ab.grc.md) · [txt](grc/teles-megara-poverty-wealth-kkk-ab.grc.txt)
 
 ### Telestes of Selinus — `telestes-of-selinus` [`crg`]
 _Τελέστης ὁ Σελινουντίος · Classical · Aeolic (frg) · Poetry_
@@ -13050,8 +13043,8 @@ Author files: [pdf](en/theophilus-of-antioch-qrc.en.pdf) · [md](en/theophilus-o
 _Θεόφιλος ὁ κωμικός · Classical · Attic Comedy · Comedy_
 Author files: [pdf](en/theophilus-the-comic-poet-ggs.en.pdf) · [md](en/theophilus-the-comic-poet-ggs.en.md) · [txt](en/theophilus-the-comic-poet-ggs.en.txt)
 
-- **Comic Fragments on Dining and Excess** (Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας) [`ggs-aa`] — [pdf](grc/theophilus-comic-dining-excess-ggs-aa.grc.pdf) · [md](grc/theophilus-comic-dining-excess-ggs-aa.grc.md) · [txt](grc/theophilus-comic-dining-excess-ggs-aa.grc.txt)
 - **Comic Fragments on Dining and Excess** (Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας) [`ggs-ab`] — [pdf](grc/theophilus-comic-dining-excess-ggs-ab.grc.pdf) · [md](grc/theophilus-comic-dining-excess-ggs-ab.grc.md) · [txt](grc/theophilus-comic-dining-excess-ggs-ab.grc.txt)
+- **Comic Fragments on Dining and Excess** (Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας) [`ggs-aa`] — [pdf](grc/theophilus-comic-dining-excess-ggs-aa.grc.pdf) · [md](grc/theophilus-comic-dining-excess-ggs-aa.grc.md) · [txt](grc/theophilus-comic-dining-excess-ggs-aa.grc.txt)
 
 ### Theophilus the Historian — `theophilus-the-historian` [`cgc`]
 _Θεόφιλος ὁ Ἱστορικός · Classical · Attic · History_
@@ -13128,11 +13121,11 @@ Author files: [pdf](en/thespis-of-icaria-bfe.en.pdf) · [md](en/thespis-of-icari
 _Θεσσαλός ὁ Κῷος · Classical · Ionic · Science_
 Author files: [pdf](en/thessalus-of-cos-ece.en.pdf) · [md](en/thessalus-of-cos-ece.en.md) · [txt](en/thessalus-of-cos-ece.en.txt)
 
-- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ad`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ad.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ad.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ad.grc.txt)
-- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-aa`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-aa.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-aa.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-aa.grc.txt)
+- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ac`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ac.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ac.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ac.grc.txt)
 - **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ae`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ae.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ae.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ae.grc.txt)
 - **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ab`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ab.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ab.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ab.grc.txt)
-- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ac`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ac.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ac.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ac.grc.txt)
+- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-aa`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-aa.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-aa.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-aa.grc.txt)
+- **On the Virtues of Herbs** (Περὶ τῶν ἀρετῶν τῶν βοτάνων) [`ece-ad`] — [pdf](grc/thessalus-cos-virtues-herbs-ece-ad.grc.pdf) · [md](grc/thessalus-cos-virtues-herbs-ece-ad.grc.md) · [txt](grc/thessalus-cos-virtues-herbs-ece-ad.grc.txt)
 
 ### Thrasyalces the Sophist — `thrasyalces-the-sophist` [`etc`]
 _Θρασυάλκης ὁ Σοφιστής · Classical · Attic · Philosophy · Sophist_
@@ -13240,8 +13233,8 @@ _Τιμοκλῆς ὁ κωμῳδιοποιός · Classical · Mixed Dialects 
 Author files: [pdf](en/timocles-b-comic-poet-hcq.en.pdf) · [md](en/timocles-b-comic-poet-hcq.en.md) · [txt](en/timocles-b-comic-poet-hcq.en.txt)
 
 - **Comic Fragments on Demagogues** (Ἀποσπάσματα περὶ Δημαγωγῶν) [`hcq-ab`] — [pdf](grc/timocles-comic-demagogues-hcq-ab.grc.pdf) · [md](grc/timocles-comic-demagogues-hcq-ab.grc.md) · [txt](grc/timocles-comic-demagogues-hcq-ab.grc.txt)
-- **Fragments on Comedy** (Ἀποσπάσματα περὶ Κωμῳδίας) [`hcq-ac`] — [pdf](grc/timocles-comedy-fragments-hcq-ac.grc.pdf) · [md](grc/timocles-comedy-fragments-hcq-ac.grc.md) · [txt](grc/timocles-comedy-fragments-hcq-ac.grc.txt)
 - **Fragments on Comedy** (Ἀποσπάσματα περὶ Κωμῳδίας) [`hcq-ad`] — [pdf](grc/timocles-comedy-fragments-hcq-ad.grc.pdf) · [md](grc/timocles-comedy-fragments-hcq-ad.grc.md) · [txt](grc/timocles-comedy-fragments-hcq-ad.grc.txt)
+- **Fragments on Comedy** (Ἀποσπάσματα περὶ Κωμῳδίας) [`hcq-ac`] — [pdf](grc/timocles-comedy-fragments-hcq-ac.grc.pdf) · [md](grc/timocles-comedy-fragments-hcq-ac.grc.md) · [txt](grc/timocles-comedy-fragments-hcq-ac.grc.txt)
 - **Fragments on Rhetoric and Corruption** (Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Διαφθορᾶς) [`hcq-aa`] — [pdf](grc/timocles-rhetoric-corruption-hcq-aa.grc.pdf) · [md](grc/timocles-rhetoric-corruption-hcq-aa.grc.md) · [txt](grc/timocles-rhetoric-corruption-hcq-aa.grc.txt)
 
 ### Timocreon of Rhodes — `timocreon-of-rhodes` [`bpy`]
@@ -13539,7 +13532,7 @@ Author files: [pdf](en/xenophon-scholia-cto.en.pdf) · [md](en/xenophon-scholia-
 - **Glosses-Euripides' Troades** (Γλῶσσαι εἰς Εὐριπίδου Τρωάδας) [`cto-ad`] — [pdf](grc/xenophon-scholia-troades-cto-ad.grc.pdf) · [md](grc/xenophon-scholia-troades-cto-ad.grc.md) · [txt](grc/xenophon-scholia-troades-cto-ad.grc.txt)
 - **Lives of Euripides** (Βίοι Εὐριπίδου) [`cto-al`] — [pdf](grc/xenophon-scholia-euripides-cto-al.grc.pdf) · [md](grc/xenophon-scholia-euripides-cto-al.grc.md) · [txt](grc/xenophon-scholia-euripides-cto-al.grc.txt)
 - **Scholia on Euripides** (Σχόλια εἰς Εὐριπίδην) [`cto-aj`] — [pdf](grc/xenophon-scholia-euripides-cto-aj.grc.pdf) · [md](grc/xenophon-scholia-euripides-cto-aj.grc.md) · [txt](grc/xenophon-scholia-euripides-cto-aj.grc.txt)
-- **Scholia on Euripides (Glosses)** (Σχόλια εἰς Εὐριπίδην) [`cto-ak`] — [pdf](grc/xenophon-scholia-euripides-cto-ak.grc.pdf) · [md](grc/xenophon-scholia-euripides-cto-ak.grc.md) · [txt](grc/xenophon-scholia-euripides-cto-ak.grc.txt)
+- **Scholia-Euripides** (Σχόλια εἰς Εὐριπίδην) [`cto-ak`] — [pdf](grc/xenophon-scholia-euripides-cto-ak.grc.pdf) · [md](grc/xenophon-scholia-euripides-cto-ak.grc.md) · [txt](grc/xenophon-scholia-euripides-cto-ak.grc.txt)
 - **Scholia-Euripides' Hecuba** (Σχόλια εἰς Εὐριπίδου Ἑκάβην) [`cto-ah`] — [pdf](grc/xenophon-scholia-hecuba-cto-ah.grc.pdf) · [md](grc/xenophon-scholia-hecuba-cto-ah.grc.md) · [txt](grc/xenophon-scholia-hecuba-cto-ah.grc.txt)
 - **Scholia-Euripides' Hippolytus** (Σχόλια εἰς Εὐριπίδου Ἱππόλυτον) [`cto-ab`] — [pdf](grc/xenophon-scholia-hippolytus-cto-ab.grc.pdf) · [md](grc/xenophon-scholia-hippolytus-cto-ab.grc.md) · [txt](grc/xenophon-scholia-hippolytus-cto-ab.grc.txt)
 - **Scholia-Euripides' Orestes** (Σχόλια εἰς Εὐριπίδου Ὀρέστην) [`cto-ae`] — [pdf](grc/xenophon-scholia-orestes-cto-ae.grc.pdf) · [md](grc/xenophon-scholia-orestes-cto-ae.grc.md) · [txt](grc/xenophon-scholia-orestes-cto-ae.grc.txt)
@@ -13613,8 +13606,8 @@ Author files: [pdf](en/zosimus-of-panopolis-tyc.en.pdf) · [md](en/zosimus-of-pa
 
 - **Advisory Recommendations for Practitioners of the Art** (Παραινέσεις συστατικαὶ τῶν ἐγχειρούντων τὴν τέχνην) [`tyc-ak`] — [pdf](grc/zosimus-panopolis-advisory-practitioners-tyc-ak.grc.pdf) · [md](grc/zosimus-panopolis-advisory-practitioners-tyc-ak.grc.md) · [txt](grc/zosimus-panopolis-advisory-practitioners-tyc-ak.grc.txt)
 - **Aerial Water** (Τὸ ἀέριον ὕδωρ) [`tyc-cd`] — [pdf](grc/zosimus-panopolis-aerial-water-tyc-cd.grc.pdf) · [md](grc/zosimus-panopolis-aerial-water-tyc-cd.grc.md) · [txt](grc/zosimus-panopolis-aerial-water-tyc-cd.grc.txt)
-- **Alchemical Excerpt** (Ἀλχημικὸν ἀπόσπασμα) [`tyc-bz`] — [pdf](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.pdf) · [md](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.md) · [txt](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.txt)
 - **Alchemical Excerpt** (Ἀλχημικὸν ἀπόσπασμα) [`tyc-ca`] — [pdf](grc/zosimus-panopolis-alchemical-excerpt-tyc-ca.grc.pdf) · [md](grc/zosimus-panopolis-alchemical-excerpt-tyc-ca.grc.md) · [txt](grc/zosimus-panopolis-alchemical-excerpt-tyc-ca.grc.txt)
+- **Alchemical Excerpt** (Ἀλχημικὸν ἀπόσπασμα) [`tyc-bz`] — [pdf](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.pdf) · [md](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.md) · [txt](grc/zosimus-panopolis-alchemical-excerpt-tyc-bz.grc.txt)
 - **Creation of Mercury** (Ὑδραργύρου ποίησις) [`tyc-bt`] — [pdf](grc/zosimus-panopolis-mercury-creation-tyc-bt.grc.pdf) · [md](grc/zosimus-panopolis-mercury-creation-tyc-bt.grc.md) · [txt](grc/zosimus-panopolis-mercury-creation-tyc-bt.grc.txt)
 - **Diagram** (Διάγραμμα) [`tyc-cn`] — [pdf](grc/zosimus-panopolis-diagram-tyc-cn.grc.pdf) · [md](grc/zosimus-panopolis-diagram-tyc-cn.grc.md) · [txt](grc/zosimus-panopolis-diagram-tyc-cn.grc.txt)
 - **Excerpt-Bronze Men** (περὶ χαλκανθρώπων) [`tyc-br`] — [pdf](grc/zosimus-panopolis-bronze-men-tyc-br.grc.pdf) · [md](grc/zosimus-panopolis-bronze-men-tyc-br.grc.md) · [txt](grc/zosimus-panopolis-bronze-men-tyc-br.grc.txt)
@@ -13629,8 +13622,8 @@ Author files: [pdf](en/zosimus-of-panopolis-tyc.en.pdf) · [md](en/zosimus-of-pa
 - **On Bodies Being the Nourishment of Dyes** (Περὶ τοῦ τροφὴν εἶναι τὰ δ’ σώματα τῶν βαφῶν·) [`tyc-aq`] — [pdf](grc/zosimus-panopolis-bodies-nourishment-dyes-tyc-aq.grc.pdf) · [md](grc/zosimus-panopolis-bodies-nourishment-dyes-tyc-aq.grc.md) · [txt](grc/zosimus-panopolis-bodies-nourishment-dyes-tyc-aq.grc.txt)
 - **On Causes** (Περὶ αἰτιῶν) [`tyc-cl`] — [pdf](grc/zosimus-panopolis-causes-tyc-cl.grc.pdf) · [md](grc/zosimus-panopolis-causes-tyc-cl.grc.md) · [txt](grc/zosimus-panopolis-causes-tyc-cl.grc.txt)
 - **On Divine Matters** (Περὶ θείων) [`tyc-cb`] — [pdf](grc/zosimus-panopolis-divine-matters-tyc-cb.grc.pdf) · [md](grc/zosimus-panopolis-divine-matters-tyc-cb.grc.md) · [txt](grc/zosimus-panopolis-divine-matters-tyc-cb.grc.txt)
-- **On Divine Water** (Περὶ τοῦ θείου ὕδατος) [`tyc-cf`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-cf.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-cf.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-cf.grc.txt)
 - **On Divine Water** (Περὶ θείου ὕδατος) [`tyc-ce`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-ce.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-ce.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-ce.grc.txt)
+- **On Divine Water** (Περὶ τοῦ θείου ὕδατος) [`tyc-cf`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-cf.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-cf.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-cf.grc.txt)
 - **On Dyeing** (Περὶ βαφῆς) [`tyc-cm`] — [pdf](grc/zosimus-panopolis-dyeing-tyc-cm.grc.pdf) · [md](grc/zosimus-panopolis-dyeing-tyc-cm.grc.md) · [txt](grc/zosimus-panopolis-dyeing-tyc-cm.grc.txt)
 - **On Instruments and Furnaces, Genuine Notes-the Omega Element** (Περὶ ὀργάνων καὶ καμίνων γνήσια ὑπομνήματα περὶ) [`tyc-ad`] — [pdf](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ad.grc.pdf) · [md](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ad.grc.md) · [txt](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ad.grc.txt)
 - **On Rust** (Περὶ ἰοῦ) [`tyc-co`] — [pdf](grc/zosimus-panopolis-rust-tyc-co.grc.pdf) · [md](grc/zosimus-panopolis-rust-tyc-co.grc.md) · [txt](grc/zosimus-panopolis-rust-tyc-co.grc.txt)
@@ -13640,10 +13633,10 @@ Author files: [pdf](en/zosimus-of-panopolis-tyc.en.pdf) · [md](en/zosimus-of-pa
 - **On the Body of Magnesia and Economy** (Περὶ σώματος μαγνησίας καὶ οἰκονομίας) [`tyc-av`] — [pdf](grc/zosimus-panopolis-magnesia-economy-tyc-av.grc.pdf) · [md](grc/zosimus-panopolis-magnesia-economy-tyc-av.grc.md) · [txt](grc/zosimus-panopolis-magnesia-economy-tyc-av.grc.txt)
 - **On the Burning of Bodies** (Περὶ καύσεως σωμάτων) [`tyc-bm`] — [pdf](grc/zosimus-panopolis-burning-bodies-tyc-bm.grc.pdf) · [md](grc/zosimus-panopolis-burning-bodies-tyc-bm.grc.md) · [txt](grc/zosimus-panopolis-burning-bodies-tyc-bm.grc.txt)
 - **On the Causes of Composition** (Περὶ ἀφορμῶν συνθέσεως) [`tyc-bd`] — [pdf](grc/zosimus-panopolis-causes-composition-tyc-bd.grc.pdf) · [md](grc/zosimus-panopolis-causes-composition-tyc-bd.grc.md) · [txt](grc/zosimus-panopolis-causes-composition-tyc-bd.grc.txt)
-- **On the Difference of Burnt Copper** (Περὶ διαφορᾶς χαλκοῦ κεκαυμένου) [`tyc-ba`] — [pdf](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.pdf) · [md](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.md) · [txt](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.txt)
 - **On the Difference of Burnt Copper** (Περὶ διαφορᾶς χαλκοῦ κεκαυμένου) [`tyc-az`] — [pdf](grc/zosimus-panopolis-burnt-copper-tyc-az.grc.pdf) · [md](grc/zosimus-panopolis-burnt-copper-tyc-az.grc.md) · [txt](grc/zosimus-panopolis-burnt-copper-tyc-az.grc.txt)
-- **On the Divine Water** (Περὶ τοῦ θείου ὕδατος) [`tyc-bw`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-bw.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-bw.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-bw.grc.txt)
+- **On the Difference of Burnt Copper** (Περὶ διαφορᾶς χαλκοῦ κεκαυμένου) [`tyc-ba`] — [pdf](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.pdf) · [md](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.md) · [txt](grc/zosimus-panopolis-burnt-copper-tyc-ba.grc.txt)
 - **On the Divine Water** (Περὶ τοῦ θείου ὕδατος) [`tyc-bu`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-bu.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-bu.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-bu.grc.txt)
+- **On the Divine Water** (Περὶ τοῦ θείου ὕδατος) [`tyc-bw`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-bw.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-bw.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-bw.grc.txt)
 - **On the Divine Water** (Περὶ τοῦ θείου ὕδατος (= Ζωσίμου τοῦ Πανοπολίτου) [`tyc-bv`] — [pdf](grc/zosimus-panopolis-divine-water-tyc-bv.grc.pdf) · [md](grc/zosimus-panopolis-divine-water-tyc-bv.grc.md) · [txt](grc/zosimus-panopolis-divine-water-tyc-bv.grc.txt)
 - **On the Drying Agent** (Περὶ ξηρίου) [`tyc-bx`] — [pdf](grc/zosimus-panopolis-drying-agent-tyc-bx.grc.pdf) · [md](grc/zosimus-panopolis-drying-agent-tyc-bx.grc.md) · [txt](grc/zosimus-panopolis-drying-agent-tyc-bx.grc.txt)
 - **On the Economy of the Magnet Body** (Περὶ οἰκονομίας τοῦ τῆς μαγνησίας σώματος) [`tyc-bb`] — [pdf](grc/zosimus-panopolis-magnet-body-tyc-bb.grc.pdf) · [md](grc/zosimus-panopolis-magnet-body-tyc-bb.grc.md) · [txt](grc/zosimus-panopolis-magnet-body-tyc-bb.grc.txt)
@@ -13662,8 +13655,8 @@ Author files: [pdf](en/zosimus-of-panopolis-tyc.en.pdf) · [md](en/zosimus-of-pa
 - **On What is According to the Art, Substance and NSubstance** (Περὶ τοῦ τί ἐστιν κατὰ τὴν τέχνην, οὐσία καὶ) [`tyc-ag`] — [pdf](grc/zosimus-panopolis-art-substance-tyc-ag.grc.pdf) · [md](grc/zosimus-panopolis-art-substance-tyc-ag.grc.md) · [txt](grc/zosimus-panopolis-art-substance-tyc-ag.grc.txt)
 - **On Whitening** (Περὶ λευκώσεως) [`tyc-ci`] — [pdf](grc/zosimus-panopolis-whitening-tyc-ci.grc.pdf) · [md](grc/zosimus-panopolis-whitening-tyc-ci.grc.md) · [txt](grc/zosimus-panopolis-whitening-tyc-ci.grc.txt)
 - **On Whitening** (Περὶ λευκώσεως) [`tyc-cj`] — [pdf](grc/zosimus-panopolis-whitening-tyc-cj.grc.pdf) · [md](grc/zosimus-panopolis-whitening-tyc-cj.grc.md) · [txt](grc/zosimus-panopolis-whitening-tyc-cj.grc.txt)
-- **Poem of Zosimus, Act 3** (Ποίημα Ζωσίμου (πρᾶξις γʹ)) [`tyc-bn`] — [pdf](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.pdf) · [md](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.md) · [txt](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.txt)
 - **Poem of Zosimus, Act 3** (Ποίημα τοῦ Ζωσίμου (πρᾶξις γʹ)) [`tyc-bo`] — [pdf](grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.pdf) · [md](grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.md) · [txt](grc/zosimus-panopolis-poem-act-3-tyc-bo.grc.txt)
+- **Poem of Zosimus, Act 3** (Ποίημα Ζωσίμου (πρᾶξις γʹ)) [`tyc-bn`] — [pdf](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.pdf) · [md](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.md) · [txt](grc/zosimus-panopolis-poem-act-3-tyc-bn.grc.txt)
 - **True Book of Sophos the Egyptian and the Divine Lord of the Hebrews Sabaoth** (Βίβλος ἀληθὴς Σοφὲ Αἰγυπτίου καὶ θείου Ἑβραίων) [`tyc-aa`] — [pdf](grc/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa.grc.pdf) · [md](grc/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa.grc.md) · [txt](grc/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa.grc.txt)
 - **Washing of Cadmia** (Καδμίας πλύσις) [`tyc-cc`] — [pdf](grc/zosimus-panopolis-washing-cadmia-tyc-cc.grc.pdf) · [md](grc/zosimus-panopolis-washing-cadmia-tyc-cc.grc.md) · [txt](grc/zosimus-panopolis-washing-cadmia-tyc-cc.grc.txt)
 - **Zosimus of Panopolis, *Genuine Writing-the Divine Art*** (Ζωσίμου τοῦ Πανοπολίτου γνησία γραφὴ περὶ τῆς) [`tyc-aj`] — [pdf](grc/zosimus-panopolis-genuine-divine-art-tyc-aj.grc.pdf) · [md](grc/zosimus-panopolis-genuine-divine-art-tyc-aj.grc.md) · [txt](grc/zosimus-panopolis-genuine-divine-art-tyc-aj.grc.txt)
@@ -13676,7 +13669,7 @@ Author files: [pdf](en/zosimus-of-panopolis-tyc.en.pdf) · [md](en/zosimus-of-pa
 - **Zosimus' Practice B** (Ζωσίμου πρᾶξις βʹ) [`tyc-by`] — [pdf](grc/zosimus-panopolis-practice-b-tyc-by.grc.pdf) · [md](grc/zosimus-panopolis-practice-b-tyc-by.grc.md) · [txt](grc/zosimus-panopolis-practice-b-tyc-by.grc.txt)
 - **Zosimus's True Book of the Egyptian Sage and Divine Sabaoth** (Βίβλος ἀληθὴς Σοφὲ Αἰγυπτίου καὶ θείου Ἑβραίων) [`tyc-ai`] — [pdf](grc/zosimus-panopolis-true-book-egyptian-sabaoth-tyc-ai.grc.pdf) · [md](grc/zosimus-panopolis-true-book-egyptian-sabaoth-tyc-ai.grc.md) · [txt](grc/zosimus-panopolis-true-book-egyptian-sabaoth-tyc-ai.grc.txt)
 - **Zosimus, Act II** (Ζωσίμου πρᾶξις βʹ) [`tyc-cg`] — [pdf](grc/zosimus-panopolis-act-ii-tyc-cg.grc.pdf) · [md](grc/zosimus-panopolis-act-ii-tyc-cg.grc.md) · [txt](grc/zosimus-panopolis-act-ii-tyc-cg.grc.txt)
-- **Zosimus-Instruments and Furnaces** (Ζωσίμου περὶ ὀργάνων καὶ καμίνων) [`tyc-aw`] — [pdf](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.pdf) · [md](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.md) · [txt](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.txt)
 - **Zosimus-Instruments and Furnaces** (Ζωσίμου περὶ ὀργάνων καὶ καμίνων) [`tyc-ax`] — [pdf](grc/zosimus-panopolis-instruments-furnaces-tyc-ax.grc.pdf) · [md](grc/zosimus-panopolis-instruments-furnaces-tyc-ax.grc.md) · [txt](grc/zosimus-panopolis-instruments-furnaces-tyc-ax.grc.txt)
+- **Zosimus-Instruments and Furnaces** (Ζωσίμου περὶ ὀργάνων καὶ καμίνων) [`tyc-aw`] — [pdf](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.pdf) · [md](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.md) · [txt](grc/zosimus-panopolis-instruments-furnaces-tyc-aw.grc.txt)
 - **Zosimus-Instruments and Furnaces, Genuine Notes-the Omega Element** (Ζωσίμου περὶ ὀργάνων καὶ καμίνων γνήσια ὑπομνήματα) [`tyc-ab`] — [pdf](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ab.grc.pdf) · [md](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ab.grc.md) · [txt](grc/zosimus-panopolis-instruments-furnaces-omega-tyc-ab.grc.txt)
 
