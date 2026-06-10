@@ -4,25 +4,24 @@
   "@id": "https://github.com/eulogikon/ancient-greek-texts",
   "name": "Ancient Greek Texts",
   "alternateName": "Eulogikon Ancient Greek Texts Corpus",
-  "description": "A public-domain corpus of ancient Greek literature: 1,353 authors and 4,051 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies. Data store for the Eulogikon project.",
+  "description": "The surviving literary works of ancient Greece: 1,354 authors and 4,053 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421",
+    "https://doi.org/10.5281/zenodo.20335422",
     "https://zenodo.org/records/20335422",
-    "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
+    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421"
+    "https://doi.org/10.5281/zenodo.20335422"
   ],
-  "version": "v2026.05.28",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "v2026.06.08",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
   "isAccessibleForFree": true,
   "inLanguage": [
-    "grc",
-    "en"
+    "grc"
   ],
   "temporalCoverage": "-0800/0600",
   "keywords": [
@@ -55,18 +54,18 @@
   "size": {
     "@type": "QuantitativeValue",
     "unitText": "works",
-    "value": 4051
+    "value": 4053
   },
   "variableMeasured": [
     {
       "@type": "PropertyValue",
       "name": "authors",
-      "value": 1353
+      "value": 1354
     },
     {
       "@type": "PropertyValue",
       "name": "works",
-      "value": 4051
+      "value": 4053
     }
   ],
   "distribution": [
@@ -124,7 +123,7 @@
       "name": "Hugging Face dataset",
       "description": "Parquet distribution for machine learning and data processing workflows.",
       "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
+      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
     }
   ],
   "citation": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff",

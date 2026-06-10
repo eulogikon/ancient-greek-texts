@@ -1,29 +1,31 @@
 ---
 language:
-  - el
-  - en
-license: cc0-1.0
+  - grc
+license: other
+license_name: Public Domain Mark 1.0
+license_link: https://creativecommons.org/publicdomain/mark/1.0/
 pretty_name: Ancient Greek Texts
 tags:
   - ancient-greek
   - digital-humanities
   - corpus
   - classical-studies
+  - public-domain
 ---
 
 # Ancient Greek Texts
 
-A free, open archive of ancient Greek literature — 1,353 authors and 4,051 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+The surviving literary works of ancient Greece — 1,354 authors and 4,053 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
-No logins. No fees. No paywalls. CC0.
+No logins. No fees. No paywalls. Public Domain Mark 1.0.
 
 ---
 
 ## What's here
 
-**1,353 authors · 4,051 works · PDF, Markdown, and plain text**
+**1,354 authors · 4,053 works · PDF, Markdown, and plain text**
 
 A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
@@ -43,14 +45,14 @@ ancient-greek-texts/
 ├── en/{author_display_string}-{eul_aid}.en.pdf    # English author page
 ├── en/{author_display_string}-{eul_aid}.en.md     # English author page as Markdown
 ├── en/{author_display_string}-{eul_aid}.en.txt    # English author page as plain text
-├── affiliations/{school}.pdf                                 # Texts grouped by philosophical school
-├── domains/{domain}.pdf                                      # Texts grouped by domain (philosophy, drama, …)
-├── llms.txt                                                    # LLM entry point and lookup guide
-├── manifest.authors.json                                       # Compact author index
-├── manifest.works.min.csv                                      # Compact work index
-├── MANIFEST.md                                                 # Human-readable index of every author and work
-├── manifest.json                                               # Machine-readable manifest
-└── manifest.csv                                                # Manifest as one row per work
+├── affiliations/{school}.pdf                       # Texts grouped by philosophical school
+├── domains/{domain}.pdf                            # Texts grouped by domain (philosophy, drama, …)
+├── llms.txt                                        # LLM entry point and lookup guide
+├── manifest.authors.json                           # Compact author index
+├── manifest.works.min.csv                          # Compact work index
+├── MANIFEST.md                                     # Human-readable index of every author and work
+├── manifest.json                                   # Machine-readable manifest
+└── manifest.csv                                    # Manifest as one row per work
 ```
 
 Files are flat — every Greek work and every English author page lives directly inside `grc/` or `en/`, with no per-author subdirectory.
@@ -121,7 +123,7 @@ curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/
 
 ## For AI training and inference
 
-This corpus is released under [CC0 1.0 Universal](LICENSE) — public domain. AI training, fine-tuning, evaluation, retrieval-augmented generation, and any other use are explicitly permitted, with no opt-out, no attribution requirement, and no royalty.
+The ancient Greek texts are **Public Domain Mark 1.0** — public domain, no restrictions. Eulogikon's scaffolding (README, metadata shape, manifests) is CC0 1.0. AI training, fine-tuning, evaluation, retrieval-augmented generation, and any other use are explicitly permitted, with no opt-out, no attribution requirement, and no royalty.
 
 If you are an AI assistant fetching this repository at inference time, start at [`llms.txt`](llms.txt). It is a short curated entry point listing the compact lookup indexes ([`manifest.authors.json`](manifest.authors.json), [`manifest.works.min.csv`](manifest.works.min.csv)) and the pre-built domain and affiliation PDF compilations. Do not crawl `grc/` or `en/` directly — together they hold 16,000+ files and the directory listings are essentially noise without the manifest.
 
@@ -132,28 +134,28 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "A public-domain corpus of ancient Greek literature: 1,353 authors and 4,051 works spanning Homer through late antiquity. Includes philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions. Published in clean Unicode Greek as PDF, Markdown, and plain text, with English author metadata and biographies.",
+  "description": "The surviving literary works of ancient Greece: 1,354 authors and 4,053 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421",
+    "https://doi.org/10.5281/zenodo.20335422",
     "https://zenodo.org/records/20335422",
-    "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
+    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421"
+    "https://doi.org/10.5281/zenodo.20335422"
   ],
-  "version": "v2026.05.28",
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "v2026.06.08",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
   "isAccessibleForFree": true,
-  "inLanguage": ["grc", "en"],
+  "inLanguage": ["grc"],
   "temporalCoverage": "-0800/0600",
   "keywords": [
     "ancient Greek", "classics", "classical philology", "digital humanities",
     "text corpus", "Homer", "Plato", "Aristotle", "Stoicism", "Pre-Socratics",
-    "Hellenistic literature", "late antiquity", "Koine Greek", "NLP dataset"
+    "Hellenistic literature", "late antiquity", "NLP dataset"
   ],
   "creator": {
     "@type": "Organization",
@@ -189,7 +191,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
       "@type": "DataDownload",
       "name": "Hugging Face dataset",
       "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/MouronRoger/ancient-greek-texts"
+      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
     }
   ]
 }
@@ -199,7 +201,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
 
 ## Licence
 
-All Eulogikon scaffolding and metadata is [CC0 1.0 Universal](LICENSE) — public domain, no restrictions. The ancient texts themselves are likewise public domain. The embedded Gentium Plus font (in PDFs) is under the [SIL Open Font License](https://openfontlicense.org/).
+The ancient Greek texts are **Public Domain Mark 1.0** — public domain, no restrictions. Eulogikon's own scaffolding and metadata (README, manifests, metadata shape) is [CC0 1.0 Universal](LICENSE). The embedded Gentium Plus font (in PDFs) is under the [SIL Open Font License](https://openfontlicense.org/).
 
 ---
 
@@ -219,6 +221,6 @@ Corrections and issues with scaffolding, metadata structure, or file naming can 
 | Organisation | [github.com/eulogikon](https://github.com/eulogikon) |
 | GitHub data store | [github.com/eulogikon/ancient-greek-texts](https://github.com/eulogikon/ancient-greek-texts) |
 | Zenodo archive | [zenodo.org/records/20335422](https://zenodo.org/records/20335422) |
-| Zenodo DOI | [doi.org/10.5281/zenodo.20335421](https://doi.org/10.5281/zenodo.20335421) |
-| Hugging Face dataset | [huggingface.co/datasets/MouronRoger/ancient-greek-texts](https://huggingface.co/datasets/MouronRoger/ancient-greek-texts) |
-| Licence | [CC0 1.0](LICENSE) |
+| Zenodo DOI | [doi.org/10.5281/zenodo.20335422](https://doi.org/10.5281/zenodo.20335422) |
+| Hugging Face dataset | [huggingface.co/datasets/eulogikon/ancient-greek-texts](https://huggingface.co/datasets/eulogikon/ancient-greek-texts) |
+| Licence | [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/) |

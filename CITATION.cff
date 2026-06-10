@@ -2,15 +2,15 @@ cff-version: 1.2.0
 message: "If you use this corpus in published work, please cite it as below."
 type: dataset
 title: "Eulogikon: Ancient Greek Texts Corpus"
-abstract: "A public-domain corpus of ancient Greek texts in clean, structured, readable form. 1,353 authors and 4,051 works spanning Homer through late antiquity — epic, lyric, philosophy, history, drama, medicine, mathematics, rhetoric, and the fragmentary traditions. Published as PDF, Markdown, and plain text."
+abstract: "The surviving literary works of ancient Greece in clean, structured, readable form. 1,354 authors and 4,053 works spanning Homer through late antiquity — epic, lyric, philosophy, history, drama, medicine, mathematics, rhetoric, and the fragmentary traditions. Published as PDF, Markdown, and plain text. The ancient Greek source texts are Public Domain Mark 1.0; Eulogikon's scaffolding is CC0-1.0."
 authors:
   - name: "Eulogikon"
     website: "https://eulogikon.org"
-license: CC0-1.0
+license: "CC-PDDC"
 url: "https://eulogikon.org"
 repository-code: "https://github.com/eulogikon/ancient-greek-texts"
-version: "v2026.05.28"
-doi: "10.5281/zenodo.20335421"
+version: "v2026.06.08"
+doi: "10.5281/zenodo.20335422"
 keywords:
   - ancient-greek
   - classical-philology
@@ -24,4 +24,4 @@ keywords:
   - aristotle
   - stoicism
   - pre-socratics
-date-released: "2026-05-28"
+date-released: "2026-06-08"
