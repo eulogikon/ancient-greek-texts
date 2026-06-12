@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `shk-aa` · [HTML page](https://eulogikon.org/works/cyranides-anon-text-shk-aa)
 
+The Cyranides is an anonymous Greek treatise on magic and medicine, compiled between the 1st and 4th centuries CE. Written in Koine Greek, it functions as a practical handbook from the Hermetic tradition, systematically detailing the occult properties of animals, plants, and stones for use in amulets and remedies. The work presents itself as secret wisdom, a divine gift from the god Hermes Trismegistus, originally revealed by a mythical Persian king named Cyranus—a common pseudepigraphic device to grant the text ancient authority. It is structured into four books containing 259 passages, with the first book famously aligning 24 substances, including stones, birds, plants, and fish, with the letters of the Greek alphabet. Subsequent books expand this catalog with further magical recipes and lore.
+
+The text survives in full through medieval Greek manuscripts, the oldest of which dates from the 14th century, and it exerted considerable influence through later translations into Latin, Syriac, and Arabic. Modern scholarship regards it as a composite work, with material accreted over time, making the identification of a single original version impossible. The Cyranides reflects a syncretic worldview where astrology, language, and the material world are profoundly interconnected through principles of sympathy and antipathy. As such, it served as a significant source for medieval and Renaissance lapidaries, herbals, and occult literature, preserving and transmitting a vast body of ancient magical and medicinal knowledge.
+
+The Greek presented here is a modern critical reconstruction. Because the surviving manuscripts from the 14th through the 16th century diverge widely, editorial choices shape the text at many points. It is best treated not as an unmediated manuscript text or a definitive form of the Cyranides tradition, but as an accessible reading text for those interested in this body of magical, medical, and Hermetic material.
+
 ## Text
 
 ### 1 pro (t)
