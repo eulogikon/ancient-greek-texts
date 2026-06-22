@@ -178,15 +178,50 @@
 
 <nav class="navbar">
   <div class="navbar-content">
+    <button class="hamburger-menu-toggle" onclick="toggleHamburgerMenu()" aria-label="Navegación" aria-expanded="false" aria-controls="hamburger-menu-panel">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
     <a href="https://eulogikon.org" class="home-link">Eulogikon</a>
     <div class="navbar-subtitle">Textos griegos antiguos</div>
-    <div class="nav-tabs">
+    <div class="nav-tabs desktop-only">
       <a href="https://eulogikon.org/" class="nav-tab">Inicio</a>
       <a href="https://eulogikon.org/index_alphabetic" class="nav-tab">Autores</a>
       <a href="https://eulogikon.org/affiliations" class="nav-tab">Escuelas</a>
       <a href="https://eulogikon.org/domains" class="nav-tab">Dominios</a>
       <a href="https://eulogikon.org/periods" class="nav-tab">Periodos</a>
       <a href="https://eulogikon.org/contact" class="nav-tab">Contacto</a>
+    </div>
+
+    <div class="hamburger-menu-overlay" onclick="toggleHamburgerMenu()"></div>
+    <div class="hamburger-menu-panel" id="hamburger-menu-panel" role="navigation" aria-label="Navegación">
+      <div class="menu-section">
+        <h3 class="menu-section-title">Navegación</h3>
+        <a href="https://eulogikon.org/" class="menu-link">Inicio</a>
+        <a href="https://eulogikon.org/index_alphabetic" class="menu-link">Autores</a>
+        <a href="https://eulogikon.org/affiliations" class="menu-link">Escuelas</a>
+        <a href="https://eulogikon.org/domains" class="menu-link">Dominios</a>
+        <a href="https://eulogikon.org/periods" class="menu-link">Periodos</a>
+        <a href="https://eulogikon.org/contact" class="menu-link">Contacto</a>
+      </div>
+      <div class="menu-section">
+        <h3 class="menu-section-title">Otros idiomas</h3>
+        <ul class="lang-list">
+      <li><a href="../" hreflang="en" lang="en">English</a></li>
+      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a></li>
+      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+      <li><a href="../es/" hreflang="es" lang="es" aria-current="page">Español</a></li>
+      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
+      <li><a href="../de/" hreflang="de" lang="de">Deutsch</a></li>
+      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
+      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
+      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
+      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
+      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
+      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+    </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -324,5 +359,25 @@
     </ul>
   </nav>
 </footer>
+
+<script>
+  function toggleHamburgerMenu() {
+    const toggle = document.querySelector('.hamburger-menu-toggle');
+    const panel = document.querySelector('.hamburger-menu-panel');
+    const overlay = document.querySelector('.hamburger-menu-overlay');
+    if (!toggle || !panel || !overlay) return;
+    const isOpen = panel.classList.contains('open');
+    toggle.classList.toggle('active');
+    panel.classList.toggle('open');
+    overlay.classList.toggle('visible');
+    toggle.setAttribute('aria-expanded', String(!isOpen));
+    document.body.style.overflow = isOpen ? '' : 'hidden';
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && document.querySelector('.hamburger-menu-panel.open')) {
+      toggleHamburgerMenu();
+    }
+  });
+</script>
 </body>
 </html>
