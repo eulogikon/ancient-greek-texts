@@ -2,7 +2,7 @@
 language:
   - grc
 license: other
-license_name: Public Domain Mark 1.0
+license_name: public-domain-mark-1.0
 license_link: https://creativecommons.org/publicdomain/mark/1.0/
 pretty_name: Ancient Greek Texts
 tags:
