@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ad` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-stoics-paradoxes-okg-ad)
 
+The Summary of Stoics Saying More Paradoxical Things Than Poets is a concise polemical essay by the philosopher and biographer Plutarch, composed in Attic Greek around 100 CE. It forms part of his extensive ethical corpus, the Moralia, and is classified among his anti-Stoic writings. The work systematically assembles nine illustrative passages designed to demonstrate that fundamental Stoic doctrines, particularly those concerning ethics and physics as articulated by thinkers like Chrysippus, are more incredible and paradoxical than the overtly fantastical myths found in classical poetry. Plutarch draws direct comparisons, contrasting, for instance, the mythical invulnerability of a figure like Caeneus from Pindar with the Stoic sage who is described as remaining fearless and unconquered even while being tortured, maimed, or enslaved. Through this rhetorical strategy, Plutarch, a committed Platonist, seeks to discredit Stoic philosophy for an educated Roman-era audience by framing its core tenets as absurdities that defy common sense and abandon reason. The essay is thus a valuable artifact of intense inter-school rivalry, offering critical insights into Stoic ideas through a hostile lens and illuminating the vigorous nature of philosophical debate in the early Roman Empire.
+
 ## Text
 
 ### t 1

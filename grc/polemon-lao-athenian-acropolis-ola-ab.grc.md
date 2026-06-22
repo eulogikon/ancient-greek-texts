@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ola-ab` · [HTML page](https://eulogikon.org/works/polemon-lao-athenian-acropolis-ola-ab)
 
+On the Athenian Acropolis was a prose guidebook composed by the Hellenistic scholar Polemon of Laodicea in the early second century BCE. The work is now lost, surviving only in approximately 118 fragments preserved as quotations by later ancient lexicographers and commentators, including Harpocration and the scholiasts on Aristophanes and Demosthenes. It was not a continuous narrative but a systematic, scholarly catalogue of the statues, votive offerings, and inscriptions located on the Acropolis of Athens. Polemon’s method relied on direct observation, and his text is believed to have been organized topographically, moving from monument to monument while recording precise details such as the exact wording of inscriptions and descriptions of artistic features. The work represents a prime example of Hellenistic antiquarian scholarship, aimed at an educated audience concerned with preserving the physical heritage of classical Athens. Its purpose was to create an authoritative and meticulous record of sacred treasures, many of which were already ancient in Polemon’s own time. Despite its fragmentary state, the guidebook was highly influential and served as a key source for later authors, most notably the travel writer Pausanias, who relied on it for his own description of Athens centuries later.
+
 ## Text
 
 ### t1-5

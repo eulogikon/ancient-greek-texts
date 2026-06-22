@@ -20,6 +20,24 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-au` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymns-vmw-au)
 
+Overview The Scholia-Hymns are a corpus of ancient and Byzantine marginal annotations transmitted in manuscripts of Callimachus’s six Hymns. These prose commentaries explicate the poet’s dense mythological references, rare vocabulary, grammar, and meter. They represent the cumulative work of multiple scholars from the Hellenistic period through late antiquity.
+
+Content The scholia address several key areas:
+
+Textual Criticism: Noting variant readings and manuscript differences.
+
+Mythological Exegesis: Explaining the myths and cultic references central to the hymns.
+
+Linguistic Analysis: Defining obscure words and syntactical constructions.
+
+Historical & Geographical Commentary: Identifying people, places, and contexts.
+
+Metrical Analysis: Clarifying Callimachus’s complex poetic meters.
+
+Transmission The scholia survive in the margins of principal medieval codices, notably the 11th-century Codex Laurentianus 32.9 and the 13th-century Codex Vaticanus Palatinus graecus 40. They are fragmentary compilations drawn from longer, lost commentaries.
+
+Significance These annotations are indispensable for modern textual criticism and interpretation of Callimachus. They provide a direct window into ancient scholarly methods and are routinely published in modern critical editions.
+
 ## Text
 
 ### book 1a

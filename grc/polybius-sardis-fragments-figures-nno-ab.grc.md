@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nno-ab` · [HTML page](https://eulogikon.org/works/polybius-sardis-fragments-figures-nno-ab)
 
+The Fragments-Figures of Polybius of Sardis is a rhetorical treatise from the Roman Imperial period, known in Greek as a collection of excerpts concerning rhetorical figures. Structured as an oration comprising five surviving passages, the work focuses on the classification and analysis of these figures. Its content, as evidenced by the extant fragments, deals with rhetorical theory and practice, examining specific techniques such as metaschēmatismós, the deliberate alteration of customary phrasing for metrical or stylistic effect. The treatise is not attested within the standard manuscript traditions and is considered a lost or highly fragmentary text. Its transmission appears limited to these few passages, preserved only through indirect citations in later works. While its fragmentary state obscures the original scope and analytical depth, the work exemplifies the common production of technical rhetorical handbooks during the Imperial era, likely intended for the practical training of orators. Its relative obscurity stands in contrast to the enduring influence of more comprehensive rhetorical manuals produced by contemporaries.
+
 ## Text
 
 ### 105 (1t)

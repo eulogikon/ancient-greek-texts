@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dpc-aa` · [HTML page](https://eulogikon.org/works/nymphodorus-abdera-wonders-sicily-dpc-aa)
 
+_On the Wonders of Sicily_ is a lost paradoxographical work attributed to Nymphodorus of Abdera, known only through fragments preserved by later authors. These excerpts, collected primarily in the third-century BCE compilation of Antigonus of Carystus, indicate the text was a systematic catalog of marvels associated with the island. Its content encompassed reports of natural wonders, unusual geographical features, local ethnographic curiosities, and accounts of miraculous events. As an early example of the Hellenistic genre devoted to collecting and organizing wondrous tales, the work contributed to a lasting tradition of Sicilian lore. It served as a source for subsequent compilers of marvels, including Callimachus and Pliny the Elder, and its fragments are cataloged within modern collections of Greek historical fragments.
+
 ## Text
 
 ### t1-3

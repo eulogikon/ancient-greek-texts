@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sys-ah` · [HTML page](https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah)
 
+The Letters to Nicander is a philosophical epistolary work composed in Attic Greek by Synesius of Cyrene around the turn of the fifth century CE. Structured as a collection of 208 brief passages addressed to his friend Nicander, the work functions as a sustained exercise in consolation and ethical guidance. Its themes are rooted in the classical tradition, drawing principally on Neoplatonic and Stoic thought to examine the nature of grief, the vicissitudes of fortune, and the philosophical pursuit of a stable and virtuous life. The survival of the complete text is attested by a strong medieval manuscript tradition. The specific number of passages suggests a deliberate, perhaps numerological, arrangement. Modern scholarship generally interprets the letters as an act of mutual comfort, composed by Synesius during a time of significant personal bereavement. Initially intended for his grieving correspondent, the work was subsequently edited and published for a wider audience seeking philosophical solace. It stands as a notable example of how late antique intellectuals, including figures like Synesius who would later assume the role of a Christian bishop, maintained a profound and active engagement with the paradigms of classical Greek philosophy.
+
 ## Text
 
 ### 1 (t)

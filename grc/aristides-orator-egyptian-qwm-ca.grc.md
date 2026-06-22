@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-ca` · [HTML page](https://eulogikon.org/works/aristides-orator-egyptian-qwm-ca)
 
+The Egyptian is an oration composed by the Greek orator Aelius Aristides around 142–143 CE. Written in Attic Greek, this 34-section prose encomium is a formal exercise in praise, systematically defending and celebrating ancient Egyptian civilization against its Greek detractors. Aristides extols Egyptian piety, wisdom, legal institutions, and cultural contributions, constructing an argument for their superiority and presenting Egypt as an original source for arts and sciences later adopted by other peoples. The work is fully preserved through medieval manuscripts dating primarily from the 13th and 14th centuries. It was created during the era known as the Second Sophistic, a period marked by a revival of elaborate Greek rhetorical performance under Roman rule. Modern scholarship generally interprets the oration not as a straightforward historical treatise but as a sophisticated display of rhetorical virtuosity, wherein Aristides showcases his skill by adopting the provocative stance of praising a so-called barbarian culture. It is considered to have been crafted for an audience of the cultivated, Greek-speaking elite, reflecting contemporary interests in cultural competition and the renegotiation of identity within the cosmopolitan Roman Empire.
+
 ## Text
 
 ### 331

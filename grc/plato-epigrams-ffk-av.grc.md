@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-av` · [HTML page](https://eulogikon.org/works/plato-epigrams-ffk-av)
 
+The Epigrams are a collection of thirty-three short Greek poems preserved under the name of the philosopher Plato. Composed primarily in elegiac couplets, these verses explore themes of erotic love, friendship, mortality, and philosophical dedication. Notable examples include amorous addresses to figures such as Aster and Agathon, a lament for the philosopher's associate Dion, and a tribute to the astronomer Eudoxus. The poems are characterized by their concision, polished diction, and emotional resonance.
+
+Scholarly consensus holds that the collection as it stands is not the work of a single author from a specific period. While a small number of the epigrams may possibly reflect Plato's own early poetic efforts, the corpus is largely considered a later Hellenistic compilation. It was likely assembled from verses composed in a Platonic style or attributed to the philosopher due to his immense cultural authority. The uncertain date of composition for individual pieces further complicates questions of authenticity.
+
+The survival of the collection is owed to its inclusion in the Byzantine-era Greek Anthology, a vast compilation that preserved thousands of ancient epigrams. Through this transmission, the Platonic Epigrams have exercised a lasting influence as exemplary models of short-form lyric poetry. They have also been instrumental in shaping the post-classical romantic image of Plato as a figure who seamlessly united poetic sensibility with philosophical rigor.
+
 ## Text
 
 ### book 1

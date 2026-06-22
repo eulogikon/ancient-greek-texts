@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-bp` · [HTML page](https://eulogikon.org/works/origen-alexandria-principles-uhs-bp)
 
+The Fragments-Principles consist of thirty-three Greek fragments extracted from Origen of Alexandria’s seminal theological treatise, On First Principles, composed in the early third century. The original systematic work is lost in its complete Greek form, surviving primarily through later translations and patristic quotations. These fragments, preserved in anthologies and polemical writings, represent critical remnants of Origen’s original text. They address the treatise’s core doctrinal themes, including the nature and hierarchy of divine principles such as the Father, the Logos, and the Holy Spirit; the pre-existence, fall, and freedom of rational souls; methods of scriptural exegesis that distinguish literal from spiritual senses; and the final restoration of all beings, known as apokatastasis, along with the nature of the resurrection body.
+
+The complete Greek text was suppressed following posthumous condemnations of Origen’s speculative theology. Its preservation relies substantially on Rufinus’s adapted Latin translation, Jerome’s more literal excerpts, and fragmentary Greek quotations found in works such as the Philokalia and in the writings of doctrinal opponents. These thirty-three fragments allow scholars to bypass some of the doctrinal filters imposed by later translators and critics. Despite its fragmented state, On First Principles established a foundational framework for systematic Christian theology and profoundly influenced later Greek Church Fathers. Its controversial doctrines also fueled the Origenist controversies, culminating in the condemnation of certain Origenist propositions at the Second Council of Constantinople in 553. The fragments remain indispensable for the study of early Trinitarian thought, Christian Platonism, and the development of allegorical biblical exegesis.
+
 ## Text
 
 ### 1

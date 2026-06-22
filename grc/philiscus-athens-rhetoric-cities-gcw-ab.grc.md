@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gcw-ab` · [HTML page](https://eulogikon.org/works/philiscus-athens-rhetoric-cities-gcw-ab)
 
+The Fragments on Rhetoric and Cities is a lost comedic work by the Athenian poet Philiscus, known only by its title transmitted in later biographical sources. The title indicates the work satirized the intertwined subjects of oratorical practice and civic life, themes entirely consistent with the preoccupations of Attic Old Comedy. It is recorded as comprising seven passages, though no direct quotations or manuscripts survive. The work's significance lies in its attestation within the broader corpus of Attic comedy, serving as evidence of the genre's sustained engagement with the core political and cultural institutions of the Athenian polis, specifically the art of public persuasion and the administration of the city-state. Its preservation solely as a title in the tenth-century Byzantine encyclopedia known as the Suda underscores the fragmentary nature of our knowledge of many comic poets from the classical period.
+
 ## Text
 
 ### book 1.1

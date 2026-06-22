@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-ab` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-lacedaemonians-qwm-ab)
 
+The Leuctrian A, also known as In Favor of the Lacedaemonians, is an epideictic oration composed in Attic Greek by the rhetorician Aelius Aristides around the middle of the second century CE. A sophisticated rhetorical exercise, it presents a defense of the Spartans for their conduct and leadership leading to their defeat by the Thebans at the Battle of Leuctra in 371 BCE. The speech is framed as a formal legal plea before a tribunal of Greek states, arguing that Spartan hegemony was characterized by justice and moderation. As a complete text divided into twenty sections, it survives within Aristides’ collected orations. It was never intended for actual political delivery but rather as an elaborate display piece for educated audiences, exemplifying the values of the Second Sophistic movement, in which Greek intellectuals revived and practiced classical rhetorical forms. Modern scholarship interprets the work primarily as a demonstration of elite cultural knowledge, employing historical exempla to explore enduring themes of justice, the use of power, and historical accountability. It is frequently studied alongside its companion piece, Leuctrian B (Against the Lacedaemonians), illustrating the traditional rhetorical practice of arguing both sides of a historical case.
+
 ## Text
 
 ### 407

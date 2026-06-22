@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `juq-aa` · [HTML page](https://eulogikon.org/works/hermolochus-lyric-uncertainty-life-juq-aa)
 
+The lyric poem On the Uncertainty of Life is attributed to the obscure poet Hermolochus. It survives only as a title, which is also recorded as Apospasma, meaning "Fragment" or "Extract." No direct quotations or substantive content from the poem are preserved in the extant record. The sole indicator of its subject is its title, which points to a treatment of the classic Greek theme of life's fragility and unpredictability. The work is considered lost, known only by its cited title. The designation Apospasma indicates its fragmentary preservation, likely from a mention in a lost ancient source such as a lexicon or a scholiast's note. While the theme was ubiquitous in Greek literature, this particular poem by Hermolochus appears to have left no discernible mark on the surviving literary tradition. The poet is absent from canonical lists of lyric poets and cannot be securely identified with known historical figures of the same name.
+
 ## Text
 
 ### unit_1

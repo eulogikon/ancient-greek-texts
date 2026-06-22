@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dlq-aa` · [HTML page](https://eulogikon.org/works/xenophon-comm-anabasis-dlq-aa)
 
+The Scholia on the Anabasis of Cyrus constitute a corpus of explanatory annotations on Xenophon’s historical narrative, compiled over many centuries from the Hellenistic period through the Byzantine era. These notes, known as scholia, represent the accumulated work of generations of teachers and scholars who used Xenophon’s text for instruction. They were not composed as an independent literary work but were preserved in the margins and between the lines of medieval manuscripts of the Anabasis. The primary function of the scholia was pedagogical, designed to aid students in comprehending Xenophon’s classical Attic Greek. They provide glosses on obscure vocabulary, clarify grammatical constructions, identify historical figures and geographical locations, and occasionally note textual variants or comment on stylistic and ethical points.
+
+The content of the scholia is highly varied, reflecting the layered nature of their compilation. A representative organized collection contains notes on 276 specific passages from Xenophon’s text. The annotations range from simple lexical equivalents, such as explaining a rare word with a more common synonym, to more elaborate historical or cultural explanations. For instance, notes might identify a place name, elucidate a military term, or offer a rationale for certain Greek customs mentioned in the narrative. The transmission of this material is entirely dependent on the manuscript tradition of the Anabasis itself. The scholia survive in Byzantine copies dating from the tenth to the fifteenth century, which selectively copied and condensed annotations from earlier, now-lost sources. As such, they form a palimpsest of ancient scholarship, distilling elements of Hellenistic and Roman commentary within a medieval framework.
+
+For modern philology, the scholia offer a crucial window into ancient and medieval educational practices, revealing how a canonical prose text was studied and interpreted in the Greek-speaking world. They are an indispensable resource for understanding the reception history of Xenophon’s work, the evolution of Greek lexicography, and the methods of textual criticism employed over a millennium of scholarly activity.
+
 ## Text
 
 ### book 1,2,5

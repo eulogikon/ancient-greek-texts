@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ixo-ab` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-sphere-cylinder-ixo-ab)
 
+On the Sphere and Cylinder is a two-book mathematical treatise by Archimedes of Syracuse, composed around 225 BCE and addressed to his colleague Dositheus. The work rigorously establishes fundamental geometric relationships between three-dimensional shapes. In the first book, Archimedes demonstrates that the surface area of a sphere is four times the area of its greatest circle and proves that the volume of a sphere is exactly two-thirds the volume of the circumscribed cylinder—a cylinder whose height equals the sphere's diameter and whose base equals its great circle. The second book extends these principles to solve more complex problems, such as dividing a sphere by a plane so that the resulting segments bear a prescribed ratio to one another.
+
+The treatise is a paramount example of the application of the method of exhaustion, a Greek technique of proof that approximates curved figures with inscribed and circumscribed polygons to establish exact equalities. This method is considered a direct precursor to integral calculus. Written for an audience of expert geometers, the work represents a peak of Hellenistic theoretical science, systematically advancing beyond the foundations laid by earlier mathematicians. The text survives primarily through medieval Greek manuscripts, most notably a ninth-century codex that preserved a major collection of Archimedes' works. According to later biographical tradition, Archimedes prized these discoveries so highly that he requested the diagram of a sphere enclosed in a cylinder be engraved on his tomb. Its translation into Latin during the Renaissance exerted a profound influence on the development of early modern mathematics and the eventual formulation of calculus.
+
 ## Text
 
 ### 1.8.(1t)

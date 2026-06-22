@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-am` · [HTML page](https://eulogikon.org/works/xenophon-athens-anabasis-ezq-am)
 
+Xenophon's Anabasis is a prose history composed around 370 BCE that chronicles the expedition of Cyrus the Younger against his brother, the Persian king Artaxerxes II, in 401 BCE, and the subsequent retreat of the Greek mercenary force that supported him. Written in clear Attic Greek, the narrative unfolds across seven books. It begins with the muster of Cyrus's army at Sardis and its march into the heart of Mesopotamia, culminating in the Battle of Cunaxa, where Cyrus is killed and his cause collapses. The core of the work details the perilous journey of the leaderless Greek contingent, known as the Ten Thousand, as they fight their way north through hostile territories toward the Black Sea. Their arrival at the coast is memorably captured by the triumphant cry "The sea! The sea!" The account concludes with the army's difficult passage along the coast, its brief service under a Thracian king, and its eventual dissolution as the survivors integrated into other military forces, notably those of Sparta.
+
+Though written decades after the events, the Anabasis functions on multiple levels: as a firsthand military memoir, a subtle defense of Xenophon's own leadership during the retreat, and a treatise on effective command and discipline. Modern scholarship often interprets the work as promoting Panhellenic ideals, implicitly arguing for Greek military superiority and the feasibility of conquering the Persian Empire. It also offers profound reflections on survival, piety, and the clash of cultures. The text has survived in its complete form through a robust medieval manuscript tradition, aided by its enduring status as a primary model of classical Greek prose for students. Its gripping story of a disciplined army's retreat from deep within a foreign empire exerted a significant influence on later historians and military thinkers, even informing the campaigns of Alexander the Great.
+
 ## Text
 
 ΚΥΡΟΥ ΑΝΑΒΑΣΕΩΣ Α

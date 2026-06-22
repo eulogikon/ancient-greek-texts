@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fly-aa` · [HTML page](https://eulogikon.org/works/sannyrion-comic-fragments-fly-aa)
 
+Comic Fragments on Gods and Mortals is a modern scholarly compilation of surviving excerpts from the lost comedies of Sannyrion, an Athenian poet of Old Comedy active in the late fifth and early fourth centuries BCE. The work itself is not an ancient, unified text but a collection of twelve short passages in Attic Greek verse, assembled under a thematic title that reflects a common subject in the genre. The fragments display the hallmarks of Old Comedy, featuring sharp satire, personal invective against contemporary figures such as the tragic poet Melanthius, and humor derived from food and bodily consumption. In keeping with the conventions of the period, Sannyrion's plays almost certainly portrayed both gods and mortals in a comically irreverent light.
+
+No complete play by Sannyrion has survived antiquity. These fragments owe their preservation solely to their citation by later ancient authors, most notably Athenaeus in his Deipnosophists, who recorded them for their linguistic curiosity or witty content. Modern scholarship regards Sannyrion as a minor contemporary of the more famous Aristophanes. His extant fragments, though brief, offer valuable insight into the competitive environment of Athenian dramatic festivals and the diversity of comic styles that existed beyond the works of the few major playwrights known from complete manuscripts.
+
 ## Text
 
 ### book 1.1

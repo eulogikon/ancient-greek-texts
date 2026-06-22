@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kqe-aa` · [HTML page](https://eulogikon.org/works/hegesianax-alexandria-troas-fragments-kqe-aa)
 
+The treatise Fragments and Title by the Hellenistic poet-historian Hegesianax of Alexandria Troas is a lost work. No substantive fragments or content from it survive, and its precise subject remains unknown, though the title suggests it may have been a collection of excerpts or a commentary. Hegesianax is primarily known for his historical epic the Phainomena, a didactic astronomical poem dedicated to King Antiochus III. The lost treatise is preserved only as a title, listed among Hegesianax’s writings in the 10th-century Byzantine encyclopedia known as the Suda. No manuscripts or direct quotations exist. As a completely lost text, Fragments and Title has exerted no discernible influence, with Hegesianax’s historical significance resting entirely on the scant surviving fragments of his Phainomena, which were cited by later grammarians and commentators.
+
 ## Text
 
 ### 466

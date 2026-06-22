@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bzo-aa` · [HTML page](https://eulogikon.org/works/critias-athens-pirithous-bzo-aa)
 
+Pirithous is a lost satyr play attributed to Critias of Athens, a politician and writer of the late 5th century BCE best known for his role among the oligarchic Thirty Tyrants. The play dramatized the mythological story of the heroes Theseus and Pirithous and their ill-fated attempt to abduct Persephone from the underworld. No complete text of the work survives; it is known only through a handful of fragments preserved by later authors. The most substantial of these is a 42-line passage quoted by the philosopher Sextus Empiricus, which contains a notable rationalizing argument that the gods were an invention of a shrewd ruler designed to deter secret wrongdoing and enforce social morality. This fragment is often interpreted as a reflection of the radical Sophistic thought circulating in Athens during Critias's lifetime, using the traditionally irreverent and subversive format of the satyr play to explore atheistic ideas. Other, smaller fragments are found in the anthology of Stobaeus. The play's attribution remains somewhat uncertain, as some ancient sources assigned it to Euripides, though stylistic and thematic analysis has led many modern scholars to favor Critian authorship.
+
 ## Text
 
 ### fr a

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ad` · [HTML page](https://eulogikon.org/works/anon-hist-frag-olympic-chronicle-mmg-ad)
 
+The Olympic Chronicle is an anonymous ancient Greek historical compilation preserved as a collection of eleven discrete passages. These fragments are organized chronologically according to the framework of Olympiads, recording significant political, military, and cultural events synchronized within that dating system. The work survives in a fragmentary state, and its specific manuscript tradition remains undetailed. The title Olympic Chronicle is a modern descriptive designation for this collection. As a representative of the Olympic chronicle genre, it exemplifies a class of scholarly tools essential for synchronizing historical events from disparate Greek city-states. Its principal significance lies in the potential historical data contained within its fragments, which illustrate the fragmentary nature of much ancient historiography.
+
 ## Text
 
 ### 2b,257a,F 1

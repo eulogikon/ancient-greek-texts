@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jaq-aa` · [HTML page](https://eulogikon.org/works/erasistratus-ceos-testimonies-fragments-jaq-aa)
 
+The work known as Testimonies and Fragments attributed to Erasistratus of Ceos is not an original treatise but a modern scholarly compilation. It aggregates the surviving evidence for this major 3rd-century BCE Hellenistic physician, whose own extensive writings are lost. The collection comprises 222 passages of fragments, which are direct quotations, and testimonies, which are accounts by later authors. These have been pieced together from a range of sources, most notably the works of Galen and Celsus.
+
+The assembled material details Erasistratus's influential and often controversial doctrines. In physiology and anatomy, he made significant advances, distinguishing between sensory and motor nerves and providing detailed descriptions of the heart's valves and the structure of the brain. He rejected the prevailing humoral theory of disease, instead explaining pathology through the concept of plethora, or overfullness, and the abnormal invasion of blood into the arteries, which he believed normally carried only pneuma, or vital spirit. His methodology employed teleological explanation, arguing that anatomical structure reveals physiological function. In therapy, he favored conservative treatments such as diet and fasting over more drastic interventions. In psychology, he located the governing part of the soul in the cerebellum and developed a sophisticated model involving psychic, vital, and natural pneuma.
+
+The transmission of his ideas is entirely indirect and often polemical. The primary source is Galen, who frequently quotes Erasistratus at length in order to critique his theories. Other important sources include the Roman encyclopedist Celsus and the biographer Diogenes Laërtius. Erasistratus stands as a foundational and provocative figure in the history of medicine. His anatomical investigations set a new standard of precision, and his physiological theories remained central topics of debate for centuries. His greatest historical influence was arguably as the chief intellectual foil for Galen; the extensive refutations within Galen's corpus not only preserved much of Erasistratus's thought but also helped shape the Galenic system that would dominate Western and Islamic medical thought for over a millennium.
+
 ## Text
 
 ### 1A (1t)

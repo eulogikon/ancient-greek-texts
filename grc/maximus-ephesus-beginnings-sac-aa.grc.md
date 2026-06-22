@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sac-aa` · [HTML page](https://eulogikon.org/works/maximus-ephesus-beginnings-sac-aa)
 
+On Beginnings, Epitome is a philosophical treatise by the 4th-century CE Neoplatonist thinker and theurgist Maximus of Ephesus. Written in Attic Greek, the work is known only through fragments and later references, as the full text is lost. It was structured in fifteen passages and is described as an epitome, indicating it was likely a summary or handbook. As the title suggests, its subject was first principles or origins, a core topic in Neoplatonism concerning the divine foundations of reality. The work blended metaphysical speculation with ritual theory, explaining how specific rites, also termed katarchai, could align the human soul with higher celestial powers. It is a product of the late Roman philosophical milieu, particularly the school of Iamblichus, which emphasized ritual practice, or theurgy, as essential for spiritual ascent. The treatise appears to have been written for an audience of pagan philosophers interested in the practical application of Platonic doctrines. It survives only through quotations by later philosophers, most notably Proclus in the 5th century, whose texts preserved these fragments after the suppression of pagan intellectual traditions.
+
 ## Text
 
 ## Μαξίμου περὶ καταρχῶν μεταφρασθὲν πεζῇ λέξει ἐκ τῶν ἡρωικῶν μέτρων. Εἰ δ’ ἄγε μοι κούρη Πιμπληιὰς ἔννεπε Μοῦσα Μήνην ἠερόφοιτον, ὅπως ἄνδρεσσιν ἕκαστα σημαίνει σκολιωπὸν ἐπιστείχουσα κέλευθον.

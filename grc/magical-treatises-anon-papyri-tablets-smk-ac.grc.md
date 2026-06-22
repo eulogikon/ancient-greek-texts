@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `smk-ac` · [HTML page](https://eulogikon.org/works/magical-treatises-anon-papyri-tablets-smk-ac)
 
+The Magical Papyri constitute an extensive and anonymous corpus of ancient handbooks and formularies detailing the practice of magic. Written predominantly in Koine Greek but also incorporating Demotic Egyptian, Old Coptic, and other languages, these texts date from approximately the second century BCE to the fifth century CE. The corpus is not a unified literary work but a modern scholarly compilation of over one hundred individual artifacts, including papyrus scrolls, lead curse tablets known as defixiones, and engraved gemstones. These documents provide meticulous instructions for performing spells designed to achieve a wide array of ends, such as attracting love, healing illness, cursing rivals, foretelling the future, and attaining visionary experiences or supernatural power. The prescribed rituals typically involve invocations to a syncretic pantheon of Greco-Egyptian deities, specific physical actions, and the utterance of special words of power.
+
+The collection survives almost exclusively on the original physical objects, preserved by the arid climate of Egypt and recovered through archaeological excavation, chiefly in the region of Thebes. Unlike canonical literary texts, these practical manuals were not transmitted through medieval scribal traditions. Scholars interpret the Magical Papyri as the working tools of ritual specialists in Greco-Roman Egypt, offering a direct window into a vibrant, multicultural milieu where Egyptian, Greek, Jewish, and early Christian magical traditions dynamically intermingled. As such, they serve as an indispensable primary source for understanding the everyday religious and ritual practices of the ancient Mediterranean world.
+
 ## Text
 
 ### 1

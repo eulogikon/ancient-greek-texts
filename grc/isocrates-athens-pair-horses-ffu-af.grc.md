@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-af` · [HTML page](https://eulogikon.org/works/isocrates-athens-pair-horses-ffu-af)
 
+_On Pair of Horses_, also known by the title _Trapeziticus_, is a forensic oration composed by the Athenian rhetorician Isocrates for a client involved in a private lawsuit. The speech functions as a prosecution against the banker Pasion, centering on a financial dispute over a deposited sum of money and a pair of racehorses. This relatively short work of thirty-two sections belongs to Isocrates’ early career, when he wrote speeches for others to deliver in the Athenian courts. The oration presents the plaintiff’s case to an Athenian jury, arguing that Pasion wrongfully withheld the assets. Its core themes include the violation of financial and custodial agreements, the construction of character through attacks on Pasion’s credibility, and the commercial and legal interactions of metics, or resident foreigners, in fourth-century BCE Athens. The speech survives complete within the medieval manuscript tradition of Isocrates’ works, transmitted alongside his other orations with no significant textual losses reported. As an early forensic work, _On Pair of Horses_ is studied as an example of Attic oratory and for its insights into Athenian law, rhetoric, and the social history of metic commerce. While its influence is less than that of Isocrates’ major political treatises, it remains a valuable source for understanding his rhetorical development and the practical workings of classical Athenian law.
+
 ## Text
 
 ### De big t

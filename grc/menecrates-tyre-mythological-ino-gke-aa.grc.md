@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gke-aa` · [HTML page](https://eulogikon.org/works/menecrates-tyre-mythological-ino-gke-aa)
 
+The Mythological Fragments on Ino by Menecrates of Tyre is a lost mythographical work, known only from its citation in the 10th-century Byzantine encyclopedia, the Suda. It is classified among the fragmentary Greek historians and was a collection of excerpts pertaining to the mythological figure Ino, the Theban princess transformed into the sea goddess Leucothea. Based on the standard narrative of Ino, the fragments likely addressed themes of divine punishment and transformation stemming from Hera’s persecution, her subsequent apotheosis and the foundation of her cults, her role in maritime salvation as a protector of sailors, and local Boeotian and maritime traditions associated with her worship. The work is entirely lost, with no direct quotations or manuscript fragments extant; its existence is attested solely by its entry in the Suda lexicon. Its inclusion there indicates it was used as a source for mythological data by later compilers. The work exemplifies the Hellenistic tradition of specialized monographs on individual mythological figures and contributes to understanding the scope of ancient mythographical writing.
+
 ## Text
 
 ### 6

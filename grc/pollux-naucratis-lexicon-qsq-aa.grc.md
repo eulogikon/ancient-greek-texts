@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsq-aa` · [HTML page](https://eulogikon.org/works/pollux-naucratis-lexicon-qsq-aa)
 
+The Onomasticon, or Lexicon of Names, is a ten-volume Greek thesaurus compiled by the scholar and rhetorician Pollux of Naucratis around 180 CE. Composed in Attic Greek, the work is dedicated to the emperor Commodus, a feature which aids in confirming its date. It functions as a specialized reference designed for orators and students, systematically cataloguing vocabulary not in alphabetical order but by subject matter. Its 1,828 entries are organized thematically, covering topics such as the gods, family relations, political institutions, and various crafts and trades. For each subject, it provides lists of synonyms, related terms, and phrases, aiming to equip the user with a rich and stylistically pure vocabulary. Modern scholarship interprets the Onomasticon as a practical handbook emblematic of the Second Sophistic movement, a cultural revival that prized the linguistic forms and rhetorical elegance of classical Athens under the Roman Empire. The complete text has been preserved through medieval manuscripts. It served as a standard lexical reference throughout the Byzantine period and remains highly valued today not only as a lexicon but also as a unique source of information on daily life, technical terminology, and numerous literary works now lost.
+
 ## Text
 
 ### 1 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lke-ac` · [HTML page](https://eulogikon.org/works/philochorus-athens-sacred-war-delphi-lke-ac)
 
+Philochorus of Athens’s On the Sacred War at Delphi is a lost historical monograph focusing on the Third Sacred War, which lasted from 356 to 346 BCE. The work survives only in fragmentary form, with its transmitted title, Apospasma, meaning "Extract," indicating its preservation through excerpts in later authors. The treatise detailed this pivotal conflict, which centered on the Phocian seizure and alleged desecration of the sanctuary at Delphi and the subsequent military response organized by the Delphic Amphictyony. It chronicled the complex military and political maneuvers of the war, which culminated in the decisive intervention of Philip II of Macedon and his victory over the Phocians. The account also addressed the conflict's profound consequences for Athenian interests and the broader shift in the Greek balance of power toward Macedonian hegemony.
+
+The text is known only through citations by later ancient and Byzantine scholars, such as Photius. These fragments are compiled in modern scholarly collections. As a specialized study by a major Atthidographer, a chronicler of Athenian history, it provided a detailed, Athenian-informed perspective on a war that fundamentally reshaped the Greek political order. Its surviving fragments remain a crucial source for reconstructing both the historical event and the methods of Hellenistic historical writing.
+
 ## Text
 
 ### 34c.(l1)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `abe-aa` · [HTML page](https://eulogikon.org/works/homer-epigrams-abe-aa)
 
+The Epigrams attributed to Homer constitute a collection of seven brief Greek poems composed in the epic dialect. These verses are not preserved as an independent work but are embedded within much later ancient biographies of the poet, most notably the Contest of Homer and Hesiod. Their subjects are diverse, encompassing epitaphs, such as one for the legendary King Midas, dedicatory inscriptions for objects like a prize tripod, and philosophical reflections on life and death. Modern scholarship regards these poems as pseudepigrapha, later compositions ascribed to the renowned poet to borrow his authority. They are universally considered inauthentic, with the majority likely dating from the Hellenistic or Roman periods, centuries after the era associated with Homer. Their principal function appears to have been to embellish the legendary biography of Homer by demonstrating his purported virtuosity in poetic forms beyond the epic cycle. The survival of the entire collection is due solely to its quotation within those later prose biographies, which were transmitted and copied throughout the medieval period.
+
 ## Text
 
 ### book 153.1.1

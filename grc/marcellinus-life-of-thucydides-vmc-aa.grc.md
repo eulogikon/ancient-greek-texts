@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmc-aa` · [HTML page](https://eulogikon.org/works/marcellinus-life-of-thucydides-vmc-aa)
 
+Overview The Life of Thucydides (Βίος Θουκυδίδου) is a prose biography and scholarly introduction to the historian Thucydides, traditionally attributed to Marcellinus. Structured in 44 sections, it belongs to the late antique genre of prolegomena and bioi composed to accompany classical texts. The work provides essential background and critical frameworks for studying Thucydides' History of the Peloponnesian War.
+
+Content The biography covers Thucydides' ancestry, career, exile, and death. Its primary focus is literary and stylistic analysis of the History, addressing its structure, rhetorical power, and utility for orators. The text engages with earlier commentators like Didymus and Caecilius, recording scholarly debates on Thucydides' historiography, including his claims to accuracy and use of speeches.
+
+Transmission Transmitted within the manuscript tradition of Thucydides' History, the work survives intact, typically appearing as a preface in medieval codices. The traditional attribution to Marcellinus is not certain, leading some modern scholars to use the designation "Pseudo-Marcellinus".
+
+Significance As the most detailed ancient biography of Thucydides, this Life shaped medieval and Renaissance understanding of the historian. It established the standard narrative of his life and provided the foundational set of introductory questions for students, remaining a primary source for studying Thucydides' ancient reception.
+
 ## Text
 
 ## ΜΑΡΚΕΛΛΙΝΟΥ ἐκ τῶν εἰς Θουκυδίδην σχολίων περὶ τοῦ βίου αὐτοῦ Θουκυδίδου καὶ τῆς τοῦ λόγου ἰδέας Τῶν Δημοσθένους μύστας γεγενημένους θείων λόγων τε καὶ ἀγώνων, συμβουλευτικῶν τε καὶ δικανικῶν νοημάτων μεστοὺς γενομένους καὶ ἱκανῶς ἐμφορηθέντας, ὥρα λοιπὸν καὶ τῶν Θουκυδίδου τελετῶν ἐντὸς καταστῆναι· πολὺς γὰρ 〈ὁ〉 ἀνὴρ τέχναις καὶ κάλλει λόγων καὶ ἀκριβείᾳ πραγμάτων καὶ στρατηγικαῖς συμβουλαῖς καὶ πανηγυρικαῖς ὑποθέσεσιν.

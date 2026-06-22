@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oyw-aa` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa)
 
+The Letter to King Ptolemy—the Fabric of Man is a pseudepigraphic medical treatise composed in the form of an epistle addressed to a Ptolemaic king, most likely Ptolemy I Soter or Ptolemy II Philadelphus. Though attributed to Hippocrates, it is the work of an unknown author from the Hellenistic period and serves as a systematic summary of core Hippocratic anatomical and physiological principles. The text is organized into eleven parts and provides a methodical outline of human constitution, beginning with conception and proceeding through the development and function of the major bodily systems. Its content synthesizes classical doctrines such as the theory of the four humors and presents the human body as a skillfully crafted system, deliberately transferring specialized medical knowledge into an accessible format suited for royal patronage and an elite, non-specialist readership.
+
+Transmitted within the larger Hippocratic Corpus, the complete text survives in Greek manuscripts containing the Hippocratic letters. Its pseudepigraphic nature was recognized even in antiquity. The letter’s primary significance lies in its illustration of the Hellenistic reception and systematization of Hippocratic ideas. It exemplifies how foundational medical doctrines were condensed and repackaged in a clear, epistolary form, thereby contributing to the enduring cultural authority of the Hippocratic name in subsequent centuries.
+
 ## Text
 
 ## ΙΠΠΟΚΡΑΤΟΥΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΠΤΟΛΕΜΑΙΟΝ ΒΑΣΙΛΕΑ ΠΕΡΙ ΚΑΤΑΣΚΕΥΗΣ ΑΝΘΡΩΠΟΥ Συνέστηκεν ὁ κόσμος ἐκ στοιχείων τεσσάρων, οἷον πυρὸς, ἀέρος, ὕδατος, γῆς· τουτέστιν ἐκ θερμοῦ καὶ ψυχροῦ καὶ ὑγροῦ καὶ ξηροῦ· συνέστηκε δὲ καὶ ὁ ἄνθρωπος ἐκ τῶν αὐτῶν τεσσάρων στοιχείων· οἷον ἐξ αἵματος καὶ φλέγματος, καὶ ξανθῆς χολῆς καὶ μελαίνης.

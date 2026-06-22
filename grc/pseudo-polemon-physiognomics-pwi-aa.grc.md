@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pwi-aa` · [HTML page](https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-aa)
 
+The Physiognomics is an ancient Greek technical treatise on the art of deducing character from physical appearance. Though traditionally attributed to Polemon of Laodicea, a prominent orator of the early second century CE, modern scholarship identifies it as a pseudonymous work likely composed by an unknown author at a slightly later date. The treatise systematically correlates anatomical features—such as the shape of the eyes, nose, and ears, along with posture and gait—with moral and psychological qualities like courage, deceit, or trustworthiness. Its foundational principle is that the body serves as a reliable indicator of the soul's disposition.
+
+The original text survives only in part through a complex manuscript tradition. It is known chiefly from a condensed Greek version, commonly referred to as the Adamantian Epitome, which presents its content as a series of roughly seventy diagnostic passages. A more extensive version of the work is preserved through an Arabic translation. Rooted in earlier Aristotelian and Peripatetic scientific thought, the treatise appears to have been composed for practical application in fields such as rhetoric, social evaluation, and personal judgment. It reflects the cultural preoccupations of the Roman Imperial period, particularly the Second Sophistic movement, which placed a high premium on public performance, personal presentation, and the interpretation of outward signs.
+
+The Physiognomics exerted considerable influence over subsequent centuries. It served as a principal source for both Byzantine and Arabic scholars, playing a key role in transmitting the theories and practices of physiognomy into the medieval and Renaissance periods.
+
 ## Text
 
 ### 1

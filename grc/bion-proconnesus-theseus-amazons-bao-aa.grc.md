@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bao-aa` · [HTML page](https://eulogikon.org/works/bion-proconnesus-theseus-amazons-bao-aa)
 
+The Fragments on Theseus and Amazons is a lost prose work attributed to Bion of Proconnesus. Its existence is known only by title, with no direct quotations or content preserved in the surviving literary record. The author remains obscure; a namesake, Bion of Proconnesus, is mentioned by Diogenes Laertius as a sixth-century BCE soothsayer, but he is not otherwise associated with literary composition. Judging from its title, the work treated the mythological conflict between the Athenian hero Theseus and the Amazons, a theme central to Athenian civic myth that celebrated the triumph of Greek civilization over barbarism. The work is completely lost, with no manuscript tradition or identifiable fragments. If authentic, it would represent an early example of prose mythography, but its content, transmission, and influence remain entirely undocumented.
+
 ## Text
 
 ### 1

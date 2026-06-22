@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sys-ab` · [HTML page](https://eulogikon.org/works/synesius-cyrene-egyptians-providence-sys-ab)
 
+_Egyptians or On Providence_ is a two-book prose treatise composed in Attic Greek by Synesius of Cyrene around 400–402 CE. This philosophical allegory employs a retelling of the Egyptian myth of Osiris, Typhon, and Horus to examine the nature of divine providence while offering a veiled commentary on contemporary political events within the Eastern Roman Empire. The first book frames the mythological conflict between the good god Osiris, succeeded by his son Horus, and the evil Typhon as an allegory for the struggle between cosmic order and chaos. The second book provides a more direct, though still allegorical, narrative of recent political turmoil in Constantinople, criticizing the growing power of Gothic military commanders and pervasive corruption at the imperial court. Modern scholarship generally interprets the work as a roman à clef, in which the mythological figures correspond to historical persons such as the praetorian prefect Aurelian and the Gothic general Gainas. Synesius, a Neoplatonist philosopher who later became a Christian bishop, crafted the treatise to assert the ultimate triumph of divine justice in human affairs, despite its often inscrutable mechanisms. The complete text is preserved through medieval manuscripts, including the 10th-century Codex Argentoratensis, and remains a significant document of early 5th-century political thought, uniquely blending Hellenic philosophical tradition with urgent reflection on the Gothic crisis during the reign of Emperor Arcadius.
+
 ## Text
 
 ### t 1

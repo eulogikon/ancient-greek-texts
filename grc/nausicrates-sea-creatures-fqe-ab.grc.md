@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fqe-ab` · [HTML page](https://eulogikon.org/works/nausicrates-sea-creatures-fqe-ab)
 
+_Fragments on Sea Creatures_ is a lost comedy by the 4th-century BCE Athenian poet Nausicrates, known only by its title and a notation that it originally comprised fourteen passages concerning marine life. As a work of the Middle Comedy period, it likely employed sea creatures as a vehicle for social satire or parody. Potential thematic targets could have included professions connected to the sea, such as fishermen, fishmongers, or cooks, as well as mockery of pretentious natural philosophy or epic catalogues, or perhaps parody of mythological stories involving sea monsters or deities. The play is preserved solely through its mention in ancient catalogs of comic works; the notation of fourteen fragments refers to excerpts once cited by later scholars, though these citations are themselves no longer extant, and no manuscript tradition exists for the text. While its direct influence is untraceable, the work exemplifies the thematic breadth of Middle Comedy, demonstrating how specialized or mundane topics could form the basis of Athenian comic drama, and its title contributes to the historical record of the genre's diversity.
+
 ## Text
 
 ### book 1.1

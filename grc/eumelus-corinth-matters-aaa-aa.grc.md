@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aaa-aa` · [HTML page](https://eulogikon.org/works/eumelus-corinth-matters-aaa-aa)
 
+Corinthian Matters is a fragmentary epic poem traditionally attributed to the semi-legendary Corinthian poet Eumelus, dating to the eighth or seventh century BCE. It belongs to the genre of early Greek regional or foundation epics, which narrated the mythical origins and early heroic histories of specific city-states. The work focused on the city of Corinth, detailing its foundation legends and celebrating its ruling Bacchiad aristocracy. Its narratives included the settlement of the land by primordial figures like Ephyra, daughter of Oceanus, and the subsequent division of territory among heroic descendants of Helios, thereby establishing Corinth's divine and heroic pedigree. The poem also contained accounts pertinent to Corinthian colonial enterprises, such as the foundation of Syracuse. The work survives only in approximately a dozen fragments, consisting of quotations and summaries preserved by later authors like Pausanias and scholiasts; no continuous manuscript exists. Modern scholarship interprets Corinthian Matters as a deliberate political and cultural project, crafted to legitimize the Bacchiad dynasty's rule and to articulate a distinct civic identity for Corinth by anchoring it firmly within the broader framework of Panhellenic mythology. It stands as a significant example of how early Greek communities utilized the authoritative medium of epic poetry to construct and propagate their official historical traditions.
+
 ## Text
 
 ### 3b,451,F 1a

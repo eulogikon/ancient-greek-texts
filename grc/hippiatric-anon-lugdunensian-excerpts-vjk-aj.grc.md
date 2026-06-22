@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vjk-aj` · [HTML page](https://eulogikon.org/works/hippiatric-anon-lugdunensian-excerpts-vjk-aj)
 
+The Lugdunensian Excerpts is an anonymous Greek compilation of 203 passages concerning hippiatry, the veterinary treatment of horses. As part of the corpus of late antique and early Byzantine technical handbooks, it synthesizes practical knowledge on equine medicine drawn from earlier sources within the tradition. The work’s title suggests a connection to Lugdunum, modern Lyon, possibly indicating the provenance of a key manuscript or the location of its compiler. Its content systematically addresses the diagnosis and treatment of equine diseases, surgical procedures, wound care, pharmacology, and the general husbandry of horses. The text is preserved within the larger corpus of Greek hippiatric writings, with the standard modern edition appearing in the Corpus hippiatricorum Graecorum alongside works by authors such as Apsyrtus; its manuscript tradition involves complex, overlapping compilations and redactions. As a component of this corpus, the Lugdunensian Excerpts played a role in transmitting ancient veterinary knowledge into the Byzantine period. This body of knowledge was later translated into Latin and Arabic, thereby influencing medieval veterinary practice in both Europe and the Islamic world.
+
 ## Text
 
 ### 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uzu-ab` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-categories-commentary-uzu-ab)
 
+Simplicius of Cilicia’s Commentary on Aristotle's Categories is a comprehensive philosophical treatise composed in Greek during the 530s CE. This extensive line-by-line analysis of Aristotle’s foundational logical work opens with a substantial prologue before proceeding to detailed exegesis. The commentary is distinguished by its critical and systematic engagement with earlier interpreters, including Porphyry, Alexander of Aphrodisias, Themistius, and others, whose views Simplicius meticulously compares, evaluates, and often refines.
+
+A definitive product of the late Neoplatonic scholarly tradition, the work embodies the intellectual project of harmonizing Aristotle with Plato. Simplicius argues that Aristotle’s categories pertain solely to the realm of sensible, physical reality and thus do not conflict with Platonic metaphysics concerning transcendent Forms. His overarching aim is to demonstrate that Aristotelian logic serves as an essential preparatory discipline for the pursuit of higher philosophical truth. The sophisticated and technical nature of the commentary suggests it was composed for advanced students and colleagues within the Athenian school, reflecting the erudite environment that persisted shortly before the Academy’s closure by Emperor Justinian.
+
+Preserved complete through Byzantine manuscripts and subsequent translations, the text survives as a crucial document for the history of ancient philosophy. Its thorough doxographical reporting of earlier, now-lost commentaries makes it an invaluable source for understanding the reception and interpretation of Aristotelian logic in antiquity.
+
 ## Text
 
 ### in Cat 8 1 (1T)

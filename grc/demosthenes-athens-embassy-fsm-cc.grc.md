@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-cc` · [HTML page](https://eulogikon.org/works/demosthenes-athens-embassy-fsm-cc)
 
+On the Embassy is a forensic oration delivered by the Athenian statesman Demosthenes in 343 BCE. It constitutes a detailed prosecution speech against his political rival Aeschines, whom Demosthenes accused of corruption, treason, and official misconduct during an embassy to King Philip II of Macedon. The speech centers on the diplomatic events surrounding the Peace of Philocrates in 346 BCE, meticulously arguing that Aeschines accepted bribes and negotiated a settlement deliberately harmful to Athenian interests. Characterized by a chronological narrative structure, fervent patriotic appeals, and severe personal invective against Aeschines' character, the oration is a masterful blend of complex diplomatic history and persuasive public rhetoric.
+
+The work is a pivotal document from the intense political struggle in Athens over the city's response to the rising power of Macedon. Composed for a large jury of Athenian citizens, it provides a primary historical source for understanding the functioning of Athenian democracy, foreign policy, and legal practice in the classical period. The speech survives intact and is frequently studied in conjunction with the surviving defense oration delivered by Aeschines on the same affair, offering a direct window into the high-stakes oratorical battles that shaped Athenian public life.
+
 ## Text
 
 ### Or19 1

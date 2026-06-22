@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ae` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aphobus-fsm-ae)
 
+Against Aphobus I is a forensic oration composed and delivered by the Athenian statesman Demosthenes around 364 BCE. It constitutes the initial pleading in a private lawsuit for damages brought by the young Demosthenes against his former guardian, Aphobus. The speech alleges systematic fraud and mismanagement of the substantial estate left by Demosthenes' father, which comprised a sword manufactory, a furniture workshop, a significant sum of cash, and various outstanding loans. Structured in sixty concise sections, the oration methodically catalogues the estate's original value and its subsequent depletion, presenting witness testimonies and documentary evidence while preemptively refuting the anticipated arguments of the defense.
+
+The case originates from the personal circumstances of Demosthenes following his father's death, when he and his sister were placed under the joint guardianship of three relatives, including Aphobus. The speech thus serves a dual purpose: it is a legal instrument designed to recover lost patrimony and a calculated public performance aimed at establishing the credibility of its then-inexperienced author before the Athenian courts. As a historical document, it provides invaluable evidence for the Attic laws governing inheritance, guardianship, and fiduciary responsibility, while also offering detailed glimpses into the nature of Athenian industry, finance, and legal procedure. Preserved in its entirety through medieval manuscript tradition and universally accepted as authentic, this early work remains a foundational text for the study of fourth-century Athenian society and the development of Demosthenes' oratorical career.
+
 ## Text
 
 ### Or27 1

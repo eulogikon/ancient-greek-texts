@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxc-an` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-eternity-world-uxc-an)
 
+On the Eternity of the World is a philosophical treatise composed in Greek around 529 CE by John Philoponus of Alexandria. A Christian intellectual rigorously trained in the Neoplatonic tradition, Philoponus authored this work to challenge the dominant Greek philosophical position that the cosmos is eternal. He mounts a detailed philosophical defense of the Christian doctrine of creation, arguing systematically that the universe had a definite temporal beginning. The treatise is structured as a meticulous, point-by-point refutation of eighteen arguments for the world's eternity advanced by the influential Neoplatonist philosopher Proclus. Philoponus employs the logical and physical principles of Aristotelian philosophy against the Aristotelian tradition itself, seeking to demonstrate that a coherent application of these principles leads inevitably to the conclusion that an eternal universe is impossible. Written during a pivotal era of intellectual transition between pagan and Christian thought, the work represents a concerted effort to establish Christian theology on firm philosophical grounds. The complete original Greek text is lost, but a substantial portion of its content survives through extensive quotations preserved in later sources, most notably within the critical commentary of his Neoplatonist adversary Simplicius, who cited Philoponus at length in order to dispute his conclusions. These fragments allow for a detailed reconstruction of the treatise's structure and central arguments.
+
 ## Text
 
 ### Aet Mund.1.(1t)

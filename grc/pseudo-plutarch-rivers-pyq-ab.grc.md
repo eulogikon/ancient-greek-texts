@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pyq-ab` · [HTML page](https://eulogikon.org/works/pseudo-plutarch-rivers-pyq-ab)
 
+On Rivers is a prose work of ancient Greek paradoxography, a genre dedicated to cataloging marvels and wonders. Though transmitted under the name of the biographer Plutarch, modern scholarship attributes it to an anonymous author conventionally termed Pseudo-Plutarch. Its date of composition is uncertain but likely falls within the Imperial Roman period. The work is a systematic collection of 93 short chapters, each devoted to a specific river from the known world, such as the Nile, Danube, or Tigris. A typical entry names the river, notes its geographical location, and recounts remarkable legends and physical properties associated with its waters. These marvels include tales of rivers that change color, alter the voices of those who drink from them, possess curative powers, or are linked to local etiological myths explaining the origins of plants, animals, and customs. The complete text survives through the medieval manuscript tradition of Plutarch's works. Compiled for an educated audience with a taste for antiquarian lore and natural curiosities, it functioned more as a source of entertainment and a repository of exotic stories than as a work of scientific inquiry. As a compilation, it draws extensively on earlier, now-lost geographical and mythological sources, offering a valuable glimpse into the types of wondrous narratives that circulated in the ancient world.
+
 ## Text
 
 ### t 1

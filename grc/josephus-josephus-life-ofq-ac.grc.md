@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ofq-ac` · [HTML page](https://eulogikon.org/works/josephus-josephus-life-ofq-ac)
 
+The Life of Josephus is an autobiographical defense composed in Koine Greek by the Jewish historian Flavius Josephus around 94–99 CE. Written in Rome under imperial patronage, the work is a direct response to accusations leveled by a rival historian, Justus of Tiberias, who criticized Josephus’s conduct as a Jewish military commander in Galilee during the First Jewish–Roman War. Rather than offering a comprehensive biography, the text concentrates on a brief but critical period of the conflict, seeking to justify Josephus’s controversial surrender to Roman forces and to fashion his image as a pragmatic leader who attempted to restrain revolutionary fervor. Surviving intact in 352 prose sections, the autobiography is traditionally appended to Josephus’s major historical work, Jewish Antiquities, in the manuscript tradition. Scholars regard it as a seminal piece of apologetic literature, designed to rehabilitate the author’s standing with both the Roman imperial elite and the wider Jewish diaspora by portraying his decisions as both prudent and divinely sanctioned. Despite its pronounced partisan perspective, The Life of Josephus endures as an indispensable primary source for understanding the profound internal fractures within Jewish society at the outbreak of the war.
+
 ## Text
 
 ### Vit t

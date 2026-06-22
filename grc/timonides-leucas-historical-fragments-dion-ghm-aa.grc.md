@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ghm-aa` · [HTML page](https://eulogikon.org/works/timonides-leucas-historical-fragments-dion-ghm-aa)
 
+The Historical Fragments on Dion is a lost eyewitness account of the military campaign led by Dion of Syracuse in 357/6 BCE, written in Greek prose by his companion and fellow officer Timonides of Leucas. Composed in the fourth century BCE, the work chronicled Dion’s expedition to liberate Syracuse from the tyranny of Dionysius II. It focused on detailed descriptions of battles and sieges, presenting Dion as a virtuous liberator motivated by philosophical ideals. The original text does not survive intact; its content is known only through four fragments preserved in the biographical writings of Plutarch, who quotes them in his Life of Dion. These passages describe specific events such as the capture of a fortress and a night engagement, providing a participant’s perspective that modern scholars regard as a crucial primary source. The work is considered to have been a contemporary memoir, shaped by the shared Platonic philosophy of its author and subject, and it serves to supplement the narratives of later historians.
+
 ## Text
 
 ### t1-3

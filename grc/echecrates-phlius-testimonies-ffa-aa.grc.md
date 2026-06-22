@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffa-aa` · [HTML page](https://eulogikon.org/works/echecrates-phlius-testimonies-ffa-aa)
 
+The Testimonies is a lost work attributed to the Pythagorean philosopher Echecrates of Phlius. It survives only as a title and references to two fragmentary passages, indicating it was a collection of testimonia, or reports on philosophers and their doctrines, likely preserved by later doxographers. Based on its title and the author's affiliation, the work presumably contained material related to Pythagorean philosophy, biographical or doxographical accounts of philosophers, and the transmission of philosophical knowledge. The work is entirely lost and is classified among the fragmentary remains of early Greek philosophy; its two known passages survive only indirectly through quotation or reference in the works of later ancient authors. The direct influence of the Testimonies cannot be assessed due to its fragmentary state. Echecrates’ primary historical significance derives from his portrayal as an interlocutor in Plato’s Phaedo. Any impact from his own writings would have been absorbed into the broader Pythagorean tradition.
+
 ## Text
 
 ### 2

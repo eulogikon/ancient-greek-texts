@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-be` · [HTML page](https://eulogikon.org/works/hymnic-anon-pan-upu-be)
 
+Homeric Hymn 19, "To Pan," is a brief hexameter poem from the anonymous collection of Greek hymns traditionally attributed to Homer. It celebrates the rustic god Pan, vividly depicting his hybrid physical form as a goat-horned, goat-footed deity, his wild mountainous habitat, and his divine birth. The hymn narrates how his father, Hermes, joyfully presents the startling infant to the gods on Olympus, where he is welcomed with delight for his laughter and monstrous appearance. The poem describes Pan's constant movement through dense thickets and rocky heights, his hunting of wild beasts, and his musical play, which blends with the songs of mountain nymphs and the echoing landscape.
+
+The hymn survives intact within the medieval manuscript tradition of the Homeric Hymns, primarily preserved in the 15th-century Codex Laurentianus and the 13th-century Codex Mosquensis. Composed after the Persian Wars as the cult of Pan spread from Arcadia, the poem reflects popular pastoral religion and the integration of a distinctly rustic, theriomorphic divinity into the broader Olympian framework. As a constituent part of the Homeric Hymns, it served to standardize the literary portrayal of Pan, significantly influencing subsequent Greek and Roman bucolic poetry and enduring European conceptions of nature deities.
+
 ## Text
 
 ### 1

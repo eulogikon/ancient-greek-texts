@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bpy-aa` · [HTML page](https://eulogikon.org/works/timocreon-rhodes-invective-bpy-aa)
 
+The Invective Against Themistocles is a lyric poem by the fifth-century BCE poet Timocreon of Rhodes, surviving in fragmentary form through quotations in later authors such as Plutarch and Athenaeus. Composed in the Doric dialect as a skolion, or drinking song, it was intended for performance at symposia. The work is a virulent personal and political attack on the Athenian statesman Themistocles, written likely in the 470s BCE following the Persian Wars. Timocreon, who had been exiled from his native Rhodes, accuses Themistocles of accepting bribes and, specifically, of betraying their guest-friendship by failing to use his influence to secure the poet's repatriation despite accepting three talents of silver. The extant verses portray Themistocles as a liar, a traitor, and a corrupt manipulator who unjustly restored some exiles while banishing or killing others. They further mock him for hosting a miserly feast at the Isthmus. As one of the few contemporary poetic critiques of a major political figure from this period, the invective provides a crucial counterbalance to the heroic narratives of Themistocles's leadership, illuminating the intense personal rivalries and the role of poetic satire in the contentious political climate of early fifth-century Greece.
+
 ## Text
 
 ### book 1.1

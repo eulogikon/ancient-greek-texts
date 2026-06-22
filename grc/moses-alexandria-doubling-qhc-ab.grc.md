@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qhc-ab` · [HTML page](https://eulogikon.org/works/moses-alexandria-doubling-qhc-ab)
 
+_Moses' Doubling_ is a concise Greek mathematical treatise attributed to Moses of Alexandria. Preserved as a single passage within a larger corpus of minor scientific writings, the work presents a specific geometric method for doubling the area of a square, a solution distinct from the famous one found in Plato's Meno. It contributes to the documented variety of classical approaches to this foundational geometric problem. The treatise is primarily of historical interest, illustrating the range of techniques applied to a classic puzzle. Its attribution to a figure named Moses of Alexandria suggests the participation of Hellenized Jewish or early Christian scholars in the mathematical culture of late antique Alexandria. The available source provides no further details on its manuscript tradition or whether it was originally part of a more extensive collection.
+
 ## Text
 
 ### 2.38.(13t)

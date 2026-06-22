@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-ay` · [HTML page](https://eulogikon.org/works/origen-alexandria-letter-gregory-uhs-ay)
 
+The Letter to Gregory the Wonderworker is a brief epistle composed in Koine Greek by the early Christian theologian Origen of Alexandria. Written approximately between 238 and 244 CE, it serves as a personal farewell from teacher to student, addressed to Gregory Thaumaturgus upon his departure from Origen’s school in Caesarea. The complete text survives as a concise exhortation. In it, Origen advises his pupil to employ his extensive training in Greek philosophy and rhetoric for the purpose of understanding Christian scripture. To justify this integration of pagan learning, Origen invokes the biblical metaphor of "spoiling the Egyptians," arguing that valuable tools from secular education can be appropriated and repurposed for Christian theological study. The letter asserts that the ultimate aim of all intellectual pursuit is the comprehension of divine wisdom.
+
+Scholars regard the letter as a pivotal document in the early Church's engagement with Hellenistic culture. It is considered to have been written to provide a framework for educated converts, such as Gregory, to navigate their dual intellectual heritage. Its argument for the selective use of classical paideia established it as a foundational text for the later Christian liberal arts tradition, influencing major Church Fathers and shaping educational theory for centuries.
+
 ## Text
 
 ### 1

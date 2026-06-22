@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dys-aa` · [HTML page](https://eulogikon.org/works/aeschines-sphettus-socrates-education-dys-aa)
 
+The Fragments on Socrates and Education is a modern scholarly designation for the surviving portions of dialogues composed by Aeschines of Sphettus, a direct disciple of Socrates. Written in Attic Greek during the late fifth or early fourth century BCE, these works belong to the genre of Socratic dialogue. No complete text by Aeschines has survived; our understanding derives entirely from quotations and testimonia preserved by later authors. The content would have featured Socrates in conversation, examining themes central to his philosophy. Based on the extant evidence, Aeschines appears to have portrayed Socrates as a moral guide primarily concerned with the betterment of the soul. The specific theme of education connects to core Socratic inquiries regarding whether virtue can be taught and the role of personal relationships in motivating the pursuit of wisdom. Some modern interpreters view the dialogues of Aeschines as part of an early effort by Socrates's students to defend his memory and elucidate his methods within a competitive literary environment. The transmission of this work is entirely indirect, known only through citations in later Greek and Roman writers such as Diogenes Laertius and Cicero. There exists no continuous manuscript tradition for Aeschines’s dialogues; the fragments concerning education represent a modern reconstruction from these scattered sources.
+
 ## Text
 
 ### 1

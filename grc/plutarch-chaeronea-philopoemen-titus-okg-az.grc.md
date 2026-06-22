@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-az` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-philopoemen-titus-okg-az)
 
+The Comparison of Philopoemen and Titus is a concise prose essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It functions as the concluding synkrisis, or formal comparison, to his paired biographies of the Achaean statesman and general Philopoemen and the Roman consul Titus Quinctius Flamininus. The essay systematically evaluates the two figures across a series of contrasting points, examining their military achievements, political conduct, personal motivations, and their divergent roles in shaping the destiny of Greece. Plutarch acknowledges the greater scale of Flamininus's benefaction to the Greeks, achieved by defeating King Philip V of Macedon, but scrutinizes the character behind the actions. He contrasts Philopoemen's lifelong, often contentious, military struggle to preserve Achaean autonomy with Flamininus's momentous declaration of Greek freedom issued under Roman authority. Written during the Roman Empire, the comparison serves as a penetrating moral and didactic analysis of the Greco-Roman dynamic, questioning the nature of Roman "liberation" and contrasting it with the flawed but fiercely independent efforts of a Greek patriot. The work is preserved intact within the manuscript tradition of Plutarch's Parallel Lives, transmitted as an integral part of the biography of Flamininus.
+
 ## Text
 
 ### 1 1

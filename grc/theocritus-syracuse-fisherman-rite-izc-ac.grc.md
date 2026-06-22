@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `izc-ac` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-fisherman-rite-izc-ac)
 
+The poem "Fisherman's Sacrificial Rite" is an eight-line epigram attributed to Theocritus of Syracuse and preserved in the Greek Anthology. It presents a brief, vivid scene in which two impoverished fishermen, Asphalion and his companion, dedicate their fishing gear to the god Poseidon after an unsuccessful day at sea. Their votive offering is made from desperation, and they humorously vow a grand sacrifice of a bull should they ever make a substantial catch—a promise their indigence renders patently hollow. This concise vignette exemplifies the Hellenistic epigram's capacity for sharp, pictorial treatment of everyday life. The poem expands the rustic themes characteristic of Theocritus's bucolic poetry to include the world of subsistence fishermen, offering a realistic and ironically tinged snapshot of non-aristocratic existence and religious practice. Its text is transmitted complete within the Byzantine compilation known as the Anthologia Palatina, where it is consistently ascribed to Theocritus, and it stands as a noted example of his economical skill in conveying character and situation.
+
 ## Text
 
 ### unit_1

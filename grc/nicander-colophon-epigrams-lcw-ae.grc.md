@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcw-ae` · [HTML page](https://eulogikon.org/works/nicander-colophon-epigrams-lcw-ae)
 
+The Epigrams are a collection of eleven short poems attributed to the 2nd-century BCE Greek poet Nicander of Colophon. While Nicander is primarily known for his lengthy didactic works on toxicology, these pieces represent his engagement with the popular epigram form. Composed in elegiac couplets, they adhere to the genre's traditional themes, including dedicatory inscriptions for gods and epitaphs for the deceased. The poems do not survive independently but are preserved within the Byzantine-era compilation known as the Greek Anthology, their transmission dependent on that larger manuscript tradition. Regarded as sophisticated products of Hellenistic literary culture, the epigrams are characterized by learned allusions, polished craftsmanship, and concise expression, reflecting the aesthetic values and mythological fluency expected of an educated contemporary audience.
+
 ## Text
 
 ### book 435.1.1

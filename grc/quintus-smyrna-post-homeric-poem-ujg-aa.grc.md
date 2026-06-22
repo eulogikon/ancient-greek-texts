@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ujg-aa` · [HTML page](https://eulogikon.org/works/quintus-smyrna-post-homeric-poem-ujg-aa)
 
+The Posthomerica, an epic poem by Quintus of Smyrna, is a late antique work of the 3rd or 4th century CE that directly continues the narrative of Homer’s Iliad. Comprising fourteen books and 8,827 lines of Homeric Greek verse, it chronicles the concluding episodes of the Trojan War, beginning with the death of Hector and concluding with the departure of the Greek fleet after the city’s destruction. Its narrative fills the gap between the Iliad and the Odyssey, detailing the deaths of major heroes such as Achilles and Ajax, the arrival of the Amazon Penthesileia and the Ethiopian Memnon as Trojan allies, the construction and deployment of the Trojan Horse, and the final sack of Troy. Composed during the Roman Imperial period amidst a revival of interest in classical Greek culture, the poem is a deliberate and sophisticated imitation of Homeric style and diction. It synthesizes material from the now-lost epics of the ancient Epic Cycle, serving as a crucial compendium of these traditions for an educated, Greek-speaking audience. The complete text survives today, but its transmission was exceptionally precarious, relying almost entirely on a single manuscript from the 13th or 14th century discovered in Calabria during the 1400s. Prior to this discovery, the work was virtually unknown, making its preservation a fortunate accident of literary history.
+
 ## Text
 
 ### book 1.1.1

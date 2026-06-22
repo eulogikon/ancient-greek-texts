@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bh` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bh)
 
+_Sacred Words First_ is the introductory oration of the _Sacred Tales_, a six-part autobiographical work by the second-century CE orator Aelius Aristides. Composed in Attic Greek around 170–171 CE, it initiates a detailed, first-person narrative chronicling the author's prolonged and severe illness and the therapeutic interventions he believed he received from the god Asclepius. The text recounts the onset of his afflictions, his subsequent travels, and his eventual residence at the god's sanctuary in Pergamum. Eschewing a strict chronological framework, the oration is organized into eighteen thematic passages that interweave medical history, accounts of divine dreams, and expressions of religious devotion into what amounts to a prose hymn of gratitude.
+
+The work functions as a public testament to Aristides' perceived special relationship with the divine. Modern scholarship regards it as a multifaceted document: it is simultaneously an act of piety, a rhetorical justification for the author's career as an orator, and a sophisticated literary performance intended for the educated elite of the Roman Empire. It provides a singular perspective on personal religious experience, ancient medical practices, and the intellectual culture of the period known as the Second Sophistic. The complete text of the _Sacred Tales_ survives in medieval manuscripts and remains an invaluable source for understanding the operations of ancient healing sanctuaries and the profound cultural significance of dreams in antiquity.
+
 ## Text
 
 ### [30]

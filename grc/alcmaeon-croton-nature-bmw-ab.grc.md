@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bmw-ab` · [HTML page](https://eulogikon.org/works/alcmaeon-croton-nature-bmw-ab)
 
+The Fragments on Nature is a modern designation for the surviving doctrines of Alcmaeon of Croton, an early Greek philosopher and physician active in the late sixth or early fifth century BCE. His original prose treatise, often considered the first known Greek medical text, is lost. Its content survives only in a handful of principal fragments preserved through quotation by later philosophers, physicians, and doxographers. These passages address core topics in physiology, epistemology, and cosmology. Alcmaeon’s work originated in the intellectual milieu of Croton in southern Italy, a center for Pythagorean thought. While his precise relationship to the Pythagorean school remains debated by scholars, his inquiries effectively bridged philosophical speculation with empirical observation. His most enduring contribution is the theory that health constitutes a balance, or isonomia, of opposing qualities within the body—such as hot and cold, wet and dry, bitter and sweet—whereas disease arises from the monarchy, or dominance, of any one quality. He also broke significant ground by proposing that the brain, rather than the heart, is the central organ of sensation and cognition. Furthermore, he posited that the human soul is immortal and in perpetual motion. These theories proved highly influential, directly informing later medical thought in the Hippocratic tradition and sparking enduring ancient debates concerning the seat of consciousness and the nature of health.
+
 ## Text
 
 ### tit

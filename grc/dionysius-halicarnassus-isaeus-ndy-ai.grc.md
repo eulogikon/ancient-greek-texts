@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ndy-ai` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-isaeus-ndy-ai)
 
+"Isaeus the Athenian" is a critical essay by Dionysius of Halicarnassus, the Greek rhetorician and historian active in Rome at the close of the first century BCE. Composed in Attic Greek, the work is a seminal piece of ancient literary criticism dedicated to analyzing the oratorical style of the fourth-century BCE Athenian logographer Isaeus. Dionysius structures his analysis around twenty-three selected passages from Isaeus's forensic speeches, providing detailed commentary on each. He consistently praises the orator for his logical rigor, strategic construction of arguments, and exceptional clarity of expression. The essay functions as a practical rhetorical treatise, positioning Isaeus as a prime exemplar of what Dionysius terms the "austere" or plain style, which he deliberately contrasts with more elaborate and ornamental modes of oratory.
+
+Modern scholarship interprets the essay as a key document of the Atticist movement, which advocated for the revival of classical Athenian prose models as the standard for effective writing. It is seen as a central text in the pedagogical project of teaching Roman and Greek students the principles of refined composition. The complete work survives through medieval manuscripts transmitted as part of Dionysius's collected rhetorical writings. The excerpts from Isaeus that Dionysius quotes are of significant historical value, as they preserve fragments from speeches otherwise lost to antiquity. The essay was instrumental in cementing Isaeus's reputation within the classical canon of orators and remains an indispensable source for understanding both Hellenistic literary criticism and the distinctive style of Isaeus himself.
+
 ## Text
 
 ### Is t

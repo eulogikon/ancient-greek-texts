@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ad` · [HTML page](https://eulogikon.org/works/hero-alexandria-war-machines-odi-ad)
 
+The Belopoeica, or Art of War Machines, is a technical treatise on ancient artillery authored by the Greek engineer and mathematician Hero of Alexandria in the 1st century CE. Written in Koine Greek, the work functions as a practical manual for the design and construction of projectile-throwing war engines. It provides detailed instructions for building various catapults, including the gastraphetes, a large crossbow-like device, and more advanced torsion-powered ballistae. Across its 35 sections, the treatise explains the mechanical principles of these machines, with particular emphasis on the precise mathematical proportions required to construct effective torsion springs from sinew or hair, correlating the spring's dimensions to the weight of the projectile it is designed to launch.
+
+The complete text survives through medieval manuscript transmission as part of Hero's larger corpus. Modern scholarship interprets the work as an instructional guide for military engineers or students of mechanics, reflecting the synthesis and dissemination of advanced Hellenistic engineering knowledge within the early Roman Empire. The treatise is considered to build directly upon earlier technical works, such as those by Philo of Byzantium, and serves as a clear illustration of the application of theoretical geometry and mechanics to solve practical military problems of the era.
+
 ## Text
 
 ### 1

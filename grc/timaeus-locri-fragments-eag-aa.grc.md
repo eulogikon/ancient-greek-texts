@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eag-aa` · [HTML page](https://eulogikon.org/works/timaeus-locri-fragments-eag-aa)
 
+The Fragments and Title is a collection of twenty-two cosmological and metaphysical passages attributed to the Pythagorean philosopher Timaeus of Locri. These fragments survive not as an independent manuscript tradition but exclusively through quotation by later authors, most notably the Neoplatonist Proclus in his fifth-century commentary on Plato's Timaeus. The collection represents a post-Platonic, pseudepigraphical reconstruction of Pythagorean doctrine, generally considered a Hellenistic or early Imperial forgery composed to provide a purported Pythagorean source for Plato's dialogue. The fragments address core Pythagorean and Platonic themes, including cosmogony and the structure of the universe, the nature and composition of the soul, and metaphysical principles such as the One, the Dyad, Limit, and the Unlimited, often framed within discussions of mathematical harmonics and cosmic order. Though not authentically from the historical Timaeus, this corpus was influential in late antiquity. Neoplatonists like Proclus and Iamblichus used it to forge a direct link between Plato and a pristine Pythagorean wisdom, thereby shaping the synthesis of Platonism and Pythagoreanism that would influence medieval and Renaissance conceptions of an ancient, unified philosophical theology.
+
 ## Text
 
 ### 203 (7t)

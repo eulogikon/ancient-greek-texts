@@ -5,7 +5,7 @@ eul_aid: abe
 canonical: "https://eulogikon.org/authors/homer-abe"
 period: Archaic
 dialect: Epic (Homeric)
-works_count: 3
+works_count: 5
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -21,7 +21,9 @@ Homer, the traditional name for the poet of the foundational Greek epics the Ili
 
 - [Epigrams](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-epigrams-abe-aa.grc.md) — *Ὁμήρου ἐπιγράμματα* · `abe-aa`
 - [Iliad](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-iliad-abe-ac.grc.md) — *Ἰλιάς* · `abe-ac`
+- [Iliad (archaic Ionic)](https://eulogikon.org/works/homer-iliad-abe-ac.archaicionic) — *Ἰλιάς* · `abe-ac`
 - [Odyssey](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-odyssey-abe-ab.grc.md) — *Ὀδύσσεια* · `abe-ab`
+- [Odyssey (archaic Ionic)](https://eulogikon.org/works/homer-odyssey-abe-ab.archaicionic) — *Ὀδύσσεια* · `abe-ab`
 
 ## License and provenance
 

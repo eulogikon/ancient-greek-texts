@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-af` · [HTML page](https://eulogikon.org/works/herodian-alexandria-corruptions-speech-qnq-af)
 
+On the Corruptions of Speech, Earlier Part is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work addresses deviations from classical Attic Greek usage, reflecting the Alexandrian scholarly tradition of linguistic preservation. Its original form is lost, with the extant text comprising seventeen passages likely preserved as fragments. The treatise focuses on identifying and correcting linguistic errors, consistent with Herodian's known expertise. Its primary themes include the defense of classical Attic norms against perceived corruptions, the analysis of errors in accentuation and pronunciation, and the correction of incorrect word formations, inflections, and spellings. Herodian's works survive indirectly through excerpts and citations in later Byzantine grammatical compilations, such as the Suda lexicon. As a foundational figure in Greek grammatical scholarship, his rules, especially those concerning accentuation, became standard authorities for centuries, profoundly influencing Byzantine education and the later European study of Greek.
+
 ## Text
 
 ### 246 (1t)

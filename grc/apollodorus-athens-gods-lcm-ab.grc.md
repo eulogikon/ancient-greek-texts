@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcm-ab` · [HTML page](https://eulogikon.org/works/apollodorus-athens-gods-lcm-ab)
 
+On the Gods is a lost prose work by the Hellenistic scholar Apollodorus of Athens, composed circa 140–120 BCE. Known also by the Greek title Apospásmata ("Extracts"), it was a systematic compilation of Greek theological thought, surveying opinions from epic poets such as Homer to pre-Socratic philosophers. The work addressed topics including the nature of the gods, the origins of the cosmos, and religious practice. It does not survive intact but is known through 286 fragments preserved by later authors, most significantly by the Epicurean philosopher Philodemus in his treatise On Piety. Modern scholarship interprets the work as a major example of Hellenistic doxography, a scholarly method of collecting and contrasting authoritative views. It appears to have been structured as a series of excerpts and summaries, organizing a wide range of earlier ideas into a critical reference work for educated readers, marking a shift from poetic storytelling to analytical prose mythography. Its transmission is entirely indirect, filtered through the interests of those who quoted it, with the most substantial remains coming from Philodemus's papyrus scrolls discovered at Herculaneum. While this fragmentary preservation leaves the original scope and full content of Apollodorus’s work uncertain, its influence is attested by its use as a source for later writers such as Cicero.
+
 ## Text
 
 ### t1-44

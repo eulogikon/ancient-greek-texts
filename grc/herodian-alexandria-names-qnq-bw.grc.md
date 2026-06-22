@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bw` · [HTML page](https://eulogikon.org/works/herodian-alexandria-names-qnq-bw)
 
+On Names is a grammatical treatise on Greek nouns by the 2nd-century CE scholar Herodian of Alexandria. Structured as a collection of passages, the work systematically analyzes noun inflection and formation, addressing declensions, irregularities, and derivations. It exemplifies the highly technical scholarship of its era, aimed at codifying the rules of classical Greek for educational purposes. Herodian, a major grammarian who worked in Alexandria and Rome under imperial patronage, produced this prescriptive guide for advanced students, teachers, and writers who required an authoritative reference for correct usage at a time when the spoken language had diverged from classical models. The text engages with contemporary grammatical debates, such as the relationship between regular patterns and exceptions in language. It survives only in fragments, likely preserved as excerpts within later Byzantine grammatical collections. As much of Herodian's vast output is lost, and this specific work is not among his most frequently cited titles, it may have constituted a smaller or specialized part of his corpus. Its survival is attributable to its inclusion in later anthologies that sought to preserve foundational grammatical knowledge. Herodian's systematic methodology, as demonstrated in works like On Names, influenced Greek grammatical instruction for centuries and contributed to the standardization of the language within the Byzantine educational tradition.
+
 ## Text
 
 ### 3,2 612 (1t)

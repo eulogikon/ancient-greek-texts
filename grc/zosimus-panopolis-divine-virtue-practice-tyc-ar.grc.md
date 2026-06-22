@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ar` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-virtue-practice-tyc-ar)
 
+On Virtue (Practice A) is an alchemical treatise composed in Greek by Zosimus of Panopolis, likely around 300 CE. The work is structured as a series of instructional passages that seamlessly integrate practical laboratory techniques with profound philosophical and theological allegory. It frames the transformation of base metals into gold as a direct parallel to the spiritual purification and ultimate salvation of the human soul, positioning the alchemical art not merely as a material craft but as a sacred path toward achieving divine virtue and transcendent knowledge. The text survives as a component of the larger corpus of Greek alchemical writings, preserved primarily in Byzantine manuscripts dating from the 10th to the 15th centuries. Modern scholarship interprets Zosimus's work as a sophisticated synthesis of earlier Egyptian and Hellenistic technical knowledge within a conceptual framework deeply influenced by Gnostic and Platonic thought, reflecting the syncretic religious and intellectual environment of late Roman Egypt. It is believed to have been composed for a closed circle of initiates who regarded alchemy as a revealed and holy science. Through subsequent translations into Syriac and Arabic, Zosimus’s ideas became foundational, exerting a profound and lasting influence on the development of Islamic and later Western alchemical traditions.
+
 ## Text
 
 ### 2.107.(1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ses-aa` · [HTML page](https://eulogikon.org/works/cleopatra-alchemist-weights-measures-ses-aa)
 
+_On Weights and Measures_ is an alchemical treatise attributed to Cleopatra the Alchemist, a figure associated with the Greco-Egyptian alchemical tradition. Preserved within Byzantine compilations of Greek alchemical texts, such as the manuscript _Marcianus graecus_ 299, the work consists of twenty-eight passages providing practical, technical knowledge essential for alchemical operations. Its primary focus is the standardization of workshop practice, offering detailed definitions for weights, measures, and substance quantities to ensure precision and reproducibility. The text systematically enumerates the relationships between various units, such as the mina, litra, ounce, drachma, and obol, often specifying their values in smaller denominations like chalkoi and keratia.
+
+Beyond metrology, the treatise describes essential alchemical apparatus, including the kerotakis, a specialized reflux device used for sublimation and the coloring of metals, as well as furnaces and alembics. It also outlines the materials and fundamental processes for the transformation of metals and minerals, grounding its instructions in the tangible realities of the laboratory. The text survives exclusively as part of the larger Greek alchemical corpus found in manuscripts like the 10th- or 11th-century _Marcianus graecus_ 299, which anthologizes works by other significant figures such as Zosimos of Panopolis and Maria the Jewess. As a key source for understanding the material practices of Greco-Egyptian alchemy, its precise technical descriptions contributed to later Arabic and Latin alchemical traditions. Its attribution to Cleopatra also places it within important historical discussions concerning the participation and authority of women in early scientific and technical endeavors.
+
 ## Text
 
 ### 78 prol

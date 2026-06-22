@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ixo-ac` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-quadrature-parabola-ixo-ac)
 
+The Quadrature of the Parabola is a mathematical treatise by Archimedes of Syracuse, composed around 250–240 BCE. Addressed to his correspondent Dositheus, the work establishes a fundamental theorem: the area of a segment enclosed by a parabola and a straight line is precisely four-thirds the area of a triangle sharing the same base and equal height. The treatise unfolds through a sequence of 24 geometric propositions and is celebrated for presenting two distinct demonstrations of this result. The first is a rigorous geometric proof employing the method of exhaustion, an ancient technique of approximation that anticipates concepts of integral calculus. The second proof is mechanical in nature, utilizing principles of levers and centers of gravity. Archimedes notes that the mechanical method served as his initial heuristic discovery tool, while the geometric proof was supplied to satisfy the formal standards of demonstrative rigor expected in Greek mathematics.
+
+The complete text has survived from antiquity, primarily preserved in a 10th-century Byzantine manuscript known as the Archimedes Palimpsest, which was recovered and studied intensively in the modern era. Subsequent translations into Arabic and later Latin ensured the treatise's profound influence on mathematicians of the Renaissance and early modern periods. It stands as a classic exemplar of Archimedes' innovative genius, seamlessly bridging theoretical geometry and practical mechanical insight.
+
 ## Text
 
 ### 2.164.(1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bp` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-speaks-lime-tyc-bp)
 
+"Zosimus Speaks-Lime" is a concise technical treatise on alchemy authored by Zosimus of Panopolis around 300 CE. Written in Koine Greek, the work provides direct instructions for the preparation and handling of "unquenchable lime," known as quicklime or calcium oxide. The text details the calcination of alabaster stone to produce the substance, its vigorous reaction with strong vinegar, and subsequent processing involving exposure to sun and dew. This practical description reflects the hands-on laboratory knowledge of late antique Egyptian craftsmen, particularly from metallurgical and dyeing contexts.
+
+The treatise survives as a fragment from Zosimus's more extensive efforts to systematize earlier alchemical techniques. While primarily technical, the author frames the process with allusions to secrecy and divine artistry, situating it within a tradition where material operations often carried symbolic meanings related to purification and transformation. The work is preserved within medieval collections of Greek alchemical writings, such as the tenth- or eleventh-century manuscript Marcianus graecus 299. Through later translations into Syriac and Arabic, Zosimus's writings, including this brief tract, served as a critical conduit for practical chemical knowledge between the ancient world and later Islamic and European alchemical traditions.
+
 ## Text
 
 ### 1

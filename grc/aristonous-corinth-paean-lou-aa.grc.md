@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lou-aa` · [HTML page](https://eulogikon.org/works/aristonous-corinth-paean-lou-aa)
 
+The Paean to Apollo by Aristonous of Corinth is a cult hymn preserved in two fragments, the most substantial of which is inscribed on a stone stele from Delphi. This inscription includes the lyrics accompanied by ancient Greek musical notation and records that the paean, composed by Aristonous, was performed at Delphi by the Athenian guild of Dionysiac artists. A second, two-line fragment is preserved through quotation by the later author Athenaeus. The work is a formal hymn of praise and invocation to Apollo, celebrating the god's primary domains of music, prophecy, and healing while evoking the context of its ritual performance and communal worship. Its survival is owed to two distinct channels: a fragmentary marble stele from the sanctuary at Delphi containing the notated music and a literary citation in Athenaeus's Deipnosophistae. The author, Aristonous of Corinth, is otherwise unknown. This paean is a critical artifact for the study of ancient Greek music, being one of the very few surviving texts with original musical notation. Its inscription as a dedication at the sanctuary of Apollo provides direct evidence for the performance of hymns by professional guilds in a major cult center, making it a key source for modern understanding of ancient musicology and performance practice.
+
 ## Text
 
 ### 1

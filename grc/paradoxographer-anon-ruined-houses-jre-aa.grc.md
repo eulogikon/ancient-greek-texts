@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jre-aa` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-ruined-houses-jre-aa)
 
+The work Which Houses Were Ruined by Women is a brief paradoxographical text, a genre dedicated to collecting wondrous or paradoxical phenomena from history and mythology. It catalogues instances from Greek legend where royal dynasties or powerful households were destroyed due to the actions of women. The text presents a concise list, naming the houses of Heracles, Eurytus, Theseus, Athamas, Jason, Tereus, Agamemnon, Priam, and Amphiaraus, each linked to a specific woman whose involvement precipitated ruin. It is preserved within medieval manuscripts containing collections of minor anonymous paradoxographical works, and the two extant passages likely represent the complete compiled list as intended by the anonymous author. As a minor work, its direct influence is untraceable, but it exemplifies the paradoxographical genre. It illustrates how anecdotes concerning women and power were curated and transmitted as historical curiosities, serving as a source for understanding the reception of women in ancient literature.
+
 ## Text
 
 ### 1

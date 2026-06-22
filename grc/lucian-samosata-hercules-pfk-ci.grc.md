@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ci` · [HTML page](https://eulogikon.org/works/lucian-samosata-hercules-pfk-ci)
 
+_Hercules_ is a short rhetorical encomium written in Greek by the 2nd-century CE author Lucian of Samosata. Structured as a nine-part oration, it follows the conventional pattern of formal praise, beginning with the hero-god's divine origins, recounting his famous labors and virtues, and concluding with comparisons to other heroes and a celebration of his deification. The complete text survives within Lucian's collected works. The piece is a progymnasma, a standard educational exercise used to train students in rhetoric during the Second Sophistic period. Modern scholars interpret it primarily as a model of formal praise, demonstrating Lucian's early mastery of classical technique and mythology, though it lacks the satirical edge characteristic of his more famous works. Believed to be an early career composition, it served as a demonstration piece for educated, Greek-speaking audiences, reflecting the contemporary pedagogical use of classical heroes to exemplify values such as courage, virtue, and the civilizing benefits of heroic action.
+
 ## Text
 
 ### Herc t

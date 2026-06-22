@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fvy-aa` · [HTML page](https://eulogikon.org/works/phanodemus-athens-atthid-lore-fvy-aa)
 
+The Atthid Fragments on Athenian Lore is a modern designation for the surviving excerpts from the Atthis, a local history of Athens composed by the 4th-century BCE author Phanodemus. This work was part of the Atthidographic tradition, a genre dedicated to recording the myths, traditions, institutions, and chronology of the Athenian state from its legendary foundations to the author's contemporary period. The original text is lost; the extant corpus consists of 26 fragments preserved as citations within the works of later Roman-era authors such as the lexicographer Harpocration, the travel writer Pausanias, and the scholar Athenaeus.
+
+These fragments illuminate subjects central to Athenian civic and religious identity. They include accounts of the heroic exploits of Theseus, the etiological myths behind significant religious festivals and rituals, and antiquarian details concerning local topography, monuments, and genealogies. One fragment, for instance, discusses the mythical king Erysichthon's sighting of quail flocks arriving at Delos, while another records the names and sacrificial fate of the six daughters of King Erechtheus, known as the Hyacinthides. Modern scholarship situates Phanodemus's work within a broader 4th-century BCE flourishing of local historiography, interpreting it as an effort to define and celebrate Athenian heritage for a literate audience. This genre characteristically blended myth with historical inquiry to explain and legitimize contemporary civic and religious practices. Consequently, though fragmentary and mediated through later sources, these remains constitute a vital resource for understanding how Athenians of the Classical period conceptualized and constructed their own past.
+
 ## Text
 
 ### t1-26

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tro-ag` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-text-tro-ag)
 
+The Scholia on Aeschylus constitute a corpus of ancient and Byzantine explanatory annotations preserved in the margins of manuscripts containing the plays of the tragedian Aeschylus. This compilation is not a unified work by a single author but an aggregation of notes composed over many centuries, with the earliest layers dating to the Hellenistic period and subsequent additions made through the medieval era. These marginal commentaries address a wide range of interpretive challenges, including textual criticism, linguistic glosses on Aeschylus's archaic diction, and explanations of mythological, historical, and dramatic references within the surviving plays: Persians, Seven against Thebes, Suppliants, Prometheus Bound, and the Oresteia trilogy.
+
+The scholia, numbering in the thousands of individual entries, are believed to derive ultimately from the scholarly activities of Hellenistic grammarians, particularly those associated with institutions like the Library of Alexandria. These original, more expansive commentaries are now lost; what survives is a distilled and often layered tradition, condensed by teachers and scribes for pedagogical use and transmitted within the medieval manuscript tradition of Aeschylus. The primary audience was scholarly and educational, serving readers for whom Aeschylus's complex language and references had become obscure. The most significant witnesses are Byzantine codices from the tenth and eleventh centuries, where older notes frequently appear alongside later accretions. For modern scholarship, this compilation is an indispensable resource for textual criticism of the Aeschylean corpus, for tracing the history of classical scholarship, and for understanding the ancient reception and interpretation of Aeschylean tragedy.
+
 ## Text
 
 ### Ag t

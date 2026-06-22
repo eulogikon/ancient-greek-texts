@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-ai` · [HTML page](https://eulogikon.org/works/aesop-nicephorus-fable-aqo-ai)
 
+The Fable of Nicephorus is an unattested title within the fluid tradition of moral tales attributed to Aesop. While the name suggests a possible connection to a later compiler or manuscript source, it does not correspond to any specific narrative recorded in major scholarly references of the Aesopic corpus. The fables, originating in oral tradition and later compiled in written collections, typically feature animals and convey pointed lessons on human behavior. The provided Greek text recounts a tale of a wolf who disguises himself in a sheepskin to infiltrate a flock, only to be locked in the fold by the shepherd and slaughtered for food when night falls. This narrative exemplifies classic Aesopic themes, such as the dangers of deception, the unforeseen consequences of cunning, and the idea that a disguise meant to secure an advantage can become a trap. Like many fables, it concludes with a moral, here warning that adopting a false appearance often leads to the loss of one's very life. The transmission of Aesop's fables occurred through various prose collections, such as the medieval Augustana, and verse adaptations by Babrius and Phaedrus. Any work bearing the title "Fable of Nicephorus" would likely belong to this later manuscript tradition. The broader Aesopic corpus holds foundational significance for Western literature, shaping educational and rhetorical traditions and influencing later fabulists like Jean de La Fontaine.
+
 ## Text
 
 ### 1.(t)

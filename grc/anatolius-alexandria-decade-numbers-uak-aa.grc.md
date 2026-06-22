@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uak-aa` · [HTML page](https://eulogikon.org/works/anatolius-alexandria-decade-numbers-uak-aa)
 
+On the Decade and the Numbers Within It is a mathematical and philosophical treatise composed in Greek by Anatolius of Alexandria around 270 CE. This concise work provides a systematic examination of the numbers one through ten, collectively termed the "decade." For each integer, Anatolius elucidates both its mathematical properties and its extensive symbolic significance, drawing deeply from Pythagorean and Neopythagorean traditions to link numerical concepts to principles in music, geometry, and cosmology. The surviving text, which appears to be a summary or handbook version of a potentially larger original, is structured into twelve clearly didactic passages. It reflects the vibrant intellectual climate of late antique Alexandria, where pagan philosophical scholarship and emerging Christian thought frequently converged. The treatise is considered an introductory manual, designed to instruct students in the core Pythagorean doctrine that numbers constitute the fundamental principles of all reality. The work's transmission is fragmentary; it is preserved not as a complete, independent manuscript but through later sources, primarily a summary in the 9th-century Bibliotheca of the Byzantine scholar Photius and extracts incorporated into a later Neopythagorean compilation known as the Theologumena Arithmeticae.
+
 ## Text
 
 ### 5 (1t)

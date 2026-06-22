@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bk` · [HTML page](https://eulogikon.org/works/anon-hist-frag-philippics-mmg-bk)
 
+The Philippics are a collection of political orations delivered by the Athenian statesman Demosthenes in the fourth century BCE. Composed in Attic Greek prose, these speeches represent the pinnacle of deliberative oratory, crafted to persuade the Athenian assembly to take decisive action. Their central theme is a sustained and vehement opposition to the imperial ambitions of Philip II of Macedon, whose rapid ascent threatened the autonomy of Athens and the traditional Greek city-state system. The most famous of these, the First and Third Philippic, are marked by their urgent, alarmist tone, meticulous documentation of Macedonian maneuvers, and impassioned appeals for military preparedness and financial sacrifice to counter the perceived danger.
+
+The corpus has been transmitted with considerable fidelity through medieval manuscripts, though scholarly consensus questions the authenticity of certain included works. The Fourth Philippic, in particular, is generally regarded by modern experts as a skillful later imitation rather than a genuine product of Demosthenes. The historical significance of the speeches is twofold: they provide a crucial contemporary perspective on the escalating conflict that culminated in Philip's decisive victory at the Battle of Chaeronea, and they stand as enduring masterpieces of rhetorical art. Their influence extended far beyond their own time and culture; centuries later, the Roman orator Cicero consciously modeled his own invectives against Mark Antony on Demosthenes' style and fervor. This legacy permanently embedded the term "philippic" into the political lexicon as a synonym for a formal and blistering verbal denunciation.
+
 ## Text
 
 ### 1

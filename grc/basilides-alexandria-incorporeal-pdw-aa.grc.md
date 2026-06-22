@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdw-aa` · [HTML page](https://eulogikon.org/works/basilides-alexandria-incorporeal-pdw-aa)
 
+The work On the Incorporeal is attributed to the Gnostic teacher Basilides of Alexandria, preserved solely through a single fragment quoted by the late antique Neoplatonist Damascius in his Problems and Solutions Concerning First Principles. This fragment presents a distinctive metaphysical doctrine positing a supreme principle that precedes even the concept of the One. According to Basilides, the One serves as the principle of all things, but it is itself derived from a prior, more ineffable principle described as "that which is not even one." This formulation establishes a cosmogony originating from a transcendent and fundamentally indescribable source. The complete work is lost, with no surviving manuscript tradition; our knowledge of Basilides' ideas depends entirely on such fragments cited by philosophical opponents and later commentators. Damascius's citation is significant for demonstrating the engagement of late Neoplatonist thinkers with earlier Gnostic metaphysical speculation, as they used concepts like Basilides' pre-existent principle to explore problems concerning the origin and nature of the First Principle. Indirectly, Basilides' radical theology, which challenged conventional understandings of divine existence and creation, also influenced the development of early Christian doctrine by provoking orthodox refutations concerning the nature of God, creation, and Christology.
+
 ## Text
 
 ### 1

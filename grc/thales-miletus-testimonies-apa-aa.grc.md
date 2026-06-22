@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `apa-aa` · [HTML page](https://eulogikon.org/works/thales-miletus-testimonies-apa-aa)
 
+The Testimonies attributed to Thales of Miletus is a modern scholarly compilation rather than an original work. As the first figure in the Western philosophical tradition, Thales left no surviving writings. The collection assembles later reports and anecdotes from Greek and Roman authors, forming a doxographical record of his doctrines and life. These testimonia address several key themes, including the identification of water as the fundamental principle of all things and the provision of naturalistic explanations for phenomena such as earthquakes, which he believed resulted from the earth floating on water. The collection also documents his practical applications of geometry, his celebrated astronomical predictions including that of a solar eclipse, and his statement that "all things are full of gods," which suggests a view of an immanent divine presence within the cosmos. Thales's ideas survive entirely through this indirect transmission in the works of later authors such as Aristotle, Herodotus, and compilers like Diogenes Laertius. The standard modern collection is found in Diels and Kranz's Die Fragmente der Vorsokratiker, where the material on Thales is categorized almost entirely as secondary testimony. His foundational significance lies in initiating a tradition of rational, non-mythological inquiry into nature. He established the Milesian school of philosophy, directly influenced later Pre-Socratic thinkers, and was positioned by Aristotle as the starting point for the history of both philosophy and science.
+
 ## Text
 
 ### 1

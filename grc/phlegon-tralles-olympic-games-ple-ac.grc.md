@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ple-ac` · [HTML page](https://eulogikon.org/works/phlegon-tralles-olympic-games-ple-ac)
 
+On the Olympic Games is a chronographic and paradoxographic compilation by Phlegon of Tralles, a freedman of the emperor Hadrian, written in Greek during the 2nd century CE. The work systematically lists the victors of the Olympic Games from the first recorded Olympiad in 776 BCE up to 137 CE, thereby establishing an authoritative chronological framework based on the Olympiad system. Interspersed within this victor list are numerous records of marvels and unusual phenomena, including celestial omens, monstrous births, and other strange events specifically tied to the occurrences of the games. This combination of methodical chronicle and catalog of wonders reflects the dual interests of contemporary educated Greek-speaking elites, serving both as a historical reference and a collection of curiosities. The text survives incompletely in a series of 63 excerpts, primarily preserved within a single 10th-century manuscript. These passages are likely selections from a larger, now lost work by Phlegon. Composed under imperial patronage, the compilation represents an alignment of Greek cultural heritage with the interests of the Roman Empire, particularly appealing to the philhellene sensibilities of Hadrian’s court.
+
 ## Text
 
 ### 2b,257,F 1

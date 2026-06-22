@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-av` · [HTML page](https://eulogikon.org/works/hippolytus-rome-commentary-daniel-qsg-av)
 
+The Commentary on Daniel is an early Christian exegetical treatise composed in Koine Greek by Hippolytus of Rome around 204 CE. It holds the distinction of being the oldest surviving complete commentary on a biblical book. Structured in four books, the work proceeds sequentially through the Book of Daniel, examining its narratives, including the accounts of the fiery furnace and the lions' den, as well as Daniel's apocalyptic visions. Hippolytus primarily employs a literal-historical interpretive method, presenting the prophet Daniel as a paramount model of steadfast faith during persecution. Modern scholarship also identifies a consistent use of typology within the commentary, through which Hippolytus reads Daniel's trials as prefigurations of the sufferings of Christ and the events of the End Times. The treatise is generally understood to have been written to fortify the Christian community in Rome in anticipation of potential persecution and to advocate for orthodox doctrines, such as the bodily resurrection, against contemporary rival interpretations. While the original Greek text is partially lost, extensive portions survive through a combination of later Greek manuscripts, a nearly complete Old Slavonic translation, and fragments preserved in Armenian and Syriac traditions.
+
 ## Text
 
 ### 1

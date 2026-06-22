@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-bn` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-god-lgi-bn)
 
+On God is a philosophical treatise by Philo of Alexandria, a Hellenistic Jewish philosopher of the early 1st century CE. The work, originally composed in Koine Greek, is now lost in its complete form and is known only through three fragmentary passages. These excerpts were preserved not in direct manuscript transmission but within the quotations of later Christian authors, most notably in the 8th-century anthology known as the Sacra Parallela and in an 11th-century florilegium. The surviving text indicates the treatise was a systematic inquiry into the nature of the divine. It almost certainly expounded upon core Philonic doctrines, such as the absolute transcendence and incorporeality of God, the function of the Logos as the divine mind and mediating principle between the transcendent deity and the created world, and the inherent inadequacy of human language and concepts to describe the supreme being. The treatise represents a key part of Philo's lifelong project to synthesize the revelation of the Hebrew scriptures with the frameworks of Greek philosophy, particularly Middle Platonism and Stoicism, for a culturally Hellenized audience. Despite its fragmentary state, On God underscores Philo's pivotal historical role as a foundational thinker whose philosophical theology, especially his development of the Logos concept, provided a crucial intellectual bridge between Jewish thought and the formative period of Christian doctrine.
+
 ## Text
 
 ### 1

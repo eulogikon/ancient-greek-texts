@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-az` · [HTML page](https://eulogikon.org/works/lucian-samosata-assembly-gods-pfk-az)
 
+Assembly of the Gods is a satirical prose oration by the 2nd-century CE Syrian author Lucian of Samosata. Written in Attic Greek, the work is structured as a parody of a legal prosecution, delivered before a convened assembly of Olympian deities. The speaker is Momus, the personification of blame and criticism, who lodges a formal complaint against the current state of the pantheon. He argues that the divine assembly has become debased and overcrowded due to the indiscriminate admission of unworthy foreign deities from Egyptian, Phrygian, and other non-Greek traditions, a practice he claims dilutes the dignity and exclusivity of the original Hellenic gods.
+
+Composed during the cultural movement known as the Second Sophistic, the piece reflects the religious syncretism and heightened concern for Greek identity under Roman rule. Through the vehicle of Momus’s rhetorical indictment, Lucian satirizes contemporary theological disputes about the nature of divinity, while also engaging with broader social anxieties regarding cultural purity and integration in an increasingly cosmopolitan empire. The work, comprising 18 succinct sections, survives in full within Lucian’s extensive and well-preserved literary corpus, transmitted through numerous Byzantine manuscripts.
+
 ## Text
 
 ### Deor Conc t

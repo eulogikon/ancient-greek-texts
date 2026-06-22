@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cg` · [HTML page](https://eulogikon.org/works/galen-pergamon-epileptic-boy-qmm-cg)
 
+_Advice for an Epileptic Boy_ is a concise medical treatise by the Roman physician Galen of Pergamon. Structured as a specific piece of therapeutic counsel, or consilium, it details a holistic regimen for a young male patient, outlining dietary, pharmaceutical, and lifestyle prescriptions grounded in humoral theory. The work exemplifies Galen’s clinical method, applying his comprehensive theoretical system to a concrete case. Its central themes involve correcting the humoral imbalances and harmful residues believed to cause epileptic seizures through regimen therapy, which entails the careful management of the six non-natural factors of health: diet, exercise, sleep, environment, evacuation, and the passions of the soul. The treatise is significant for providing rational, physiological explanations and treatments for a condition often attributed to divine causes, and it demonstrates the adaptation of Galenic medical principles for pediatric care. Preserved in its entirety within the Galenic corpus and transmitted through medieval manuscripts, the text appears in the standard critical edition, the Corpus Medicorum Graecorum, as well as older editions. As a key source for understanding ancient clinical practice, pediatric medicine, and the history of neurology, its explanations and treatments for epilepsy exerted a profound influence on Western and Islamic medical traditions for centuries.
+
 ## Text
 
 ### 11 357 (t)

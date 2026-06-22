@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-an` · [HTML page](https://eulogikon.org/works/anon-hist-frag-oxyrhynchus-chronicle-mmg-an)
 
+The Oxyrhynchus Chronicle is a modern scholarly designation for a collection of historical fragments recovered from the Oxyrhynchus Papyri, a vast corpus of texts discovered at an ancient Egyptian site. These are not a single, unified literary work but rather disparate papyrus fragments, often copies from the Roman or late antique periods, which preserve sections of earlier Greek chronicles. A significant example is the fragment cataloged as P.Oxy. I 12, which covers the years 355 to 315 BCE and focuses on the reigns of Philip II of Macedon, Alexander the Great, and the early wars of his successors, the Diadochi.
+
+The chronicle's entries are organized by year, dated according to the Athenian archonship or the Olympic victors, followed by concise notes on significant events. Its content centers on the political and military history of the Hellenistic world, recording the deeds of kings, major battles, and successions of power. The text survives only in damaged fragments, a state that exemplifies the chance preservation of such historical sources from antiquity. It was not transmitted through a medieval manuscript tradition but exists solely on papyrus excavated at Oxyrhynchus, requiring modern editorial reconstruction from pieces cataloged with standard papyrological designations.
+
+These anonymous fragments provide crucial primary evidence for historians reconstructing Hellenistic chronology and events. Their influence is entirely modern, as they are cited in scholarly editions and historical studies to fill gaps in the extant literary record, offering a direct, if fragmentary, witness to the historical writing of the period.
+
 ## Text
 
 ### 2b,255,F 1

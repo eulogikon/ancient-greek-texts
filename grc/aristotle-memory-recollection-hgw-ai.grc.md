@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ai` · [HTML page](https://eulogikon.org/works/aristotle-memory-recollection-hgw-ai)
 
+On Memory and Recollection is a philosophical treatise by Aristotle, composed in the mid-4th century BCE. It forms a concise but integral part of his Parva Naturalia, a series of short works examining the interconnected functions of the living being. The treatise offers a systematic analysis of two distinct cognitive faculties. Aristotle first defines memory as a persistent state or impression arising from a past sensory experience, contending that genuine memory is exclusively of the past and inherently involves an awareness of time. He then distinguishes recollection as an active, investigative process of retrieving a memory, which he likens to a kind of reasoning. This process, he argues, operates through natural associative links such as similarity, contrast, and contiguity. The work represents a foundational element of Aristotle's scientific project to account for the activities of the soul, providing a rigorous philosophical distinction between passive retention and active recall while integrating this account with a physiological explanation centered on the body's primary sensory organ. Its analysis established core concepts that profoundly influenced subsequent developments in philosophy, psychology, and the theory of knowledge.
+
 ## Text
 
 ### Mem 449b (t)

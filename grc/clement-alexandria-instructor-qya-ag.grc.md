@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qya-ag` · [HTML page](https://eulogikon.org/works/clement-alexandria-instructor-qya-ag)
 
+The Instructor is a three-book theological treatise composed in Greek by Clement of Alexandria around 198 CE. It forms the central work of a pedagogical trilogy designed for the instruction of new converts, following his Exhortation to the Greeks and preceding the Miscellanies. The treatise systematically presents Christ in the role of the divine Pedagogue, whose purpose is to guide believers from a state of spiritual infancy toward maturity. The first book establishes the character and pedagogical method of Christ the Instructor, emphasizing his gentle and loving guidance. The second and third books provide extensive, practical directives for daily Christian living, addressing a wide range of behaviors including eating, drinking, sleep, speech, personal adornment, and conduct within marriage. Composed in the intellectual milieu of Alexandria, the work is directed toward an educated audience conversant with Greek philosophical traditions. Scholars regard it as a deliberate project to articulate a coherent and morally rigorous Christian ethic that could command respect within Greco-Roman society, effectively synthesizing biblical revelation with philosophical concepts of virtue and self-control. The complete text is preserved in Greek manuscripts, most significantly in the 10th-century Codex Arethae, and its largely intact transmission offers a comprehensive view of Clement's endeavor to shape the ethical formation of early Christian communities.
+
 ## Text
 
 ### 1.1

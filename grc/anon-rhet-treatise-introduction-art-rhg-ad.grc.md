@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ad` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-introduction-art-rhg-ad)
 
+The Introduction to the Art of Rhetoric is an anonymous Greek rhetorical treatise that functions as a prolegomenon, or introductory manual, for students. Structured in nine passages, it belongs to a common genre of pedagogical texts that systematically outlined the core principles of rhetoric within the Hellenistic and later Byzantine educational traditions. Based on the standard form of such introductory works, its content likely addressed the definition and utility of rhetoric as a formal art, the three classical genres of oratory—judicial, deliberative, and epideictic—the standard parts of a speech, and the five canonical components of rhetoric: invention, arrangement, style, memory, and delivery. The specific manuscript tradition and preservation status of this anonymous text are not detailed in available sources, though such works typically survive in Byzantine manuscripts, often compiled alongside commentaries on major authorities like Hermogenes of Tarsus. As a representative prolegomenon, the treatise exemplifies the standardized pedagogical tools used to transmit the Greco-Roman rhetorical framework. These introductory manuals were fundamental in codifying and perpetuating the systematic study of rhetoric through the Byzantine period and into the Renaissance.
+
 ## Text
 
 ### 6.33.(1t)

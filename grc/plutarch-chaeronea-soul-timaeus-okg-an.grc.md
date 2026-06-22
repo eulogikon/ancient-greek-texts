@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-an` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-soul-timaeus-okg-an)
 
+On the Creation of the Soul in the Timaeus is a philosophical treatise by Plutarch of Chaeronea that provides a detailed exegesis of a specific and complex passage from Plato’s Timaeus, concerning the Demiurge’s creation of the World Soul. Structured as a series of 108 lemmata with accompanying commentary, the work systematically defends a literal and transcendentalist interpretation of Plato’s cosmology against the prevailing allegorical, Aristotelian, and Stoic materialist readings of his era. Plutarch argues forcefully for the soul’s fundamental incorporeality and immortality, grounding his analysis in a close reading of the mathematical ratios and harmonic divisions that Plato describes as structuring the soul’s essence. The treatise engages in direct polemical criticism of rival schools of thought, particularly targeting Stoic and Peripatetic psychologies that conceived of the soul as a corporeal or perishable entity. As a complete and focused work of Middle Platonist commentary, preserved within the manuscript tradition of Plutarch’s Moralia, it represents a crucial document in the history of Platonism. Its rigorous defense of a transcendent, immortal soul significantly influenced later Platonic traditions, including Neoplatonism, and helped shape enduring philosophical debates concerning the nature of the soul and its connection to the cosmic order.
+
 ## Text
 
 ### t 1

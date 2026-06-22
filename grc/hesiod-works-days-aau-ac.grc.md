@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aau-ac` · [HTML page](https://eulogikon.org/works/hesiod-works-days-aau-ac)
 
+Works and Days is a didactic poem composed by the early Greek poet Hesiod around 700 BCE. Written in the dactylic hexameter meter of epic, the work is framed as an extended piece of advice from the poet to his brother, Perses, following a dispute over their inheritance. It artfully blends mythological narrative, ethical instruction, and practical guidance. The poem famously employs the myths of Pandora and the Five Ages of Man to explain the origins of human toil and hardship, establishing a world where justice and labor are divinely ordained. This is followed by a series of moral maxims and then detailed, proverbial advice on agriculture, seafaring, and daily conduct. The poem concludes with a calendar of auspicious and inauspicious days. Comprising 828 lines, the complete text survives largely intact through a secure manuscript tradition. Modern scholarship interprets the work as a profound response to the social conditions of early Archaic Greece, promoting the principles of justice and honest labor as essential antidotes to corruption and strife. While presented as a personal admonishment, it functions as a broader guide for living a pious and industrious life under the watchful justice of Zeus. Works and Days established the foundational model for the genre of didactic poetry and exerted a profound influence on later authors, from the Greek poet Aratus to Virgil's Georgics.
+
 ## Text
 
 ### 1

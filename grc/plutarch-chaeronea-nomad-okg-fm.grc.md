@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fm` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-nomad-okg-fm)
 
+The Nomad is a lost work attributed to Plutarch of Chaeronea, known only from its entry in the ancient Lamprias Catalogue, a fourth-century CE list of Plutarch’s writings. In that catalogue it is recorded as a collection of sayings, placing it within the widespread ancient genre of gnomological literature, which compiled philosophical maxims for moral instruction. As such, it belongs among Plutarch’s smaller, pedagogical writings rather than his major biographical or ethical treatises. Although the full text does not survive and no manuscript tradition exists, its themes would have aligned with Plutarch’s characteristic ethical concerns, such as the cultivation of virtue, practical wisdom, and self-control. The work’s inclusion in the Lamprias Catalogue confirms that it was considered part of the Plutarchan corpus in late antiquity, and it stands as an example of the popular and influential genre of sayings collections used for philosophical education.
+
 ## Text
 
 ### Num t 1

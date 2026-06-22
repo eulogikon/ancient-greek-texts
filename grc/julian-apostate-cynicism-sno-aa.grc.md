@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sno-aa` · [HTML page](https://eulogikon.org/works/julian-apostate-cynicism-sno-aa)
 
+On Cynicism is a philosophical treatise by the Roman Emperor Julian, composed in Attic Greek between 361 and 363 CE. Formally addressed as a lengthy letter or public oration to a contemporary Cynic philosopher named Heraclius, the work is a pointed critique of what Julian perceived as the degradation of Cynic practice. Julian takes particular offense at Heraclius's use of mythological allegory, which he considers frivolous and impious. Through this critique, Julian articulates his own vision of authentic Cynicism as a serious spiritual and philosophical vocation.
+
+The treatise argues that true Cynicism, exemplified by the ancient figure Diogenes of Sinope, is far more than the adoption of a beggar's cloak and shocking public behavior. Julian contends it is a divine calling requiring intense self-discipline, profound inner virtue, and a mission to improve humanity through fearless yet beneficial speech. The Cynic’s external austerity must be the manifestation of a cultivated soul and a commitment to the public good, not a theatrical performance. For Julian, the philosopher’s role is one of moral leadership and spiritual guidance, integral to his broader project of reviving traditional pagan piety and ethics in the Roman Empire.
+
+Preserved in medieval manuscripts, most notably a 10th- or 11th-century codex, On Cynicism stands as a significant document of Late Antique thought. It illuminates Julian’s concerted effort to reform and champion Hellenic philosophy against the rising influence of Christianity, defining the ideal philosopher as a cornerstone of his cultural and religious restoration.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `urs-ab` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-celestial-hierarchy-urs-ab)
 
+On the Celestial Hierarchy is a theological treatise composed in Greek around 500 CE by an anonymous author writing under the pseudonym Dionysius the Areopagite, a figure mentioned in the Acts of the Apostles. This pseudonym was intended to confer apostolic authority upon the work. The treatise systematically delineates the nine orders of angels, which are organized into three triads. The first and highest triad, closest to God, consists of the Seraphim, Cherubim, and Thrones. The second triad comprises the Dominions, Virtues, and Powers. The third and lowest triad, nearest to the material world, includes the Principalities, Archangels, and Angels. The core purpose of the work is to explain the process of divine illumination, describing how divine light descends from God through these celestial ranks to humanity and, conversely, how humans can spiritually ascend back toward God through contemplation of and participation in this same hierarchical structure.
+
+Structured in 53 passages and surviving in full, the treatise is a significant synthesis of Christian theology and Neoplatonic philosophy. It represents a sophisticated attempt to articulate a comprehensive Christian cosmology during a period of intense theological debate following the Council of Chalcedon. The work proved highly influential, fundamentally shaping the development of angelology in both Eastern and Western Christianity. Its concepts were adopted and elaborated by major medieval figures such as Thomas Aquinas and Dante Alighieri. The text's preservation was ensured through its extensive translation into Syriac and Latin, securing its place as a cornerstone of mystical and scholastic thought.
+
 ## Text
 
 ### 7 (1t)

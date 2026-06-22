@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-bc` · [HTML page](https://eulogikon.org/works/lysias-theomnestus-ejc-bc)
 
+Against Theomnestus B is a forensic oration composed by the Athenian logographer Lysias, dating to approximately 384–382 BCE. Written in Attic Greek for a client involved in a private lawsuit, the speech constitutes a defense against a charge of slander. The case is a direct continuation of earlier litigation, in which the same client successfully prosecuted a man named Theomnestus for defamation. The present speech answers a counter-suit brought by Theomnestus in retaliation, illustrating the cyclical and intensely personal nature of Athenian legal disputes. The surviving text is fragmentary, preserved not as a continuous whole but through eleven excerpts cited by later ancient grammarians and lexicographers. These fragments indicate the argument hinged on precise interpretations of Athenian slander law, which legally proscribed only a specific set of actionable insults, such as "murderer" or "father-beater," rather than general verbal abuse. The speaker meticulously defends his own choice of words by arguing that the intent and meaning of an insult, not merely its literal terminology, should determine its legality. This pair of speeches serves as a revealing case study in the litigious ethos of classical Athens, demonstrating how the popular courts could become arenas for personal vendettas and underscoring the essential role of professional speechwriters in crafting arguments for complex procedural contests.
+
 ## Text
 
 ### Or11 t

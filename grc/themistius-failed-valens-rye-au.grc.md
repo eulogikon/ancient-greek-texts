@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-au` · [HTML page](https://eulogikon.org/works/themistius-failed-valens-rye-au)
 
+On Those Who Failed Under Valens is a political and philosophical oration by the late Roman orator and senator Themistius. Delivered in Greek before the Roman Senate around 378 CE, the speech was composed in the immediate aftermath of the catastrophic Battle of Adrianople, where Emperor Valens and a significant portion of the eastern Roman army perished. Themistius frames his address as a philosophical consolation, systematically arguing that those who died in the defeat did not, in fact, suffer true misfortune. Drawing upon Platonic and Aristotelian concepts, he redefines the nature of happiness and virtue, contending that a noble death in service to the state possesses a higher moral value than a life preserved through cowardice or inaction. While offering solace to the bereaved political elite, the oration also served pressing contemporary political aims: to legitimize the reign of the fallen Valens, to rationalize the military disaster, and to facilitate a stable transition of power to the new emperor, Theodosius I. As a complete surviving work, it stands as a prominent example of the pragmatic application of classical Greek philosophy to bolster imperial ideology and address crises of state in the late Roman Empire.
+
 ## Text
 
 ### t 1

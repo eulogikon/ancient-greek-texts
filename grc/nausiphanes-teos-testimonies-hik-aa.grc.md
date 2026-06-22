@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hik-aa` · [HTML page](https://eulogikon.org/works/nausiphanes-teos-testimonies-hik-aa)
 
+The Testimonies is a lost philosophical work by Nausiphanes of Teos, a thinker of the late 4th century BCE. No direct fragments of the text survive; our knowledge of it derives entirely from later, often hostile, reports. The title suggests it was a collection of authoritative doctrines or proofs. Diogenes Laertius records that Epicurus, who was a pupil of Nausiphanes, vehemently denied this influence, deriding his teacher with insults and insisting he was self-taught. This aggressive rejection implies the work represented a significant rival authority requiring refutation.
+
+Based on testimonia concerning Nausiphanes’ broader philosophy, the Testimonies likely addressed core tenets of the Democritean atomist tradition, from which Epicurean physics later developed. It also probably integrated rhetorical practice with philosophical inquiry, reflecting Nausiphanes' reputed skill in argument. His thought was further shaped by the skepticism of Pyrrho, another of his teachers, suggesting the work may have engaged with empirical and skeptical approaches to knowledge. The ethical goal of tranquility, a state of being undisturbed later central to Epicureanism, was also a concern of Nausiphanes and likely featured in the text. The work is known only by its title, transmitted almost exclusively through the critical lens of Epicurean sources preserved in Diogenes Laertius’s biographical compendium. Nausiphanes and his Testimonies thus serve as a minor but notable foil in the pre-history of Epicureanism, representing a potential conduit for Democritean and Pyrrhonian thought that the Epicurean school felt compelled to publicly disavow.
+
 ## Text
 
 ### 1

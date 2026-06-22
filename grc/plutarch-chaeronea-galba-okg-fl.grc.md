@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fl` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-galba-okg-fl)
 
+The Life of Galba is a biography by the Greek historian and philosopher Plutarch, composed in the early 2nd century CE as part of his Parallel Lives. In this series, Plutarch pairs notable Greek and Roman figures for moral and philosophical comparison; Galba is paired with Otho. Together, these lives chronicle the tumultuous events of 69 CE, the so-called Year of the Four Emperors. The work is written in Attic Greek prose and is structured into 102 chapters.
+
+It traces the career and brief reign of Servius Sulpicius Galba, who became Roman emperor following the death of Nero. Plutarch outlines Galba’s aristocratic lineage, his severe and traditionally disciplined character, and the political and military missteps that defined his rule. The narrative emphasizes his fatal errors in judgment, particularly his dependence on a small circle of corrupt advisors and his refusal to pay the financial donatives expected by the Praetorian Guard and legions, a decision that fatally undermined their loyalty. This failure directly led to his assassination by the Praetorian Guard, an event Plutarch recounts in detail.
+
+Plutarch’s purpose is fundamentally didactic, using historical example to explore how individual virtue and vice determine political destiny. The Life of Galba functions as a case study in failed leadership, examining themes such as the perils of poor counsel, the disconnect between austerity and popular expectation, and the indispensable role of military patronage in sustaining imperial power. Written for a literate, Greek-speaking elite within the Roman Empire, the work serves as both historical instruction and ethical reflection. The text survives intact through the medieval manuscript tradition and remains an essential primary source for understanding the crisis of imperial succession in the first century.
+
 ## Text
 
 ### Galb t 1

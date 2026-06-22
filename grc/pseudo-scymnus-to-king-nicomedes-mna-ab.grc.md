@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mna-ab` · [HTML page](https://eulogikon.org/works/pseudo-scymnus-to-king-nicomedes-mna-ab)
 
+The anonymous geographical treatise To King Nicomedes is a fragmentary prose work addressed to a Bithynian monarch, surviving only as excerpts numbered 722–1026 in modern scholarly collections. These excerpts indicate it was originally a systematic description of the known world. The preserved fragments reveal a comprehensive work that methodically cataloged the geography of the inhabited world, or oikoumene. It included detailed ethnographic observations on various peoples, such as the Scythians, and incorporated elements of mythological geography, with references to legendary places like the Hyperboreans and the Ripaean Mountains. The text functioned as an extensive register, listing cities, regions, and natural features with descriptive commentary, as seen in passages detailing the treacherous coast of Salmydessus and the founding of colonies like Apollonia by Milesian settlers. The original treatise is lost and survives solely through quotations preserved by later authors, including the anonymous author of the Periplus of the Erythraean Sea and the grammarian Herennius Philo. These fragments were later compiled in modern editions such as the Geographi Graeci Minores. Its citation by these subsequent writers confirms its status as a recognized geographical authority in antiquity. The work represents a significant, though incomplete, example of Hellenistic geographical scholarship composed for a royal patron.
+
 ## Text
 
 ### (750)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-al` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosis-treatment-sins-qmm-al)
 
+_On the Diagnosis and Treatment of Any Soul's Sins_ is a lost ethical treatise by the physician-philosopher Galen of Pergamon. Its content is known only through fragments preserved by the 5th-century Neoplatonist philosopher Proclus. As reported by Proclus, the treatise's core thesis applies a strict medical analogy to ethics, arguing that the diagnosis and treatment of moral errors must follow the same methodical principles used in bodily medicine. Galen posits that moral faults are analogous to diseases, requiring systematic diagnosis of their cause and location within the soul's faculties. He maintains that a single, rational method—encompassing observation, identification of cause, and the application of a tailored remedy—governs both physical and psychological treatment. No manuscript of the full treatise survives; knowledge of the work depends entirely on indirect transmission, primarily through quotations in Proclus’s commentary on Plato's _Alcibiades I_, preserved within the medieval manuscript tradition of Proclus's works. The treatise stands as a clear example of the ancient "therapy of the soul" topos from a prominent physician. Its methodological analogy between medicine and ethics influenced later Neoplatonist thought and contributed to the long tradition of philosophical therapy.
+
 ## Text
 
 ### 5 58 (t1)

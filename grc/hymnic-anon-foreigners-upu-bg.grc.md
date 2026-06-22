@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-bg` · [HTML page](https://eulogikon.org/works/hymnic-anon-foreigners-upu-bg)
 
+"To Foreigners" is a brief anonymous hymn preserved within a collection of Greek religious poetry. The work takes the form of a direct poetic address to strangers or outsiders. Its opening lines invoke reverence from those who dwell in the steep city of the lovely-eyed goddess Hera, drinking the ambrosial water of the fair-flowing golden river Hermus. The hymn's survival, though minimal in extent, attests to the breadth of anonymous cultic poetry in antiquity. Its specific focus on addressing foreigners suggests a possible ritual function or theological concern regarding the place of outsiders within a particular religious context, reflecting a facet of ancient Greek religious practice now only glimpsed through this fragmentary text.
+
 ## Text
 
 ### unit_1

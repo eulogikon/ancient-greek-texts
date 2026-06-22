@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rfi-af` · [HTML page](https://eulogikon.org/works/philostratus-athens-epigram-rfi-af)
 
+The Epigrams are a collection of eight short Greek poems attributed to Philostratus the Athenian, a prolific author of the early third century CE best known for his prose works Life of Apollonius of Tyana and Lives of the Sophists. As a literary form, epigrams are concise and polished verses that often treat themes such as love, art, dedication, and moral reflection. These eight poems represent Philostratus’s engagement with this traditional genre, showcasing the versatility expected of a cultivated intellectual of his era. The work survives not as an independent book but through its inclusion in the Greek Anthology, a major Byzantine compilation of ancient poetry. The text is transmitted through the medieval manuscript tradition of this anthology, primarily the tenth-century Palatine Anthology. Modern scholars interpret these poems within the context of the Second Sophistic, a cultural movement in which Greek-speaking elites displayed their education through mastery of classical literary forms. It is thought they were composed for recitation at social gatherings or for circulation among a cultured, bilingual Roman imperial audience, serving as both entertainment and a demonstration of erudition.
+
 ## Text
 
 ### book 110.1.1

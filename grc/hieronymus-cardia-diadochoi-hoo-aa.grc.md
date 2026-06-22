@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hoo-aa` · [HTML page](https://eulogikon.org/works/hieronymus-cardia-diadochoi-hoo-aa)
 
+The Fragments on the Diadochoi constitute the surviving excerpts from the lost historical work of Hieronymus of Cardia, a contemporary participant in the events he chronicled. His prose history, conceived as a continuation of the work of Callisthenes, provided a detailed narrative of the early Hellenistic period from the death of Alexander the Great in 323 BCE to at least 272 BCE, serving as the principal eyewitness source for the Wars of the Successors. The original text is no longer extant; our knowledge of it derives entirely from fragments preserved through quotation and paraphrase in later authors. The historian Diodorus Siculus relied on it extensively as a primary source for Books 18 through 20 of his Bibliotheca historica, and significant excerpts are also found in the works of Plutarch, Arrian, and the Byzantine encyclopedia known as the Suda. These scattered passages have been collected in modern scholarly editions such as Die Fragmente der griechischen Historiker.
+
+Hieronymus’s history offered a comprehensive account centered on the political and military struggles for legitimacy and power following Alexander’s death. Its core themes included detailed narratives of major campaigns, battles, and sieges, alongside geographical and ethnographic descriptions gleaned from the far-flung campaigns of the Diadochoi. The work is notable for its vivid portrayals of key figures, which often reflect a pro-Antigonid bias stemming from the author’s personal service under Eumenes of Cardia and, later, the Antigonid dynasty itself. As the paramount primary source for the era, Hieronymus’s narrative formed the essential factual backbone for all subsequent ancient historiography on the Diadochoi. Consequently, his perspective and inherent biases have fundamentally shaped, both in antiquity and for modern scholarship, the prevailing understanding of the complex Wars of the Successors.
+
 ## Text
 
 ### t1-13

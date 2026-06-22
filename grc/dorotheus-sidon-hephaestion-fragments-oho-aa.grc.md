@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oho-aa` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-hephaestion-fragments-oho-aa)
 
+The Fragments Drawn from Hephaestion's Apotelesmatica consist of nineteen passages excerpted from the lost astrological poem of Dorotheus of Sidon, a first-century CE Hellenistic astrologer. These fragments are preserved solely as quotations within the fourth-century CE astrological compendium Apotelesmatica by Hephaestion of Thebes. They represent a small but significant portion of Dorotheus's original five-book manual, which was likely titled the Pentateuch. This comprehensive didactic poem systematically treated the major branches of Hellenistic astrology, including catarchic astrology for electing auspicious moments, interrogational astrology for answering specific queries, and natal astrology, which featured advanced techniques such as the calculation of life expectancy and the use of critical astrological Lots like the Lot of Fortune.
+
+The original Greek text of Dorotheus's work is lost. Its legacy and content are known through three primary channels: the fragments preserved in Hephaestion's Greek compilation, a partial ninth-century Arabic translation known as the Kitāb al-Durūs, and references found in Middle Persian and later astrological literature. Dorotheus was a foundational figure in the codification of Hellenistic astrological practice. He was cited as a major authority by subsequent astrologers such as Vettius Valens and Firmicus Maternus, and his work exerted a profound influence not only on the later Greco-Roman tradition but also, through its Arabic translation, on the development of Islamic astrology.
+
 ## Text
 
 ### 2a 5

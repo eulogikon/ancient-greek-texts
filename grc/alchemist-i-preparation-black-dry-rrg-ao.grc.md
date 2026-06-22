@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ao` · [HTML page](https://eulogikon.org/works/alchemist-i-preparation-black-dry-rrg-ao)
 
+What Is the Preparation of the Black Dry is a brief alchemical treatise composed in Koine Greek. Though traditionally ascribed to the philosopher Democritus, it is recognized by modern scholarship as the work of an anonymous author, conventionally termed Pseudo-Democritus, who was likely active within the Greco-Egyptian alchemical milieu. Its date of composition remains uncertain but is generally placed between the 1st and 3rd centuries CE. The text is a practical, recipe-based manual focused on the creation of a specific "black dry" substance. In the symbolic framework of ancient alchemy, this initial phase of blackening, known as melanosis, was considered the essential first step in processes aimed at metallic transmutation or the production of tinctures. Only a fragment of the original work survives, preserved not independently but as a small component within the extensive Byzantine compilation of Greek alchemical writings found in the Parisinus Graecus 2325 manuscript, which dates from the 10th or 11th century. Its original context within a larger collection of recipes is lost. As part of the foundational Pseudo-Democritean corpus, the treatise contributed to the establishment of the blackening stage as a standard and pivotal concept in subsequent alchemical theory, influencing Greek, Arabic, and Latin traditions.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bls-ad` · [HTML page](https://eulogikon.org/works/acusilaus-argos-cosmogony-bls-ad)
 
+The Fragments on Cosmogony is a modern designation for the extant portions of a prose work by Acusilaus of Argos, an early Greek historian active in the late sixth or early fifth century BCE. His composition, traditionally titled Genealogies or Histories, represents one of the earliest systematic efforts to record Greek mythological traditions in prose rather than verse. Following a genealogical framework akin to Hesiod's poetic Theogony, the work commenced with a cosmogony detailing the origins of the universe and the gods before tracing the lineages and narratives of deities and heroes into the legendary past.
+
+The original text does not survive intact; knowledge of it derives from forty-four fragments preserved through quotations by later authors such as Plato, Apollodorus, and various ancient scholiasts. These excerpts reveal Acusilaus's method of organizing, synthesizing, and occasionally rationalizing or correcting earlier poetic accounts. Scholars situate his project within a significant intellectual movement of the period, wherein prose was increasingly employed to produce more authoritative and coherent versions of myth. These systematized narratives held considerable social and political value for Greek city-states and aristocratic families, serving to legitimize contemporary institutions and claims to heritage. Acusilaus's Argive perspective is evident in his inclusion and privileging of local Peloponnesian variants within the broader Panhellenic mythological tradition.
+
 ## Text
 
 ### 1

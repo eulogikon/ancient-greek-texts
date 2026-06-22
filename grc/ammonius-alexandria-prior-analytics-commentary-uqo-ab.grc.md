@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqo-ab` · [HTML page](https://eulogikon.org/works/ammonius-alexandria-prior-analytics-commentary-uqo-ab)
 
+On Aristotle's Prior Analytics Book I is a philosophical commentary composed by the Neoplatonist teacher Ammonius of Alexandria. Written in Greek between approximately 485 and 517 CE, the work is a transcript of his lectures as recorded by his students. It provides a systematic exegesis of the first book of Aristotle's foundational treatise on syllogistic logic. The commentary methodically addresses Aristotle's analysis of propositional structure, the various figures and moods of the syllogism, and the core principles of logical demonstration. Its text is divided into 36 sections, a structure that likely corresponds to a sequence of individual lectures designed for classroom instruction.
+
+Ammonius taught in Alexandria during a period of Christian political dominance, and his school educated a mixed cohort of pagan and Christian students. The commentary served a direct pedagogical function, training students in Aristotelian logic as the indispensable first stage of the Neoplatonic philosophical curriculum. Modern scholarship interprets this work as part of a wider late antique intellectual project aimed at harmonizing Aristotle's logical system with Platonic metaphysics, while simultaneously offering clear, line-by-line explanation for learners. The complete text survives in Greek manuscripts and exerted significant influence on subsequent philosophical traditions, including Byzantine, Islamic, and later Latin medieval thought.
+
 ## Text
 
 ### 1 (1t)

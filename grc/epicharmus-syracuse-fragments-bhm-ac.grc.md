@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bhm-ac` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-fragments-bhm-ac)
 
+The Fragments of Epicharmus constitute a modern compilation of passages attributed to the pioneering comic playwright Epicharmus of Syracuse, who was active in the early 5th century BCE. No complete play of his survives. Instead, scholars have assembled 317 fragments and testimonia from quotations found in later authors, grammatical treatises, and a handful of papyrus discoveries. Written in the Doric Greek dialect, these verses offer glimpses into his comedies, which parodied mythological subjects, featured characters drawn from daily life, and included elements of philosophical banter. Modern scholarship interprets Epicharmus as a key inventor of comic plot structure, whose work exerted a significant influence on the later development of Athenian comedy.
+
+The fragments were transmitted indirectly and incompletely. They are preserved primarily through the works of later writers such as Athenaeus and Plutarch, as well as by scholars interested in his distinctive dialect. A significant complication in the study of his legacy is the existence of a separate, spurious tradition. In later centuries, many philosophical maxims were forged under his name, creating a false impression of Epicharmus as a serious moral philosopher distinct from his authentic identity as a comic dramatist.
+
 ## Text
 
 ### book 1.1

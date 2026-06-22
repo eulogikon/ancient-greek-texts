@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kzk-ac` · [HTML page](https://eulogikon.org/works/bolus-mendes-leucippus-kzk-ac)
 
+To Leucippus is a lost treatise by the Hellenistic Egyptian-Greek writer Bolus of Mendes, who was active around 200 BCE. Composed in Koine Greek, the work represents a genre that combined medicine, natural philosophy, and magical practice. Its subject was the cataloging of the occult medicinal and wondrous properties inherent in stones, plants, and animals. This endeavor was grounded in the principle of sympatheia, the belief that hidden affinities and antipathies exist between natural substances, which a knowledgeable practitioner could exploit for therapeutic or transformative ends. The treatise survives only in fragments and later testimonia, with its complete text unavailable to modern scholarship. The titular address, "To Leucippus," is generally understood by scholars not as a genuine dedication to the pre-Socratic atomist philosopher but as a pseudepigraphic literary convention intended to bolster the work's authority and place it within a venerable philosophical tradition. While some source material hints at a possible structure involving four sections, the precise organization and full scope of its contents remain conjectural. The work is a significant artifact of the intellectual syncretism characteristic of Ptolemaic Alexandria, where traditional Egyptian knowledge concerning the properties of materials was systematically reinterpreted and synthesized with Greek philosophical and scientific frameworks. It was likely composed for an audience of practical technicians and philosophers interested in the applied dimensions of cosmological theory.
+
 ## Text
 
 ### [18]

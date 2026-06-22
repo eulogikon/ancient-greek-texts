@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mgm-aa` · [HTML page](https://eulogikon.org/works/melinno-rome-mgm-aa)
 
+"To Rome" is a short lyric hymn by the Greek poet Melinno, a complete poem of twenty lines arranged in five Sapphic stanzas. Composed in a literary Doric dialect, the work directly addresses and personifies the city of Rome as a divine, ruling entity. It opens by hailing Rome as the daughter of Ares, a gold-crowned and warlike queen who dwells upon an earthly Olympus, eternally unshaken. The poem celebrates Rome's divinely ordained and unbreakable sovereign power, its secure command over the lands and grey seas beneath its yoke, and its unique, unchanging fortune amid the universal flux of time. It concludes by praising Rome as the sole nurturer of the mightiest warrior men, sprung like the rich harvest of Demeter.
+
+Scholars date the hymn to the second century BCE, following Rome's establishment of hegemony over the Greek world but prior to the destruction of Corinth in 146 BCE. It stands as a significant cultural artifact, demonstrating how Greek intellectuals employed traditional literary forms—specifically the meter and hymnic style associated with the earlier poet Sappho—to articulate and legitimize the new political reality of Roman authority. The poem's complete survival is exceptional for Hellenistic lyric; it is preserved within the anthology compiled by the Byzantine scholar Joannes Stobaeus in the fifth century CE. No other works by Melinno are known, and nothing of her life is recorded beyond her name.
+
 ## Text
 
 ### book 541.1

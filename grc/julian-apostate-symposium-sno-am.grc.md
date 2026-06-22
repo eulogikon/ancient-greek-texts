@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sno-am` · [HTML page](https://eulogikon.org/works/julian-apostate-symposium-sno-am)
 
+The Symposium or Kronia is a satirical prose dialogue composed in Attic Greek by the Roman emperor Julian, commonly known as Julian the Apostate, around 362–363 CE. Modeled on the tradition of Menippean satire, the work employs a mixture of prose and verse to humorously critique philosophical and social pretensions. Its narrative is framed within the context of the Roman Saturnalia festival, referred to by its Greek name Kronia, a period characterized by festive license and role reversal. In the dialogue, a banquet is convened to which the ghosts of deceased Roman emperors are summoned from the underworld to feast and engage in debate.
+
+The text survives only in fragmentary form, preserved in two excerpts quoted by a later philosopher. The more substantial fragment depicts the tumultuous arrival of the imperial shades, while a briefer passage contains a pointed invective against Julian’s predecessor and cousin, Constantius II. Modern scholarship interprets the work as a deliberate piece of political and religious polemic. It is widely understood as an attempt to ridicule the Constantinian dynasty’s embrace of Christianity and to juxtapose their perceived moral and political failings with Julian’s own idealized vision of a philosopher-king, a ruler guided by Neoplatonic virtue and a commitment to traditional Roman pagan religion. As such, this literary satire provides a direct window into the profound ideological contests that defined Julian’s brief reign.
+
 ## Text
 
 ### 1

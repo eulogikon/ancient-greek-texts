@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lju-ab` · [HTML page](https://eulogikon.org/works/duris-samos-historical-fragments-lju-ab)
 
+The Historical Fragments of Duris represents the modern scholarly compilation of surviving passages from the lost works of the Hellenistic historian Duris of Samos. A pupil of Theophrastus who later became tyrant of his native island, Duris authored several significant historical works, most notably the Makedonika, a history of Macedonia from approximately 370 to 281 BCE organized by royal reigns, the Samion Horoi, a chronicle of Samos, and a history of the Sicilian tyrant Agathocles. No complete text survives; the 92 known fragments are preserved solely through quotation or paraphrase in later Greek, Roman, and Byzantine authors such as Athenaeus, Plutarch, Diodorus Siculus, and the Suda. The standard critical edition is found in Felix Jacoby’s Die Fragmente der griechischen Historiker. Duris occupies a central position in the development of so-called "tragic" historiography, a style that prioritized narrative pleasure, vivid dramatic presentation, and engaging anecdote over austere factual chronicle. This methodological emphasis attracted sharp criticism from the historian Polybius, who accused Duris of sacrificing accuracy for sensationalism, a critique that has profoundly shaped his historiographical legacy. Despite their fragmentary nature, these remains provide invaluable evidence for the study of Hellenistic historical writing, Samian local history, and the reign of Agathocles of Syracuse.
+
 ## Text
 
 ### t1-33

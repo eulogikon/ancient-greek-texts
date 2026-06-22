@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tss-ab` · [HTML page](https://eulogikon.org/works/pseudo-sphrantzes-chronicle-greater-tss-ab)
 
+The Chronicon Maius, or Greater Chronicle, is a late 15th-century historical work traditionally attributed to the Byzantine court official George Sphrantzes. Modern scholarship has definitively identified it as a later forgery, an expanded version of Sphrantzes’s authentic but briefer memoir, the Chronicon Minus. The compilation of this expanded text is now generally credited to the cleric Makarios Melissenos, who likely produced it in the 1570s. Purporting to be a first-person account, the chronicle narrates the final century of the Byzantine Empire from 1391 through the fall of Constantinople in 1453 and its immediate aftermath, concluding its narrative around 1477.
+
+The work presents the empire’s decline and catastrophic fall as a form of divine punishment, framing historical events within a strong theological interpretation that emphasizes Providence and human sin. Its content includes detailed, often polemical descriptions of the 1453 siege of Constantinople, frequently assigning blame to Western powers for their perceived betrayal. The narrative also extends to accounts of subsequent Ottoman campaigns and the reigns of early sultans. For centuries, the Chronicon Maius circulated widely in numerous manuscripts, far surpassing the transmission of the authentic Chronicon Minus. It was accepted as a genuine work by Sphrantzes until the 20th century, when textual criticism by scholars such as J.B. Bury and V. Grecu conclusively exposed it as a forgery. Prior to this revelation, the chronicle served for over three hundred years as a primary source shaping both Greek and European understanding of the fall of Constantinople, functioning as a significant vehicle for Orthodox historical memory and polemic. Its exposure as a later compilation subsequently reoriented scholarly focus toward the authentic, contemporary account found in the Chronicon Minus.
+
 ## Text
 
 ### 150 (1t)

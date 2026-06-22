@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cmg-aa` · [HTML page](https://eulogikon.org/works/dieuchidas-megara-local-history-cmg-aa)
 
+The Megarian Local History Fragments by Dieuchidas of Megara is a lost prose work of local history, or horography, dating from the fourth century BCE. It survives only through quotations preserved by later Greek and Roman authors, with fourteen fragments collected in modern scholarship. These passages, found in the works of Diogenes Laertius, Athenaeus, Clement of Alexandria, and various scholiasts, provide crucial evidence for the traditions and historical perspectives of the city-state of Megara. The fragments indicate the work covered a wide range of subjects central to Megarian identity, including foundational myths and heroic genealogies of the region, territorial and political rivalries with neighboring states such as Athens, and accounts of local cultural antiquities and figures like the lawgiver Theognis. One notable fragment presents an alternative, critical Megarian version of the life and death of the philosopher Socrates, demonstrating the work's participation in broader Hellenic intellectual debates. As a compilation of local lore and argument, Dieuchidas's history functioned as a cultural and political tool to assert Megarian prestige and autonomy against rival claims, particularly those of Athens. The fragments remain invaluable for reconstructing the character of Megarian historiography and for understanding the partisan nature and civic functions of local history in the ancient Greek world.
+
 ## Text
 
 ### t1-12

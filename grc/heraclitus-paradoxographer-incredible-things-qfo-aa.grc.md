@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qfo-aa` · [HTML page](https://eulogikon.org/works/heraclitus-paradoxographer-incredible-things-qfo-aa)
 
+_On Incredible Things_ is a concise prose compilation of marvels and paradoxes attributed to Heraclitus the Paradoxographer. The work, surviving in forty brief chapters, systematically collects reports of unbelievable natural phenomena, exotic customs, and astonishing historical anecdotes drawn from earlier Hellenistic sources. Its entries span several categories, including descriptions of strange animals with peculiar properties, accounts of geographical rarities such as unusual lands and rivers, records of the bizarre practices of foreign peoples, and narratives of wondrous events preserved in earlier texts. Following the standard format of the paradoxography genre, each entry typically cites an authoritative source, such as Aristotle or Callimachus, presenting the compiled lore without extensive original commentary.
+
+The complete text is preserved in a single manuscript, the 15th- or 16th-century Codex Parisinus suppl. gr. 607, which attributes the work to "Heraclitus." It shares significant material with other collections like the Pseudo-Aristotelian _On Marvellous Things Heard_, indicating that these works drew from a common pool of Hellenistic source material. As a representative example of paradoxography, the compilation exemplifies the ancient popular and scholarly fascination with cataloging the marvelous and the limits of the natural world. The work had a discernible influence on later encyclopedic writers, notably Pliny the Elder, and serves as a valuable resource for modern scholars by preserving fragments of Hellenistic texts that are otherwise lost, thereby offering insight into the transmission of scientific and ethnographic knowledge in the Roman Empire.
+
 ## Text
 
 ## ΗΡΑΚΛΕΙΤΟΥ ἀνασκευὴ ἢ θεραπεία μύθων τῶν παρὰ φύσιν παραδεδομένων. Περὶ Μεδούσης.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-al` · [HTML page](https://eulogikon.org/works/aristides-orator-advisory-not-comedize-qwm-al)
 
+The Advisory Oration on Not Needing to Comedize is a deliberative speech by the orator Aelius Aristides. Composed in Attic Greek around 161–162 CE, it presents a formal argument against a civic proposal to reintroduce comic performances at a festival in the city of Smyrna. Aristides structures his case methodically across nine sections, carefully avoiding a direct attack on comedy as an art form. Instead, he systematically contends that such raucous public spectacles are unnecessary and potentially harmful to the city's contemporary social order and religious decorum.
+
+The speech is a characteristic document of the Second Sophistic, a period marked by the revival of classical Greek culture under Roman imperial rule. Aristides’s opposition reflects the movement's conservative, elite values, which prized serious philosophical rhetoric and dignified public life over popular entertainment. He draws upon historical examples from Athenian Old Comedy to warn against the dangers of public slander and ridicule, promoting an ideal of civic life centered on solemn oratory. The work survives in full through the secure medieval manuscript tradition of Aristides’s collected orations, providing a significant record of the cultural and aesthetic debates within the prosperous cities of the Roman Empire.
+
 ## Text
 
 ### [30]

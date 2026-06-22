@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-br` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-br)
 
+The oration titled Against Philip III is a spurious work incorrectly attributed to the Athenian orator Demosthenes. The authentic series of speeches known as the Philippics, delivered by Demosthenes between 351 and 341 BCE, were directed against Philip II of Macedon. A speech targeting Philip III Arrhidaeus, who reigned from 323 to 317 BCE, would necessarily date after Demosthenes' death in 322 BCE. No such oration is present within the transmitted corpus of Demosthenes' works or recognized by standard scholarly authorities.
+
+Themes that might be associated with this apocryphal title, drawn from the content of the genuine Philippics, would typically involve the Macedonian threat to Greek autonomy and democratic institutions, urgent calls for military preparedness and action, appeals to Athenian patriotism and ancestral glory, criticism of political inaction, and arguments for Panhellenic unity against a common enemy. The Demosthenic corpus, preserved through medieval manuscripts, comprises 61 orations, including several that are not authentic. The four canonical Philippics are numbered among these as Orations 4, 6, 9, and 10. The purported speech Against Philip III does not appear in this collection, and its described structural feature of containing "60 passages" finds no correspondence in the format of Demosthenes' authentic orations.
+
+Although this specific speech is not genuine, Demosthenes' actual Philippics hold considerable significance in the history of Western rhetoric. They established the model of the "philippic" as a form of intense political invective and denunciation, a model that later directly inspired the Roman orator Cicero in his famous speeches against Mark Antony.
+
 ## Text
 
 ### Phil3 1

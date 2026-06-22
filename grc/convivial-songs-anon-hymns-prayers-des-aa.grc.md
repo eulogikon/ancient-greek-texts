@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `des-aa` · [HTML page](https://eulogikon.org/works/convivial-songs-anon-hymns-prayers-des-aa)
 
+The Hymns and Convivial Prayers, also known by the title Apospasmata meaning "extracts," is a collection of ninety-nine poetic fragments. This anonymous compilation consists of hymns and prayers composed for performance at the Greek symposium, or aristocratic drinking party. The title indicates that these pieces are selections from a larger, now lost, body of sympotic poetry. The passages exemplify standard genres of convivial verse, including invocations to deities such as Dionysus, Aphrodite, and the Muses, celebrations of wine and fellowship, reflections on love and mortality, and moral exhortations for the health and prosperity of the gathered companions.
+
+The fragmentary state of the collection and its anonymous authorship suggest it is a later compilation, likely preserved through indirect transmission in anthologies, grammatical texts, or on papyrus. It does not belong to the canonical works of the major lyric poets. While its direct literary influence is difficult to trace, the collection serves as an important representative artifact of the pervasive sympotic tradition, which fundamentally shaped the development of later Greek and Roman lyric poetry. As a potential anthology, it functioned to transmit the enduring conventions of Greek social and religious verse designed for communal celebration.
+
 ## Text
 
 ### book 1.1

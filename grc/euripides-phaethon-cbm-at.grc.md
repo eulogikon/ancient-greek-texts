@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-at` · [HTML page](https://eulogikon.org/works/euripides-phaethon-cbm-at)
 
+Phaethon is a lost tragedy by Euripides that dramatizes the myth of the mortal son of the sun god Helios. The plot follows Phaethon’s fatal attempt to prove his divine parentage by driving his father’s solar chariot across the sky. Unable to control the celestial horses, he veers catastrophically close to Earth, threatening to set the world ablaze. To prevent cosmic conflagration, Zeus strikes him down with a thunderbolt. The play survives only in fragments, approximately 124 in total, preserved through quotations in later ancient authors and on papyrus. The most significant of these, a papyrus known as P. Berol. 9771, contains a substantial portion of the play’s climax, including the chariot’s crash and the subsequent lamentations.
+
+The tragedy explores themes of hubris and the fatal consequences of a mortal overreaching into the divine realm. It delves into Phaethon’s struggle with his identity and lineage, examining his relationships with his foster father, Merops, and his true father, Helios. The narrative emphasizes the cosmic disorder caused by Phaethon’s ride, which necessitates Zeus’s violent intervention to restore the natural order. The surviving fragments highlight intense mourning, particularly from Phaethon’s mother, Clymene, and his sisters, the Heliades, who are transformed into poplar trees weeping amber tears. The play is noted for its innovative dramatic structure, including a so-called false prologue that initially presents the opening scene under a misleading pretext.
+
+Knowledge of the play derives entirely from fragmentary sources, including quotations in anthologists like Stobaeus, ancient scholarly commentaries, and papyrus discoveries. These fragments have been crucial for reconstructing the plot sequence and appreciating Euripides’ late stylistic and formal experimentation. Though incomplete, Phaethon remains significant for understanding the evolution of Athenian tragedy. The myth itself endured, most famously retold in Ovid’s Metamorphoses, an account that likely drew upon Euripidean elements for its pathos and dramatic detail.
+
 ## Text
 
 ## ΦΑΕΘΩΝ

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-aj` · [HTML page](https://eulogikon.org/works/aristides-orator-alliance-thebans-qwm-aj)
 
+Allied B. To Thebans is a political oration composed in Attic Greek by the orator Aelius Aristides around 154–155 CE. It stands as one of his two extant speeches concerning alliance and is structured as a direct, fifteen-part appeal to the Theban citizenry, advocating for a military and political pact with Athens. The argument is constructed upon an appeal to shared history and cultural identity, with Aristides offering a meticulous recitation of classical events, particularly the cooperation between Athens and Thebes during the Persian Wars. He deliberately minimizes historical conflicts, such as the Peloponnesian War, to advance the thesis of a fundamental kinship between the two cities and to posit that their future security is contingent upon unity. The work is a sophisticated exercise in epideictic rhetoric, employing praise, historical exempla, and moral suasion for persuasive ends.
+
+Written during the stable reign of the Roman emperor Antoninus Pius, the oration reflects the continued significance of local diplomacy and civic prestige among the Greek poleis under Roman administration. Scholars view it as an instrument of elite self-presentation and a means of influencing contemporary policy through the deliberate invocation and reshaping of the classical past. The complete text of the speech has been preserved through the robust manuscript tradition of Aristides' collected works, transmitted from later antiquity and the Byzantine period.
+
 ## Text
 
 ### [30]

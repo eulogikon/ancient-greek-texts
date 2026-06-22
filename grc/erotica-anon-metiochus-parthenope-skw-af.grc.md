@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-af` · [HTML page](https://eulogikon.org/works/erotica-anon-metiochus-parthenope-skw-af)
 
+Metiochus and Parthenope is a fragmentary ancient Greek prose romance dating from the 1st or 2nd century CE. Although its author remains anonymous, the work has sometimes been speculatively attributed to Chariton of Aphrodisias. It blends historical and fictional elements, narrating the love story between Metiochus, the historical son of the Athenian general Miltiades, and Parthenope, the fictional daughter of the Samian tyrant Polycrates. The surviving text consists primarily of a single papyrus fragment discovered in Egypt, which preserves a sophisticated banquet scene. In this episode, the two protagonists engage in a formal debate on the nature of love, questioning whether it is a divine force or a human passion, a discussion that reflects the intellectual and rhetorical tastes of the educated elite in the early Roman Empire. The original novel was likely a multi-volume narrative involving the lovers' separation and subsequent adventures, but the complete plot is now lost. The work's transmission history is remarkable; while the Greek original is almost entirely absent from the Byzantine tradition, the story was translated and adapted within the medieval Islamic world, resurfacing in later Persian and Arabic literature. This unique cross-cultural journey facilitated the modern rediscovery and identification of the fragments. Composed for an audience conversant with classical philosophical discourse, Metiochus and Parthenope is a representative example of the popular Greek romance genre that flourished during the early Imperial period.
+
 ## Text
 
 ### col2

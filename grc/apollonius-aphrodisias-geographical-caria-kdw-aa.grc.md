@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kdw-aa` · [HTML page](https://eulogikon.org/works/apollonius-aphrodisias-geographical-caria-kdw-aa)
 
+The Geographical Fragments on Caria is a collection of sixteen prose passages attributed to Apollonius of Aphrodisias, a native of the Carian city of Aphrodisias. The work survives exclusively as excerpts quoted within the sixth-century CE geographical lexicon known as the Ethnica, compiled by Stephanus of Byzantium. These fragments represent a focused example of the ancient Greek periegesis, or descriptive geographical tradition, concentrating specifically on the region of Caria in southwestern Asia Minor. The extant passages consist of brief entries on Carian cities, peoples, and geographical features. Their primary content involves providing etymological explanations for place names, which are frequently derived from mythological figures or purported historical events. The fragments also include notes on local ethnography and history, referencing groups such as the Carians and Leleges, and integrate local geography into the broader framework of Greek myth through foundation stories and heroic genealogies. As a specialized treatise drawing on local knowledge, Apollonius’s work served as a source for later Byzantine scholarship. The fragments remain valuable for modern studies of Carian historical geography, onomastics, and the intersection of local and Panhellenic mythology.
+
 ## Text
 
 ### t1-14

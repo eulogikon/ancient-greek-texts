@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-aa` · [HTML page](https://eulogikon.org/works/aristotle-natural-problems-hgw-aa)
 
+The Problemata Physica, traditionally attributed to Aristotle, is a substantial compilation of 218 question-and-answer passages on diverse topics within natural philosophy. Organized as a categorized collection, the work systematically applies core Aristotelian principles—including the doctrine of the four causes, the balance of primary qualities like hot, cold, wet, and dry, and the concept of pneuma—to explain a wide array of phenomena. Its scope encompasses physiology, medicine, psychology, physics, and meteorology, offering characteristically mechanistic explanations rooted in Peripatetic thought. A recurring and historically significant theme is its exploration of the proposed link between an excess of black bile, or melancholy, and exceptional intellectual or artistic achievement.
+
+Although transmitted under Aristotle’s name, the collection is now understood as a Peripatetic compilation. It was likely assembled from the late fourth century BCE onward, drawing upon material from Aristotle’s successors within the Lyceum rather than representing a single, unified work by the philosopher himself. The text survives as part of the broader Aristotelian corpus and has a complex manuscript tradition. It was later translated into both Arabic and Latin, ensuring its transmission and influence across cultural and linguistic boundaries.
+
+The Problemata held profound significance for medieval and Renaissance science and medicine. Its Latin version became a standard textbook, and its distinctive question-and-answer format inspired a long tradition of later problem literature. Its theory of the melancholic temperament as a potential source of genius notably impacted later European thought, influencing figures such as the Renaissance philosopher Marsilio Ficino and the seventeenth-century author Robert Burton.
+
 ## Text
 
 ### Prob 859a (t)

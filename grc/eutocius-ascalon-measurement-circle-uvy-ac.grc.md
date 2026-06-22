@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uvy-ac` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-measurement-circle-uvy-ac)
 
+Eutocius of Ascalon’s Commentary on the Measurement of the Circle is a detailed mathematical exegesis composed in Greek during the sixth century CE. It provides a systematic, step-by-step explication of Archimedes’ foundational treatise, On the Measurement of the Circle, which establishes the formula for a circle’s area and offers a famous approximation of pi. Eutocius structures his commentary around seventeen key passages, meticulously unpacking Archimedes’ famously concise and challenging proofs by clarifying definitions, expanding upon logical transitions, and supplying intermediate steps that the original text omits.
+
+Composed within the late antique scholarly milieu of Alexandria, the work exemplifies the efforts of philosophers and mathematicians to preserve and elucidate classical Greek scientific texts. Modern scholarship interprets Eutocius’s commentary as primarily pedagogical, designed to render Archimedes’ advanced geometric methods accessible to students. The complete text has been reliably transmitted through medieval Greek manuscripts, most notably a tenth- or eleventh-century codex that preserves it alongside Archimedes’ own writings. As a crucial link in the history of mathematics, Eutocius’s commentary played a vital role in transmitting Archimedean ideas to Byzantine, Arabic, and later Latin scholarly traditions.
+
 ## Text
 
 ### 228

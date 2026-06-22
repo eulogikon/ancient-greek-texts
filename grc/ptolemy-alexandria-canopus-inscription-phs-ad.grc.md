@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ad` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-canopus-inscription-phs-ad)
 
+The Inscription of Canopus is an astronomical treatise by the Greco-Roman scholar Claudius Ptolemy, composed around 146–147 CE. It is distinct from the earlier Canopus Decree of 238 BCE, a priestly document concerning calendar reform. Ptolemy's work was reportedly inscribed on a stone stele and presented a foundational set of early astronomical parameters. These parameters, organized in seven passages, included fundamental data such as the length of the solar year, the obliquity of the ecliptic, and the mean motions of the moon and planets.
+
+The treatise does not survive in its original monumental form but is known through later manuscript copies, including a Greek version and an Arabic translation. The numerical values recorded in these copies differ in several respects from those established in Ptolemy's mature and definitive work, the Almagest. This variance provides scholars with crucial evidence for tracing the development of Ptolemy's astronomical theories and computational methods prior to his synthesis of the geocentric system. The deliberate act of inscribing the work on a public monument indicates it was intended as an authoritative, published statement of his early findings. Modern scholarship regards the inscription as a key document for understanding the evolution of Ptolemaic astronomy, situating it within the long historical endeavor to harmonize calendar systems with observed celestial cycles.
+
 ## Text
 
 ### 2.150

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jcy-ab` · [HTML page](https://eulogikon.org/works/archelaus-chersonesus-epigram-jcy-ab)
 
+The epigram attributed to Archelaus of Chersonesus is a lost work known only by authorial reference. The author is identified as being from Chersonesus in Egypt, most likely Chersonesus Parva, a suburb of Ptolemaic Alexandria. The text of the epigram itself does not survive in any extant source. Based on the author's only other recorded activity, it may have functioned as a dedicatory inscription. The geographer Strabo mentions an Archelaus from Chersonesus who served as a choregus and dedicated a bronze statue of the citharode Aristonicus in the temple of Apollo at Alexandria. The epigram's existence is inferred solely from this attribution, suggesting it was once recorded in an ancient anthology or commentary now lost. While its specific content remains unknown, the attribution provides a minor point of evidence regarding cultural patronage in Hellenistic Egypt, illustrating the role of wealthy individuals like Archelaus in the artistic and religious life of Alexandria.
+
 ## Text
 
 ### 16.120.(p1)

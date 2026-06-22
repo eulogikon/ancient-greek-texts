@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ai` · [HTML page](https://eulogikon.org/works/alchemist-i-pursuer-knowledge-rrg-ai)
 
+What Character Should the Pursuer of Knowledge Have is a short Greek treatise on alchemy, written by an anonymous author conventionally designated as Alchemist I and spuriously attributed to the ancient philosopher Democritus. Dating approximately from the first to the third centuries CE, the work originates from the Greco-Egyptian alchemical tradition of Roman Egypt. Rather than offering practical instructions, this aphoristic text delineates the essential ethical and spiritual qualities required of an alchemist, emphasizing virtues such as piety, temperance, truthfulness, and a rejection of greed and envy. It represents a distinct sub-genre concerned with the formation of the adept, wherein the practitioner's moral character is considered fundamental to the success of the art. The treatise survives as a single, concise passage embedded within larger Byzantine manuscripts that compiled numerous such pseudonymous texts, reflecting a complex and often fragmentary transmission history. Modern scholarship interprets the work as illustrative of the period's conception of alchemy as a unified spiritual and technical pursuit, serving to define an esoteric community by safeguarding its knowledge behind stringent requirements of ethical conduct and mental discipline.
+
 ## Text
 
 ### 2.35.(8t)

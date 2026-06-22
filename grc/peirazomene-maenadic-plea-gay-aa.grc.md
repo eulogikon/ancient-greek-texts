@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gay-aa` · [HTML page](https://eulogikon.org/works/peirazomene-maenadic-plea-gay-aa)
 
+The Fragments of a Maenadic Plea is a lost work of Greek lyric poetry, known only by its title. The author is identified as Peirazomene, a name otherwise unattested in the historical record of Greek poets. The title suggests a composition structured as an entreaty, or plea, delivered from the perspective of a Maenad, a female devotee of the god Dionysus often associated with ecstatic ritual and divine madness. While the text itself does not survive, its implied subject matter would have placed it within the rich tradition of Dionysiac poetry, which frequently explored themes of religious frenzy, the dissolution of social boundaries, and the complex interface between human and divine wills. The work is noted as having been cited in two passages by an unknown source, but no manuscript tradition or direct quotations are preserved, rendering any further analysis of its specific content or literary merit impossible.
+
 ## Text
 
 ### unit_1

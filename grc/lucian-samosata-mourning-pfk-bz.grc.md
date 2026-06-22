@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bz` · [HTML page](https://eulogikon.org/works/lucian-samosata-mourning-pfk-bz)
 
+_On Mourning_ is a satirical oration by the 2nd-century CE Syrian-born writer Lucian of Samosata. Composed in Attic Greek during the cultural revival known as the Second Sophistic, the work is a rhetorical critique of the excessive and often performative customs associated with grief in the ancient world. Lucian targets practices such as loud lamentation, the tearing of garments, and the hiring of professional mourners, framing them as irrational and theatrical. Through a series of concise arguments spread across twenty sections, he contrasts these emotional displays with a philosophical, particularly Stoic or Cynic, ideal of accepting death with calm rationality. The essay functions as part of Lucian’s broader literary project of using irony and wit to challenge social conventions and intellectual pretensions, likely intended for an educated, Greek-speaking elite. The complete text has been preserved through the medieval manuscript tradition of Lucian’s works and is considered genuine. Its skeptical tone and mockery of hollow ritual later exerted a significant influence on Renaissance humanists and satirists.
+
 ## Text
 
 ### Luct t

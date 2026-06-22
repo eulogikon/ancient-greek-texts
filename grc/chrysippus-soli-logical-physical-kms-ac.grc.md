@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kms-ac` · [HTML page](https://eulogikon.org/works/chrysippus-soli-logical-physical-kms-ac)
 
+The Fragments Logical and Physical is a modern designation for the collected excerpts from the works of Chrysippus of Soli, the third head of the Stoic school in the 3rd century BCE. As no complete treatise by Chrysippus survives, this corpus consists of over a thousand passages preserved through quotation, paraphrase, and discussion by later Greek, Roman, and early Christian authors. These fragments, originally composed in Koine Greek, represent the systematic core of Stoic philosophy, encompassing the fields of logic and physics. The logical fragments address epistemology, semantics, and the structure of propositional argument, while the physical fragments detail the Stoic materialist and pantheistic cosmology, including the doctrines of cosmic cycles, divine reason, and deterministic fate.
+
+The fragments originate from Chrysippus’s immense literary output, which ancient sources numbered in the hundreds of works. He wrote prolifically to defend and formalize Stoic doctrine against rival schools, particularly the arguments of Academic Skepticism. His role was that of a consolidator and rigorous systematizer of ideas initiated by Zeno of Citium and Cleanthes. The transmission of his thought is entirely indirect, filtered through often critical sources such as Plutarch, Galen, Sextus Empiricus, and the doxographical tradition. Modern scholarship relies principally on the thematic compilation in Hans von Arnim’s Stoicorum Veterum Fragmenta, which organizes these disparate references. The fragments reveal a philosopher of formidable dialectical skill, credited with refining Stoic logic into a formidable tool and articulating a coherent physical system where a rational, immanent deity governs a corporeal universe. The collection remains indispensable for understanding the maturation of Stoic philosophy and its subsequent influence on the intellectual history of the Greco-Roman world.
+
 ## Text
 
 ### 1

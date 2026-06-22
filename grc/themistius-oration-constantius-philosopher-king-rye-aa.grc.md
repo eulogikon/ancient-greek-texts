@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-aa` · [HTML page](https://eulogikon.org/works/themistius-oration-constantius-philosopher-king-rye-aa)
 
+The Oration to Emperor Constantius on the Philosopher King is a formal panegyric composed around 350 CE by the pagan philosopher and senator Themistius. Delivered before the Roman Emperor Constantius II, the oration is structured in 56 sections of flowing Attic Greek prose. Its central thesis adapts the Platonic ideal of the philosopher-king, arguing that the true ruler is a philosopher manifested in action, and it praises Constantius for exemplifying sovereign virtues such as mildness, wisdom, and love for humanity. The work functions as a sophisticated fusion of political philosophy and imperial encomium, meticulously directing all praise toward this philosophical conception of kingship.
+
+Modern scholarship interprets the oration as serving a dual purpose: it is both a piece of calculated flattery aimed at securing imperial favor and a serious treatise on the ethical responsibilities of rule, grounded in Greek philosophical tradition. It is widely regarded as a key text in Themistius's efforts to establish his own position as a philosophical advisor at the Christian imperial court. The complete text survives through medieval manuscript tradition. Its synthesis of classical philosophy with the ideology of imperial governance proved highly influential, providing a model for later Byzantine and Renaissance thinkers on the relationship between wisdom and political power.
+
 ## Text
 
 ### t 1

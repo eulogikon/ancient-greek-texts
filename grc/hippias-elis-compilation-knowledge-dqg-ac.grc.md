@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dqg-ac` · [HTML page](https://eulogikon.org/works/hippias-elis-compilation-knowledge-dqg-ac)
 
+On the Compilation of Knowledge, attributed to the Sophist Hippias of Elis, is a lost collection of excerpts and sayings compiled from diverse sources. Reflecting Hippias's renowned polymathy, the work embodies the Sophistic project of systematizing knowledge from various arts and sciences for educational and rhetorical use. No direct fragments of the text survive; its nature is reconstructed solely from later testimonia. It was likely a compilation of notable events, names, and achievements from multiple fields, including historical anecdotes, poetic citations, and authoritative sayings, serving as a repository of exempla for rhetorical invention and cultural reference. The text is preserved only through secondary references, such as an entry in the Suda lexicon and discussions by Plato, who mentions Hippias's polymathy in dialogues like the Hippias Major. No manuscripts or direct quotations are extant. Hippias's methodological approach to compilation influenced later encyclopedic and doxographic traditions. His model of the polymath and the practical gathering of knowledge for rhetoric left a mark on subsequent scholarly practices, even as Plato used him as a critical foil for defining philosophical depth.
+
 ## Text
 
 ### 1a,6,F 1

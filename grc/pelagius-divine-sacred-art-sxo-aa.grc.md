@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sxo-aa` · [HTML page](https://eulogikon.org/works/pelagius-divine-sacred-art-sxo-aa)
 
+The treatise Of Pelagius the Philosopher, On This Divine and Sacred Art is a brief Greek technical work attributed to an author designated as both Pelagius the Philosopher and Pelagius the Theologian, a figure distinct from the more famous fourth- or fifth-century monk of the same name. The text, comprising nine passages, is preserved within the sixteenth-century alchemical manuscript Paris, Bibliothèque nationale de France, Grec 2327, and is published in the Catalogus Codicum Astrologorum Graecorum. Its explicit description as concerning a divine and sacred art, coupled with its manuscript context, confirms its subject as alchemy, a discipline traditionally referred to in such terms within the Greek tradition. The work opens with a philosophical discussion on the purpose of any art, using analogies from carpentry and dyeing, before applying this reasoning to alchemical processes. It proceeds to offer practical instructions, focusing on the treatment of copper, advising that it must be purified of its "shadow"—interpreted as a blackening impurity it can impart to silver—before it can properly receive a dye or tincture. The author's dual epithet reflects the text's character, which integrates philosophical inquiry and theological framing with specific technical knowledge. As a minor entry in the Greek alchemical corpus, its survival attests to the enduring Byzantine interest in alchemy and the conceptual framing of material arts as sacred endeavors.
+
 ## Text
 
 ### 2.253.(1t)

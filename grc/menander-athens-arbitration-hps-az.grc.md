@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-az` · [HTML page](https://eulogikon.org/works/menander-athens-arbitration-hps-az)
 
+_Arbitration_ is a comedy by the Athenian playwright Menander, composed around 300 BCE. A definitive work of Greek New Comedy, it exemplifies the genre's shift from political satire to intricate domestic and romantic plots. Written in verse in the Attic dialect, the play centers on the young Athenian Charisios, who abandons his wife, Pamphile, after she gives birth to a child he believes cannot be his own. The central dramatic mechanism is a legal hearing, or arbitration, conducted between two slaves, Davus and Syrus, over a set of trinkets discovered with an abandoned infant. This proceeding ultimately reveals that Charisios himself fathered the child following an earlier, unrecognized encounter with Pamphile at a festival. The narrative explores themes of mistaken identity, marital duty, social ethics, and the pervasive role of chance in human affairs.
+
+The complete text of the play is lost. Modern understanding derives from approximately 897 fragments, largely recovered from papyri discovered in Egypt during the 20th century. These fragments permit a substantial reconstruction of the plot, though the text remains incomplete in several sections. The play was likely written for performance at Athenian dramatic festivals, and its depiction of private arbitration reflects a common legal practice of the period. Scholars regard the work as a sophisticated study of character and social convention, notable for its comparatively nuanced and sympathetic portrayal of female figures such as Pamphile and the courtesan Habrotonon. Its plot structure, built upon a recognition scene that resolves a domestic crisis, proved highly influential, directly shaping the comedies of the Roman playwright Terence and, through this lineage, much of the subsequent Western comic tradition.
+
 ## Text
 
 ### 127

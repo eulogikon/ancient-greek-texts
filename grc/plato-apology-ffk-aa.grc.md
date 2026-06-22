@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-aa` · [HTML page](https://eulogikon.org/works/plato-apology-ffk-aa)
 
+Plato's Apology of Socrates is a seminal philosophical treatise that dramatizes the defense speech delivered by Socrates at his trial in Athens in 399 BCE. The title derives from the Greek term for a speech in defense, not an admission of fault. Structured as three consecutive addresses to the Athenian jury, the work presents Socrates' principal defense against the charges of impiety and corrupting the youth, his remarks following his conviction, and his final words after the death sentence was pronounced. Within this framework, Socrates articulates the core of his philosophical mission, recounting his interpretation of the Delphic oracle which declared no man wiser than he, and his consequent practice of interrogating his fellow citizens to expose their unwarranted confidence in their own knowledge. This practice, he argues, is a service to the god Apollo. The speech culminates in his famous assertion that an unexamined life is not worth living for a human being.
+
+Modern scholarship generally regards the Apology not as a verbatim historical record but as Plato's literary and philosophical reconstruction, composed within a few decades of the trial. As one of Plato's earliest writings, its primary aims are to vindicate his teacher's legacy and to explore the profound conflict between the philosopher, committed to truth and ethical inquiry, and the political community. The text is the principal source for the iconic figure of Socrates as a martyr for intellectual integrity and moral principle. Transmitted in full through the medieval manuscript tradition without significant lacunae, the work has exercised immense influence on Western thought, profoundly shaping subsequent conceptions of civil disobedience, moral courage, and the philosophical vocation.
+
 ## Text
 
 ### Apol 17 a

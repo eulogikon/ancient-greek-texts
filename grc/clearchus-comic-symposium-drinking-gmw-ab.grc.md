@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gmw-ab` · [HTML page](https://eulogikon.org/works/clearchus-comic-symposium-drinking-gmw-ab)
 
+The Symposium and Drinking Fragments constitute a collection of nineteen brief passages attributed to the Athenian comic poet Clearchus. Preserved not as a continuous text but as quotations within later authors, primarily the grammarian Athenaeus in his Deipnosophistae, these fragments derive from lost comedies. They consist of short verses or prose paraphrases featuring jokes, toasts, and commentary on behavior at Greek symposia, or drinking parties. The content offers valuable insights into sympotic culture, detailing the customs and social dynamics of these gatherings. Specific references to food, drink, and contemporary dining practices are frequent, while the humor often targets stereotypical partygoers such as parasites and drunkards. There are also indications that Clearchus employed mythological parody for comic effect. The fragments survive exclusively through this indirect transmission, compiled in modern scholarly editions, though they cannot be assigned with certainty to any of Clearchus’s known play titles. While Clearchus remains a minor figure compared to contemporaries like Aristophanes, these fragments are significant for reconstructing the broader scope of Old Comedy beyond its few complete surviving plays. They also serve as important primary sources for ancient Greek social history, particularly illuminating the cultural institution of the symposium.
+
 ## Text
 
 ### book 1.1

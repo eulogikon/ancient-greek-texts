@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `efg-ac` · [HTML page](https://eulogikon.org/works/theopompus-comic-delphi-agriculture-efg-ac)
 
+The Fragments on Delphi and Agriculture constitute a modern thematic grouping of five verse passages attributed to the Athenian comic poet Theopompus, a contemporary of Aristophanes. These excerpts originate from lost comedies and are preserved not directly but as quotations in later authors such as Athenaeus of Naucratis and various lexicographers. Typical of Old Comedy, their content features satire and social commentary. The fragments are categorized under two principal themes: the first satirizes the Oracle of Apollo at Delphi, its political influence, or the behavior of pilgrims; the second employs rural life and farming produce for humor, often contrasting it with urban politics and society. The fragments survive solely through indirect citation in later scholarly works, most notably Athenaeus’s Deipnosophistae, with the standard critical edition found in Poetae Comici Graeci. While their direct influence is untraceable, they exemplify the thematic range of Old Comedy. They provide valuable evidence for the popular reception of major institutions like the Delphic Oracle and for social history, including agricultural references and the Attic dialect.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-af` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-art-constitution-qmm-af)
 
+On the Constitution of the Medical Art to Patrophilus is a systematic treatise by the second-century physician Galen of Pergamon, addressed to an associate or student named Patrophilus. This methodological work provides a foundational exposition on the principles and structure of medicine, defending it as a rational, scientific discipline based on logical demonstration and empirical observation against rival skeptical schools of thought. The treatise argues for the coherence of medicine as a true art, defining the criteria for a genuine art and demonstrating medicine's conformity through its logical structure. It establishes a medical epistemology that combines reason with experience and outlines the systematic divisions of the medical art, such as dietetics, pharmacology, and surgery. Structured in eighty passages, the text was preserved within the Galenic corpus and transmitted through Greek manuscripts, with later translations into Arabic and Latin ensuring its survival and study through the medieval and Renaissance periods. The work was instrumental in defining the intellectual framework of Western medicine, reinforcing the model of medicine as a teachable, rational science. Its arguments shaped medical education and solidified Galen's authority, influencing scholarly traditions from Byzantine and Arabic to Latin contexts up to the early modern period.
+
 ## Text
 
 ### 1 224 (t1)

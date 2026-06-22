@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hyy-aa` · [HTML page](https://eulogikon.org/works/hippias-erythrae-overthrow-knopos-hyy-aa)
 
+The work On the Overthrow of King Knopos by Hippias of Erythrae is a lost historical text known only by its title. It is presumed to have been a local history detailing the political deposition of a ruler named Knopos, likely focusing on events within the Ionian city-state of Erythrae. The author, Hippias of Erythrae, remains an obscure figure; while a tyrant of the same name is attested for Erythrae, this creates a chronological and biographical discrepancy, as the title suggests an author writing about the overthrow of another monarch. No direct quotations or substantive descriptions of the work's content survive in extant ancient literature, though its title is preserved in modern catalogs of lost works. As a fragmentary example of Ionian local historiography, its primary significance lies in its attestation, illustrating the historical interests and literary activity of a minor Greek polis.
+
 ## Text
 
 ## ΠΕΡΙ ΕΡΥΘΡΩΝ. E LIBRO SECUNDO. Athenaeus VI: Ἱππίας δ’ ὁ Ἐρυθραῖος ἐν τῇ δευτέρᾳ τῶν Περὶ τῆς πατρίδος ἱστοριῶν, διηγούμενος ὡς ἡ Κνωποῦ βασιλεία ὑπὸ τῶν ἐκείνου κολάκων κατελύθη, φησὶ καὶ ταῦτα· «Κνωπῷ μαντευομένῳ περὶ σωτηρίας ὁ θεὸς ἔχρησε θύειν Ἑρμῇ δολίῳ.

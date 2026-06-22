@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mdu-aa` · [HTML page](https://eulogikon.org/works/moschus-syracuse-epitaph-bion-mdu-aa)
 
+The Epitaph for Bion is a pastoral lament of 123 hexameter lines, traditionally ascribed to the Hellenistic poet Moschus of Syracuse. It mourns the death of the poet Bion of Smyrna, adapting the formal conventions of Theocritus’s bucolic laments to grieve a historical literary figure. The poem opens with a sweeping invocation to the natural world, commanding valleys, rivers, trees, and flowers to weep for the departed singer. This extensive personification of a grieving landscape establishes the work’s core aesthetic, immersing the reader in a universe sorrowing for its lost poet. The lament repeatedly calls upon the Sicilian Muses to begin the dirge, weaving a literary genealogy that connects the speaker, Moschus, to his predecessor Bion, and ultimately to their common model, Theocritus.
+
+Mythological allusion deepens the poem’s resonance, most notably through the comparison of Bion to Orpheus, whose song held similar power over nature. The work explores the poignant contrast between the poet’s physical mortality and the potential immortality of his song, ultimately asserting the enduring life of the pastoral genre itself, the "Doric Muse." The complete poem has been preserved within the medieval manuscript tradition of Greek bucolic poetry, transmitted alongside the works of Theocritus and Moschus. While its attribution to Moschus has been questioned since antiquity, with some scholars deeming it spurious, it has remained a continuous and integral part of the pastoral corpus.
+
+The significance of the Epitaph for Bion lies in its role as a critical bridge between the Hellenistic bucolic tradition and later Roman poetry. Its structure, themes, and melancholic atmosphere directly influenced Virgil’s Eclogue 10, his lament for Gallus. Through this Virgilian imitation, the motifs and emotional tenor of the Greek epitaph were channeled into the Western pastoral tradition, shaping its development for centuries through the Renaissance and into the early modern period.
+
 ## Text
 
 ### 1

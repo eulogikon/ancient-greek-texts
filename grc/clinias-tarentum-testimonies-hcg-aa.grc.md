@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hcg-aa` · [HTML page](https://eulogikon.org/works/clinias-tarentum-testimonies-hcg-aa)
 
+The Testimonies is a collection of five philosophical passages attributed to Clinias of Tarentum, a figure associated with the Pythagorean school. The work's title indicates it functioned as a compilation of sayings or doctrinal excerpts, a common format for preserving philosophical teachings. As a citizen of Tarentum, a major center of Pythagorean activity, Clinias's authorship suggests the content was rooted in that tradition, potentially encompassing ethical precepts, mathematical doctrines, or biographical anecdotes concerning Pythagorean masters. The work survives only as a title noting its five constituent passages; it is not represented among extant fragments in standard reference works, indicating it is either entirely lost or preserved solely through a late catalog or scholiast's note. Its existence underscores the Hellenistic practice of gathering philosophical testimonia and contributes to our understanding of the Pythagorean literary corpus, which aimed to systematize and transmit the school's distinctive teachings.
+
 ## Text
 
 ### 1

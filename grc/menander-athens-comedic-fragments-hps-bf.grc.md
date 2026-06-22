@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bf` · [HTML page](https://eulogikon.org/works/menander-athens-comedic-fragments-hps-bf)
 
+Menander's Comedic Fragments constitute the modern assemblage of surviving excerpts from the lost plays of Menander, the preeminent Athenian dramatist of New Comedy. Active during the late 4th and early 3rd centuries BCE, Menander authored more than one hundred comedies, moving the genre away from political satire toward realistic depictions of private, domestic life. His plots centered on romantic entanglements, familial conflicts, and the pervasive influence of chance. For centuries, knowledge of his work depended entirely on quotations preserved by other ancient authors and the Latin adaptations of Roman playwrights Plautus and Terence. This situation was transformed in the 20th century by the discovery of Egyptian papyri, which recovered several of his plays nearly in their entirety. The fragments themselves, 247 passages of varying length, are culled from sources such as anthologies and grammatical treatises. They represent the residual pieces of his vast oeuvre not preserved on those major papyri.
+
+Modern scholarship regards Menander as a master of character delineation and everyday realism, whose sententious observations on human nature were extensively quoted in antiquity. His plays conventionally conclude with reconciliation and restored social harmony, mirroring the values of his Hellenistic audience in Athens and the wider Greek world. The transmission of his work is complex, with the extant corpus deriving from two distinct streams: the substantial papyrus discoveries and the smaller, scattered quotations maintained by later writers. This recovery has substantiated his towering ancient reputation and his foundational role in shaping the entire Western tradition of the comedy of manners.
+
 ## Text
 
 ### book 103

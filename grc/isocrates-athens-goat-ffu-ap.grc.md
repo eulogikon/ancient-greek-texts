@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ap` · [HTML page](https://eulogikon.org/works/isocrates-athens-goat-ffu-ap)
 
+On the Goat is a forensic oration from the 4th century BCE preserved within the corpus of speeches attributed to the Athenian orator Isocrates. The work argues a private lawsuit concerning a defendant accused of killing a goat that was leading a sacrificial procession to the Acropolis. The plaintiff frames the act not merely as a matter of property damage but as a serious public offense, constituting both sacrilege and the disruption of a communal religious rite, thereby introducing elements of ritual pollution into a civil claim for financial compensation. The argument strategically characterizes the killing as an affront to the entire community rather than a private loss, employing typical forensic tactics that include attacks on the defendant's character and piety.
+
+The authenticity of the speech has been disputed since antiquity, with ancient critics such as Dionysius of Halicarnassus questioning its authorship. Modern scholarship often regards it as spurious, possibly the work of a student or imitator of Isocrates, and it is frequently treated separately from the core of his genuine works. It survives through the medieval manuscript tradition of the Isocratean corpus, which remains largely intact. As a contested part of the canon, the speech is studied primarily as an example of Attic forensic oratory that intersects with religious law, providing a point for stylistic comparison with Isocrates' undisputed works and contributing to the understanding of legal rhetoric and textual criticism in the 4th century BCE.
+
 ## Text
 
 ### Aegin t

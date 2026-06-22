@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uws-aa` · [HTML page](https://eulogikon.org/works/hesychius-miletus-history-constantinople-uws-aa)
 
+The History of Constantinople is a sixth-century work of historical topography attributed to Hesychius of Miletus, a high-ranking official and historian in the early Byzantine Empire. Written in Greek prose, it is not a chronicle but a descriptive account of the city’s origins, detailing its foundation by Emperor Constantine the Great and cataloguing its major buildings and monuments. The work blends historical fact with foundation myths, connecting the new imperial capital to ancient legends such as the voyage of the Argonauts. The original text does not survive independently but is preserved within a much later tenth-century compilation known as the Patria of Constantinople, from which scholars have extracted Hesychius’s contributions. The extant version consists of twenty-eight descriptive passages. Modern scholarship interprets the work as part of a popular Late Antique literary genre known as patria, which aimed to furnish the relatively new capital with a deep historical and mythological pedigree, thereby crafting a venerable identity for the New Rome. It is thought to have been composed for the educated elite as a celebration of the city’s physical and legendary heritage.
+
 ## Text
 
 ## Πάτρια Κωνσταντινουπόλεως κατὰ Ἡσύχιον Ἰλλούστριον. Δύο καὶ ἑξήκοντα καὶ τριακοσίων ἀπὸ τῆς Αὐγούστου Καίσαρος μοναρχίας διεληλυθότων ἐνιαυτῶν τῇ πρεσβυτέρᾳ Ῥώμῃ καὶ τῶν πραγμάτων αὐτῆς ἤδη πρὸς πέρας ἀφιγμένων Κωνσταντῖνος ὁ Κωνσταντιόυ παῖς ἐπιλαβόμενος τῶν σκήπτρων τὴν νέαν ἀνίστησι Ῥώμην ἴσην αὐτὴν τῇ πρώτῃ χρηματίζειν προστάξας.

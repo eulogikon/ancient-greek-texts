@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ibq-aa` · [HTML page](https://eulogikon.org/works/menippus-gadara-cynic-law-ibq-aa)
 
+The Fragments on Cynic Law is a satirical work attributed to the Hellenistic Cynic philosopher Menippus of Gadara, who wrote in Koine Greek during the 3rd century BCE. No complete text by Menippus survives; this work is known only through two brief passages preserved by later authors. The title suggests it parodied the principles of the Cynic lifestyle. As the inventor of the seriocomic genre later termed Menippean satire, which blended prose and verse to critique philosophical pretension and social conventions, Menippus likely used the work to humorously address core Cynic doctrines. These included living according to nature, embracing voluntary poverty, and practicing free speech, while simultaneously mocking hollow intellectualism. The work's transmission is entirely fragmentary, with no extant manuscripts. Our knowledge derives solely from quotations and descriptions in later authors such as Diogenes Laërtius and the satirist Lucian. Consequently, the exact structure and full content of the work are lost. Its influence, however, was significant, as Menippus's distinctive satirical style profoundly shaped the writings of Lucian and established a literary tradition that impacted Roman and later European satire.
+
 ## Text
 
 ### 1

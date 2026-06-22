@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ivq-ac` · [HTML page](https://eulogikon.org/works/alexis-servants-masters-ivq-ac)
 
+Fragments on Servants and Masters is a modern thematic compilation of eleven fragmentary passages from the comedies of Alexis, a prolific poet of Middle Comedy active from the late fourth to mid-third century BCE. These excerpts, drawn from various lost plays, feature dialogues and scenarios involving slaves and masters. They survive primarily as quotations in later authors, most notably Athenaeus in his Deipnosophistae. The fragments illustrate core comic themes of the period, exploring the tensions and power dynamics between slaves and masters, often depicting slaves as witty and more clever than their owners. The scenes focus on household affairs and conflicts, featuring stereotypical portrayals of slaves, such as the lazy or scheming servant, and masters, such as the gullible or angry householder. No complete play by Alexis survives. The fragments are preserved almost entirely through citation by later grammarians and compilers like Athenaeus, Pollux, and Stobaeus, who valued them for their linguistic or social content. The standard modern edition is Poetae Comici Graeci. Alexis was a key figure in the transition to New Comedy, moving the genre toward domestic plots and stock characters. Ancient sources suggest he was the uncle and possible teacher of Menander. His development of the clever slave and the domestic master-servant dynamic directly influenced Menander and, through Roman adaptors like Plautus and Terence, the wider Western comic tradition.
+
 ## Text
 
 ### book 278b.1

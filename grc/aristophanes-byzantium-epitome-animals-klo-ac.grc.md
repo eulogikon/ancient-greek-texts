@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `klo-ac` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-epitome-animals-klo-ac)
 
+The Epitome of the Histories of Animals is a scholarly digest attributed to the grammarian Aristophanes of Byzantium, who served as head of the Library of Alexandria in the late third and early second centuries BCE. Written in Koine Greek, the work systematically condenses the extensive zoological material from Aristotle’s History of Animals into a more accessible reference format, comprising 552 individual passages. It covers Aristotle’s observations on animal morphology, behavior, reproduction, and classification, presenting the core data of Aristotelian zoology in a concise form suited for study and consultation. The complete text does not survive independently; modern knowledge of it derives from quotations and paraphrases in later authors, such as the Roman writer Aelian, with the extant passages representing a modern reconstruction from these scattered sources. Compiled within the Alexandrian tradition of creating scholarly digests of major works, the epitome served as a practical tool for Hellenistic scholars and students, facilitating the transmission of Aristotle’s natural philosophy. By distilling this complex material, the work played a significant role in preserving and conveying classical zoological learning through late antiquity and into the Byzantine period.
+
 ## Text
 
 ### Epit pro t

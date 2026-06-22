@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bf` · [HTML page](https://eulogikon.org/works/herodian-alexandria-orthography-qnq-bf)
 
+On Orthography is a technical grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. Composed during a period of revived interest in classical Attic Greek, the work systematically establishes rules for the correct spelling of Greek words, addressing issues such as the use of single versus double consonants, vowel spellings, and proper accentuation. Structured as a collection of 205 discrete passages, it represents a key product of Alexandrian scholarship, applying analytical principles to codify the Attic dialect as the authoritative standard for literary composition. The treatise was designed both to settle contemporary orthographic debates and to serve a practical pedagogical function for scholars, students, and the educated elite. Only a portion of the original text survives today, primarily through fragments and excerpts preserved by later Byzantine grammarians; the extant collection likely constitutes a modern reconstruction of these surviving parts.
+
 ## Text
 
 ### 3,2 407 (1t)

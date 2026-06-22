@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-aq` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-book-ideas-rhg-aq)
 
+On the Book-Ideas is an anonymous rhetorical treatise from the Roman Imperial period, composed in Attic Greek during the 2nd century CE. It is a detailed commentary on the Ideenlehre, or "Doctrine of Ideas," a systematic work on rhetorical style by the influential theorist Hermogenes of Tarsus. The treatise methodically explicates Hermogenes' complex system, which analyzed elite oratorical style by breaking it down into seven core qualities, including clarity, grandeur, beauty, and force. The anonymous author further dissects these qualities into their constituent parts, such as conception, method, diction, and composition, providing a structured guide for advanced students and practitioners of rhetoric. Composed during the cultural revival known as the Second Sophistic, the work served a clear pedagogical function within the Greek educational system, where Hermogenes' textbook was a central component of advanced study. Although the manuscript tradition preserved the treatise under the name of the famed orator Aelius Aristides, scholars unanimously reject this attribution on stylistic grounds, and the author's true identity remains unknown. The text survives in its complete form, transmitted through medieval manuscripts primarily dedicated to the works of Aristides, which ensured its preservation.
+
 ## Text
 
 ### 7.77.(1t)

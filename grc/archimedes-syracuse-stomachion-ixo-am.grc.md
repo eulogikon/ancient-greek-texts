@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ixo-am` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-stomachion-ixo-am)
 
+The Stomachion is a mathematical treatise by Archimedes of Syracuse that analyzes a dissection puzzle involving a square subdivided into fourteen polygonal pieces. The text is extremely fragmentary, with only three passages surviving in the original Greek. Its primary problem is combinatorial, focusing on calculating the number of distinct ways the fourteen pieces can be reassembled to form the original square. The work elevates a known recreational puzzle into a subject of rigorous geometric and enumerative analysis, representing an early investigation into combinatorial mathematics.
+
+The treatise was lost for centuries and was known only through brief references in other works. It was recovered from the Archimedes Palimpsest, a tenth-century manuscript containing several of Archimedes' works that was later overwritten with a liturgical text in the thirteenth century. Advanced imaging techniques applied to the palimpsest in the early twenty-first century revealed the underlying Greek text, allowing for the modern reconstruction of the Stomachion. This rediscovery provides crucial evidence for the study of combinatorial problems in antiquity, demonstrating that such analytical pursuits existed long before the formal development of the field in the modern era. While the dissection puzzle itself persisted in various forms throughout history, Archimedes' specific mathematical treatment of it remained unknown until its recovery in the twentieth century.
+
 ## Text
 
 ### 3.70.(1t)

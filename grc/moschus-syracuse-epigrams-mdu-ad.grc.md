@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mdu-ad` · [HTML page](https://eulogikon.org/works/moschus-syracuse-epigrams-mdu-ad)
 
+The Epigrams constitute a collection of thirty-five short Greek poems traditionally ascribed to Moschus of Syracuse, a bucolic poet active in the mid-second century BCE. While Moschus is more renowned for his longer pastoral compositions, this assemblage demonstrates his adeptness within the concise and polished epigrammatic form that flourished during the Hellenistic period. The poems engage with the characteristic themes of the era, encompassing love, lamentation, votive dedications, and refined observations on art and quotidian existence, all executed in a highly literary style. The complete collection survives through its preservation in medieval manuscripts alongside the works of other pastoral poets such as Theocritus, as well as within major anthologies like the Palatine Anthology. Scholarly consensus holds that the authorship of individual pieces within the corpus is uncertain; it is generally regarded as an amalgam containing both genuine works by Moschus and poems composed by later imitators, rendering the authenticity of each epigram a persistent subject of academic inquiry. These poems were crafted for a sophisticated and literate audience that valued technical virtuosity and artful innovation upon conventional motifs.
+
 ## Text
 
 ### book 440.1.1

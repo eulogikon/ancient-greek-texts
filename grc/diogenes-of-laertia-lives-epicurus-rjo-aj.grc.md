@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-aj` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-epicurus-rjo-aj)
 
+Book X is dedicated to Epicurus and is distinguished by preserving substantial textual witnesses, including letters and testamentary material. It anchors later understanding of Epicurean ethics and physics while situating doctrine within biographical narrative and school memory.
+
 ## Text
 
 ### Vit.10.t1-154

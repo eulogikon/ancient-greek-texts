@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hcq-ad` · [HTML page](https://eulogikon.org/works/timocles-comedy-fragments-hcq-ad)
 
+The Fragments on Comedy consist of eight surviving passages from the lost plays of the Athenian comic poet Timocles, who was active in the late fourth century BCE. Preserved not as a unified text but through quotations by later authors, these excerpts are written in Attic Greek verse. The most significant fragment originates from Timocles's play Women at the Dionysia, wherein a character delivers a speech defending comedy's social utility. This argument posits that comedy offers psychological relief by allowing spectators to laugh at misfortunes greater than their own, thus putting their personal troubles into perspective.
+
+These fragments belong to the period of Middle Comedy, which followed the era of Aristophanes and was characterized by a shift from direct political satire toward social commentary, domestic situations, and mythological parody. The defensive justification for comedy found in the key fragment suggests that poets of this era felt compelled to articulate the moral purpose of their art, possibly in response to contemporary philosophical critiques of poetry. Modern scholarship regards this passage as a notable early piece of literary theory, anticipating later concepts concerning the social function of humor and cathartic release.
+
+The complete plays of Timocles have not survived. Knowledge of his work depends entirely on quotations preserved by later compilers, most importantly the rhetorician Athenaeus in his second- to third-century CE work The Learned Banqueters. Additional fragments are found in the writings of Pollux and Stobaeus. There exists no independent manuscript tradition for these comedies.
+
 ## Text
 
 ### book 222.1

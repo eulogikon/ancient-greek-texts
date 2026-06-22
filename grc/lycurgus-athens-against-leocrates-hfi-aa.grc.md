@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hfi-aa` · [HTML page](https://eulogikon.org/works/lycurgus-athens-against-leocrates-hfi-aa)
 
+Against Leocrates is a forensic oration composed and delivered by the Athenian statesman Lycurgus around 330 BCE. It stands as the only complete speech of his to survive from antiquity. The speech constitutes a public prosecution for treason against a fellow citizen, Leocrates, who fled Athens following the city’s catastrophic defeat by Philip II of Macedon at the Battle of Chaeronea in 338 BCE. Lycurgus contends that by abandoning Attica and residing abroad for several years, Leocrates deserted the polis in its gravest hour and violated his sacred obligations as an Athenian citizen. The oration is structured in 138 sections and is distinguished by its severe and elevated style, which frequently incorporates quotations from epic and tragic poetry to reinforce its patriotic and moral exhortations.
+
+The work survives in its entirety through medieval manuscripts preserving the corpus of the Attic orators. Modern scholarship interprets the speech not merely as a legal document but as a key component of Lycurgus’s wider program to restore civic discipline and religious piety in Athens in the aftermath of its subjugation by Macedonia. The intended audience was a large jury of Athenian citizens, whom Lycurgus seeks to persuade by framing the accusation as a defense of the city’s gods, its ancestral laws, and the honor of its forebears. Although the text of the speech is complete, the outcome of the trial remains uncertain; a later tradition reports that the jury vote was evenly divided, resulting in Leocrates’ acquittal, but the reliability of this account is contested.
+
 ## Text
 
 ### Leoc t

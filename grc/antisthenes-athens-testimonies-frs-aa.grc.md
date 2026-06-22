@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `frs-aa` · [HTML page](https://eulogikon.org/works/antisthenes-athens-testimonies-frs-aa)
 
+The Testimonies is a lost philosophical work by Antisthenes of Athens, a direct pupil of Socrates and a foundational figure for the Cynic tradition. Composed in Attic Greek during the late fifth or early fourth century BCE, the treatise is known solely by its title, which is recorded in the list of Antisthenes' writings provided by the biographer Diogenes Laertius. The title suggests a collection of statements, proofs, or evidential accounts, but no direct quotations or descriptions of its content survive. Modern scholarship, based on Antisthenes' known interests in ethics, logic, and rhetoric, speculates that the work may have contained arguments concerning virtue, asceticism, or the nature of language. However, its specific themes and structure remain entirely conjectural. The complete loss of the text is characteristic of the poor transmission of Antisthenes' extensive corpus, which was largely eclipsed by the philosophical works of Plato and Aristotle.
+
 ## Text
 
 ### 1

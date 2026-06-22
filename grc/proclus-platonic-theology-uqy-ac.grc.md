@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ac` · [HTML page](https://eulogikon.org/works/proclus-platonic-theology-uqy-ac)
 
+The Excerpts from the Platonic Theology of Proclus constitute a later compilation of sixteen passages extracted from Proclus’s systematic six-volume work, the Platonic Theology. This major treatise seeks to demonstrate that the dialogues of Plato contain a complete and coherent theological system, thereby aligning Platonic metaphysics with traditional Hellenic polytheism. The excerpts likely served a pedagogical function, distilling the core doctrines of the larger work for instructional use. Their content focuses on the nature and absolute transcendence of the First Principle, known as the One, and the subsequent derivation from it of a complex hierarchy of divine orders termed henads. These divine orders mediate between the transcendent One and the manifest cosmos. The excerpts illustrate Proclus’s method of interpreting Platonic dialogues as repositories of systematic theology and his project of reconciling traditional Greek religion with Platonic philosophy.
+
+Proclus’s original Platonic Theology survives in its entirety, preserved through Byzantine manuscript traditions. The precise date, compiler, and transmission history of the specific compilation titled Excerpts are not detailed in major scholarly sources. Nonetheless, the work from which it derives holds considerable historical significance. Proclus’s Platonic Theology profoundly influenced later Byzantine, Islamic, and Renaissance thought. Its translation into Latin by Marsilio Ficino in 1492 was particularly instrumental in shaping Renaissance Platonism, providing a comprehensive hierarchical and emanative metaphysical framework that offered a major alternative to Aristotelianism and subsequently became a cornerstone of various Western esoteric traditions.
+
 ## Text
 
 ### 1243 (3t)

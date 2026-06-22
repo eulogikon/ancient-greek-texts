@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qky-aa` · [HTML page](https://eulogikon.org/works/naumachius-marriage-duties-qky-aa)
 
+The didactic poem On Marriage and Wifely Duties, sometimes cited by the title On Marriage, is attributed to Naumachius, identified in ancient sources as Naumachius of Epirus. It survives only in fragmentary form, preserved within the Anthologion compiled by the fifth-century scholar Stobaeus, who quotes six hexameter passages under the author’s name. These verses offer pragmatic, moral instruction directed at a wife, focusing on her conduct and domestic responsibilities. The extant fragments address core themes of ancient household management, including the wife’s duty to oversee the household and slaves, strong admonitions advocating chastity and condemning adultery, warnings against vice such as excessive drinking and gossip, and an emphasis on obedience and the requirement to please her husband. The work is lost as an independent text, and its fragments derive solely from Stobaeus’s anthology, a compendium of excerpts from Greek literature assembled for pedagogical purposes, with no other manuscript tradition known. The fragments are a notable example of gnomic poetry within the tradition of ancient advice literature on household economy. They provide insight into the literary treatment of gender roles and marital ethics, offering a poetic counterpart to prose works like Xenophon’s Oeconomicus. Their primary scholarly value lies in the study of Greek ethical thought and social history.
+
 ## Text
 
 ### 1

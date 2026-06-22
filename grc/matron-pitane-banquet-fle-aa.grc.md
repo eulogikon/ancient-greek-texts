@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fle-aa` · [HTML page](https://eulogikon.org/works/matron-pitane-banquet-fle-aa)
 
+The Attic Banquet is a parodic epic poem by the Hellenistic poet Matron of Pitane, composed in dactylic hexameter around the late fourth or early third century BCE. It humorously recounts an extravagant feast hosted by the orator Xenocles in Athens, employing the elevated style and cataloguing techniques of Homeric epic to describe a lengthy and detailed list of dishes and ingredients. The surviving text, preserved in eleven fragments quoted by Athenaeus in his Deipnosophistae, presents a comic inversion of heroic poetry, applying its grand language to the mundane subject of food. The work is interpreted as sophisticated entertainment for educated Greeks, reflecting the playful intellectual culture of the Hellenistic symposium, where an audience would appreciate the mock-epic treatment of culinary excess.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bo` · [HTML page](https://eulogikon.org/works/demosthenes-athens-spoudias-dowry-fsm-bo)
 
+To Spoudias-Dowry is a private forensic oration from mid-4th century BCE Athens, preserved within the corpus of speeches attributed to Demosthenes. The speech was composed for a client to deliver before a jury in a private lawsuit concerning a financial dispute within a family. The plaintiff, who is married to one of the two daughters of the deceased Polycuctus of Thria, brings suit against his brother-in-law, Spoudias, who is married to the other daughter. The core of the conflict involves the repayment of a dowry and the distribution of Polycuctus's estate following his death without male heirs. The speaker meticulously argues that Spoudias has already received his rightful portion, including a substantial dowry, and is now pursuing an unjust additional claim against the common property. The oration unfolds as a detailed narrative of family agreements, financial transactions, and the adoption of a relative, Leocrates, to manage the inheritance. Valued primarily as a social historical document, the speech offers a vivid glimpse into the intricate web of Athenian family law, marriage alliances, and inheritance practices, highlighting the paramount economic and social importance of dowries. It also serves as a practical example of Athenian legal procedure, demonstrating the reliance on personal testimony, documentary evidence, and persuasive storytelling in the courts. While transmitted under the name of Demosthenes, stylistic analysis has led some scholars to attribute the work to another contemporary speechwriter.
+
 ## Text
 
 ### Or41 1

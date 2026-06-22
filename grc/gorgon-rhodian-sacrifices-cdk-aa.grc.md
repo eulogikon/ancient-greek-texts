@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cdk-aa` · [HTML page](https://eulogikon.org/works/gorgon-rhodian-sacrifices-cdk-aa)
 
+The work On Rhodian Sacrifices, attributed to Gorgon the Historian, is a lost prose antiquarian study known only through fragments. Its alternative title, Apospasmata, or "Extracts," reflects its fragmentary nature. The work detailed the sacrificial rites and religious customs of Rhodes. Surviving fragments document specific Rhodian ritual practices, including the sacrifice of a horse to the sun god Helios by casting it into the sea and a prohibition against uttering the name of Aphrodite during a particular ceremony. The work survives only in quotations by later lexicographers and commentators, with the primary source being the ninth-century Lexicon of Photius; the tenth-century Suda also references Gorgon and his work. As a specimen of Hellenistic local historiography, the fragments provide valuable evidence for Rhodian cult practices, particularly the worship of Helios. The work served as a specialist source for later antiquarians and remains important for modern studies of regional Greek religion.
+
 ## Text
 
 ### t1-3

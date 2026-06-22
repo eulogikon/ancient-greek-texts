@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ai` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-true-book-egyptian-sabaoth-tyc-ai)
 
+The True Book of the Egyptian Sage and Divine Sabaoth is an ancient Greek alchemical treatise attributed to Zosimus of Panopolis, an author active in Roman Egypt around 300 CE. Structured as a series of five instructional passages, the work presents itself as a divine revelation, blending practical laboratory procedures for the transformation of metals with a framework of mystical theology. Its technical discussions focus on processes such as treating gold and copper to produce a mercury-like substance, employing the language of dyeing and purification as metaphors for transmutation. Central to its philosophy is the concept of a spiritual vapor or breath, understood as the active agent behind all material change.
+
+The treatise is a product of a syncretic intellectual era, where Greek philosophical concepts, Egyptian craft traditions, and emerging Gnostic and Jewish cosmological speculations intersected. Modern scholarship interprets it not merely as a technical manual but as a text composed for initiates, framing the alchemical art as a spiritual discipline in which laboratory work served a profound soteriological purpose. The invocation of the divine figure Sabaoth, a name derived from Jewish angelology and Gnostic systems, underscores this theological dimension.
+
+The work survives as part of the larger, fragmentary corpus attributed to Zosimus, transmitted primarily through Byzantine Greek manuscripts dating from the 10th and 11th centuries. Its exact original form is difficult to reconstruct, as his writings are often preserved in excerpts within later anthologies. Despite this compiled and partial survival, Zosimus's treatise became a foundational text for the alchemical tradition, exerting significant influence on later developments in both Islamic and medieval Latin alchemy through subsequent translations and adaptations.
+
 ## Text
 
 ### 1

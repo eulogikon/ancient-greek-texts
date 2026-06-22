@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qko-ab` · [HTML page](https://eulogikon.org/works/alexander-numenius-rhetorical-topics-qko-ab)
 
+On Rhetorical Topics is a technical treatise on the art of persuasion, authored in Greek by the rhetorician Alexander, son of Numenius, during the second century CE. The work functions as a handbook dedicated to the systematic discovery of arguments, a core component of classical rhetoric known as inventio. It is structured around the analysis of standardized "topics," which are categories or lines of argument that an orator can employ. A significant portion of the surviving text focuses on "pragmatic" topics, which are arguments derived from the specific circumstances of a case, including the persons involved, the time, the place, and the cause of action. The treatise opens by distinguishing between general philosophical questions and specific rhetorical hypotheses, and it classifies the three main genres of political oratory—the encomium, the deliberative speech, and the forensic speech—according to their temporal focus on past, future, or present and future matters, respectively.
+
+The work survives only in fragments, with the primary extant material covering these pragmatic topics and related arguments concerning causation. It was likely composed as an advanced educational manual for students and practitioners of oratory during the Second Sophistic, a period marked by a revived and highly formalized interest in classical Greek rhetoric under the Roman Empire. Modern scholarship regards the treatise as a representative specimen of the highly systematized rhetorical theory that was characteristic of this era and which subsequently exerted a lasting influence on Byzantine rhetorical education. The text is preserved within medieval compilations of Greek rhetorical writings, and its original length and complete scope remain unknown.
+
 ## Text
 
 ### 1 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bgi-aa` · [HTML page](https://eulogikon.org/works/anacreon-teos-lover-of-mirmillo-bgi-aa)
 
+"The Lover of Mirmillo" is a fragmentary lyric poem by the archaic Greek poet Anacreon of Teos. The work survives only in a two-line quotation preserved by the grammarian Hephaestion in his Handbook on Meters as an exemplar of the anacreontic meter. The lines state that a beautiful boy is in love with an individual named Mirmillo and forgets all other things. The title is a modern convention derived from this fragment. The brief extant portion addresses the theme of pederastic love, reflecting a common subject in archaic Greek poetry, and emphasizes the all-consuming, exclusive nature of this passion. The poem is otherwise lost, transmitted solely through the indirect scholarly tradition of metrical studies, where it is numbered as Fragment 41 in standard modern editions. While the specific poem's influence is untraceable, it serves as a characteristic example of Anacreon’s erotic and convivial style. His metrical forms, including the anacreontic, profoundly shaped the later lyric tradition, inspiring the corpus of imitative poems known as the Anacreontea and establishing a major strand of personal lyric verse.
+
 ## Text
 
 ### unit_1

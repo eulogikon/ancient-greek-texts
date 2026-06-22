@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `poq-aa` · [HTML page](https://eulogikon.org/works/julian-jurist-law-physicians-poq-aa)
 
+The Law-Physicians is a legal treatise attributed to the Roman jurist Julian, addressing statutes and regulations pertaining to medical practitioners. The work survives only in a fragmentary state, with its content preserved not as an independent manuscript but through excerpts incorporated into later legal compilations. These fragments indicate the treatise covered legal regulations governing the medical profession, including matters of physician liability and malpractice, alongside the established standards of professional care and conduct expected of doctors. The original text is lost, and knowledge of it derives entirely from quotations within the Digest of Justinian, completed in 533 CE, which cites Julian as an authoritative source. By being enshrined within the Digest, the legal principles outlined in the treatise became part of the foundational corpus of Roman law. This incorporation granted the work enduring influence, shaping subsequent legal thought concerning medical practice throughout the Byzantine Empire and later Western European legal traditions.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rje-aa` · [HTML page](https://eulogikon.org/works/oppian-apamea-hunting-rje-aa)
 
+The Cynegetica, also known as Hunting Matters, is a four-book didactic epic poem composed in Greek hexameter verse by Oppian of Apamea around 212 CE during the reign of the Roman emperor Caracalla. Dedicated to Caracalla and his mother, Julia Domna, the work provides a systematic guide to hunting terrestrial animals. Its first book details the necessary equipment, including dogs, horses, and various traps. The second book covers the pursuit of animals without fixed lairs, such as deer and wild goats, while the third addresses hunting animals with dens, including bears and lions. The final book describes the hunting of leopards and tigers and concludes with a direct address to the emperor. The complete text, comprising 2,145 lines, is characterized by encyclopedic descriptions of animal behavior and hunting techniques, interspersed with mythological digressions and moralizing passages. Modern scholarship views the poem as serving a dual purpose: to demonstrate the poet's erudition within the established Greek didactic tradition and to flatter the imperial court by explicitly linking the skill and virtue of hunting to the emperor's authority. Composed within the culturally Greek eastern Roman Empire, the work reflects the literary patronage of the Severan dynasty. Its manuscript tradition is distinct from that of the Halieutica, a similar poem on fishing authored by an earlier, different poet also named Oppian, with whom the author of the Cynegetica was often historically conflated.
+
 ## Text
 
 ### book 1.1

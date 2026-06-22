@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iru-aj` · [HTML page](https://eulogikon.org/works/aratus-life-iru-aj)
 
+The Life of Aratus is a concise prose biography of the Hellenistic poet Aratus of Soli, the author of the didactic poem Phaenomena. Though pseudonymously attributed to "Aratus Lives," it is one of several brief ancient lives of the poet transmitted within the manuscript tradition of his work. These biographies function as scholarly introductions, blending personal anecdote with literary criticism. The text covers characteristic themes of ancient literary biography, including the poet's graceful style and selective use of Homeric phrasing, his intellectual patronage at the Macedonian court of Antigonus II Gonatas, his dependence on the astronomical work of Eudoxus of Cnidus, and anecdotal material regarding his meticulous composition process. Preserved alongside the Phaenomena, this life served as a primary source for later ancient accounts of Aratus, influencing compilers such as Diogenes Laërtius. It exemplifies the Hellenistic scholarly practice of contextualizing a poet's work through biography, thereby shaping the historical understanding of Aratus's life and the genesis of his influential poem.
+
 ## Text
 
 ### 6 (t)

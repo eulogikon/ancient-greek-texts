@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dhk-aa` · [HTML page](https://eulogikon.org/works/timotheus-miletus-dionysian-mythology-dhk-aa)
 
+The work titled Dionysian and Mythological Fragments and attributed to Timotheus of Miletus is unattested in standard scholarly sources. Timotheus, active from approximately 450 to 360 BCE, was a celebrated dithyrambic poet central to the "New Music" movement. His known output consists of lyric poems on mythological subjects, such as Cyclops and Niobe, and his substantial surviving work, the Persians. The description of a prose compilation of fragments does not correspond to his documented poetic oeuvre. If such a collection were to exist, its themes would logically align with the poet's known interests, including musical and metrical innovation, dramatic mythological narratives often focusing on divine suffering, Dionysian ecstasy and cult practice, and historical-patrician celebration as exemplified by the Persians.
+
+The transmission history of Timotheus's works confirms their fragmentary nature. His poetry was largely lost in antiquity, with his major rediscovery being a papyrus containing the Persians, found in Egypt in 1902. No manuscript tradition or ancient testimony supports the existence of a prose collection of fragments compiled under his name. Timotheus remains a significant, if controversial, figure in the history of Greek lyric poetry. His radical innovations in rhythm, instrumentation, and emotional expression were widely imitated and criticized, marking a decisive shift in Classical musical and poetic style. The Persians papyrus continues to be a crucial document for understanding the practical realities of Greek music, meter, and the development of late Classical lyric.
+
 ## Text
 
 ### 2b

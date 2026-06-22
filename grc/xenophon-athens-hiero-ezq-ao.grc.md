@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-ao` · [HTML page](https://eulogikon.org/works/xenophon-athens-hiero-ezq-ao)
 
+Xenophon’s Hiero is a short prose dialogue in Attic Greek from the 4th century BCE, belonging to the genre of Socratic political philosophy despite the absence of Socrates himself. The work presents a fictional conversation between two historical figures: Hiero I, the tyrant of Syracuse, and the poet Simonides of Ceos. Through their exchange, the dialogue examines the nature of tyranny and the personal happiness of the ruler. Hiero details the profound burdens of absolute power, including constant fear, personal isolation, and the envy of others, concluding that the life of a tyrant is ultimately more wretched than that of a private citizen. In response, Simonides offers counsel on how a ruler might reform his governance through benevolent leadership and dedicated public service, arguing that power itself is not inherently miserable but becomes so through its misuse. The complete text survives via the medieval manuscript tradition of Xenophon’s works. Modern scholarship generally interprets the dialogue as a didactic piece reflecting 4th-century BCE debates about leadership and political stability in the aftermath of the Peloponnesian War. Composed for an educated Greek audience with interests in governance, the work critiques arbitrary rule while proposing a model for securing popular loyalty through public benefaction. This has led some readers to view it as Xenophon’s contribution to the theory of enlightened monarchy.
+
 ## Text
 
 ΙΕΡΩΝ Η ΤΥΡΑΝΝΙΚΟΣ

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `smk-aa` · [HTML page](https://eulogikon.org/works/magical-treatises-anon-christian-fragments-smk-aa)
 
+The Magical Papyri Christian Fragments is a modern scholarly term for passages of Christian character found within the larger body of Greco-Egyptian magical papyri, primarily the collection known as the Papyri Graecae Magicae. These papyri, dating from approximately the second century BCE to the fifth century CE, are practical handbooks containing spells, incantations, and ritual instructions. The Christian fragments are not a discrete work but rather identifiable sections within these handbooks that incorporate distinctly Christian elements, such as invocations of Jesus Christ, angels, saints, and Judeo-Christian divine names like Iaō and Sabaōth, into a broader syncretic framework of magical practice.
+
+The content of these fragments vividly illustrates the ritual syncretism prevalent in late antique Egypt, seamlessly blending elements from Egyptian, Greek, Jewish, and emerging Christian traditions. A central theme is the pragmatic combination of divine authorities from multiple religious systems to achieve concrete ends. The operative principle is that of ritual power, or dynamis, where the efficacious utterance of sacred names and the performance of prescribed material procedures are believed to compel spiritual forces. Thus, the supreme God of Christian theology, along with other biblical figures, is invoked alongside traditional Egyptian and Greek deities in spells designed for protection from evil, healing, exorcism, and divination. The transmission of these texts is entirely fortuitous; they survive on papyrus fragments preserved by the arid Egyptian climate, often recovered from ancient rubbish dumps. They have no independent manuscript tradition and are known almost exclusively through modern collections like that compiled by Karl Preisendanz.
+
+These fragments hold significant historical value as primary sources for understanding popular religious practice and belief at the grassroots level. They provide crucial evidence for the fluid boundaries between early Christianity and what contemporary elites often condemned as magic, demonstrating how Christian symbols and language were absorbed into, and adapted for, longstanding ritual traditions. As such, they offer an indispensable window into the pervasive religious syncretism that characterized the everyday life of the late antique Mediterranean world.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ak` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-advisory-practitioners-tyc-ak)
 
+The Advisory Recommendations for Practitioners of the Art is a four-part alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. As a foundational text of Greco-Egyptian alchemy, it serves as both a technical manual and a spiritual guide for fellow artisans. Zosimus addresses his readers directly, instructing them that without the essential apparatus for drawing up copper and the precise mixture of ten specific substances, their work cannot succeed. He frames these laboratory operations within a profound theological context, identifying the practitioners as seekers of wisdom and the divine water, a dual-colored agent of transformation, as the indispensable medium for all processes including calcination, burning, solidification, and dyeing. The work seamlessly integrates practical advice on materials and equipment with philosophical and theological speculation, characteristic of the syncretic Hermetic tradition of late Roman Egypt. It presents the alchemical art as a sacred practice, where the purification of metals runs parallel to the purification of the practitioner's soul.
+
+The complete Greek text survives primarily in Byzantine manuscripts dating from the 10th to the 13th centuries. Modern scholarship regards the treatise as a seminal example of early alchemy, where the goal of material transmutation was intrinsically linked to concepts of spiritual salvation and divine knowledge. It was almost certainly written for an initiated community of adepts who viewed their craft as a holistic, transformative discipline. The work's influence extended far beyond the Greek-speaking world; it was translated into Syriac and Arabic, becoming a crucial conduit for alchemical theory and practice into the Islamic world and, subsequently, into Renaissance Europe.
+
 ## Text
 
 ### 1

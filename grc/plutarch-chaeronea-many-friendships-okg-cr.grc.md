@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-cr` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-many-friendships-okg-cr)
 
+On Many Friendships is a concise ethical treatise by the Greek philosopher and biographer Plutarch, composed in the late 1st or early 2nd century CE. It forms part of his extensive corpus of practical philosophical works, the Moralia. The essay, structured in 24 brief passages, presents a sustained argument against the pursuit of a broad social network, advocating instead for the classical ideal of cultivating a few profound and virtuous friendships. Plutarch critiques the inherent superficiality of maintaining numerous acquaintances, employing vivid metaphors drawn from agriculture and the customs of hospitality to illustrate the dilution of genuine care and obligation. He bolsters his philosophical position with historical exempla and traditional proverbs. The work is dedicated to a Roman consul, a feature that underscores Plutarch’s role as an advisor who offered Greek ethical wisdom to the governing elite of the Roman Empire. The complete text survives within the well-preserved manuscript tradition of the Moralia. Modern scholarship often interprets the essay as a philosophical response to the pervasive culture of social networking and political clientelism in the Roman world, reasserting the timeless ethical primacy of sincere and selective personal bonds.
+
 ## Text
 
 ### t 1

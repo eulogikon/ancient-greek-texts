@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vta-aa` · [HTML page](https://eulogikon.org/works/homer-comm-inscriptions-odyssey-vta-aa)
 
+Overview The work Ἐπιγραφαὶ καὶ Ὑποθέσεις εἰς Ὀδύσσειαν (Inscriptions and Hypotheses on the Odyssey) is an ancient scholarly paratext. "Hypotheses" were prose summaries prefixed to epic or dramatic poetry, outlining plot and characters, while "epigraphai" likely refer to titles or headings for these summaries or for the Odyssey's books. This text, preserved in four passages, represents the editorial work produced by Hellenistic and Roman scholars, such as those at the Library of Alexandria, to accompany canonical texts [1, 2].
+
+Content As a didactic accessory, its content involves:
+
+Concise plot summarization of the Odyssey.
+
+Textual organization through assigned headings (epigraphai).
+
+Interpretive framing, potentially noting authorship or key themes.
+
+Transmission The specific transmission history of this text is unclear. Such hypotheses typically survive by being copied into the margins or prefatory pages of medieval manuscripts of the primary work they describe, often in a fragmentary state.
+
+Significance This work is part of the foundational corpus of ancient literary scholarship. These paratexts shaped later interpretive traditions and are crucial sources for understanding ancient editorial practices, especially where more extensive original commentaries are lost.
+
 ## Text
 
 ### inscr 1 (t1)

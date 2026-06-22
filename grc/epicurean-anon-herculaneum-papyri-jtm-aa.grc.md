@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jtm-aa` · [HTML page](https://eulogikon.org/works/epicurean-anon-herculaneum-papyri-jtm-aa)
 
+The Fragments Pertaining to Herculaneum Papyri is a collection of thirty-three fragmentary passages recovered from a single carbonized papyrus scroll, catalogued as PHerc. 176, from the Villa of the Papyri in Herculaneum. The text is written in Koine Greek and is attributed to an anonymous Epicurean author based on the thematic context of the library in which it was discovered, which was predominantly Epicurean and linked to the philosopher Philodemus of Gadara. Preserved by the eruption of Mount Vesuvius in 79 CE, the scroll was carbonized, and its fragments require specialized imaging techniques to be read. While the specific themes of this particular papyrus are not detailed in surviving sources, the known contents of the library suggest it likely addressed core Epicurean topics. These would include the pursuit of tranquility and the absence of pain, the classification and management of desires, the nature of the gods and divine non-intervention, atomic physics and the mortality of the soul, and critiques of rival philosophical schools such as Stoicism and Platonism.
+
+The text survives solely through archaeological preservation. Discovered in the 1750s, the scroll suffered damage from early attempts at physical unrolling. Modern non-destructive techniques, particularly multi-spectral imaging, now allow scholars to digitally recover the text without causing further harm. Although the direct ancient influence of this specific work is untraceable due to its state of preservation, the Herculaneum papyri collectively have had a profound impact on modern scholarship. They provide a unique snapshot of an ancient philosophical library, preserving otherwise lost Epicurean texts and significantly expanding the understanding of Hellenistic philosophy and intellectual history.
+
 ## Text
 
 ### 4col1

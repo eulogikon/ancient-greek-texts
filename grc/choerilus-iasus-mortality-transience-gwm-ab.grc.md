@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gwm-ab` · [HTML page](https://eulogikon.org/works/choerilus-iasus-mortality-transience-gwm-ab)
 
+The work known as On Mortality and Transience is a short fragment attributed to the Hellenistic epic poet Choerilus of Iasus. Composed in dactylic hexameter, the verse fragment is a philosophical meditation on human impermanence. Its text presents a stark memento mori, urging the reader to acknowledge mortal nature and find joy in life's pleasures, as death offers no benefit. It employs the powerful voice of a departed king, likely Sardanapalus, who declares that all his great wealth and power have dissolved, leaving only the memory of sensual experiences. The fragment concludes by framing this reflection as wise counsel never to be forgotten, while cynically noting that endless gold remains for any who still desire it. Preserved only as an extract, its survival suggests it was valued for its sententious quality, likely quoted in a later anthology or by another author. Choerilus of Iasus is historically notable as an early recipient of royal patronage from King Lysimachus. While his major work celebrated a military victory, this fragment reflects the broader Hellenistic literary interest in gnomic and philosophical themes, its concise power ensuring its endurance independent of his larger, now-lost epic.
+
 ## Text
 
 ### unit_1

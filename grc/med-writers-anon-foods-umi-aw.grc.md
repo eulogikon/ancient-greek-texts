@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-aw` · [HTML page](https://eulogikon.org/works/med-writers-anon-foods-umi-aw)
 
+On Foods is an anonymous Greek medical treatise from late antiquity, likely compiled between the fourth and sixth centuries CE. Written in Koine Greek, it is a practical dietetic handbook focused on the properties of various foods according to the principles of ancient humoral theory. The work systematically categorizes a wide range of foodstuffs—including vegetables, fruits, grains, meats, and dairy—by their perceived qualities, such as heating, cooling, drying, or moistening. It then details their effects on the human body, offering recommendations for maintaining health or treating specific ailments based on an individual's humoral balance. The treatise is structured as a series of concise passages, each dedicated to a particular item.
+
+The original author of the work is unknown, and it survives through medieval manuscript traditions. To enhance its authority, some copies were falsely attributed to renowned physicians like Galen or Dioscorides, a common practice for anonymous practical manuals of the period. Scholars consider it a composite text that synthesizes knowledge from earlier sources, particularly the Hippocratic Corpus and Galenic writings. It was likely compiled as an accessible reference for physicians or educated laypersons, possibly within monastic communities where dietary regimen held significant importance. The treatise exemplifies the late antique trend of condensing extensive medical knowledge into manageable, user-friendly formats and underscores the central role diet played in ancient preventative and therapeutic medicine.
+
 ## Text
 
 ## ἘΞ ἸΑΤΡΙΚΗΣ ΒΙΒΛΟΥ ΠΡΟΣ ΚΩΝΣΤΑΝΤΙΝΟΝ ΒΑΣΙΛΕΑ ΤΟΝ ΠΩΓΩΝΑΤΟΝ ΠΕΡΙ ΤΡΟΦΩΝ. ΣΥΝΤΑΓΜΑ. (Τυγχάνει τόδε σαφῶς πονηθὲν παρὰ ἀνδρὸς σοφωτάτου). Γνωστὴ ἡ φύσις καὶ ἡ δύναμις τῶν βρωμάτων καὶ πομάτων ἐκ τῆς αὐτῶν γεύσεως· αἱ δὲ γεύσεις διαιροῦνται εἰς ὀκτώ· γεῦσις γλυκεῖα· γεῦσις πικρά· γεῦσις ἁλμυρά· γεῦσις δριμεῖα· γεῦσις λιπαρά· γεῦσις στυπτική· γεῦσις ὀξίζουσα· γεῦσις μὴ ἔχουσα αἴσθησιν.

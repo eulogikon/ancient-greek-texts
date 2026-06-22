@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lhw-aa` · [HTML page](https://eulogikon.org/works/sopater-paphos-satirical-fragments-lhw-aa)
 
+The Satirical Philosophical Fragments by Sopater of Paphos is a collection of sixty-two passages of satirical verse composed in iambic trimeter. The work employs a Cynic mode of critique to lampoon human folly, entrenched philosophical dogma, and social conventions through a combination of concise, gnomic pronouncements and brief dramatic vignettes. Its themes consistently target vanity, greed, and hypocrisy, while also parodying mythological and religious traditions. The fragments display a particular focus on ridiculing philosophical pretension, with the Stoic and Epicurean schools serving as frequent objects of parody alongside more general satire of common social practices and base human desires.
+
+The work survives exclusively in fragmentary form, preserved not through an independent manuscript tradition but within the pages of later anthologies, most notably the Anthologia Palatina and the collections of Stobaeus. These compilers selected the passages for their perceived gnomic wisdom or humorous value, which has dictated the modern understanding of the collection's scope and character. Sopater’s fragments are a significant exemplar of the popular satirical treatment of philosophy during the Hellenistic period. Valued in antiquity primarily for their wit, they represent an important strand of the Cynic-inspired verse satire tradition and contribute substantially to scholarly understanding of both philosophical parody and the mechanisms of anthological preservation in Greek literary culture.
+
 ## Text
 
 ### book 1.1

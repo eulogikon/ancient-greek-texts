@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-af` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-stephanus-fsm-af)
 
+Against Stephanus (False Testimony) is a forensic oration composed by Demosthenes of Athens around 350 BCE. Written for delivery by a client in a private lawsuit, it exemplifies the precision and rhetorical strategy characteristic of Attic forensic oratory. The speech was crafted for Apollodorus, the son of the wealthy banker Pasion, who prosecutes a man named Stephanus for giving false testimony in a prior legal dispute. That earlier case concerned a contested lease of the family bank, which had been managed by Phormion, a former slave of Pasion. Apollodorus, having lost that case, now seeks legal redress against the witness whose testimony he believes was instrumental in his defeat.
+
+The oration is structured conventionally, proceeding from a proem that appeals for the jury's sympathetic attention, through a detailed narrative of the complex financial and familial history, to arguments and proofs aimed at demolishing the credibility of Stephanus. Demosthenes methodically portrays Stephanus as a man of corrupt character who testified falsely out of base greed, while simultaneously defending Apollodorus's right and moral standing to bring the present suit. The narrative reveals a bitter feud within a prominent Athenian banking household, involving substantial sums of money, questions of inheritance following Pasion's death, and the social mobility of figures like Phormion, who rose from slavery to become a successful banker and citizen.
+
+Preserved in its entirety, the speech provides an invaluable window into Athenian legal procedure, particularly the dike pseudomartyrion, or suit for false testimony, which allowed a litigant to challenge the evidence presented against him in a previous trial. Beyond its legal significance, the work illuminates the economic realities, social tensions, and forensic tactics of fourth-century Athens, showcasing the intersection of commercial law, family honor, and personal enmity. Scholars regard it as a critical source for understanding the practical workings of the Athenian courts and the intricate social world of metics, former slaves, and the citizen elite engaged in high-stakes financial litigation.
+
 ## Text
 
 ### Or45 1

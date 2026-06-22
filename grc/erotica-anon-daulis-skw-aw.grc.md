@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-aw` · [HTML page](https://eulogikon.org/works/erotica-anon-daulis-skw-aw)
 
+Daulis is an anonymous ancient Greek prose narrative of an erotic nature. The title refers to the city in Phocis, central Greece, which is mythologically significant as the kingdom of Tereus in the tragic story of Proche and Philomela, a narrative involving adultery, rape, and mutilation. While the work's specific plot and characters remain unknown, its classification as an erotic narrative and its titular connection to a city associated with such a dark myth suggest it may have engaged with themes of desire, betrayal, and violence. The manuscript tradition and preservation status of Daulis are undocumented, and it is not listed among the extant works of known authors. Its existence presents a notable juxtaposition, indicating a potential adaptation of the tragic mythological material into a prose erotic context.
+
 ## Text
 
 ### col1 [25-28]

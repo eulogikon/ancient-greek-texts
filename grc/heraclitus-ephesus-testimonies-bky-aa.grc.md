@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bky-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-testimonies-bky-aa)
 
+The Testimonies for Heraclitus of Ephesus refer not to an ancient work but to the modern scholarly compilation of ancient reports about the philosopher. These testimonia, systematically organized as the "A" section in the standard Diels-Kranz edition, Die Fragmente der Vorsokratiker, consist of accounts and discussions by later authors, distinct from the surviving direct quotations of Heraclitus's own words. They address the major themes for which he was known in antiquity, including the concept of the Logos as the governing principle of the universe, the unity and interdependence of opposites, the doctrine of universal flux encapsulated in the idea that everything flows, the notion of ever-living fire as a primary substance symbolizing perpetual change, and theories concerning cosmic cycles of destruction and rebirth.
+
+The original writings of Heraclitus survive only as fragments quoted by others. The testimonia themselves are preserved indirectly within the manuscript traditions of later Greek and Roman authors such as Plato, Aristotle, Plutarch, and Diogenes Laertius. These reports constituted the primary vehicle for Heraclitus's posthumous influence. His ideas critically shaped the development of Stoic physics, were extensively debated by Plato and Aristotle, and, through subsequent Neoplatonic and Christian writers, his concept of the Logos made a significant contribution to philosophical theology.
+
 ## Text
 
 ### 1

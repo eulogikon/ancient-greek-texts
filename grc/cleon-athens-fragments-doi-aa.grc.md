@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `doi-aa` · [HTML page](https://eulogikon.org/works/cleon-athens-fragments-doi-aa)
 
+No poetic work titled Fragments and Title is attributed to the historical figure Cleon of Athens in the established literary or historical record. Cleon is known exclusively as a prominent and controversial Athenian demagogue and political leader during the Peloponnesian War, famed for his forceful oratory as depicted by Thucydides and Aristophanes. The attribution of a verse composition to him is therefore anomalous and unsupported by conventional scholarship. The scant surviving text, which appears to be a scholarly commentary rather than the poetic work itself, references mythological narratives, including elements of the Argonautica and the tale of Hesione rescued from a sea-monster by Telamon. It also contains comparative literary criticism, noting a style more Homeric than that of Apollonius and criticizing the portrayal of goddesses like Aphrodite. There is no documented manuscript tradition or fragmentary preservation for this work in authoritative sources, and it consequently holds no established significance within classical philology. Its purported existence remains an unexplained curiosity that stands in direct contradiction to the well-evidenced profile of Cleon as a political figure with no known literary output.
+
 ## Text
 
 ### book 339A.1

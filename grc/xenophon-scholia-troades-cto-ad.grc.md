@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cto-ad` · [HTML page](https://eulogikon.org/works/xenophon-scholia-troades-cto-ad)
 
+The Glosses on Euripides' Trojan Women is a lost grammatical work attributed to Xenophon, a minor grammarian distinct from the historian of the same name. Known only from a brief entry in the tenth-century Byzantine encyclopedia known as the Suda, the work is described as comprising five passages that functioned as a glossary. Its purpose was to provide explanatory notes on difficult, obscure, or archaic vocabulary found within Euripides' tragedy Troades. As was typical of ancient scholia, these glosses likely served a dual function, offering not only basic lexicographical definitions but also engaging in textual and literary exegesis. This could have included commentary on variant manuscript readings, explanations of mythological references, or analysis of poetic devices. The work itself is not preserved, surviving only as a title in the historical record. It represents a minor but characteristic product of the ancient and Byzantine scholarly tradition dedicated to preserving and elucidating classical texts. Such grammatical tools were essential for making older literature accessible to students and scholars, thereby contributing to the broader transmission and study of Euripides' dramatic works.
+
 ## Text
 
 ### 15

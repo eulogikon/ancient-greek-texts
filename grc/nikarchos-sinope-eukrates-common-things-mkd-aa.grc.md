@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mkd-aa` · [HTML page](https://eulogikon.org/works/nikarchos-sinope-eukrates-common-things-mkd-aa)
 
+A Socratic dialogue on οἰκείωσις — appropriation, the process by which a thing becomes one's own (οἰκεῖον) — and the limits of what can be made οἰκεῖον. The occasion is the recovery of the lyric poems of Stesichorus: Eukrates, who has reconstructed the songs by collating the older rhapsodes against the singers still performing the archaic repertoire in Sicily, finds that Antilochus is teaching them to the young for a fee, as though he had assembled them himself. Socrates separates what is recovered (τὸ ἀνασῳζόμενον) from what is fashioned anew (τὸ ποιούμενον) and argues that whatever passes into common possession in the act of recovery cannot afterwards be appropriated by any one man — while the editor's own work, the proem, the critical signs, and the grounds he gives for his choices, remains his alone.
+
+The piece is almost certainly a later composition rather than a fourth-century work: Socrates is made to disclaim all knowledge of the term οἰκείωσις, which belongs to the Stoa, and the argument engages the Stoic theory of appropriation from outside it. Its character is Cynic — it turns the Socratic elenchus to the familiar Cynic end that the goods of the wise are κοινὰ πᾶσιν and can be neither owned nor sold, the kind of appropriation of Academic method against private property for which the Cynics were known.
+
+Two passages are damaged. At §7 the simile of the archer breaks off after the participle; at §8 the subject of ἀδικεῖ is lost, and it is disputed whether Antilochus there charges the man who dishonours labour or concedes the point against himself.
+
+The dialogue is transmitted anonymously. A marginal note in a later hand in Marcianus gr. 494, a fourteenth-century miscellany, names the author Nikarchos and gives the ethnic Κυρηναῖος; on that reading he was long taken for a minor Academic, though it was questioned whether a genuine Academic would argue in these terms. Meineke, noting the Cynic colouring of the argument, proposed Σινωπεύς for the transmitted Κυρηναῖος — a conjecture generally accepted, and one that gives the work its present complexion. The note is the only evidence that a Cynic of the name existed; the dialogue is printed among the Cynic spuria.
+
 ## Text
 
 ### §1

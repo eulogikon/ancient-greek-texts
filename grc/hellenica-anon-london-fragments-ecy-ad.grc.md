@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ecy-ad` · [HTML page](https://eulogikon.org/works/hellenica-anon-london-fragments-ecy-ad)
 
+The London Fragments, formally designated as P. Lit. Lond. 5, are a collection of sixty papyrus fragments held in the British Library. These fragments preserve a portion of an anonymous historical narrative written in Attic Greek prose, which continues the account of the Peloponnesian War from where Thucydides' history concludes. The text employs an annalistic style closely modeled on Thucydides, covering events from 411 BCE through at least the Battle of Arginusae in 406 BCE. The content provides significant detail on the oligarchic coup of the Four Hundred in Athens, the political and military activities of Alcibiades, and naval operations in the Hellespont during the Ionian War. The work survives only in these fragments, which were acquired in Egypt and first published in the late nineteenth century. The manuscript is written in a Hellenistic bookhand, and the original complete text is lost. These excerpts constitute a primary source for the years 411–406 BCE. The London Fragments are of paramount importance for the study of Greek historiography and the Peloponnesian War. They offer the only extant continuous narrative for this period besides Xenophon's Hellenica. The detail and quality of the anonymous author, often referred to by scholars as the Oxyrhynchus Historian, are highly regarded and have significantly shaped modern understanding of the war's final decade.
+
 ## Text
 
 ### t 1 1

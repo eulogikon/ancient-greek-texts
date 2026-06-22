@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-ae` · [HTML page](https://eulogikon.org/works/suda-epsilon-wus-ae)
 
+The epsilon section of the Suda, comprising 4,425 entries, opens with terse verbal glosses — Ἔα (συγχώρει), Ἐάγη (ἐθραύσθη), Ἑάλω (ἥλω, ἐκρατήθη) — that illuminate rare or archaic Greek forms attested in classical and Hellenistic prose. Many entries record morphological paradigms in full, as with Ἐαδότα, where the compiler traces the conjugation of ἥδω through its dialectal forms.
+
+Mid-letter entries such as Ἐπηρώθησαν (ἐσκοτίσθησαν, ἐτυφλώθησαν) and Ἐπήρτησεν demonstrate the Suda's habit of embedding brief narrative quotations to anchor a gloss in context. The letter also contains the εἰ subsection, where entry ει 340 preserves a chreia linking Diogenes of Sinope to the dying Antisthenes, attributing to Diogenes the gift of a small dagger accompanied by the saying εἰ φίλου χρῄζεις ὑπουργίας.
+
+For researchers, the epsilon letter is valuable for lexicography of verbal compounding (ἐπι- prefixed forms run extensively through the mid-section), for doxographical snippets on Cynic philosophers, and for the transmission of paroemiographical material embedded in otherwise spare glosses.
+
 ## Text
 
 ### ε 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-bb` · [HTML page](https://eulogikon.org/works/euripides-helena-cbm-bb)
 
+Euripides' Helena is a tragedy first performed in Athens in 412 BCE. The play presents a radical revision of the Trojan War myth, written in Attic Greek verse. According to this version, the gods created a phantom likeness of Helen, which was taken to Troy by Paris, while the virtuous Helen herself was transported to Egypt under the protection of the prophet-king Proteus. The plot centers on her long wait for her husband, Menelaus, their joyful yet comical reunion after he is shipwrecked in Egypt, and their clever joint deception of the tyrannical king Theoclymenus, who desires to marry Helen. Their successful escape reunites the legitimate couple and restores Helen's reputation.
+
+The complete text survives through medieval manuscript transmission, most notably as part of a Byzantine triad of Euripidean plays used for educational purposes. Modern scholars frequently classify Helena alongside other late Euripidean works characterized as tragicomedies or romances, due to their adventurous plots, romantic elements, and relatively happy resolutions. It is widely interpreted as a work for an Athenian audience weary from the protracted Peloponnesian War, offering both entertainment and a profound critique of the futility of waging war over an illusion. The play's exploration of themes such as mistaken identity, female virtue, and persuasive rhetoric significantly influenced later comic playwrights and contributed to the thematic development of the ancient novel.
+
 ## Text
 
 ### 1

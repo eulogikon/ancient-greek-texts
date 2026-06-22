@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-am` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-am)
 
+The Grammatical Fragment is an anonymous grammatical treatise surviving in two brief passages. Its title suggests it is an excerpt from a larger, now lost work. The extant text systematically details the declension of possessive pronouns, categorizing them by number—singular, dual, and plural—and by case, including the genitive, dative, and accusative. It provides the forms for the first-person, second-person, and third-person possessives, noting that the feminine and neuter genders are declined similarly. The fragment breaks off as it begins to introduce a discussion on the article. This technical focus places the work within the tradition of Hellenistic and Roman-era grammatical scholarship, which sought to analyze and codify the parts of speech and their accidents. The work survives only in fragmentary form, likely preserved on papyrus or as a quotation within another text, with no known manuscript tradition. While its direct influence cannot be traced, the fragment contributes to the substantial corpus of Greek grammatical writings that systematized the language and provided the foundation for later linguistic study in the Byzantine and Renaissance periods.
+
 ## Text
 
 ### [45]

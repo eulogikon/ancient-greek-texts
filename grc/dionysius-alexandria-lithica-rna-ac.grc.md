@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rna-ac` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-lithica-rna-ac)
 
+On Stones, a lost treatise by Dionysius of Alexandria, is known only by its title, which indicates a work on lithology. In antiquity, this field encompassed the study of mineralogy, the geographical origins of stones, and their attributed medicinal or magical properties. Given the author's association with geography, the work likely described the locations and characteristics of various minerals. No fragments or quotations from the text survive; its existence is attested solely by its inclusion in ancient catalogues of works. As a lost text, its direct influence is untraceable, but its subject matter would have placed it within the scientific tradition of descriptive lapidaries following authors like Theophrastus. Had it been comprehensive, it may have served as a source for later compilers in the fields of geography and natural science.
+
 ## Text
 
 ### 1

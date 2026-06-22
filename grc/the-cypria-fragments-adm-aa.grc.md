@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `adm-aa` · [HTML page](https://eulogikon.org/works/the-cypria-fragments-adm-aa)
 
+The Cypria was an early Greek epic poem, now lost, that formed part of the Epic Cycle narrating the complete story of the Trojan War. Composed in the dactylic hexameter of the Epic dialect, it dates to the Archaic period, likely the seventh or sixth century BCE, and thus postdates the Homeric poems. Its authorship was disputed in antiquity, with traditions variously assigning it to poets such as Stasinus of Cyprus. The poem functioned as a narrative prequel to Homer’s Iliad, chronicling the origins and preliminary events of the conflict.
+
+The epic opened with the "Plan of Zeus," a divine scheme to alleviate overpopulation on Earth by instigating a great war. Its subsequent narrative wove together major mythological episodes that led to the Trojan expedition. These included the Judgment of Paris, the abduction of Helen, the mustering of the Greek fleet at Aulis accompanied by the sacrifice of Iphigenia, and the initial battles in Troy. The poem concluded at the point where the wrath of Achilles, the central theme of the Iliad, was provoked. Its primary literary function appears to have been to synthesize disparate mythological traditions into a coherent backstory for the Homeric epic.
+
+The complete text of the Cypria has not survived. Knowledge of its content derives from approximately fifty-eight fragmentary lines preserved in quotations by later authors and, most significantly, from a continuous prose summary authored by the second-century CE scholar Proclus. From this summary, the original work is believed to have been structured into eleven books. Despite its loss, the Cypria’s detailed account of the war’s origins proved highly influential, establishing the standard mythological background for subsequent Greek and Roman literature and art.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bo` · [HTML page](https://eulogikon.org/works/herodian-alexandria-pronouns-qnq-bo)
 
+On Pronouns is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. The work constitutes a specialized examination of the pronoun as a part of speech in ancient Greek, systematically detailing its forms, classifications, and proper usage according to established grammatical rules. Herodian, the son of the foundational grammarian Apollonius Dyscolus, was a leading authority whose meticulous analyses often argued for linguistic regularity and were grounded in the models of classical authors, particularly Homer. The treatise does not survive as a complete, independent book but is known through fragments preserved within later Byzantine grammatical compilations and commentaries. Composed during the era of the Second Sophistic, a period that highly valued linguistic purity and deep knowledge of classical Greek, the work functioned as a technical manual for advanced students and fellow grammarians. Its purpose was to settle disputes and establish authoritative rules concerning pronoun accentuation, morphology, and syntactic use. Herodian’s vast influence ensured his doctrines on grammar and accentuation remained standard for centuries in Byzantine and later scholarship, even as his original treatises were absorbed and transmitted through the works of subsequent writers.
+
 ## Text
 
 ### 3,2 845 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bp` · [HTML page](https://eulogikon.org/works/menander-athens-colax-hps-bp)
 
+Colax, known in English as The Flatterer, is a lost comedy by the Athenian playwright Menander, composed in verse around 315–310 BCE. As a work of New Comedy, it represents a shift from the political satire of earlier Athenian drama toward plots centered on social and domestic intrigue. The play survives only in 132 brief fragments, quotations preserved by later grammarians and authors, which are insufficient for a complete reconstruction of its narrative. These fragments establish that the central character was a kolax, a flatterer or parasite, a stock comic type who maintains his livelihood through obsequious service to a wealthy patron. Through this figure, the play explored themes of social climbing, deception, and the ethics of dependency in Hellenistic society.
+
+The play’s structure and potential plot are understood primarily through its Roman adaptation. The playwright Terence explicitly acknowledged borrowing characters from Menander’s Colax and combining them with material from another Greek play to create his own comedy, Eunuchus, which was first performed in 161 BCE. Terence’s adaptation provides the most substantial evidence for the original play’s character dynamics and comic situations. Colax was likely originally staged at a major Athenian festival, reflecting contemporary social anxieties surrounding wealth, status, and personal integrity in the early Hellenistic period. Although its full text has not survived, the play holds significance as a clear example of the direct transmission and creative transformation of Greek New Comedy by Roman dramatists.
+
 ## Text
 
 ### 1

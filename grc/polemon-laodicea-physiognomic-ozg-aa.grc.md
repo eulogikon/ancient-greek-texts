@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ozg-aa` · [HTML page](https://eulogikon.org/works/polemon-laodicea-physiognomic-ozg-aa)
 
+The Physiognomic Fragment is a surviving excerpt from a lost treatise by the Greek orator Polemon of Laodicea, who flourished in the early second century CE. It belongs to the ancient discipline of physiognomics, which sought to deduce an individual's character and moral disposition from their physical appearance. Polemon's work provides detailed correlations between specific bodily features—such as the eyes, eyebrows, nose, and overall posture—and corresponding ethical qualities, presenting these observations as a practical system for character assessment.
+
+The original Greek treatise is no longer extant. The primary text survives through a circuitous transmission: a ninth- or tenth-century Arabic adaptation, which was itself translated from a lost Syriac version of the Greek original. Additional excerpts are preserved in later Roman compilations, notably the fourth-century physiognomic handbook of Adamantius, who cites Polemon as a major source. This fragmentary preservation obscures the complete structure and full scope of the original work.
+
+Polemon was a prominent sophist of the Second Sophistic, a period marked by a revival of Greek rhetorical culture under the Roman Empire. His physiognomic writings are interpreted by modern scholars as a professional tool for orators, offering a method to construct convincing character sketches for use in judicial or ceremonial oratory. The fragment exemplifies widespread ancient beliefs that the body served as a legible indicator of the soul and underscores Polemon's considerable influence on the physiognomic tradition, which extended from late antiquity into the medieval Islamic world.
+
 ## Text
 
 ### 255.(14)

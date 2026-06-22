@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jds-aa` · [HTML page](https://eulogikon.org/works/phylarchus-athens-testimonies-jds-aa)
 
+The Testimonies is a modern editorial title for a collection of seven fragmentary passages attributed to the Hellenistic historian Phylarchus of Athens, who was active in the 3rd century BCE. These excerpts are not derived from a single, unified work but are quotations and paraphrases preserved by later authors, drawn from Phylarchus’s now-lost historical writings. The fragments primarily cover dramatic episodes from the period, including the reforms and military campaigns of the Spartan king Cleomenes III and the political conflicts within the Achaean League. Phylarchus’s narrative is characterized by a vivid and emotional style, designed to engage readers with scenes of suffering and sudden reversals of fortune. His work does not survive intact and is known almost exclusively through citations in later Greek and Roman authors, most notably the biographer Plutarch and the historian Polybius. The organization into seven passages is a modern scholarly convention for arranging these scattered references. Interpreted by modern scholars as a practitioner of so-called tragic historiography, Phylarchus exhibits a clear partisan bias in favor of Cleomenes III and against his Achaean adversaries. Although criticized in antiquity by figures like Polybius for sensationalism, his dramatic accounts were highly influential, serving as a major source for Plutarch’s biographies and thereby shaping the later historical understanding of this turbulent era in Greek history.
+
 ## Text
 
 ### 2a,81,T 1

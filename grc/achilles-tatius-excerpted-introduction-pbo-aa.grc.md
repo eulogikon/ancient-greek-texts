@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pbo-aa` · [HTML page](https://eulogikon.org/works/achilles-tatius-excerpted-introduction-pbo-aa)
 
+The Excerpted Introduction is an ancient Greek astronomical treatise traditionally ascribed to Achilles Tatius the Astronomer, likely composed in the 3rd century CE. Designed as a concise educational manual, the work comprises 51 chapters that systematically outline the principles of spherical astronomy. It covers the structure of the celestial sphere, the motions of the sun and planets, the nature of the zodiac, and the causes of solar and lunar eclipses. The text is essentially a summary and compilation of material from the earlier and more comprehensive Introduction to the Phaenomena by Geminus of Rhodes. Its clear, didactic organization established it as a standard textbook, ensuring the transmission of core Hellenistic astronomical concepts into later periods. The work was translated into Arabic and Latin, exerting a discernible influence on medieval and Renaissance astronomy. The author remains a shadowy figure; the attribution to "Achilles Tatius" is considered a probable scribal error that conflated him with the more famous 2nd-century novelist of the same name.
+
 ## Text
 
 ## ΤΩΝ ΑΡΑΤΟΥ ΦΑΙΝΟΜΕΝΩΝ ΠΡΟΣ ΕΙΣΑΓΩΓΗΝ ΕΚ ΤΩΝ ΑΧΙΛΛΕΩΣ ΠΕΡΙ ΤΟΥ ΠΑΝΤΟΣ ‘Μισῶ μὲν ὅστις τἀφανῆ περισκοπῶν—‘ φησὶν ὁ Σοφοκλῆς (fr inc 671).

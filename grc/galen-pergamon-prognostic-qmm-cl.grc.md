@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cl` · [HTML page](https://eulogikon.org/works/galen-pergamon-prognostic-qmm-cl)
 
+On Hippocrates' Prognostic is a comprehensive commentary by the physician Galen of Pergamon on the Hippocratic treatise Prognostic. Structured as a meticulous, line-by-line exegesis of 316 passages from the original work, Galen's treatise systematically explains and defends Hippocratic methods for predicting the course, outcome, and duration of disease. Composed in the 2nd century CE, the work champions prognosis as a fundamental rational skill, integrating anatomical theory with detailed clinical observation to interpret bodily signs. A central theme is the vigorous establishment of Hippocrates as the supreme medical authority and the defense of logical, semeiotic interpretation against rival medical sects, particularly the Empiricists and Methodists. Galen also applies careful philological exegesis to address textual variants within the Hippocratic source material. The complete text survives in Greek manuscripts and was later translated into Arabic during the 9th-century Abbasid translation movement, followed by Latin versions. These translations ensured its preservation and widespread dissemination in both Islamic and medieval European medical traditions. The commentary was instrumental in cementing the combined authority of Hippocrates and Galen as the foundational pillars of Western medicine for over a millennium, systematically reinforcing prognosis as a central discipline of academic medicine. It remains a crucial source for understanding Galen's interpretive methods and the practice of clinical medicine in the Roman era.
+
 ## Text
 
 ### 18b 1 (t1)

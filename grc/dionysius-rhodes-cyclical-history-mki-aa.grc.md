@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mki-aa` · [HTML page](https://eulogikon.org/works/dionysius-rhodes-cyclical-history-mki-aa)
 
+The Cyclical History Fragments is a lost historical work attributed to Dionysius of Rhodes the Historian, known only through scattered references in later sources. The author is mentioned in the Suda lexicon, but no substantive details about the work are provided. The title suggests it was a collection of excerpts, possibly compiled from larger sources or treating cyclical historical or mythic narratives. Its specific historical content and chronological scope remain unknown. The text survives in a fragmentary state, with its content preserved only through citations in the scholia to Euripides and other authors; the notation of fifteen passages likely reflects the total number of fragments gathered by modern scholars from this indirect transmission. As a product of the intellectual center of Hellenistic Rhodes, the work represents a lost thread of Greek historiography. Its fragmentary state and the obscurity of its author limit any assessment of its direct influence, but it exemplifies the genre of historical compilation in antiquity.
+
 ## Text
 
 ### t1-10

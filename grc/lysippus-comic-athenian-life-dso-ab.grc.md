@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dso-ab` · [HTML page](https://eulogikon.org/works/lysippus-comic-athenian-life-dso-ab)
 
+The comic poet Lysippus is known only by name from later testimonia, with no specific play titles or direct fragments of his work surviving in the extant record. He is mentioned in secondary sources such as the 10th-century Byzantine encyclopedia known as the Suda and in later grammatical citations, but no manuscripts of his comedies exist. The modern descriptor "Fragments on Athenian Life" does not correspond to an attested ancient work but serves as a placeholder for his lost output. Lysippus exemplifies the numerous comic poets from antiquity whose works are entirely lost, underscoring the significant gaps in our understanding of the broader Athenian comic tradition beyond the preserved works of major figures.
+
 ## Text
 
 ### book 1.1

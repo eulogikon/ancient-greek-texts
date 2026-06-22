@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kms-ae` · [HTML page](https://eulogikon.org/works/chrysippus-soli-moral-fragments-kms-ae)
 
+The Moral Fragments is a modern scholarly compilation of the ethical doctrines of Chrysippus of Soli, the third head of the Stoic school in the 3rd century BCE. As none of Chrysippus's original works survive, this collection of approximately 780 passages is reconstructed from quotations, paraphrases, and critiques preserved by later authors such as Diogenes Laertius, Plutarch, and Galen. The fragments systematically address the core divisions of Stoic ethics, including the theory of impulse, the nature of good and evil, the analysis of passions, the definition of virtue, and the supreme goal of life. They argue that the ultimate purpose of human existence is to live in accordance with nature, that virtue alone constitutes true good, and that destructive passions are fundamentally errors of rational judgment to be extinguished. The structure of the compilation is not original but reflects contemporary editorial reconstruction, piecing together Chrysippus's rigorous defenses of Stoic orthodoxy against rival philosophical schools, particularly the Academic Skeptics. His prolific and logically precise writings, which earned him the title of Stoicism's second founder, provided the definitive framework for all subsequent Stoic thought, even as his own texts were lost to antiquity.
+
 ## Text
 
 ### 1

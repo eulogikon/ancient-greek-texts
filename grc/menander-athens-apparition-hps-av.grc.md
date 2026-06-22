@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-av` · [HTML page](https://eulogikon.org/works/menander-athens-apparition-hps-av)
 
+The Apparition is a lost comedy by the Athenian playwright Menander, composed in verse during the late fourth or early third century BCE. As a representative work of New Comedy, it centered on domestic and romantic intrigues set in contemporary Athenian society. The title implies that a ghost or spectral apparition featured in the plot, likely serving as a device to generate comic confusion through deception or mistaken identity. The play survives only in fragmentary form, with approximately 110 lines preserved through quotations by later ancient authors and on papyrus fragments recovered from Egypt. These extant passages reference typical New Comedy elements such as romantic entanglements and familial disputes. Modern scholarship suggests the ghost functioned as a catalyst for the plot, consistent with the genre’s use of surprising revelations to resolve complex situations. The comedy was almost certainly written for performance at public Athenian festivals. Although the complete narrative cannot be reconstructed, the fragments reflect Menander’s characteristic thematic preoccupations with love, chance, and social relationships. While the direct influence of this particular play is untraceable due to its fragmentary state, Menander’s comedies collectively exerted a profound impact on the subsequent development of comic theatre, notably through Roman adaptations and their enduring legacy in European dramatic tradition.
+
 ## Text
 
 ### 1

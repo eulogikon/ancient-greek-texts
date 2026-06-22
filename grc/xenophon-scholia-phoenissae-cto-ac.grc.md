@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cto-ac` · [HTML page](https://eulogikon.org/works/xenophon-scholia-phoenissae-cto-ac)
 
+The Scholia on Euripides' Phoenissae by the grammarian Xenophon consist of three brief passages of ancient commentary on the tragedy. These notes form a minor, attributed fragment within the extensive and cumulative tradition of Euripidean scholia, a body of explanatory material that originated with the work of Hellenistic scholars such as Didymus Chalcenterus and Aristarchus. As a philological commentary, its content aligns with standard scholiastic practice, addressing textual criticism through variant readings or proposed emendations, lexicography by explaining obscure terms, mythological and historical exegesis to clarify references within the Theban cycle, and literary analysis concerning meter, rhetoric, or dramatic technique. The scholia to Euripides are preserved in the margins of medieval manuscripts, most notably the 13th-century Vaticanus Graecus 909. Xenophon’s original commentary is lost, with his three passages surviving only as excerpts copied by later scribes into this larger manuscript tradition. As part of the broader scholiastic corpus, these notes contributed to the medieval and Renaissance understanding of Euripides. Scholia were fundamental for transmitting and interpreting classical literature, forming the essential basis for modern textual criticism and philological study of Greek tragedy.
+
 ## Text
 
 ### 1arg

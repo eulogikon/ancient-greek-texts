@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ngg-aa` · [HTML page](https://eulogikon.org/works/scholia-theocritus-text-ngg-aa)
 
+The Scholia on Theocritus are a body of ancient and Byzantine marginal annotations preserved in manuscripts of the bucolic poet Theocritus. This composite collection of 1,749 passages accumulated over many centuries, drawing from the work of earlier Hellenistic and Roman grammarians such as Theon and Munatius. The annotations provide a comprehensive commentary covering a significant portion of Theocritus's Idylls. Their content addresses several key areas of scholarship, including textual criticism with notes on variant readings and manuscript issues, linguistic explanation through glosses on rare or dialectal words, and exegesis of mythological and historical references. The scholia also contain elements of literary analysis, commenting on genre, meter, and poetic technique. Transmitted within the medieval manuscript tradition, they appear in key witnesses such as the thirteenth-century Laurentianus 32.16. They are edited in modern critical editions like that of Carl Wendel, and while they accompany the full corpus of Theocritus, they represent excerpts from more extensive, now-lost commentaries. These scholia constitute the primary source for ancient scholarly interpretation of Theocritus. They are indispensable for establishing the text, understanding the poet's language and allusions, and tracing the history of classical scholarship from antiquity through the Byzantine period.
+
 ## Text
 
 ### proleg t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ah` · [HTML page](https://eulogikon.org/works/lysias-accusation-companions-ejc-ah)
 
+The Accusation against the Companions of Slander is a forensic oration attributed to the Attic orator Lysias. It survives only in fragmentary form, cataloged as Speech 8 in the Lysianic corpus. The title indicates it was a prosecution speech targeting a group accused of defamation. Based on its forensic genre, the speech likely addressed the legal and social harm of slander and the collective culpability of the accused companions, employing standard Athenian courtroom rhetorical strategies. The work is preserved within the collected corpus of Lysias’s speeches. While the medieval manuscript tradition contains many complete orations, others, like this one, survive only as fragments or titles. Though incomplete, the speech exemplifies the range of private legal disputes in classical Athens and contributes to the broad corpus of an orator esteemed in antiquity for his persuasive clarity and plain Attic style.
+
 ## Text
 
 ### Or8 t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bo` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lysander-sulla-okg-bo)
 
+The Comparison of Lysander and Sulla is a concluding essay by the Greek biographer Plutarch, composed in the early second century CE. It forms the final section of the paired biographies of Lysander and Sulla within his larger series, Parallel Lives. The essay systematically contrasts the careers and characters of the two leaders: Lysander, the Spartan naval commander instrumental in ending the Peloponnesian War, and Sulla, the Roman dictator infamous for his civil wars and political proscriptions. Plutarch examines their respective paths to power, their conduct in military and political affairs, their use of authority, and their ultimate legacies. The analysis acknowledges that both men rose from modest origins to achieve supreme influence, but it distinguishes between the lawful offices Lysander held with the consent of his fellow Spartans and the extraordinary, often violent commands Sulla seized during periods of profound civic strife in Rome. The comparison serves as a moral inquiry, using historical example to explore themes of ambition, virtue, and the corrupting potential of absolute power. Plutarch guides his educated Greco-Roman audience to consider not merely the scale of a leader's success but the ethical quality of his actions and the health of the political system that enabled his rise. The work survives intact within the manuscript tradition of the Parallel Lives and is valued for its concise distillation of the ethical lessons drawn from the preceding, more narrative biographies.
+
 ## Text
 
 ### t 1

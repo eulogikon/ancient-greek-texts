@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-ai` · [HTML page](https://eulogikon.org/works/philo-alexandria-hypothetica-apology-lgi-ai)
 
+The Hypothetica, also known as the Apology for the Jews, is an apologetic treatise by the 1st-century Jewish philosopher Philo of Alexandria. Likely composed between 38 and 41 CE, it was written in Greek for a non-Jewish, Greco-Roman audience with the aim of defending the Jewish people and their legal traditions against common prejudices and misrepresentations. The work presents Judaism as a rational and virtuous philosophical system. The complete text is lost, surviving only in fragments preserved by the 4th-century Christian historian Eusebius of Caesarea. Based on these excerpts, the treatise appears to have been structured in two principal sections. The first offered an idealized account of the Mosaic constitution and Jewish communal life, including descriptions of ascetic groups such as the Essenes. The second part mounted a detailed defense of specific Jewish laws, arguing for their inherent humanity, justice, and superiority over other legal codes. Modern scholarship places the work in the immediate context of the violent anti-Jewish pogrom in Alexandria in 38 CE, interpreting it as a direct response to that crisis, possibly composed in conjunction with Philo’s subsequent embassy to the Roman Emperor Caligula. The surviving fragments provide invaluable insight into the strategies of Hellenistic Jewish apologetics and the engagement of Jewish intellectuals with the wider Greco-Roman world.
+
 ## Text
 
 ### 191 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcw-ab` · [HTML page](https://eulogikon.org/works/nicander-colophon-alexipharmaca-lcw-ab)
 
+The Alexipharmaca ("Counter-Poisons") is a didactic poem by the Hellenistic poet-physician Nicander of Colophon, composed in the 2nd century BCE. Written in Homeric Greek hexameter verse, its 630 lines systematically catalog various poisons, including plants such as hemlock and aconite, as well as minerals like lead and arsenic. For each toxic substance, the work provides detailed recipes for corresponding antidotes and treatments. It functions as a companion piece to Nicander's Theriaca, which addresses venomous animals, and together these poems constitute a major contribution to ancient toxicological literature.
+
+The Alexipharmaca survives in its complete form through a continuous manuscript tradition, preserved alongside the Theriaca. Its endurance is attributed to its dual status as both a technical manual and a self-consciously literary work. Modern scholarship interprets the poem as a sophisticated blend of utilitarian pharmacology and artistic composition, crafted for an educated Hellenistic audience that valued the systematization of specialized knowledge within an elegant poetic framework. Reflecting the period's broader intellectual currents, the Alexipharmaca remained an authoritative reference on poisons for centuries, cited by Roman encyclopedists like Pliny the Elder and later medical writers.
+
 ## Text
 
 ### 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ef` · [HTML page](https://eulogikon.org/works/galen-pergamon-text-qmm-ef)
 
+The treatise On the Reducing Diet by the physician Galen of Pergamon is a detailed work on medical dietetics. Galen opens by observing that most chronic illnesses require a reducing regimen, and that a cure can often be achieved through diet alone, making further pharmaceutical intervention unnecessary. He supports this claim with clinical examples, noting his personal experience in treating conditions such as nephritis, arthritis, dyspnea, enlarged spleens, sclerotic livers, and epilepsy with significant success through such dietary management. The work systematically defines this reducing diet, which physicians named for its thinning effect, in opposition to a fattening regimen.
+
+The treatise functions as a critical collection of case studies, analyzing specific dietary and lifestyle prescriptions that Galen deemed ineffective based on his empirical experience and theoretical framework. Its core argument emphasizes the necessity of individualized treatment tailored to a patient's unique constitution, age, and condition, opposing rigid or universal rules. This critique is grounded in the application of humoral theory and qualitative analysis to evaluate regimens, thereby asserting the supremacy of Galen's logical method and clinical authority over competing medical sects.
+
+Transmitted within the extensive Galenic corpus, the text was preserved through Greek manuscripts from the Byzantine era and translated into Arabic during the Abbasid Caliphate, subsequently influencing medieval Latin medicine. The complete Greek text survives. As a component of Galen's authoritative oeuvre, this work reinforced his rational, theory-based approach to dietetics and helped establish his methodological paradigm, which shaped scholarly medical practice in Byzantine, Islamic, and later European traditions for centuries.
+
 ## Text
 
 ### 1 (t1)

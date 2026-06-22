@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-aj` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-to-demeter-iso-aj)
 
+"To Demeter" is a poetic hymn by the Hellenistic poet and scholar Callimachus, composed in the 3rd century BCE. It is the sixth and final hymn in his collection of six literary works in this genre. Written in Greek hexameter verse, the poem presents a sophisticated retelling of the central myth of the goddess Demeter. It recounts her profound grief following the abduction of her daughter Persephone by Hades, her desperate search, and the eventual establishment of the Eleusinian Mysteries, which promised initiates a blessed afterlife. This primary narrative is intricately combined with the parable of Erysichthon, a mortal king who is cursed with insatiable hunger as divine punishment for his sacrilege in cutting down a tree in Demeter's sacred grove. This dual structure creates a thematic interplay between profound maternal loss and the severe consequences of impiety, underscoring the goddess's power and the sanctity of her rites.
+
+The hymn is a complete work of approximately 136 lines, preserved through direct medieval manuscript transmission, most notably in a 13th-century manuscript known as the Codex Laurentianus. Modern scholarship interprets it not as a text for actual ritual performance but as a highly crafted literary piece intended for the educated elite of Alexandria. It exemplifies the Hellenistic period's intellectual engagement with traditional mythology, reworking ancient stories with learned artistry, allusive depth, and clear moral and theological concerns. The poem opens with a solemn warning to the uninitiated to avert their eyes, immediately establishing the theme of ritual purity. It functions as an aetiological narrative, providing a poetic origin for major religious festivals and emphasizing the grave importance of respecting divine law and the established order of worship.
+
 ## Text
 
 ### 1

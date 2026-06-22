@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ab` · [HTML page](https://eulogikon.org/works/herodian-alexandria-ares-fragment-qnq-ab)
 
+The Fragment on Ares is a grammatical treatise attributed to Herodian of Alexandria, a preeminent Greek scholar of the second century CE. Despite its title, the work is not concerned with mythology but is a surviving portion of a larger, lost grammatical study. It uses the declension of the name of the god Ares as a specific case to illustrate a broader principle of Greek phonology concerning the treatment of diphthongs in noun inflection. The text examines the genitive form "Areos," questioning the origin of its diphthong and comparing it to analogous forms in the Ionic and Aeolic dialects. It posits that the Aeolic tendency to add a phonetic element, such as the letter upsilon, explains the development of the genitive "Areuos," and subsequently explores the awkward sound of the resulting diphthong "eu," noting its occurrence in verb conjugations and other parts of speech.
+
+Herodian, who worked in Rome, was the foremost authority on Greek prosody and accentuation during the Roman Imperial period. His comprehensive scholarly output, much of which is now lost, aimed to systematize and teach the complexities of the Greek language, particularly during a revival of interest in classical Attic norms. This fragment exemplifies his methodological approach, using a detailed analysis of a single word to elucidate a wider grammatical rule. Herodian's original works survive almost exclusively through such fragments, which are preserved in later Byzantine grammatical manuscripts and commentaries. His influence on the standardization of Greek accentuation was profound, with his rules being transmitted through the medieval period and ultimately shaping the system of accent marks used in printed Greek texts.
+
 ## Text
 
 ### 237

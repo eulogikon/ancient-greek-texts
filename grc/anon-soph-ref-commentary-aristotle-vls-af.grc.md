@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vls-af` · [HTML page](https://eulogikon.org/works/anon-soph-ref-commentary-aristotle-vls-af)
 
+Overview The work is an anonymous Greek commentary, titled Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί, on Aristotle’s Sophistical Refutations (De Sophisticis Elenchis). It consists of 140 discrete passages or notes (ὑπομνήματα) and belongs to the corpus of late antique exegetical literature on Aristotle's logical works produced within Aristotelian and Neoplatonic scholastic traditions.
+
+Content As a commentary on the Sophistical Refutations—a treatise analyzing fallacious arguments—its themes logically involve:
+
+The analysis and classification of logical fallacies, such as equivocation or begging the question.
+
+The distinction between sophistical and genuine refutations in dialectic.
+
+Methods for resolving fallacious arguments.
+
+The relationship between logic, language, and ontology.
+
+Transmission The commentary is known only from its catalog entry. Like many anonymous works, its transmission history is obscure, though such texts were often preserved through Byzantine manuscript traditions, sometimes as compilations from lecture notes.
+
+Significance While the specific influence of this anonymous text is unassessed, it represents a witness to the pedagogical and interpretive practices of late antique Aristotelianism. Such commentaries were essential vehicles for transmitting Aristotelian logic through Byzantine, Arabic, and Latin scholastic traditions.
+
 ## Text
 
 ## ΠΑΡΑΦΡΑΣΙΣ ΕΙΣ ΤΗΝ ΣΟΦΙΣΤΙΚΗΝ. Οὐκ αὐτόθεν τοῖς φιλοσοφοῦσι τὸ περὶ τὴν σοφιστικὴν πραγματεύεσθαι, ὅτι μηδὲ προύργου τοῖς θεωροῦσι τὸ ἀληθὲς ἡ τοῦ ψεύδους εὕρεσις καὶ κατάληψις, ἀλλ’ ὥσπερ τοῖς κατὰ τὴν ἰατρικὴν οὐκ ἀπέχρησε περὶ ὑγείας καὶ ὑγιεινῶν εἰποῦσι παραλιπεῖν ὅ τι νόσος καὶ ἀφ’ ὧν αἰτίων πρόεισιν (οὐ γὰρ ἀσφαλῶς εἶχε πολλῶν πρὸ τῶν ὠφελούντων διὰ τὴν ἄγνοιαν περιπιπτόντων τοῖς χείροσιν ὡς μᾶλλον προβεβλημένοις καὶ μᾶλλον ἀπαντῶσι κατὰ τὴν αἴσθησιν· ἔστι δ’ ἃ καὶ τῶν δηλητηρίων καὶ φθοροποιῶν ἐπὶ τὸ εὖ τῇ τέχνῃ προσείληπται), οὕτω κἀνταῦθα.

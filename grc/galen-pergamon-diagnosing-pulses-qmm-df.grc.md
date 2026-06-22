@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-df` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosing-pulses-qmm-df)
 
+On Diagnosing Pulses is a medical treatise by the Roman physician Galen, composed in Greek during the latter half of the second century CE. The work constitutes a comprehensive manual on sphygmology, the diagnostic interpretation of the arterial pulse. Galen systematically categorizes pulses according to their qualitative characteristics—including size, speed, strength, and rhythm—and argues that these palpable signs provide direct insight into the internal physiological state. He correlates specific pulse qualities with underlying conditions such as humoral imbalances, fevers, and various pathologies, positioning pulse diagnosis as a critical tool for rational medical practice.
+
+The treatise is organized into four principal sections. The first enumerates and classifies the different types of pulses. The second, which forms the core of the work, is devoted to the diagnostic application of this knowledge. The third section explores the physiological causes behind each pulse variety, while the fourth discusses the prognostic value of pulse reading, which Galen considers the most vital skill for a physician. Written during Galen's tenure as a physician to Emperor Marcus Aurelius in Rome, the text reflects the highly competitive intellectual milieu of the period. It is addressed to fellow practitioners and advanced students, and throughout, Galen asserts his authority by critiquing the methods of rival medical schools, particularly the Empiricists.
+
+As part of Galen's broader endeavor to establish medicine as a demonstrative science grounded in logic and natural philosophy, On Diagnosing Pulses enjoyed immense and enduring influence. The complete Greek text survives in Byzantine manuscripts from the ninth and tenth centuries. Translated into Arabic and later into Latin, it became a foundational text in both Islamic and medieval European medicine, shaping theoretical and practical approaches to diagnosis for over a millennium.
+
 ## Text
 
 ### 8 766 (t1)

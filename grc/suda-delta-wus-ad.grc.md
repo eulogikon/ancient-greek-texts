@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-ad` · [HTML page](https://eulogikon.org/works/suda-delta-wus-ad)
 
+The delta section of the Suda comprises 1,718 entries ranging from proper names and toponyms to grammatical glosses and extended literary citations. Early entries treat proper nouns such as Δαγίσθαιος and the idol Δαγών worshipped by the Philistines, alongside brief toponymic notes like Δάβαινα.
+
+The middle of the letter is rich in lexicographical and grammatical analysis. The cluster around διδάσκαλος (δ 859–861) illustrates the Suda's typical method: quoting Sophocles, tracing etymology through δαίω and reduplication, and noting syntactic government. Similar entries explain distinctions such as διδασκαλεῖον versus διδασκάλιον.
+
+The letter closes with a run of δυσ- compounds — δυσχέρεια, δυσχείμερος, δυσχρηστούμενος — the last illustrated with a passage on Hannibal's deteriorating situation and his dispatch to Carthage. This range makes the delta section useful for studying Attic religious vocabulary, Byzantine etymological practice, and historiographical excerpts preserved nowhere else.
+
 ## Text
 
 ### δ 1

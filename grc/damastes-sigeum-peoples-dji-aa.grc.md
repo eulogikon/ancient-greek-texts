@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dji-aa` · [HTML page](https://eulogikon.org/works/damastes-sigeum-peoples-dji-aa)
 
+The Fragments on Peoples is a lost prose work of ethnography and geography by the 5th-century BCE historian Damastes of Sigeum. It survives only in scattered quotations and paraphrases within the writings of later authors, most notably the geographer Strabo. These fragments indicate the work described various nations, their territories, customs, and the distances between places, encompassing a geographical scope that stretched from Greece to the Black Sea, Persia, and India. A contemporary of Herodotus, Damastes wrote during an era of expanding Greek geographical horizons. His work exemplifies the early Ionian tradition of inquiry that combined empirical observation with mythological elements, aiming to catalog and systematize contemporary knowledge of the world for a Greek audience. While later, more critical geographers like Strabo occasionally faulted him for including improbable details, his fragments remain valuable evidence for understanding early Greek conceptions of distant lands and peoples.
+
 ## Text
 
 ### t1-6

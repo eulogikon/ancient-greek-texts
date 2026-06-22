@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ai` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-artemis-iso-ai)
 
+"To Artemis" is a poetic hymn composed in the 3rd century BCE by the Hellenistic poet and scholar Callimachus. Written in a literary Greek dialect blending Homeric and Doric elements, the work recreates a mythological scene of the young goddess Artemis seated on the knee of her father, Zeus. It narrates her request for, and the subsequent granting of, the attributes that define her divine sphere: eternal virginity, a multiplicity of cult names, a bow and arrows, a distinctive hunting costume, a retinue of sixty Oceanid nymphs and twenty Amnisian handmaidens, and dominion over the mountains. The poem concludes with her departure to practice archery and to secure her chosen nymphs, establishing the archetypal image of the goddess as huntress.
+
+As one of six complete hymns by Callimachus preserved from antiquity, "To Artemis" is considered a sophisticated literary piece composed for an educated Alexandrian audience rather than for actual religious ritual. It exemplifies the poet's learned, allusive style, using the charming narrative of a divine child's negotiation with her father to provide an aetiological explanation for the goddess's well-known cultic features, epithets, and spheres of influence. The hymn survives in full primarily through an 11th-century manuscript and exerted considerable influence on later Roman poets, including Catullus and Ovid.
+
 ## Text
 
 ### 1

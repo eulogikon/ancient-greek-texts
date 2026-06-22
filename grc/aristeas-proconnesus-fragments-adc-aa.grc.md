@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `adc-aa` · [HTML page](https://eulogikon.org/works/aristeas-proconnesus-fragments-adc-aa)
 
+The Arimaspea, a hexameter epic poem attributed to the semi-legendary poet Aristeas of Proconnesus, is now lost and survives only through fragments and testimonia preserved by later authors, most notably Herodotus. The poem narrated the author's fantastical, divinely inspired journey to the far north, describing both mythical and real peoples encountered there. These included the Issedones, the one-eyed Arimaspians who warred with gold-guarding griffins, and the Hyperboreans. Its central themes combined ethnographic description of distant lands with accounts of marvels and a strong emphasis on ecstatic, shamanistic experience. No independent manuscript tradition exists for the work; its content is reconstructed solely from quotations and paraphrases in prose authors such as Herodotus, with additional fragments found in Longinus and Maximus of Tyre. The fourteen passages often cited in modern scholarship refer to collections of these textual remnants. The Arimaspea exercised a profound influence on Greek conceptions of northern geography and ethnography. Its authority on Scythian matters was cemented by Herodotus's extensive use of it, and it contributed enduring motifs to mythology and art, particularly the iconic struggle between the Arimaspians and griffins. Furthermore, the figure of Aristeas himself remained a touchstone in ancient discussions of ecstatic prophecy and supernatural journey.
+
 ## Text
 
 ### book 4.1

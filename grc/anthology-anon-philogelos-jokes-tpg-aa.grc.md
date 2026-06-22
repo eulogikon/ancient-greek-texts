@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tpg-aa` · [HTML page](https://eulogikon.org/works/anthology-anon-philogelos-jokes-tpg-aa)
 
+The Philogelos, or "Laughter-Lover," is the world's oldest surviving collection of jokes. Although its manuscript tradition attributes the work to Hierocles and Philagrius, this authorship is considered spurious by modern scholars, rendering the compilation effectively anonymous. Likely assembled in the 4th or 5th century CE, the text is written in Koine Greek prose and consists of 265 brief jokes organized according to the stereotypical character who serves as the target of the punchline.
+
+The most frequent subject of ridicule is the scholasticus, a pedantic and dim-witted academic figure. Other common targets include citizens of cities notorious for specific character flaws, such as Abdera and Kyme for stupidity or Sidon for cowardice. The humor also lampoons universal social types like misers, drunkards, and boastful men, employing wordplay, logical absurdities, and slapstick scenarios. The compilation is believed to have been intended for an educated, Greek-speaking audience familiar with these comic stereotypes from earlier theatrical traditions.
+
+The work survives in its entirety, with the oldest extant manuscript dating from the 11th century. As a unique anthology of ancient humor, the Philogelos provides invaluable insight into the social satire and comic sensibilities of late antiquity.
+
 ## Text
 
 ### book 1

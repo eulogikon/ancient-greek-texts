@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bo` · [HTML page](https://eulogikon.org/works/galen-pergamon-method-healing-qmm-bo)
 
+To Glaucon on the Method of Healing is a medical treatise composed in Greek by the physician Galen of Pergamon around 178–180 CE. Addressed to his friend Glaucon, a philosopher with an interest in medicine, the work serves as a practical therapeutic guide intended for an educated, non-specialist audience. It systematically presents Galen’s method of treatment, progressing from general principles to the management of specific diseases, including fevers, inflammations, and wounds, organized according to the affected parts of the body. The text is firmly rooted in the classical theory of the four humors and consistently emphasizes the critical importance of accurate diagnosis and logical intervention.
+
+Structured as a series of 146 concise chapters, the treatise is notably accessible and instructional, distinguishing it from Galen’s more polemical works. It was written during his tenure as physician to Emperor Marcus Aurelius and reflects the interest in medicine as part of a cultivated education among the Roman elite. The text survives in its complete form through the medieval Greek manuscript tradition and was also translated into Arabic. This transmission secured its influence for centuries, serving as a standard medical textbook in the Byzantine and Islamic worlds and later in Renaissance Europe.
+
 ## Text
 
 ### 11 1 (t1)

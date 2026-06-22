@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ozg-ab` · [HTML page](https://eulogikon.org/works/polemon-laodicea-declamations-ozg-ab)
 
+The Declamations is a collection of model rhetorical speeches by the celebrated orator Marcus Antonius Polemon of Laodicea, a leading figure of the Second Sophistic movement. Composed in Attic Greek during the early second century CE, these works exemplify the advanced practice of declamation, a sophisticated form of persuasive oratory on fictional or historical themes designed for public display. The surviving corpus, comprising 107 passages, showcases Polemon's vivid and emotionally charged style, frequently employing themes of patriotism, moral conflict, and historical impersonation, where the speaker argues in the voice of a famous figure from the Greek past. The text survives not as a complete book but in excerpts preserved within later manuscripts and rhetorical anthologies, with a primary source being a 14th-century manuscript containing a compilation attributed to the fifth-century sophist Lachares. Modern scholarship interprets these declamations as more than mere pedagogical exercises; they were public performances that demonstrated elite education and cultural prowess. They are thought to have been delivered to educated audiences as a form of prestigious intellectual entertainment, cementing Polemon's professional reputation and illustrating how Greek-speaking elites articulated their cultural identity within the political framework of the Roman Empire.
+
 ## Text
 
 ### 1 t

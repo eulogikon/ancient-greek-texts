@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-bh` · [HTML page](https://eulogikon.org/works/lysias-legal-disputes-ejc-bh)
 
+The Fragments on Legal Disputes is a modern compilation of thirty-eight passages attributed to the Attic orator Lysias. These excerpts are drawn from otherwise lost forensic speeches composed for Athenian legal cases, covering a range of private disputes including inheritance, property, commerce, and assault. They represent a small fraction of the more than two hundred speeches once attributed to Lysias, of which only thirty-four complete orations survive. The fragments derive from speeches written for delivery in Athenian popular courts, reflecting Lysias's career as a logographer who wrote speeches for clients. They exhibit the key themes of his forensic oratory, including arguments from probability, appeals to democratic ideology and shared civic values, and the clear, simple Attic style and vivid character portrayal for which he was renowned. The fragments were preserved not as a continuous work but through quotations in later authors such as the rhetorician Dionysius of Halicarnassus, the lexicographer Harpocration, and the anthologist Stobaeus. Their fragmentary nature often obscures the full context of the original legal arguments. While Lysias's complete speeches are more prominent, these fragments are crucial for understanding the breadth of his output and the common legal disputes of Classical Athens. Celebrated in antiquity as a master of persuasive, plain style, his works remained models for rhetorical education for centuries.
+
 ## Text
 
 ### 1 t

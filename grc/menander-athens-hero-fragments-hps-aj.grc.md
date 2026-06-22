@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-aj` · [HTML page](https://eulogikon.org/works/menander-athens-hero-fragments-hps-aj)
 
+Fragments of Hero Known Elsewhere is a lost comedy by the Athenian playwright Menander. The work survives only in its title and seventeen brief fragmentary passages, which provide insufficient evidence to reconstruct a detailed plot. The title suggests a narrative involving a hero figure, likely treated within the parodic or domestic contexts characteristic of Menander's New Comedy. While the specific storyline remains unknown, the play would have engaged with the genre's conventional themes, such as romantic love and its impediments, familial and generational conflicts, questions of social status and identity, and the role of fortune in human affairs. Like most of Menander's corpus, the text was transmitted through fragments preserved on papyri discovered in Egypt and in quotations by later ancient authors; its survival in seventeen passages indicates a partial modern recovery from such sources. As part of Menander's influential body of work, the play belongs to the model of New Comedy that fundamentally shaped Roman comedy and, by extension, the broader European dramatic tradition.
+
 ## Text
 
 ### book 1.1

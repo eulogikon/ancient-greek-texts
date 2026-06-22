@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vdq-aa` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-declension-acute-words-vdq-aa)
 
+The grammatical treatise On the Declension of Acute Words Ending in -on by Theodosius of Alexandria systematically addresses the inflection of Greek nouns with a nominative singular in -ων bearing an acute accent. This concise, technical work is preserved within the larger corpus of Theodosius’s minor grammatical writings, typically transmitted alongside his principal work, the Canons. The text methodically presents rules for declining these nouns across all cases and numbers, exemplifying standard patterns and notable exceptions. It organizes its subject matter taxonomically, categorizing nouns by type, such as those derived from feminine nouns, toponyms, month names, common-gender terms, and ethnics, a structured approach characteristic of the Alexandrian grammatical tradition. The full text survives in Byzantine manuscripts containing collections of grammatical works, with the standard critical edition established by Alfred Hilgard in the Grammatici Graeci series. As part of Theodosius’s influential grammatical corpus, this specialized treatise contributed to the standardized pedagogy of Greek morphology. Its precise rules on accent and declension reinforced Byzantine linguistic norms, aiding the preservation and systematic study of classical texts through the Middle Ages and into the Renaissance.
+
 ## Text
 
 ### [30]

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `byu-ab` · [HTML page](https://eulogikon.org/works/democritus-abdera-underworld-soul-byu-ab)
 
+The work conventionally titled On the Underworld and the Soul is not a discrete, surviving text by the pre-Socratic philosopher Democritus of Abdera. It is a modern scholarly construct, a thematic compilation of his doctrines pieced together from fragmentary quotations and testimonia preserved by later ancient authors. Democritus, a prolific writer of the 5th and 4th centuries BCE and a principal architect of atomist philosophy, posited that all reality consists of indivisible particles, or atoms, moving in void space. Within this rigorously materialist system, he defined the soul as a composite of particularly fine, spherical, and mobile atoms. Consequently, his view of death entailed the dissolution of this atomic compound, precluding any form of personal immortality or a literal afterlife. References to Hades in the surviving fragments are thus generally interpreted by modern scholarship not as descriptions of a subterranean realm of the dead, but as ethical allegories for a life of moral and psychological wretchedness.
+
+No complete work by Democritus survives. Our knowledge derives entirely from secondary sources, including over four hundred fragments and reports collected from authors such as Aristotle, Sextus Empiricus, Plutarch, and the anthologist Stobaeus. These fragments reveal a wide-ranging intellect who applied his atomic theory to ethics, advocating for a state of tranquility, or euthymia, achieved through moderation, intellectual cultivation, and freedom from irrational fears, including the terror of divine retribution after death. His physical and ethical theories were critically adopted and developed by Epicurus in the following century and were later given powerful poetic expression by Lucretius, securing Democritus's enduring influence on the history of materialist and scientific thought.
+
 ## Text
 
 ### tit,0a-4a

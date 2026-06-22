@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bok-aa` · [HTML page](https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-aa)
 
+The Epic Fragments represent the scant surviving verses of Panyassis of Halicarnassus, a Greek epic poet of the early fifth century BCE. A relative of the historian Herodotus, Panyassis is chiefly remembered for his major composition, the Heraclea, a fourteen-book epic in dactylic hexameter detailing the life and labors of Heracles. A smaller, regionally focused epic, the Ionica, which treated Ionian foundation myths, is also attested. Of this substantial body of work, only minute portions remain: sixty-one fragments comprising approximately seventy lines, preserved solely as quotations in the works of later authors. Given that the original Heraclea spanned an estimated nine thousand lines, these fragments provide merely a fleeting impression of its narrative scope and poetic style. Composed in Halicarnassus during a period marked by Persian hegemony and Ionian revolt, Panyassis’s career ended with his reported execution by a local tyrant for political reasons. His poetry belongs to a later phase of the epic tradition, following the Homeric model. Modern scholarship often views the Heraclea as crafted for a broad, Panhellenic audience, whereas the Ionica likely functioned to reinforce a distinct Ionian cultural identity. In antiquity, Panyassis was held in high esteem, counted among the five canonical epic poets by the scholars of Alexandria. However, the near-total loss of his texts obscures any direct assessment of his influence on subsequent literature.
+
 ## Text
 
 ### book 2

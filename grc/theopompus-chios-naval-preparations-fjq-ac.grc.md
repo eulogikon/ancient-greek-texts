@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fjq-ac` · [HTML page](https://eulogikon.org/works/theopompus-chios-naval-preparations-fjq-ac)
 
+The work known as the Fragments on Naval Preparations is attributed to the historian Theopompus of Chios. This attribution is highly anomalous, as Theopompus, who flourished in the fourth century BCE, is exclusively known as a prose author, renowned for his extensive historical works the Hellenica and the Philippica. No substantive content from a work under this title is recorded in the extant testimonia concerning Theopompus or in standard scholarly reference works. The title itself suggests a technical subject pertaining to naval logistics, a theme entirely unattested within the corpus of his surviving historical fragments, which are characterized instead by moralizing commentary and discursive digressions. Theopompus's major works survive only as quotations in later authors such as Athenaeus and Plutarch; the Fragments on Naval Preparations is not mentioned among these citations. Consequently, the manuscript tradition, content, and indeed the very existence of this purported work remain unverified. Its significance is therefore questionable, and Theopompus's enduring historical importance rests solely on his prose fragments, which provide vital evidence for the political and cultural history of classical Greece.
+
 ## Text
 
 ### book 382bis.1

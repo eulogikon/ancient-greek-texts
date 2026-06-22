@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `siy-ab` · [HTML page](https://eulogikon.org/works/himerius-fragments-p-oslo-1478-siy-ab)
 
+Fragments P. Oslo Inv. 1478 consist of a late 4th- or early 5th-century CE papyrus codex held at the University of Oslo. It preserves portions of orations by the sophist Himerius, representing one of the oldest witnesses to his texts. The fragments include parts of several declamations, such as a panegyric for Emperor Julian and a monody, or lament, for his wife, Eusebia. Editorial annotations in the papyrus suggest it functioned as a working or teaching copy. The content reflects key themes of late antique sophistic oratory, including imperial panegyric praising Julian’s virtues and leadership, the expression of grief in lament, and the demonstration of rhetorical skill through an Atticizing prose style modeled on classical orators and the poet Pindar. The text’s annotations further indicate its use as a pedagogical resource for rhetoric, underscoring the role of paideia, or education, in this period.
+
+Himerius’s works survive only fragmentarily, primarily through excerpts in the 9th-century Byzantine Bibliotheca of Photius and in papyri such as this one. This papyrus provides a crucial late-antique witness, offering a direct comparison to Photius’s later excerpts. Most of Himerius’s original corpus, which included some 75 speeches, is now lost. These fragments are vital for understanding the later phase of the Second Sophistic. They illuminate the intellectual and political milieu of the 4th century, particularly the pagan revival under Emperor Julian, and serve as a model of Atticizing rhetorical style. For textual scholars, the papyrus is also a primary source for studying scribal practices and the transmission of Greek rhetorical texts from antiquity.
+
 ## Text
 
 ### f.(112)

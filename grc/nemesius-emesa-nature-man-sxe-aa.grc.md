@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sxe-aa` · [HTML page](https://eulogikon.org/works/nemesius-emesa-nature-man-sxe-aa)
 
+On the Nature of Man is a philosophical and theological treatise composed in Greek by Nemesius, Bishop of Emesa, around the turn of the fifth century CE. The work offers a systematic and comprehensive examination of human nature, synthesizing principles from Greek medicine, Neoplatonic and Aristotelian philosophy, and Christian doctrine into a cohesive anthropological framework. Structured in 43 chapters, it proceeds methodically from an analysis of the physical body and its physiological functions to a detailed inquiry into the faculties and substance of the soul, concluding with extensive discussions on free will, fate, and divine providence.
+
+Surviving in its entirety, the treatise stands as a significant document of late antique thought, exemplifying the sophisticated engagement of educated Christian authors with the Hellenic intellectual tradition. Nemesius’s primary aim appears to have been the construction of a unified Christian anthropology capable of critically integrating the most valuable insights of pagan science and philosophy, likely for the benefit of a learned Christian readership. A central organizing concept is the depiction of the human being as a microcosm, a miniature reflection of the entire cosmos that uniquely encompasses all levels of creation, from the material to the rational and spiritual. This synthesis proved highly influential, enjoying wide circulation and authority in the Byzantine world. Through later Latin translations, its ideas profoundly shaped the development of medieval scholastic thought on human nature and psychology.
+
 ## Text
 
 ## Νεμεσίου ἐπισκόπου Ἐμέσης λόγος κεφαλαίωδης περὶ φύσεως ἀνθρώπου Τὸν ἄνθρωπον ἐκ ψυχῆς νοερᾶς καὶ σώματος ἄριστα κατεσκευασμένον καὶ οὕτω καλῶς ὡς οὐκ ἐνεδέχετο ἄλλως γενέσθαι συνεστάναι, πολλοῖς καὶ ἀγαθοῖς ἀνδράσιν ἔδοξεν.

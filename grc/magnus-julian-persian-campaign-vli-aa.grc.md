@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vli-aa` · [HTML page](https://eulogikon.org/works/magnus-julian-persian-campaign-vli-aa)
 
+Overview On Julian’s Persian Campaign (Ἀπόσπασμα) is a fragmentary Greek prose history attributed to Magnus, an otherwise unknown author. Its title, meaning “Excerpt,” and its survival as two passages indicate its incomplete state. The work concerns the Roman Emperor Julian’s invasion of the Sassanian Persian Empire in 363 CE, which ended with his death during the retreat.
+
+Content The extant fragments focus on:
+
+The military narrative of Julian’s Persian campaign.
+
+The actions and reign of Emperor Julian.
+
+The broader context of 4th-century CE Roman-Persian conflict.
+
+Transmission The work survives only as excerpts, suggesting preservation within a later Byzantine compilation or anthology. No details of its manuscript tradition or the original text’s scope are known.
+
+Significance If authentic, these fragments contribute a potentially independent source to the historiography of a pivotal late Roman military event, complementing accounts by participants like Ammianus Marcellinus. Their value lies in their comparison to these more extensive narratives.
+
 ## Text
 
 ### 1 (t)

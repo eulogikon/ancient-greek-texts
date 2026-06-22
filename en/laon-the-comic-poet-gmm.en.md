@@ -19,8 +19,8 @@ Laon was a Greek comic poet of the 4th or 3rd century BCE. Two surviving works a
 
 ## Works
 
-- [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-comic-boeotia-character-gmm-aa.grc.md) — *Ἀποσπάσματα* · `gmm-aa`
 - [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-comic-boeotia-character-gmm-ab.grc.md) — *Ἀποσπάσματα* · `gmm-ab`
+- [On Boeotia and Character](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-comic-boeotia-character-gmm-aa.grc.md) — *Ἀποσπάσματα* · `gmm-aa`
 
 ## License and provenance
 

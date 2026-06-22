@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mwq-ac` · [HTML page](https://eulogikon.org/works/bion-smyrna-seasons-dialogue-mwq-ac)
 
+The Pastoral Dialogue on the Seasons is a collection of pastoral fragments traditionally ascribed to the Hellenistic poet Bion of Smyrna, who flourished around 100 BCE. More accurately known by its Greek title Apospásmata, meaning "Extracts," the work comprises 79 surviving passages that idealize the rustic world of shepherds. Written in the literary Doric dialect characteristic of the bucolic genre, these verses present dialogues, singing contests, and laments centered on themes of love, nature, and mythology. The collection does not form a single coherent narrative but is a compilation of excerpts preserved by later anthologists, most notably Stobaeus. As a later follower of the pastoral tradition established by Theocritus, Bion crafted these refined works for a sophisticated, urban audience, emphasizing erotic desire and pastoral lament. His style in these fragments, alongside his more famous complete poem, the Lament for Adonis, subsequently influenced Roman poets such as Virgil. The transmission of his poetry remains fragmentary, with no single manuscript preserving the original complete work.
+
 ## Text
 
 ### book 1.1

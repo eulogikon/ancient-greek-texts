@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-ak` · [HTML page](https://eulogikon.org/works/suda-lambda-wus-ak)
 
+The lambda section of the Suda contains 882 entries ranging from brief one-word glosses to extended grammatical and literary discussions. Early entries address the noun λᾶας (stone), citing poetic sources and working through its declensional forms, while λαβαί receives an extended treatment connecting vessel handles, figurative meanings, and zoomorphic imagery.
+
+Among the more substantive entries, λῆμα (λ 441–443) accumulates several distinct senses — courage, profit, prophetic utterance — and quotes Aristophanes' Νεφέλαι directly, illustrating how the Suda weaves comedy into lexicographic argument. λ 880 preserves the proverb λύχνον ἐν μεσημβρίᾳ ἅπτεις ("you light a lamp at noon"), applied to those who act at an inopportune moment.
+
+The letter closes with a cluster of entries on lamp-related vocabulary (λυχνιτάριον, λυχνοῦχος, λύχνων ἁφάς), useful for historians of material culture. Across the section, proper names such as Λαβίνιος appear alongside grammatical labels like αὐθυπότακτον, reflecting the Suda's characteristic blend of encyclopedic and strictly lexical material.
+
 ## Text
 
 ### λ 1

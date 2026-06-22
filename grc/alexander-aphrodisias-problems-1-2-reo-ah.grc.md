@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-ah` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-problems-1-2-reo-ah)
 
+The Problems is a philosophical treatise by Alexander of Aphrodisias, composed in Attic Greek around 200 CE. Structured in two books containing 196 self-contained entries, the work belongs to the established problemata genre. Each entry presents a specific puzzle, typically concerning natural or psychological phenomena, followed by its solution according to Aristotelian principles. The scope is broad, with a predominant focus on natural philosophy, explaining biological and physical puzzles such as animal morphology and plant characteristics, and on psychology, addressing topics like perception, memory, and sleep. Alexander wrote the text while holding the publicly funded chair of Aristotelian philosophy in Athens. Modern scholarship interprets the Problems primarily as a pedagogical tool for advanced students within the Peripatetic school, designed to hone analytical skills through the systematic application of Aristotle's doctrines to perplexing questions. The work often engages critically with rival philosophical positions, particularly those of the Stoics. Transmitted intact through a manuscript tradition anchored by a 14th-century Greek codex, the treatise proved influential, being translated into Arabic and Latin and serving as a model for subsequent collections of scientific and philosophical problems.
+
 ## Text
 
 ### 1 t

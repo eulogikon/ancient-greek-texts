@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `age-aa` · [HTML page](https://eulogikon.org/works/pythermus-ephesus-historical-fragments-age-aa)
 
+The Historical Fragments attributed to Pythermus of Ephesus is a lost prose historical work known only through a handful of quotations preserved by later authors. These fragments, transmitted primarily by Athenaeus and the paradoxographer Sotion, offer brief glimpses into its content. One passage records the tyrannical rule of certain individuals in Piraeus, noting a man named Glauco who was a heavy drinker. Another, more detailed fragment describes the cultic honors paid to Themison of Cyprus, a favorite of King Antiochus. According to Pythermus, Themison was celebrated as "Themison the Macedonian, Heracles of King Antiochus," with local populations sacrificing to him as to Heracles while he presided over ceremonies dressed in a lion skin and armed with a Scythian bow and club. A further fragment presents a geographical paradox, claiming that a cup thrown into the whirlpools of the River Strymon would be found in the lake near Apollonia. The work's overall scope, date, and historiographical method cannot be determined from these scant remains, and neither Pythermus nor his history is attested in major classical reference works, leaving its significance and place within the Greek historiographical tradition obscure.
+
 ## Text
 
 ### t1-4

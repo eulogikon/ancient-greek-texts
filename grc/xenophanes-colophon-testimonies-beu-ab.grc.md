@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `beu-ab` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-testimonies-beu-ab)
 
+The Testimonies concerning Xenophanes of Colophon is a modern scholarly compilation, not an original ancient work. It assembles the ancient reports and references to the philosopher found in later Greek and Roman authors, as Xenophanes' own writings survive only in poetic fragments quoted by others. These testimonia, systematically collected in editions such as that by J.H. Lesher, provide the principal evidence for his life and doctrines. They report his famous critique of anthropomorphic religion, arguing that humans fashion gods in their own image and attribute to them their own vices. In contrast, Xenophanes posited a theology of "one god, greatest among gods and men," a non-anthropomorphic deity who moves all things by the power of mind alone. The testimonia also record his epistemological skepticism concerning the possibility of certain knowledge about the divine and the natural world, alongside various physical theories, such as the belief in an earth extending infinitely downward and his explanation of celestial phenomena as ignited clouds. These accounts are preserved indirectly through the works of later philosophers, doxographers, and commentators, including Plato, Aristotle, Sextus Empiricus, and Simplicius. Collectively, the testimonia establish Xenophanes' pivotal role as a trenchant critic of traditional mythology and a precursor to philosophical theology and naturalistic inquiry, marking a crucial transition in early Greek thought and influencing later Eleatic and skeptical traditions.
+
 ## Text
 
 ### 2

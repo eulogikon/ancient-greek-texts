@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ria-ab` · [HTML page](https://eulogikon.org/works/aelian-praeneste-nature-animals-ria-ab)
 
+On the Nature of Animals is a seventeen-book literary compilation composed in the early third century CE by the Roman author Claudius Aelian. Written in an elegant, archaizing Attic Greek, the work assembles 781 short passages detailing the remarkable characteristics and behaviors of animals, both real and mythical. It is not a systematic zoological treatise but rather a curated collection of anecdotes, thematically arranged to illustrate animal intelligence, social fidelity, and various marvels. Aelian frequently employs these stories to draw explicit moral and ethical parallels for human conduct, presenting the natural world as a source of philosophical instruction. The complete work survives through a medieval manuscript tradition, with its seventeen-book structure preserved in codices dating from the tenth and eleventh centuries. A product of the Second Sophistic, a period marked by a revival of classical Greek rhetoric and erudition, the compilation was designed to entertain and edify the educated Greek-speaking elite of the Roman Empire. It reflects contemporary intellectual interests in paradoxography—the collection of wondrous facts—and the philosophical use of nature as a mirror for human virtue.
+
 ## Text
 
 ### NA pro t

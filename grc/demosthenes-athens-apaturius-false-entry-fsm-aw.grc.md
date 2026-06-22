@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-aw` · [HTML page](https://eulogikon.org/works/demosthenes-athens-apaturius-false-entry-fsm-aw)
 
+The forensic oration Against Apaturius for False Entry, cataloged within the Demosthenic corpus as speech 33, is a plea for the dismissal of a lawsuit through a procedural device known as a paragraphē. This legal mechanism allowed a defendant to argue that a case was inadmissible based on a prior formal settlement. The speech, comprising 34 sections, was composed for a client involved in a complex maritime loan dispute. It contends that the plaintiff, a merchant from Byzantium named Apaturius, violated a binding arbitration agreement and a subsequent written release from all financial claims. The core of the argument rests on proving that Apaturius breached this prior settlement. The narrative details the original maritime loan guarantee, the subsequent losses suffered, and the private arbitration that resolved the outstanding debts. To support its case, the plea systematically presents witness testimony and documentary evidence for the formal release while attacking the credibility and motives of the plaintiff. Preserved in the medieval manuscript tradition, the work is considered spurious, likely the product of a contemporary logographer rather than Demosthenes himself. As a historical document, the oration provides valuable insight into Athenian commercial law and practice, illustrating the procedural use of the paragraphē, the role of private arbitration in resolving disputes, and the intricate networks of risk, credit, and litigation that characterized maritime trade in the fourth century BCE.
+
 ## Text
 
 ### Or33 1

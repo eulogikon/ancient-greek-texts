@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-av` · [HTML page](https://eulogikon.org/works/aristotle-history-animals-hgw-av)
 
+Aristotle's History of Animals is a monumental ten-book treatise composed in the mid-4th century BCE, representing a foundational pillar of ancient natural science. The work constitutes a systematic empirical inquiry—the Greek term historia signifying an investigation—into the entirety of the animal kingdom known to the Greek world. It catalogs and compares a vast array of creatures, including mammals, birds, fish, reptiles, and insects, meticulously documenting their anatomy, physiology, habitats, diets, reproductive methods, social behaviors, and characteristic dispositions. The treatise is organized not as a narrative but through a comparative methodology, analyzing animals by their parts, life activities, and psychological traits, thereby establishing a framework for biological classification.
+
+Serving as a comprehensive data collection, the History of Animals provides the descriptive foundation for Aristotle’s more theoretical and causal biological works, such as Parts of Animals and Generation of Animals. Its composition reflects a rigorous empirical methodology, synthesizing the philosopher’s own observations and dissections with information gathered from farmers, fishermen, hunters, and travelers. The work was likely intended for use within Aristotle’s school, the Lyceum, as a scholarly resource. While the treatise is substantially complete, scholarly consensus holds that the tenth book, which deals with human infertility, is a later addition not authentically Aristotelian. Preserved and transmitted through Byzantine, Arabic, and Latin scholarly traditions, the History of Animals remained the preeminent zoological authority for nearly two millennia, exerting a profound and enduring influence on science in the Islamic world and medieval Europe.
+
 ## Text
 
 ### [5]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mgc-aa` · [HTML page](https://eulogikon.org/works/heliodorus-athens-acropolis-mgc-aa)
 
+The work On the Athenian Acropolis is a lost topographical description attributed to the Atticist grammarian Heliodorus of Athens, who was active during the Second Sophistic period. It survives only in fragments preserved by later lexicographers and commentators, such as Harpocration and Athenaeus. These fragments indicate it was a detailed, scholarly compilation describing the monuments and statues on the Acropolis. The surviving passages suggest the work systematically catalogued statues, altars, and buildings, recording their names, dedicatory inscriptions, and histories. This content served the antiquarian interests of the Atticist movement, which sought to preserve classical Athenian heritage. The text is fragmentary, collected in modern editions like the Fragmenta Historicorum Graecorum. Its alternative title, Apospasmata, meaning "Extracts" or "Selections," likely reflects how it was transmitted through citations in later scholarly works rather than as a complete manuscript. Heliodorus’s work functioned as a reference for later grammarians explaining allusions to Athenian topography in classical texts. Its primary significance lies in its contribution to the Roman-era scholarly tradition that documented and preserved knowledge of Athens’s physical and religious antiquities.
+
 ## Text
 
 ### t1-6

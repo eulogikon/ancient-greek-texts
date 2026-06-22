@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ay` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-vice-misfortune-okg-ay)
 
+_Whether Vice Suffices For Misfortune_ is an ethical treatise by Plutarch of Chaeronea, forming part of his collected works known as the _Moralia_. The essay presents a dialectical examination of the Stoic proposition that vice alone is sufficient to constitute wretchedness, thereby engaging a central debate in Hellenistic philosophy concerning the nature of virtue and the role of external goods. Plutarch critiques the rigor of the Stoic position, arguing instead that bodily suffering and adverse external circumstances are genuine and significant components of human unhappiness. Through a series of structured philosophical arguments, he advances a Platonic-Academic perspective on happiness, or _eudaimonia_, challenging the Stoic paradoxes which hold that the soul's condition is paramount and that external events are fundamentally indifferent. The work survives intact through the Byzantine manuscript tradition of the _Moralia_ and is preserved in modern critical editions. It represents a significant contemporary critique of Stoic ethics from a rival philosophical school, contributing to the transmission and evolution of these Hellenistic debates into later antiquity and beyond, while offering an influential alternative view on the complex relationship between virtue, vice, and human flourishing.
+
 ## Text
 
 ### t 1

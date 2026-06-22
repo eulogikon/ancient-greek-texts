@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `unc-ab` · [HTML page](https://eulogikon.org/works/procopius-caesarea-secret-history-unc-ab)
 
+The Secret History is a polemical work written in Atticizing Greek by the sixth-century historian Procopius of Caesarea. It functions as a secret supplement to his official histories, offering a scathing attack on the reign of Emperor Justinian I and his wife Theodora, as well as the general Belisarius and his wife Antonina. The text is divided into thirty chapters, with the later sections dedicated to cataloging alleged tyranny, corruption, and personal depravity within the imperial court. Procopius presents it as the hidden truth he felt unable to publish during his lifetime.
+
+Composed in secret around or after 550 CE, during Justinian's reign, the work is interpreted by modern scholars as a document of political opposition, likely intended for a small, disaffected aristocratic audience in Constantinople. Its extreme vitriol contrasts sharply with the flattering portrayal found in Procopius's official works, leading to debate over whether it represents his genuine beliefs or a structured literary exercise in invective. The Secret History was unpublished in antiquity and survives primarily in a single tenth-century manuscript. It was lost for centuries and first published in 1623 following its rediscovery in the Vatican Library. Its survival in essentially one copy has prompted scholarly discussion about its authenticity, though it is generally accepted as genuine. The work has profoundly, if controversially, shaped the modern historical image of Justinian's court.
+
 ## Text
 
 ### Anec t 1

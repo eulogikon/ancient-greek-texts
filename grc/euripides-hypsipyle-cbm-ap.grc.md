@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ap` · [HTML page](https://eulogikon.org/works/euripides-hypsipyle-cbm-ap)
 
+Hypsipyle is a tragedy by Euripides, surviving only in fragmentary form. The plot centers on the myth of Hypsipyle, the former queen of Lemnos who has been enslaved and serves as the nurse to Opheltes, the infant prince of Nemea. The tragedy hinges on her brief absence from the child, whom she leaves to guide a group of warriors to a spring; during this time, the infant is killed by a serpent. The surviving fragments, which include portions of the prologue, dialogue, and choral odes, also preserve a major recognition scene in which Hypsipyle is reunited with her own long-lost sons. The play was produced posthumously in Athens, likely between 410 and 408 BCE, and is considered to have been composed for performance at the City Dionysia. Its themes explore maternal guilt, the nature of servitude, and the recovery of identity through familial restoration. Furthermore, the tragedy provides an aetiological myth for the founding of the Nemean Games, which were instituted in honor of the dead child. The text was not transmitted through the medieval manuscript tradition but is known primarily from papyrus discoveries, most notably a single roll found in Egypt, supplemented by quotations in later ancient authors. These sources allow for a partial reconstruction of the play's narrative and dramatic structure.
+
 ## Text
 
 ### unknown

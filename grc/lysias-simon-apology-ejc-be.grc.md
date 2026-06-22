@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-be` · [HTML page](https://eulogikon.org/works/lysias-simon-apology-ejc-be)
 
+The To Simon Apology is a forensic oration composed by the Athenian speechwriter Lysias around 393 BCE. Written in Attic Greek for delivery by a client in a private lawsuit, the speech defends against a charge of attempted murder brought by a plaintiff named Simon. The case originates in a violent rivalry between the two men over the affections of a youth named Theodotus. Across its thirty-eight sections, the speech constructs a detailed narrative arguing that the defendant acted solely in self-defense against Simon’s repeated drunken assaults. It recounts brawls at the youth’s lodging and describes a final, climactic confrontation near the Lyceum gymnasium, portraying Simon as the persistent aggressor.
+
+The complete text survives within the Lysianic corpus, preserved through medieval manuscript traditions. As a product of the period following the restoration of Athenian democracy, the speech provides a vivid window into the social and legal customs of the time. Modern scholarship regards it as a characteristic example of Lysias’s persuasive artistry, particularly his skill in crafting compelling character portraits for the courtroom. It also serves as a valuable historical source for understanding Athenian law concerning violence, the social dynamics of erotic rivalry, and the legal standing of resident foreigners in classical Athens.
+
 ## Text
 
 ### Or3 t

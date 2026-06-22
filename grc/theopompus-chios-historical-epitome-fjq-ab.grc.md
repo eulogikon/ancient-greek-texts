@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fjq-ab` · [HTML page](https://eulogikon.org/works/theopompus-chios-historical-epitome-fjq-ab)
 
+The Historical Epitome Fragments constitute the surviving textual evidence for the works of the fourth-century BCE Greek historian Theopompus of Chios. These fragments, numbering in the hundreds, are not derived from a single manuscript but are quotations and excerpts preserved by later ancient authors, lexicographers, and Byzantine scholars. They originate from Theopompus’s two major, now-lost historical works: the Hellenica, which continued the narrative of the Peloponnesian War from the point where Thucydides’s account ended, and the far more extensive Philippica, a monumental history in fifty-eight books focused on the reign of Philip II of Macedon. The Philippica was notable for its broad geographical and thematic scope, incorporating lengthy digressions on the ethnography, customs, and histories of various peoples encountered during Philip’s expansion.
+
+The fragments reveal Theopompus’s primary concerns with political and military narrative, executed in an elaborate rhetorical style. His writing is characterized by strong moralizing judgments, offering severe critiques of contemporary leaders and states. Modern interpretation views his work as a critical examination of the Greek world during its pivotal transition from the era of independent city-states to the ascendancy of Macedonian hegemony. The inclusion of scandalous anecdotes and pointed criticism is often seen as a deliberate historiographical method to underscore themes of moral and political decline. Written for an educated audience well-versed in historical prose, Theopompus’s histories provided a sweeping, if censorious, account of a transformative age in Greek history.
+
 ## Text
 
 ### 2b,115,F 1

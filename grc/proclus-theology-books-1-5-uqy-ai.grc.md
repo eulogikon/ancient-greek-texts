@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ai` · [HTML page](https://eulogikon.org/works/proclus-theology-books-1-5-uqy-ai)
 
+The Platonic Theology is a six-book treatise composed in the 5th century CE by Proclus, the head of the Platonic Academy in Athens. Written in Attic Greek, this systematic work of philosophical theology aims to construct a complete metaphysical hierarchy derived from the dialogues of Plato. The first five books establish the foundational structure of this system, commencing with arguments for the supreme and ineffable first principle, known as the One. From this apex, the treatise methodically details the descending levels of divine reality, moving from the transcendent Henads—unified divine unities—through successive orders of gods, down to those divinities responsible for the generation and governance of the physical cosmos. The work is organized as a rigorous deductive exposition, proceeding from the most unified and abstract principles to their more multiple and manifested derivatives.
+
+Modern scholarship interprets the Platonic Theology as Proclus's mature effort to defend and systematize pagan theology in the face of Christianity's rising dominance, thereby positioning Plato as the preeminent theological authority. It was composed for an advanced audience within the Neoplatonic school, synthesizing earlier philosophical traditions into a comprehensive and grand metaphysical schema. The complete text survives primarily through a 10th-century Byzantine manuscript. Its translation into Latin during the Renaissance facilitated its significant influence on subsequent Western esoteric and philosophical thought.
+
 ## Text
 
 ### 1

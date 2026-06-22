@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-ac` · [HTML page](https://eulogikon.org/works/appian-alexandria-letter-fronto-pdc-ac)
 
+The Letter of Appian to Fronto is a brief Greek prose epistle composed by the historian Appian of Alexandria, most likely during the 160s CE. It is addressed to the renowned orator and imperial tutor Marcus Cornelius Fronto. The letter functions as a direct petition for literary patronage, wherein Appian requests Fronto to employ his considerable influence at the court of Emperor Marcus Aurelius to secure an audience for Appian’s magnum opus, the twenty-four-book Roman History. The text artfully operates within the established Roman conventions of the client-patron relationship, with Appian casting himself as a supplicant seeking the support of a powerful intermediary. He employs rhetorical arguments, drawing parallels between the acceptance of gifts by cities and gods and the propriety of a friend accepting a favor from a friend, to persuade Fronto to act on his behalf.
+
+This personal appeal offers a valuable window into the practical mechanics of literary and political life during the High Roman Empire. Appian, a Greek intellectual from Alexandria who had attained Roman citizenship and served as an imperial administrator, utilized such correspondence to navigate the highest echelons of power. For modern scholarship, the letter is a crucial document for understanding the methods by which provincial intellectuals sought advancement and recognition in Rome. It also provides important evidence for dating Appian’s career and the publication of his historical project. The work survives in its complete form and is universally considered authentic, preserved within the medieval manuscript tradition of Appian’s Roman History, most notably in the eleventh-century Codex Vaticanus Graecus 141.
+
 ## Text
 
 ### [5]

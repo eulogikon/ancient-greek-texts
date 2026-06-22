@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fbe-ac` · [HTML page](https://eulogikon.org/works/ephorus-cyme-harmonia-fbe-ac)
 
+The Fragments on Harmonia consist of surviving excerpts attributed to the fourth-century BCE historian Ephorus of Cyme. These prose passages, which concern the mythological figure Harmonia, were not an independent work but originated within Ephorus’s lost universal history, the Histories. The fragments present an alternative genealogical tradition, identifying Harmonia—the wife of the Theban founder Cadmus—as a daughter of Zeus and Electra, rather than of Ares and Aphrodite as in more common versions. The text may also have referenced the ill-fated necklace that became central to the tragedies of her descendants.
+
+Only a handful of these fragments are extant, preserved entirely through citation by later authors such as the geographer Strabo and the mythographer Apollodorus. Scholars view these passages as representative of Ephorus’s methodological approach, which sought to systematize and occasionally rationalize mythical narratives within a coherent historical framework. Composed for an audience receptive to a historical treatment of legendary material, the fragments now survive solely due to the selective quotation practices of later compilers who valued Ephorus as an authoritative source.
+
 ## Text
 
 ### 120b1

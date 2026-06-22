@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-by` · [HTML page](https://eulogikon.org/works/alchemist-i-treatise-rrg-by)
 
+The Alchemical Treatise is a Greek alchemical work attributed to the pseudonymous author known as Alchemist I, one of several anonymous figures within the surviving corpus of ancient technical literature. The text consists of approximately one hundred passages containing practical laboratory instructions for processes such as the purification and hardening of metals like lead and tin, theoretical discussions on the nature of matter, and allegorical interpretations of these operations. Its content reflects the core themes of the Greek alchemical tradition, including the transformation and refinement of substances, theories related to the four elements and their qualities, the pursuit of the transmuting agent known as the xērion, and techniques for dyeing or alloying metals to imitate gold and silver. The treatise survives as part of the larger corpus of Greek alchemical writings preserved in medieval manuscripts, most notably within the compilations of the Codex Marcianus graecus 299 in Venice and the Codices Parisini graeci 2325 and 2327 in Paris. These manuscripts transmitted a body of often pseudonymous, incomplete, and interpolated works. As a component of this tradition, the treatise played a role in the transmission of alchemical knowledge into the medieval Islamic world and later into Latin Europe, where its concepts contributed to the broader stream of thought that fueled the development of Western alchemy and the early foundations of chemistry.
+
 ## Text
 
 ## PAPURVS LEIDENSIS Μολίβου κάθαρσις καὶ σκλήρωσις.

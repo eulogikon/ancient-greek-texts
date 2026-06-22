@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ag` · [HTML page](https://eulogikon.org/works/hero-alexandria-geometrical-works-odi-ag)
 
+The Geometrical Works is a practical mathematical treatise attributed to Hero of Alexandria, a Greek engineer and mathematician who flourished around 60 CE during the early Roman Empire. Written in Koine Greek, the work is a systematic collection of 482 geometric propositions. Its primary focus is mensuration—the practical calculation of lengths, areas, and volumes—for shapes ranging from simple triangles to complex solid bodies. The text functions as a handbook, providing problems and solutions with numerical examples for tasks like dividing plots of land or calculating the dimensions of structures. The work survives largely intact through Greek manuscripts, preserving its comprehensive structure. Modern scholars interpret it as a key resource for surveyors, architects, and engineers of its time, reflecting the applied Hellenistic scientific tradition under Roman rule. It is thought to have been written for practitioners needing ready formulas for construction, land division, and taxation, emphasizing computation and problem-solving over theoretical proof. While building on the theoretical geometry of Euclid, Hero’s treatise is valued as a crucial document for understanding the everyday application of mathematics in the ancient world.
+
 ## Text
 
 ### 1 1 (t)

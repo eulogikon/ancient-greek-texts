@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ak` · [HTML page](https://eulogikon.org/works/aristotle-movement-animals-hgw-ak)
 
+On the Movement of Animals is a concise treatise by Aristotle that systematically investigates the physiological and psychological causes of animal locomotion. The work, consisting of thirteen chapters, occupies a pivotal position within the Aristotelian corpus, forming a conceptual bridge between his psychological theories outlined in De Anima and his detailed empirical biological studies. Its central inquiry is the common cause of all types of animal motion, including walking, flying, swimming, and crawling.
+
+Aristotle’s analysis posits that animal movement originates in a coordinated operation of the soul’s faculties, specifically desire and cognition. Perceiving or imagining a desirable object initiates a process wherein a physiological change occurs in the connate pneuma, or innate breath, located in the heart. This altered pneuma then transmits motion mechanically to the limbs, a process Aristotle elucidates through the analogy of a lever, where one part of the body must remain at rest to allow another part to move. The treatise develops this psychophysical causal chain, identifying the soul as the ultimate unmoved mover within the animal while providing a teleological framework that explains movement as directed toward specific goals. Later chapters apply this general theory to the mechanics of specific locomotive modes.
+
+The work survives complete within the standard medieval manuscript tradition of Aristotle’s writings and is routinely included in modern collections of his biological and psychological works. Historically significant for its naturalistic and integrated account of animal motion, On the Movement of Animals avoids a strict mind-body dualism by linking intentional states directly to material mechanisms. Its concepts, particularly the theory of pneuma and the use of mechanical analogy, exerted a considerable influence on later Hellenistic and medieval medical and physiological theories. It remains an essential text for understanding Aristotle’s philosophy of mind and his interdisciplinary approach to the study of living beings.
+
 ## Text
 
 ### MA 698a (t)

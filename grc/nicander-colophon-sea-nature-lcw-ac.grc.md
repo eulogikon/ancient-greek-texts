@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcw-ac` · [HTML page](https://eulogikon.org/works/nicander-colophon-sea-nature-lcw-ac)
 
+The Fragments on Sea and Nature is a modern scholarly compilation of 207 passages attributed to the Hellenistic didactic poet Nicander of Colophon. These excerpts, which do not survive as a continuous text, are preserved solely through quotation by later authors, most notably in the Deipnosophistae of Athenaeus and the lexicon of Hesychius of Alexandria. The precise scope and original title of the work from which they derive remain uncertain. The collected fragments encompass a variety of natural historical subjects, with a particular emphasis on marine biology, including descriptions of fish and shellfish, as well as terrestrial animals and plants. A significant portion of their content consists of specialized or rare vocabulary, which was of particular interest to later lexicographers and compilers. This transmission history underscores the work's primary historical significance: it exemplifies the Hellenistic era's fusion of poetic form with scholarly cataloguing and served as an important lexical repository. Its survival in fragmentary state is largely due to its utility as a source for rare terms and curiosities for grammarians and encyclopedists in antiquity. The standard critical editions of these fragments are those by Schneider from 1856 and by Gow and Scholfield from 1953.
+
 ## Text
 
 ### unit_1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ag` · [HTML page](https://eulogikon.org/works/proclus-cratylus-commentary-uqy-ag)
 
+Proclus's Commentary on Plato's Cratylus is a systematic philosophical treatise composed in the 5th century CE by Proclus Lycius, the final major scholarch of the Platonic Academy in Athens. Written in Attic Greek, the work provides an extensive exegesis of Plato's dialogue concerning the nature of language, which examines whether names possess correctness by nature or by convention. Proclus approaches the text through a distinctly Neoplatonic framework, interpreting it not merely as a linguistic inquiry but as a profound guide to understanding how divine principles are manifested and apprehended through words and symbolic systems. His analysis operates on multiple hermeneutical levels—literal, ethical, physical, and theological—thereby integrating Plato's arguments into a comprehensive metaphysical schema in which language mirrors the emanation of all reality from a single, supreme source.
+
+The complete text of the commentary is preserved through Byzantine manuscripts and a modern critical edition. It was likely composed as an advanced pedagogical instrument within the Athenian Neoplatonic school, serving to instruct students in sophisticated doctrinal synthesis while also asserting the coherence and vitality of pagan Hellenic philosophy during an era of increasing Christian cultural dominance. The work proved influential in the transmission of Platonic and Neoplatonic conceptions of language, theology, and symbolic etymology into later Byzantine and Renaissance intellectual traditions.
+
 ## Text
 
 ### in Cra tit1

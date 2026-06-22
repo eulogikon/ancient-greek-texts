@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ksc-ab` · [HTML page](https://eulogikon.org/works/epinicus-symposium-satirical-ksc-ab)
 
+The Symposium and Satirical Fragments is a collection of sixteen passages attributed to the otherwise obscure comic poet Epinicus. These fragments survive exclusively as quotations preserved in the works of later grammarians and lexicographers, who valued them primarily for their linguistic peculiarities and rare vocabulary rather than for their literary merit. The modern title suggests some of the excerpts may originate from scenes set at a symposium, or drinking party, a conventional setting in Greek comedy. While the specific themes and plots of Epinicus's lost plays are unknown, the comic genre implies his work likely engaged with typical subjects such as social satire, political invective, or domestic intrigue. There is no independent manuscript tradition for his works; they are known only through this indirect transmission and are compiled in modern scholarly editions. Epinicus himself is absent from major historical and literary sources, and his significance lies almost entirely in his utility to ancient scholars as a source for the Attic Greek lexicon, with no evidence of any broader literary influence.
+
 ## Text
 
 ### book 1.1

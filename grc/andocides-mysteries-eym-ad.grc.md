@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eym-ad` · [HTML page](https://eulogikon.org/works/andocides-mysteries-eym-ad)
 
+On the Mysteries is a forensic oration delivered by the Athenian logographer Andocides in 399 BCE. The speech constitutes his defense against a charge of impiety, specifically the profanation of the Eleusinian Mysteries and the mutilation of the Herms, which were sacred statues, during the notorious scandals of 415 BCE. Andocides argues his case before an Athenian jury by providing a detailed narrative of those events, asserting that his earlier incriminating testimony was given under an official grant of immunity. He further contends that the present prosecution violates the terms of a general amnesty enacted in 403 BCE following the restoration of democracy, portraying the trial as a politically motivated attack by personal enemies. The complete text, structured in 125 sections, survives within the corpus of the Ten Attic Orators. It is regarded by scholars as an authentic and invaluable primary source, offering critical insight not only into the historical religious scandals but also into the operation of the Athenian legal system and the fraught political atmosphere in the years after the Peloponnesian War and the rule of the Thirty Tyrants. The oration is considered a calculated effort by Andocides to secure his legal exoneration and rehabilitate his social standing within the revived democracy.
+
 ## Text
 
 ### Myst t

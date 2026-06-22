@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `buo-ad` · [HTML page](https://eulogikon.org/works/sophocles-oedipus-king-buo-ad)
 
+Oedipus the King, also known as Oedipus Tyrannus, is a tragedy by the Athenian playwright Sophocles. Composed in Attic Greek verse for performance at the City Dionysia, the play dates to the latter half of the 5th century BCE, most likely between 429 and 420 BCE. Its dramatic action unfolds as Oedipus, the ruler of Thebes, pledges to discover the source of a plague afflicting the city. His determined inquiry becomes a relentless investigation into his own past, culminating in the horrific revelation that he has unknowingly fulfilled a prophecy by killing his father, Laius, and marrying his mother, Jocasta. The play is structured conventionally with a prologue, parodos, five episodes separated by choral odes, and an exodos, comprising 1,536 lines.
+
+As one of only seven complete Sophoclean tragedies to survive from antiquity, its text has been transmitted through a manuscript tradition whose most significant witnesses date from the 10th century CE and later. The textual transmission is considered relatively secure, with the work surviving largely intact. Modern scholarship often interprets the play’s potent themes of civic plague, political pollution, and destabilizing secrets against the historical backdrop of the Peloponnesian War and the devastating plague that struck Athens in 430 BCE. A foundational work of Western literature, Oedipus the King is a profound exploration of fate, free will, the limits of human knowledge, and the catastrophic price of pursuing truth.
+
 ## Text
 
 ### 1

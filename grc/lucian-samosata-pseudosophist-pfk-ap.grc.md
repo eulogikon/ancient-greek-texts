@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ap` · [HTML page](https://eulogikon.org/works/lucian-samosata-pseudosophist-pfk-ap)
 
+The Pseudosophist or Solecist is a short satirical oration by the second-century CE Syrian-Greek author Lucian of Samosata. Structured as a direct address and written in Attic Greek, the work targets the figure of the fraudulent intellectual, the "pseudosophist," who affects an elite education and linguistic purity but is betrayed by his fundamental ignorance and frequent grammatical errors, or solecisms. Through a comedic dialogue, Lucian exposes the pretensions of this character, demonstrating that the self-proclaimed expert cannot even recognize the very mistakes he claims to despise and detect in others. The piece blends rhetorical critique with character assassination, cataloging the hypocrisies of those who use the veneer of sophistic eloquence to mask a profound lack of genuine learning.
+
+The work is a product of the Second Sophistic, a cultural movement in which mastery of classical Attic Greek served as a primary marker of social and intellectual status. Lucian’s satire engages directly with contemporary debates about authentic intellectualism versus social climbing, reflecting anxieties about the performative nature of rhetorical education. Modern scholars regard the oration as part of Lucian’s broader critique of the vanity, pretension, and hypocrisy he perceived within the professional rhetorical culture of the Roman Empire. The text survives in full through the robust manuscript tradition of Lucian’s works, transmitted as a concise and complete example of his satirical oratory.
+
 ## Text
 
 ### Soloec t

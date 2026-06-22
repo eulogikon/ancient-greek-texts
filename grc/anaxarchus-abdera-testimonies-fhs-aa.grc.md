@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fhs-aa` · [HTML page](https://eulogikon.org/works/anaxarchus-abdera-testimonies-fhs-aa)
 
+The Testimonies is a modern scholarly compilation of the biographical anecdotes and philosophical doctrines attributed to the 4th-century BCE philosopher Anaxarchus of Abdera. As none of his original writings survive, his life and thought are reconstructed entirely from later ancient sources. The collection typically assembles approximately sixteen key passages from authors such as Diogenes Laertius, Plutarch, and Sextus Empiricus, who recorded information about him decades or even centuries after his death. These testimonies depict Anaxarchus as a companion of Alexander the Great and a philosopher connected to the Atomist tradition of Democritus, while also exhibiting strong skeptical tendencies. The reported fragments present him advocating for a profound indifference to external circumstances and casting doubt on the reliability of sensory perception and the possibility of certain knowledge. Modern scholarship regards these collected accounts as crucial, albeit indirect and sometimes biased, evidence for understanding his philosophy. They are particularly significant for tracing the intellectual lineage that contributed to the later development of Pyrrhonian Skepticism. The standard compilation of these testimonies is found in modern reference works dedicated to the fragments of the early Greek philosophers.
+
 ## Text
 
 ### 1

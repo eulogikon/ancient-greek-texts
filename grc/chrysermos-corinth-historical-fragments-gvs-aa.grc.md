@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gvs-aa` · [HTML page](https://eulogikon.org/works/chrysermos-corinth-historical-fragments-gvs-aa)
 
+The Peloponnesian Historical Fragments is a lost prose work attributed to the obscure Corinthian historian Chrysermos. It survives only in fragmentary citations by later authors, with its title indicating a collection of historical notes concerning the Peloponnese. Based on the author's origin and the surviving excerpts, the work addressed Peloponnesian and Corinthian local history and mythology. These fragments include etiological legends, such as the story of Perseus dropping the pommel of his sword, which was later found by the exiled king Gorgophonos, leading to the founding and naming of the city of Mycenae. Another fragment recounts the legendary battle between the Argives and Spartans over the Thyreatis, decided by a duel from which only two Argives and one Spartan, Othryades, survived. The work is preserved indirectly through later sources like the geographer Pausanias, who references Chrysermos for Corinthian legends, and the Byzantine encyclopedia known as the Suda, which notes a historian of this name. Chrysermos’s work served as a source for regional traditions, particularly utilized by Pausanias in his antiquarian survey of Greece. Its fragmentary survival places it within the corpus of minor Greek historians valuable for preserving local Peloponnesian lore.
+
 ## Text
 
 ### t1-2

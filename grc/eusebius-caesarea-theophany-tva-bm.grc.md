@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tva-bm` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-theophany-tva-bm)
 
+On Theophany is a theological treatise by Eusebius of Caesarea, the fourth-century bishop and historian. Written in Greek during the reign of Emperor Constantine, likely after 324 CE, the work presents a systematic defense of the Christian doctrine of the Incarnation. Its central argument is that Jesus Christ is the divine Logos, or Word, made flesh, representing the ultimate manifestation of God to humanity. Eusebius constructs his case through a synthesis of philosophical argument, historical analysis, and extensive exegesis of Hebrew scriptures, aiming to demonstrate the fulfillment of prophecy and to refute contemporary pagan and Jewish criticisms.
+
+The treatise is organized into five books. It begins by exploring the role of the divine Logos in creation and providence, proceeds to the central event of the Word becoming incarnate in Jesus Christ, and concludes with a prophetic vision of the future global triumph of the Christian faith. Scholarly analysis views On Theophany as a condensed and more accessible summation of the themes found in Eusebius's earlier, more extensive apologetic works, composed for a broad audience during a period of increasing institutional security for the Church. The complete original Greek text is lost, but the work survives substantially intact through a Syriac translation discovered in the nineteenth century, enabling its modern reconstruction. Additional fragments of the Greek original are preserved in quotations by later authors.
+
 ## Text
 
 ### 1

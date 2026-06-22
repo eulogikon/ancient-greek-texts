@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nzc-aa` · [HTML page](https://eulogikon.org/works/erotianus-hippocratic-words-nzc-aa)
 
+The Collection of Hippocratic Words is a first-century CE Greek lexicon compiled by the grammarian Erotianus. Dedicated to the Roman emperor Nero, the work was designed as a practical reference for physicians and scholars, aiming to explain difficult and obscure terms found in the ancient Hippocratic medical corpus. In his preface, Erotianus states that he undertook the project to elucidate the words in Hippocrates's writings that were unclear and had largely retreated from common usage, arguing that ignorance of these terms obstructed proper understanding while their clarification would illuminate the author's intended meaning. The lexicon alphabetically lists and defines specialized medical vocabulary, anatomical terms, and archaic words from the Ionic Greek dialect employed by Hippocrates, synthesizing interpretations drawn from earlier, now-lost Hellenistic commentaries.
+
+Only a portion of the original text survives directly. The primary manuscript preserves entries from the letters alpha through omicron, while the sections from pi to omega are lost. Fragments from these missing portions, however, have been recovered from glossaries and annotations in the margins of medieval manuscripts containing Hippocratic texts. Modern scholars regard Erotianus's compilation as a crucial window into how Hippocratic texts were studied and interpreted during the Roman period. It preserves valuable fragments of otherwise lost scholarship and remains an important tool for the historical and philological study of ancient Greek medicine.
+
 ## Text
 
 ### 29 (1t)

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emo-aj` · [HTML page](https://eulogikon.org/works/aeschylus-persians-emo-aj)
 
+Persians is a tragedy by the ancient Greek playwright Aeschylus, first performed in Athens in 472 BCE. It holds the distinction of being the oldest surviving play in the European theatrical tradition. Uniquely among extant Greek tragedies, it dramatizes a contemporary historical event: the decisive Greek victory over the Persian fleet at the Battle of Salamis in 480 BCE. Written in verse, the play presents the aftermath of this battle from the perspective of the Persian royal court at Susa.
+
+The drama unfolds as the Queen Mother Atossa and a chorus of Persian elders await news of King Xerxes' military campaign against Greece. Their anxious vigil is broken by a messenger who delivers a lengthy and harrowing account of the naval catastrophe at Salamis. In response to this disaster, the ghost of Xerxes' father, King Darius, is summoned from the underworld. Darius condemns his son's hubris and overreach, interpreting the defeat as divine punishment for Persian arrogance. The play concludes with the return of the defeated and humiliated Xerxes, who joins the chorus in a lamentation. While originally a celebration of Greek victory for its Athenian audience, the play is also a complex meditation on imperial overreach, the inevitability of divine retribution, and the universal suffering wrought by war, offering a notably sympathetic portrayal of the defeated Persians.
+
+The play survives in its complete form through the medieval manuscript tradition, most notably within a Byzantine codex from the tenth or eleventh century. Aeschylus, who fought at the battles of Marathon and Salamis, brought firsthand experience to the work. Its production was financed by the young statesman Pericles, embedding it deeply within the civic and political life of classical Athens.
+
 ## Text
 
 ### 1

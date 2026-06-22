@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kzk-ab` · [HTML page](https://eulogikon.org/works/bolus-mendes-sympathies-antipathies-kzk-ab)
 
+On Sympathies and Antipathies is a Hellenistic treatise on natural magic and occult science, originally composed in Greek around 200 BCE. Although pseudepigraphically attributed to the philosopher Democritus, its true author is identified by modern scholarship as Bolus of Mendes. The work functions as a compendium of recipes and empirical observations that catalog the hidden forces of attraction, or sympathies, and repulsion, or antipathies, believed to interconnect all elements of the cosmos. These forces were thought to govern relationships among plants, animals, minerals, and celestial bodies. The text is structured as a series of discrete entries, with one manuscript tradition organizing the material into 29 distinct passages.
+
+Synthesizing Egyptian magical lore with Greek philosophical principles, the treatise promotes a worldview of a cosmos unified by invisible correspondences. It was likely intended for a dual audience of practical practitioners and philosophical readers, offering specific formulas for purposes such as healing or protection while simultaneously articulating a coherent vision of an interconnected universe. The original work by Bolus is lost, and its contents are preserved only through later quotations and summaries found in the writings of alchemists and other authors. Through these channels, its concepts were transmitted and profoundly influenced subsequent traditions of alchemy and sympathetic magic throughout the medieval and Renaissance periods.
+
 ## Text
 
 ## Δημοκρίτου περὶ συμπαθειῶν καὶ ἀντιπαθειῶν. Ἔναγχος ἐμόχθεον ἐρευνήσας τῆς φύσεως τὸ δῶρον καὶ τῆν ἐπισκοτισμένην ἀναπτύξας τηλαυγέσι τεκμηρίοισι· βιωφελῆ πεῖραν ἔχων τε σημεῖον ἐμάς τε δυνάμεις δύναμιν ἀκάματον, ψυχὴν, δυσπαρισώτους καὶ δυσκωλύτους ἐπίγνωσιν, ἐγκυρήσας πρήγμασι πρὸς τὴν τῶν πέλας ὠφελίην καρπὸν ἀποδέδειγμαι πρὸς τὴν τῆς πολυμαθίης ἀποχήν.

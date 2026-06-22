@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `moe-aa` · [HTML page](https://eulogikon.org/works/apollodorus-artemita-historical-parthia-moe-aa)
 
+The Historical Fragments on Parthia comprises a small collection of excerpts from a more extensive historical work, now lost, composed in Koine Greek by Apollodorus of Artemita. A Greek author living within the Parthian Empire during the 1st century BCE, Apollodorus wrote a history that was subsequently quoted by later geographers, most notably Strabo. Only six prose passages survive through these citations. These fragments offer valuable geographical and ethnographical information concerning the Parthian Empire and Central Asia, detailing specific regions, cities, measured distances, and peoples such as the Bactrians and Sogdians. The original, presumably comprehensive history was likely intended to acquaint the Greek and Roman world with the powerful Arsacid state, a principal rival to Rome. Modern scholarship regards these fragments as a vital source for understanding Greek perceptions of the Parthian Empire, particularly as they originate from an author who resided within its territory. The complete scope and original title of Apollodorus's history remain conjectural, as the text survives exclusively through these later quotations, with no manuscript of the full work extant.
+
 ## Text
 
 ### t1-7

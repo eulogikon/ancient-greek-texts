@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ax` · [HTML page](https://eulogikon.org/works/hippocrates-critical-days-bww-ax)
 
+On Critical Days is a medical treatise from ancient Greece, preserved within the collection of texts known as the Hippocratic Corpus. Although traditionally attributed to the physician Hippocrates, it is considered by modern scholars to be the work of an unknown medical writer from the 5th or 4th century BCE. Written in Ionic Greek, the text is a focused study on the theory of "critical days," which are specific points in the timeline of a disease, particularly fevers, where a patient's condition is expected to reach a decisive turning point toward either recovery or death. The treatise systematically argues that these crises occur at regular intervals, placing special importance on odd-numbered days such as the 3rd, 7th, or 11th day of illness. It combines observed patterns in disease progression with a theoretical framework influenced by the numerology of the period, associating odd numbers with more favorable outcomes. Structured in 11 passages, the work has survived intact through the medieval manuscript tradition. It was likely written for the instruction of fellow medical practitioners, emphasizing prognosis as a core skill of the ancient physician. The theory of critical days it outlines remained profoundly influential for over two millennia, shaping medical practice until the advent of modern science.
+
 ## Text
 
 ## Μέγα μέρος ἡγέομαι τῆς τέχνης εἶναι τὸ δύνασθαι κατασκοπέεσθαι περὶ τῶν γεγραμμένων ὀρθῶς· ὁ γὰρ γνοὺς καὶ χρεόμενος τούτοισιν οὐκ ἄν μοι δοκέῃ μέγα σφάλλεσθαι κατὰ τὴν τέχνην.

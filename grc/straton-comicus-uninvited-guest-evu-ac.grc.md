@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `evu-ac` · [HTML page](https://eulogikon.org/works/straton-comicus-uninvited-guest-evu-ac)
 
+The Uninvited Guest is a fragmentary Greek comedy attributed to the obscure poet Straton Comicus. The title, meaning "Fragment" or "Extract," is likely a modern descriptor rather than the play's original name. The work survives only in seventeen brief passages, precluding any reconstruction of its plot or characters. The preserved text depicts a scene of domestic confusion, where a host is confronted by an insistent and seemingly uninvited guest who interrogates him about the preparations for a dinner party, demanding to know who has been summoned and questioning the sacrificial offerings. While the specific themes of the full play remain unknown, the surviving dialogue suggests a classic comic scenario centered on social intrusion, the disruption of domestic order, and potential satire of etiquette or pretension. The comedy is preserved within standard anthologies of ancient Greek comic fragments, such as the Poetae Comici Graeci. Its transmission is typical of many lost works; the tenth-century Byzantine encyclopedia known as the Suda records Straton as a comic poet but provides no details about his individual plays. As a representative of fragmentary Greek comedy, the work contributes to the scholarly understanding of the genre's breadth and the prevalence of certain comic situations, while its survival highlights the role of later anthologists in preserving traces of otherwise lost authors.
+
 ## Text
 
 ### book 219.1

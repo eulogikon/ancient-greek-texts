@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-af` · [HTML page](https://eulogikon.org/works/appian-alexandria-italian-pdc-af)
 
+From the Italian is a fragmentary historical work composed in Greek by Appian of Alexandria during the mid-2nd century CE. It served as the introductory book to his comprehensive Roman History, intended to narrate the early history of Rome and its subjugation of the Italian peninsula before proceeding to accounts of Rome's foreign wars. The complete original text is lost; the work survives only in 32 disconnected passages preserved within thematic collections compiled by order of the 10th-century Byzantine emperor Constantine VII Porphyrogennetos. These excerpts, gathered under headings such as "On Embassies," capture moments from Appian's narrative, including episodes from the early Roman monarchy, the establishment of the Republic, and conflicts with neighboring peoples such as the Sabines and Volscians.
+
+The surviving fragments, though disjointed, provide valuable insight into Appian's historiographical method. From the Italian functioned as the essential preface to his innovative project, which organized Roman history not annalistically but around the narratives of the peoples Rome conquered. Writing as a Greek provincial and imperial official for a Greek-speaking audience within the Roman Empire, Appian used this introductory book to explain the origins of Roman power and the consolidation of Italy, reflecting a provincial perspective during a period of imperial stability. The selective nature of the preserved excerpts means the work remains a tantalizing, piecemeal record of how a 2nd-century author presented Rome's foundational myths and the early stages of its expansion.
+
 ## Text
 
 ### Ital 1 1

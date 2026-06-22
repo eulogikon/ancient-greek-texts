@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fuk-aa` · [HTML page](https://eulogikon.org/works/eudemus-rhodes-fragments-aristotelian-logic-fuk-aa)
 
+The Fragments on Aristotelian Logic is a modern scholarly compilation of 159 excerpts attributed to Eudemus of Rhodes, a direct student of Aristotle active in the late 4th century BCE. The work does not survive as a complete ancient text but is reconstructed from quotations preserved by later philosophers and commentators. These fragments, originally written in Attic Greek, derive from Eudemus's lost commentaries and treatises on core aspects of Aristotle's logic, including the categories, propositions, syllogistic reasoning, and the structure of scientific demonstration.
+
+The entirety of our knowledge of Eudemus's logical writings depends on citations found in the works of much later Neoplatonic commentators, primarily from the 3rd to the 6th centuries CE, such as Alexander of Aphrodisias, Simplicius, and John Philoponus. These later authors treated Eudemus as an authoritative early interpreter of Aristotle. The fragments reveal Eudemus as a faithful expositor and clarifier of his teacher's ideas, working within the early Peripatetic school to explain and systematize Aristotle's logical theories. His work is considered a crucial intellectual link, helping to transmit and solidify the understanding of Aristotelian logic for later antiquity and, indirectly, for subsequent medieval philosophical tradition.
+
 ## Text
 
 ### 7

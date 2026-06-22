@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gfo-aa` · [HTML page](https://eulogikon.org/works/sophilus-symposium-gluttony-gfo-aa)
 
+The Symposium and Gluttony Fragments comprise fourteen brief passages attributed to Sophilus, a poet of Athenian Old Comedy. These fragments, often consisting of just a few words or lines, survive exclusively as quotations in later authors, most notably within Athenaeus's Deipnosophistae. They are believed to originate from one or more lost plays whose plots and structures are now entirely unknown. The content of the fragments is uniformly focused on sympotic and culinary life, detailing specific foods like salt-fish and various breads, referencing cooking implements such as the frying-pan, and evoking the social atmosphere of the drinking party. Their transmission is entirely indirect, preserved through the excerpting practices of grammarians and compilers like Athenaeus in the 2nd and 3rd centuries CE and later ordered in modern scholarly editions. Though the direct literary influence of Sophilus cannot be traced, these fragments hold significance for the historical study of Old Comedy, providing a concrete, if minute, counterpoint to the works of better-known rivals like Cratinus. They offer valuable, tangible evidence of the genre's engagement with the daily material culture of ancient Greece, yielding insights into ancient gastronomy and social customs.
+
 ## Text
 
 ### book 3

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hte-aa` · [HTML page](https://eulogikon.org/works/aratus-soli-fragments-hte-aa)
 
+The Fragments and Titles attributed to Aratus of Soli constitute a modern scholarly compilation of remnants from his lost works, rather than an ancient, coherent treatise. Aratus's enduring fame rests solely on his complete didactic poem, the Phaenomena. The collection assembles fragmentary passages and references preserved indirectly from his otherwise unpreserved oeuvre. While the specific subjects of these fragments are not detailed, as the author of the Phaenomena, Aratus's lost works likely engaged with related themes such as astronomy, celestial cartography, didactic poetry on natural phenomena, and Stoic conceptions of a divinely ordered cosmos. These fragments survive through the indirect tradition, having been quoted by later authors or possibly recovered from papyri; their assembly under the title "Fragments and Titles" is a contemporary editorial construct for organizing these scattered remnants. The significance of Aratus lies almost entirely in the influence of the Phaenomena, which was widely translated and commented upon from antiquity through the Byzantine era. The fragments themselves, due to their scant and disjointed nature, have exerted no discernible influence on the later tradition.
+
 ## Text
 
 ### 95.(t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dum-aa` · [HTML page](https://eulogikon.org/works/eupolis-athens-comic-rural-life-dum-aa)
 
+The Comic Fragments on Rural Life is a modern scholarly assemblage of passages attributed to the Athenian playwright Eupolis, a major figure of Old Comedy active during the late fifth century BCE. No complete play by Eupolis survives; his corpus is known only through 692 fragments preserved in quotations by later ancient authors and on papyri, of which those depicting rustic themes have been grouped under this title. These excerpts originate from various lost comedies, including Demes and Maricas, which featured rural settings and characters. The fragments frequently juxtapose the integrity and labor of the farmer against the corruption of urban politicians and sophists. This contrast is widely interpreted by scholars as a reflection of the Peloponnesian War period, during which the Attic countryside was repeatedly invaded and its agricultural population severely displaced. The comedy thus employed an idealized vision of rural virtue to satirize contemporary political life and to mourn the social upheavals of the conflict. The intended audience was the broad Athenian public gathered for civic dramatic festivals. The transmission of these texts is entirely fragmentary, relying on indirect preservation through citations in later Greek and Roman writers and direct survival via papyrus discoveries in Egypt. This patchwork record makes the work of Eupolis particularly valuable to historians, as it provides complementary insights into Athenian society and Old Comedy beyond the more complete surviving plays of his contemporary, Aristophanes.
+
 ## Text
 
 ### book 1.1

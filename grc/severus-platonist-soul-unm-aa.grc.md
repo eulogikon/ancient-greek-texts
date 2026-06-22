@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `unm-aa` · [HTML page](https://eulogikon.org/works/severus-platonist-soul-unm-aa)
 
+On the Soul by Severus the Platonist is a lost philosophical treatise known only through two brief fragments preserved in the 5th-century CE commentary on Plato’s Timaeus by Proclus. These fragments indicate the work was a technical engagement with core Platonic doctrines concerning the soul’s nature and ontological status. The extant passages address the soul’s incorporeal essence, defining it not as a physical magnitude but as a substance constituted by its fundamental powers, specifically life, knowledge, and self-motion. They also discuss the composition of the World Soul, described as being woven from the Platonic principles of Sameness, Difference, and Being, as outlined in the Timaeus. The treatise survives solely through these verbatim quotations in Proclus’s work and possesses no independent manuscript tradition. Severus’s arguments, likely formulated between the 2nd and 4th centuries CE, were incorporated authoritatively by Proclus into later Neoplatonic metaphysics. His definition of the soul as a substance of powers was used to argue against corporealist interpretations and proved influential in the development of late antique Platonic psychology.
+
 ## Text
 
 ### 204,2

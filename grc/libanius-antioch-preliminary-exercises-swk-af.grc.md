@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-af` · [HTML page](https://eulogikon.org/works/libanius-antioch-preliminary-exercises-swk-af)
 
+The Preliminary Exercises is a comprehensive textbook of model rhetorical compositions written in Attic Greek by the fourth-century CE sophist Libanius of Antioch. As a work of progymnasmata, it belongs to the genre of standardized, graded exercises that formed the core of ancient education, bridging the study of basic grammar and advanced speechwriting. The work is structured as a progression through eleven or twelve classic exercise types, beginning with simple forms like fable and narrative and advancing to complex ones such as argumentative thesis and vivid description. The collection contains 1,107 individual passages, making it one of the most extensive surviving sets of its kind. Libanius composed this work for use in his prestigious school in Antioch, where it was designed to train students in the foundational skills of argumentation, stylistic imitation of classical authors, and literary composition, thereby preparing them for careers in law, administration, and public speaking. The text survives in full, transmitted through the large corpus of Libanius’s works. Its preservation is attributed to his enduring reputation as a master of style, and the exercises remained an influential pedagogical tool in Byzantine education for centuries, shaping the rhetorical habits of the educated elite.
+
 ## Text
 
 ### Prog 1 t 1

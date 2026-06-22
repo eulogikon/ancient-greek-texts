@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ca` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-impossibilities-okg-ca)
 
+The SelectiImpossibilities is a short prose treatise traditionally attributed to Plutarch of Chaeronea. Preserved within his Moralia, it is a doxographical collection of twenty-one brief passages, each presenting a paradoxical statement from a pre-Socratic or Hellenistic philosopher followed by a clarifying explanation. The work compiles philosophical impossibilities, such as the claim attributed to Anaxagoras that snow is black. Its entries address topics in natural philosophy, including elements, void, and motion, and also incorporate ethical maxims and logical puzzles from Stoics like Zeno and Chrysippus. The text aims to resolve these apparent absurdities by elucidating their original technical or doctrinal context. Transmitted complete through the manuscript tradition of Plutarch's Moralia and appearing in standard modern editions, its authenticity is sometimes questioned, though it has been consistently preserved under Plutarch's name. This minor work exemplifies the Imperial-era genre of paradoxography, illustrating how later writers curated and simplified earlier philosophical doctrines for educational or rhetorical use. It remains a concise source for studying the reception of pre-Socratic and Hellenistic thought in later antiquity.
+
 ## Text
 
 ### 1

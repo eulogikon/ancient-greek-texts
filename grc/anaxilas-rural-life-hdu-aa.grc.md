@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hdu-aa` · [HTML page](https://eulogikon.org/works/anaxilas-rural-life-hdu-aa)
 
+Fragments on Rural Life is a modern assemblage of excerpts from the lost comedies of Anaxilas, a 4th-century BCE Athenian poet of the Middle Comedy period. The 106 surviving fragments, composed in Attic Greek verse, are united by their thematic focus on country life, featuring subjects such as farming, food, gluttony, and the satire of rustic character types. These pieces survive not as a complete play but through quotations preserved by later authors, most notably Athenaeus in his Deipnosophistae. The original dramatic context for each fragment is often lost, leaving modern readers with evocative snapshots rather than a coherent narrative. The collection provides a valuable window into Middle Comedy, a transitional period in which humor shifted away from the direct political satire of Old Comedy toward the social types and domestic scenarios that would dominate New Comedy. Scholars interpret these fragments as representative of the era's growing interest in daily life and recognizable stock characters, illustrating a key developmental stage in ancient comic theater. The intended audience was the Athenian public at dramatic festivals, where the humor relied on broadly recognizable stereotypes contrasting rural simplicity with urban sophistication.
+
 ## Text
 
 ### book 1

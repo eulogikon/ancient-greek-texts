@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `epq-aa` · [HTML page](https://eulogikon.org/works/deiochus-cyzicus-fragments-epq-aa)
 
+The Fragments on Cyzicus by the historian Deiochus is a lost local history of the Greek colony of Cyzicus on the Sea of Marmara. The work survives only through a handful of brief prose fragments preserved by later authors, most notably in the scholia to Apollonius Rhodius’s Argonautica. These excerpts provide information on the city’s mythological and historical origins, its regional relations, and associated legendary events. The fragments address the foundation of Cyzicus, local myths connected to its territory, and ethnographic details concerning the city and neighboring peoples. They notably offer variant traditions about the visit of the Argonauts, differing from the canonical poetic account by omitting the Doliones and naming an altar of Jasonian Apollo. Other fragments reference the marriage of King Cyzicus to Cleite and the attempted blocking of the city’s harbor by the Pelasgians. Transmitted entirely through quotations in later antiquarian and lexicographical sources, the fragments are collected in modern editions of Greek historical fragments. Though obscure, Deiochus’s work contributed to the corpus of local historical knowledge in antiquity and remains a valuable source for the regional traditions of the Propontis.
+
 ## Text
 
 ### t1-9

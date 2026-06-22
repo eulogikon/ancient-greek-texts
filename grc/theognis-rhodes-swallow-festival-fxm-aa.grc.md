@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fxm-aa` · [HTML page](https://eulogikon.org/works/theognis-rhodes-swallow-festival-fxm-aa)
 
+On the Rhodian Swallow Festival is a fragmentary lyric poem attributed to Theognis of Rhodes. It documents and celebrates the Rhodian Swallow Festival, a spring ritual during which children would sing door-to-door to welcome the season and solicit gifts of food and wine. The surviving passages, preserved primarily through quotations in Athenaeus's Deipnosophistae, capture the traditional call-and-response song performed by the children, which announces the swallow's arrival and humorously threatens mischief if offerings are not provided. The work serves as a valuable literary record of this local folk custom, reflecting the Hellenistic poetic interest in regional traditions and rituals. It stands as a significant, though incomplete, example of how occasional poetry could immortalize communal and seasonal practices.
+
 ## Text
 
 ### book 1.1

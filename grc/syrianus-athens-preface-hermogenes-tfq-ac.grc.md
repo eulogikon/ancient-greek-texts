@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tfq-ac` · [HTML page](https://eulogikon.org/works/syrianus-athens-preface-hermogenes-tfq-ac)
 
+Syrianus of Athens, a prominent Neoplatonist philosopher of the fifth century CE, composed a preface to the rhetorical handbook On Ideas by the second-century theorist Hermogenes of Tarsus. Written in Attic Greek, this philosophical commentary serves as an introduction that seeks to harmonize advanced rhetorical technique with Platonic metaphysics. Hermogenes' original work systematically analyzed the core "ideas" or fundamental styles of speech, such as clarity and grandeur. Syrianus, in a preface structured in seventeen passages, reinterprets these rhetorical concepts through a Neoplatonic framework, positing that they are not merely technical categories but manifestations of higher philosophical truths and divine principles. The work was composed for use within his Athenian school, intended to prepare students, including his renowned successor Proclus, to approach rhetoric not as a mere practical skill but as an integral branch of philosophical wisdom.
+
+The complete text survives through medieval Byzantine manuscripts, representing a part of the concerted effort to preserve the scholarly tradition of the Athenian Neoplatonists. Modern scholarship regards the preface as a significant exemplar of late antique paideia, or educational culture, demonstrating how philosophy in this period sought to encompass and elevate all technical disciplines. Syrianus's synthesis of rhetoric and metaphysics exerted an influence on subsequent Neoplatonist thought and, through the transmission of manuscripts, contributed to the Renaissance recovery of rhetorical theory within a broader philosophical framework.
+
 ## Text
 
 ### 96 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pmi-aa` · [HTML page](https://eulogikon.org/works/fronto-headless-letters-supplement-pmi-aa)
 
+The Supplement to Headless Letters is an epistolary work attributed to Fronto the Rhetorician, serving as an addendum to the Headless Letters, a known collection of anonymous model rhetorical letters used for educational purposes. The Supplement likely provided additional exemplary passages or explanatory notes, extending the pedagogical resource with further illustrations of epistolary rhetoric and composition. Its content would have focused on teaching effective communication through the letter format, emphasizing eloquence, structure, and diction appropriate to various situations, thereby continuing the core method of imitative learning through the analysis and emulation of model texts. The work is not widely attested in major reference sources; while the Headless Letters collection itself is documented, this specific supplement by Fronto appears obscure and its current state is unconfirmed. As part of the broader genre of rhetorical letter-writing collections, it reflects the enduring pedagogical practice of expanding core educational texts, a tradition instrumental in shaping literary and administrative communication from antiquity through the Renaissance.
+
 ## Text
 
 ### 5 t

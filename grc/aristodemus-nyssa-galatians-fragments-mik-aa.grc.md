@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mik-aa` · [HTML page](https://eulogikon.org/works/aristodemus-nyssa-galatians-fragments-mik-aa)
 
+The Fragments on the Galatians is a lost historical and ethnographic work by Aristodemus of Nyssa, known exclusively through twenty-one brief excerpts preserved in the Deipnosophistae of Athenaeus of Naucratis, who wrote in the late second or early third century CE. Athenaeus cites Aristodemus as an authority on the customs of the Galatians, the Celtic tribes that settled in central Anatolia. The surviving prose fragments are embedded within Athenaeus’s wider discussion of dining habits and focus particularly on the Galatians’ culinary and social practices. They describe the Galatians dining while seated on the ground, consuming meat and beer, and engaging in brawls during feasts, observations which served to underscore their perceived warlike character in Greek ethnographical writing. The text has no independent manuscript tradition and survives solely within the transmission history of Athenaeus’s work. It is collected as fragment 104 in Felix Jacoby’s standard modern compilation, Die Fragmente der griechischen Historiker. These fragments constitute a minor but notable source for Greco-Roman perceptions of Celtic culture and are routinely cited in modern scholarship on ancient ethnography and the history of the Galatians.
+
 ## Text
 
 ### t1a-1c

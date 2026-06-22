@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bz` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-fortune-romans-okg-bz)
 
+On the Fortune of the Romans is an essay by the Greek philosopher and biographer Plutarch, composed in Attic Greek around 96–98 CE. It forms part of his extensive collection of ethical treatises known as the Moralia. The work is structured as two connected rhetorical discourses, conventionally published as De Fortuna Romanorum I and II, which together comprise 53 passages. Plutarch directly confronts the prevailing notion that the Roman Empire was a product of mere luck or Fortune. He systematically argues that Rome’s ascendancy was instead founded upon the collective virtue, practical wisdom, and disciplined character of its people and leaders. To substantiate this thesis, he draws historical comparisons between exemplary Roman figures, such as Camillus and Scipio, and their Greek counterparts like Themistocles, suggesting a parity of moral cause behind great political success.
+
+Composed during the reign of Emperor Domitian, the essay emerges from a period when Greek intellectuals under Roman dominion were actively negotiating their cultural and political identity. Modern scholarship often situates the work within the tradition of epideictic oratory characteristic of the Second Sophistic, crafted for a sophisticated, Greek-speaking audience. It functions not merely as historical analysis but as a deliberate moral argument, promoting a philosophical perspective that attributes monumental historical outcomes to ethical causes rather than to chance. The text survives in its entirety through the manuscript tradition of the Moralia, with no significant lacunae reported. Its method of comparative ethical examination prefigures the technique Plutarch would later master in his celebrated Parallel Lives.
+
 ## Text
 
 ### t 1

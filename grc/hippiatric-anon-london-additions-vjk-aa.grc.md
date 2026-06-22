@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vjk-aa` · [HTML page](https://eulogikon.org/works/hippiatric-anon-london-additions-vjk-aa)
 
+The London Additions to the Cambridge Veterinary Texts is an anonymous Byzantine compilation of ninety-nine passages on hippiatry, or equine medicine. It functions as a supplement to a larger collection known as the Cambridge Veterinary Texts. The work provides practical diagnoses and treatments for diseases and injuries in horses, situating it within the broader corpus of Greek and Byzantine technical veterinary literature. Its content focuses on practical veterinary medicine and surgery for equine ailments, offering specific guidance on conditions such as lameness and wounds, alongside pharmacological recipes utilizing herbs and minerals. The text is preserved within the manuscript tradition of the Byzantine hippiatric corpus. Like other works in this tradition, it is a compilation whose contents are derived from earlier authorities, such as Apsyrtus and Hierocles, whose works were excerpted and collected over centuries. As part of the Byzantine veterinary tradition, this compilation was instrumental in preserving ancient Greek and Roman veterinary knowledge. These texts transmitted hippiatric science into the medieval period, influencing later Arabic and early modern European veterinary practice.
+
 ## Text
 
 ### 1

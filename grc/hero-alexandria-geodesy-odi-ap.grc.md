@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ap` · [HTML page](https://eulogikon.org/works/hero-alexandria-geodesy-odi-ap)
 
+The Geodesy is a practical Greek treatise on land surveying authored by Hero of Alexandria, a mathematician and engineer active around 60 CE. Composed as a manual of 85 sections in Koine Greek, the work provides systematic methods for measuring and calculating the area of land plots, a task essential for Roman administration, taxation, and property division. It opens with fundamental geometric definitions of points, lines, and angles before detailing techniques for both simple and irregularly shaped plots. The text explains the use of basic surveying instruments, primarily the dioptra for sighting angles and the gnomon, alongside purely geometric calculations performed with a ruler and compass. The treatise survives through later Greek manuscripts, the most significant dating to the 16th century; while the transmission likely includes scribal errors and modifications, the core content is preserved. Modern scholarship interprets the Geodesy as a paramount example of applied geometry, written for professional surveyors in the eastern Roman Empire, particularly in Egypt where accurate land assessment was economically crucial. It represents a direct link between classical geometric theory and the practical engineering needs of the Roman world.
+
 ## Text
 
 ### 1.1.(1t)

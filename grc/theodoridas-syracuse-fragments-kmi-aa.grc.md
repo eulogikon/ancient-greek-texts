@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kmi-aa` · [HTML page](https://eulogikon.org/works/theodoridas-syracuse-fragments-kmi-aa)
 
+The work Fragments and Titles comprises the surviving poetic fragments attributed to the Hellenistic poet Theodoridas of Syracuse. Preserved as quotations and references in later sources, these seven passages include epigrams and lyric pieces. Notable examples are an epitaph for the tragedian Sophocles, cited by Athenaeus, and an epigram on the poet Erinna preserved in the Greek Anthology. The fragments exhibit themes standard to Hellenistic epigram, including literary homage in memorials for Sophocles and Erinna, sympotic culture with poems suited to social drinking contexts, dedicatory and inscriptional conventions, and bucolic or pastoral elements. Theodoridas’s work survives only via fragmentary quotation, with the primary sources being the Palatine Anthology, Athenaeus’s Deipnosophists, and the Byzantine Etymologicum Magnum. There is no independent manuscript tradition; the fragments are modern reconstructions from these scattered citations. These fragments contribute to our understanding of the Hellenistic epigram tradition. His inclusion in the Greek Anthology and the quotation of his Sophocles epitaph by Athenaeus mark him as a noted, if minor, figure within the period’s literary culture, reflecting its scholarly engagement with the classical past.
+
 ## Text
 
 ### book 739

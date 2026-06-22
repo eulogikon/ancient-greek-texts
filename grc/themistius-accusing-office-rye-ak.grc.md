@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ak` · [HTML page](https://eulogikon.org/works/themistius-accusing-office-rye-ak)
 
+The oration To Those Accusing-Accepting the Office is a public defense composed by the philosopher and statesman Themistius around 355 CE. Addressed to critics in Constantinople, the speech answers charges of hypocrisy leveled against him for accepting a high political appointment from Emperor Constantius II. Themistius confronts the accusation directly, arguing that the true practice of philosophy is not compromised by public service but is rather perfected through it. He asserts that his critics misunderstand the proper work of philosophy, which he contends is not a life of isolated contemplation but one of active engagement for the common good. The oration systematically refutes the notion that accepting office betrays philosophical principles, positioning the philosopher-statesman as the ideal ruler or advisor, a concept he traces to classical models.
+
+The speech is a significant artifact of late antique political thought, demonstrating the adaptation of Greek philosophical tradition within the framework of the Roman imperial system. Themistius seeks to legitimize his own role as a senatorial official and to justify the emperor's policy of incorporating educated Greek intellectuals into the imperial administration. By framing political duty as the highest fulfillment of philosophical virtue, the work provides crucial insight into the evolving relationship between intellectual authority and political power in the fourth century. Preserved in full through medieval manuscripts such as the Parisinus graecus 12680, the oration stands as a key document for understanding the self-conception and public justification of the bureaucratic elite in the later Roman Empire.
+
 ## Text
 
 ## ΠΡΟΣ ΤΟΥΣ ΑΙΤΙΑΣΑΜΕΝΟΥΣ ΕΠΙ ΤΩΙ ΔΕΞΑΣΘΑΙ ΤΗΝ ΑΡΧΗΝ Ὅτι μὲν τηλικούτων τινὲς φιλοσοφίαν ἀξίαν ἡγοῦνται, ὥστε καὶ τὴν ἀρχὴν τὴν μεγίστην καταδεεστέραν αὐτῆς ὑπολαμβάνειν, λίαν ἐπαινῶ τοὺς ἄνδρας καὶ φιλῶ.

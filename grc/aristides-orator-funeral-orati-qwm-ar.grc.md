@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-ar` · [HTML page](https://eulogikon.org/works/aristides-orator-funeral-orati-qwm-ar)
 
+The Funeral Oration for Alexander is an epideictic oration composed in Attic Greek by the orator Aelius Aristides around the middle of the second century CE. It is a complete rhetorical exercise, meticulously structured in eleven sections according to the classical conventions of the funeral speech, or epitaphios logos. Written centuries after the death of Alexander the Great, the work artfully praises the conqueror's exemplary virtues, unparalleled military achievements, and divinely favored fortune, moving through the traditional sequence of praise, lament, and consolation. Aristides produced this oration during the Second Sophistic, a period marked by the deliberate revival of classical Greek rhetoric and cultural forms under the Roman Empire. The speech was never intended for delivery at an actual funeral; rather, it was crafted as a sophisticated display of eloquence for a learned audience of peers and patrons. Modern scholarship interprets it as a masterful demonstration of rhetorical technique and as a cultural artifact reflecting the era's profound fascination with Hellenic glory, effectively adapting a quintessentially Athenian genre to celebrate a pan-Hellenic hero. The text survives intact primarily through Byzantine manuscript tradition, most notably in the thirteenth-century Codex Laurentianus 60.3. It stands as a prime exemplar of the polished, literary epideictic oratory that characterized imperial Greek literary culture.
+
 ## Text
 
 ### [20]

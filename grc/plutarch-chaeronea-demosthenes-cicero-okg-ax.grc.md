@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ax` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-demosthenes-cicero-okg-ax)
 
+The Comparison of Demosthenes and Cicero is a concise Greek prose essay by the biographer Plutarch, composed circa 100–120 CE. It functions as the concluding epilogue to his paired biographies of the Athenian orator Demosthenes and the Roman statesman Cicero within his monumental series, Parallel Lives. The essay systematically compares the two men across a series of thematic points, evaluating their innate characters, oratorical techniques, political careers, and the circumstances of their deaths. Plutarch contrasts their natural talents, their differing use of wit and preparation in oratory, their conduct during periods of exile, and the ethical implications of their final moments.
+
+Transmitted within the manuscript tradition of the Lives as an integral part of the Demosthenes-Cicero book pair, the essay survives in its entirety. It exemplifies Plutarch's overarching aim in the Parallel Lives, which was not strict historiography but rather ethical inquiry through the comparative study of eminent Greek and Roman figures. Modern scholarship regards this specific comparison as a quintessential demonstration of his method, using the two celebrated orators to probe enduring themes such as political virtue, the caprices of fortune, and the qualities of leadership. Composed for a literate, Greco-Roman audience during the High Roman Empire, the work reflects a cultural milieu in which Greek intellectuals actively engaged with Roman history and power. Its influence has been profound, establishing a durable framework for comparing Demosthenes and Cicero that shaped Western perceptions from the Renaissance onward.
+
 ## Text
 
 ### 1 1

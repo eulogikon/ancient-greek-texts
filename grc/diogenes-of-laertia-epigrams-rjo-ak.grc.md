@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ak` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-epigrams-rjo-ak)
 
+The Epigrams constitute a collection of 153 short poems in Greek elegiac couplets, attributed to the biographer Diogenes Laërtius. Composed in the 3rd century CE, they form an integral poetic appendix to his prose work, Lives and Opinions of Eminent Philosophers. Each epigram functions as a commemorative epitaph for a specific philosopher, from Thales to Epicurus, appearing immediately after the corresponding biography. The verses aim to distill the essence of a philosopher's life, doctrine, or death into concise, memorable form. Modern scholarship interprets their purpose as providing both reflective closure to each biographical account and aligning the work with the ancient tradition of using poetry for encomium and memorial. Common themes include the celebration of wisdom, the encapsulation of philosophical teachings, and the contemplation of mortal transience contrasted with intellectual legacy. The text survives in its entirety but not independently; it is transmitted exclusively within the manuscript tradition of Diogenes Laërtius's Lives, preserved in over one hundred Greek manuscripts, the oldest of which date from the 12th century. While some scholarly debate exists regarding whether Diogenes composed all the epigrams himself or compiled pre-existing verses, they are presented as his original work within the transmitted corpus.
+
 ## Text
 
 ### book 57.1.1

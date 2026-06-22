@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ba` · [HTML page](https://eulogikon.org/works/plato-critias-ffk-ba)
 
+Critias is an unfinished Platonic dialogue and the direct sequel to Timaeus, intended as the second part of an uncompleted trilogy that would have concluded with a dialogue named for Hermocrates. Named for the Athenian politician and Plato’s relative who narrates, its primary content is Critias’s account of the ancient war between primordial Athens and Atlantis, presented as a true story passed from Egyptian priests to the lawgiver Solon. The extant text breaks off as Zeus prepares to judge the hubristic Atlanteans. The dialogue narrates the conflict between an ideal, ancient Athens—embodying Socrates’s theoretical city from the Republic—and the imperialist, maritime empire of Atlantis. Its core themes include demonstrating the ideal city as a historical reality, the corruption of Atlantis through hubris and its ensuing divine punishment, and Plato’s philosophical use of myth. The work survives incomplete within the medieval manuscript tradition of Plato’s corpus, with no separate fragments known. Critias is principally significant for introducing the legend of Atlantis into Western thought, inspiring extensive speculation and artistic adaptation. Though fragmentary, it remains a crucial component of Plato’s late project linking cosmology, politics, and history.
+
 ## Text
 
 ### Criti.106.b

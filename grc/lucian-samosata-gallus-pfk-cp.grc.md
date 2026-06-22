@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cp` · [HTML page](https://eulogikon.org/works/lucian-samosata-gallus-pfk-cp)
 
+_Gallus_, also known as _The Dream or The Cock_, is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. Structured as a comic conversation in 34 sections, it features a poor cobbler named Micyllus and his talking rooster. The rooster claims to be the reincarnated soul of the philosopher Pythagoras, a premise Lucian uses to launch a cynical critique of wealth, power, and human vanity. Through anecdotes from his supposed past lives, the rooster exposes the hidden miseries and vices of famously wealthy historical figures, contrasting their troubled existences with the cobbler’s simple and contented poverty.
+
+A product of the Second Sophistic, a period of revived Greek rhetorical culture under the Roman Empire, the work exemplifies Lucian’s characteristic blend of humor and irony to subvert philosophical pretensions. Modern scholarship often interprets _Gallus_ as a parody of Pythagorean beliefs in metempsychosis and an argument for a life of self-sufficiency, aligning it with Cynic and Skeptical schools of thought. The complete text survives through a strong manuscript tradition dating from the Byzantine period and remains intact without significant fragmentation.
+
 ## Text
 
 ### Gall t

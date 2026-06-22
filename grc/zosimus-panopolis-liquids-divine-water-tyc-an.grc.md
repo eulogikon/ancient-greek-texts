@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-an` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-liquids-divine-water-tyc-an)
 
+On That All Liquids Are Called Divine Water is a concise alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. As a foundational text of early Western alchemy, it presents a series of four arguments establishing a central tenet of the author's craft: the diverse array of fluids and solvents employed in alchemical operations—including brine, oil, honey, milk, and others—are all considered manifestations of a single, fundamental substance termed "divine water." This concept synthesizes practical laboratory knowledge with philosophical and spiritual significance, wherein the transformative liquid agent serves both as a material reagent and as a symbol for the volatile essence necessary for the purification and transmutation of matter.
+
+The treatise is a product of late Roman Egypt, reflecting the syncretic intellectual environment where Greek philosophical speculation, Egyptian technical traditions, and emerging mystical thought converged. Scholars interpret Zosimus's work as intended for an initiated audience of practitioners, where descriptions of material processes, such as the treatment of substances with various liquids or exposure to sun and dew, often functioned as allegories for the purification and perfection of the human soul. The complete text survives as part of a larger corpus of Zosimus's writings, preserved primarily through Byzantine Greek manuscripts such as the 10th- or 11th-century Codex Marcianus graecus 299. The ideas contained within this treatise, alongside Zosimus's broader oeuvre, were later translated into Syriac and Arabic, exerting a profound and lasting influence on the subsequent development of alchemical theory and practice in the Islamic world and, later, in medieval Europe.
+
 ## Text
 
 ### 2.155

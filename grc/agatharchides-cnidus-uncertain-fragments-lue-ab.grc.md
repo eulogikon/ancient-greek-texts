@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lue-ab` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-uncertain-fragments-lue-ab)
 
+The Fragments of Uncertain Placement consists of three geographical passages attributed to the 2nd-century BCE historian and geographer Agatharchides of Cnidus. Preserved through later quotation, primarily in the Bibliotheca of the Byzantine patriarch Photius, these excerpts derive from Agatharchides’s lost larger works. Their title indicates their original context within his corpus is unknown. While the specific content of these fragments is not detailed, Agatharchides’s geographical writings are generally characterized by ethnographic details on peoples of the Red Sea and Indian Ocean regions, descriptions of coastlines and maritime routes, accounts of natural history and exotic animals, and a rationalizing critique of earlier sources. The fragments survive indirectly via Photius in the ninth century CE, and the modern critical edition is found in Stanley M. Burstein’s Agatharchides of Cnidus, On the Erythraean Sea (1989). These fragments represent surviving evidence of Agatharchides’s influential geographical scholarship. His work, compiled in Ptolemaic Alexandria, was a major source for later geographers like Diodorus Siculus and Strabo, preserving valuable information on Hellenistic exploration and ethnography.
+
 ## Text
 
 ### 112

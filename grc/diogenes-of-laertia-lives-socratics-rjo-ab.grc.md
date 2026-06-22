@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ab` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-socratics-rjo-ab)
 
+Book II assembles Socratic and related circles, emphasizing personal lineages and school development. Diogenes integrates anecdotal biography with reports on teaching, travel, and influence, yielding a compact map of post-Socratic diversity rather than a single doctrinal line.
+
 ## Text
 
 ### Vit.2.1

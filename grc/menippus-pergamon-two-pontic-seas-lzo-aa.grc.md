@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lzo-aa` · [HTML page](https://eulogikon.org/works/menippus-pergamon-two-pontic-seas-lzo-aa)
 
+The Periplus of the Two Pontic Seas is a lost geographical work attributed to the Hellenistic author Menippus of Pergamon. Composed in the 1st century BCE, it functioned as a practical sailing guide for the Black Sea, or Pontus Euxinus, and the Sea of Azov, known as Palus Maeotis. The original text does not survive intact but is known through fragments preserved in later epitomes and lexicons. The most significant of these is a 6th-century CE epitome by Marcian of Heraclea, while additional references and quotations appear in the geographical dictionary of Stephanus of Byzantium. These transmitted excerpts are sometimes collectively referred to as the Apospasmata, or "Extracts."
+
+The work provided mariners with a systematic coastal survey, detailing landmarks, harbors, and the sailing distances between points. It cataloged the settlements and indigenous tribes encountered along the shores, such as the Scythians and the Maeotians, and described the region's topography, including prominent capes and river mouths. Compiled during a period of expanding Roman commercial and military interest in the Pontic region, the periplus served as an important navigational aid. Its content was incorporated into the broader corpus of ancient geography, influencing later Roman and Byzantine writers. Despite its fragmentary state, the work remains a valuable source for understanding ancient knowledge of the Black Sea coastline and its peoples.
+
 ## Text
 
 ### 1

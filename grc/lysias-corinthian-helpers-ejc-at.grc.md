@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-at` · [HTML page](https://eulogikon.org/works/lysias-corinthian-helpers-ejc-at)
 
+The Epitaph for Corinthian Helpers is a fragmentary funeral oration composed by the Athenian logographer Lysias around 392 BCE. Written in Attic Greek, the speech was crafted to honor Corinthian soldiers who fell while fighting as allies of Athens during the Corinthian War. As an epitaphios, or public funeral oration, it followed the conventional structure of the genre, praising the ancestry and virtues of the deceased, offering consolation to the living, and serving to strengthen the political and military alliance between Athens and the democratic faction in Corinth. The work survives only in part, represented by 48 fragments. It is not preserved in an independent manuscript tradition but is known exclusively through quotations by the later literary critic Dionysius of Halicarnassus, who cited it to illustrate and analyze Lysias's rhetorical style and purity of expression. Modern scholarship regards the speech as a significant political document, exemplifying how Athenian public oratory was employed to legitimize foreign alliances and promote a unifying civic ideology. It is believed to have been delivered at a state funeral, aiming to unite the Athenian populace in collective mourning and to reinforce shared democratic values in opposition to Spartan hegemony.
+
 ## Text
 
 ### Or2 t

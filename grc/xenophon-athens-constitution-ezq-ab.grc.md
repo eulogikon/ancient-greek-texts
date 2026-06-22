@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-ab` · [HTML page](https://eulogikon.org/works/xenophon-athens-constitution-ezq-ab)
 
+The Constitution of the Athenians is a short political treatise from Classical Athens that offers a systematic critique of the Athenian democratic system. Structured as a series of arguments, it explains how the common people, or demos, consciously designed institutions to secure their own advantage and preserve their rule, often at the expense of the wealthy, aristocratic class. The work concludes that while one may disapprove of this system on ethical grounds, it is expertly crafted for its own purposes of maintaining popular power. The text outlines how democratic mechanisms, such as the navy, courts, and public offices, are structured to favor the poor majority. Its central themes include a critique of democracy as a vehicle for the self-interest of the demos and an exploration of the inherent class conflict between the many and the wealthy few, presenting the paradox of a constitution considered flawed from an aristocratic perspective yet highly effective at achieving its own ends.
+
+The work survives complete, transmitted as part of the corpus of writings attributed to Xenophon. Ancient sources like Diogenes Laertius accept this attribution, but many modern scholars dispute Xenophonic authorship based on perceived stylistic and thematic differences, sometimes instead attributing the treatise to an anonymous author conventionally called the "Old Oligarch." As a crucial primary source for understanding anti-democratic thought in Classical Greece, it provides a contemporary, hostile analysis of Athenian democratic institutions. This treatise serves as an essential counterpoint to pro-democratic texts and remains invaluable for historians of political philosophy and the development of ancient political theory.
+
 ## Text
 
 ΑΘΗΝΑΙΩΝ ΠΟΛΙΤΕΙΑ

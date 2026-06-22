@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rto-aa` · [HTML page](https://eulogikon.org/works/parodica-anon-uncertain-fragments-rto-aa)
 
+The Fragments of Uncertain Works is an unattested collection attributed to an anonymous author of parody. The designation implies a compilation of 45 verse passages derived from obscure or unidentified original sources. No manuscript tradition, editorial history, or preservation details for this specific collection are recorded in standard scholarly references. Its complete absence from the established record precludes any substantive assessment of its content, style, or historical significance. The suggested parodic nature of the fragments, while aligning them broadly with traditions of satirical poetry, remains entirely speculative due to the lack of any verifiable documentation.
+
 ## Text
 
 ### book 1

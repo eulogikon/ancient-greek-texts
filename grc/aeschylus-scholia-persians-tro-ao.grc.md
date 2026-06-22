@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tro-ao` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-tro-ao)
 
+The Scholia on the Persians is an ancient and medieval compilation of explanatory notes on Aeschylus's tragedy of the same name. Consisting of 423 discrete prose commentaries, the work provides glosses on difficult vocabulary, explanations of historical and mythological references, textual criticism, and interpretive remarks on the play's content. It represents a synthesis of scholarship from multiple eras, with a significant foundation in the Alexandrian critical tradition. As a commentary, its substance is dictated by the requirements of explicating Aeschylus's text. The notes primarily address textual criticism, including discussions of variant readings and meter; lexicography, offering definitions of rare or archaic words; historical and mythological exegesis, clarifying figures such as Xerxes and Darius, Persian institutions, and events of the Greco-Persian Wars; and literary interpretation, with observations on dramatic technique and rhetorical figures.
+
+The scholia survive through the medieval manuscript tradition, where they were transmitted in the margins of the primary texts of Aeschylus's plays. The most important witnesses are the tenth-century Medicean manuscript and the eleventh-century Neapolitan manuscript. These notes are often concise and sometimes textually corrupt, having been derived from earlier, now-lost commentaries through a prolonged process of copying and condensation. The scholia are indispensable for the modern philological study of Aeschylus. They furnish crucial evidence for the history of the text, ancient interpretations, and the play's reception, forming the foundational material for all critical editions and scholarly commentaries on The Persians.
+
 ## Text
 
 ### book 1

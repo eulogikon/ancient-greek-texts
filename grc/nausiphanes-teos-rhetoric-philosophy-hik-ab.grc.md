@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hik-ab` · [HTML page](https://eulogikon.org/works/nausiphanes-teos-rhetoric-philosophy-hik-ab)
 
+The Apospasmata, also known as On Rhetoric and Natural Philosophy, is a lost philosophical treatise by Nausiphanes of Teos, written in the late fourth century BCE. No direct quotations from the work survive; it is known only by its title and through later reports, which indicate it was a collection of passages. The title suggests the work addressed two principal subjects: instruction in the art of rhetoric and an exposition of Democritean natural philosophy, which explained the universe through the interaction of atoms and void. As a teacher of Epicurus and a follower of both Democritus and Pyrrho, Nausiphanes likely sought to combine training in persuasive speech with a philosophical understanding of the natural world, possibly for pedagogical use with his students.
+
+Modern scholarship interprets this synthesis as reflecting a post-Aristotelian educational ideal, in which rhetoric was considered a necessary skill for effective philosophical debate and instruction. The work may also have engaged with broader themes concerning knowledge and tranquility. Its complete loss is characteristic of many texts from minor Hellenistic philosophical schools. Our entire knowledge of the Apospasmata derives from testimonia in later authors, primarily Diogenes Laertius, who records its title, and Sextus Empiricus, who discusses the views of Nausiphanes. Despite Epicurus’s subsequent criticism of his teacher, some scholars perceive in Nausiphanes’ emphasis on clear communication an indirect influence on the accessible literary style that came to characterize Epicurean writing.
+
 ## Text
 
 ### tit

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ak` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-progress-virtue-okg-ak)
 
+How One Might Perceive His Progress in Virtue is an ethical essay by the Greek philosopher Plutarch, composed in the late 1st or early 2nd century CE. It forms part of his extensive corpus of philosophical treatises collectively known as the Moralia. Written as a practical guide for the philosophical student, the work addresses a central problem in ancient moral psychology: the difficulty of discerning genuine ethical improvement amid the gradual and often imperceptible nature of character development. Plutarch structures the essay as a series of diagnostic signs, offering the reader concrete criteria for self-assessment to guard against self-deception.
+
+Rejecting the Stoic ideal of the complete extirpation of the passions as an unrealistic standard for measuring progress, Plutarch advocates for a more attainable Peripatetic model of moderation. True advancement in virtue, he argues, is evidenced not by the absence of emotional disturbance but by its increased rarity, diminished intensity, and quicker subsidence. The signs he enumerates include a growing indifference to external praise and blame in favor of the approval of one's own conscience, a greater consistency in virtuous action across different circumstances, and an enhanced capacity to welcome and learn from criticism. Other indicators involve a decreased susceptibility to envy, a more measured and less frequent experience of anger, and a shift in social preferences toward the company of the virtuous. The essay functions as a therapeutic tool within the Hellenistic tradition of philosophy as a way of life, providing a method for an educated individual engaged in self-cultivation to track their moral refinement. The complete text has been preserved through the Byzantine manuscript tradition of the Moralia and remains a significant document for understanding the practical application of ethical theory in the Greco-Roman world.
+
 ## Text
 
 ### t 1

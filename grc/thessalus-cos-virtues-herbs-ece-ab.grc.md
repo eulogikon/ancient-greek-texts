@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ece-ab` · [HTML page](https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ab)
 
+On the Virtues of Herbs is a first-century CE medical treatise by the physician Thessalus of Cos, who practiced in Rome. Presented as a letter to the emperor, the work is a practical guide to herbal medicine consisting of 39 concise entries, each detailing the therapeutic properties and applications of a specific plant. It provides straightforward, recipe-based instructions for preparing remedies, representing a significant manual within the Greek pharmacological tradition. Thessalus was the founder of the Methodist school of medicine, which flourished under Emperor Nero. His writings, including this treatise, are often interpreted as part of a professional effort to assert authority within a highly competitive medical landscape. While some works attributed to him profess a basis in secret, divinely revealed knowledge, the precise relationship of this particular text to that larger pseudepigraphical corpus remains a subject of scholarly inquiry. The surviving manual was likely intended as a reference for practicing physicians or advanced students seeking reliable plant-based treatments.
+
 ## Text
 
 ### 1 prol 1 (t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-bf` · [HTML page](https://eulogikon.org/works/euripides-ion-cbm-bf)
 
+Ion is a tragedy by the ancient Greek playwright Euripides, composed in Attic Greek and first performed around 413–410 BCE. The drama unfolds at the sanctuary of Apollo in Delphi, centering on the young temple attendant Ion, who believes himself to be an orphan. His existence is disrupted by the arrival of Creusa, the Queen of Athens, who consults the oracle concerning a son she was compelled to abandon years earlier following a rape by the god Apollo. Unbeknownst to both, that son is Ion. The ensuing plot involves averted murders, delayed recognitions, and divine machinations, framed by a prologue delivered by Hermes and concluded by an appearance of the goddess Athena, before the final reunion of mother and child.
+
+Characterized by its complex, romance-like narrative and ultimately harmonious resolution, the play is often regarded by modern scholarship as a work that blends tragic and comic elements, anticipating later forms of tragicomedy. Written during the tumultuous final phase of the Peloponnesian War, the drama engages profoundly with themes of Athenian identity and autochthony, legitimizing Ion not only as the heir to the Athenian throne but also as the mythical progenitor of the Ionian people. The play also presents a notably critical portrayal of the god Apollo, whose morally ambiguous actions instigate the human suffering, thereby inviting scrutiny of divine justice and ethical conduct. The complete text of Ion survives due to its inclusion in the select group of Euripidean plays that were systematically copied and preserved through the Byzantine era, a transmission corroborated by ancient papyrus fragments dating to the second century CE.
+
 ## Text
 
 ### 1

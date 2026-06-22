@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bd` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-reason-irrational-okg-bd)
 
+On Using Reason with the Irrational is a philosophical dialogue by the Middle Platonist author Plutarch of Chaeronea, composed in Greek around 100 CE. Preserved within the corpus of his ethical treatises known as the Moralia, the work is a complete text transmitted through medieval manuscripts without significant loss. It takes the form of a conversation divided into thirty-four sections, directly engaging a central debate in ancient ethics concerning the management of emotions and appetites. Plutarch argues against the Stoic ideal of eradicating the passions completely, championing instead the Peripatetic and Platonic model wherein reason acts as a guide and ruler. In this view, the rational faculty should train and moderate the soul's non-rational elements rather than suppress them. Interpreted by modern scholars as a key intervention in Imperial-era philosophy, the dialogue represents Plutarch’s effort to position his Platonic perspective against dominant Stoic doctrines for an educated elite. It advocates for a practical model of ethical self-cultivation founded on achieving harmony and integration within the soul.
+
 ## Text
 
 ### 985 D

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cr` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-diseases-qmm-cr)
 
+On the Causes of Diseases is a systematic medical treatise by the physician Galen of Pergamon, composed in Greek around 175–180 CE during his service to the Roman imperial court. The work methodically classifies and explains the origins of illness, establishing a theoretical foundation for diagnosis and treatment. Galen argues that diseases arise primarily from imbalances in the body’s four humors—blood, phlegm, yellow bile, and black bile—and their associated elemental qualities of hot, cold, wet, and dry. Structured in 40 passages, the treatise applies an Aristotelian analytical framework to distinguish between different types of causal pathways, progressing from simple, homogeneous bodily parts to complex, organic systems. Written for advanced students and practicing physicians, it was intended to provide a logical and philosophical basis for Galenic medicine in opposition to rival medical schools. The complete Greek text survived through intensive copying and study within Byzantine, Arabic, and Latin scholarly traditions, securing its profound influence on medical theory for more than a millennium.
+
 ## Text
 
 ### 7 1 (t1)

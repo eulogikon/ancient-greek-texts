@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-ak` · [HTML page](https://eulogikon.org/works/menander-athens-colax-fragments-hps-ak)
 
+_Colax_ (The Flatterer) is a lost comedy by Menander, preserved only through 19 brief fragments and later literary references. While its plot remains unrecoverable, the title refers to a stock character of New Comedy: the parasitic flatterer. The most significant testimony comes from the Roman playwright Terence, who states in the prologue to his own comedy _Eunuchus_ that he borrowed the play's "parasite and soldier" from Menander's _Colax_. This confirms the comedy featured this classic comic duo. The extant fragments, which include dialogue about drinking and boastful claims of wealth and romantic conquests, indicate the play engaged with central themes of New Comedy, such as the dynamics of flattery and social manipulation, the exploitation of wealth, and the vanity of the braggart soldier. No papyrus of the play survives; knowledge of it depends entirely on fragments preserved by later anthologists like Stobaeus and Athenaeus, alongside Terence's citation. _Colax_ stands as a key example of Menander's direct influence on Roman comedy. Terence's adaptation of its characters demonstrates the Roman practice of _contaminatio_, or combining source material, and helped ensure the transmission of these stock types into the Western dramatic tradition. The play also exemplifies the Hellenistic period's broader interest in the analysis of social character types, a subject treated contemporaneously in both comedy and moral philosophy.
+
 ## Text
 
 ### book 1.1

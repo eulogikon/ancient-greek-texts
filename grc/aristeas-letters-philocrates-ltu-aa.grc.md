@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ltu-aa` · [HTML page](https://eulogikon.org/works/aristeas-letters-philocrates-ltu-aa)
 
+The Letter of Aristeas to Philocrates is a pseudepigraphic Hellenistic Greek text, likely composed in Alexandria between 170 and 130 BCE. Structured as a formal epistle of 205 sections, it presents itself as an eyewitness account by Aristeas, a courtier of Ptolemy II Philadelphus, addressed to his brother Philocrates. Its central narrative provides the legendary origin story for the Septuagint, the Greek translation of the Hebrew Pentateuch. The text recounts how the Ptolemaic king, advised by his librarian, commissioned a translation of the Jewish Law for the Library of Alexandria. Seventy-two scholars, six from each of the twelve tribes of Israel, were sent from Jerusalem and completed their work in seventy-two days of collaborative effort. The letter includes extensive digressions, such as a detailed description of lavish gifts sent to the Jerusalem Temple and an account of a seven-day philosophical symposium where the Jewish scholars impress the king with their wisdom, answering his ethical and political questions.
+
+Modern scholarship identifies the work as a foundational piece of Jewish apologetic literature. Its primary aim was to legitimize the widely used Greek translation of the Torah for the Hellenized Jewish diaspora by attributing its creation to an idealized, official Ptolemaic project undertaken with the full cooperation of the Jerusalem priesthood. By framing the translation as a divinely inspired work produced by a panel of impeccable scholars under royal patronage, the author argues for its textual accuracy and religious authority, presenting it as equal to the Hebrew original. A further key purpose is to demonstrate the profound philosophical sophistication and ethical superiority of Jewish law, thereby asserting its compatibility with and even supremacy within Hellenistic culture.
+
+The complete text survives in over twenty Greek manuscripts, the oldest of which dates from the 11th century CE. It was preserved almost exclusively by Christian scribes interested in its account of the Septuagint's origins. For centuries, its narrative was accepted as historical fact, and it became the definitive and highly influential foundation legend for the Greek Bible in both Jewish and later Christian tradition.
+
 ## Text
 
 ### T

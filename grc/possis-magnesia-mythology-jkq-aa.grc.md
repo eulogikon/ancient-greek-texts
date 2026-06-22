@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jkq-aa` · [HTML page](https://eulogikon.org/works/possis-magnesia-mythology-jkq-aa)
 
+The Fragments on Mythology by Possis of Magnesia are known only from a handful of brief prose excerpts preserved by the later author Athenaeus in his work the Deipnosophistae. These surviving passages reflect a Hellenistic interest in antiquarian details and mythological etiologies, particularly concerning the origins of cultural practices related to food, drink, and custom. One fragment identifies the divine drink nectar as a form of wine, while another credits the hero Rhadamanthys with originating the practice of mixing wine with water. A further excerpt discusses the so-called Cecropian measure for wine. The work survives exclusively through its quotation within Athenaeus's compendium, which valued these details for their relevance to symposium culture, and possesses no independent manuscript tradition.
+
 ## Text
 
 ## ΜΑΓΝΗΤΙΚΑ. E LIBRO TERTIO.

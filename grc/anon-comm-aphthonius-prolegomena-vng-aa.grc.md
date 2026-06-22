@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vng-aa` · [HTML page](https://eulogikon.org/works/anon-comm-aphthonius-prolegomena-vng-aa)
 
+Overview The Prolegomena to Progymnasmata (Προλεγόμενα εἰς Προγυμνάσματα ὑπὸ Ἀδήλου) is an anonymous introductory commentary on the Progymnasmata of Aphthonius of Antioch, the 4th-century CE rhetorical manual that became a standard textbook. Structured as thirteen discrete passages, it functioned as a didactic lecture or series of notes, providing the theoretical framework for students before they attempted Aphthonius’s practical exercises.
+
+Content Based on the conventions of rhetorical prolegomena, its content typically includes:
+
+The definition, utility, and divisions of rhetoric.
+
+The purpose, order, and definition of the preliminary exercises (progymnasmata).
+
+The relationship between rhetoric and other arts, and the requisite stylistic virtues.
+
+Transmission The text is preserved within the extensive Byzantine manuscript tradition of Aphthonius’s Progymnasmata, often found alongside scholia and paraphrases. Its editio princeps and critical edition appear in modern collections of rhetorical commentaries, such as the Rhetores Graeci series, and the full text survives.
+
+Significance As one of many such pedagogical aids, this anonymous prolegomena helped systematize and perpetuate classical rhetorical theory. It supported the Aphthonian tradition, which was fundamental to education in the Greek East and later influenced Renaissance and early modern rhetoric teaching in the West.
+
 ## Text
 
 ### 14.158.(8t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-aj` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aj)
 
+The Parthica is a lost historical work by the second-century CE Greek historian Arrian of Nicomedia, known today only through fragments. The work chronicled the military conflicts between Rome and the Parthian Empire, extending its narrative at least through the reign of Emperor Trajan. According to the ninth-century patriarch Photius, who recorded its existence, the Parthica comprised seventeen books. The surviving fragments, numbering 107, are preserved almost exclusively within the tenth-century Byzantine compilation known as the Excerpta Constantiniana, a thematic collection of historical extracts commissioned by Emperor Constantine VII Porphyrogennetos. The fragments indicate the work addressed Roman-Parthian military and diplomatic relations, the eastern campaigns of Trajan, and the cultural and political dynamics between the Roman and Arsacid empires. One preserved excerpt, for instance, traces the origins of the Parthian Arsacid dynasty to a revolt against Seleucid authority. Though fragmentary, the Parthica demonstrates the scope of Arrian’s historical writing beyond his famous works on Alexander the Great. Its preservation within the imperial Excerpta underscores its perceived authority in the Byzantine scholarly tradition, and the remaining excerpts provide a valuable, if limited, source for modern study of Roman-Parthian relations.
+
 ## Text
 
 ## ΠΑΡΘΙΚΑ Photiu s , Bib l .

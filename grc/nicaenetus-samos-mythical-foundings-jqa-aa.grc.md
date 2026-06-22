@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jqa-aa` · [HTML page](https://eulogikon.org/works/nicaenetus-samos-mythical-foundings-jqa-aa)
 
+Fragments on Mythical Foundings is a lost Hellenistic epic poem by Nicaenetus of Samos, a poet active in the 3rd century BCE. The work is known only by its title, which is recorded in the 10th-century Byzantine encyclopedia, the Suda. According to that source, it consisted of 25 passages dealing with the mythological foundations of cities, placing it squarely within the popular contemporary genre of foundation poetry, or ktisis. The unusual title suggests the composition may have been a compilation of episodic narratives concerning various civic origins rather than a single continuous epic. As such, it would have provided mythological explanations for the founding of cities, the establishment of local cults, and the origins of customs, typically featuring heroes and gods in the role of founders. While the poem is entirely lost, with no direct quotations preserved, its existence highlights the Hellenistic literary tradition of connecting contemporary cities to a heroic past, a genre that served to legitimize civic heritage and later informed antiquarian and mythographic compilations.
+
 ## Text
 
 ### book 1.1

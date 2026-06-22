@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vcw-aa` · [HTML page](https://eulogikon.org/works/nonnosus-roman-persian-relations-vcw-aa)
 
+The Fragments on Roman-Persian Relations is a lost historical work by the sixth-century historian Nonnosus. It survives only through indirect transmission, specifically in summaries preserved within the tenth-century Byzantine encyclopedia known as the Suda. Despite its title, which suggests a primary focus on Persia, the extant fragments instead detail Byzantine diplomatic missions to various Arabian and Aksumite rulers. The surviving passages indicate that Nonnosus’s work contained a first-person account of his own embassy for Emperor Justinian I to the Kindites, Himyarites, and the Aksumite king Kālēb. It also recorded his family’s diplomatic tradition, noting similar embassies undertaken by his grandfather and father under earlier emperors. The text provides valuable insight into sixth-century Byzantine foreign policy, which aimed at securing Christian allies in southern Arabia as a counterbalance to Persian influence. These fragments constitute a rare primary source on Byzantine diplomacy in the Red Sea region and are consequently cited by modern scholars studying Byzantine-Aksumite relations and South Arabian history. No independent manuscripts of the work are known to exist.
+
 ## Text
 
 ### 1

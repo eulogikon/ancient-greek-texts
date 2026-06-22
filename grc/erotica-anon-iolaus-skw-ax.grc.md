@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ax` · [HTML page](https://eulogikon.org/works/erotica-anon-iolaus-skw-ax)
 
+The Iolaus is a fragmentary ancient Greek erotic narrative preserved on a single papyrus from Oxyrhynchus, designated P.Oxy. 3010 and dating to the 2nd century CE. The surviving prose text depicts a scene of homoerotic courtship in which an older man, Philostratus, receives advice to employ a boy named Mysus as an intermediary to arrange a meeting with his younger beloved, Iolaus. The narrative engages with the social rituals of attraction, utilizing a motif reminiscent of the lover's lament at the beloved's door. The work is otherwise lost, with this fragment, published in 1983, constituting its sole remains. The modern title is an editorial convention derived from a character's name within the text, as both the beginning and end of the narrative are missing. As part of the Oxyrhynchus corpus, the fragment provides valuable evidence for the diversity of popular prose fiction in the Roman period, offering a specific example of a secular homoerotic narrative existing outside the more traditional realms of philosophical discourse or poetic convention.
+
 ## Text
 
 ### (50)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ar` · [HTML page](https://eulogikon.org/works/isocrates-athens-to-nicocles-ffu-ar)
 
+To Nicocles is a prose oration by the Athenian rhetorician Isocrates, composed in the fourth century BCE, most likely between 372 and 365. It is addressed to Nicocles, the young king of Salamis in Cyprus, following the succession to his father, Evagoras. The work belongs to the advisory genre often termed a "mirror for princes," offering direct counsel on leadership. Framed as a reminder of precepts already imparted, the text methodically outlines the duties of a virtuous ruler across thirty-nine concise sections. It covers a broad spectrum of topics, including the king's personal conduct, the equitable administration of justice, prudent management of public finances, military leadership, and the ideal relationship between a ruler and his subjects. The complete text survives in Attic Greek, transmitted through medieval manuscripts as part of Isocrates's collected works.
+
+The oration exemplifies Isocrates's role as a political educator and his conviction in the power of reasoned discourse to shape governance. It is considered part of a group of his works focused on the Cypriot monarchy, alongside the encomium Evagoras and the king's own purported speech, Nicocles, reflecting a sustained and profitable intellectual relationship. Modern scholars regard To Nicocles as a foundational text in the Western tradition of political advice literature, emphasizing the moral and intellectual virtues essential for stable and prosperous rule.
+
 ## Text
 
 ### Ad Nic t

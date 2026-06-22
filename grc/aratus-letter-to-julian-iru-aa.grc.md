@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iru-aa` · [HTML page](https://eulogikon.org/works/aratus-letter-to-julian-iru-aa)
 
+The Letter to Julian is a single epistle attributed to the author Aratus Lives. While extant, the work is poorly documented, with no surviving sources providing details regarding its specific content, length, or philosophical or biographical arguments. The identity of the recipient, Julian, and the precise nature of the author, Aratus Lives, remain similarly unspecified. The letter is attested as extant, but its manuscript tradition, the history of its editions, and the extent of its textual preservation are not detailed in available scholarship. Consequently, the historical circumstances of its composition, its intended purpose, and any potential influence it may have exerted are entirely unknown due to the absence of descriptive testimony.
+
 ## Text
 
 ### 534

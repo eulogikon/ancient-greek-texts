@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ar` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ar)
 
+The Grammatical Fragment is a lost anonymous work known only by its title, which suggests it was either an excerpt from a larger grammatical treatise or a short, focused technical essay. While no direct content survives, its title places it within the tradition of Hellenistic and later Greek grammatical scholarship. Such works typically addressed the classification and analysis of parts of speech, principles of grammatical correctness, debates on linguistic analogy and anomaly, and notes on orthography, dialect, or prosody. The fragment is listed in modern catalogs of lost grammatical works. Its survival as a mere title indicates it was referenced in an ancient or Byzantine source, with the notation of "two passages" likely referring to two separate testimonia about the lost work, not to surviving text. As an anonymous fragment, its direct influence is untraceable. Its documentation, however, confirms its place within the extensive network of technical scholarship that formed the foundation of the ancient grammatical tradition, illustrating the breadth of these studies.
+
 ## Text
 
 ### [45]

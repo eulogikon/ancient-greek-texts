@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ad` · [HTML page](https://eulogikon.org/works/pseudo-lucian-ass-qeu-ad)
 
+Lucius or the Ass is a short comic prose narrative falsely attributed to the satirist Lucian of Samosata. It recounts the first-person misadventures of its protagonist, Lucius, whose reckless curiosity about magic results in his accidental transformation into a donkey. The narrative follows his subsequent humiliating passage through a series of owners, offering a satirical panorama of human folly, greed, and cruelty from the lowly perspective of a beast of burden. After enduring numerous hardships and grotesque episodes, Lucius is finally restored to human form by eating roses. The work shares its core plot with Apuleius’s Latin novel The Golden Ass, with both texts considered independent derivations from a common, now lost, Greek original.
+
+Structured as a series of episodic adventures, the narrative functions primarily as a satire. Its central theme is the punishment of unbridled curiosity and the desire for forbidden occult knowledge. The donkey’s passive, suffering role provides a unique vantage point for critiquing human society, exposing the hypocrisy, brutality, and absurdity of the various characters who own and abuse him. The story emphasizes physical hardship and the grotesque, populated by marginal and often unreliable figures from the underbelly of the ancient world. The text survives complete, preserved within the medieval manuscript tradition of Lucian’s genuine works, a circumstance that secured its long-standing false attribution. This transmission history is of particular scholarly importance, as the work serves as a crucial witness to the content and style of the lost Greek archetype of the ass-story. Consequently, its primary significance is comparative; it is indispensable for analyzing the literary development of the metamorphosis narrative and for understanding the specific philosophical and artistic adaptations made by Apuleius in his more expansive and complex Latin novel.
+
 ## Text
 
 ### Asin t

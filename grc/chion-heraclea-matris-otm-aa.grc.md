@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `otm-aa` · [HTML page](https://eulogikon.org/works/chion-heraclea-matris-otm-aa)
 
+The Letters to Matris is a short epistolary novel composed of seventeen fictional letters. Though traditionally ascribed to Chion of Heraclea, a historical figure of the fourth century BCE known for assassinating the tyrant Clearchus, the work is a later pseudonymous composition from the Roman Imperial era. Scholarly consensus places its authorship between the first and fourth centuries CE, written in a refined Attic Greek style. The narrative unfolds through the protagonist's correspondence with his friend Matris, chronicling his philosophical studies under Plato in Athens, his internal moral development, and his ultimate decision to return to his native Heraclea to confront its tyrannical ruler. The letters culminate on the eve of his act of tyrannicide, presenting a complete and cohesive story of education and duty.
+
+Regarded as a fully realized example of the ancient epistolary novel, the work functions as a novel of education, tracing the protagonist's evolution from student to committed political actor. It explores central themes of virtue, the application of philosophical ideals to real-world conflict, and the personal cost of ethical action. The text appears to have been intended for a literate audience with an interest in philosophical discourse and moral exempla. Its transmission was limited, surviving solely in a single manuscript, the Codex Vaticanus Graecus 930, which dates from the fourteenth or fifteenth century. The work was rediscovered and first published during the Renaissance, securing its place in the corpus of later Greek prose fiction.
+
 ## Text
 
 ### 1 1 (t)

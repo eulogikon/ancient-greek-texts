@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qzy-aa` · [HTML page](https://eulogikon.org/works/herodian-antioch-death-marcus-qzy-aa)
 
+Herodian's History of the Empire from the Death of Marcus is an eight-book historical narrative composed in Greek during the middle decades of the 3rd century CE, likely between 240 and 250. It provides a continuous account of Roman imperial history spanning 58 years, commencing with the death of the philosopher-emperor Marcus Aurelius in 180 and concluding with the accession of the young Gordian III in 238. The work focuses predominantly on the political and military upheavals of this turbulent period, detailing the reigns, depositions, and violent ends of successive emperors, frequent civil wars and usurpations, and major external conflicts with the Parthian Empire and various Germanic peoples. It is particularly valued as a crucial primary source for the chaotic events of 238, known as the "Year of the Six Emperors."
+
+The author, Herodian of Antioch, held a minor official post in the imperial administration, which afforded him a contemporary, if not always centrally positioned, perspective on the events he describes. He wrote for an educated, Greek-speaking audience, and his narrative purpose blends historical information with moral and political instruction. Herodian presents the stable and virtuous reign of Marcus Aurelius as a benchmark, using the subsequent decades of chaos to illustrate the destructive consequences of poor leadership, military indiscipline, and political corruption. His literary style is characterized by a clear, Atticizing Greek, dramatic set-piece speeches, and vivid character portraits of emperors and other key figures.
+
+The complete text of Herodian's history survives through a direct manuscript tradition, with the oldest extant copies dating from the 10th and 11th centuries. While modern historians note that his account can be rhetorically embellished and is occasionally unreliable on specific chronological or geographical details, it remains an indispensable narrative source. It offers the only surviving continuous historical treatment of this pivotal and poorly documented era, bridging the gap between the writings of Cassius Dio in the early 3rd century and the later epitomators and chroniclers.
+
 ## Text
 
 ### 1.1.1

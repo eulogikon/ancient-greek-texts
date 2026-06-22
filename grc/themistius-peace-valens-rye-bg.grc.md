@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bg` · [HTML page](https://eulogikon.org/works/themistius-peace-valens-rye-bg)
 
+On the Peace of Valens is a formal panegyric oration delivered by the philosopher and statesman Themistius to the Roman Emperor Valens around 364 CE in Constantinople. Composed in Attic Greek, the complete speech celebrates the peace treaty Valens secured with the Gothic king Athanaric in 369 CE. While commemorating the end of a war, the oration uses the occasion to offer profound political advice, praising peace as a greater blessing than military victory and advocating for mercy toward the defeated Goths. Structured as a direct address, the work is a sophisticated piece of political philosophy whose core theme promotes the ideal of the philosopher-king, arguing that a true ruler serves his people through reason and virtue rather than through force alone. Modern scholars interpret this speech as part of Themistius's lifelong project to guide imperial policy and to integrate Greek philosophical and cultural ideals with the practical demands of Roman governance. The oration survives intact as part of his collected speeches, preserved through medieval manuscripts and available in modern critical editions.
+
 ## Text
 
 ### t 1

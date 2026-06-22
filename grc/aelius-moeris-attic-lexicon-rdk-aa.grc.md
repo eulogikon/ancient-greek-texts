@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rdk-aa` · [HTML page](https://eulogikon.org/works/aelius-moeris-attic-lexicon-rdk-aa)
 
+The Attic Lexicon is a grammatical treatise composed in Greek by the scholar Aelius Moeris, most likely in the second century CE. It functions as a specialized dictionary that systematically contrasts classical Attic Greek, the dialect of fifth- and fourth-century BCE Athens, with the contemporary common Greek, or Koine, of the Roman Empire. The work is structured as a series of entries, each typically presenting an Attic word or phrase alongside its non-Attic equivalent, providing instruction on proper usage. Created during the cultural movement known as the Second Sophistic, a period when fluency in pure Attic Greek was a primary marker of education, elite status, and cultural identity, the lexicon served as a practical guide for orators, writers, and the educated class who wished to emulate the language of classical Athenian authors and avoid everyday Koine expressions. It embodies the prescriptive aims of the Atticist movement, which sought linguistic purification. The complete text of the Attic Lexicon survives through medieval manuscript transmission and remains a vital source for understanding the history of the Greek language and the social values attached to linguistic choice in antiquity.
+
 ## Text
 
 ### 187

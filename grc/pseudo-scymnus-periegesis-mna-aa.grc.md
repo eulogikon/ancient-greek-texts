@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mna-aa` · [HTML page](https://eulogikon.org/works/pseudo-scymnus-periegesis-mna-aa)
 
+The Periegesis, also known as the Circuit of the Earth, is an ancient Greek geographical treatise composed in iambic trimeter verse. While traditionally ascribed to Scymnus of Chios, the author is considered anonymous by modern scholarship, and the work is often referred to as Pseudo-Scymnus. It dates to the late 2nd century BCE, a period established by its dedication to King Nicomedes II of Bithynia. The poem functions as a systematic and didactic survey of the known world, beginning at the Strait of Gibraltar and proceeding eastward to describe the coastlines, cities, peoples, and notable features of Europe, Asia, and Africa. Its methodical structure blends physical geography with ethnographic notes on local customs, mythological associations, and historical foundation legends. The use of verse suggests an educational purpose, likely intended to make the factual content more engaging and memorable for a patron or student audience. The text survives nearly intact in a single 13th-century manuscript, albeit with its opening lines missing. This manuscript carries an incorrect attribution and includes a later, anachronistic prologue. Despite these textual complications, the work remains a valuable source for understanding Hellenistic geographical knowledge and the didactic literary traditions of the period.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `guy-aa` · [HTML page](https://eulogikon.org/works/artemon-clazomenae-chronicles-homeric-studies-guy-aa)
 
+The Chronicles and Homeric Studies of Artemon of Clazomenae is a lost prose compilation, known only through fragmentary citations in later authors. Its dual title indicates a work that combined chronological history with literary analysis, a synthesis characteristic of Hellenistic scholarship. The surviving references suggest its content encompassed Homeric exegesis, including the interpretation of passages from the Iliad and Odyssey, as well as efforts to situate mythical and epic events within a historical timeline. It also engaged in textual criticism, discussing variant readings within the Homeric corpus. The work is cited by name in the Homeric scholia and by Athenaeus in his Deipnosophistae, which constitute its sole means of transmission. Artemon’s compilation represents an important strand of ancient learning, where chronography and philology were intertwined, and his contributions were subsequently embedded within the broader scholiastic tradition that informed later Homeric scholarship.
+
 ## Text
 
 ## ΩΡΟΙ ΚΛΑΖΟΜΕΝΙΩΝ.

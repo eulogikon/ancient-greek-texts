@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lrc-ab` · [HTML page](https://eulogikon.org/works/crito-alopece-delian-parasites-lrc-ab)
 
+The Fragments on Delian Parasites is a lost comedic work in verse attributed to Crito of Alopece, a 5th-century BCE poet of Old Comedy and a contemporary of Aristophanes. Known only by its title, which suggests a composition of eight episodic passages, the work presumably satirized the stock character of the parasite—a flatterer or social hanger-on—within the specific context of the island of Delos, a major Aegean religious and commercial center. Probable themes, inferred from the title and genre, include social satire targeting the gluttony and obsequiousness of the parasite archetype, humor derived from behaviors of scrounging and dependency, and potential mockery of the religious or commercial life associated with the sanctuary on Delos. The work is known solely through its preserved title in ancient catalogs; no direct quotations or manuscripts exist. The notation concerning eight passages suggests it was known in antiquity as a collection of fragments or a short, episodic piece rather than a full-length play. While its direct influence is untraceable, the title exemplifies the geographical specificity and thematic range within Old Comedy beyond the surviving works of major playwrights, contributing to scholarly understanding of the genre's scope.
+
 ## Text
 
 ### book 1

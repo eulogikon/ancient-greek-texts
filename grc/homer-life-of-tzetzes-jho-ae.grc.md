@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-ae` · [HTML page](https://eulogikon.org/works/homer-life-of-tzetzes-jho-ae)
 
+The Life of Tzetzes is a brief, anonymous prose biography of the Byzantine scholar and poet John Tzetzes, who was active in Constantinople during the 12th century. As no independent work of this precise title is widely attested, the text is understood to be a short biographical preface, or vita, commonly found in medieval Greek manuscripts preceding an author's collected works. It would have functioned as a paratextual element within the manuscript tradition of Tzetzes's own extensive writings rather than as a standalone literary composition.
+
+The content of such a biography would typically outline the key aspects of Tzetzes's life and career. It would describe his profession as a grammatikos, or teacher, and his struggles to secure patronage in the intellectual milieu of the Komnenian period. The sketch would likely highlight his prolific literary output, particularly his role in preserving and interpreting classical Greek literature through detailed commentaries and through his major didactic poem, the Book of Histories, also known as the Chiliades. Furthermore, it would probably note his reputation for being contentious and his active involvement in the literary and scholarly polemics of his time.
+
+Transmitted within the codices containing Tzetzes's works, this biographical preface would have played a significant role in shaping his posthumous reputation. Tzetzes's writings served as important compendia of mythological, historical, and literary knowledge for later Byzantine and early Renaissance humanist writers. A formal "Life" would have provided an authoritative framework for understanding the author, thereby influencing how his scholarly legacy was received and utilized in subsequent centuries.
+
 ## Text
 
 ### 1

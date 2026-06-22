@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kpk-ab` · [HTML page](https://eulogikon.org/works/machon-sinope-culinary-comic-kpk-ab)
 
+The Culinary and Comic Fragments constitute the surviving poetic work of the Hellenistic author Machon of Sinope, who was active in Alexandria during the 3rd century BCE. Composed in choliambic meter, a form traditionally associated with satire, these verses present a series of short, humorous vignettes. Their subject matter centers on the witty dialogue and scandalous exploits of renowned Athenian courtesans and gluttonous parasites, frequently within the context of lavish symposia. The work is not a continuous narrative but a collection of discrete comic scenes, evoking a nostalgic and ribald vision of Classical Athenian social life for a sophisticated Hellenistic readership.
+
+The text survives only in fragmentary form, preserved not through independent manuscripts but exclusively within eight substantial quotations found in the Deipnosophistae (The Learned Banqueters), an encyclopedic compilation by Athenaeus of Naucratis from around 200 CE. Modern scholarship regards these fragments as a Hellenistic adaptation of earlier Athenian comic and iambic poetry. They are valued for their blend of conversational Greek with deliberate dialectical colorings and for the unique window they provide into the lore and gossip of ancient sympotic culture.
+
 ## Text
 
 ### book 1.1

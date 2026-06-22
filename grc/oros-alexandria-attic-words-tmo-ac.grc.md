@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tmo-ac` · [HTML page](https://eulogikon.org/works/oros-alexandria-attic-words-tmo-ac)
 
+The Collection of Attic Words is a lost lexicographical treatise attributed to Oros of Alexandria. It functioned as a glossary of vocabulary characteristic of the classical Athenian dialect, compiled to aid in the study of canonical prose authors such as the Attic orators. The work exemplifies the Alexandrian scholarly tradition of preserving and elucidating classical Attic Greek, which was upheld as a literary standard. Its content consisted of definitions and explanations of distinctively Attic words and phrases, with a particular focus on the language of established prose writers. The treatise does not survive intact and is known only through later references, most notably in the Byzantine encyclopedia known as the Suda, which records that the collection originally contained 72 entries. These fragments indicate its subsequent incorporation into the later lexicographical tradition. As a representative of the Atticist lexicographical genre, the work illustrates the grammatical scholarship that underpinned the preservation and imitation of classical Greek literature during the Hellenistic and Roman periods. It served as an important reference for education and literary composition committed to the ideal of Attic purity.
+
 ## Text
 
 ### 1

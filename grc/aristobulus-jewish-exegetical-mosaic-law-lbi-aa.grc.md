@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lbi-aa` · [HTML page](https://eulogikon.org/works/aristobulus-jewish-exegetical-mosaic-law-lbi-aa)
 
+The Exegetical Fragments on Mosaic Law is a philosophical treatise by Aristobulus, a Jewish philosopher active in Alexandria during the mid-2nd century BCE. The complete work is lost, and its content is known only through quotations preserved in later Christian writings. These surviving fragments present an allegorical interpretation of the Torah, the Law of Moses, with the explicit aim of demonstrating its fundamental harmony with Greek philosophical principles. Aristobulus advances the argument that eminent Greek thinkers, including Plato and Pythagoras, were themselves acquainted with an early Greek translation of the Torah and derived their most significant ideas from it. The extant passages address specific exegetical issues, such as the symbolic significance of the Sabbath and the necessity of interpreting biblical anthropomorphisms—references to God's hands, face, or feet—in a non-literal, philosophical manner.
+
+Scholars regard this work as a seminal text in Jewish apologetic literature, composed to defend and elucidate Jewish tradition for a Hellenistic audience. It is believed to have been formally addressed to a Ptolemaic king, possibly as part of an effort to secure cultural legitimacy and patronage within the Alexandrian court. By systematically interpreting Mosaic law through the lens of philosophical allegory, Aristobulus sought to elevate its prestige within the contemporary intellectual milieu. His methodological approach, which reconciles scriptural narrative with abstract philosophical concepts, exerted a direct influence on later Jewish thinkers, most notably Philo of Alexandria, and played a crucial role in shaping the ongoing dialogue between religious scripture and Hellenistic philosophy.
+
 ## Text
 
 ### 1

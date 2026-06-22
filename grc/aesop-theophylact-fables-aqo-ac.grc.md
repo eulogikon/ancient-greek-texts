@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-ac` · [HTML page](https://eulogikon.org/works/aesop-theophylact-fables-aqo-ac)
 
+The Fables of Theophylact Simocatta the Scholar is a minor Byzantine prose work containing two short fables attributed to Aesop but transmitted under the name of the historian Theophylact Simocatta, who lived in the late sixth and early seventh centuries. The two narratives are "The Peacock and the Jackdaw" and "The Ass and the Lyre," both traditional Aesopic tales recast in an elaborate, rhetorical prose style characteristic of later antiquity. In the first, a jackdaw, envious of a peacock's plumage, adorns itself with peacock feathers only to be rejected by both peacocks and its fellow jackdaws. In the second, an ass finds a lyre and attempts to play it by trampling on the strings; when it produces only noise, the ass blames the instrument for its lack of sweetness.
+
+The fables are preserved within the Byzantine Collectio Augustana, a major medieval compilation of Aesopic material. Their anomalous attribution to Simocatta may represent a scholarly exercise, a simple misattribution, or an attempt to lend the fables greater prestige by associating them with a known author. As literary works, they are minor components of the Aesopic tradition. Their significance lies primarily in their textual history, which illustrates the fluidity of authorship in the transmission of ancient popular literature and demonstrates the ongoing engagement of Byzantine scholars with classical genres.
+
 ## Text
 
 ### 1 (t)

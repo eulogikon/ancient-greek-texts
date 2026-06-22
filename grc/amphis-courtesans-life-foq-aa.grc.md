@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `foq-aa` · [HTML page](https://eulogikon.org/works/amphis-courtesans-life-foq-aa)
 
+The Fragments on Courtesans and Life is a modern compilation of excerpts from the lost comedies of Amphis, an Athenian poet of the fourth century BCE. Active during the period of Middle Comedy, Amphis wrote plays that shifted focus from the political satire of earlier Old Comedy toward themes of daily life, domestic affairs, and stock character types. The 144 surviving fragments, written in Attic Greek verse, are preserved solely through quotation by later ancient authors such as Athenaeus, who cited them for their witty dialogue and descriptions of food and social customs in his Deipnosophistae. These fragments offer glimpses into his plays, with a notable emphasis on the lives of courtesans, as well as topics including family conflict, gastronomy, and the parody of contemporary philosophers. As the complete plays have not survived, these indirectly transmitted fragments are interpreted by scholars as a vital link in the evolution of Athenian comedy, illustrating the transition toward the domestic and romantic plots that would later define New Comedy. The collection provides valuable, if piecemeal, insights into fourth-century Athenian society, popular humor, and theatrical trends.
+
 ## Text
 
 ### book 1.1

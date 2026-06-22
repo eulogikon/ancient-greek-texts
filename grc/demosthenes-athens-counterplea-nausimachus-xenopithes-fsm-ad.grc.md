@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ad` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-nausimachus-xenopithes-fsm-ad)
 
+The Counterplea To Nausimachus and Xenopithes is a forensic oration preserved within the Demosthenic corpus, though its authorship is spurious and attributed to an unknown fourth-century BCE logographer. It is a complete example of a paragraphē, a procedural plea used in Athenian law to argue that a lawsuit is inadmissible. The speech was written for an unnamed defendant being sued by Nausimachus and Xenopithes, the sons of Aristaechmus, over an inheritance. The core legal argument asserts that the suit is barred because the matter had been conclusively settled through prior arbitration, after which the defendant’s father received a formal release from all future claims regarding the estate. The oration meticulously outlines this procedural history, emphasizing the finality of arbitrated settlements and the binding power of a release under Athenian law. It rhetorically portrays the plaintiffs as engaging in vexatious litigation by reopening a resolved dispute. As a documentary source, the speech provides significant insight into Athenian legal procedure, particularly the practical application of the paragraphē mechanism and the role of private arbitration in resolving complex inheritance cases, illustrating the sophisticated legal strategies available in classical Athenian courts.
+
 ## Text
 
 ### Or38 1

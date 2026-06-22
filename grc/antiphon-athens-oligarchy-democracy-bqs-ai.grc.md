@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqs-ai` · [HTML page](https://eulogikon.org/works/antiphon-athens-oligarchy-democracy-bqs-ai)
 
+The Fragments on Oligarchy and Democracy comprises nine brief passages attributed to the Athenian orator and statesman Antiphon, who was active in the late 5th century BCE. Preserved in quotations by later Roman grammarians primarily for their linguistic interest, these fragments are remnants of larger, now-lost political orations. They articulate a pointed comparison of constitutional forms, offering a critique of democracy as the capricious and unskilled rule of the masses while advocating for oligarchy as the governance of the wise and capable, which ensures stability and justice. The fragments are historically situated within the fierce political conflicts in Athens around 411 BCE, a period during which Antiphon was a leading architect of the oligarchic coup that briefly overthrew the democratic government. They are thus interpreted as persuasive texts composed for contemporary political agitation, providing a direct glimpse into the ideological warfare of the era. As one of the earliest extant systematic critiques of popular rule, the arguments within these fragments prefigure and influenced subsequent philosophical analyses of constitutions by thinkers such as Plato and Aristotle.
+
 ## Text
 
 ### 3 1

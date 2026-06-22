@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-al` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-greek-afflictions-tds-al)
 
+The Treatment of Greek Afflictions is a major apologetic treatise composed in Greek by Theodoret, Bishop of Cyrrhus, circa 423–437 CE. Its primary objective is a systematic refutation of pagan Greek religion and philosophy coupled with a robust defense of Christian doctrine. Structured into twelve books containing 943 distinct passages, the work encompasses a broad range of subjects, including theology, cosmology, morality, and pagan cultic practices. Theodoret’s methodology is characterized by the extensive quotation and paraphrase of a vast array of Greek authors, from Homer and Plato to historians and oracles. He strategically employs their own words to argue against the foundations of paganism, while simultaneously suggesting that certain insights within the classical tradition prefigure Christian truth. The complete Greek text of the treatise survives via medieval manuscript transmission. Modern scholarship regards it less as a work of original philosophical argument and more as a comprehensive scholarly compilation of the fifth century, notable for its encyclopedic scope. It is generally considered to have been composed to persuade educated elites, deeply immersed in classical Greek culture, of Christianity’s intellectual and spiritual superiority. Today, the treatise is valued both as a pivotal document of Christian engagement with Hellenism and as an important indirect source for preserving fragments from numerous otherwise lost Greek works.
+
 ## Text
 
 ### p t

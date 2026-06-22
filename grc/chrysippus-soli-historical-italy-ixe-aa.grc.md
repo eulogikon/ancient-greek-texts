@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ixe-aa` · [HTML page](https://eulogikon.org/works/chrysippus-soli-historical-italy-ixe-aa)
 
+The Historical Fragments on Italy is a lost treatise by the Stoic philosopher Chrysippus of Soli. Only two fragments survive, preserved as quotations in later authors, with the title indicating a focus on Italian history or geography. The extant fragments reveal two thematic interests. One, cited by the geographer Strabo, recounts the Tyrrhenian migration from Lydia to Italy, citing the historian Xanthus of Lydia as a source and demonstrating an interest in ethnographic origins. A second fragment, preserved by Clement of Alexandria, mentions the mythological figure Combe fleeing to a sanctuary in Ephesus, though its specific connection to the work's Italian theme remains unclear. The treatise survives solely through this indirect tradition, with no manuscript of the original text extant. While its direct influence is untraceable, its preservation in such authoritative later sources demonstrates that Chrysippus’s historical compilations were consulted as source material well into the Roman Imperial period. The fragments exemplify the broader Hellenistic philosophical practice of employing historical and mythological exempla within scholarly discourse.
+
 ## Text
 
 ## ΙΤΑΛΙΚΑ. E LIBRO PRIMO.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ehy-aa` · [HTML page](https://eulogikon.org/works/ctesias-cnidus-testimonies-ehy-aa)
 
+The Testimonies is a work attributed to Ctesias of Cnidus, a Greek physician and historian who served at the Persian court of Artaxerxes II in the late fifth and early fourth centuries BCE. While Ctesias is principally known for his extensive historical and ethnographic writings, the Persica and the Indica, the Testimonies represents a more obscure facet of his literary output. Unlike his major works, it is not discussed in standard ancient testimonia or modern reference entries for the author. Given that the work is associated with the domain of medicine, it is plausible that it constituted a medical collection, a genre consistent with Ctesias's profession as a physician. His other writings demonstrate a documented interest in foreign materia medica, drugs, and diseases, suggesting the Testimonies may have compiled similar observations or remedies.
+
+The work survives, if at all, only indirectly. The writings of Ctesias are preserved fragmentarily through citations by later authors such as Photius, Diodorus Siculus, and Nicolaus of Damascus, but these sources exclusively reference his historical narratives. There is no extant mention of the Testimonies in these transmissions, leaving its content and structure entirely speculative. Consequently, its historical and scholarly significance remains obscure. It represents a potential but lost dimension of Ctesias's intellectual activity, one that would have showcased his medical expertise separately from the often-criticized historical and ethnographic accounts for which he is primarily remembered.
+
 ## Text
 
 ### 3c,688,T 1

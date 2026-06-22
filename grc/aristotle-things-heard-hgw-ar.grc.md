@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ar` · [HTML page](https://eulogikon.org/works/aristotle-things-heard-hgw-ar)
 
+The work known as From-Things Heard is a collection of ten doxographical passages attributed to Aristotle, which compile the opinions of earlier philosophers and natural scientists. Its title suggests it is an excerpt from a larger, possibly lost, Aristotelian work titled On Things Heard. The text presents the views of pre-Socratic thinkers such as Empedocles, Anaxagoras, and Democritus with minimal critical commentary, making it a valuable source for reconstructing early Greek thought. The passages cover topics in natural philosophy, including theories on the nature of the soul, accounts of sensation and cognition, and explanations for physiological phenomena such as sleep, dreams, and generation. Preserved within the medieval manuscript tradition of the Aristotelian corpus, it is often appended to the Parva Naturalia, with the ten passages constituting the complete extant text. As a foundational example of ancient doxography, its primary importance lies in preserving pre-Socratic doctrines. It reflects the Peripatetic method of collecting prior opinions as a basis for inquiry and remains a significant source for historians of ancient philosophy.
+
 ## Text
 
 ### Aud 800a (t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvm-aa` · [HTML page](https://eulogikon.org/works/philetas-cos-grammatical-fragments-hvm-aa)
 
+The Grammatical Fragments is a lost didactic poem by the poet and scholar Philetas of Cos, known only through quotations preserved in later lexicographers and grammarians, most notably Athenaeus in his Deipnosophistae. Written in verse, the work represents an early Hellenistic synthesis of technical instruction and literary artistry. It survives in over one hundred short passages, cited by later authors for their lexical or explanatory content rather than as continuous text. The fragments address grammatical and philological themes, including lexicography and glossography, where rare or obscure words are explained; etymology, investigating word origins and derivations; and dialectology, noting variations in Greek dialects, including Homeric and Aeolic forms. The poem is transmitted entirely through these fragments, which were preserved for their utility in defining unusual vocabulary, a common fate for early specialized treatises. Philetas’s work was historically influential, establishing him as an early grammarian whose poetic approach to language inquiry helped shape the Alexandrian scholarly tradition. His reputation as a learned poet also made him a model for later Roman poets, contributing significantly to the ideal of the poeta doctus.
+
 ## Text
 
 ### book 1.1

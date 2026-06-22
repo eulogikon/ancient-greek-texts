@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mey-aa` · [HTML page](https://eulogikon.org/works/callistratus-heraclea-on-heraclea-mey-aa)
 
+_On Heraclea_ is a lost prose history of the Greek colony Heraclea Pontica, written by its citizen Callistratus. The work, also known by the title _Excerpts_, is preserved only in fragments quoted by later authors, most notably the geographer Strabo and the Byzantine scholar Photius. From these citations, it is clear the history provided a comprehensive account of the city, beginning with its foundation by colonists from Megara and Boeotia. It detailed the city's political constitution and chronicled significant events, including the period of tyranny under Clearchus and his successors. The work also contained descriptions of local geography and resources, and examined Heraclea's complex relationships with neighboring peoples such as the Mariandyni and with regional powers like the Persian Empire. These fragments were transmitted primarily through Photius's _Bibliotheca_ and Strabo's _Geography_, with additional references found in the _Suda_ lexicon, and were later compiled in modern collections of historical fragments. Callistratus's history served as a vital source for ancient writers on the Black Sea region, and its surviving passages remain indispensable for modern scholars attempting to reconstruct the history of Greek colonization in the Pontic area and to understand the conventions of Hellenistic local historiography.
+
 ## Text
 
 ### t1a-10

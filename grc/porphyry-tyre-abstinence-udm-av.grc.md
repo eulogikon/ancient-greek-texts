@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-av` · [HTML page](https://eulogikon.org/works/porphyry-tyre-abstinence-udm-av)
 
+On Abstinence from Animal Food is a four-book philosophical treatise written in Greek by Porphyry of Tyre around 268–270 CE. Addressed to his friend Firmus Castricius, who had abandoned a vegetarian diet, the work is a detailed defense of abstinence from meat. The first book refutes common practical and social arguments against vegetarianism. The second presents the core ethical case, arguing that animals are rational and sentient beings and that killing them for food is an act of injustice. The third book supports this view with a survey of dietary practices from various ancient cultures and philosophical schools. The final book offers practical advice for an ascetic lifestyle, connecting a pure, meatless diet with spiritual purification and contemplation.
+
+The complete text survives through medieval Greek manuscripts, the oldest dating to the 10th or 11th century. Modern scholars interpret the work as a key product of Neoplatonic thought, composed within the circle of the philosopher Plotinus. It is seen as a serious philosophical polemic, engaging with rival schools like the Stoics, and as a religious critique of traditional animal sacrifice. The treatise is considered the most systematic ancient argument for vegetarianism and has influenced ethical, religious, and environmental thought from late antiquity to the modern day.
+
 ## Text
 
 ### 1 t

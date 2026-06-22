@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `asm-aa` · [HTML page](https://eulogikon.org/works/alcaeus-mytilene-marriage-kingship-asm-aa)
 
+The Fragments on Marriage and Kingship is a modern scholarly designation for surviving excerpts from the lyric poetry of Alcaeus of Mytilene, an aristocratic poet from the island of Lesbos active in the late seventh and early sixth centuries BCE. Composed in the Aeolic dialect for musical accompaniment at the all-male aristocratic symposium, his work addressed both personal and intensely political themes. The extant corpus consists entirely of fragments, ranging from isolated phrases to partial stanzas, preserved through quotation by later authors, papyrological discoveries, and ancient scholia. The fragments categorized under kingship are among his most significant, containing virulent invective against the rulers and tyrants who feature in the violent factional strife of his native city. Those concerning marriage may relate to personal experience but equally reflect the political realities of Alcaeus’s world, where marital alliances were crucial instruments in aristocratic power struggles. Modern interpretation often views his political verse as factional propaganda for his exiled aristocratic circle, employing powerful and enduring imagery, such as the storm-tossed ship of state, to articulate civic turmoil and the bitterness of displacement. His primary audience was his fellow symposiasts, to whom these songs of allegiance, grievance, and celebration were directly performed.
+
 ## Text
 
 ### book 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `esi-ab` · [HTML page](https://eulogikon.org/works/ion-samos-epigram-esi-ab)
 
+The epigram attributed to Ion of Samos is a short verse composition preserved in fragmentary form. It consists of four passages cataloged under his name within the Greek Anthology, a Byzantine compilation of ancient poetic inscriptions. The work is distinguished from that of the more prominent 5th-century BCE poet Ion of Chios. While the specific text is not detailed in available sources, the epigrammatic genre indicates its original function was likely commemorative, with common thematic elements including mortality and memorialization, the dedication of an object to a god, or concise praise for a person or artifact. The epigram survives indirectly through its inclusion in the Greek Anthology, where the four fragments attributed to Ion of Samos are presented. Its preservation within this collection signifies the poem was valued by later compilers. The work contributes to the corpus of Hellenistic epigrammatic poetry, representing the output of a lesser-known author from Samos.
+
 ## Text
 
 ### book 43.1.1

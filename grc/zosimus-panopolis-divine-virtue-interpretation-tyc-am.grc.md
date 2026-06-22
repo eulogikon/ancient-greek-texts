@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-am` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-virtue-interpretation-tyc-am)
 
+_Zosimus the Divine-Virtue and Interpretation_ is an alchemical treatise attributed to Zosimus of Panopolis, a foundational Greco-Egyptian alchemist. Structured in twenty-one passages, the work blends practical laboratory instruction with philosophical and mystical speculation, a hallmark of the Alexandrian alchemical tradition. Its title indicates a dual focus on the transformative power, or "virtue," of substances and the "interpretation" of the symbolic language found in earlier texts and visions. The treatise addresses core alchemical themes, including the transmutation and perfection of base metals into noble ones, which symbolizes a parallel journey of spiritual ascent and the liberation of the spirit from matter, reflecting Gnostic influences. It provides instruction on decoding the obscure technical language of alchemy and offers descriptions of apparatus and processes, though these are often veiled in allegory. The work consistently presents alchemy itself as a sacred and divinely revealed art.
+
+Zosimus's writings, including this treatise, survive primarily through later Greek, Syriac, and Arabic compilations. This text is preserved within the Byzantine manuscript tradition, with a key witness being the tenth- or eleventh-century codex known as Marcianus Graecus 299, a primary source for the Greek alchemical corpus. As antiquity's most influential alchemical author, Zosimus's integration of spiritual pursuit with practical chemical investigation set a precedent for all subsequent Western alchemy. His work was instrumental in transmitting Greco-Egyptian theory and practice to Islamic and later medieval Latin scholars. The treatise remains a crucial source for understanding the intellectual and religious syncretism of late antiquity.
+
 ## Text
 
 ### [15]

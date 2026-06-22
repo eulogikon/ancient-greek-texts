@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gxq-aa` · [HTML page](https://eulogikon.org/works/aretades-cnidus-macedonian-history-gxq-aa)
 
+The Fragments on Macedonian History by Aretades of Cnidus is a lost historical work known only through a handful of excerpts preserved by later authors. These fragments, collected in modern scholarship, offer brief glimpses into Macedonian history and antiquities. The extant passages illustrate the work's antiquarian focus, touching upon subjects such as the cultural patronage of King Archelaus I, who invited the tragedian Euripides to his court, and providing etymologies for Macedonian place names, including an explanation linking the city of Aegae to goats. The text survives solely as quotations within the works of later compilers, such as the Byzantine geographer Stephanus of Byzantium and the philosopher Themistius, with no independent manuscript tradition. Aretades' work belongs to the Hellenistic genre of local Macedonian histories. While its direct influence appears to have been minimal, it served as a source for later lexicographers and contributes valuable, albeit fragmentary, evidence for the study of early Macedonian history and local traditions.
+
 ## Text
 
 ## ΜΑΚΕΔΟΝΙΚΑ. E LIBRO TERTIO. Plutarch.

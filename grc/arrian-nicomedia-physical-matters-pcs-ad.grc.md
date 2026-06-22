@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-ad` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-physical-matters-pcs-ad)
 
+The Fragments-Physical Matters is a collection of nine surviving excerpts from a lost treatise on natural philosophy by the 2nd-century CE Roman historian and Stoic disciple Arrian of Nicomedia. This work represents a lesser-known dimension of his scholarship, focusing on Stoic physics rather than the history or ethics for which he is primarily known. Based on its title and Arrian's philosophical affiliation, the original treatise likely addressed core Stoic doctrines concerning the cosmos, divine reason, cosmology, periodic world conflagration, the nature of god and matter, and the principles of bodies and elements. The text survives only in these fragmentary passages, indicating it was quoted by later authors or preserved in anthologies after the complete work was lost. While its direct influence remains untraceable, the fragments attest to the breadth of Arrian's intellectual pursuits and serve as a minor but valuable witness to discussions of Stoic physical theory during the Roman Imperial period.
+
 ## Text
 
 ## FRAGMENTA DE REBUS PHYSICIS Ioannes Philoponus in Aristotelis Meteor.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vek-aa` · [HTML page](https://eulogikon.org/works/dioscorus-aphrodito-panegyric-justin-vek-aa)
 
+The Panegyric to Emperor Justin is a formal Greek verse encomium composed by Dioscorus of Aphrodito, a notary and poet in sixth-century Byzantine Egypt. Written during the reign of Emperor Justin II, the work employs conventional panegyric rhetoric to extol the emperor’s virtues, his legitimate succession from his uncle Justinian I, and his military successes, thereby affirming the established hierarchy of the Byzantine state. The surviving text is not a continuous poem but a collection of 399 fragments preserved on papyri from the author’s personal archive, discovered at Aphrodito in Egypt. These fragments represent drafts or copies, and the complete original poem is lost. Modern scholarship interprets the panegyric as a practical effort by a provincial notable to seek favor or patronage from the imperial court, illustrating the local adaptation of classical literary forms for social and political advancement. The work was likely intended for formal recitation, though whether it ever reached the emperor in Constantinople remains unknown. Its transmission is singular, surviving only in these papyri and remaining entirely unknown until the twentieth century. The poem’s primary significance lies not in its literary influence but as a historical document, providing invaluable insight into the cultural, linguistic, and social intersections characteristic of late antique Egypt.
+
 ## Text
 
 ### book 1r.1

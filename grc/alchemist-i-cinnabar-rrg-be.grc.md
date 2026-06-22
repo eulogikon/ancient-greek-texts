@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-be` · [HTML page](https://eulogikon.org/works/alchemist-i-cinnabar-rrg-be)
 
+On the Making of Cinnabar is a concise, practical alchemical treatise written in Koine Greek and attributed by modern scholarship to an anonymous author designated as Alchemist I. This work forms part of a corpus of technical texts pseudonymously ascribed to the philosopher Democritus, a common practice intended to lend authority to craft knowledge. It likely originated in the Greco-Egyptian workshops of the early Roman Empire around the 1st century CE. The treatise is composed of three instructional passages dedicated to a single, clear objective: the artificial production of the red pigment cinnabar, or mercury sulfide, from its constituent materials, sulfur and mercury.
+
+Exemplifying ancient "recipe literature," the text provides direct, step-by-step procedures for the practitioner, devoid of theoretical speculation. It was written for artisans and early experimenters, reflecting a period where craft techniques intersected with emerging concepts of material transformation. The instructions detail processes such as grinding the components, sealing them in a glass vessel with a clay lute, and heating them in a self-sustaining fire for a specified duration, followed by repeated washing to achieve the desired color. The work embodies key themes of the era, particularly the replication of natural substances through artisanal skill and the hands-on manipulation of matter.
+
+The treatise survives in full as part of a larger collection of Greek alchemical writings. It is preserved primarily in medieval Byzantine manuscripts, most notably within the 10th- or 11th-century codex Marcianus graecus 299. As a component of the foundational Pseudo-Democritus corpus, its practical methods for handling volatile substances like mercury and sulfur contributed to the development of later alchemical and technological traditions in the Byzantine, Islamic, and Latin worlds.
+
 ## Text
 
 ### 2.38

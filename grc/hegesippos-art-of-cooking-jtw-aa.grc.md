@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jtw-aa` · [HTML page](https://eulogikon.org/works/hegesippos-art-of-cooking-jtw-aa)
 
+_The Art of Cooking_ is a lost Athenian comedy by the 4th-century BCE poet Hegesippos. The work survives only through a series of fragments preserved primarily by the grammarian Athenaeus in his _Deipnosophistae_. The extant passages indicate a play centered on food, cooking, and banquet scenes, offering insight into ancient Greek culinary culture and comic tropes. The fragments suggest the comedy explored the preparation and consumption of food, including themes of gluttony and culinary expertise, as well as the social rituals of banquets and symposia. It featured stock characters, such as the boastful cook or the parasitic guest, and employed detailed references to specific foodstuffs, utensils, and dining practices for humorous effect. The play has no independent manuscript tradition; its entire text derives from quotations in later authors, most notably Athenaeus. As a fragmentary work, its primary importance is twofold. It provides evidence for the themes and evolution of 4th-century BCE comedy, particularly its shift toward social and domestic humor. Secondly, preserved for its culinary details, it serves as a valuable source for historians studying ancient Greek diet, material culture, and the social role of food.
+
 ## Text
 
 ### book 1.1

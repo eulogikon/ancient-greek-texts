@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ima-aa` · [HTML page](https://eulogikon.org/works/manetho-sebennytos-egyptian-dynasties-ima-aa)
 
+Manetho's Egyptian Dynasties, a foundational historical work from the early 3rd century BCE, was composed in Greek prose by the Egyptian priest Manetho during the reign of Ptolemy II Philadelphus. Presenting a comprehensive history of Egypt, it organized the nation's past into a sequence of thirty or thirty-one royal families, or dynasties—a revolutionary framework for which Manetho is credited. The work combined king-lists with narrative, commencing with mythological accounts of divine rulers before systematically detailing the reigns, events, and regnal years of mortal pharaohs.
+
+No complete manuscript of the original text survives. The work is known only through fragments, summaries, and quotations preserved by later historians and chronographers such as Josephus, Sextus Julius Africanus, and Eusebius of Caesarea. Modern scholarship interprets the Aegyptiaca as an authoritative presentation of Egypt's national history, written to inform the new Greek-speaking Ptolemaic elite and to correct earlier Greek accounts. It is believed to have been composed with access to native Egyptian temple records, to which Manetho, as a high-ranking priest, would have had special privilege. His dynastic structure became the bedrock of Egyptian chronology and remains the standard organizational scheme used by Egyptologists.
+
 ## Text
 
 ### t1-73

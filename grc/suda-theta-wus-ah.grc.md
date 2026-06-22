@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-ah` · [HTML page](https://eulogikon.org/works/suda-theta-wus-ah)
 
+The theta section of the Suda (Σοῦδα, Στοιχεῖον Θ) contains 624 entries spanning geography, nautical vocabulary, ritual terminology, and everyday Greek. Early entries include glosses on Mount Θαβώρ, the civic gathering-place θᾶκος, and the nautical term θαλαμακεῖς — rowers stationed in the lowest tier of a trireme who received reduced pay because their oars were shorter than those of the other three rowing classes.
+
+The middle of the letter addresses religious and poetic language: θειασμοί appears in a citation from Josephus, and θειλόπεδον, a place for drying grapes, is illustrated from the Epigrams. Liturgical and sacrificial terms cluster near the letter's close, including θυτηρίοις (censers) and θύψις (scorching), with an associated gloss on half-burnt embers (θυμάλωπες).
+
+The section is useful for lexicographers studying Byzantine transmission of Attic prose and poetry, for historians of ancient seafaring, and for scholars tracing the Suda's use of Josephus and epigrammatic sources.
+
 ## Text
 
 ### θ 1

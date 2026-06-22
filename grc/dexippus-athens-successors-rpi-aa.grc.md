@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rpi-aa` · [HTML page](https://eulogikon.org/works/dexippus-athens-successors-rpi-aa)
 
+The History of the Successors is a historical epitome composed in Attic Greek by the third-century Athenian historian Publius Herennius Dexippus. This work chronicles the turbulent period immediately following the death of Alexander the Great in 323 BCE, likely extending into the early decades of the third century BCE. The complete text is lost, and knowledge of it depends entirely on fifty-two surviving fragments. These passages were preserved through their inclusion in a tenth-century Byzantine compilation that selected excerpts for their perceived moral or strategic value. The extant fragments focus on the military conflicts, political maneuvers, and prominent figures of the early Hellenistic age, particularly the rival generals known as the Diadochi. Dexippus, who also served as a political and military leader in Athens, wrote during the Roman imperial period. Scholars interpret his history as an attempt to connect the Greek Hellenistic past with the Roman present, offering his contemporary elite audience historical exempla of leadership and statecraft. The work is generally seen as an assertion of the continuity and enduring relevance of Greek history and culture. Its entirely indirect transmission, reliant on later anthologies, means the full original scope and structure of the history remain obscure.
+
 ## Text
 
 ### t1a-2a

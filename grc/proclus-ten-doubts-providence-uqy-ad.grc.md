@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ad` · [HTML page](https://eulogikon.org/works/proclus-ten-doubts-providence-uqy-ad)
 
+On Ten Doubts Concerning Providence is a philosophical treatise by Proclus, the 5th-century CE head of the Platonic Academy in Athens. Written in Attic Greek, the work systematically confronts ten major aporiai, or puzzles, regarding the nature and operation of divine providence. Its central project is to demonstrate the rational coherence of a benevolent and omniscient divine governance of the cosmos in the face of apparent counter-evidence, including the existence of evil, the mechanisms of fate, the reality of human freedom, and the seemingly arbitrary distribution of suffering and good fortune. The text is structured as a series of sixty-two discrete passages, each offering a formal, dialectically argued solution to these interconnected problems.
+
+Composed for an advanced philosophical readership, the treatise constitutes a robust defense of the Platonic theological system during a period of intense religious and philosophical debate in the late Roman Empire. It aims to secure the intellectual foundations of Neoplatonic theology against common objections by rigorously reconciling the principles of a transcendent, provident divinity with the complexities of the manifested world. The complete Greek text survives, and its transmission and influence were significantly secured by a 6th-century Latin translation produced by the scholar Boethius. Through this translation, Proclus's intricate analyses of providence, fate, and evil profoundly shaped subsequent philosophical discourse in both the medieval Latin West and the Byzantine East.
+
 ## Text
 
 ### 2

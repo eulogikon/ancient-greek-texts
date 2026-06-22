@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ag` · [HTML page](https://eulogikon.org/works/euripides-trojan-women-cbm-ag)
 
+Trojan Women is a tragedy by the ancient Greek playwright Euripides. First performed in Athens in 415 BCE, the play dramatizes the immediate aftermath of the fall of Troy, focusing on the captured royal women of the city as they learn their fates as slaves to the victorious Greek generals. The central figures are Queen Hecuba, her prophetic daughter Cassandra, her daughter-in-law Andromache, and Helen, whose actions precipitated the war. The structure is a series of lamentations and debates rather than an action-driven plot, emphasizing the profound grief and psychological devastation of the defeated. The play survives complete through medieval manuscripts, with a standard length of 1,267 lines. Modern scholars have interpreted it as a powerful critique of war and imperialism, written during the Peloponnesian War and shortly after the Athenian destruction of the island of Melos. Its unrelenting focus on the suffering of civilians, particularly women and children, has established its reputation as one of the most enduring anti-war works in Western literature.
+
 ## Text
 
 ### 1

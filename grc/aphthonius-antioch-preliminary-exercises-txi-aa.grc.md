@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `txi-aa` · [HTML page](https://eulogikon.org/works/aphthonius-antioch-preliminary-exercises-txi-aa)
 
+The Preliminary Exercises is a Greek rhetoric textbook composed by Aphthonius of Antioch in the late fourth century CE. Designed as a practical handbook for the classroom, it systematically trains students in the foundational skills of oratory through a sequence of fourteen graded compositional exercises. These progress in complexity from elementary forms, such as the fable and narrative, to advanced argumentative structures, including the elaboration of a thesis and the proposal of a law. For each exercise, Aphthonius supplies a precise definition, clear compositional instructions, and a complete model text for student imitation.
+
+Created for the flourishing rhetorical schools of the late Roman Empire, which prepared the elite for public careers, the work stands within a long tradition of such instructional manuals. Its exceptional clarity and systematic organization, however, distinguished it from its predecessors and ensured its pedagogical dominance. Transmitted in full through a vast number of manuscripts, the textbook achieved canonical status in Byzantine education, where it remained the standard primer for nearly a thousand years. Its influence later extended to Western Europe through Latin translations, where it played a profound role in shaping the teaching of rhetoric and composition during the Renaissance and early modern periods.
+
 ## Text
 
 ### 10.1.(1t)

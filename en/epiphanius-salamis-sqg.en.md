@@ -16,7 +16,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 ## Works
 
-- [On Faith](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epiphanius-salamis-faith-sqg-bn.grc.md) — *Περὶ πίστεως* · `sqg-bn`
+- [On the Stoics (from On Faith)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epiphanius-salamis-on-the-stoics-sqg-bo.grc.md) — *Περὶ τῶν Στωϊκῶν* · `sqg-bo`
 
 ## License and provenance
 

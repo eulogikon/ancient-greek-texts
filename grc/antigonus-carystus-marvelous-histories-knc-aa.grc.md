@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `knc-aa` · [HTML page](https://eulogikon.org/works/antigonus-carystus-marvelous-histories-knc-aa)
 
+The Collection of Marvelous Histories by Antigonus of Carystus is a complete prose work of paradoxography from the 3rd century BCE. It compiles 149 discrete anecdotes detailing wondrous and anomalous phenomena drawn from the natural world and human experience, each typically citing an earlier authority. The work systematically catalogs marvels intended to inspire wonder, including peculiar animals and monstrous births, bizarre geological formations, unusual customs of foreign peoples, and accounts of miraculous events. The text survives in full, preserved entirely through the medieval manuscript tradition, most notably in the 14th-century manuscript known as Parisinus Graecus 1672, where it is transmitted as a unified and complete work. As a key early example, this collection helped define the literary genre of paradoxography and influenced later compilers such as Aelian. It remains a valuable source for fragments of lost Hellenistic authors and provides significant insight into Hellenistic scholarly methods and intellectual tastes.
+
 ## Text
 
 ### t 1

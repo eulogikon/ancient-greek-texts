@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `idy-aa` · [HTML page](https://eulogikon.org/works/simylus-tarpeia-fragments-idy-aa)
 
+"The Tarpeia Fragments" are five verse passages attributed to the otherwise unknown comic poet Simylus. The work treats the Roman myth of Tarpeia, the Vestal Virgin who betrayed the city to the Sabines. No substantive description of the fragments' narrative content exists in the sources, and the poet Simylus lacks secure dates or biographical details. Based on the traditional myth, the fragments likely engaged with themes of betrayal and its consequences, the conflict between personal motive and civic duty, Roman foundation myths, and Greco-Roman cultural interaction. The fragments survive through indirect transmission, having likely been preserved as quotations in later scholarly works, such as lexicographical or grammatical texts. Their title, which denotes extracted passages, reflects this status. These fragments represent a rare Greek comedic treatment of a Roman mythological subject and are of primary interest for the study of fragmentary Greek comedy and the reception of Roman themes in Hellenistic or later Greek literature.
+
 ## Text
 
 ### book 724.1

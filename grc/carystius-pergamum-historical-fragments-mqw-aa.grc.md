@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mqw-aa` · [HTML page](https://eulogikon.org/works/carystius-pergamum-historical-fragments-mqw-aa)
 
+The Historical Fragments of Carystius of Pergamum is a lost prose work, surviving only through quotations in later authors, most notably in nineteen separate passages within Athenaeus’s Deipnosophistae. These preserved excerpts consist of brief biographical anecdotes, historical details, and critical remarks concerning various Hellenistic figures, including poets, philosophers, and courtesans. The original composition was likely a collection of scholarly notes or memoranda, offering glimpses into literary history, social customs—particularly those associated with symposia—and employing a doxographical style characteristic of antiquarian writing. As an independent text, the work is entirely lost; its transmission depends solely on its citation by Athenaeus, and the fragments are now standardly collected in modern reference works such as Felix Jacoby’s Die Fragmente der griechischen Historiker. Though minor, Carystius’s compilation served as a source for later compilers, contributing to the Greco-Roman tradition of antiquarian scholarship. Modern historians consult these fragments for incidental details on Hellenistic biography and social history, acknowledging their value while recognizing the inherent limitations imposed by their fragmentary state.
+
 ## Text
 
 ### t1-16

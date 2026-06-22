@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-aq` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-cynegeticus-pcs-aq)
 
+Arrian's Cynegeticus is a prose treatise on hunting composed in Attic Greek by the Roman-era author and governor Lucius Flavius Arrianus around 124–129 CE. The work functions as a technical manual, comprising 120 sections, while also incorporating elements of a eulogy. It focuses specifically on the pursuit of hares using hounds and nets, providing detailed instruction on the selection and training of dogs, the preparation of equipment, and the conduct of hunts both on foot and horseback. Arrian explicitly frames his manual as an update and correction to the earlier, celebrated Cynegeticus by Xenophon, an author he admires but whose work he seeks to supplement with more precise contemporary knowledge.
+
+The complete text survives and was likely written during Arrian's tenure as governor of Cappadocia, a region he praises for its excellent hunting grounds. Modern scholarship interprets the treatise as serving a dual purpose: it is a practical guide and a moral defense of hunting as a virtuous and educational pursuit for the aristocratic class. Arrian characterizes hunting as an "image of war," a training ground for cultivating courage, endurance, and strategic thinking. He contrasts this active, disciplined pastime with what he perceived as the passive and corrupting entertainments of contemporary Roman urban life. The work is a significant artifact of the Second Sophistic cultural movement, demonstrating the revival and emulation of classical Athenian literary models, such as Xenophon, while adeptly adapting them to the intellectual and social contexts of the Roman Empire.
+
 ## Text
 
 ### p t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ag` · [HTML page](https://eulogikon.org/works/isocrates-athens-against-lochites-ffu-ag)
 
+_Against Lochites_ is a short forensic oration attributed to the Athenian orator Isocrates. It is a prosecution speech composed for a client involved in a private lawsuit concerning assault. The speaker accuses a man named Lochites of committing an act of hubristic assault, arguing that the offense constituted an arrogant attack on the victim's civic dignity rather than a simple case of battery. The core of the speech is a deliberate distinction between mere physical violence and the public wrong of hubris, which was seen as an affront to the social order. The argument emphasizes the law's intent to protect citizen status and to punish arrogant behavior that undermines communal values, appealing directly to the jury's sense of civic duty to impose a severe penalty as a deterrent. The oration survives complete within the medieval manuscript tradition of the Isocratean corpus. Although its authenticity has occasionally been questioned by scholars, it is generally accepted as a genuine work. As a concise example of Attic logography, or speechwriting for clients, it represents the forensic style of Isocrates' early career and serves as a valuable source for understanding the practical application and rhetorical deployment of the complex Athenian legal concept of hubris in the courts.
+
 ## Text
 
 ### In Loch t

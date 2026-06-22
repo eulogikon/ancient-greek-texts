@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bk` · [HTML page](https://eulogikon.org/works/menander-athens-sentences-hps-bk)
 
+The Sentences is a collection of approximately 75 single-line maxims attributed to the Athenian comic playwright Menander. Written in Attic Greek verse, each entry offers concise, memorable counsel on practical and ethical themes such as wealth, friendship, marriage, and human character. The work is not a unified drama but a compilation, most likely assembled by later scholars from lines extracted from his popular comedies. While Menander's complete plays were largely lost after antiquity and survive only in fragments, the Sentences enjoyed a separate and vigorous transmission. Preserved in over 300 medieval manuscripts, the collection became a standard textbook in the Byzantine world for instruction in both language and morality. Modern scholarship interprets this compilation as part of a broader Hellenistic tradition of creating educational handbooks of wise sayings. The verses are generally accepted as genuine material from Menander's dramas, repurposed to function as standalone aphorisms. Their survival underscores Menander's enduring posthumous reputation as a source of accessible, worldly wisdom.
+
 ## Text
 
 ### book 1

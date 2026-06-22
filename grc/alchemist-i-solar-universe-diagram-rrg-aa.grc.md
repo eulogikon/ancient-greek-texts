@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-aa` · [HTML page](https://eulogikon.org/works/alchemist-i-solar-universe-diagram-rrg-aa)
 
+The Diagram of the Great Solar Work Compared to the Economy of the Universe is a pseudepigraphical Greek alchemical treatise attributed to the pseudonymous author known as Alchemist I. It survives within the corpus of Greek alchemical writings preserved in Byzantine manuscripts. The work’s central subject is the Great Solar Work, a process for the creation of gold or the philosopher's stone, which the text systematically parallels with the orderly arrangement and governance of the cosmos. This explicit analogy forms the treatise’s core argument, presenting the alchemical art as a sacred microcosmic reflection of divine macrocosmic principles.
+
+The text elaborates this cosmic analogy through a detailed allegorical framework. It posits that the universe can be contemplated in six aspects: the four classical elements of fire, air, earth, and water, along with soul and God as their steward and creator. The alchemical process is then described through six corresponding materials—water, soot, body, ash, cloud, and fire—with the first four mapped onto the four elements. The fifth material, cloud, is likened to the soul, while the sixth, fire, is compared to God the creator. This structure frames the laboratory work as a divine art that participates in and completes natural processes under providence, with the solar symbolism of the Great Work evoking ideals of perfection, permanence, and generative power.
+
+The treatise is transmitted primarily within Byzantine compilations such as the tenth- or eleventh-century manuscript Marcianus Graecus 299. It appears in modern critical editions of the Greek alchemical corpus, where it is categorized under a conventional pseudonym for scholarly reference. Although a relatively minor and technical work, its significance lies in its clear exemplification of a fundamental concept in Greco-Egyptian alchemy: the deliberate correspondence between laboratory operations and the structure of the universe. This theme of cosmic analogy, emphasizing the sacred and natural-philosophical dimensions of alchemy, was later transmitted through Arabic and Latin traditions, thereby influencing the theoretical frameworks of later Western alchemical thought.
+
 ## Text
 
 ### 2.388

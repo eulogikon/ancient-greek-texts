@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cvc-aa` · [HTML page](https://eulogikon.org/works/dionysius-miletus-alphabet-history-cvc-aa)
 
+Dionysius of Miletus's work On the Alphabet and Early History is a fragmentary antiquarian text from the late sixth or early fifth century BCE. Only two passages survive, one of which directly addresses the origin of the Greek alphabet. This fragment records the belief that the Phoenicians invented the letters and that Cadmus later brought them to Greece, while also noting alternative traditions, such as that of Danaus introducing them earlier. The work is preserved solely through later citations, with the principal fragment on the alphabet quoted in the twelfth-century Byzantine lexicon known as the Etymologicum Magnum. As a foundational figure in early Greek historical prose, Dionysius provides an early, datable source for the theory of the Phoenician origin of the Greek alphabet, a view later echoed by Herodotus. This testimony illustrates the Ionian historians' recognition of significant cultural influences from beyond the Greek world.
+
 ## Text
 
 ### 1

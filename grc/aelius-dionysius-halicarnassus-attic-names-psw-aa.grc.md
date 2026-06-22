@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `psw-aa` · [HTML page](https://eulogikon.org/works/aelius-dionysius-halicarnassus-attic-names-psw-aa)
 
+_Attic Names_ is a lexicographical treatise by the grammarian Aelius Dionysius of Halicarnassus, compiled during the Imperial period, most likely in the 2nd century CE. The work is a glossary of approximately 600 entries focusing on Attic vocabulary, compiled to aid in the correct understanding and usage of the classical Attic dialect, which was highly valued during the Second Sophistic. It forms part of the broader Atticist tradition that sought to standardize the language of classical Athenian authors. The entries primarily explain the meanings and proper Attic forms of nouns, often contrasting them with contemporary Koine or other dialectal usages, and reflect the themes of Atticism, linguistic purism, and scholarly authority. The original text is lost, but its contents are preserved fragmentarily through later compilation, most significantly within the 10th-century Byzantine encyclopedia, the _Suda_, which incorporated material from earlier grammarians. As a key source for the _Suda_, Aelius Dionysius’s work influenced Byzantine scholarship and helped define Attic standards for centuries. Alongside other Atticist lexica, it remains a crucial primary source for studying the history of the Greek language, ancient lexicography, and the reception of classical culture in the Roman Empire.
+
 ## Text
 
 ### T 1

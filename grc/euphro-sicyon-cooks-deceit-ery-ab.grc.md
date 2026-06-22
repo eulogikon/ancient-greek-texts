@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ery-ab` · [HTML page](https://eulogikon.org/works/euphro-sicyon-cooks-deceit-ery-ab)
 
+The comedic work Fragments on Cooks and Deceit by Euphro of Sicyon is known solely by its title and the notation that it originally consisted of seventy-four passages. No direct quotations or summaries of its content survive. Its existence is recorded only in the Suda's entry for Euphro, which lists his play titles; the reference to a specific number of passages suggests the work was cataloged by an ancient scholar, but no fragments are preserved elsewhere. The title indicates it treated the common comic pairing of cooks and deception, likely as a play or collection of comic verses. This implies standard comedic themes such as the boastful, professional cook as a stock character, plots involving trickery, and social satire centered on banquets and culinary pretension. While its direct influence is untraceable, the work confirms the productivity of comic poets from outside Athens, such as Sicyon, and illustrates the persistence of the cook-deceit trope in the broader Greek comic tradition, serving as a data point for the thematic range of Hellenistic or later comedy.
+
 ## Text
 
 ### book 1.1

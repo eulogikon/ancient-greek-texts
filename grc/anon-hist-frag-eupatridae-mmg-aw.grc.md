@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-aw` · [HTML page](https://eulogikon.org/works/anon-hist-frag-eupatridae-mmg-aw)
 
+The Eupatridae Ancestry is a lost genealogical work, known only from a single citation preserved in the lexicographer Harpocration's Lexicon of the Ten Orators. The fragment explains the term "Eupatridai," referring to the hereditary Athenian aristocracy, by referencing their purported descent from autochthonous, earth-born ancestors. The title indicates it was a compilation of ancestral histories for specific noble clans. Its content focused on the autochthonous origins of the Eupatrid class and the genealogical traditions that legitimized the political and social status of Athenian aristocratic families, situating it within the broader genre of local Attic history and mythology known as Atthis. The work survives solely through Harpocration's second-century CE reference and has no independent manuscript tradition, classifying it among fragmentary early Greek historiography. The citation establishes the work as an authoritative source for later scholars on archaic Athenian social structures, exemplifying how the aristocracy used genealogical literature to construct identity and ground political privilege in a mythical past.
+
 ## Text
 
 ### 3b,356,F 1*

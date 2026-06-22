@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ac` · [HTML page](https://eulogikon.org/works/pseudo-lucian-encomium-qeu-ac)
 
+The Encomium of Demosthenes is a formal Greek prose encomium praising the celebrated Athenian orator of the fourth century BCE. Transmitted under the name of the satirist Lucian of Samosata, it is universally considered by modern scholars to be the work of an anonymous author, conventionally termed Pseudo-Lucian, and is dated to the Roman Imperial period, likely between the second and fourth centuries CE. Composed in Attic Greek as a model rhetorical exercise, the speech follows the conventional structure for a panegyric across its forty-five sections. It systematically extols Demosthenes’ noble origins, virtuous character, and political achievements while mounting a detailed defense against historical criticisms, particularly those leveled by the historian Theopompus. The work is believed to have been crafted primarily as an advanced pedagogical tool for students of rhetoric, exemplifying the educational practices of the era. It stands as a significant artifact of the Second Sophistic movement, reflecting its profound veneration for Classical Greek culture by portraying Demosthenes as the quintessential orator and patriot who wielded his eloquence in defense of Athenian liberty against the rise of Macedonian power. The text survives in its complete form through the medieval manuscript tradition of Lucian’s corpus, where it has been preserved intact though typically marked as spurious.
+
 ## Text
 
 ### Dem Enc t

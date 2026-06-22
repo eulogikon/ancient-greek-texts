@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cto-ae` · [HTML page](https://eulogikon.org/works/xenophon-scholia-orestes-cto-ae)
 
+The Scholia on Euripides' Orestes attributed to the grammarian Xenophon are a set of ancient marginal commentaries on Euripides' tragedy. These scholia, which survive as three discrete passages embedded within the larger anonymous corpus of Euripidean scholia, served a pedagogical and exegetical function. Their purpose was to aid students and readers by elucidating textual difficulties, explaining rare or archaic vocabulary, clarifying mythological references, and providing grammatical, syntactical, and metrical analysis. As with most scholiastic material, Xenophon's commentaries are not preserved as an independent collection but are transmitted within the compilations found in medieval manuscripts of Euripides' plays. While the direct influence of this specific attributions is untraceable, the scholiastic tradition on Euripides as a whole was instrumental in preserving ancient scholarship and shaped the Byzantine and later understanding of his works. These commentaries were foundational educational tools, particularly for the Orestes, which remained one of Euripides' most frequently studied plays in later antiquity.
+
 ## Text
 
 ### 1arg

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ba` · [HTML page](https://eulogikon.org/works/porphyry-tyre-seven-sages-udm-ba)
 
+The Fragments on the Seven Sages is a doxographical collection attributed to the Neoplatonic philosopher Porphyry of Tyre. This lost work, reconstructed from 63 excerpts preserved in the fifth-century anthology of Stobaeus, compiles the ethical maxims, aphorisms, and biographical anecdotes associated with the traditional Seven Sages of Greece, including figures such as Thales, Solon, and Bias. The fragments emphasize practical ethical and prudential wisdom, exemplified by the Delphic injunction "Know thyself," and offer advice on statecraft, lawgiving, and social duties. The collection functioned as a systematic preservation of foundational Greek cultural and philosophical heritage for pedagogical use in the late antique period. Its transmission through Stobaeus ensured the continued circulation of these gnomic sayings, significantly influencing the Byzantine understanding of early Greek thought and the history of philosophy.
+
 ## Text
 
 ### 2b,260,F 5

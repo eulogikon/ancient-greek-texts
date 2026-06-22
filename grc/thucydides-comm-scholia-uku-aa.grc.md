@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uku-aa` · [HTML page](https://eulogikon.org/works/thucydides-comm-scholia-uku-aa)
 
+The Scholia on Thucydides are a body of ancient and Byzantine marginal annotations and commentaries on the historical works of Thucydides. These explanatory notes, compiled from various anonymous scholiasts over many centuries, are not a unified treatise but an accumulation of scholarship preserved in the margins of medieval manuscripts. The annotations serve multiple exegetical purposes, offering textual criticism on manuscript variants, lexical explanations of archaic or technical vocabulary, and historical, geographical, grammatical, and rhetorical commentary on Thucydides' dense narrative. Key areas of focus include the identification of persons, places, and events, the parsing of complex syntax, and observations on stylistic and argumentative technique.
+
+The scholia are transmitted primarily through important medieval codices, such as Vaticanus Graecus 126 and Laurentianus 69.2. They represent a layered textual palimpsest, with a core of material potentially originating from the work of Alexandrian grammarians like Didymus Chalcenterus, which was subsequently expanded and revised by Byzantine scholars, including figures such as Ioannes Tzetzes. As the primary exegetical tool for understanding Thucydides' challenging prose, these scholia were indispensable for Byzantine and Renaissance scholarship. They remain fundamentally important for modern philology, providing critical evidence for establishing the text of Thucydides and serving as a vital resource for historians of classical scholarship and textual transmission.
+
 ## Text
 
 ### 1 1 1

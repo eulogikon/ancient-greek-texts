@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-ax` · [HTML page](https://eulogikon.org/works/menander-athens-carthaginian-hps-ax)
 
+_Carthaginian_ is a fragmentary comedy by the Athenian playwright Menander, a leading figure of the Hellenistic genre known as New Comedy. No complete text of the play survives; modern knowledge derives from approximately thirty-three extant passages. These fragments are preserved through quotation by later anthologists, such as Stobaeus, and on papyri recovered from Egypt, most notably within the Papyrus Didotiana codex dating from the fourth or fifth century CE.
+
+Based on the surviving fragments and the standard conventions of New Comedy, the plot likely centered on romantic love and the obstacles faced by a young Athenian man. The play would have employed typical devices of the genre, including mistaken identity, a climactic recognition scene, and conflicts within families and across social strata. The role of fortune in human affairs, a recurring Menandrian theme, was almost certainly a feature. The title suggests that a character from Carthage figured in the plot, potentially driving interactions between Greeks and foreigners that contributed to the comic complications.
+
+The text of _Carthaginian_ was transmitted through both an indirect tradition, via quotations in later grammatical and anthological works, and directly through papyrus fragments discovered in Egypt since the late nineteenth century. Although incomplete, the play forms part of Menander’s influential corpus. The themes and dramatic structures of New Comedy, as exemplified in works like this one, were adapted by Roman playwrights such as Plautus and Terence, thereby fundamentally shaping the subsequent Western comic tradition. In later antiquity, Menander’s comedies, including _Carthaginian_, were also valued as models of pure Attic Greek.
+
 ## Text
 
 ### 4

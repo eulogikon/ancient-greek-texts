@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lao-ab` · [HTML page](https://eulogikon.org/works/hypsicles-alexandria-anaphoric-lao-ab)
 
+The Anaphoricus is an astronomical treatise written by Hypsicles of Alexandria around 150 BCE. It is a concise work on spherical astronomy, primarily concerned with calculating the rising times of the zodiacal signs—the arcs of the ecliptic that ascend above the horizon with given arcs of the celestial equator—for the latitude of Alexandria. The treatise is structured around four principal geometric proofs that establish the mathematical relationships governing these celestial motions. Historically, the work is notable for being among the earliest Greek scientific texts to systematically adopt the Babylonian convention of dividing a circle into 360 degrees, a parameter Hypsicles explicitly attributes to earlier astronomers. The complete text survives not as an independent manuscript but as an appendix to the Euclidean corpus, having been transmitted through the Middle Ages as "Book XIV" of Euclid's Elements. Its authorship by Hypsicles is confirmed by an introductory letter preserved within the work. Modern scholarship views the Anaphoricus as a significant product of Hellenistic cross-cultural exchange, applying characteristically Greek geometric methods to Babylonian arithmetical frameworks. Written for mathematicians and astronomers, it provided a practical geometric method for telling time at night using stellar positions and served as a foundational text for subsequent, more advanced studies in spherical astronomy.
+
 ## Text
 
 ### [45]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-bp` · [HTML page](https://eulogikon.org/works/hippolytus-rome-chronicle-fragment-qsg-bp)
 
+The Chronicle is a fragmentary chronological treatise composed in Koine Greek by Hippolytus of Rome around 234 CE. As a world chronicle, a genre popular in late antiquity, it sought to synchronize biblical history with the secular histories of Greece, Rome, and the Near East. Its primary purpose was to calculate the date of the world's creation, thereby framing Christian history within a universal timeline. Only portions of the text survive, preserved chiefly through later Latin translations and references. Key extant fragments include a list of Roman emperors from Augustus to Alexander Severus and a crucial record of the bishops of Rome from Peter to Pontianus. Modern scholarship interprets the work as serving an apologetic function, written to legitimize the Christian narrative within world history and to establish a clear lineage of ecclesiastical authority. It is believed to have been composed during a period of theological controversy, reflecting Hippolytus's broader efforts to define orthodox Christian doctrine. The original structure is not fully recoverable, but the surviving pieces suggest it was organized as a synchronized timeline. The work’s transmission is fragmentary, with the most important witnesses found in a 16th-century Latin manuscript and in the writings of the 4th-century historian Eusebius of Caesarea.
+
 ## Text
 
 ### Verso

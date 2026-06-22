@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-aa` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-live-pleasantly-epicurus-okg-aa)
 
+That It Is Not Possible to Live Pleasantly According to Epicurus is a polemical treatise by Plutarch of Chaeronea, preserved within his collected ethical works known as the Moralia. The work constitutes a sustained philosophical critique of Epicurean hedonism, arguing that the foundational Epicurean identification of the good with pleasure is fundamentally incoherent and cannot serve as a reliable guide to a happy and virtuous life. Plutarch systematically attacks core doctrines, including the definition of pleasure as merely the absence of pain and disturbance, and the proposed relationship between pleasure and virtue, which he contends are ultimately incompatible. He further challenges the internal consistency of the Epicurean system regarding the classification of pleasures and the nature of the supreme good, often favoring Platonic and Stoic alternatives as more philosophically sound. The complete text has survived intact through the medieval manuscript tradition of the Moralia. As a key part of Plutarch's influential anti-Epicurean writings, this treatise played a significant role in ancient philosophical polemics against hedonistic ethics. Its arguments were later utilized by Neoplatonist and Christian authors, and its recovery during the Renaissance contributed to early modern debates concerning the nature of the highest human good.
+
 ## Text
 
 ### 0.1086

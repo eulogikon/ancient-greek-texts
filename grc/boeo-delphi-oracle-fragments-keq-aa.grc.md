@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `keq-aa` · [HTML page](https://eulogikon.org/works/boeo-delphi-oracle-fragments-keq-aa)
 
+The Oracle and Prophecy Fragments is a collection of verse oracles attributed to Boeo of Delphi. Preserved solely through nine fragments quoted by the second-century CE author Pausanias in his Description of Greece, the work presents historical prophecies delivered by the Pythia at Delphi. These discrete oracular utterances are embedded in narratives concerning the founding of cities and shrines, particularly in Messenia. The fragments primarily address the foundation and colonization of cities, such as the oracle guiding the Heraclid Cresphontes to settle in Messenia, and serve to express divine will, legitimize political and territorial claims through Delphic authority, and connect to heroic myths, especially the legends of the Heraclidae. The work is lost as an independent text and survives exclusively within the manuscript tradition of Pausanias’s Description of Greece, primarily in Book 4; the title likely reflects Pausanias’s description of his excerpts rather than Boeo’s original designation. Boeo’s fragments are a valuable source for the study of chresmology, or oracle collection, and regional foundation myths. Transmitted by Pausanias, they offer a rare example of a female poet engaged in recording and shaping local Delphic religious history and oracular tradition.
+
 ## Text
 
 ### book 1.1

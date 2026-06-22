@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-aj` · [HTML page](https://eulogikon.org/works/pseudo-galen-cause-affections-tqu-aj)
 
+On the Cause of Affections is an anonymous, short medical treatise preserved within the Hippocratic Corpus. The work systematically investigates the causes of pathological states or affections, such as diseases and their symptoms. It survives intact as a series of fifteen passages in modern scholarly editions. The text details specific affections and their proposed etiologies, focusing on the rational investigation of disease causes, the description and classification of bodily disorders, and the use of naturalistic principles like humoral or environmental factors to explain illness. Its themes are consistent with the broader Hippocratic tradition. The treatise is preserved through the manuscript tradition of the Hippocratic Corpus, with the standard modern edition found in Émile Littré’s collected works of Hippocrates. As a representative of the Hippocratic sub-genre focusing on disease causation, the work exemplifies the Corpus's foundational shift toward systematic, naturalistic medicine and its enduring influence on the development of Western medical thought.
+
 ## Text
 
 ### 5 (t)

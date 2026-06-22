@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccg-ae` · [HTML page](https://eulogikon.org/works/ion-chios-dionysus-eros-ccg-ae)
 
+Fragments on Dionysus and Eros is a lost prose work by the fifth-century BCE poet and author Ion of Chios. It survives only through four brief quotations preserved by later authors, primarily Clement of Alexandria and the Neoplatonist Hermias. These fragments present philosophical speculations that closely link or identify the gods Dionysus and Eros. One fragment states that Eros is the eldest of the immortals and the fundamental binding force of the cosmos, explicitly prioritizing Eros over Chaos as a first principle. Another directly claims that Dionysus is the same as Eros. This syncretic theology, which equates the god of ecstasy with a primordial cosmic principle of love and attraction, represents a notable strand in early Greek religious philosophy. The work has no independent manuscript tradition and is known solely through these indirect testimonia. Its fragments are significant for understanding the intersection of poetic tradition and Presocratic philosophical inquiry, particularly in relation to the cosmologies of Hesiod, Orphic thought, and Empedocles.
+
 ## Text
 
 ### tit

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rmq-ac` · [HTML page](https://eulogikon.org/works/cassius-longinus-excerpts-rmq-ac)
 
+The Excerpts is a philosophical oration attributed to the third-century CE rhetorician and philosopher Cassius Longinus. Composed in Attic Greek, the work is not a continuous treatise but a compilation of seventeen distinct passages, likely extracted from Longinus’s lectures or writings for pedagogical use. Its content engages primarily with Platonic and Aristotelian philosophy, examining themes such as the nature of the soul, metaphysical principles, and the synthesis of ideas from competing philosophical schools. The complete text has not survived independently; its fragments are preserved only through quotations by later authors, most notably the sixth-century commentator Simplicius in his work on Aristotle. Scholars interpret the collection as an advanced handbook for students, compiled during a period of vigorous debate between Platonist and Aristotelian thinkers to present core arguments and models of rhetorical technique. Despite its fragmentary state, the Excerpts offers significant insight into Longinus’s critical methodology and his role as a synthesizer within the Platonic revival of late antiquity.
+
 ## Text
 
 ## ΕΚ ΤΩΝ ΛΟΓΓΙΝΟΥ Ὅτι χρὴ πεφεισμένως χρῆσθαι ταῖς τροπαῖς καὶ μετὰ τέχνης, μὴ παραλείπειν δὲ παντελῶς· οὕτως πρὸς πολλὰ χρήσιμον [ὂν] τὸ τοιοῦτον εἶδος.

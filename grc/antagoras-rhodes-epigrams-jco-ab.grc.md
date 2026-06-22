@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jco-ab` · [HTML page](https://eulogikon.org/works/antagoras-rhodes-epigrams-jco-ab)
 
+The Epigrams constitute the surviving poetic fragments of Antagoras of Rhodes, a Hellenistic poet, philosopher, and epicist active in the early 3rd century BCE. Composed in Greek verse, these short poems belong to the literary epigram tradition, which had evolved from its origins as commemorative inscription into a refined genre for personal and artistic expression. The extant corpus is limited to ten fragments preserved through quotation by later authors, primarily the Byzantine encyclopedia Suda and the Palatine Anthology. These pieces indicate a thematic range typical of the period, encompassing dedicatory verses for religious statues and poems suitable for symposia, the latter likely containing erotic elements. Antagoras, who was associated with the court of King Antigonus II Gonatas in Macedon, exemplifies the learned court intellectual of the early Hellenistic era. His epigrams are thus interpreted as products of an elite literary culture, crafted for fellow scholars and aristocratic patrons. While the original structure and full scope of his epigram collection are lost, the surviving fragments provide a valuable, if partial, insight into the diverse poetic practices of his time.
+
 ## Text
 
 ### book 103.1.1

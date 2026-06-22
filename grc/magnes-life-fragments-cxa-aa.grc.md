@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cxa-aa` · [HTML page](https://eulogikon.org/works/magnes-life-fragments-cxa-aa)
 
+The Fragments on Life is a modern compilation of eleven short passages attributed to the Athenian comic poet Magnes, a significant figure in the early development of Old Comedy during the fifth century BCE. These surviving lines are not excerpts from a single, unified play but are remnants of his lost works, grouped under the thematic heading "On Life." Written in Attic Greek verse, the fragments provide fleeting insights into his subject matter, with references to food, musical modes, and mythological parody. The text survives only through quotation by later ancient authors, most notably the scholar Athenaeus, who preserved these lines in his expansive work The Learned Banqueters. The content suggests a comedy rich in visual spectacle. Following Aristotle's later critique, modern scholars interpret Magnes's style as one that relied heavily on actor-driven performance and impersonation rather than intricate plot construction. His historical importance lies in his representation of an early and popular phase of Athenian comic theater, which would later evolve into the more structurally complex and narrative-focused works of his successors, such as Aristophanes.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-am` · [HTML page](https://eulogikon.org/works/isaeus-inheritance-disputes-fge-am)
 
+The Fragments on Inheritance Disputes is a modern compilation of nineteen excerpts from speeches composed by the Athenian orator Isaeus, who practiced in the first half of the fourth century BCE. Specializing in forensic oratory, Isaeus focused on intricate cases governed by Athenian inheritance law. These fragments, originally written in Attic Greek for delivery by clients in court, demonstrate his methodical legal reasoning, concentrating on issues of familial legitimacy, the proper interpretation of wills, and the precise statutes regulating the succession of property.
+
+Only a portion of Isaeus's original output survives. While twelve of his orations exist in a nearly complete state, the passages within this collection are preserved indirectly. They were excerpted and quoted by later ancient authors and grammarians, most notably the critic Dionysius of Halicarnassus, who admired Isaeus for his stylistic clarity and legal expertise. Consequently, these fragments derive from secondary sources and do not constitute a continuous ancient text.
+
+Scholars regard these speeches as invaluable windows into Athenian social and legal history. They illuminate the high-stakes familial conflicts within the wealthy citizen class, where establishing a claimant's legitimate birth or adoption was paramount to securing an estate. Isaeus holds further historical significance as the teacher of the renowned orator Demosthenes. His works remain essential primary sources for understanding the practical application of Athenian law and the development of classical rhetorical technique.
+
 ## Text
 
 ### Fr 1 1 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fo` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-sulla-okg-fo)
 
+The Life of Sulla is a biography by the Greek writer Plutarch, composed as part of his Parallel Lives around 100–120 CE. In this series, Plutarch pairs the Roman dictator Lucius Cornelius Sulla with the Spartan general Lysander, creating a comparative character study rather than a simple historical chronicle. The narrative traces Sulla’s rise from an impoverished patrician background, detailing his military campaigns in the Jugurthine and Mithridatic Wars, his pivotal role in the civil war against the faction of Gaius Marius, his unprecedented dictatorship marked by brutal proscriptions, and his eventual voluntary retirement from power. Plutarch, writing long after the events, relied on earlier historical sources now lost to craft his account. His primary aim was moral and pedagogical, offering models of leadership and cautionary tales about character to an elite Greek audience living under Roman rule. The biography is particularly noted for its exploration of Sulla’s complex nature, highlighting his cultivated Hellenism, his belief in his personal fortune or Felicitas attributed to the goddess Fortuna, and the profound contradictions between his intellectual refinement and his extreme political ruthlessness. As a surviving component of the Parallel Lives, the work has been an indispensable source for understanding the crisis of the late Roman Republic and has profoundly influenced subsequent historical and literary portrayals of Sulla for centuries.
+
 ## Text
 
 ### Sull t 1

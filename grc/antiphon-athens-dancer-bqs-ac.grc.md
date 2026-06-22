@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqs-ac` · [HTML page](https://eulogikon.org/works/antiphon-athens-dancer-bqs-ac)
 
+On the Dancer is a forensic oration attributed to the Attic orator Antiphon of Athens. The speech survives only in fragments, with thirty-nine passages preserved through quotation by later authors such as Athenaeus. It represents a prosecution against a choregos, a wealthy citizen responsible for funding a chorus, on the charge of murdering a boy who was a member of that chorus. The extant fragments focus on the legal accusation of homicide and employ standard rhetorical techniques of character assassination against the defendant, arguing from motive and circumstantial evidence. The complete text is lost; the fragments are transmitted primarily by later grammarians and anthologists, most notably Athenaeus in his Deipnosophistae, and are collected in modern editions of the Attic orators. The speech contributes to the corpus of Antiphon's works, offering evidence for the practice of Athenian forensic rhetoric, the legal procedures concerning homicide, and the social tensions inherent in the choregia, a public liturgy within civic festivals.
+
 ## Text
 
 ### De chor t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-aj` · [HTML page](https://eulogikon.org/works/libanius-antioch-orations-swk-aj)
 
+The Orations 1–64 constitute a collection of sixty-four speeches by Libanius of Antioch, a prominent pagan rhetorician of the fourth century CE. Composed in polished Attic Greek, this corpus represents the most extensive body of oratory preserved from antiquity after the works of Cicero and Demosthenes. It encompasses a diverse range of genres, including autobiographical apologetics, political addresses directed to emperors, public orations concerning the city of Antioch, and various ceremonial pieces. These texts provide detailed testimony concerning Libanius's professional career, his complex interactions with emperors such as Julian and Theodosius I, and his profound involvement in the civic and cultural affairs of his age.
+
+The collection survives substantially complete through medieval manuscript transmission, containing 2,934 distinct passages. Modern scholarship regards these orations as a historical source of exceptional value, offering a personal perspective on the profound social, political, and religious changes that characterized the later Roman Empire. They are understood to have been composed, in part, as a defense of traditional Greek paideia and Hellenic culture during a period of rising Christian influence. The speeches are indispensable for the study of the era's intellectual climate, imperial administration, and the quotidian realities of a major metropolitan center such as Antioch.
+
 ## Text
 
 ### 1

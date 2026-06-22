@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kms-ab` · [HTML page](https://eulogikon.org/works/chrysippus-soli-fragments-kms-ab)
 
+Fragments Related to Individual Books is a modern scholarly compilation of surviving quotations and testimonia attributed to Chrysippus of Soli, the third head of the Stoic school in the 3rd century BCE. As none of Chrysippus's own prolific written output survives intact, this collection assembles forty fragmentary passages preserved by later Greek and Roman authors who referenced his work, often for purposes of summary or critique. The fragments are organized to correspond to specific, now-lost treatises by Chrysippus, covering the core Stoic divisions of logic, physics, and ethics. The sources for these excerpts include figures such as the biographer Diogenes Laertius, the essayist Plutarch, the physician Galen, and the skeptic Sextus Empiricus. Their polemical or doxographical intentions mean the original context and full development of Chrysippus's arguments are largely absent. Nevertheless, the collection serves as an indispensable tool for reconstructing the detailed architecture of early Stoic doctrine, offering crucial insights into the systematic thought of a philosopher so central to the tradition that he was later regarded as its second founder.
+
 ## Text
 
 ### IX t

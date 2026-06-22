@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ufu-aa` · [HTML page](https://eulogikon.org/works/menander-laodicea-demonstratives-ufu-aa)
 
+The Division of Demonstratives is a rhetorical treatise from the late 3rd century CE, attributed to the Greek teacher Menander of Laodicea. Composed in Attic Greek, it serves as a systematic and practical guide for composing ceremonial or epideictic orations intended for specific public occasions. The work methodically categorizes this branch of oratory into its constituent subtypes, providing detailed prescriptions for speeches such as festival panegyrics, wedding toasts, funeral orations, and formal addresses to civic officials. For each genre, Menander outlines the proper structure, conventional themes, and appropriate stylistic register.
+
+The treatise exemplifies the enduring importance of polished rhetoric within the social and civic life of the late Roman Empire. It was likely employed in advanced educational settings to train students and professionals required to craft orations for events including weddings, funerals, imperial visits, and public festivals. The text survives in its complete form through medieval manuscripts and stands as a principal source for understanding the highly codified and conventional eloquence of its era. Modern scholarship regards it as a mature product of the rhetorical tradition that followed the Second Sophistic, illustrating the professionalization of oratorical practice. Its detailed classifications proved highly influential, establishing it as a standard textbook throughout later antiquity and the Byzantine period.
+
 ## Text
 
 ### 331 (1t)

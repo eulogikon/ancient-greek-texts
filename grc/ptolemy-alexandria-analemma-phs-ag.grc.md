@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ag` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-analemma-phs-ag)
 
+On the Analemma is a mathematical and astronomical treatise by Claudius Ptolemy, written around 150 CE in Alexandria. The work details the construction of an analemma, a geometric method for projecting points and circles from the celestial sphere onto a flat plane. This technique provided ancient astronomers and artisans with a practical tool for solving problems in spherical astronomy, such as determining the sun's position for a given date and time or designing the hour lines on sundials. The treatise is systematically organized, progressing from foundational geometric principles to specific applications. The original Greek text is lost, surviving primarily through a medieval Latin translation derived from an Arabic version. This indirect transmission shapes modern understanding of the work, which is viewed as part of Ptolemy's project to systematize Greek science. It functioned both as a theoretical guide for mathematicians and a practical manual for instrument makers, exemplifying the application of advanced geometry to the technology of ancient timekeeping.
+
 ## Text
 
 ### 2 194 (33)

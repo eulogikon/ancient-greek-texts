@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uge-aa` · [HTML page](https://eulogikon.org/works/tryphiodorus-egypt-sack-of-ilium-uge-aa)
 
+The Sack of Ilium is a short epic poem by the Egyptian poet Tryphiodorus, who is believed to have been active in the third or fourth century CE. Composed in 691 lines of Homeric hexameter, the work presents a condensed and rapid narrative of the final day of the Trojan War. It begins with the construction of the Trojan Horse and the successful Greek ruse to have it accepted within the city walls, proceeds through the nocturnal infiltration of the Greek warriors and the ensuing brutal destruction of Troy, and concludes with the lamentations of the captured Trojan women. The complete text is preserved in a handful of medieval manuscripts, the oldest of which dates to the thirteenth or fourteenth century.
+
+Modern scholarship interprets the poem as a sophisticated literary exercise crafted for the educated, Greek-speaking elite of the late Roman Empire. It functions as a display of rhetorical virtuosity and a deep engagement with the epic tradition, particularly the works of Homer and Virgil. The poem’s vivid and focused depiction of catastrophic reversal, the mechanics of deception, and the horrors of a city’s conquest are characteristic of the elaborate, often graphic style associated with the late antique literary school of Panopolis, Tryphiodorus’s presumed intellectual center.
+
 ## Text
 
 ### 1

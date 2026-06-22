@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pxm-aa` · [HTML page](https://eulogikon.org/works/telephus-athenian-institutions-pxm-aa)
 
+The Fragments on Athenian Institutions by Telephus the Grammarian is a lost grammatical treatise known only through brief excerpts preserved in later lexicographical sources. The work survives in two principal fragments, one transmitted by a scholiast on Aristophanes and another by Eustathius in his commentary on Homer. The first fragment defines the legal term epomosia as a sworn plea of exemption from appearing in court, citing the orator Hyperides as an authority. The second, more substantial fragment preserves Telephus’s explanation of the term epistates within the Athenian constitutional system. It describes the epistates as an official chosen by lot from among the prytanes to serve a single day and night as the presiding officer, entrusted with the public seal, the keys to the treasury, and state documents, and responsible for appointing proedroi from the non-presiding tribes. A further reference in Aelian’s work attributes to Telephus an explanation of a deadly species of ant called Laertes. These fragments exemplify the Hellenistic and Roman tradition of antiquarian scholarship, compiling precise explanations of obsolete Athenian legal, political, and even zoological terminology for pedagogical and reference purposes. The work’s significance lies in its contribution to the lexicographical tradition, offering specific, if minor, evidence for modern understanding of Athenian institutions and the history of grammatical commentary.
+
 ## Text
 
 ### 1

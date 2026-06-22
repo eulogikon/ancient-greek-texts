@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-av` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-holy-trinity-tds-av)
 
+_On the Holy Trinity_ is a fifth-century theological treatise by Theodoret of Cyrus. Composed in the contentious aftermath of the great ecumenical councils, this systematic work in thirty-four passages defends Nicene Trinitarian orthodoxy against contemporary heresies, including Arianism, Eunomianism, and Sabellianism. Employing scriptural exegesis and logical argument, it affirms the co-equality, co-eternity, and distinct hypostases of the Father, Son, and Holy Spirit. Its core content comprises a detailed defense of the consubstantiality of the Trinity, polemics against the subordination of the Son and Spirit, a refutation of the modalist confusion of persons, and careful theological distinctions between essence and person. The treatise solidified pro-Nicene theology from an Antiochene perspective, representing a key link between the Cappadocian Fathers and later doctrine and illustrating Theodoret's early role as a defender of ecclesiastical orthodoxy. The complete Greek text survives, preserved in critical editions and translated into several modern languages.
+
 ## Text
 
 ### 75.1148.(1t)

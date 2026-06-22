@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `azu-ab` · [HTML page](https://eulogikon.org/works/brontinus-metapontum-mind-thought-azu-ab)
 
+The work On Mind and Thought is attributed to the early Pythagorean philosopher Brontinus of Metapontum. No continuous text of the treatise survives; it is known only by its title from later doxographical sources, and it likely represented a collection of sayings or doctrines preserved under his name. Based on its title and the Pythagorean intellectual context, the text presumably addressed core philosophical concepts concerning the nature of the intellect and its relation to the cosmic order, as well as the pursuit of wisdom as a path to human happiness. The work is entirely lost and is referenced only in secondary sources, such as the 10th-century Byzantine encyclopedia known as the Suda. Any doctrines credited to Brontinus survive solely as fragments or testimonia within later accounts of Pythagorean thought. While its direct influence is untraceable, the attribution of such a work reflects the later perception of early Pythagoreans as deeply engaged with psychological and epistemological questions. Brontinus, as a figure within this tradition, was seen as contributing to a body of thought that would later profoundly influence Plato and the subsequent development of Western philosophy.
+
 ## Text
 
 ### 55 (19t)

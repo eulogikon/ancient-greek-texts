@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `izm-ae` · [HTML page](https://eulogikon.org/works/rhianus-crete-epigrams-izm-ae)
 
+The Epigrams of Rhianus of Crete are a collection of short poems composed in Greek elegiac verse during the 3rd century BCE. These poems engage with the conventional themes of Hellenistic epigrammatic poetry, including erotic sentiment, votive dedications, and sepulchral epitaphs. Characterized by a clear and polished style, they reflect the refined literary sensibilities of their era. The work survives not as an independent volume but through its preservation within the later compilation known as the Greek Anthology, where fifty-eight epigrams are attributed to him. While Rhianus was historically more renowned as an epic poet and a scholarly editor of Homeric texts, his surviving epigrams represent a concise and distinct facet of his literary output, demonstrating the versatility expected of poets writing for a sophisticated, literate audience in the Hellenistic period.
+
 ## Text
 
 ### book 34.1.1

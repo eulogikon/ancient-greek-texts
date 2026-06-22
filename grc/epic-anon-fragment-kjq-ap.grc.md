@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ap` · [HTML page](https://eulogikon.org/works/epic-anon-fragment-kjq-ap)
 
+The Epic Fragment is an anonymous collection of fourteen passages of Greek epic verse. Its title and structure constitute its sole identifying information, as no descriptive details regarding its narrative content, characters, or relation to known mythological cycles are available. The specific themes and subject matter of the fragment are undocumented. The work survives as an incomplete fragment, but its specific manuscript tradition and provenance are not recorded; it is cataloged among epic works without further detail on its compilation or transmission history. The fragment serves as a placeholder within the corpus of Greek epic, representing the vast number of anonymous, lost, or poorly attested poetic works. Its existence underscores the fragmentary nature of the surviving record from antiquity.
+
 ## Text
 
 ### book 1r.1

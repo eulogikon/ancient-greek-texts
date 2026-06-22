@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ab` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-eight-parts-speech-rhg-ab)
 
+On the Eight Parts of Rhetorical Speech is a concise, anonymous Greek rhetorical treatise belonging to the genre of the progymnasma, an elementary textbook used in Hellenistic and Roman education. The work systematically analyzes the division of a speech into eight constituent parts across its twenty-one sections. It defines and explains each part of a rhetorical oration, which are the prooemium or introduction, the diegesis or narrative, the kataskeue or proof, the antikataskeue or refutation, a second proof, a second refutation, the parekbasis or digression, and the epilogos or conclusion. The author illustrates their function with the example of a speech accusing a temple robber. The text survives complete within the corpus of Greek rhetorical writings and is preserved in medieval manuscripts alongside other progymnasmata. As a representative example of the standardized rhetorical handbooks that formed the foundation of elite Greco-Roman education, the treatise exemplifies the pedagogical tradition that directly influenced subsequent Roman, Byzantine, and early modern rhetorical training.
+
 ## Text
 
 ### 3.588.(1t)

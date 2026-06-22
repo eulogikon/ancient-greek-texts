@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hrg-ab` · [HTML page](https://eulogikon.org/works/archedicus-misers-dinner-party-hrg-ab)
 
+The Miser's Dinner Party is a fragmentary comedy by the Hellenistic poet Archedicus. Preserved only through twenty-five excerpts, the work survives almost entirely in quotations by the later scholar Athenaeus in his Deipnosophistae. Its conventional title suggests a plot centered on a stingy host's dinner party, a standard scenario in New Comedy for exploring themes of greed and social hypocrisy. The surviving fragments depict the host's extreme avarice and his violation of the fundamental obligations of hospitality, creating humor from the meager and poorly prepared food offered to his guests. The comedy contrasts the host's hypocrisy with the social expectations of his visitors, focusing on the concrete details of dining to satirize attitudes toward wealth and consumption. While the complete play is lost and it exerted no direct later influence, these fragments remain valuable for illustrating the thematic range and social satire of Hellenistic New Comedy beyond its major authors, providing evidence for the period's enduring comic conventions.
+
 ## Text
 
 ### book 1.1

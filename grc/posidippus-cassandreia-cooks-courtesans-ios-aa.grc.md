@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ios-aa` · [HTML page](https://eulogikon.org/works/posidippus-cassandreia-cooks-courtesans-ios-aa)
 
+_Fragments on Cooks and Courtesans_ is a modern descriptive title for a collection of ninety-three fragmentary passages attributed to the Hellenistic comic poet Posidippus of Cassandreia. These excerpts are preserved not as a continuous play but as quotations within later authors, primarily by the antiquarian Athenaeus in his Deipnosophistae. The fragments thematically illustrate details of daily life, focusing on the professional roles of cooks and courtesans, and were likely drawn from multiple comedies by Posidippus. The collected passages reflect the concerns of New Comedy, offering comic commentary on Hellenistic social life. Key topics include the boastful, technical expertise of professional cooks, the lifestyles and sympotic roles of courtesans, and the broader culture of banquets, luxury, and contemporary manners in Athens. No complete play by Posidippus survives. The fragments exist through indirect transmission, chiefly in Athenaeus’s work, with others appearing in later lexicographical sources. The standard critical edition is found in Poetae Comici Graeci, Volume VII. As a poet of New Comedy, Posidippus was part of a tradition that influenced Roman comedy. His enduring significance lies in his value as a source for social history. Through the preservation by Athenaeus, these fragments provide concrete evidence for Hellenistic gastronomy, sympotic culture, and social customs, making them essential for historians of both Greek comedy and daily life.
+
 ## Text
 
 ### book 1.1

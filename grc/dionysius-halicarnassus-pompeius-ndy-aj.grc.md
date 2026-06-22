@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ndy-aj` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-pompeius-ndy-aj)
 
+The Letter to Pompeius is a work of literary criticism composed in the late first century BCE by the rhetorician and historian Dionysius of Halicarnassus. Structured as a formal epistle containing sixty-two sections and addressed to his Roman patron Gnaeus Pompeius, the text survives intact from antiquity. Its primary purpose is to defend and elucidate the author’s earlier critical judgments on Greek historians, specifically in response to Pompeius’s inquiry concerning his high praise for Herodotus and his failure to rank Thucydides among the very best. In a detailed comparative analysis, Dionysius acknowledges the intellectual power of Thucydides but criticizes his chosen subject, the history of the Peloponnesian War, as unpleasant, obscure, and inherently difficult. He argues instead for the superiority of Herodotus’s account of the Persian Wars, which he considers more noble, morally instructive, and composed with greater charm, clarity, and stylistic appeal. The letter expands this critique into a systematic comparison of other historians, including Xenophon and Theopompus, promoting an ideal wherein history should be both ethically useful and aesthetically pleasing to the reader.
+
+Modern scholars regard the letter as a key document in the literary debates of the Augustan age. Dionysius, who lived and worked in Rome, sought to educate the Roman elite on Greek rhetorical traditions and to advocate for the Attic style as a model for contemporary composition. The work reflects his broader project of shaping a canon of exemplary authors to guide contemporary oratory and historiography, making it a foundational text for understanding ancient criteria for the evaluation of historical writing.
+
 ## Text
 
 ### Pomp t 1

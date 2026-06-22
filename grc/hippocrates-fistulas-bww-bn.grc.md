@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bn` · [HTML page](https://eulogikon.org/works/hippocrates-fistulas-bww-bn)
 
+On Fistulas is a concise surgical treatise from the Hippocratic Corpus, the collection of ancient Greek medical texts associated with Hippocrates of Cos. Composed in Ionic Greek during the classical period, this practical manual addresses the diagnosis and treatment of fistulas, defined as abnormal, hollow ulcers. It focuses primarily on those occurring in the anal and rectal regions. The work opens with a definition of the condition, attributing its formation to inflammatory swellings or abscesses caused by factors such as trauma, horseback riding, or straining. It describes the pathological process wherein collected blood putrefies, eventually rupturing to create a channel that drains fluid and feces.
+
+The core of the treatise is devoted to a specific surgical intervention. It advises immediate lancing if an abscess is detected early, before it corrupts inward to form a fistula. For an established fistula, the prescribed treatment involves inserting a medicated probe made from a garlic stalk into the tract. This is followed by cauterization of the entire channel with a red-hot iron, a method the author explicitly favors over excision with a scalpel due to its greater safety and reduced risk of hemorrhage. The text concludes with instructions for post-operative care, including dietary recommendations and proper bandaging techniques. Valued for its empirical and technical focus, the treatise exemplifies the practical, interventionist strand of Hippocratic medicine aimed at a surgical practitioner, emphasizing cautious methodology to minimize patient risk.
+
 ## Text
 
 ## Σύριγγες γίνονται μὲν ὑπὸ φλασμάτων καὶ φυμάτων, γίνονται δὲ καὶ ὑπὸ ἐρεσίης, καὶ ἱππασίης, ὅταν ἀθροισθῇ ἐν τῷ γλουτῷ αἷμα πλησίον τῆς ἕδρης· σηπόμενον γὰρ νέμεται ἐς τὰ μαλθακὰ, ἅτε ὑγροῦ ἐόντος τοῦ τε ἀρχοῦ, καὶ τῆς σαρκὸς μαλθακῆς, ἐν ᾗ νέμεται, ἔστ’ ἂν τὸ φῦμα ῥήξῃ καὶ κάτω ἐς τὸν ἀρχὸν διασήψῃ.

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udw-ae` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-mysteries-udw-ae)
 
+On the Mysteries is a philosophical treatise composed in Greek by the Neoplatonist philosopher Iamblichus of Chalcis, written around 300 CE. The work is structured as a detailed epistolary response, ostensibly authored by an Egyptian priest named Abammon, to a series of critical questions concerning ritual practice posed by the earlier philosopher Porphyry. It is systematically organized into ten books that constitute a comprehensive defense and exposition of theurgy, defined as ritual acts intended to invoke the divine and unite the human soul with higher realities.
+
+The treatise addresses core themes of late Platonic theology, including the precise hierarchy of gods, daemons, and other spiritual beings; the principles and validity of divination; and the philosophical rationale for rituals involving prayer, sacrifice, and sacred symbols. Iamblichus argues rigorously that these ritual practices are not merely symbolic but are efficacious and necessary operations within the cosmos, providing an indispensable complement to philosophical contemplation for the soul’s ascent and salvation. This argument represents a significant doctrinal shift within Neoplatonism, elevating ritual to a position of theological necessity.
+
+Surviving complete through Byzantine manuscripts, On the Mysteries became a foundational text for later pagan Neoplatonists, such as Proclus, and exerted considerable influence during the Renaissance revival of ancient esoteric and Platonic thought. Modern scholars regard the work as a pivotal and sophisticated defense of traditional pagan religious practice and theological coherence, composed during a period of intense philosophical and religious competition in the late Roman Empire.
+
 ## Text
 
 ### Myst p 1

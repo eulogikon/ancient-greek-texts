@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-bl` · [HTML page](https://eulogikon.org/works/alchemist-i-poem-conclusion-rrg-bl)
 
+The Conclusion of the Poem is a brief, pseudepigraphical Greek alchemical treatise attributed to the pseudonymous author designated by modern scholars as Alchemist I. Preserved within Byzantine compilations, its title implies it served as a summary for a longer, non-extant poetic work. The text consists of two passages containing symbolic and practical instructions on metallic transmutation, consistent with late antique alchemical traditions. It outlines the core process of metallic transmutation, detailing key operational stages such as the whitening and yellowing of materials, and employs symbolic cover names for substances. The work survives as part of the Byzantine manuscript tradition of Greek alchemy, notably within codices such as the tenth- or eleventh-century Marcianus graecus 299, and has been published in modern critical editions of the Greek alchemical corpus. As an anonymous text, its influence is absorbed within the broader Greco-Egyptian alchemical tradition. This corpus was foundational, transmitted through Byzantine, Arabic, and Latin cultures, and shaped medieval alchemical theory and practice. The treatise exemplifies the condensed, allusive style characteristic of technical esoteric literature.
+
 ## Text
 
 ### 2.285

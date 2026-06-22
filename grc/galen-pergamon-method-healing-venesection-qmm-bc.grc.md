@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bc` · [HTML page](https://eulogikon.org/works/galen-pergamon-method-healing-venesection-qmm-bc)
 
+On the Method of Healing by Venesection is a medical treatise by the Roman physician Galen of Pergamon, composed in Greek during the late second century CE. This systematic work provides a comprehensive guide to the therapeutic practice of bloodletting. Galen structures his inquiry around a series of fundamental questions, beginning with an analysis of which bodily conditions require evacuation. He then distinguishes those conditions specifically necessitating venesection from those requiring other forms of purgation. A third major consideration involves assessing which patients can safely endure the procedure, as a need for bloodletting may be contraindicated by the patient's age, the season, the local climate, a weak stomach, or a generally poor constitution.
+
+The treatise, comprising 66 sections, offers precise technical instructions on performing phlebotomy. It details the selection of specific veins for different ailments, determines the appropriate quantity of blood to withdraw, and advises on optimal timing based on the patient's individual state. These practical rules are firmly grounded in Galen's theoretical system, which synthesizes Hippocratic humoral theory with detailed anatomical knowledge. Written during his service as a court physician in Rome, the work engages directly with contemporary medical debates, offering a sustained critique of the rival Methodist school. While its title references method, Galen's approach is fundamentally rationalist, arguing that successful treatment must be meticulously tailored to the individual's unique humoral balance, physical strength, age, and environmental context. Consequently, the treatise functions simultaneously as a detailed technical manual and a robust defense of Galen's own holistic medical philosophy.
+
+The text survives in full, transmitted through Greek and later Arabic manuscript traditions before its translation into Latin. It became the definitive authority on bloodletting in both Islamic and European medicine for over a millennium, with its preeminent influence only beginning to wane in the eighteenth and nineteenth centuries.
+
 ## Text
 
 ### 11 250 (t1)

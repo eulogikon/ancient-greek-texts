@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bx` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-bx)
 
+Against Philip I, also known as the First Philippic, is a deliberative oration delivered by the Athenian statesman Demosthenes around 351 BCE. It stands as the inaugural speech in his celebrated series of Philippics, which sought to rouse Athens to the growing threat posed by King Philip II of Macedon. The oration is a forceful critique of Athenian inertia and a detailed proposal for military reform. Demosthenes characterizes Philip as an ambitious and tireless adversary whose successes stem from decisive action, in stark contrast to Athens’ habitual delay and reliance on mercenary forces. He argues that the city must abandon its passive and reactive foreign policy to actively defend its interests in the northern Aegean.
+
+The speech systematically outlines a practical strategy to counter Macedonian expansion. Its central proposal is the establishment of a permanent, rapid-response citizen army and fleet, financed through a reformed financial system that levies contributions from the wealthy. Demosthenes urges immediate action, contending that while the situation is grave due to past inaction, it remains remediable through collective resolve and proper military organization. Composed in a period when Philip’s campaigns in Thrace directly endangered Athenian security and grain supply routes, the oration confronted a public weary from previous conflicts and hesitant to embark on a new war. Delivered in the Athenian assembly, the complete text survives in 45 sections through medieval manuscript traditions.
+
+This speech marks the definitive emergence of Demosthenes as the principal Athenian opponent of Macedonian hegemony. It is regarded as a masterpiece of political rhetoric, combining strategic argument, vivid characterization of the enemy, and concrete policy prescription. Its structure and urgent tone established a model for deliberative oratory, most notably influencing the Roman orator Cicero, who later applied the title "Philippic" to his own attacks on Mark Antony. The oration remains a foundational text for the study of ancient political rhetoric and the crisis of the Greek city-states in the face of Macedonian power.
+
 ## Text
 
 ### Phil1 1

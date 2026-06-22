@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bq` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-speaks-lime-tyc-bq)
 
+"Zosimus Speaks-Lime" is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. The work provides practical instructions for preparing and handling a substance termed "asbestos," a name which in this ancient context denotes not the modern silicate mineral but an "unquenchable" material. Modern scholarship identifies this substance as most likely quicklime, a highly caustic reagent central to many alchemical operations. The text details a precise procedure involving the calcination of alabaster stone, its slaking with sharp vinegar, and a prolonged process of repeated treatments and exposure to sun and dew to achieve a pure, white product. Presented as a revealed secret, the treatise characterizes the final substance in paradoxical language, calling it the stone that is not a stone, both unknown and known to all, a divine gift. This brief, workshop-oriented manual reflects the practical, technical side of Greco-Egyptian alchemy, where the manipulation of matter was intertwined with philosophical and spiritual concepts. It survives as part of the larger corpus of Greek alchemical writings preserved in Byzantine manuscripts, representing a key source for understanding the material practices of early alchemy.
+
 ## Text
 
 ### [15]

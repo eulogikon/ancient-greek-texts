@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ff` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-aratus-okg-ff)
 
+Plutarch’s Aratus is a biography within his Parallel Lives, pairing the Greek statesman Aratus of Sicyon with the Roman king Artaxerxes II. The work chronicles the political and military career of Aratus, who led the Achaean League in the third century BCE. It details his efforts to liberate Sicyon from tyranny, his complex diplomacy to expand the League’s power, and his prolonged struggle against Macedonian dominance in Greece. The narrative portrays Aratus as a pragmatic and often calculating leader, examining his use of bribery, his shifting alliances with other Hellenistic rulers, and his contentious relationships with contemporaries. A major theme is the role of fortune in human affairs, as Plutarch balances an account of Aratus’s strategic successes with the unforeseen reversals that marked his later career. The biography also serves as a principal historical source for the politics and operations of the Achaean League, illustrating the challenges of Greek federalism during the Hellenistic period. Preserved intact within the manuscript tradition of the Lives, the work exemplifies Plutarch’s moral and character-driven approach to biography. Its analysis of leadership, civic virtue, and political pragmatism made it an influential text in Renaissance humanist education and contributed significantly to the Western tradition of political biography.
+
 ## Text
 
 ### Arat t 1

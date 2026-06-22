@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ine-aa` · [HTML page](https://eulogikon.org/works/deimachus-plataea-india-ine-aa)
 
+_On India_ is a lost historical and ethnographic work by the Seleucid ambassador Deimachus of Plataea. Written in the early 3rd century BCE, it described the geography, customs, and natural history of India based on the author's diplomatic mission to the Mauryan court of King Bindusāra at Pāṭaliputra. The work survives only in fragments preserved by later authors, most notably the geographer Strabo. The extant passages address various subjects, including Indian social customs with an early reference to the practice of widow self-immolation, descriptions of Indian geography and climate, and observations on local fauna. Strabo, however, grouped Deimachus with other early writers on India whom he considered unreliable, criticizing their accounts for containing fables and geographical inaccuracies. The work is known through approximately seven identifiable fragments, chiefly quoted in Strabo’s Geographica. The alternative title Apospasmata, meaning "Extracts," likely reflects its fragmentary transmission as excerpts rather than being the original title. Despite ancient criticisms of its reliability, Deimachus’s work was a key early source of Greek knowledge about India. Alongside accounts like that of Megasthenes, it helped shape Hellenistic and Roman perceptions of the subcontinent as a land of exotic wonder. The fragments remain valuable for studying early Indo-Greek contact and the transmission of ethnographic information in antiquity.
+
 ## Text
 
 ### t2-4a

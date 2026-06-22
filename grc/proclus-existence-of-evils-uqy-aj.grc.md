@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-aj` · [HTML page](https://eulogikon.org/works/proclus-existence-of-evils-uqy-aj)
 
+On the Existence of Evils is a philosophical treatise composed in the 5th century CE by Proclus, the head of the Platonic Academy in Athens. Written in Attic Greek, the work addresses the classical metaphysical problem of how evil can exist within a cosmos that originates from a supremely good and perfect first principle. Proclus systematically argues that evils do not possess an independent, substantial reality or essence of their own. Instead, he develops the concept of evil as a "parhypostasis," a parasitic or deficient mode of being that arises when entities fail to attain their proper, good nature. The treatise is methodically structured as a sequence of concise, logical investigations, organized in modern editions into a series of short chapters or sections.
+
+As a central text of late antique Neoplatonism, the treatise was written during a period of vigorous intellectual competition between pagan philosophers and Christian theologians. Scholars view it as a robust defense of Platonic theology, crafted to counter rival metaphysical systems. These included certain Christian doctrines that appeared to grant evil a more substantive reality, as well as earlier Platonic theories, such as those of Plotinus, which suggested a more positive principle of evil. Proclus’s primary aim was to fully absolve the divine Good from any responsibility for evil, which he located not in a positive force but in the inherent weakness and declension found in lower levels of existence.
+
+The text survives in its complete form from antiquity, preserved in Greek manuscripts dating from the 9th century onward. Its influence extended significantly beyond the ancient world, particularly after a 13th-century Latin translation made its arguments accessible to medieval scholastics. The treatise was studied and engaged with deeply by major figures such as Thomas Aquinas, who critically examined its propositions regarding the nature and origin of evil within a theistic framework.
+
 ## Text
 
 ## ΠΕΡΙ ΤΗΣ ΤΩΝ ΚΑΚΩΝ ὙΠΟΣΤΑΣΕΩΣ ΜΟΝΟΒΙΒΛΟΣ Τὴν τοῦ κακοῦ φύσιν, ἥτις τέ ἐστι καὶ ὅθεν ἔχει τὴν γένεσιν, ἐζήτησαν μὲν καὶ τῶν πρὸ ἡμῶν τινες, ———αὐτὸ καθ’ αὑτὸ τὸ κακὸν σκοπήσαντες, εἴτε ἔστιν εἴτε καὶ μή, καὶ εἰ ἔστι, πῶς ἐστὶ καὶ πόθεν εἰς τὸ εἶναι καὶ τὴν ὑπόστασιν ἥκει· .

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emy-ab` · [HTML page](https://eulogikon.org/works/choerilus-samos-fragments-emy-ab)
 
+The Fragments and Titles of Choerilus of Samos represent the scant surviving evidence of his epic poetry, most notably his historical epic the Persica. Active in the late 5th century BCE, Choerilus composed this work on the Persian Wars, an early and ambitious attempt to apply the epic form to recent history rather than mythological tradition. The poem was substantial, with later sources reporting its length as between seven and ten books, though only fragments now remain. The content celebrated the Greek victory over Persia, emphasizing panhellenic unity and heroic action. Choerilus is also notable for a poetic lament preserved in the fragments, in which he bemoans the exhaustion of traditional epic themes and the difficulty of finding new paths for the genre. The fragments survive exclusively through quotations by later ancient authors, grammarians, and commentators such as Athenaeus and Strabo, and are collected in modern scholarly editions. His attempt to innovate within the epic tradition was influential, though it was often criticized by later figures like Aristotle and Horace. The work of Choerilus remains a significant, if poorly preserved, milestone in the evolution of Greek epic between the Homeric age and the Hellenistic period.
+
 ## Text
 
 ### book 314-23.1

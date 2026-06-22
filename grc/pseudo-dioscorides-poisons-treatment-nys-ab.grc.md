@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nys-ab` · [HTML page](https://eulogikon.org/works/pseudo-dioscorides-poisons-treatment-nys-ab)
 
+On Poisons and Their Precaution and Treatment is a toxicological treatise composed in Koine Greek and spuriously attributed to the first-century physician Dioscorides. Modern scholarship identifies it as a pseudepigraphical work, likely written between the first and fourth centuries CE. Structured as a practical manual, it comprises forty chapters detailing a wide array of poisons, including toxic plants such as aconite and various animal venoms. For each substance, the text provides methods for preventing accidental or malicious poisoning and offers specific recipes for antidotes and treatments.
+
+The treatise survives in its entirety as a component of the larger corpus of medical writings transmitted under the name of Dioscorides. It was almost certainly compiled as a reference handbook for practicing physicians, addressing a critical need in an era when poisoning represented a frequent medical and social danger. By appropriating the authority of the celebrated Dioscorides, the anonymous author sought to guarantee the preservation and perceived legitimacy of this specialized branch of medical knowledge, ensuring its transmission through Byzantine and medieval scholarly traditions.
+
 ## Text
 
 ## [ΠΕΔΑΝΙΟΥ ΔΙΟΣΚΟΡΙΔΟΥ] ΠΕΡΙ ΔΗΛΗΤΗΡΙΩΝ ΦΑΡΜΑΚΩΝ ΚΑΙ ΤΗΣ ΑΥΤΩΝ ΠΡΟΦΥΛΑΚΗΣ ΚΑΙ ΘΕΡΑΠΕΙΑΣ. ΤΟ ΠΡΟΟΙΜΙΟ Ν .

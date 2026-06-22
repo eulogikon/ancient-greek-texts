@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hia-ab` · [HTML page](https://eulogikon.org/works/crates-thebes-hymns-parodies-hia-ab)
 
+The Cynic Hymns and Parodies is a modern scholarly compilation of poetic fragments attributed to the Hellenistic Cynic philosopher Crates of Thebes. Known in Greek sources by the title Apospasmata, or "Excerpts," the work exists only as a collection of short passages, often organized in contemporary editions into approximately two dozen distinct pieces. These fragments, which include elegiac verses, hymns, and parodies, were not preserved through a direct manuscript tradition but survive solely as quotations embedded in the works of later authors, most notably the biographer Diogenes Laërtius. Crates employed parody, particularly targeting revered poets like Homer, as a deliberate and provocative literary vehicle to disseminate Cynic doctrine. His verses consistently advocate for the school's core tenets: radical simplicity, freedom from social convention, and a life lived in accordance with nature. A famous fragment describes an ideal city called "Pera," or the Wallet, symbolizing a self-sufficient community liberated from material wealth and pretension. Historically, Crates holds significant influence as the teacher of Zeno of Citium, the founder of Stoicism, and the themes of autarky and cosmopolitanism evident in these poetic fragments directly informed the development of early Stoic thought.
+
 ## Text
 
 ### 1.(t)

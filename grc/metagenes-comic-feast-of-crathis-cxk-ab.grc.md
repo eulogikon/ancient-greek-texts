@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cxk-ab` · [HTML page](https://eulogikon.org/works/metagenes-comic-feast-of-crathis-cxk-ab)
 
+_The Comic Feast of Crathis_ is a lost work of Old Comedy by the Athenian poet Metagenes, a contemporary of Aristophanes. It survives only in fragments, chiefly preserved through quotations in later authors such as the grammarian Athenaeus, who valued its distinctive vocabulary and descriptions of food. The play’s title suggests a plot centered on an extravagant banquet, a conventional comic setting for social satire. The reference to the Crathis, a river in southern Italy famous for the luxurious lifestyle associated with its region, hints at themes of gastronomic excess and Athenian engagement with the wider Mediterranean world. The extant fragments describe a fantastical riverscape where waters automatically carry cooked foods, from cakes and roasted meats to fried fish and pastries, directly to banqueters, creating an absurd vision of effortless luxury. This imagery typifies the inventive, often surreal humor of Old Comedy. The work’s remnants, compiled in modern scholarly editions, offer valuable evidence for the linguistic creativity, social history, and thematic diversity of Athenian comedy beyond the corpus of its most famous practitioners.
+
 ## Text
 
 ### book 1.1

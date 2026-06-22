@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dzw-aa` · [HTML page](https://eulogikon.org/works/dionysius-argos-chronological-homeric-fragments-dzw-aa)
 
+The Chronological and Homeric Fragments by Dionysius of Argos is a lost work of Hellenistic scholarship, surviving only through quotations in later authors. As its title suggests, the work possessed a dual focus, combining chronological calculations for mythic and early historical events with commentary on the Homeric poems. The extant fragments indicate it sought to establish precise timelines for legendary narratives, such as dating the fall of Troy to a specific day in the Athenian calendar during the reign of Agamemnon. It also engaged in Homeric exegesis, offering explanations for poetic practices, including the origins of the terms for epic singers. The work further served as a repository for local Argive traditions and genealogies, employing chronological systems to lend historical coherence to the mythical past. It is transmitted solely through later sources, notably the geographer Strabo and the Byzantine patriarch Photius, with its fragments compiled in modern collections. Though its direct influence is difficult to trace due to its fragmentary state, Dionysius is cited as an authority by subsequent compilers, placing his work within the broader tradition of Hellenistic historiography that sought to synthesize local myths and Panhellenic epic into unified historical frameworks.
+
 ## Text
 
 ### 1

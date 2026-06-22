@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-al` · [HTML page](https://eulogikon.org/works/aristophanes-athens-wasps-daw-al)
 
+The Wasps is a comedy by the ancient Athenian playwright Aristophanes, first performed at the Lenaea festival in 422 BCE, where it won second prize. Written in Attic Greek verse, the play is a classic example of Old Comedy and survives complete in its original structure. The plot centers on an elderly citizen, Philocleon, whose obsessive service on Athens's paid juries is viewed as a sickness by his son, Bdelycleon. The son attempts to cure this mania, first by imprisoning his father at home and then by staging a mock trial of the family dog. The chorus consists of fellow elderly jurors, characterized as poor and waspish, which gives the play its name. After being weaned off the courts, Philocleon's attempt to adopt a life of aristocratic leisure culminates in a scene of drunken chaos at a symposium. Modern scholars interpret the work as a sharp political satire targeting the Athenian judicial system and the populist politician Cleon, who dominated Athenian politics after Pericles. The comedy critiques how jury pay could foster a citizenry dependent on demagogues, while also exploring themes of generational conflict and the difficulties of social change. Transmitted through medieval manuscripts dating primarily from the 10th to the 14th centuries CE, the text remains a vital source for understanding Athenian law, politics, and the conventions of comedic theater.
+
 ## Text
 
 **ΣΩΣΙΑΣ**

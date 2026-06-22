@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ax` · [HTML page](https://eulogikon.org/works/anon-hist-frag-parthian-war-mmg-ax)
 
+_On the Parthian War_ is an anonymous Greek historical work that survives only as a collection of thirty-five fragmentary passages. These excerpts do not form a continuous narrative and were likely compiled by a later editor. The fragments concern a conflict between Rome and Parthia, though the specific war referenced cannot be definitively identified from the extant material. The preserved passages relate to themes of Roman-Parthian interaction, including Roman military campaigns in the East, Parthian tactics and leadership, diplomacy and treaties between the empires, and descriptions of battles and regional geography. The work is lost in its original form, and its fragments are preserved within other texts, most notably as part of the _Excerpta historica_, a massive tenth-century compilation project commissioned by the Byzantine Emperor Constantine VII Porphyrogennetos. These excerpts are found in the collection known as the _Excerpta de sententiis_. The fragments’ primary importance lies in their preservation within the Constantinian excerpts, which saved them from complete loss. As a source, they contribute to the modern scholarly reconstruction of fragmentary Roman historiography and the study of Rome’s complex relations with the Parthian Empire.
+
 ## Text
 
 ### 2b,203,T 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bh` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-benefit-from-enemies-okg-bh)
 
+How One Might Benefit from Enemies is an ethical essay by the Greek philosopher Plutarch, composed in Attic Greek around 100 CE as part of his extensive collection of practical works known as the Moralia. The essay presents a structured argument, unfolding across approximately forty concise chapters, each marshaling reasons, historical examples, and maxims to persuade the reader that enmity can be a source of unexpected utility. Plutarch systematically challenges the conventional perception of enemies as purely detrimental, proposing instead that their criticism and opposition function as a powerful instrument for self-improvement. He argues that an enemy’s vigilance reveals personal faults which friends might overlook out of affection or politeness, thereby compelling greater self-scrutiny and moral vigilance. Addressed to the educated Greek-speaking elites of the early Roman Empire, the work reflects a broader philosophical preoccupation with converting adversity into an opportunity for ethical development. The essay survives intact through the long manuscript tradition of Plutarch’s writings. Modern scholars regard it as a characteristic example of Plutarch’s eclectic and practical approach to morality, seamlessly blending philosophical insight with actionable advice for daily personal conduct.
+
 ## Text
 
 ### t 1

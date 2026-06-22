@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ai` · [HTML page](https://eulogikon.org/works/libanius-antioch-epistolary-styles-swk-ai)
 
+The Works of Libanius constitute the extensive surviving corpus of the 4th-century CE Greek orator and teacher Libanius of Antioch. Composed in Attic Greek, it represents one of the largest extant bodies of work from any ancient author and encompasses several distinct genres. The most prominent of these are 64 orations, which range from judicial and political speeches to ceremonial showpieces and a detailed autobiography. The collection also includes 51 model rhetorical speeches known as Declamations, numerous preliminary rhetorical exercises called Progymnasmata, and over 1,500 letters. Libanius lived during a period of profound religious and cultural transformation as the Roman Empire became Christian. A committed pagan, he was a leading defender of traditional Greek education and culture. His works served various purposes: some were delivered before emperors and high officials, others functioned as textbooks for his students, and his vast correspondence maintained an extensive network across the late Roman world. Modern scholars regard his corpus as an indispensable historical source, offering detailed perspectives on the social dynamics, political events, and cultural tensions of the 4th century, particularly within his home city of Antioch. The transmission of Libanius's works is remarkably complete. His enduring status as a stylistic model ensured his texts were copied and studied throughout the Byzantine period. The corpus is considered largely intact, preserved through a vast and complex manuscript tradition.
+
 ## Text
 
 ### Char t

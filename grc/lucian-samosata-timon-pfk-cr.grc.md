@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cr` · [HTML page](https://eulogikon.org/works/lucian-samosata-timon-pfk-cr)
 
+_Timon_, also known as _The Misanthrope_, is a satirical dialogue composed in Attic Greek by the 2nd-century CE Syrian author Lucian of Samosata. The work offers a creative and comedic retelling of the legend of Timon, the archetypal Athenian misanthrope. It opens with Timon in a state of destitution, laboring in a field after having squandered his fortune and been abandoned by the parasitic friends who once flocked to him. His bitter lamentation prompts a council among the gods on Olympus, who intervene by compelling the blind god Wealth to return to Timon. Restored to opulence, Timon pointedly rejects the sycophants who immediately seek to regain his favor, famously driving them away by hurling stones and clods of earth, thus solidifying his legendary reputation for hating mankind.
+
+Structured in 57 sections and preserved intact from antiquity, the dialogue is a sophisticated product of the Second Sophistic, a cultural movement that celebrated virtuosic Greek oratory and the inventive reworking of classical literary themes. Scholars interpret Lucian's _Timon_ as a sharp social critique, targeting the hypocrisy of friendships contingent on wealth and examining the corrupting dynamics of patronage within Roman imperial society. Its enduring appeal lies in its skillful blend of comedy, philosophical inquiry, and mythological parody. The work proved highly influential in later European literature, most notably serving as a direct source for the plot and themes of William Shakespeare's tragedy _Timon of Athens_.
+
 ## Text
 
 ### Tim t

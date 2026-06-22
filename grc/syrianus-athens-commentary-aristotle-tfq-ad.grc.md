@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tfq-ad` · [HTML page](https://eulogikon.org/works/syrianus-athens-commentary-aristotle-tfq-ad)
 
+The Commentary on Aristotle’s Metaphysics is a philosophical treatise by Syrianus of Athens, a prominent Neoplatonist teacher of the fifth century CE. Composed in Attic Greek, the work is not a comprehensive exegesis but a focused examination of four specific books—3, 4, 13, and 14—of Aristotle’s Metaphysics. It is structured as a series of 195 detailed analytical passages. Syrianus composed the commentary for advanced students with the primary aim of reconciling Aristotelian philosophy with fundamental Platonic doctrine. A central and vigorous theme is his defense of Plato’s theory of Forms and the ontological status of mathematical objects against Aristotle’s critiques, particularly those advanced in Books 13 and 14. Modern scholarship regards the text as essential for understanding how late antique Platonists systematically incorporated Aristotle into their educational curriculum, treating his works as a preparatory logical and philosophical foundation for the study of Plato’s higher theological truths. The commentary survives in its entirety for the books it covers, preserved through Byzantine manuscript tradition. The fact that Syrianus chose not to comment on other books of the Metaphysics, such as the theologically pivotal Book 12, remains a noted subject of academic discussion. His interpretations directly shaped the philosophical output of his most famous student, Proclus, and through this lineage exerted a significant influence on the development of later medieval thought.
+
 ## Text
 
 ### 1 (1t)

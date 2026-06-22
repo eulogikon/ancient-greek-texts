@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-af` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-hymns-fragments-brw-af)
 
+The Fragments of Hymns consist of four brief passages from the lost religious poetry of the 5th-century BCE lyric poet Bacchylides. These remnants represent the hymn genre, a form of choral song performed at public festivals to invoke and honor a deity. The surviving pieces include invocations to Apollo and Hera, with one fragment referencing the myth of Apollo slaying the dragon at Delphi. Composed in the traditional triadic structure of strophe, antistrophe, and epode, they employ the Doric dialect mixed with other Greek linguistic forms, a technique also found in his more famous victory odes. No complete hymn by Bacchylides survives; these fragments were preserved not on papyrus but as quotations in the works of later ancient grammarians and commentators. Their existence confirms that Bacchylides, a professional poet and rival of Pindar, composed across the full spectrum of choral genres for religious and civic occasions. Scholars regard these fragments as crucial evidence connecting his work to the central tradition of Greek cult song, a lineage extending from the Homeric Hymns to later Hellenistic poetry.
+
 ## Text
 
 ### book 1

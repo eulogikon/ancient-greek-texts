@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rmq-ab` · [HTML page](https://eulogikon.org/works/cassius-longinus-rhetoric-rmq-ab)
 
+The Rhetorical Art is a fragmentary handbook on persuasive oratory, traditionally ascribed to the 3rd-century philosopher and critic Cassius Longinus. Composed in Attic Greek for advanced students within the elite educational milieu of the late Roman Empire, this technical treatise survives only in excerpts, organized in modern editions as 29 distinct passages. These fragments demonstrate that the work systematically addressed core rhetorical subjects, including the invention of arguments, the arrangement of speech components, and the cultivation of an effective stylistic manner. It was produced during an era of political upheaval when Greek rhetorical education remained a fundamental pillar of intellectual and public life. Scholars regard the text as a practical manual deeply embedded in the established traditions of Aristotelian and Hellenistic rhetorical theory, while also inflected by the Platonist philosophical preoccupations of its author. The work’s preservation is entirely secondary, with all extant fragments derived from quotations found in later ancient and medieval rhetorical commentaries and lexicons. Although its direct historical influence is difficult to assess due to its incomplete state, the Rhetorical Art provides a significant window into the pedagogical methods and theoretical concerns that characterized rhetorical instruction as classical antiquity gave way to the late ancient world.
+
 ## Text
 
 ## ΛΟΓΓΙΝΟΥ ΤΕΧΝΗ ΡΗΤΟΡΙΚΗ .

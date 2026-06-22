@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vls-ac` · [HTML page](https://eulogikon.org/works/anon-soph-ref-scholia-vls-ac)
 
+Overview This anonymous work is a collection of 73 scholia, or marginal commentaries, on Aristotle’s Sophistical Refutations. As a line-by-line explanatory guide, it glosses terms, paraphrases arguments, and clarifies difficult passages in Aristotle’s treatise on logical fallacies.
+
+Content The scholia engage directly with the themes of Aristotle’s source text:
+
+The analysis and examples of thirteen logical fallacies, such as equivocation and begging the question.
+
+The distinction between sophistical and genuine refutations in dialectical debate.
+
+Linguistic analysis of deceptive uses of ambiguity in terms and syntax.
+
+The purpose of logic as a tool for purifying philosophical argumentation.
+
+Transmission The scholia survive as a coherent set, likely transmitted within medieval manuscripts of the Aristotelian corpus. Such anonymous commentaries often represent compiled classroom notes or summaries from earlier scholars, copied and recopied for pedagogical use throughout the Byzantine period.
+
+Significance These scholia contributed to the medieval and Byzantine understanding of Aristotelian logic. By mediating Aristotle’s complex arguments, they served as an essential tool for teaching and preserving the Sophistical Refutations within the philosophical curriculum, influencing the broader reception history of the Organon.
+
 ## Text
 
 ### book prol 164a20-21

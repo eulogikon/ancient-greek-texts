@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qya-ah` · [HTML page](https://eulogikon.org/works/clement-alexandria-stromata-qya-ah)
 
+The Stromata, or "Miscellanies," is a theological treatise composed in Greek by Clement of Alexandria around 198–203 CE. It forms the third part of a pedagogical trilogy, following an Exhortation to conversion and a Tutor on moral conduct. As its title suggests, the work is intentionally unsystematic, adopting a patchwork structure that weaves together wide-ranging discussions on faith, knowledge, philosophy, and ethics. Organized into eight books, the final book is incomplete and is generally considered by scholars to be a collection of notes or a preliminary draft. The treatise is characterized by a dense, allusive style, heavily laden with quotations from Greek philosophers, poets, and earlier Christian writers.
+
+Clement wrote in Alexandria, a major intellectual hub of the ancient world, primarily addressing educated converts to Christianity. A central objective of the work is to argue for the fundamental harmony between Greek philosophy and Christian revelation. Clement posits that philosophy was a divine gift to the Greeks, serving as a preparatory discipline that led them toward the truth fully revealed in Christ. Modern scholarship often interprets the Stromata as a crucial apologetic and polemical text, defending what would become orthodox Christianity against rival interpretations, particularly Gnostic sects. Clement seeks to reclaim the concept of true spiritual knowledge, or gnosis, by redefining it as the profound understanding attainable only within a philosophically informed and ecclesiastically rooted Christian tradition.
+
+The complete text of the Stromata survives in Greek manuscripts, the most significant witness being an 11th-century codex. While the core seven books are fully preserved, the fragmentary nature and precise purpose of the eighth book continue to be subjects of academic discussion.
+
 ## Text
 
 ### 1.1

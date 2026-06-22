@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfa-ab` · [HTML page](https://eulogikon.org/works/comica-adespota-domestic-life-kfa-ab)
 
+_Comic Fragments on Domestic Life_ is a modern scholarly compilation of ten anonymous passages from lost Greek comedies. These excerpts, classified under the broad category of Comica Adespota, originate from various plays of the Old, Middle, or New Comedy periods. They are preserved not as continuous texts but as quotations embedded within the works of later grammarians, lexicographers, and scholars, most notably Athenaeus of Naucratis, who cited them for their unusual vocabulary or illustrative cultural details. Their identification and thematic grouping into a collection focused on household affairs is entirely the product of modern philology, particularly within comprehensive editorial projects such as the Poetae Comici Graeci.
+
+The assembled fragments collectively illuminate the standard comic preoccupation with domestic settings. They depict scenes of household management and the complex dynamics between masters and slaves, alongside familial conflicts involving spouses or different generations. The texts also feature stereotypical social figures common to the genre, such as parasites and boastful cooks, and offer glimpses into the minutiae of daily life, including references to food, drink, and domestic objects. Proverbial sayings about the home further populate these literary remnants. While individually brief, these fragments are significant for reconstructing the expansive but largely lost landscape of Greek comedy, providing especially valuable evidence for the themes of Middle Comedy. They offer crucial insights into the social history of daily life in antiquity, and the domestic scenarios and character types they preserve demonstrably informed the subsequent development of Roman comedy and, by extension, the broader European comedic tradition.
+
 ## Text
 
 ### book 352a.1

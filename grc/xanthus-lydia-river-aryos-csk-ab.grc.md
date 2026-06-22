@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `csk-ab` · [HTML page](https://eulogikon.org/works/xanthus-lydia-river-aryos-csk-ab)
 
+On the River Aryos is a surviving fragment from the lost historical works of Xanthus of Lydia, a fifth-century BCE author. Preserved only as a quotation within the later Geography of Strabo, the brief passage is written in Ionic Greek prose and constitutes a piece of geographical or ethnographic description. It identifies the Aryos as a river in Lydia and records the local report that sheep drinking from its waters turn black. This focus on a regional natural marvel is characteristic of the early Greek logographers, who compiled histories and curiosities of foreign lands. The fragment’s original context is uncertain, but it is believed to have been part of Xanthus’s comprehensive history of Lydia, composed to acquaint a Greek audience with his native country. As the sole extant excerpt, the complete scope and arrangement of the parent work remain unknown. Scholars regard the fragment as a representative artifact of early ethnographic inquiry, illustrating the type of authoritative local source material that later influenced major historians like Herodotus and geographers like Strabo.
+
 ## Text
 
 ### 2 bis.(l1)

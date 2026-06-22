@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kwi-aa` · [HTML page](https://eulogikon.org/works/vatican-paradoxographer-marvels-kwi-aa)
 
+The Marvels is an anonymous ancient Greek prose work belonging to the genre of paradoxography, a tradition dedicated to cataloging wondrous and seemingly incredible facts. Likely compiled during the Hellenistic or Imperial Roman period, the text consists of 36 concise entries describing unusual natural phenomena, strange customs, and remarkable traits of animals and peoples from across the known world. The entries are systematically organized, often beginning with a geographical location before detailing the specific wonder, such as the migratory habits of cranes or a predatory beast in Ethiopia that lures children by name. Preserved in a single 14th-century manuscript, only part of the full text survives. Modern scholarship interprets the work not as an original investigation but as a compilation, drawing on earlier geographical and historical sources like Aristotle to satisfy educated readers' curiosity about the exotic edges of the world. It stands as a testament to the ancient intellectual fascination with collecting and systematizing knowledge of the extraordinary.
+
 ## Text
 
 ## PARADOXOGRAPHUS VATICANUS Ἁγησίας ὁ Μεγαρεὺς τὰς γεράνους φησίν, ὅταν ἐκ τῆς Θρᾴκης ἀπαίρειν μέλλωσιν, ὑπὸ μιᾶς περιρραίνεσθαι κύκλῳ πάσας· εἶθ’ ὅταν βοήσῃ ἐκείνη, τὴς μὲν ἐξαίρειν καθαπερεὶ κελευστοῦ παραγγείλαντος, τὴν δ’ ἁγνίσασαν καταμένειν αὐτοῦ.

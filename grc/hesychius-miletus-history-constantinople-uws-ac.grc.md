@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uws-ac` · [HTML page](https://eulogikon.org/works/hesychius-miletus-history-constantinople-uws-ac)
 
+The History of Constantinople is a sixth-century prose work by the Byzantine historian Hesychius of Miletus. It chronicles the story of the city from its legendary foundation by the Greek hero Byzas through to the death of Emperor Anastasius I in 518 CE. Rather than presenting a strict chronological narrative, the text functions as a compendium, blending historical accounts, foundation myths, and descriptions of notable monuments and topography. It belongs to the genre of Patria, or city histories, and was likely composed during the reign of Emperor Justinian to glorify Constantinople’s dual heritage for an educated elite, connecting its ancient Greek past to its contemporary status as the Christian capital of the Roman Empire.
+
+The complete text of Hesychius’s history is not extant. It is known today only through excerpts and summaries preserved in later Byzantine works, most significantly the tenth-century encyclopedia known as the Suda, which quotes from it and outlines its original scope. Other fragments were incorporated into later collections such as the Patria of Constantinople, making the precise separation of Hesychius’s original contributions from subsequent additions a complex scholarly task. Despite its fragmentary survival, the work became a foundational source for later Byzantine writers on the city’s antiquities and early history.
+
 ## Text
 
 ### 17

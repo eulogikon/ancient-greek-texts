@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mfs-aa` · [HTML page](https://eulogikon.org/works/glaucus-geography-antiquities-mfs-aa)
 
+The work known as Arab Geography and Antiquities, attributed to the obscure author Glaucus the Historian, survives only in a handful of prose passages. Its Greek title, Apospasmata, meaning "Extracts" or "Selections," strongly suggests the surviving text represents a compilation or epitome of a larger geographical and historical treatise. The content of these fragments is exclusively geographical and ethnographic, focusing on the Arabian Peninsula and adjacent regions. They provide brief entries on various cities, towns, and peoples, such as the Ataphenoi, the city of Dumatha, and the region of Oman, often noting the demonym for their inhabitants. The work represents a Greek scholarly perspective on the topography and populations of the Arab world, though its extreme obscurity and fragmentary state indicate it was a minor text, likely superseded by or absorbed into more comprehensive geographical compilations without direct attribution. Its transmission history is unrecorded in major manuscript traditions, and it survives solely through these isolated excerpts.
+
 ## Text
 
 ### t1-4

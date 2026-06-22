@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ira-aa` · [HTML page](https://eulogikon.org/works/artemon-pergamum-pindar-fragments-ira-aa)
 
+The Fragments on Pindar's Odes by Artemon of Pergamum represent the scant surviving remnants of a Hellenistic prose commentary on the victory odes of the poet Pindar. The work is entirely lost as an independent volume and is known only through eight excerpts preserved within the ancient marginal and interlinear notes, or scholia, that accompany the Pindaric corpus in medieval manuscripts. These fragments consist of Artemon's notes on specific lines, addressing points of textual criticism, historical explanation, mythological exegesis, and literary interpretation. The selective nature of these citations suggests his original commentary was not a comprehensive analysis of every ode but focused on elucidating particular passages.
+
+The content of the fragments illustrates the methods of Hellenistic scholarship. Artemon engaged in textual criticism by assessing variant readings and the authenticity of lines. He provided historical context to clarify the events, athletic victors, and contests referenced by Pindar. His interpretations also extended to the mythological narratives alluded to in the poetry and to examinations of Pindar's distinctive poetic diction and structure. The transmission of his work is entirely dependent on its incorporation into the later scholiastic tradition. Compilers of these scholia, drawing from a range of earlier commentators over centuries, quoted Artemon by name, thereby preserving his interpretations within the standard body of ancient Pindaric exegesis. Consequently, these fragments offer valuable insight into the scholarly approaches to Pindar in the Hellenistic period and continue to form part of the critical apparatus utilized by modern philologists.
+
 ## Text
 
 ### t3a-8

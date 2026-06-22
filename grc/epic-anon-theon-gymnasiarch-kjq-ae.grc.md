@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ae` · [HTML page](https://eulogikon.org/works/epic-anon-theon-gymnasiarch-kjq-ae)
 
+The Praises of Theon the Gymnasiarch is an anonymous Greek encomiastic poem preserved as three epigrams in Book 16 of the Greek Anthology. This short work celebrates Theon, a gymnasiarch, for his virtues and benefactions related to his oversight of the gymnasium, a central civic institution. The poem opens with an invocation to Hermes, the patron god of the gymnasium, and proceeds to praise Theon's lifelong commitment to public service. It contrasts material gifts, which any wealthy man might provide, with the superior gifts of education and culture that Theon, as a man learned in the wisdom of the Muses, bestows upon the city's youth through his leadership. The work thus highlights the ideals of public benefaction and civic virtue, emphasizing the cultural importance of the gymnasium and the role of the generous, intellectually cultivated public official. The poem survives within the Byzantine compilation tradition of the Greek Anthology, specifically the Palatine Anthology manuscript. As a minor honorific epigram, it exemplifies a common sub-genre of poetry used to commemorate local officials in the Hellenistic and Roman East, providing a concise example of the social practice of public praise and the administrative and educational functions of the gymnasiarch.
+
 ## Text
 
 ### unit_1

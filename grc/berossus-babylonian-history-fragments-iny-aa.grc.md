@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iny-aa` · [HTML page](https://eulogikon.org/works/berossus-babylonian-history-fragments-iny-aa)
 
+The Fragments on Babylonian History constitute the surviving excerpts from the Babyloniaca, a three-volume historical treatise composed in Greek by the Babylonian priest Berossus during the early third century BCE. Dedicated to the Seleucid monarch Antiochus I, the work was a deliberate effort to translate the historical traditions and cosmological wisdom of Mesopotamia for a Hellenistic audience. Its original structure followed a grand chronological sweep, beginning with a cosmogony and the appearance of the primeval, fish-garbed sage Oannes, who bestowed civilization upon humanity. This was followed by an account of the antediluvian kings and a detailed narrative of the Great Flood, concluding with a dynastic history that extended to the conquests of Alexander the Great. The complete text of the Babyloniaca is now lost, with only thirty-eight fragments preserved indirectly through citations in later Greek, Latin, and Byzantine historians and chronographers, such as Flavius Josephus and Eusebius of Caesarea. Modern scholarship interprets Berossus's project as a sophisticated act of cultural diplomacy, designed to assert the profound antiquity and intellectual authority of Babylonian civilization to its new Hellenistic rulers by systematically presenting its vast historical chronology, its version of the universal flood myth, and its tradition of divine wisdom conveyed by primordial sages.
+
 ## Text
 
 ### t1a-16a

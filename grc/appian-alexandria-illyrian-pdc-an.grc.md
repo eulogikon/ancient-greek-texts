@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-an` · [HTML page](https://eulogikon.org/works/appian-alexandria-illyrian-pdc-an)
 
+The Illyrian is a book of regional history written in Greek by Appian of Alexandria during the mid-2nd century CE. It constitutes a dedicated section within his larger Roman History, focusing on Rome's protracted military and diplomatic campaigns to subdue the various Illyrian peoples inhabiting the eastern Adriatic coast and the western Balkans. Appian structures his narrative geographically, chronicling conflicts from the initial Roman interventions in the 3rd century BCE through to the suppression of the Great Illyrian Revolt under Emperor Augustus in the first decade of the 1st century CE. His overarching aim is to document the process of imperial absorption, framing Roman actions as necessary responses to endemic piracy and regional instability, while detailing key treaties, battles, and the incremental establishment of provincial control.
+
+The work survives in full as part of the medieval manuscript tradition preserving Appian's complete history. Modern scholarship regards the Illyrian as an invaluable source, frequently providing the only continuous ancient narrative for Rome's expansion into this complex region. It offers crucial, if occasionally schematic, ethnographic and geographic context, such as defining the traditional boundaries of Illyria and recounting its mythical foundation stories. Written for a Greek-speaking audience within the Roman Empire, the book serves to explain and justify the mechanisms of Roman power and the integration of disparate nations into the imperial fold.
+
 ## Text
 
 ### [1]

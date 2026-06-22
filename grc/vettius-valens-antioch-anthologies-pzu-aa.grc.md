@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pzu-aa` · [HTML page](https://eulogikon.org/works/vettius-valens-antioch-anthologies-pzu-aa)
 
+The Anthologies is a nine-book astrological treatise composed in Greek by the practicing astrologer Vettius Valens of Antioch around 152–162 CE. It serves as a comprehensive manual for students and practitioners, systematically compiling the techniques and doctrines of Hellenistic astrology. The work is organized into 355 chapters across its nine books, addressing fundamental topics such as calculating planetary positions, interpreting zodiac signs, and applying complex predictive methods like time-lord periods. A distinctive characteristic is its inclusion of over 120 sample horoscopes, which provide practical illustrations of its doctrines and constitute a valuable source of historical data.
+
+Modern scholarship regards the text as a crucial primary source for understanding the professional practice of astrology as a technical discipline in the Roman Empire. It emphasizes empirical learning and the preservation of knowledge, written in a personal and didactic tone with the author often addressing the reader directly and sharing anecdotes from his work. The treatise survives through a relatively robust manuscript tradition, preserved chiefly in Byzantine Greek copies from the 13th and 14th centuries, and was later translated into Arabic and Persian. While the core text is largely intact, the interpretation of some technical passages remains challenging due to their inherent complexity and occasional copyist errors.
+
 ## Text
 
 ### 1 (1t)

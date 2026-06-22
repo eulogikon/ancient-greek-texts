@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ah` · [HTML page](https://eulogikon.org/works/hero-alexandria-spiritual-matters-odi-ah)
 
+Hero of Alexandria's Pneumatica, a two-book scientific treatise from the 1st century CE, systematically details the properties of air and vacuum, applying these principles to the construction of ingenious devices. Structured as a collection of 93 passages describing approximately 80 machines, the work catalogs a remarkable array of inventions, including water organs, singing bird automatons, coin-operated mechanisms, automatic temple doors, and an early steam-powered engine known as the aeolipile. As an engineer and mathematician in Roman-era Alexandria, Hero represents the peak of Hellenistic mechanical science. The treatise appears intended for fellow engineers and the educated elite, serving both to demonstrate theoretical physics and to create wondrous spectacles for entertainment and religious ceremony. The text is fully extant, but its transmission is complex. The original Greek was translated into Arabic and Latin during the medieval period, which proved crucial for its preservation. Surviving Greek manuscripts derive from later Byzantine copies and are thought to contain some corruptions or additions; scholars often compare these with the earlier Arabic translation to reconstruct a version closer to Hero's original. The treatise became highly influential following its rediscovery in the Renaissance, significantly impacting the development of early modern pneumatics, hydraulics, and the study of steam power.
+
 ## Text
 
 ### 1 proem (1t)

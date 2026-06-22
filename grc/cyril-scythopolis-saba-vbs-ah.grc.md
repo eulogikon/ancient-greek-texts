@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vbs-ah` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-saba-vbs-ah)
 
+The Life of Saba is a saint’s biography composed in Koine Greek by the monk Cyril of Scythopolis around 557–559 CE. It chronicles the life of Saint Sabas, a major monastic founder in the Judaean Desert who lived from 439 to 532 CE. Structured as a prose narrative divided into 116 chapters, the work follows Sabas from his birth in Cappadocia through his ascetic training, his establishment of the Great Lavra known as the Mar Saba monastery near Jerusalem, and his foundation of several other monastic communities. The text details his severe ascetic practices, his diplomatic missions to emperors in Constantinople, and the numerous miracles attributed to him.
+
+Written approximately twenty-five years after the saint’s death, the biography emerged during a period of intense theological controversy following the Council of Chalcedon. Modern scholarship interprets it as a work of orthodox advocacy, deliberately portraying Sabas as a stalwart defender of Chalcedonian Christology against contemporary Monophysite teachings. It was composed primarily for the monastic communities of Palestine, serving both as a model of spiritual authority and a reinforcement of doctrinal orthodoxy. The Life of Saba survives intact through medieval manuscript transmission and is considered a complete and well-preserved work. It remains a crucial historical source for understanding the development, politics, and spiritual ideals of early Byzantine monasticism in the Holy Land.
+
 ## Text
 
 ### [5]

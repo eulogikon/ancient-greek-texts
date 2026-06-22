@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nie-ab` · [HTML page](https://eulogikon.org/works/aristodemus-mardonius-fragments-nie-ab)
 
+The work known as Fragments on Mardonius by Aristodemus the Historian is attested solely by its title, recorded by the 19th-century scholar Karl Müller in his collection Fragmenta Historicorum Graecorum. The title indicates its subject was Mardonius, the Persian commander during the Greco-Persian Wars, particularly at the Battle of Plataea in 479 BCE. No content from the work survives, and it is considered entirely lost, with no known manuscript tradition. Its significance is purely bibliographical, serving as evidence for the existence of one among many minor historical treatises from antiquity that are no longer extant.
+
 ## Text
 
 ### 1b.(l1)

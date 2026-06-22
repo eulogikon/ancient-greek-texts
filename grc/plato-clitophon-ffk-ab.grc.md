@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ab` · [HTML page](https://eulogikon.org/works/plato-clitophon-ffk-ab)
 
+The Clitophon is a brief philosophical dialogue traditionally included in the Platonic corpus. Composed in Attic Greek, its date is uncertain but likely belongs to the fourth century BCE. The work is structurally unique among Plato’s writings, consisting almost entirely of a single, uninterrupted speech delivered by the character Clitophon to Socrates. Clitophon begins by acknowledging Socrates’s power to exhort others toward the pursuit of justice and virtue, praising his ability to awaken a desire for self-improvement. He then presents a pointed critique, arguing that Socrates’s elenctic method—his practice of exposing ignorance through questioning—is ultimately insufficient. While adept at dismantling faulty definitions, Socrates fails, in Clitophon’s view, to provide the positive instruction necessary to achieve virtue. He laments that Socrates does not define justice itself nor offer a concrete path to becoming just. The dialogue concludes abruptly with Clitophon declaring his intention to seek answers from others, specifically naming the sophist Thrasymachus.
+
+The authenticity of the Clitophon has been contested since antiquity, and modern scholarship remains divided. Some consider it spurious, possibly the work of a member of Plato’s Academy, while others accept it as a genuine, if atypical, Platonic composition. Thematically, it is closely connected to Plato’s Republic, where both Clitophon and Thrasymachus appear as interlocutors. This link has led some interpreters to view the Clitophon as a deliberate prologue or framing device for the longer work, articulating a fundamental philosophical challenge that the Republic seeks to address: the distinction between refuting error and imparting positive knowledge, between exposing ignorance and teaching virtue.
+
 ## Text
 
 ### Clit.406.a

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emo-ag` · [HTML page](https://eulogikon.org/works/aeschylus-oresteia-fragments-emo-ag)
 
+The Oresteia is a trilogy of tragic plays by Aeschylus, first performed in Athens in 458 BCE. It comprises three complete surviving works: Agamemnon, Choephori (Libation Bearers), and Eumenides (The Kindly Ones). These were originally followed by a satyr play, Proteus, which is now lost. Written in Attic Greek verse, the trilogy dramatizes the curse upon the House of Atreus. Its narrative follows King Agamemnon’s return from the Trojan War and his murder by his wife, Clytemnestra; the vengeance enacted by their son, Orestes; and his subsequent persecution by the Furies. The story culminates in a trial at Athens, presided over by the goddess Athena, which transforms the cycle of personal vengeance into the institution of civic law and the court of the Areopagus.
+
+The three principal plays survive substantially intact through medieval manuscript traditions. However, the satyr play Proteus is lost, and some lines from the trilogy are preserved only in fragments quoted by later ancient authors or recovered from papyri. The Oresteia is widely interpreted as a profound exploration of justice, examining the tension between archaic blood feud and the new order of polis-centered jurisprudence. It engages directly with contemporary Athenian legal and political reforms, particularly the reorganization of the Areopagus council in the 460s BCE. The trilogy stands as a cornerstone of Western literature, drama, and political thought, renowned for its complex poetic imagery, architectural structure, and enduring thematic depth.
+
 ## Text
 
 ### book 1.1

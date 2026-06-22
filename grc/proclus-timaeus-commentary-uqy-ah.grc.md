@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ah` · [HTML page](https://eulogikon.org/works/proclus-timaeus-commentary-uqy-ah)
 
+Proclus’s Commentary on Plato’s Timaeus is a monumental philosophical treatise composed in the fifth century CE by Proclus Lycius, the head of the Platonic Academy in Athens. This exhaustive work provides a meticulous, line-by-line analysis of Plato’s cosmological dialogue, structured around the exegesis of over a thousand individual passages. Far more than a simple explication, the commentary constitutes a systematic exposition of mature Neoplatonic doctrine. Proclus employs the framework of the Timaeus to articulate a comprehensive metaphysical hierarchy in which all of reality emanates from a single, ineffable divine principle, descending through successive orders of being until it reaches the physical cosmos. His analysis encompasses core Platonic themes such as the role of the divine Demiurge, the mathematical architecture of the universe, the nature of the World Soul, and the relationship between eternity and time. Modern scholarship interprets the work as both a didactic manual for advanced students and an apologetic text, composed to defend and systematize a sophisticated pagan theological worldview during the ascendancy of Christianity. The complete commentary, preserved through medieval manuscripts, exerted profound influence on subsequent thought; its translation into Latin in the thirteenth century made it a crucial conduit of Platonic and Neoplatonic ideas into Western medieval and Renaissance philosophy, securing its status as an indispensable source for understanding late antique Platonism and the history of Plato’s reception.
+
 ## Text
 
 ### 1

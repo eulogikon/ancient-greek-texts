@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-au` · [HTML page](https://eulogikon.org/works/lysias-against-andocides-ejc-au)
 
+Against Andocides for Impiety is a forensic oration composed by the Attic speechwriter Lysias around 400–399 BCE. Written for delivery by a client in an Athenian court, the speech constitutes the prosecution case against the prominent citizen Andocides on a charge of impiety. The central allegation is that Andocides illegally entered sacred precincts, thereby violating a specific decree, despite his prior admission of involvement in two notorious religious scandals that had shaken Athens in 415 BCE: the mutilation of the Herms and the profanation of the Eleusinian Mysteries.
+
+The fully preserved speech, comprising forty-nine sections, mounts a comprehensive assault on the defendant's character. It meticulously recounts Andocides' past confession, his subsequent exile, and his return to Athens following the general amnesty enacted after the fall of the oligarchic regime in 403 BCE. The prosecutor contends that while this amnesty covered political offenses, it offered no protection against charges of ongoing religious pollution and sacrilege. The trial is historically significant as a critical test of the boundaries and interpretation of that amnesty, occurring during the fragile civic reconciliation following a period of intense civil strife. Regarded as an authentic work of Lysias, the oration provides invaluable evidence for the intricate interplay of law, religion, and persistent political factionalism in late fifth-century Athens.
+
 ## Text
 
 ### Or6 t

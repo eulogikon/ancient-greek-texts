@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `npw-aa` · [HTML page](https://eulogikon.org/works/chariton-aphrodisias-chaerea-callirhoe-npw-aa)
 
+Chaereas and Callirhoe, also known simply as Callirhoe, is an ancient Greek novel by Chariton of Aphrodisias, generally dated to the first century CE. It stands as the earliest fully extant work of Greek prose romance. The narrative chronicles the turbulent love story of Chaereas and Callirhoe, a married couple from Syracuse. Their idyllic life is shattered when a jealous quarrel results in Callirhoe being mistakenly interred as dead. She is subsequently kidnapped from her tomb and sold into slavery, initiating a sprawling adventure that encompasses pirates, the Persian imperial court, naval battles, and a prolonged quest for reunion. Composed in eight books, the novel artfully blends its romantic core with a pseudo-historical backdrop, incorporating figures such as the Syracusan general Hermocrates and the Persian king Artaxerxes II.
+
+The text survives primarily in a single manuscript from the 13th century, which lacks its opening section; the beginning has been restored from a later summary. Despite this initial lacuna, the work is substantially complete. Scholars view the novel as a product of the educated Greek elite under the early Roman Empire, exploring themes of fortune, fidelity, and cultural identity. Its relatively straightforward and episodic prose style provides a foundational benchmark for understanding the evolution of ancient fictional narrative.
+
 ## Text
 
 ### 1.1.1

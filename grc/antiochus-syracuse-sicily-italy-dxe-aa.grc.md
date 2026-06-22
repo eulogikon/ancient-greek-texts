@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dxe-aa` · [HTML page](https://eulogikon.org/works/antiochus-syracuse-sicily-italy-dxe-aa)
 
+On Sicily and Italy is a foundational historical work by Antiochus of Syracuse, a Greek historian active in the late fifth century BCE. Composed in prose, the now fragmentary text provided a detailed narrative of the origins and early settlements of Greek colonies in Sicily and southern Italy. The work survives only through sixteen excerpts preserved by later ancient authors, primarily the geographer Pausanias and the historian Dionysius of Halicarnassus. These fragments indicate that Antiochus structured his account by region, with at least one book devoted to Sicily and another to Italy. His methodology blended legendary traditions with historical inquiry, tracing the earliest mythical foundations before systematically chronicling the subsequent waves of colonization undertaken by major Greek city-states.
+
+Antiochus wrote during a period of intense political and military strife in Sicily, and his history is interpreted by modern scholars as a work of cultural assertion. By constructing a comprehensive narrative of Greek expansion, he aimed to legitimize the Hellenic presence and, by extension, the hegemony of his native Syracuse against rival indigenous and Punic powers. The work was influential in its own time, notably consulted by the historian Thucydides for his account of early Sicily, and it helped establish a lasting model for local history writing in the Greek world. The complete text is lost, and knowledge of its content depends entirely on quotations embedded within the geographical and historical writings of later antiquity.
+
 ## Text
 
 ### t1-2

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `awi-aa` · [HTML page](https://eulogikon.org/works/pythaenetus-aegina-fragments-awi-aa)
 
+The Aeginetica by Pythaenetus the Historian is a lost prose work of Greek local history concerning the island of Aegina. It survives only in a handful of brief fragments preserved as quotations in later lexicographical and geographical sources, primarily Hesychius of Alexandria and Stephanus of Byzantium. These fragments, often just single words or phrases with glosses, provide minimal insight into the original scope of the work. Based on the extant fragments and the conventions of its genre, the work’s content likely included topography and place names, explanations of local lexicon and customs, and local mythology and historical traditions, presumably including narratives about the island’s foundation and its early rulers. The work is transmitted exclusively through fragments compiled in Felix Jacoby’s Die Fragmente der griechischen Historiker, having been cited by later grammarians and encyclopedists with no independent manuscript tradition. The Aeginetica is typical of many local histories that were mined as sources for rare words and antiquarian data but did not survive intact. Its fragments contribute to the modern study of the genre of Greek local history and offer specific, if minor, data points regarding the island of Aegina.
+
 ## Text
 
 ### t1-5

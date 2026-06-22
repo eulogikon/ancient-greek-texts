@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `exs-aa` · [HTML page](https://eulogikon.org/works/hermodorus-ephesus-testimonies-fragments-exs-aa)
 
+The Testimonies and Fragments attributed to Hermodorus of Ephesus represent the collected remnants of his work, preserved through quotations and references in later ancient authors. Hermodorus, a member of Plato’s Academy, is best known for having written a biography of Plato. This work recorded significant details of Plato’s life, including his departure from Athens with other philosophers after the execution of Socrates, his subsequent travels to Megara and Sicily, and the circumstances surrounding the founding of the Academy. Beyond biography, the fragments engage directly with core Platonic metaphysical doctrine. They provide an early Academic interpretation of Plato’s so-called unwritten teachings, focusing on the derivation of reality from fundamental principles, specifically the One and the Indefinite Dyad, and exploring the foundational role of numbers in this schema. Hermodorus’s original writings are lost, and his ideas survive primarily through the works of later commentators such as Plutarch and Simplicius. These fragments are of considerable historical importance, offering a rare contemporary perspective on the development of Platonic thought within the first generation of the Academy and serving as a vital source for reconstructing the early Academic theory of principles that bridged the philosophy of Plato and his immediate successors.
+
 ## Text
 
 ### 1

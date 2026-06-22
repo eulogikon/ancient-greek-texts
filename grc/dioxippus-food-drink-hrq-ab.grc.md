@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hrq-ab` · [HTML page](https://eulogikon.org/works/dioxippus-food-drink-hrq-ab)
 
+Fragments on Food and Drink is a modern thematic compilation of twelve fragmentary passages from the lost comedies of the Athenian poet Dioxippus, who worked in the tradition of Old Comedy. The fragments are preserved exclusively through quotation by later authors, most notably Athenaeus of Naucratis in his Deipnosophistae. They consist of comic verses that mention various foods, drinks, and dining practices. The content engages with standard tropes of the genre, using culinary excess, gluttony, and sympotic culture as vehicles for mockery and social satire. The humor often critiques status and luxury or derives from bodily functions related to consumption. These fragments survive indirectly, transmitted primarily through the scholarly interests of the Second Sophistic period, with Athenaeus as the principal source and additional citations found in Pollux and ancient scholia. The definitive modern scholarly collection is Poetae Comici Graeci. While Dioxippus’s own influence appears to have been limited, these fragments collectively provide valuable evidence for reconstructing the thematic concerns of Old and Middle Comedy beyond the major preserved playwrights. They serve as a crucial resource for scholars of Athenian social history and ancient gastronomy.
+
 ## Text
 
 ### book 1

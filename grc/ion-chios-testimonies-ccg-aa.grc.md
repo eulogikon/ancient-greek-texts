@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccg-aa` · [HTML page](https://eulogikon.org/works/ion-chios-testimonies-ccg-aa)
 
+The Testimonies is a lost prose work by the fifth-century BCE Greek poet and author Ion of Chios. Composed in Ionic Greek, it functioned as a collection of personal memoirs detailing the author's interactions with notable contemporaries. Surviving fragments indicate the work contained revealing anecdotes and firsthand accounts concerning major figures such as the philosopher Pythagoras, the tragedian Sophocles, and the statesman Pericles. The structure of its first book is recorded as comprising ten discrete passages, though the complete text does not survive. The work exists only in fragments preserved by later ancient writers, including Diogenes Laertius. Modern scholarship interprets the Testimonies as an early example of biographical and social history, offering a personal perspective on the intellectual and political elite of classical Greece. It appears to have been intended for an educated audience interested in the private characters of public figures. The work is regarded by some as a significant, if fragmentary, contribution to the early development of Greek prose historiography and philosophical biography.
+
 ## Text
 
 ### 3b,392,T 1

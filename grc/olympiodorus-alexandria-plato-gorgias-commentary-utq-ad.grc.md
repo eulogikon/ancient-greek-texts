@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `utq-ad` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-plato-gorgias-commentary-utq-ad)
 
+The Commentary on Plato's Gorgias is a sixth-century CE treatise by Olympiodorus the Younger, a pagan Neoplatonist philosopher active in Christian Alexandria. Comprising a series of forty-six lectures, the work offers a detailed, line-by-line exegesis of Plato’s dialogue. Olympiodorus structures his commentary with a general prolegomenon followed by a systematic analysis of the text, interpreting its arguments across ethical, political, and theological registers. He contends that the Gorgias fundamentally concerns the principles of political philosophy and the proper ordering of both the soul and the state. Within the tense religious climate of his time, Olympiodorus presents Socrates as a divinely inspired figure and places particular emphasis on the dialogue’s concluding myth, treating it as a serious discourse on divine justice and providence. Preserved in an eleventh-century manuscript, the commentary is a vital document of late antique pedagogy, providing significant insight into the teaching methods and interpretative strategies of the final phase of the Alexandrian Neoplatonic school.
+
 ## Text
 
 ### p t

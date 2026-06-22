@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `scu-aa` · [HTML page](https://eulogikon.org/works/precepts-for-health-scu-aa)
 
+The Healthy Precepts is a brief, pseudepigraphical medical treatise preserved within the manuscript tradition of the Hippocratic Corpus. Presented as a work of Asclepiades and Dioscorides, it consists of twelve concise, aphoristic passages offering prescriptive advice for maintaining health through daily regimen. Its focus is preventive, emphasizing the management of diet, exercise, sleep, and bathing rather than the treatment of disease. The text advocates for moderation in all things, advising a single, simple meal per day, exercise in due measure, and the avoidance of excess in food, drink, and cold baths. It also includes seasonal recommendations, such as bloodletting in summer. Lacking the theoretical exposition or clinical case histories characteristic of the core Hippocratic works, its style is purely directive. Modern scholarship uniformly rejects its attribution to Hippocrates of Cos. The work survives solely through its inclusion in the larger Hippocratic collection, with no evidence of independent circulation or significant commentary in antiquity. Its historical importance lies not in direct influence but in its role as an example of the concise, practical health guidance that was composed and transmitted under the authoritative name of Hippocrates, thereby illustrating the expansive and heterogeneous nature of the Corpus.
+
 ## Text
 
 ### 1

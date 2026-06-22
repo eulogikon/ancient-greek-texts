@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cxu-aa` · [HTML page](https://eulogikon.org/works/hippothoon-maxims-fortune-cxu-aa)
 
+The Maxims on Human Fortune, attributed to Hippothoon the Tragedian, is a collection of twelve verse passages belonging to the tradition of gnomic poetry. Its alternative title, Apospasmata, meaning "Extracts," suggests it may comprise selected sententiae, possibly drawn from larger dramatic works. The author remains otherwise unknown, as the name Hippothoon is not attested as a tragedian in major historical sources. Thematically, the work engages with core concerns of its genre, including the capricious nature of human fortune, prescriptions for virtuous ethical conduct, and the complex relationship between divine will and human agency. Its transmission history is undocumented, and its brief, fragmentary nature suggests survival through an indirect or anthological tradition rather than direct manuscript preservation. While the work itself is obscure, its form exemplifies the later Hellenistic and Roman practice of compiling moral excerpts from poetic works, illustrating the enduring pedagogical and philosophical circulation of gnomic wisdom in antiquity.
+
 ## Text
 
 ### book 1

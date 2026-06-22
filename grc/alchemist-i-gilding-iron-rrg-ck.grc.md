@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ck` · [HTML page](https://eulogikon.org/works/alchemist-i-gilding-iron-rrg-ck)
 
+On Gilding Iron is a short Greek technical treatise on alchemy, composed by an anonymous author writing under the pseudonym of the ancient philosopher Democritus. It dates to approximately the 1st century CE and originates from the Greco-Egyptian alchemical tradition. The work survives not as an independent text but as two brief, practical passages embedded within the larger recipe compilation known as Physika kai Mystika. It provides precise, step-by-step instructions for applying various chemical substances—including alum, vitriol, and tartar—to iron in order to produce a golden surface coloration. The focus is entirely operational, detailing processes for preparing solutions, treating the metal with heat, and applying the mixtures with a brush to inscribe designs, with no accompanying theoretical discussion. Written for craftsmen and early practitioners in a workshop context, the treatise represents the practical, artisanal strand of early alchemy, blending Egyptian craft knowledge with the borrowed authority of a Greek philosophical name. Its techniques and recipes were preserved through manuscript transmission, forming part of the technical foundation that would later influence Islamic and medieval European alchemical practices.
+
 ## Text
 
 ### 2.392.(1t)

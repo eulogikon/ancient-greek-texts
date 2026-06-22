@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lig-ab` · [HTML page](https://eulogikon.org/works/philemon-younger-culinary-medical-dialogues-lig-ab)
 
+The Culinary and Medical Dialogues, attributed to Philemon the Younger, is a fragmentary comedic work in verse. Its alternative title, Apospasmata, meaning "Extracts," indicates that it survives not as a complete play but as a collection of excerpts, likely drawn from a larger, now-lost work or series. The twelve preserved passages belong to the genre of comedy and are attributed to a Hellenistic-era author distinct from the more famous New Comedy playwright Philemon. While the full plot is unrecoverable, the title and surviving content suggest a satirical focus on professional expertise, particularly targeting the intertwined worlds of cooking and medicine. The dialogue likely explored the interplay between diet, health, and pleasure, offering social commentary on luxury and daily life. The work survives solely through indirect transmission; these fragments were preserved because they were quoted in other ancient texts, such as grammatical lexicons or anthologies, which excerpted them for their linguistic or thematic interest. Despite their brevity, the fragments provide valuable insight into the themes and style of Hellenistic comedy beyond the major Athenian canon, serving as evidence for social satire aimed at contemporary culinary and medical fashions.
+
 ## Text
 
 ### book 1.1

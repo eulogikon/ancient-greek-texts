@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ply-aa` · [HTML page](https://eulogikon.org/works/valentinus-hymn-ply-aa)
 
+The Hymn of Valentinus is a poetic theological fragment attributed to the influential second-century Christian teacher Valentinus, a seminal figure in early Gnostic speculation. Composed in Koine Greek during the mid-100s CE, this brief work outlines the genesis and architecture of the divine Pleroma, or fullness. It narrates the emanation of spiritual entities known as Aeons from a primordial divine dyad, describes the introduction of a flaw or passion that disrupts this perfect harmony, and traces the ensuing process of redemption and restoration. The hymn does not survive as an independent document but is preserved exclusively as a quotation within the polemical treatise Against Heresies, written by the orthodox bishop Irenaeus around 180 CE. Irenaeus cited the passage to criticize Valentinian doctrine, rendering his refutation the sole source for the hymn's content. Scholars regard the hymn as a concise doctrinal summary, likely employed for instructional or liturgical purposes within Valentinian circles. Its metaphorical and condensed style was crafted to distill a complex cosmology concerning the origin of the material world and the path to spiritual liberation. Through its preservation in Irenaeus's work, the hymn became a pivotal text in early Christian heresiological debates, serving to define Gnostic thought from an orthodox perspective and remaining an essential fragment for understanding the theological diversity of formative Christianity.
+
 ## Text
 
 ### 1

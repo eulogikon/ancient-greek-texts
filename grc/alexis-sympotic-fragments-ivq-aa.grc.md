@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ivq-aa` · [HTML page](https://eulogikon.org/works/alexis-sympotic-fragments-ivq-aa)
 
+The Sympotic Fragments of Alexis represent a modern scholarly compilation of passages concerning banquet culture extracted from the lost comedies of Alexis, a prolific poet of the 4th-century BCE Athenian Middle Comedy. Numbering over a thousand individual verses, these fragments are not a single coherent work but excerpts preserved almost entirely within the Deipnosophistae of Athenaeus, a later compendium of literary quotations and table talk. They offer a vivid window into the material and social world of the classical Greek symposium. The content details a wide array of sympotic themes, including elaborate descriptions of food, ingredients, and culinary innovation; observations on wine consumption and banquet rituals; and character sketches of social types such as parasites, courtesans, and boastful cooks, often highlighting themes of gluttony and social ambition. The fragments also feature mythological parody and contain allusions to contemporary philosophical debates on pleasure and ethics. As no complete play by Alexis survives, these collected fragments are of paramount importance. They attest to his celebrated wit and linguistic skill, marking him as a significant forerunner to Menander and New Comedy, while simultaneously serving as an indispensable source for understanding the daily life and performative culture of the Athenian symposium.
+
 ## Text
 
 ### book 1.1

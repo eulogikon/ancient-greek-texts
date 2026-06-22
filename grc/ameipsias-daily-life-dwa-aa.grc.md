@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dwa-aa` · [HTML page](https://eulogikon.org/works/ameipsias-daily-life-dwa-aa)
 
+_Fragments on Daily Life_ is a modern scholarly compilation of surviving passages attributed to the Athenian comic poet Ameipsias, a contemporary and rival of Aristophanes active in the late 5th century BCE. No complete play by Ameipsias survives; the extant corpus consists of 56 fragments extracted from citations by later ancient authors and derived from known play titles. These titles include _Konnos_, which notably defeated Aristophanes' _Clouds_ in the dramatic competition of 423 BCE, as well as _Kokalos_, _Sappho_, and _Apokottabizontes_ ("The Dicers").
+
+The fragments offer valuable, if piecemeal, glimpses into Athenian social life and the intellectual satire characteristic of Old Comedy. They contain mockery of contemporary figures, most famously Socrates, who appeared as a character in _Konnos_. Other passages depict daily customs, symposiac practices, and the nature of public discourse, with additional references to musical culture and education. These texts are preserved indirectly through the works of later grammarians and anthologists, most extensively by Athenaeus of Naucratis in his _Deipnosophistae_. The standard modern critical edition is found in _Poetae Comici Graeci (PCG)_.
+
+Although his complete works are lost, Ameipsias's victory over Aristophanes attests to his contemporary significance. His fragments remain crucial for understanding the broader landscape of Old Comedy beyond the works of Aristophanes and for studying the public perception and literary portrayal of intellectual figures like Socrates in Classical Athens.
+
 ## Text
 
 ### book 1.1

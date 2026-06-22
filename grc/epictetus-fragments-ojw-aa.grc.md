@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ojw-aa` · [HTML page](https://eulogikon.org/works/epictetus-fragments-ojw-aa)
 
+The Fragments of Epictetus' Discourses represent excerpts from the teachings of the Stoic philosopher Epictetus, preserved through indirect transmission. Epictetus himself authored no texts; his student Arrian compiled his informal lectures into the Discourses and the condensed manual known as the Enchiridion. The Discourses originally consisted of eight books, of which only four survive in a continuous manuscript tradition. The term "Fragments" typically refers to collections of excerpts compiled by later authors, most significantly by the 5th-century anthologist Stobaeus, whose work preserves over two hundred selections.
+
+The philosophical content of these fragments, consistent with the surviving Discourses, focuses on practical ethics. Central doctrines include the fundamental distinction between what is within one's control, namely one's judgments and moral choices, and what is not, which encompasses external events and circumstances. This leads to the principle of correctly assenting to or rejecting mental impressions. For Epictetus, virtue, defined as the correct use of reason and moral choice, constitutes the sole good and the necessary foundation for human flourishing. His thought also emphasizes cosmopolitanism, the idea of a universal human community bound by reason, and the disciplined acceptance of one's fate as an expression of a rational cosmic order.
+
+The enduring significance of Epictetus's thought is substantial. His practical ethics exerted a direct influence on the Roman emperor Marcus Aurelius. His works were pivotal to the revival of Stoic thought during the Renaissance, known as Neostoicism, and continue to resonate in modern contexts, including certain strands of philosophical therapy and psychology, where his insights into cognitive discipline find contemporary application. The fragments, alongside the complete books, ensure the preservation and ongoing study of his emphasis on inner resilience and ethical self-governance.
+
 ## Text
 
 ### 1

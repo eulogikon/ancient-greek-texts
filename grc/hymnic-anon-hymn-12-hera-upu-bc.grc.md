@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-bc` · [HTML page](https://eulogikon.org/works/hymnic-anon-hymn-12-hera-upu-bc)
 
+The Homeric Hymn to Hera is a brief, five-line poem composed in the epic dactylic hexameter. It forms part of the larger anonymous collection known as the Homeric Hymns, works from the Archaic period of Greece traditionally though inaccurately ascribed to Homer. Likely composed between the seventh and sixth centuries BCE, the hymn is a concise piece of praise, invoking the goddess with the majestic epithet "golden-throned." Its focus is entirely on establishing her supreme status as both the sister and wife of Zeus and as the most renowned deity on Mount Olympus, honored equally with him by the other gods. Scholars generally interpret these hymns as preludes to longer epic recitations at religious festivals, which accounts for their formal, honorific style. The hymn reflects the core archaic Greek theological view, defining Hera's power and identity principally through her relationship to Zeus. The text has survived intact through medieval manuscripts, transmitted as part of the collected Homeric Hymns. As such, it contributed to the standardized literary and religious portrayal of the Greek gods for later tradition.
+
 ## Text
 
 ### 1

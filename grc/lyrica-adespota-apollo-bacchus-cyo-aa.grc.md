@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cyo-aa` · [HTML page](https://eulogikon.org/works/lyrica-adespota-apollo-bacchus-cyo-aa)
 
+Fragments on Apollo and Bacchus is a modern scholarly assemblage of 231 anonymous lyric fragments pertaining to the Greek deities Apollo and Dionysus, the latter often identified by his Roman name, Bacchus. These poetic pieces, which originally would have been composed for musical performance in ritual or ceremonial settings, survive not as a continuous work but through indirect transmission. They are preserved in quotations by later ancient authors, within scholia and grammatical commentaries, and on fragmentary papyri. The collection illuminates the cultic worship, mythological narratives, and perceived attributes of these two central gods. A recurring thematic concern is the poetic exploration of the conceptual relationship and dichotomy between Apollo, associated with order, reason, and prophecy, and Dionysus, linked to ecstasy, liberation, and primal chaos. This opposition, which would later become a profound philosophical and cultural motif, finds some of its earliest expressions in this scattered lyric tradition. The fragments, though often obscure due to their damaged and decontextualized state, remain invaluable for reconstructing the breadth and depth of Greek religious poetry and its role in articulating fundamental divine principles.
+
 ## Text
 
 ### book S317

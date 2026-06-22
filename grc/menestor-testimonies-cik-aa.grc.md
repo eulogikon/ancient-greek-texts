@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cik-aa` · [HTML page](https://eulogikon.org/works/menestor-testimonies-cik-aa)
 
+The Testimonies is the modern scholarly designation for the collection of ancient reports concerning the doctrines of the Presocratic philosopher Menestor. No standalone text by Menestor survives; our knowledge of his work derives entirely from later quotations and paraphrases compiled from other ancient authors. These testimonia, transmitted primarily by Theophrastus in his Enquiry into Plants and by Aristotle in On the Soul, with further references in authors like Plutarch and Simplicius, constitute the essential source for reconstructing his philosophical views. The compiled passages indicate that Menestor's theories were pioneering in the field of ancient botany. He notably argued that plants possess a form of sensation and experience pleasure and pain. He also developed a botanical classification system based on internal qualities like "heat" or "cold," which he correlated with environmental habitats, and his work sought to link plant characteristics and behaviors to causal environmental factors. Theophrastus engaged critically with these theories, and Menestor's controversial claim regarding plant sensation remained a persistent reference point in subsequent philosophical debates about the nature of life and perception.
+
 ## Text
 
 ### 1

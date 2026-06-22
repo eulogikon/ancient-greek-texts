@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `asc-aa` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-gnomic-wisdom-asc-aa)
 
+The Fragments of Gnomic Wisdom attributed to Cleobulus of Lindos, one of the traditional Seven Sages of Greece, survive only as scattered sayings preserved by later doxographers and anthologists. No independent manuscript tradition exists for a specific collection under this title; instead, his contributions are known through fragmentary transmission in sources such as Diogenes Laërtius, the Suda, and the anthology of Stobaeus. The content consists of short, practical maxims, or gnomai, that embody early Greek ethical thought. Central among these is the famous dictum that "moderation is best," which directly informs the broader Hellenic ideal of nothing in excess. Other sayings advocate for prudence, counsel against the use of force, value listening over speaking, and outline proper conduct toward family and fellow citizens. A poetic epitaph for Midas, preserved in the form of a riddle, further exemplifies the gnomic and often riddling character of this wisdom. As a representative of the Seven Sages, Cleobulus contributed to the foundations of Greek practical ethics, and his emphasis on measured living exercised a discernible influence on later philosophers including Plato and Aristotle.
+
 ## Text
 
 ### book 1.1

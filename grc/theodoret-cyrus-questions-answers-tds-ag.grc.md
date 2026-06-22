@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-ag` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-questions-answers-tds-ag)
 
+Questions and Answers to the Orthodox is a theological treatise composed in Greek by Theodoret, Bishop of Cyrus, during the mid-5th century, most likely between 453 and 460. The work is structured according to the classical instructional genre of erotapokriseis, presenting a sequence of 149 questions followed by detailed answers. It is formally addressed to a figure named Orthodoxos, who personifies orthodox Christians confronting doctrinal disputes. Theodoret employs this format to mount a systematic defense of the Christological definition promulgated by the Council of Chalcedon in 451, ardently advocating for the doctrine of two distinct natures—divine and human—united in the single person of Jesus Christ. Throughout the treatise, he refutes the teachings of contemporary heterodox movements, with particular focus on the Arians, Eunomians, and Apollinarians, while also providing orthodox interpretations of contested biblical passages pertaining to the Trinity and the Incarnation.
+
+The complete text survives in its original Greek, preserved through medieval manuscript transmission. Modern scholarship regards the work as a significant pastoral and polemical instrument, crafted after Theodoret's reinstatement to his see following the Council of Chalcedon. It is interpreted as a manual intended to equip clergy and educated laity with robust theological arguments to consolidate and defend the council's settlement against its various detractors. As such, the treatise stands as a vivid reflection of the intense doctrinal conflicts that characterized the late antique church and exerted a considerable influence on the development of subsequent Byzantine theology.
+
 ## Text
 
 ### 1 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bls-ac` · [HTML page](https://eulogikon.org/works/acusilaus-argos-rivers-bls-ac)
 
+The Fragments on Rivers is a modern editorial title for a collection of fifty-one excerpts attributed to the early Greek mythographer Acusilaus of Argos, who is traditionally dated to around 500 BCE. These passages do not derive from an independent treatise on rivers but are later quotations, primarily from authors such as Strabo and various scholiasts, that focus on Acusilaus’s treatments of river deities and their genealogical connections. Acusilaus’s principal work was his prose Genealogies, which sought to systematize and amend the narratives of traditional myth. This collection represents a specific thematic strand within that larger project, emphasizing river gods as significant ancestral figures and geographical anchors within the Greek mythical landscape.
+
+The work survives exclusively in these fragmentary citations; no complete manuscript exists. The assembled structure of fifty-one passages is a modern scholarly reconstruction from scattered sources. Acusilaus wrote during a formative period of transition from oral poetic tradition to written prose historiography, and his work appears designed for an educated audience seeking authoritative versions of foundational stories. Scholars interpret his genealogical efforts as an attempt to construct a coherent, pan-Hellenic framework for diverse local myths, often linking heroic lineages and city foundations to divine origins through the intermediary figures of river gods.
+
 ## Text
 
 ### 1a,2,F 1

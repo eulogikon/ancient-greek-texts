@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-av` · [HTML page](https://eulogikon.org/works/alchemist-i-creation-unmarked-rrg-av)
 
+_On the Creation of the Unmarked_ is a brief pseudepigraphical Greek alchemical treatise attributed to the pseudonymous author designated by modern scholars as Alchemist I. The title refers to the production of "the unmarked," a technical term within the tradition denoting a base metal or an unrefined silver intended for subsequent transmutation. The text consists of three passages describing the sequential stages of an alchemical procedure, detailing the purification and treatment of metals such as lead and tin through repeated melting and the addition of specific substances like glass and asphalt. It exemplifies the practical and theoretical aspects of Greco-Egyptian alchemy, including laboratory processes involving specific substances and apparatus, and employs the symbolic or coded language characteristic of the esoteric tradition. The work survives within the Byzantine manuscript tradition, notably preserved complete in the anthology contained in the tenth- or eleventh-century codex Marcianus graecus 299, alongside works by authors such as Zosimus of Panopolis. As part of the foundational corpus of Greek alchemy, this treatise contributed to a technical tradition that was later transmitted to the Islamic world and medieval Europe, holding historical significance for understanding the development of alchemical theory and practice which informed the emergence of early modern chemistry.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-cg` · [HTML page](https://eulogikon.org/works/alchemist-i-months-rrg-cg)
 
+The Excerpt on Months is a concise alchemical treatise attributed to the anonymous author known to modern scholarship as Alchemist I, a figure sometimes pseudepigraphically associated with Democritus. Preserved within Byzantine manuscript compilations, most notably the 10th- or 11th-century Marcianus graecus 299, the work consists of six brief passages. It exemplifies the astro-alchemical tradition of late antiquity, systematically correlating the twelve months of the zodiacal year with specific elemental qualities—hot, cold, wet, or dry—that were believed to govern material transformations. The text opens with statements on the inherent natures of lead and mercury, establishing a framework of elemental properties before detailing the astrological conditions of each month. Presented in a practical, recipe-like format, it reflects core principles of Greco-Egyptian alchemy, emphasizing the governance of artisanal and metallurgical processes by cosmic cycles. Its significance lies not in doctrinal innovation but in its illustration of the pervasive integration of astrology into late antique technical arts. As a minor technical text, it contributes to understanding the practical concerns and cosmological foundations behind the transmission of Greco-Egyptian knowledge, which would later inform medieval and Renaissance alchemical practice. The treatise concludes with a dedicatory address to a patron described as a genuine lover of learning, underscoring its context within a scholarly or courtly milieu.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `equ-ab` · [HTML page](https://eulogikon.org/works/aristagoras-comic-courtesans-revelry-equ-ab)
 
+The work Fragments on Courtesans and Revelry by the obscure comic poet Aristagoras is known only by its title and the report that it consisted of seven passages, with no direct quotations surviving. Its title indicates a subject matter pertaining to courtesans and revels, both central thematic concerns in the plots of Middle and New Greek Comedy. Based on this title and standard comic tropes of the period, the lost fragments likely addressed the social role and lifestyle of courtesans, scenes of festive drinking and processions, and the associated themes of love, financial negotiation, deception, and social satire. The work is entirely lost, and its existence is recorded solely in an entry within the 10th-century Byzantine Suda lexicon, which lists the title among works attributed to Aristagoras; no manuscript tradition or direct quotations are attested. While the text’s direct literary influence is untraceable, its thematic focus places it firmly within the tradition of Greek comedy that shaped later Roman and Western comedic drama. Its preservation in the Suda indicates it remained known, at least by title, to Byzantine scholars.
+
 ## Text
 
 ### book 1.1

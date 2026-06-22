@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-at` · [HTML page](https://eulogikon.org/works/hippolytus-rome-refutation-heresies-qsg-at)
 
+The Refutation of All Heresies is a ten-book polemical treatise composed in Greek by Hippolytus of Rome in the early third century CE. Its primary objective is the defense of orthodox Christian doctrine through a systematic critique of rival teachings, with particular focus on various Gnostic sects. Hippolytus advances the argument that these heresies are not authentic Christian developments but rather corruptions stemming from pagan Greek philosophy. The treatise is structured to substantiate this claim: its initial books provide summaries of Greek philosophical systems, the middle sections detail the specific beliefs of heretical groups, frequently quoting from their sources, and the final book offers a recapitulation alongside a positive exposition of orthodox faith. The text has a complex transmission history, with Books II and III being lost. The core of the surviving work derives from a single 14th-century manuscript discovered in 1842, which definitively established Hippolytus's authorship and unified portions that had previously circulated as separate texts. Modern scholarship regards the Refutation as an invaluable, albeit polemically biased, source for understanding early Christian theological disputes and the doctrines of Gnostic movements, many of whose original writings are otherwise lost.
+
 ## Text
 
 ### 1

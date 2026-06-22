@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ba` · [HTML page](https://eulogikon.org/works/lysias-grain-dealers-ejc-ba)
 
+Against the Grain Dealers is a forensic oration composed by the Athenian logographer Lysias around 386 BCE. Written in Attic Greek for delivery by a client, the speech serves as a prosecution against a group of grain merchants accused of hoarding grain and conspiring to manipulate prices during a severe food shortage. The speaker argues before the Athenian Council that these actions constitute a grave public crime, endangering the very survival of the city by exploiting its dependency on imported grain. The surviving text is fragmentary, consisting of 18 discrete passages preserved through quotations in later lexicographers and authors rather than a continuous manuscript.
+
+The speech offers a crucial insight into Athenian economic regulation and crisis management. Athens maintained stringent laws to ensure a stable and equitable grain supply, and the Council possessed the authority to impose extreme penalties, including death, for violations. The oration vividly frames the conflict as one of public welfare against private profiteering, with the prosecutor demanding conviction as both a just punishment for the accused and a necessary deterrent for others. Composed in the period following the restoration of Athenian democracy, the work underscores the paramount political and social importance of food security. It stands as significant evidence for the seriousness with which the Athenian state approached market regulation and the protection of the civic food supply.
+
 ## Text
 
 ### Or22 t

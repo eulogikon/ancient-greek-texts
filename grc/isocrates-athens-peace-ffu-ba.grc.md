@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ba` · [HTML page](https://eulogikon.org/works/isocrates-athens-peace-ffu-ba)
 
+On Peace is a political oration composed in 355 BCE by the Athenian rhetorician Isocrates. Though structured as a speech, it was written as a published pamphlet intended for a reading audience. The work presents a sustained argument urging Athens to renounce its imperial ambitions in the aftermath of its costly and unsuccessful involvement in the Social War. Isocrates systematically contrasts the security and material prosperity afforded by peace with the chronic instability, financial depletion, and domestic discord engendered by the pursuit of naval hegemony. He advocates for a model of Athenian leadership founded upon justice and moral authority rather than military coercion and force. Preserved through an excellent manuscript tradition as a model of Attic prose style, the complete text survives as a significant document of fourth-century political thought. It provides a conservative intellectual's critique of contemporary Athenian imperialism and articulates a vision for Greek unity. The oration is considered a deliberate intervention into public debate, composed to influence Athenian policy during a period of pronounced military and financial exhaustion.
+
 ## Text
 
 ### De pac t

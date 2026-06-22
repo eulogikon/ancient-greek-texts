@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-cg` · [HTML page](https://eulogikon.org/works/hippocrates-law-bww-cg)
 
+Law is a concise treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates of Cos but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, the work consists of six succinct passages that define the nature and ethics of the medical art. It opens with the declaration that medicine is the most distinguished of all arts, yet it laments that ignorance among both patients and those who judge physicians superficially has caused it to fall behind other crafts. The author attributes this decline primarily to the lack of legal penalties for malpractice in cities, where disgrace alone is insufficient to deter the incompetent.
+
+The text draws a sharp distinction between true physicians and mere pretenders, comparing the latter to actors in tragedy who wear the costume and mask but possess no real skill. It then systematically outlines the essential qualities required for genuine medical expertise: natural ability, proper instruction, a suitable place of learning, early training, diligence, and time. Of these, natural aptitude is presented as foundational; without it, all other efforts are in vain. The treatise emphasizes that true medical skill manifests in good and honorable outcomes, contrasting substantive results with superficial appearance. It concludes by linking mastery of the craft to a love of humanity, or philanthropy, suggesting that devotion to medicine is inherently a devotion to people.
+
+Scholars classify Law among the deontological works of the Hippocratic Corpus, which focus on professional conduct and ethics. It is considered a pedagogical and declarative text, likely intended to establish rigorous standards for the medical profession and to distinguish legitimate practice from quackery. The work survives in full through medieval manuscripts, most notably the 10th- or 11th-century Parisinus Graecus 2140, and has been transmitted consistently as an integral unit. Its ideals, particularly the connection between medical practice and philanthropy, have exerted a profound and enduring influence on the Western medical tradition.
+
 ## Text
 
 ### 1

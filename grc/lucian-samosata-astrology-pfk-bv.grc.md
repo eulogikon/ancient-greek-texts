@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bv` · [HTML page](https://eulogikon.org/works/lucian-samosata-astrology-pfk-bv)
 
+On Astrology is a rhetorical oration from the 2nd century CE, attributed to the satirist Lucian of Samosata. Written in Attic Greek, this 25-part speech constitutes a systematic and skeptical critique of the astrological practices prevalent in the Roman Empire. Lucian directly challenges the validity of casting horoscopes and making deterministic predictions based on celestial movements, employing logical argumentation and satirical mockery to portray astrologers as fraudulent and pretentious. The work is a product of the Second Sophistic, a cultural movement characterized by a revival of sophisticated Greek oratory, and was likely composed for a literate audience appreciative of such rhetorical display. It functions simultaneously as an entertaining piece of eloquence and a polemic against what the author considers a pseudoscience. The complete text has been preserved through the manuscript tradition of Lucian’s corpus, though some scholarly debate persists regarding its authenticity, with a minority view suggesting it may be the work of a later imitator. While less prominent than his celebrated dialogues, On Astrology stands as a significant example of ancient rationalist thought opposing superstition and occult belief.
+
 ## Text
 
 ### Astrol t

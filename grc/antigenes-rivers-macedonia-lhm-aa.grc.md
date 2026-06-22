@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lhm-aa` · [HTML page](https://eulogikon.org/works/antigenes-rivers-macedonia-lhm-aa)
 
+_On the Rivers of Macedonia_ is a lost historical-geographical prose text attributed to Antigenes the Historian. The title indicates a treatise on Macedonian hydrology, a work that would have described the rivers of that region, their courses, and any associated myths or historical details, placing it within the ancient sub-genre of literature known as "On Rivers." No direct description of its content survives, but based on its title and the conventions of its genre, the work presumably addressed the physical geography of Macedonian rivers, etiological myths linked to specific waterways, historical events such as battles or the founding of cities connected to riverine locations, and perhaps ethnographical observations on neighboring peoples. The work is completely lost, surviving only as a title attributed to Antigenes in the tenth-century Byzantine encyclopedia known as the _Suda_. The author himself is otherwise unknown. While no direct influence is traceable, the work exemplifies the minor, specialized geographical literature that was often used as source material by later compilers such as Strabo or Pliny the Elder. Its specific focus on Macedonia reflects the broader systematization of knowledge about this historically significant region during the Hellenistic period or later antiquity.
+
 ## Text
 
 ### 3.(l1)

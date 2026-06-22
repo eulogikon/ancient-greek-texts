@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fc` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-romulus-okg-fc)
 
+Plutarch’s Romulus is a biography of the legendary founder of Rome, composed in Greek around the turn of the second century CE as part of his larger series, Parallel Lives. In this collection, Plutarch pairs notable Greek and Roman figures to explore their characters and virtues through comparison; Romulus is paired with the Athenian hero Theseus. The narrative recounts the famous myths surrounding Romulus’s origins, including his divine descent from Mars, his exposure with his twin brother Remus on the Tiber River, their miraculous rescue and suckling by a she-wolf, and their eventual decision to found a new city. The work details the fratricidal conflict with Remus over the city’s walls and name, Romulus’s establishment of Rome’s early political institutions such as the Senate, his military conflicts with neighboring peoples like the Sabines—culminating in the integration of the Sabine women—and his mysterious death, which some ancient sources interpreted as an apotheosis.
+
+Plutarch structures his account by presenting and critically evaluating multiple, often conflicting, versions of events from earlier historians and mythographers, weighing their plausibility rather than asserting a single authoritative tradition. Written during the height of the Roman Empire for an educated, Greek-speaking audience, the biography serves as more than a historical record. It functions as a philosophical exploration of character, the nature of kingship and foundation, and the role of divine fortune in human affairs. The text survives in full through a tradition of medieval Greek manuscripts, the oldest of which date from the tenth and eleventh centuries. It has been transmitted continuously as part of Plutarch’s collected Lives and remains an essential source for the study of Roman foundational mythology and Plutarch’s biographical and moral methodology.
+
 ## Text
 
 ### Rom t 1

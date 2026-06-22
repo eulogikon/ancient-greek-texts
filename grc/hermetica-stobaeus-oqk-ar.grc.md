@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqk-ar` · [HTML page](https://eulogikon.org/works/hermetica-stobaeus-oqk-ar)
 
+The Stobaeus Hermetica is a collection of 218 excerpts from ancient Greek philosophical and theological texts attributed to the legendary sage Hermes Trismegistus and his followers. Compiled in the 5th century CE by John of Stobi, known as Stobaeus, it forms part of his larger educational anthology. The original Hermetic writings from which these passages were drawn are believed to have been composed between the 1st and 3rd centuries CE, most likely in Roman Egypt, and represent a syncretic blend of Greek philosophical concepts, Egyptian religious ideas, and mystical thought.
+
+The excerpts encompass a broad spectrum of topics, including the nature of God and the cosmos, the destiny of the soul, the question of human free will, and the pursuit of ethical virtue. Unlike more complete treatises, these passages are often brief, dialogic fragments presented as teachings from Hermes to his disciples, such as Tat or Asclepius. A substantial portion of the material is derived from a work known as The Perfect Discourse, which also survives independently in a Latin version. This collection constitutes the most extensive source of Greek Hermetic material outside the better-known Corpus Hermeticum.
+
+The text does not survive as an independent work but only within the framework of Stobaeus’s anthology. Its transmission relies entirely on the manuscript tradition of Stobaeus’s compilation, which is primarily preserved in two key medieval codices. Because the material is presented in excerpted form, the original structure and full context of the source writings are largely lost. Modern scholarship interprets the Hermetic tradition as a significant syncretic movement of late antiquity, centered on spiritual knowledge and the soul’s mystical ascent to the divine. The recovery and study of these excerpts during the Renaissance were instrumental in the revival of Hermetic philosophy in early modern Europe.
+
 ## Text
 
 ### 1 t

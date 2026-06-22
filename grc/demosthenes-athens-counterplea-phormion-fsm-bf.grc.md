@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bf` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-phormion-fsm-bf)
 
+The Counterplea for Phormion is a forensic oration composed by Demosthenes of Athens around 350–349 BCE. Written in Attic Greek, it is a legal speech structured as a paragraphe, a procedural plea asserting that a lawsuit is inadmissible and should be dismissed without a trial on the merits. The speech was crafted for the defendant Phormion, a wealthy former slave and banker, in his defense against a substantial lawsuit for twenty talents brought by Apollodorus, the son of Phormion’s former master, Pasion. The central legal argument contends that a prior comprehensive settlement between the parties, which involved a financial payment and a formal agreement to forgo all future litigation, legally barred Apollodorus from initiating this new action.
+
+The oration unfolds a detailed narrative of the intricate financial and personal relationships within one of Athens’s most prominent banking families. It recounts Phormion’s management of the bank and other assets after Pasion’s death, his subsequent marriage to Pasion’s widow, and the series of disputes and arbitrations with Apollodorus that culminated in the contested settlement. Through this narrative, the speech demonstrates the sophisticated deployment of legal procedure in classical Athenian courts, where technical pleas could preempt a full examination of the substantive charges. Beyond its immediate legal strategy, the work provides invaluable historical insight into Athenian contract law, the potential for social advancement among freed slaves, and the intense litigiousness surrounding large commercial estates. While its authenticity was questioned by some ancient critics, it is widely accepted by modern scholarship as a genuine product of Demosthenes’ early career as a logographer, or speechwriter. The complete text, comprising 55 sections, survives within the Demosthenic corpus as Oration 45, preserved through medieval manuscript traditions.
+
 ## Text
 
 ### Or36 1

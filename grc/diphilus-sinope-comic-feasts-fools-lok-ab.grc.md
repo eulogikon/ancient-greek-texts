@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lok-ab` · [HTML page](https://eulogikon.org/works/diphilus-sinope-comic-feasts-fools-lok-ab)
 
+The Comic Fragments on Feasts and Fools is a modern scholarly compilation of 297 passages attributed to the Greek playwright Diphilus of Sinope, a leading figure of New Comedy active during the late fourth and early third centuries BCE. These fragments, written in Attic Greek verse, do not originate from a single play but are excerpts gathered from his many lost works, thematically organized by editors around scenes of festival celebrations and the antics of foolish character types. Diphilus’s work exemplifies the New Comedy genre, which turned from the political satire of earlier Athenian comedy toward plots centered on domestic life, romance, and recognizable stock characters.
+
+The preserved snippets of dialogue and monologue offer vivid glimpses into the social milieu of Hellenistic comedy, featuring banquet scenes, drinking parties, and the familiar archetypes—such as the braggart soldier, the cunning slave, and the parasitic hanger-on—whose vanity and schemes provided the engine for comic plots. These fragments serve as crucial evidence for modern scholars studying the social customs, ethical preoccupations, and humorous style of the period. None of Diphilus’s estimated one hundred plays survive intact; all 297 fragments owe their preservation to being quoted by later authors, most extensively by Athenaeus in his Deipnosophistae, who cited them for their illustrative descriptions of food, drink, and social behavior. Diphilus enjoyed considerable fame in antiquity and exercised a profound influence on Roman comedy; playwrights including Plautus and Terence adapted his plots and characters into Latin, thereby securing his comic scenarios a lasting place in the Western theatrical tradition.
+
 ## Text
 
 ### book 1

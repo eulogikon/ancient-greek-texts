@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-aa` · [HTML page](https://eulogikon.org/works/appian-alexandria-sicily-islands-pdc-aa)
 
+From the Sicilian and Island is a lost historical work by the 2nd-century CE Greek historian Appian of Alexandria. It formed one of the books within his larger Roman History, a comprehensive account of Rome's rise to empire uniquely structured according to the regions and peoples conquered. This volume was dedicated to narrating Rome's conflicts and eventual domination over Sicily, Sardinia, Corsica, and other major Mediterranean islands. Its subject matter would have encompassed the pivotal struggles for naval supremacy, particularly the protracted wars with Carthage over Sicily, and the subsequent organization of these territories as Rome's first overseas provinces. The original text is almost entirely lost, surviving only in 22 fragments preserved in Byzantine collections from the 10th century. These scant excerpts, which include details on Roman and Carthaginian financial exhaustion and diplomatic maneuvers during the First Punic War, provide mere glimpses of the original narrative. Modern scholarship interprets the work as an integral part of Appian's overarching project to explain and contextualize the mechanisms of Roman imperial power for a Greek-speaking audience within the empire.
+
 ## Text
 
 ### Sic 1 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gig-aa` · [HTML page](https://eulogikon.org/works/leo-byzantium-cities-rivers-gig-aa)
 
+The geographical work Fragments on Cities and Rivers by the obscure author Leo of Byzantium is known only through seven brief excerpts preserved in the Ethnika, a sixth-century CE geographical lexicon compiled by Stephanus of Byzantium. These fragments provide etymological and historical notes on place names, such as the origin of the city name Agrinion, representing a topographical compilation typical of late antique and early Byzantine scholarship. The surviving passages focus on the etymology of city and river names and on historical topography, including the mythological associations of specific locations. The work exemplifies the scholarly practice of compiling fragmentary knowledge from earlier sources. It has no independent manuscript tradition, its survival depending entirely on its quotation within the Ethnika of Stephanus of Byzantium, transmitted primarily through the tenth-century Codex Parisinus suppl. gr. 388. Leo’s compilation is a minor but representative example of Byzantine antiquarianism, illustrating the process of preserving classical knowledge through epitomes and lexica. Its sole documented influence is as a source for Stephanus, through which Leo’s notes on specific place names were disseminated to later readers.
+
 ## Text
 
 ## [ΤΑ ΚΑΤΑ ΦΙΛΙΠΠΟΝ ΚΑΙ ΒΥΖΑΝΤΙΟΝ.] Athenaeus XII: Καὶ Πύθων δ’ ὁ Βυζάντιος ῥήτωρ, ὡς Λέων ἱστορεῖ ὁ πολίτης αὐτοῦ, πάνυ ἦν παχὺς τὸ σῶμα· καὶ Βυζαντίοις ποτὲ στασιάζουσι πρὸς ἀλλήλους τοῖς πολίταις παρακαλῶν εἰς φιλίαν ἔλεγεν, «Ὁρᾶτέ με, ἄνδρες πολῖται, οἷός εἰμι τὸ σῶμα· ἀλλὰ καὶ γυναῖκα ἔχω πολλῷ ἐμοῦ παχυτέραν.

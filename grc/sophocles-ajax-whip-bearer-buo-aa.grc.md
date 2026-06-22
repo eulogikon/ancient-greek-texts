@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `buo-aa` · [HTML page](https://eulogikon.org/works/sophocles-ajax-whip-bearer-buo-aa)
 
+_Ajax_ is a tragedy by the ancient Greek playwright Sophocles, composed in Attic Greek verse and considered one of his earliest surviving works, likely dating from the 440s BCE. The drama centers on the legendary Greek hero Ajax during the Trojan War. After the armor of the slain Achilles is awarded to his rival Odysseus, Ajax is consumed by a vengeful rage, which the goddess Athena exacerbates into a murderous madness. In his delusion, he attacks and slaughters a herd of livestock, believing them to be the Greek commanders who insulted him. When his sanity returns and he comprehends the depth of his humiliation and disgrace, he resolves to die by his own hand, despite the anguished appeals of his captive wife Tecmessa and his loyal sailors. His suicide precipitates a fierce conflict over the disposal of his body, as the Greek leaders Agamemnon and Menelaus initially forbid his burial. The dispute is ultimately resolved through the eloquent intervention of Odysseus, who, setting aside personal animosity, persuades the commanders to grant Ajax funeral honors, advocating for mercy and the enduring claims of heroic valor.
+
+The complete text of the play, preserved through medieval manuscripts, runs to 1,389 lines. Scholars regard the work as a profound interrogation of the Homeric heroic code, depicting a world where Ajax’s rigid conception of honor proves catastrophically inflexible in the face of public shame. The tragedy constructs a powerful contrast between the brute, solitary might of Ajax and the pragmatic, persuasive reason embodied by Odysseus. Its enduring themes explore the nature of divine-inflicted madness, the instability of human fortune, and the political necessity of reconciliation for the civic community. _Ajax_ stands as a foundational study of the Sophoclean heroic archetype—a figure of immense stature whose greatness is inseparable from a tragic and ultimately self-destructive inflexibility.
+
 ## Text
 
 ### 1

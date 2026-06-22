@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ab` · [HTML page](https://eulogikon.org/works/erotica-anon-antheia-ephesiaca-skw-ab)
 
+Antheia is the name of the heroine in the Greek romantic novel commonly known as the Ephesiaca or Ephesian Tale. This prose fiction, traditionally ascribed to Xenophon of Ephesus, was composed in Koine Greek during the Roman Imperial period. Its precise date remains uncertain, with scholarly estimates ranging from the 1st to the 3rd century CE. The narrative follows the trials of the young lovers Habrocomes and Anthia (the Greek form of Antheia), who are separated shortly after their marriage. Their subsequent adventures across the Mediterranean world involve kidnappings, enslavement, and repeated threats to their chastity, culminating in their eventual reunion and restoration.
+
+The Ephesiaca survives in its entirety as a relatively brief work of five books, preserved in a single 13th-century manuscript. Its straightforward and episodic narrative style has prompted debate among modern scholars as to whether the extant text represents the original composition or an abridged summary, known as an epitome. The story embodies the core conventions of the ancient Greek novel, emphasizing idealized love, conjugal fidelity, providential divine intervention, and perilous adventure. References to a work titled Antheia in certain sources do not indicate a separate ancient text but rather likely denote later excerpts or modern editorial selections that focus specifically on the heroine's portion of the story.
+
 ## Text
 
 ### col1

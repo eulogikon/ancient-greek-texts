@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `exi-aa` · [HTML page](https://eulogikon.org/works/phintys-sparta-female-modesty-exi-aa)
 
+On Female Modesty is a short ethical treatise preserved in fragments within the Anthology of the fifth-century CE compiler Stobaeus. Attributed to Phintys of Sparta, a female Pythagorean philosopher, the work is written in Doric dialect and presents a philosophical defense of distinct gender roles, centered on the concept of female virtue. The text argues that while virtue itself is a single concept applicable to all, its practical expression is properly differentiated according to nature and social function. For a woman, the paramount virtue is sōphrosynē, or modesty, which finds its primary sphere of operation within the management of the household. The treatise delineates specific duties as belonging properly to men, such as military command and public speaking, and others as intrinsic to women, namely guarding the home, remaining indoors, and caring for her husband. It counters potential objections that philosophy is unsuitable for women by asserting that certain virtues, including piety and self-control, are indeed appropriate and necessary for female cultivation. The work is generally considered by modern scholars to be pseudepigraphical, likely composed in the Hellenistic or early Imperial period. It remains a significant document for the study of Pythagorean thought and ancient ideologies concerning gender, virtue, and domestic life.
+
 ## Text
 
 ### 151 (17t)

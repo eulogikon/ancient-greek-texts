@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ao` · [HTML page](https://eulogikon.org/works/herodian-alexandria-solecism-barbarism-qnq-ao)
 
+On Solecism and Barbarism is a grammatical treatise by the second-century scholar Herodian of Alexandria. Composed in Greek and structured as a formal oration, the work provides a systematic analysis of the two principal categories of linguistic error recognized in ancient grammatical theory. A barbarism denotes a fault within an individual word, such as an error in pronunciation, spelling, or morphological form. A solecism, by contrast, is an error in the combination of words, involving mistakes in syntax, case agreement, or other relational aspects of grammar. Herodian’s treatise is prescriptive in nature, aiming to instruct advanced students, teachers, and authors in the correct use of Attic Greek, thereby upholding the standards of linguistic purity essential to elite education and literary composition.
+
+The work was written in Rome, where Herodian enjoyed imperial patronage, a context that underscores the high cultural value placed on sophisticated Greek learning within the Roman aristocracy. It functioned as part of an advanced grammatical curriculum designed to safeguard the integrity of the language. The original text does not survive in complete form; knowledge of its content derives from fragments, quotations, and summaries preserved in later Byzantine reference works, including encyclopedias and scholia. From these sources, modern scholars have reconstructed its likely structure, which was divided into nineteen sections, and its detailed treatment of grammatical faults. The treatise exemplifies the technical and pedagogical focus of Imperial-era scholarship on codifying and transmitting the norms of classical Greek.
+
 ## Text
 
 ### 294 (1t)

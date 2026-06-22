@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fwi-aa` · [HTML page](https://eulogikon.org/works/xenophilus-pythagorean-testimonies-fwi-aa)
 
+The Testimonies of Xenophilus the Pythagorean is a lost work, known only from its listing in the Suda, a 10th-century Byzantine encyclopedia, which records it as a collection of three passages. No direct quotations or descriptions of its content survive. While the specific themes of the Testimonies are unattested, Xenophilus’s identity as a Pythagorean philosopher and musician suggests it may have contained doctrinal statements on Pythagorean metaphysics or ethics, theories of music and harmony, or biographical accounts and authoritative maxims of the school. The work survives only as a title in ancient catalogs, with no extant manuscript tradition. Its existence is documented solely by the secondary reference in the Suda. Xenophilus’s primary historical importance derives from his role as a teacher of the musical theorist Aristoxenus. The Testimonies itself appears to have had minimal direct influence, but it represents a fragment of the broader, mostly lost, Pythagorean literary tradition.
+
 ## Text
 
 ### 1

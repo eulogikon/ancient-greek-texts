@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-bj` · [HTML page](https://eulogikon.org/works/alchemist-i-cinnabar-rrg-bj)
 
+The Preparation of Cinnabar is a concise, practical alchemical treatise detailing the synthesis of the red pigment mercury sulfide. Traditionally attributed to the philosopher Democritus, modern scholarship identifies its author as Bolus of Mendes or a later follower, with composition likely dating between 200 BCE and 100 CE. Written in clear Koine Greek, the text provides systematic instructions for combining mercury and sulfur within a sealed glass vessel, applying heat, and recognizing the successful formation of cinnabar by the appearance of a purple-tinged vapor. The work exemplifies the empirical craft traditions of Greco-Egyptian society, where technical knowledge of pigments and dyes began to intersect with philosophical speculation on the nature of matter. Its pseudonymous attribution to a revered figure like Democritus served to lend authority to a valuable artisan's recipe, intended for practical use in painting and cosmetics. The treatise survives as a fragment within the larger corpus of Greek alchemical writings, most notably preserved in the 10th- or 11th-century manuscript Marcianus graecus 299. As a foundational technical guide focused on reproducible results, it represents the non-mystical, operational origins of alchemy and exerted a direct influence on subsequent chemical practices in the Islamic and medieval Latin worlds.
+
 ## Text
 
 ### 1

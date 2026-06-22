@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-aq` · [HTML page](https://eulogikon.org/works/euripides-alcestis-cbm-aq)
 
+Alcestis is a drama by the ancient Greek tragedian Euripides, first performed in Athens in 438 BCE. Composed in Attic Greek verse, the play occupies a singular position within the Euripidean corpus for its blending of tragic and comic elements, culminating in a happy ending. Its plot derives from the myth of King Admetus of Pherae, who, having earned the favor of the god Apollo, is granted the chance to evade his fated death if he can find another willing to die in his stead. After his parents refuse, his wife, Alcestis, alone consents to the sacrifice. The drama portrays her noble death, Admetus's subsequent grief and remorse, and the unexpected intervention of the hero Heracles. A guest in the house of mourning, Heracles wrestles the personified figure of Death and restores Alcestis to her husband.
+
+The complete text, comprising 1,135 lines, has survived in excellent condition from antiquity. It was originally performed as the fourth and final play in its competition group, a position typically reserved for a satyr play. This unconventional placement is often cited as a key reason for the work's distinctive tone, which incorporates lighter, even romantic and folkloric elements alongside its tragic premise. Modern scholarship interprets the play as a profound exploration of themes such as spousal devotion, the absolute demands of the Greek social code of hospitality, and the complex negotiation between life and death. It is also seen as engaging with contemporary Athenian ideas about gender roles, familial duty, and the nature of reciprocity.
+
+The influence of Alcestis has endured for centuries, most notably inspiring Christoph Willibald Gluck's 1767 opera Alceste. Its preservation was secured by its inclusion among a select group of ten Euripidean plays that were continuously copied and studied throughout the Byzantine era, ensuring its transmission to the modern world.
+
 ## Text
 
 ### 1

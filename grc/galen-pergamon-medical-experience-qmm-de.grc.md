@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-de` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-experience-qmm-de)
 
+On Medical Experience is an early medical and philosophical treatise written by the Roman physician Galen of Pergamon around 160–170 CE. Structured as a polemical debate, the work mounts a vigorous defense of rationalist medicine by critically arguing against the rival Empiricist school. Galen systematically attacks the Empiricist doctrine that medical knowledge should be derived solely from observation and accumulated clinical experience. He contends that such an approach is fundamentally insufficient, arguing instead that reason and the theoretical investigation of the body's hidden causes are indispensable for a reliable and progressive medical science. The original Greek text is lost, surviving only through eleven substantial passages preserved in a medieval Arabic translation that was later rendered into Latin. Modern scholarship interprets this treatise as a key document from Galen's early career in Rome, crafted to establish his intellectual reputation by engaging directly with the heated contemporary debates about the foundations of medical knowledge. It remains a crucial source for understanding the sectarian rivalries and deep epistemological conflicts that shaped the practice and theory of ancient medicine.
+
 ## Text
 
 ### 7 1

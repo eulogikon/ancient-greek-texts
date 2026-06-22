@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tfq-ab` · [HTML page](https://eulogikon.org/works/syrianus-athens-hermogenes-ideas-tfq-ab)
 
+The Commentary on Hermogenes’ On Ideas is a philosophical treatise by Syrianus of Athens, the 5th-century head of the Neoplatonic school in Athens. It provides a detailed, line-by-line exegesis of On Ideas, a foundational 2nd-century rhetorical handbook by Hermogenes of Tarsus that systematically categorized styles of oratory. Syrianus transforms this technical manual of rhetoric by interpreting it through a Neoplatonic lens. He contends that the stylistic "ideas" or forms of discourse outlined by Hermogenes are not merely practical tools for persuasion but are manifestations of transcendent, divine principles that govern both reality and the structure of human intellect. The commentary, organized into 94 sections, systematically elevates the art of rhetoric into a metaphysical discipline, aligning it with the pursuit of higher truth.
+
+Scholars view the work primarily as an advanced educational text for philosophy students, designed to integrate rhetorical training into the Platonic curriculum of the Athenian school. It demonstrates how the study of language and persuasion serves as a preparatory stage for philosophical enlightenment, harmonizing practical eloquence with the contemplation of eternal forms. The complete text has been preserved through the medieval manuscript tradition, owing largely to the enduring centrality of Hermogenes’ works in Byzantine education. Its survival offers significant insight into the methods of late antique Neoplatonists, who sought to uncover profound metaphysical significance in all branches of learning, including the technical arts of language.
+
 ## Text
 
 ### 1 (1t)

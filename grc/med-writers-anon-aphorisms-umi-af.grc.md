@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-af` · [HTML page](https://eulogikon.org/works/med-writers-anon-aphorisms-umi-af)
 
+On the Aphorisms of Hippocrates is an anonymous Greek medical treatise that provides a detailed commentary on the Hippocratic Aphorisms, a foundational collection of diagnostic and prognostic maxims. It exemplifies a significant scholarly genre dedicated to interpreting these often cryptic sayings for the education of medical students and the practice of physicians, standing alongside more famous commentaries by figures such as Galen and Stephanus of Athens. The work systematically explicates individual aphorisms, demonstrating their clinical application to diagnosis and therapy while integrating Hippocratic knowledge into later medical frameworks, particularly the Galenic system of humoral pathology. Transmitted through medieval manuscripts as part of the vast corpus of anonymous medical literature, the commentary was preserved within the extensive scribal tradition that copied the Hippocratic Aphorisms, one of the most reproduced medical texts in history. As a representative example of this exegetical tradition, the anonymous treatise played a role in the enduring influence of Hippocratic medicine. Such commentaries were instrumental in standardizing medical education and adapting Greek clinical thought for subsequent eras, thereby facilitating the transmission of this knowledge into Arabic, Syriac, and Latin medical traditions.
+
 ## Text
 
 ### 1

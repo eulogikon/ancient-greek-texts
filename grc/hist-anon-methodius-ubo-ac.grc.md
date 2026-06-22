@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ubo-ac` · [HTML page](https://eulogikon.org/works/hist-anon-methodius-ubo-ac)
 
+The Methodius is an anonymous Greek chronography and apocalyptic prophecy, traditionally though erroneously ascribed to Methodius, Bishop of Olympus. Written in Koine Greek prose and structured into 107 sections, the work constructs a universal history from the Creation to the prophesied End Times. Its narrative synthesizes biblical history with legendary material and prophetic revelation, framed as a detailed exegesis of contemporary political and religious crises, most notably the rapid expansion of Islam and the profound threats it posed to the Byzantine Empire.
+
+Scholarly consensus identifies the text as pseudonymous, with its original composition most likely occurring in Syriac during the late 7th century CE, in the immediate aftermath of the Arab conquests. It was subsequently translated into Greek. The core purpose of the work is to provide a theological interpretation for the military triumphs of the Arabs, presenting them as a divine scourge upon Christians for their sins. It culminates in a prophecy foretelling the ultimate defeat of the Islamic powers by a last Christian Roman emperor, a messianic figure whose legend became a cornerstone of later Byzantine apocalyptic ideology. The complete Greek text survives and enjoyed wide circulation, exerting a substantial and lasting influence on medieval apocalyptic literature across the Byzantine, Latin West, and Slavic cultural spheres.
+
 ## Text
 
 ### 1.1

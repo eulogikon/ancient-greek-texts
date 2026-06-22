@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jii-ab` · [HTML page](https://eulogikon.org/works/satyrus-oxyrhynchus-alcibiades-life-jii-ab)
 
+The Fragments on Alcibiades' Life is a biographical work on the Athenian statesman Alcibiades by the Hellenistic biographer Satyrus. It survives only in thirty-three fragmentary passages preserved on a single papyrus roll discovered at Oxyrhynchus in Egypt. These excerpts, which do not form a continuous text, represent a key example of early Peripatetic biography from the third century BCE. The extant fragments cover various episodes from Alcibiades' life, including his political and military career during the Peloponnesian War, his exile and subsequent service to Sparta, and his relationship with Socrates. The style is anecdotal and dramatic, employing dialogue and vivid scenes to illustrate its subject's character. The work is transmitted solely via the Oxyrhynchus papyrus, a second-century CE roll containing excerpts likely compiled for personal or scholarly use. Published in 1912, the fragments are damaged and their order may not reflect the original sequence of the text, with no other manuscript tradition known. These fragments constitute a crucial source for understanding the development of ancient biography, illustrating Satyrus's anecdotal method which influenced later writers such as Plutarch. They provide important historical details on Alcibiades and serve as a direct witness to Hellenistic biographical practice.
+
 ## Text
 
 ### t1-19

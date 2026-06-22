@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tfq-aa` · [HTML page](https://eulogikon.org/works/syrianus-athens-hermogenes-issues-tfq-aa)
 
+Syrianus of Athens, a prominent Neoplatonic philosopher of the fifth century CE, composed an extensive Greek commentary on the rhetorical treatise On Issues by Hermogenes of Tarsus. Hermogenes' second-century work served as a fundamental textbook on stasis theory, the systematic method for determining the central legal question in a forensic speech, which constituted the advanced study of rhetoric in the Roman Empire. Syrianus’ commentary, structured around 198 lemmata, each presenting a passage from Hermogenes followed by a detailed exegesis, interprets the technical manual through a philosophical lens. He argues that the logical structure of Hermogenes' rhetorical system mirrors the rational and orderly principles of reality as understood in Neoplatonism, thereby elevating rhetoric from a practical art to a subject worthy of philosophical contemplation.
+
+Preserved intact through Byzantine educational traditions where Hermogenes remained a standard author, the commentary is a significant document of late antique intellectual culture. Modern scholarship regards it as a prime example of how Neoplatonic philosophers integrated specialized rhetorical training into a broader philosophical curriculum. Syrianus likely intended the work for advanced students at the Athenian Academy, aiming to demonstrate that the art of persuasion was intrinsically connected to dialectic and metaphysical order. The commentary thus blends meticulous textual analysis with a philosophical project that seeks to uncover the deeper intellectual harmony within a technical discipline.
+
 ## Text
 
 ### 1 (1t)

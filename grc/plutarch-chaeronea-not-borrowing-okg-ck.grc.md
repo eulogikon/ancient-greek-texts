@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ck` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-not-borrowing-okg-ck)
 
+On Not Needing to Borrow is an ethical essay by the Greek philosopher Plutarch, composed in the early second century CE as part of his collected works known as the Moralia. The treatise presents a sustained and systematic argument, traditionally organized into twenty-five sections, against the practice of incurring personal debt. Plutarch opens with an analogy from Plato's Laws, which forbids neighbors from drawing water from another's well until they have first dug deeply on their own land to ascertain if it is barren. He argues that a similar principle should govern finances: individuals must exhaust their own resources and manage them prudently before seeking loans from others.
+
+The essay condemns borrowing as a corrosive practice that leads to shame, servile dependency, and personal unhappiness. Plutarch contrasts this with the freedom, security, and dignity afforded by living within one's means. He attributes most unnecessary debt not to genuine poverty but to moral weakness—indulgence, extravagance, and a softness that drives people to use others' resources while neglecting their own. The work blends traditional philosophical exhortations toward moderation and self-sufficiency with practical advice on household economy, targeting the concerns of the educated Greek elite under Roman rule. It reflects both enduring Hellenic values of personal autonomy and the specific social pressures of maintaining status in the early Imperial period. Preserved intact within the medieval manuscript tradition of the Moralia, the essay stands as a concise and vigorous articulation of the ethical case for financial independence.
+
 ## Text
 
 ### t 1

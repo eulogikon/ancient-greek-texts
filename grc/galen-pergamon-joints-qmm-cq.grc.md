@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cq` · [HTML page](https://eulogikon.org/works/galen-pergamon-joints-qmm-cq)
 
+On Hippocrates' Joints is a medical commentary by the physician Galen of Pergamon, composed in Greek during the late second century CE. The work provides a systematic, line-by-line exegesis of the Hippocratic treatise On Joints, a foundational surgical manual concerning the treatment of dislocations and fractures. Galen’s method consists of quoting a brief passage from the Hippocratic text followed by extensive analysis of its terminology, anatomical and mechanical rationale, and practical surgical application. His overarching aim is to establish Hippocrates as the supreme medical authority and to elucidate the coherent theoretical principles underlying the ancient master’s practical instructions. The complete commentary is organized around 391 such explanatory passages.
+
+Modern scholarship views the treatise as serving a dual purpose: it functioned as an advanced pedagogical tool for medical students and as a professional polemic to consolidate Galen’s own standing as the definitive interpreter of classical medical wisdom. Composed during his tenure at the Roman imperial court, the work reflects the intensely competitive intellectual milieu of the period, in which Galen vigorously promoted a rational, theory-based medicine against rival empirical and methodist schools. The text survives in its entirety through medieval Greek manuscripts. Its subsequent translation into Arabic and Latin secured its enduring influence on surgical theory from the medieval Islamic world through the Renaissance.
+
 ## Text
 
 ### 18a 300 (t1)

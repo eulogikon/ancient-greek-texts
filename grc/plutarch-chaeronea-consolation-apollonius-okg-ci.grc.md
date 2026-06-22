@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ci` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-consolation-apollonius-okg-ci)
 
+The Consolation to Apollonius is a prose work of consolatory literature attributed to Plutarch of Chaeronea. Addressed to a man grieving the premature death of his son, the text systematically assembles traditional arguments, historical exempla, and quotations from poets and philosophers to counsel the moderation of grief through reason. Its content is highly derivative, compiling commonplaces from earlier Greek thought rather than presenting original philosophy. The work draws extensively on authorities such as Plato, the Stoics, and the Cynics to advance central themes including the universality of death, the conception of death as a release from life's sufferings, and the futility of excessive mourning. It emphasizes the comfort to be found in remembering the virtues of the deceased and offers numerous models of noble endurance drawn from mythology and history.
+
+Transmitted within the Plutarchan corpus, the work's authenticity has been questioned by scholars due to perceived stylistic differences from Plutarch's undisputed writings. It survives intact through the Byzantine manuscript tradition. As a representative specimen of the consolatory genre, the text's primary significance lies in its function as a vehicle for classical philosophical commonplaces on death and grief. It is valued chiefly for its compilation of traditional rhetoric and its preservation of quotations from earlier literary and philosophical sources.
+
 ## Text
 
 ### t 1

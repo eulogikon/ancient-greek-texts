@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bh` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-silver-tutia-tyc-bh)
 
+The Making of Silver from Tutia is a concise Greek alchemical treatise authored by Zosimus of Panopolis around 300 CE. It presents a practical, recipe-style procedure for employing a substance called tutia, widely identified by modern scholars as zinc oxide, to impart a silvery appearance to a base metal. The text consists of two brief passages offering direct laboratory instructions for grinding, heating, and combining materials, including tutia, sulfur, egg whites, and copper. This work exemplifies the empirical, workshop-oriented dimension of early alchemy, where technical processes for material transformation were deeply intertwined with philosophical concerns regarding the purification and perfection of substances. Preserved within the larger corpus of Zosimus's writings through Byzantine manuscript transmission, notably in a 10th- or 11th-century compilation, the treatise functioned as a didactic exemplar of transmutation for fellow practitioners. As a work by a foundational alchemical authority, it served to codify and transmit technical knowledge that would subsequently influence later alchemical traditions in the Islamic world and medieval Europe.
+
 ## Text
 
 ### 2.228

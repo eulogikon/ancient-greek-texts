@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-an` · [HTML page](https://eulogikon.org/works/alchemist-i-persian-bronze-rrg-an)
 
+The Dyeing of Persian Bronze Discovered by Philip is a brief Greek alchemical treatise from the Roman Imperial period, most likely dating between the first and third centuries CE. It is preserved within later Byzantine manuscript collections of alchemical writings, notably the Marcianus graecus 299, and is attributed by modern scholars to an anonymous figure designated as Alchemist I. This author's work forms part of the extensive Pseudo-Democritus corpus, a body of early alchemical texts spuriously ascribed to the pre-Socratic philosopher Democritus. The treatise presents itself as a technical recipe, providing detailed instructions for the surface coloration, or "dyeing," of a type of bronze. Its full title claims the technique was invented by a certain Philip and derived from Persian sources, a conventional pseudepigraphic strategy in ancient technical literature designed to imbue the material with the authority of exotic and ancient wisdom.
+
+The text represents a foundational stratum of Greek alchemy, an emerging discipline that synthesized Egyptian metallurgical and dyeing crafts with Hellenistic natural philosophy and mystical concepts. Written for practical artisans and early experimenters, its focus on altering the color of metals to resemble gold or other precious materials reflects a central objective of proto-alchemical practice: the imitation and perceived transmutation of substances. The surviving portion of the work is not an independent book but a short excerpt embedded within much larger compilations. Scholarly analysis interprets the references to Persian sages and the discoverer Philip as entirely fictional, a literary device intended to anchor this novel, practical knowledge within a venerable and legendary tradition, thereby enhancing its credibility and appeal to contemporary practitioners.
+
 ## Text
 
 ### 2.346.(1t)

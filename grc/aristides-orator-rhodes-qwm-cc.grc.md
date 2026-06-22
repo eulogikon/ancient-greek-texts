@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-cc` · [HTML page](https://eulogikon.org/works/aristides-orator-rhodes-qwm-cc)
 
+The Rhodian is an epideictic oration composed by the Greek orator Aelius Aristides around 157–158 CE. Written in Attic Greek and structured in nineteen sections, the speech was delivered to the civic body of Rhodes. It functions as a formal encomium, systematically praising the island's legendary mythological origins, its advantageous geography and climate, and the exceptional beauty of its urban architecture and harbors. The oration further extols the moral character and civic virtues of the Rhodians, celebrating their long history of political freedom and their role as a preeminent center of Greek culture and education. A significant portion of the praise is also devoted to Rhodes's special and loyal alliance with Rome.
+
+The work stands as a definitive example of the literary and rhetorical movement known as the Second Sophistic, which sought to revive and emulate classical Greek oratory during the Roman Imperial period. Modern scholarship interprets the oration not merely as an aesthetic exercise but as a calculated diplomatic gesture, designed to affirm and reinforce Rhodes's prestigious cultural status within the political framework of the Roman Empire. It is believed to have been composed for performance before an audience of local elites and subsequently published for circulation among the broader educated, Greek-speaking public. The complete text survives through medieval manuscript tradition, most notably in the 13th-century Codex Laurentianus 60.3, which contains a major collection of Aristides's works; the transmission is considered reliable, with the text remaining substantially intact.
+
 ## Text
 
 ### 539

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nne-aa` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-figures-nne-aa)
 
+On Figures is a grammatical treatise attributed to Lesbonax of Mytilene. Preserved in a single manuscript, the Codex Vaticanus Graecus 12, the work presents forty-one short passages, each demonstrating a stylistic or syntactic error followed by its correction. Its authorship is uncertain, with scholarship distinguishing between Lesbonax the first-century BCE sophist and a later grammarian of the same name, to whom this technical treatise is likely assigned. The treatise catalogs and corrects flaws in Greek prose composition, focusing on incorrect separation of closely connected words, faulty use or connection of particles, and errors in clause construction and word order. The complete text survives solely in the tenth- or eleventh-century Codex Vaticanus Graecus 12, with the standard modern edition being that of Leonhard von Spengel in his Rhetores Graeci. The work is a pedagogical manual for advanced grammar and rhetoric, exemplifying the Hellenistic and Roman tradition of stylistic analysis. It provides valuable evidence for ancient grammatical theory and the specific errors targeted in the advanced education of Greek prose writers.
+
 ## Text
 
 ### 1 (1t)

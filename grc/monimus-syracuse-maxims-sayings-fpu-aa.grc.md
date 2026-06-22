@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fpu-aa` · [HTML page](https://eulogikon.org/works/monimus-syracuse-maxims-sayings-fpu-aa)
 
+The Apospasmata, or Trifles, attributed to the Cynic philosopher Monimus of Syracuse, is a lost collection of sayings known only through later testimonia. According to Diogenes Laertius, Monimus authored both an exhortation to philosophy and this collection, whose title suggests the pithy, paradoxical maxims characteristic of Cynic protreptic discourse. The work survives in fragmentary form, primarily through two key sayings and associated anecdotes preserved by doxographers. These fragments emphasize core Cynic doctrines, including a radical skepticism toward conventional judgment, exemplified by Monimus's declaration that all human opinion is illusion. Other anecdotes highlight a contempt for wealth and material servitude, such as the story of him feigning madness to gain freedom from a wealthy master, and illustrate the use of frank, shocking speech to provoke philosophical awakening. The collection is entirely lost, with Diogenes Laertius's biographical sketch serving as the primary source for its content. Monimus's maxims, particularly his dismissal of human opinion, were noted by later writers like Dio Chrysostom and contribute to the understanding of early Cynic thought, securing his place in the history of the movement through his inclusion in the ancient philosophical tradition.
+
 ## Text
 
 ### 1

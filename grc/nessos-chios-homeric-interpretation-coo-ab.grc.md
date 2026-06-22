@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `coo-ab` · [HTML page](https://eulogikon.org/works/nessos-chios-homeric-interpretation-coo-ab)
 
+Fragments on Homeric Interpretation is a title attributed to an otherwise unknown author named Nessos of Chios. No record of this specific work or of a Homeric scholar by this name exists in the standard academic corpus. The name Nessos is familiar from mythology as a centaur and appears occasionally as a historical personal name, but it is not associated with recognized literary scholarship. The work is described as a collection, and its survival is indicated solely by two fragmentary passages preserved in later sources. These fragments suggest the content addressed topics within the broad ancient field of Homeric exegesis, which encompassed textual, linguistic, allegorical, and philosophical criticism of the Homeric epics. The description of the text as "Fragments" confirms its indirect transmission, likely through quotation by a later compiler, though these sources remain unspecified. While the work itself is unattested, its purported existence typifies the extensive and enduring ancient tradition of Homeric interpretation, a practice spanning from the pre-Socratic period through late antiquity and involving such notable figures as Theagenes of Rhegium, Metrodorus of Lampsacus, and Aristarchus of Samothrace.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dwk-aa` · [HTML page](https://eulogikon.org/works/bryson-heraclea-economics-dwk-aa)
 
+The Fragments on Economics is a lost treatise by the Neopythagorean philosopher Bryson of Heraclea, surviving only in quotations preserved by later authors. The work addressed the classical subject of household management, or oikonomikē, with surviving passages primarily concerning the systematic acquisition of wealth and the education of children. One notable fragment employs a metaphor of interconnected chain links to illustrate the interdependence of all human endeavors, arguing that any chosen pursuit necessitates a sequence of supporting crafts and industries. In his analysis of wealth acquisition, Bryson systematically applied a four-cause framework—material, instrumental, productive, and final—to the art of acquiring property. Another significant fragment argues for the equal education of both sons and daughters within the household, a progressive view for its time.
+
+The text’s transmission relies entirely on fragments cited by the Stoic philosopher Musonius Rufus in the first century CE and the Neoplatonist Iamblichus in his Protrepticus during the third century. These excerpts were later compiled by modern scholars. Bryson’s systematic economic analysis contributed to later philosophical treatments of economics, while his ideas on education, disseminated through Musonius Rufus, influenced Roman Stoic thought. Evidence of a wider reception exists in a medieval Arabic work on household management attributed to a figure named Brynūs, suggesting the continued circulation and adaptation of his ideas within the Islamic scholarly world.
+
 ## Text
 
 ### 56 (14t)

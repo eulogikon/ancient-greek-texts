@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-af` · [HTML page](https://eulogikon.org/works/philo-alexandria-every-good-person-free-lgi-af)
 
+That Every Good Person Is Free is a philosophical treatise by the Jewish philosopher Philo of Alexandria, composed in Greek around 30–50 CE. The work presents a systematic defense of the Stoic paradox that true freedom is the exclusive possession of the wise and virtuous individual. Philo contends that the foolish and vicious person remains a slave to passion and error, regardless of external political status or legal liberty, while the sage achieves freedom through a life governed by virtue and divine law. This inner liberation emancipates the soul from the tyranny of desires, fears, and irrational impulses.
+
+Philo develops his argument through logical exposition and an extensive catalog of exemplars, drawing equally from biblical tradition and Greek philosophy. He cites Hebrew patriarchs and other righteous figures as embodiments of this spiritual freedom, contrasting them with tyrants and powerful individuals who are depicted as slaves to their own vices. The treatise, which survives intact in 128 sections, was written in the cosmopolitan environment of Roman Alexandria, reflecting Philo’s characteristic synthesis of Hellenistic philosophical concepts with Jewish scriptural interpretation. Scholars view the work as part of his broader project to articulate Jewish wisdom in the language of Greek ethics, thereby demonstrating its philosophical sophistication to an educated audience of Hellenized Jews and interested Gentiles. The text was preserved through medieval Greek manuscripts and an early Armenian translation, ensuring its place within Philo’s corpus. Its themes concerning ethical autonomy and spiritual freedom subsequently influenced early Christian writers and facilitated the transmission of key Stoic ideas into later theological discourse.
+
 ## Text
 
 ### Prob t

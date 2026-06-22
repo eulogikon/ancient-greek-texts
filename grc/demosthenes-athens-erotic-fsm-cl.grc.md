@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-cl` · [HTML page](https://eulogikon.org/works/demosthenes-athens-erotic-fsm-cl)
 
+The Erotic is a brief epideictic oration preserved as Oration 61 in the Demosthenic corpus. Though attributed to the Athenian orator Demosthenes, its authenticity has been disputed since antiquity, and modern scholarship generally considers it a later rhetorical exercise, likely from the Hellenistic or Roman period, that was spuriously included among his genuine works. The speech is a display piece that praises a youth named Epicrates, employing the traditional conventions of erotic discourse to celebrate both his physical beauty and his moral character. Its content focuses on the ideal of kalokagathia, the fusion of physical nobility and virtue, explores the power of Eros, and serves as an encomiastic celebration of an individual. Transmitted through the extensive manuscript tradition of Demosthenes' orations, the Erotic is significant for understanding the later expansion and reception of the classical corpus, illustrating how the authority of a major figure was used to authenticate later compositions. It also provides a valuable case study for the conventions of epideictic rhetoric and the erotic encomium in the post-Classical era.
+
 ## Text
 
 ### Erot 1

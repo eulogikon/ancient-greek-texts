@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ay` · [HTML page](https://eulogikon.org/works/erotica-anon-tefnut-skw-ay)
 
+Tefnut is the name of an Egyptian goddess associated with moisture, but no prose narrative of that title exists within the corpus of attested ancient Greek literature. While the described genre of an erotic narrative aligns with the form of the ancient Greek novel, no such work under this specific Egyptian theonym is recorded in any scholarly references, manuscript catalogs, or digital repositories of classical texts. The complete absence of the title from all documented sources, including those detailing fragmentary and lost works, indicates that "Tefnut" is not an extant or historically attested piece of ancient Greek fiction. Its description as a prose fiction of fifteen passages engaging with Egyptian mythology appears to be a modern fabrication rather than a recovered ancient text.
+
 ## Text
 
 ### frA col1 (25)

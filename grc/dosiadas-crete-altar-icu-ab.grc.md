@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `icu-ab` · [HTML page](https://eulogikon.org/works/dosiadas-crete-altar-icu-ab)
 
+The Altar is a short pattern poem, or technopaegnion, by Dosiadas of Crete. Its ten lines of varying length are arranged on the page to form the visual shape of an altar, making it a canonical example of the Hellenistic tradition of carmina figurata, where visual arrangement is integral to meaning. The text is a dedicatory epigram spoken in the voice of the altar itself, declaring it was dedicated to Apollo by a "son of Cleobulus," a likely literary fiction alluding to the sage known for riddles, which aligns with the poem's playful and self-referential nature. Primary themes include the fusion of literary text and visual design, religious dedication, and poetic virtuosity. The poem survives complete within the manuscript tradition of the Greek Anthology, specifically in its fifteenth book dedicated to miscellaneous epigrams and pattern poems. As a significant work of Alexandrian literary experimentation, Dosiadas's Altar demonstrates the period's interest in formal innovation and significantly influenced later European traditions of shaped verse.
+
 ## Text
 
 ### 1

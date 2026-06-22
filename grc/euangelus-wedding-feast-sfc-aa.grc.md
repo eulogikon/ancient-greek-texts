@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sfc-aa` · [HTML page](https://eulogikon.org/works/euangelus-wedding-feast-sfc-aa)
 
+The Wedding Feast is a lost comedy by the Athenian playwright Euangelus, who was active during the period of Middle Comedy in the fourth century BCE. The work survives only in six brief fragments preserved by the grammarian Athenaeus in his Deipnosophistae. The extant passages, which focus on elaborate descriptions of food and dining preparations, suggest the play comically treated themes of domestic and social life, with specific references to culinary items such as a type of bread and a fish sauce. Transmitted exclusively through quotation in Athenaeus’s work, the fragments are collected in modern scholarly editions. As a representative fragment of Middle Comedy, the play provides evidence for the genre’s shift away from direct political satire toward domestic and social themes, and its remains serve as valuable primary sources for the study of ancient Athenian material culture and comic conventions.
+
 ## Text
 
 ### book 1.1

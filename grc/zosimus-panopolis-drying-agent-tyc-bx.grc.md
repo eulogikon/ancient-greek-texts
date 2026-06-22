@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bx` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-drying-agent-tyc-bx)
 
+On the Drying Agent is a concise Greek alchemical treatise written by Zosimus of Panopolis around 300 CE. The work provides technical instructions for preparing and applying a specific "drying agent," a substance essential in processes for coloring metals to imitate their transmutation into gold or silver. Characteristic of Zosimus's practical, recipe-oriented style, the treatise functions as a focused workshop note, likely intended for the instruction of students. It operates within the Greco-Egyptian alchemical tradition, which integrated empirical craft knowledge with philosophical speculation on the transformation of matter. The text exemplifies the operational core of late antique alchemy, where laboratory procedures were intertwined with spiritual concepts. Preserved within larger medieval compilations of alchemical writings, Zosimus's works were copied over centuries in Greek and Syriac manuscripts, with a significant corpus found in the 10th- or 11th-century codex Marcianus graecus 299. Despite the fragmentary survival of much early alchemical literature, Zosimus remains the most substantial author from this period whose original texts are directly accessible.
+
 ## Text
 
 ### 2.205.(1t)

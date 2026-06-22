@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tro-ai` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-text-tro-ai)
 
+The Scholia on Aeschylus constitute a corpus of ancient and medieval explanatory notes composed in Greek to elucidate the dramatic works of the tragedian Aeschylus. This extensive compilation, comprising 2,741 individual annotations, is not a unified treatise by a single author but rather an aggregation of scholarship assembled over many centuries, from the Hellenistic period of the third and second centuries BCE through the Byzantine era. Each scholion, or note, is attached to a specific word or line within the Aeschylean text, serving to clarify difficult vocabulary, obscure mythological references, grammatical constructions, metrical patterns, and variant textual readings.
+
+The survival of this commentary is owed to the medieval scribal tradition, where these explanatory notes were transcribed into the margins of manuscripts containing the plays of Aeschylus. The transmission is fragmentary and uneven, with certain plays benefiting from a rich exegetical tradition while others are sparsely annotated; the extant scholia themselves represent only a portion of a far more comprehensive body of ancient scholarship that is now lost. Modern scholarship interprets the scholia primarily as a pedagogical instrument, originally crafted to aid students, teachers, and performers in navigating the archaic language and complex dramatic structures of Aeschylean tragedy. As such, they offer a direct and invaluable window into the methods of ancient literary criticism and textual preservation, remaining an indispensable resource for contemporary editors, translators, and interpreters of classical Greek drama.
+
 ## Text
 
 ### Pr t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-ab` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-fragments-ljk-ab)
 
+The Fragments 13-190 constitute a modern scholarly compilation of extracts from the lost works of Theophrastus of Eresus, the successor to Aristotle and head of the Peripatetic school in the late fourth and early third centuries BCE. These fragments, written in Attic Greek, are not derived from a single treatise but are painstakingly gathered from hundreds of quotations and references preserved by later ancient authors, including doxographers, commentators, and encyclopedists such as Cicero, Plutarch, and Simplicius. The numbering follows a standard modern edition that systematically organizes these scattered sources. The collection captures Theophrastus's wide-ranging intellectual pursuits, documenting his ideas on botany, mineralogy, physics, metaphysics, ethics, and logic. As only a portion of his original output survives intact, these fragments are indispensable for reconstructing his philosophical thought, which frequently involved expanding upon or refining Aristotelian doctrines. The original works from which these fragments derive were likely intended for the scholarly community of the Peripatetic school and educated readers engaged in the systematic study of the natural world and human life.
+
 ## Text
 
 ### 13.1

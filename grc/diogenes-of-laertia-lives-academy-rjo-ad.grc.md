@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ad` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-academy-rjo-ad)
 
+Book IV tracks the Academy after Plato, organizing succession by scholarch generations. Its value lies in coupling institutional continuity with biographical episodes, offering evidence for how later Academic identity was narrated through persons, writings, and teaching inheritance.
+
 ## Text
 
 ### Vit.4.1

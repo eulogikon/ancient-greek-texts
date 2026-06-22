@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lng-aa` · [HTML page](https://eulogikon.org/works/megasthenes-india-fragments-lng-aa)
 
+The Fragments on India, traditionally known as the Indika, constitute the surviving excerpts of a lost prose ethnography composed by the Greek diplomat Megasthenes circa 300 BCE. As an ambassador to the court of the Mauryan emperor Chandragupta, Megasthenes produced a comprehensive account based on his firsthand observations. His original work systematically described the geography, flora, and exotic fauna of the Indian subcontinent, alongside detailed analyses of its social structures, including an early foreign description of the caste system, the sophisticated administration of the Mauryan empire, and local philosophical and religious practices. The treatise is interpreted by modern scholars as a deliberate effort to furnish the Hellenistic world with an authoritative portrait of Indian civilization in the wake of Alexander the Great's campaigns, serving both intellectual curiosity and the geopolitical interests of the Seleucid Empire.
+
+The complete text has not endured. Only 67 fragments remain, preserved exclusively through quotations, paraphrases, and summaries in the works of later Greek and Roman authors such as Arrian, Strabo, Diodorus Siculus, and Pliny the Elder. The original thematic organization of the book is now irrecoverable, though the extant passages suggest a methodical, encyclopedic approach. For centuries, it stood as the most influential classical source on India, fundamentally shaping Greek and Roman perceptions of the region. While valued by historians as a vital external witness to early Mauryan India, the account is necessarily mediated through the lenses of the authors who preserved it and is acknowledged to contain elements of hearsay and legendary material alongside its core of reported observation.
+
 ## Text
 
 ### t1-43

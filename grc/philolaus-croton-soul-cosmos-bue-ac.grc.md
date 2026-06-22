@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bue-ac` · [HTML page](https://eulogikon.org/works/philolaus-croton-soul-cosmos-bue-ac)
 
+On the Soul and the Cosmos is a modern designation for a collection of three philosophical fragments attributed to Philolaus of Croton, a Pythagorean thinker of the late 5th century BCE. Written in Doric Greek, the fragments explore the nature of the soul and its connection to the universe. Philolaus posits that the soul is a harmony or attunement of the body's opposing elements, a dependent and perishable entity. This psychological theory is integrated with his cosmology, which asserts that all reality originates from the interaction of two fundamental principles: the Limit and the Unlimited. The text does not survive as a complete manuscript; only these three passages are preserved, having been quoted by the later compiler Stobaeus in the 5th century CE. Philolaus is considered the first Pythagorean to commit the school's doctrines to writing, rendering these fragments crucial historical evidence. Modern scholarship interprets the work as an attempt to explain both the cosmos and the human being through mathematical and harmonic principles, viewing the soul's structure as a microcosm of the universal order. This theory was influential yet controversial, famously receiving criticism from both Plato and Aristotle.
+
 ## Text
 
 ### 149 (15t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cvw-aa` · [HTML page](https://eulogikon.org/works/hippostratus-genealogies-minos-cvw-aa)
 
+The Genealogies Concerning Minos is a lost prose work attributed to the Hellenistic historian Hippostratus. It survives only in fragmentary form through quotations preserved by later authors such as Phlegon of Tralles, Tzetzes, and the scholiast on Theocritus, with these excerpts systematically compiled in Felix Jacoby’s Die Fragmente der griechischen Historiker. As the title suggests, the work compiled genealogical traditions related to the mythical Cretan king Minos and his lineage. The extant fragments indicate a focus on the genealogical connections of Minos and associated mythological figures, often integrating Cretan mythical traditions into broader Panhellenic heroic cycles. One fragment, for instance, records the tradition that the Egyptian king Aegyptus fathered fifty sons by a single woman, Eurynome, the daughter of the river-god Nilus, while his brother Danaus similarly had fifty daughters by the same woman. Another fragment mentions the daughters of Timandreus, Cotto and Eurythemis, who were honored by the Heracleidae for aiding their arrival in the Peloponnese. As a representative of Hellenistic mythography and local history, these fragments provide insight into the antiquarian methods of organizing legendary material and serve as a valuable source for understanding the variety and scholarly treatment of Cretan genealogical traditions in antiquity.
+
 ## Text
 
 ### t1a-7

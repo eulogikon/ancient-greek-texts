@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `apa-ac` · [HTML page](https://eulogikon.org/works/thales-miletus-letters-apa-ac)
 
+The Letters to Philosophers is a pseudepigraphic collection attributed to Thales of Miletus. No complete letters from this work survive; knowledge of it derives entirely from later testimonia, most notably the biographical compendium of Diogenes Laertius. While citing the letters for anecdotes concerning Thales’s life and thought, Laertius himself expressed skepticism regarding their authenticity. Modern scholarship generally concurs, viewing the collection as a Hellenistic fabrication. It belongs to a broader literary tradition of forging correspondence attributed to early sages, a practice used to lend authority to later ideas or to construct a narrative of philosophical dialogue across generations.
+
+Based on fragmentary reports, the content of these spurious letters included practical ethical advice, aligning Thales with the gnomic tradition of the Seven Sages, as well as political counsel on governance. One notable attribution preserved in the tradition is the famous maxim “know thyself,” which the letters claimed originated with Thales. The work itself is entirely lost as an independent document, surviving only as a title and in brief quotations within doxographical sources, with Diogenes Laertius in the third century CE serving as the primary conduit for these references. Consequently, it possesses no direct manuscript tradition.
+
+The significance of the Letters to Philosophers lies not in any genuine philosophical influence but in its role within the biographical tradition. The anecdotes and characterizations it preserved became integral to the later legendary portrait of Thales. By depicting him engaged in epistolary exchange with other figures, such as Solon, the text helped construct an image of an early intellectual community and solidified Thales’s reception in antiquity as the archetypal pre-Socratic sage.
+
 ## Text
 
 ### 1.(tit)

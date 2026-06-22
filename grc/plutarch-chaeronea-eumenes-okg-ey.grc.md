@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ey` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-eumenes-okg-ey)
 
+The Life of Eumenes is a biography by the Greek writer Plutarch, composed in the early 2nd century CE as part of his famous series, Parallel Lives. Written in Attic Greek prose, it pairs the Greek general Eumenes of Cardia with the Roman rebel Sertorius. The work traces the career of Eumenes, who rose from humble origins to become a trusted secretary and general under Alexander the Great. Plutarch details his subsequent perilous struggle for power after Alexander's death during the Wars of the Diadochi, emphasizing his intelligence, loyalty, and precarious status as a Greek outsider among Macedonian rivals. The narrative culminates in his eventual betrayal and execution. While a valuable historical source for this turbulent period in Hellenistic history, Plutarch's primary purpose is the exploration of character and virtue. Through this paired life, he illustrates themes of leadership in adversity, the complexities of political loyalty, and the tragedy of betrayal. The text has survived intact through medieval manuscript tradition.
+
 ## Text
 
 ### Eum t 1

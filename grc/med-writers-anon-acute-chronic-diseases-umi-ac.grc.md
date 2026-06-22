@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-ac` · [HTML page](https://eulogikon.org/works/med-writers-anon-acute-chronic-diseases-umi-ac)
 
+The Diagnosis of Acute and Chronic Diseases is an anonymous Greek medical treatise comprising thirty-five passages, functioning as a practical manual for differentiating diseases based on their categorization as acute or chronic. It focuses on the speed of onset, duration, and symptomatic progression within the Hippocratic tradition. The work systematically addresses the classification of diseases into acute and chronic types, outlines diagnostic procedures and observable signs for identifying these conditions, and implies the prognostic judgment of a disease’s course, a central concern of Hippocratic practice. As illustrated by its opening discussion on the causes of phrenitis, the text often presents competing theories from prominent physicians like Erasistratus, Praxagoras, Diocles, and Hippocrates, synthesizing doctrinal debates into a concise diagnostic framework. The treatise survives as a constituent part of the Hippocratic corpus, transmitted through medieval manuscripts alongside other works attributed to Hippocrates. It exemplifies the core Hippocratic emphasis on clinical observation and systematic diagnosis, and its approach to nosology based on disease duration contributed to foundational medical knowledge perpetuated through Greco-Roman, Byzantine, and Arabic traditions.
+
 ## Text
 
 ## Διάγνωσις περὶ τῶν ὀξέων καὶ χρονίων νοσημάτων. Φρενίτιδος αἰτία.

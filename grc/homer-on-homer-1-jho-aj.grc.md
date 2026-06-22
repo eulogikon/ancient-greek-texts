@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-aj` · [HTML page](https://eulogikon.org/works/homer-on-homer-1-jho-aj)
 
+On Homer 1 is a prose treatise composed in Attic Greek during the Roman Imperial period, most likely in the 1st or 2nd century CE. Although traditionally transmitted among the works of Plutarch, modern scholarship attributes it to an anonymous author conventionally designated Pseudo-Plutarch. The text is not a biographical account but a work of philosophical literary criticism. Its central argument posits that Homer’s epics, the Iliad and the Odyssey, constitute the original and comprehensive source for all subsequent Greek wisdom. Employing allegorical interpretation, the essay seeks to demonstrate that Homer’s narratives encode advanced doctrines concerning ethics, theology, and natural philosophy, thereby prefiguring the ideas of later thinkers such as Plato and the Stoics.
+
+The treatise is systematically organized into three principal sections that develop its core themes. It was composed for an educated readership engaged in the Imperial-era tradition of addressing "Homeric Problems," a scholarly endeavor aimed at defending Homer’s enduring relevance and extracting contemporary philosophical meaning from the ancient poems. The complete text survives as part of the larger manuscript corpus of Plutarch’s Moralia without significant lacunae. Today, it is studied chiefly as a significant exemplar of how ancient scholars reinterpreted canonical texts to align them with the intellectual preoccupations of their own era.
+
 ## Text
 
 ### [45]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `peg-aa` · [HTML page](https://eulogikon.org/works/diogenes-oenoanda-sensation-nature-peg-aa)
 
+On Sensation and Nature is the modern designation for a collection of fragments from an extensive public inscription commissioned by the Epicurean philosopher Diogenes of Oenoanda around 200 CE. Carved in stone and originally forming part of a philosophical wall approximately eighty meters long in the city's agora, the work is a treatise composed in Koine Greek defending fundamental Epicurean doctrines. It presents a materialist cosmology based on atoms and void, explicates the corporeal nature of the soul and the tranquil existence of the gods, and upholds sensory perception as the sole criterion of truth. The text directly engages with and refutes the arguments of rival philosophical schools, particularly Stoicism and Skepticism. Diogenes stated his motive was philanthropic, aiming to provide his fellow citizens with the Epicurean remedy for the anxieties caused by false beliefs about the gods, death, and desire. The surviving 297 fragments, discovered by archaeologists beginning in 1884, are damaged and disordered, necessitating significant scholarly reconstruction. The inscription stands as a unique public monument to philosophy, offering invaluable insight into the teaching and popularization of Epicurean thought centuries after the school's foundation.
+
 ## Text
 
 ### 1 col1

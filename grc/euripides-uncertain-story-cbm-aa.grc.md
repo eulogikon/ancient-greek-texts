@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-aa` · [HTML page](https://eulogikon.org/works/euripides-uncertain-story-cbm-aa)
 
+Fragments of an Uncertain Story is a modern editorial title for a collection of fourteen fragmentary passages attributed to the Athenian tragedian Euripides. The title reflects the scholarly consensus that these pieces, while grouped together in digital and critical catalogs, cannot be definitively assigned to a single lost play. The fragments are preserved through indirect transmission, having been quoted by later ancient authors for their grammatical, philosophical, or anthological value, or recovered from damaged papyri. Their condition is highly lacunose, offering only disconnected phrases and partial lines that resist any coherent narrative reconstruction. Common Euripidean themes such as divine justice, human suffering, and familial strife may be glimpsed, but no specific plot or characters can be identified. These fragments are cataloged in modern editions such as Tragicorum Graecorum Fragmenta and are typically treated as of doubtful provenance within the larger Euripidean corpus. Their primary significance lies not in their individual content, but in their collective testimony to Euripides' enduring canonical status in antiquity, where his sententious and rhetorically powerful lines were widely excerpted and preserved long after the plays from which they originated were lost.
+
 ## Text
 
 ### 2 (25)

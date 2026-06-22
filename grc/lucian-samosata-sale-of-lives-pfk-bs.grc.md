@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bs` · [HTML page](https://eulogikon.org/works/lucian-samosata-sale-of-lives-pfk-bs)
 
+The Sale of Lives is a satirical prose dialogue by the second-century CE author Lucian of Samosata. Composed in Attic Greek during the period of cultural revival known as the Second Sophistic, the work presents a fictional divine auction orchestrated by Zeus and conducted by the god Hermes. The lots for sale are not objects but the distinctive lifestyles and doctrines of prominent Greek philosophers, including Pythagoras, Diogenes, Socrates, and representatives of the Stoic, Epicurean, and Academic schools, who are paraded before potential buyers as if they were slaves. Structured as a series of twenty-eight brief vignettes, the dialogue proceeds through Hermes’s sales pitches and the ensuing haggling with customers, who question the value and practicality of each philosophical life.
+
+Through this humorous framework, Lucian lampoons the idiosyncrasies, contradictions, and perceived hypocrisies of the major philosophical schools. The work functions less as a systematic philosophical critique and more as a literary entertainment that exposes intellectual pretension. Its central satire targets the contemporary commercialization of wisdom, implicitly suggesting that philosophical teachings were being packaged and peddled in the manner of marketplace goods. The Sale of Lives survives intact through medieval manuscript traditions and remains a characteristic example of Lucian’s influential and enduring satirical style.
+
 ## Text
 
 ### Vit Auct t

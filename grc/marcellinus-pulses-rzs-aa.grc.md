@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rzs-aa` · [HTML page](https://eulogikon.org/works/marcellinus-pulses-rzs-aa)
 
+_On Pulses_ is a systematic medical treatise on pulse theory and diagnosis attributed to the physician Marcellinus. This technical handbook belongs to the post-Herophilean tradition of sphygmology, serving as a practical compilation of diagnostic knowledge for clinical use. The complete work, structured in eleven sections, survives in Greek. It provides a methodical exposition beginning with a definition of the pulse and its physiological causes. The core of the treatise is a detailed classification of pulse qualities, including size, speed, rhythm, and strength, followed by instructions for the diagnostic and prognostic interpretation of these pulse types in relation to specific diseases and physiological states. The text is preserved in medieval manuscripts alongside other medical works, transmitted as a complete, short treatise within the corpus of minor Greek medical writers. While its authorship is traditionally assigned to Marcellinus, the author remains an obscure historical figure. As a practical compilation, On Pulses contributed to the perpetuation of ancient pulse lore, forming a link in the transmission of this fundamental diagnostic technique into Byzantine and later Arabic medical traditions.
+
 ## Text
 
 ### [55]

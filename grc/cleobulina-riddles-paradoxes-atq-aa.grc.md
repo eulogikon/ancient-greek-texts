@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `atq-aa` · [HTML page](https://eulogikon.org/works/cleobulina-riddles-paradoxes-atq-aa)
 
+The work known as Riddles and Paradoxes is a collection of verse riddles attributed to the poet Cleobulina, who lived in the 6th century BCE. She was the daughter of Cleobulus, one of the legendary Seven Sages of Greece, and her work represents a rare surviving example of a female literary voice from early Greek antiquity. The riddles are composed in a playful yet philosophical style, employing metaphor to describe natural phenomena and everyday objects. The most famous surviving example describes the year as a father with twelve children, representing the months, each of whom has thirty daughters who are white on one side and black on the other, representing the days and nights. The work does not survive as a complete book but exists only in fragments quoted by later authors, primarily the philosopher Aristotle and the biographer Diogenes Laërtius. Modern scholars have collected and numbered these quotations, resulting in a corpus of seven known passages. It is thought the original work was composed for educated, aristocratic circles as a form of intellectual entertainment designed to test wisdom and cleverness. Its preservation is due almost entirely to Aristotle, who cited one of Cleobulina’s riddles as an example of metaphorical language in his treatise Rhetoric.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ayq-aa` · [HTML page](https://eulogikon.org/works/seven-sages-demetrius-phalereus-ayq-aa)
 
+The Sayings, from the Collection of Demetrius Phalereus is a collection of ethical maxims attributed to the legendary Seven Sages of Greece. It derives from a larger, now-lost compilation assembled by the Athenian Peripatetic philosopher Demetrius of Phalerum in the late 4th to early 3rd century BCE. This work represents a specific manifestation of the ancient gnomic tradition, with its seven distinct passages likely corresponding to each of the traditional sages: Thales of Miletus, Pittacus of Mytilene, Bias of Priene, Solon of Athens, Cleobulus of Lindus, Myson of Chenae, and Chilon of Sparta. The content consists of concise, practical precepts characteristic of archaic Greek wisdom, emphasizing moderation, self-knowledge, prudence in speech and action, justice, and sound governance. Demetrius’s original compilation does not survive intact and is known primarily through its title and brief excerpts preserved within later doxographical sources, such as the works of Diogenes Laertius and Stobaeus. The transmission of such gnomic literature was inherently fluid, with sayings often being re-attributed and reformulated over centuries. Collections of the Seven Sages' sayings were foundational to Greek and later Roman moral education. While the direct influence of Demetrius’s specific collection is obscured by its fragmentary preservation, his scholarly activity as a Peripatetic helped to systematize and standardize this core wisdom tradition, which subsequently exerted a lasting influence on Christian and Byzantine ethical literature.
+
 ## Text
 
 ### 1

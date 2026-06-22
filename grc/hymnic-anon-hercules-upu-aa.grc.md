@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-aa` · [HTML page](https://eulogikon.org/works/hymnic-anon-hercules-upu-aa)
 
+"Hymn 15 To Heracles" is an anonymous Greek hymn belonging to a larger hymnic collection. The work, also known by the epithet "Hymn to Heracles the Lion," invokes the hero's iconic victory over the Nemean Lion and his subsequent wearing of its impenetrable skin. Composed in a single passage of verse, it adheres to traditional hymnic form, suitable for either ritual performance or literary recitation. The text celebrates Heracles as the mighty son of Zeus, born to Alcmene in Thebes. It recounts his arduous labors undertaken at the command of Eurystheus, during which he performed many mighty deeds and endured great sufferings. The hymn culminates in his apotheosis, describing his eternal residence on snowy Olympus where he delights in marriage to the goddess Hebe. As a surviving component of an anonymous collection transmitted through medieval manuscripts, often alongside or appended to other poetic texts, this hymn contributes to the extensive literary and cultic tradition that venerated Heracles. It underscores central themes of his mythos: the attainment of heroic excellence through labors, the symbolic power of the lion-skin representing invincibility, and the ultimate transition from mortal hero to immortal deity, from whom worshippers sought protection and blessings.
+
 ## Text
 
 ### 1

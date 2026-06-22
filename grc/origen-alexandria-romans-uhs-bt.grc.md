@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-bt` · [HTML page](https://eulogikon.org/works/origen-alexandria-romans-uhs-bt)
 
+Origen's Commentary on the Epistle to the Romans is a foundational work of early Christian biblical exegesis, composed in Greek around 243–244 CE. Structured as a meticulous verse-by-verse analysis, the original treatise spanned fifteen books containing 172 distinct passages. Origen's characteristic interpretive method is fully displayed, beginning with a philological examination that compares various Greek textual versions of Paul's epistle before proceeding to a detailed theological exposition. The original Greek text is now almost entirely lost, preserved only in fragmentary excerpts within later compilations. The commentary survives principally through a Latin translation and abridgment produced by Rufinus of Aquileia between 405 and 406 CE, which condensed the fifteen books into ten. Rufinus freely adapted the work, aiming to render Origen's sophisticated and occasionally controversial thought more palatable and orthodox for a Latin-speaking audience. Intended for educated Christians, the work served a dual purpose as a pastoral guide for understanding scripture and a defense of doctrinal orthodoxy against competing interpretations. Modern scholarship regards it as a seminal text that profoundly influenced subsequent Christian theology, particularly in shaping the patristic and medieval understanding of central Pauline doctrines such as justification, divine grace, and human free will.
+
 ## Text
 
 ### t 1

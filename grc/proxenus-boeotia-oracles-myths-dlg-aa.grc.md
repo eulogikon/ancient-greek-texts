@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dlg-aa` · [HTML page](https://eulogikon.org/works/proxenus-boeotia-oracles-myths-dlg-aa)
 
+_Epeirotica: Oracles and Myths_ is a lost prose work of local history attributed to Proxenus of Boeotia. Functioning as a periegesis, or regional guide, it compiled narratives concerning the oracles, myths, and religious traditions of Epirus in northwestern Greece. The work survives only in fragments, preserved through citations by later authors such as the geographer Strabo. Its content likely included detailed documentation of oracular sites, most prominently the famous oracle of Zeus at Dodona, alongside foundational myths for Epirote cities and tribes, heroic genealogies linking local populations to epic figures, and descriptions of distinctive regional rituals and cults. By serving as a source for later geographers and mythographers, Proxenus’s research on the sacred and historical landscape of Epirus contributed to the broader Greco-Roman understanding of the region.
+
 ## Text
 
 ### t2-5

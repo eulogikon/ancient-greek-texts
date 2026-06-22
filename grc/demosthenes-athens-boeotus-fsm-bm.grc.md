@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bm` · [HTML page](https://eulogikon.org/works/demosthenes-athens-boeotus-fsm-bm)
 
+Against Boeotus, On the Name is a private forensic oration written by the Athenian orator Demosthenes for a client, likely delivered around 348–347 BCE. The speech was presented before a popular court and concerns a familial dispute over identity and legitimacy. The plaintiff, Mantitheus, seeks to prevent his paternal half-brother, Boeotus, from using the name Mantitheus and the patronymic "son of Mantias." Mantitheus argues that this unauthorized use creates profound public confusion, directly threatening his civic identity, his liability for expensive public liturgies, and his social reputation.
+
+The oration, comprising forty sections, details a complex history. It recounts how the brothers' father, Mantias, initially refused to acknowledge Boeotus and his brother Pamphilus as his legitimate sons. Their mother, Plangon, eventually secured their recognition through a clever stratagem involving an oath, after which Mantias formally enrolled them in his phratry and deme. Following their father's death, however, Boeotus further aggravated the dispute by adopting Mantitheus's exact name. The speech meticulously presents this narrative alongside relevant laws, aiming to demonstrate that Boeotus's actions are not merely a personal affront but a source of tangible legal and financial harm. The complete text is preserved within the medieval manuscript tradition of Demosthenes' works.
+
+For modern scholars, the speech provides invaluable evidence for the intricacies of Athenian family law and social history. It underscores the critical importance of a citizen's name and patronymic, which were fundamental to legal status, inheritance rights, and the fulfillment of civic duties. The case illustrates how individual identity was deeply enmeshed with public responsibility, and the oration itself serves as a sophisticated example of how legal arguments were constructed to appeal to a jury's sense of law, social order, and practical consequence.
+
 ## Text
 
 ### Or39 1

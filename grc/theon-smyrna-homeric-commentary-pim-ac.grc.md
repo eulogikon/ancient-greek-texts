@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pim-ac` · [HTML page](https://eulogikon.org/works/theon-smyrna-homeric-commentary-pim-ac)
 
+The Homeric Commentary Fragments attributed to Theon of Smyrna comprise a collection of thirteen brief passages preserved as marginal scholia in a thirteenth-century manuscript of Homer's Iliad. Theon, a Platonic philosopher and mathematician active in the early second century CE, is believed to have authored a more extensive commentary on Homer from which these fragments are derived. Written in Koine Greek, the extant passages do not form a continuous text but offer isolated examples of Theon's exegetical method. Their content is characterized by an allegorical interpretation of Homeric epic through the lens of mathematics, music, and astronomy. One notable fragment interprets the seven cities offered to Achilles in the Iliad as a symbolic representation of the seven classical planets. These excerpts are significant artifacts of the Middle Platonic and Neopythagorean intellectual tradition, which sought to uncover scientific and philosophical truths within poetic texts. The work appears designed for an educated audience, illustrating how the standard pedagogical study of Homer could be integrated with advanced mathematical and cosmological speculation. Although only these fragments survive from Theon's larger commentary, they provide valuable evidence for the breadth of his scholarly interests beyond his more famous mathematical treatise. The fragments were first published in the twentieth century.
+
 ## Text
 
 ### 38 (16)

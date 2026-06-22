@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eni-ab` · [HTML page](https://eulogikon.org/works/damon-athens-music-virtue-eni-ab)
 
+The Fragments on Music and Virtue is a modern scholarly compilation that reconstructs the theories of Damon of Athens, a fifth-century BCE music theorist and sophist closely associated with the statesman Pericles. As no complete treatise by Damon survives, this reconstruction is assembled from quotations and discussions found in later authors, including Plato, Cicero, and Philodemus. The collected fragments argue Damon's central doctrine, known as the ethos theory of music, which posits that specific musical rhythms and harmonies possess an inherent ethical character capable of directly shaping the human soul. He contended that exposure to particular musical modes could instill civic virtues such as courage, moderation, and even justice, thereby making music a potent instrument for moral education and political order within the Athenian city-state.
+
+Interpreted by modern scholars as a significant figure within the Sophistic movement, Damon applied systematic, almost scientific analysis to cultural forms. His theories were designed for legislators and educators seeking to mold ideal citizens, proposing that the state could cultivate virtue through the deliberate regulation of musical practice. Damon's ideas proved profoundly influential, providing the direct philosophical foundation for the extensive musical theories developed by Plato in his Republic and Laws, and later by Aristotle. Through this lineage, Damon established a foundational and enduring link between aesthetics and ethics in Western philosophical thought.
+
 ## Text
 
 ### 1

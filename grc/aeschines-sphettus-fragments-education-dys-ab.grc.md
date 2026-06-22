@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dys-ab` · [HTML page](https://eulogikon.org/works/aeschines-sphettus-fragments-education-dys-ab)
 
+The Fragments on Socrates and Education constitutes a modern scholarly reconstruction of excerpts from a lost Socratic dialogue by Aeschines of Sphettus, a direct disciple of Socrates active in the fourth century BCE. Originally composed in Attic Greek as part of the flourishing genre of Socratic literature, the complete work has not survived. Its content is known only through later citations and references by authors such as Diogenes Laertius, Athenaeus, and Cicero. The extant text, organized into seventeen discrete fragments, represents a compilation from these disparate sources, with no continuous manuscript of the original dialogue in existence.
+
+The surviving passages center on dialogues concerning paideia, the classical Greek concept of holistic education encompassing moral, cultural, and intellectual formation. The fragments depict Socrates employing his characteristic elenctic method of questioning his interlocutors. In one exchange, he probes whether it is necessary for humans to be "unmusical" before becoming "musical," or "without horses" before becoming skilled in horsemanship, illustrating his pedagogical approach of exposing contradictions in conventional wisdom to encourage self-examination and the pursuit of self-knowledge.
+
+Modern interpretation places this work within the competitive literary environment of the early Socratic circle, where various disciples produced accounts to defend and interpret their master's legacy. Aeschines, like other so-called minor Socratics, appears less concerned with presenting formal philosophical doctrines and more focused on portraying Socrates as a unique moral guide and catalyst for ethical improvement. The fragments thus serve as a valuable, albeit partial, witness to the early reception of Socratic thought and the literary efforts to define his role not as a formal teacher, but as an intellectual and ethical provocateur.
+
 ## Text
 
 ### 1 fr a

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `knw-aa` · [HTML page](https://eulogikon.org/works/autocrates-achaean-cults-knw-aa)
 
+The Fragments on Achaean Cults is a lost antiquarian prose work attributed to Autocrates the Historian. It survives only through a handful of brief fragments preserved as quotations in later authors. Based on its title and extant passages, the work documented the religious customs, temples, and cult practices of the Achaean region in the northern Peloponnese. The fragments indicate the work focused on regional cult practices and festivals, temple foundations and their associated myths, and explanations of local religious terminology and divine epithets. One preserved example describes the cult of Demeter Poteriophoros, or Cup-Bearer, in the territory of Antheia. Another recounts a myth in which Zeus transformed himself into a dove out of love for a maiden named Phthia in the city of Aegium. The text is preserved indirectly via citation in two later works: the geographer Pausanias’s Description of Greece and the lexicographer Harpocration’s Lexicon of the Ten Orators. There is no direct manuscript tradition for Autocrates’ original work. Its primary importance lies in its contribution to Pausanias’s description of Greek sanctuaries, thereby preserving specific local Achaean traditions within the broader record of Greek religion. It exemplifies the many lost local histories that served as essential source material for surviving imperial-era syntheses.
+
 ## Text
 
 ### 1.(t)

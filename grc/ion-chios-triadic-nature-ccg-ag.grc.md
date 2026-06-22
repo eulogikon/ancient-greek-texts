@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccg-ag` · [HTML page](https://eulogikon.org/works/ion-chios-triadic-nature-ccg-ag)
 
+On the Triadic Nature of Things, a philosophical prose work by the 5th-century BCE poet and writer Ion of Chios, is known primarily through fragmentary quotations preserved by later authors. The original text, now lost, was composed in Ionic Greek and is sometimes referred to by the title Apospasmata, meaning "Extracts." The surviving passages indicate that the work advanced a cosmological theory based on the fundamental importance of the number three. Ion is reported to have asserted that all things are three in number and that nothing exists beyond or apart from these triadic principles. Later sources attribute to him the identification of these principles as Mind, Matter, and God, suggesting an early systematic attempt to explain the universe's composition through a structured metaphysical scheme. The work also engaged with contemporary intellectual traditions, as it contained the notable claim that the philosopher Pythagoras attributed some of his own doctrines to the mythical poet Orpheus. Written for an educated audience during a period of intense cosmological speculation, the treatise blended theological elements with emerging philosophical inquiry. It stands as a significant, though fragmentary, example of early Greek prose philosophy and doxography, illustrating the broad interdisciplinary interests of Classical literary figures and providing valuable insight into pre-Socratic intellectual currents beyond the works of the most famous philosophers.
+
 ## Text
 
 ### tit,1-2

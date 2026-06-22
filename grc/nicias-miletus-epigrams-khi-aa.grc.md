@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `khi-aa` · [HTML page](https://eulogikon.org/works/nicias-miletus-epigrams-khi-aa)
 
+The Epigrams of Nicias of Miletus constitute a collection of short elegiac poems preserved within the Byzantine-era Greek Anthology. Approximately twenty-eight epigrams are attributed to this Hellenistic figure, who was active during the 3rd century BCE and is noted as both a physician and a friend of the pastoral poet Theocritus. The poems adhere to the conventional themes of the period, encompassing dedicatory verses for votive offerings, funerary epitaphs for humans and animals, erotic subjects, and bucolic reflections that align with his association with Theocritean pastoral poetry. These works survive solely through the manuscript tradition of the Greek Anthology, most notably in the 10th-century Palatine Anthology and the 14th-century Planudean Anthology, with no independent textual transmission. Nicias's historical significance stems largely from his documented connection to Theocritus, which offers valuable context for the literary networks of the Hellenistic era. His epigrams are examined as competent examples of mainstream Hellenistic epigrammatic style, representing participation in the broader poetic culture from outside the dominant Alexandrian sphere.
+
 ## Text
 
 ### book 122.1.1

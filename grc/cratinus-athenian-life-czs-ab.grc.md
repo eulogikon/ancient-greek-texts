@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `czs-ab` · [HTML page](https://eulogikon.org/works/cratinus-athenian-life-czs-ab)
 
+The Comic Fragments on Athenian Life is a modern scholarly compilation of surviving excerpts from the lost comedies of Cratinus, a preeminent poet of Athenian Old Comedy during the fifth century BCE and a notable rival of Aristophanes. His complete plays have not survived antiquity; his legacy endures through several hundred fragments preserved in the quotations of later Greek authors, ancient plot summaries, and papyrus discoveries. These fragments collectively provide invaluable, albeit piecemeal, insight into the plots, humor, and societal critiques that characterized his celebrated works, such as Dionysalexandros and Pytine. Thematically, the fragments reveal Cratinus's hallmark direct political satire, most famously directed at the statesman Pericles, alongside literary and cultural critiques that mocked contemporaries including Aristophanes himself. His comedy was also distinguished by innovative mythological parody, metatheatrical and autobiographical commentary, and sharp observations on Athenian social life and morality.
+
+The transmission of these fragments is entirely indirect. They are primarily found in the works of later grammarians and compilers, most notably Athenaeus, as well as in ancient commentaries and on papyri recovered from Egyptian sites. The definitive modern critical edition for these texts is found in Poetae Comici Graeci (PCG), Volume IV. Cratinus was a seminal figure in the development of Old Comedy, praised in antiquity for his forceful satire and inventive plots. His work established important precedents for political and mythological comedy, directly influencing his successors. Consequently, these fragments are crucial for reconstructing the evolution of Athenian comic drama in the period before the surviving works of Aristophanes.
+
 ## Text
 
 ### book 1.1

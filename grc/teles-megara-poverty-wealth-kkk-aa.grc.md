@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kkk-aa` · [HTML page](https://eulogikon.org/works/teles-megara-poverty-wealth-kkk-aa)
 
+On the Comparison of Poverty and Wealth is a philosophical discourse by Teles of Megara, a teacher in the Cynic tradition active in the 3rd century BCE. Written in Koine Greek, the work is a prime example of the diatribe, a genre of moral exhortation characterized by its lively, sermon-like style and often structured as an imagined dialogue. Teles mounts a vigorous argument for the moral and practical superiority of poverty over wealth, championing core Cynic and Stoic ideals such as self-sufficiency, freedom from desire, and the cultivation of virtue independent of external circumstances. The complete text is lost; our knowledge derives from two substantial excerpts preserved in the 5th-century CE anthology of Stobaeus. These fragments reveal Teles employing classic diatribal techniques, including rhetorical questions and appeals to exemplary figures like Socrates and Diogenes the Cynic, to demonstrate that poverty fosters resilience and philosophical leisure, whereas wealth breeds distraction, vice, and anxiety. The work is considered a significant artifact of popular Hellenistic moral philosophy, intended not for specialists but for students or a general audience seeking practical ethical guidance. Its central thesis holds that true wealth is found in virtue and inner freedom, while material riches ultimately enslave and corrupt.
+
 ## Text
 
 ### 45 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eec-aa` · [HTML page](https://eulogikon.org/works/cephisodorus-comic-xanthias-luxury-eec-aa)
 
+The Fragments on Xanthias and Luxury are a collection of seventeen passages from a lost comedy by the poet Cephisodorus, who is generally placed within the tradition of Middle or New Comedy. The title suggests a plot centered on the stock slave character Xanthias and themes of excessive living, or tryphē. These fragments, preserved primarily for their linguistic and cultural references, offer glimpses into a play that engaged with characteristic comic themes of luxury and social critique. The extant lines include mentions of specific foods, perfumes, and footwear, alongside dialogue that satirizes lavish consumption and domestic dynamics, as seen in a character's mockery of another's desire for fine ointments and sandals.
+
+The work survives exclusively through quotations by later grammarians and lexicographers. The primary sources are Athenaeus’s Deipnosophistae, which cites it for references to banqueting practices, and the lexicon of Hesychius, which uses it to gloss rare words. The fragments are collected in modern scholarly editions such as Poetae Comici Graeci. While the play's direct literary influence is untraceable, it exemplifies the thematic evolution in Middle Comedy away from direct political satire and toward a more generalized critique of social morals and domestic life, a transition that helped pave the way for the conventions of New Comedy and its subsequent impact on Roman and later European theatrical traditions.
+
 ## Text
 
 ### book 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqs-af` · [HTML page](https://eulogikon.org/works/antiphon-athens-tetralogy-c-bqs-af)
 
+_Tetralogy C_ is a model forensic oration composed by the Athenian logographer Antiphon in the late fifth century BCE. It forms the third in a set of four instructional works known collectively as the Tetralogies, each of which presents a hypothetical homicide case through two paired speeches for the prosecution and two for the defense. The case in this tetralogy concerns a man accused of deliberately killing another with a thrown javelin during a gymnasium training session. The opposing speeches systematically argue whether the act constituted premeditated murder or an unavoidable accident, exploring issues of intent, probability, and circumstantial evidence.
+
+The work survives complete and is structured as twenty-nine continuous passages of Attic Greek prose. It was designed as a pedagogical tool for students of rhetoric, exemplifying how to construct persuasive legal arguments for the Athenian homicide courts. The speeches demonstrate foundational techniques of early forensic oratory, emphasizing argument from likelihood, the assessment of motive, and the strategic interpretation of ambiguous facts. Modern scholarship regards Antiphon’s Tetralogies as seminal rhetorical exercises from the Classical period, offering crucial insight into the sophisticated methods of argumentation taught and practiced in Athenian legal culture. They remain an essential resource for understanding the development of Greek judicial oratory before its full flowering in the works of Lysias, Isocrates, and Demosthenes.
+
 ## Text
 
 ### Tetr 3 t 1

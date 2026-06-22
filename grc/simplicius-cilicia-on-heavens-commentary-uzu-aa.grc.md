@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uzu-aa` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-on-heavens-commentary-uzu-aa)
 
+Simplicius of Cilicia’s Commentary on Aristotle’s On the Heavens is an extensive line-by-line exegesis of Aristotle’s cosmological treatise, composed in Attic Greek during the 530s CE. Encompassing all four books of Aristotle’s work, which examine the nature of the celestial realm, its motion, and the sublunary elements, the commentary functions as a sophisticated synthesis of prior interpretive traditions. Simplicius engages meticulously with earlier authorities, most prominently Alexander of Aphrodisias and the Christian philosopher John Philoponus, while incorporating Platonic and Stoic concepts to articulate a coherent Neoplatonic reading of Aristotle. The work is fundamentally polemical, constituting a robust defense of Aristotelian and Platonic cosmology against contemporary challenges. Modern scholarship interprets it as a direct rebuttal to Philoponus’s arguments for the temporal creation and perishability of the universe, with Simplicius aiming to uphold the pagan philosophical doctrine of the world’s eternity and to demonstrate the essential harmony between the systems of Plato and Aristotle. Transmitted in full through medieval Greek manuscripts, the oldest of which dates to the 13th or 14th century, the commentary is an invaluable historical source due to its preservation of extensive quotations from earlier, now-lost philosophical works.
+
 ## Text
 
 ### in Cael 7 1 (1T)

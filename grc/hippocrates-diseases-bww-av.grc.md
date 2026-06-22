@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-av` · [HTML page](https://eulogikon.org/works/hippocrates-diseases-bww-av)
 
+On Diseases I–III is a group of three practical medical treatises from the Hippocratic Corpus, a collection of Greek medical works dating from the late fifth and fourth centuries BCE traditionally associated with Hippocrates of Cos. Written in Ionic Greek, these instructional texts function as systematic manuals for the practicing physician. They offer detailed, empirical descriptions of numerous internal diseases, methodically cataloging their presumed causes, observed symptoms, and recommended therapeutic regimens. The approach is resolutely naturalistic, attributing illness to factors such as diet, environment, and bodily imbalances rather than to divine or supernatural intervention.
+
+The three treatises, comprising 125 individual sections, present a coherent yet not entirely uniform body of knowledge. Scholarly analysis suggests that On Diseases I and III share a close stylistic and doctrinal affinity, while On Diseases II exhibits distinct characteristics, likely indicating composition by a different author within the same broad Hippocratic tradition. Their practical, organized nature indicates they were designed as reference guides or teaching tools for physicians during a period when Greek medicine was developing into a specialized technical discipline.
+
+Preserved in full through the medieval manuscript tradition of the Hippocratic writings, these treatises were profoundly influential in the history of Western medicine. They helped establish a lasting model of clinical observation, systematic classification, and rational therapy based on natural principles. This model formed a core part of the Hippocratic legacy, extensively studied and commented upon by later medical authorities, most notably Galen, and shaped medical thought for centuries.
+
 ## Text
 
 ### 1 t

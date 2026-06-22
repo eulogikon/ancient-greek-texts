@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kic-aa` · [HTML page](https://eulogikon.org/works/echephylidas-proper-names-kic-aa)
 
+The work Fragments on Proper Names by the historian Echephylidas is known only through three brief fragments preserved as quotations within the later lexicographical work On Cities and Their Illustrious Men by Herennius Philo of Byblos. The text was a historical and lexicographical compilation focused on the origins and meanings of proper names. The surviving fragments demonstrate an onomastic and antiquarian focus, including the etymology and mythological associations of the names Mopsus and Mopsuhestia, as well as a biographical notation concerning the poet Antipater. The work is otherwise entirely lost, with no independent manuscript tradition; its survival depends entirely on these quotations, and its original length, full contents, and structure are unknown. These fragments exemplify the granular, scholarly compilations of the Hellenistic period. Their significance lies primarily in their preservation by Philo, through which they contributed indirectly to the stream of antiquarian knowledge transmitted to later Greco-Roman scholars. The work has no attested reception history beyond this single citation.
+
 ## Text
 
 ### 4b

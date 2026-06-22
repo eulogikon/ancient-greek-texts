@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ai` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-history-mmg-ai)
 
+On the History of Alexander is an anonymous collection of 28 excerpts pertaining to Alexander the Great. It does not constitute a continuous historical narrative but rather a compilation of fragments, likely assembled by a later scholar or epitomator drawing from earlier, now-lost accounts within the extensive Alexander historiographic tradition. The precise origin of the collection, whether it is a Byzantine, medieval, or modern compilation, remains undetermined. The passages cover standard themes from Alexander historiography, including military campaigns and major battles, political administration and imperial governance, Alexander’s personal character and conduct, cultural interactions and geographical descriptions of conquered territories, and the circumstances of his death. If ancient or medieval, the collection would have been transmitted through manuscript copying, potentially within Byzantine codices. If a modern scholarly compilation, it represents an edited corpus of fragments gathered from the works of later historians, lexicographers, and commentators to reconstruct lost primary sources. As a collection of fragments, its significance is indirect but crucial, serving as a vital conduit for preserving evidence from historians whose works have not survived. Such compilations are foundational for modern scholarship, enabling the reconstruction of early Alexander historiography and the analysis of the varied and often conflicting perspectives on his life and legacy.
+
 ## Text
 
 ### 2b,153,T 1

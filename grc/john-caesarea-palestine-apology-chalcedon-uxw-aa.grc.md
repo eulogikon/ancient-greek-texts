@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxw-aa` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-apology-chalcedon-uxw-aa)
 
+The Apology of the Council of Chalcedon is a theological treatise composed in Greek by John of Caesarea, also known as John the Grammarian, around 515–518 CE. This work of Christian apologetics defends the Christological definition promulgated by the Council of Chalcedon in 451, which affirmed the doctrine of Christ as one person subsisting in two distinct natures, divine and human. Structured as a series of systematic arguments, the treatise directly addresses and refutes the objections of theological opponents who rejected the council's formula. Only fragments of the original text survive, preserved primarily in later theological florilegia; the work is known through six substantial excerpts that are believed to encapsulate its principal logical and doctrinal content. Composed during a period of intense ecclesiastical conflict, John's aim was to demonstrate that the Chalcedonian position was not an innovation but stood in full continuity with the teachings of the earlier Church Fathers. Modern patristic scholarship identifies the Apology as a seminal document of the "neo-Chalcedonian" theological movement, which sought to harmonize doctrinal terminology and bridge divisions within the early Byzantine church. Written for an audience of educated clergy and monastics engaged in these disputes, the treatise employs precise philosophical and grammatical analysis to clarify essential theological concepts such as substance, nature, and person, thereby striving to provide a coherent intellectual foundation for orthodox belief.
+
 ## Text
 
 ### [45]

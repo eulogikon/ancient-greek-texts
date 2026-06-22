@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ola-aa` · [HTML page](https://eulogikon.org/works/polemon-lao-testimony-fragments-ola-aa)
 
+The Testimony and Fragments attributed to Polemon of Laodicea constitute a modern scholarly compilation of surviving excerpts from the works of this second-century CE sophist and geographer. These brief prose fragments, preserved by later compilers, are characteristic of Imperial periegetic literature, offering descriptive accounts of the Greek world. The content reflects the core themes of Polemon’s antiquarian scholarship, focusing on topography and monuments such as cities and acropolises, catalogues of votive offerings, statues, and paintings often accompanied by their inscriptions, and notes on distinctive local customs and associated historical anecdotes.
+
+Polemon’s original works are lost, and these fragments survive only through quotation in later sources, primarily the Byzantine encyclopedia known as the Suda and the works of the lexicographer Hesychius of Miletus. Renowned in antiquity for his meticulous research into inscriptions and dedications, Polemon served as a key source for later authors such as Pausanias and Athenaeus. Consequently, the collected fragments remain critically important for modern studies of Imperial Greek topography, art history, and epigraphy, providing invaluable, albeit fragmentary, insights into the cultural landscape of the period.
+
 ## Text
 
 ### test

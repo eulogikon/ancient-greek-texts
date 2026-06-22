@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhi-aa` · [HTML page](https://eulogikon.org/works/anon-lexicographer-ii-scriptures-christ-birth-uhi-aa)
 
+The anonymous lexicographical work Words in the Scriptures-Christ's Birth is a grammatical treatise focused on the vocabulary found within the Biblical narratives of Christ's nativity. It systematically examines terms and phrases drawn from twenty-eight specific scriptural passages, providing definitions, grammatical commentary on their Koine Greek usage, and exegetical notes intended to clarify the meaning of the sacred texts. Operating within the early Christian tradition of applying philological scholarship to scripture, the work exemplifies the effort to create systematic tools for the study of Biblical Greek. Such grammatical aids were foundational for later scriptural commentary, theological education, and homiletic preparation. The treatise's manuscript tradition and edition history are not documented in major academic repositories or standard reference sources for classical and patristic literature. Its survival is noted only in catalogues of anonymous works, with no verified extant copies or fragments currently identified.
+
 ## Text
 
 ### alpha 58 (1t)

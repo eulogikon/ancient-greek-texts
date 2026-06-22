@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ac` · [HTML page](https://eulogikon.org/works/plato-hippias-ffk-ac)
 
+The Greater Hippias is a Socratic dialogue attributed to Plato, depicting a philosophical conversation between Socrates and the renowned sophist Hippias of Elis. The dialogue is structured as an inquiry into the nature of "the fine" or "the beautiful," a concept central to Greek ethical and aesthetic thought. Socrates engages Hippias in a search for a universal definition of this quality, systematically examining and refuting a series of proposals offered by the sophist. These proposals, which range from identifying the fine with a suitable maiden or gold to defining it as appropriateness or beneficial pleasure, are each shown to be inadequate or contradictory. The discussion ultimately concludes in a state of aporia, or philosophical impasse, without arriving at a satisfactory definition.
+
+This methodological investigation serves a broader critical purpose. The dialogue dramatizes a fundamental contrast between Socratic dialectic and sophistic epistemology. Hippias, presented as a confident polymath and successful professional teacher, represents a model of knowledge based on the accumulation of facts and rhetorical prowess. Socrates, through his persistent elenchus, or cross-examination, demonstrates the philosophical priority of seeking the essential definition of a concept over merely citing its particular instances or conventional associations. The work thus functions as a critique of sophistic claims to wisdom, highlighting the distinction between true understanding and persuasive display.
+
+The dialogue's place within the Platonic corpus has been contested since antiquity, with scholars divided on its authenticity. Some accept it as a genuine early work of Plato, while others consider it a later product of his Academy, perhaps composed as an illustrative exercise in dialectical method. Regardless of its authorship, the Greater Hippias holds significance for the history of philosophy. Its portrayal of Hippias became a canonical representation of the sophist in subsequent literature. Furthermore, the dialogue offers an early and focused examination of the challenges involved in philosophical definition and contributes to the development of aesthetic and ethical theory by rigorously questioning a foundational concept of Greek culture.
+
 ## Text
 
 ### HpMa.281.a

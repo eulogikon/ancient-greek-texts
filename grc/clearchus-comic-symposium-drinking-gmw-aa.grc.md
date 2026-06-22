@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gmw-aa` · [HTML page](https://eulogikon.org/works/clearchus-comic-symposium-drinking-gmw-aa)
 
+The Symposium and Drinking Fragments constitute a collection of eighteen verse excerpts attributed to the Athenian comic poet Clearchus. Preserved through quotation by later authors, primarily Athenaeus in his Deipnosophistae, these fragments depict scenes from lost comedies centered on banquets and drinking parties. They illustrate typical comic themes rooted in sympotic culture, including the rituals and revelry of the drinking party, social satire mocking hosts, guests, and entertainers, and commentary on food, wine, and gluttony. The excerpts also feature portrayals of stock characters such as the parasite and the drunkard. No complete manuscript of Clearchus’s work survives; the fragments exist solely through indirect transmission, having been compiled from citations in later antiquarian sources, notably Athenaeus, who flourished in the late second or early third century CE. Modern standard editions systematically collect these references. These fragments contribute to the understanding of Old Comedy beyond its major surviving playwrights. They provide valuable evidence for reconstructing lost plays and serve as a source for ancient social history, particularly the cultural practices of the Athenian symposium.
+
 ## Text
 
 ### book 1

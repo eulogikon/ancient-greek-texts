@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqs-ab` · [HTML page](https://eulogikon.org/works/antiphon-athens-murder-herodes-bqs-ab)
 
+On the Murder of Herodes is a forensic defense speech composed by the Athenian logographer Antiphon, dating to the period between 419 and 411 BCE. Written in Attic Greek, it is one of six surviving orations from this pioneering figure in rhetoric. The speech was crafted for a client named Euxitheus, a resident alien from Mytilene, who stood accused of murdering an Athenian named Herodes. The case centered on Herodes's disappearance during a shared sea voyage, with the prosecution relying substantially on circumstantial evidence such as bloodstains. The text survives in a fragmentary condition, organized into 85 sections in modern editions. Within these, Antiphon systematically deconstructs the prosecution's arguments, emphasizes procedural irregularities in the legal process, and proposes alternative scenarios for Herodes's fate.
+
+Composed during the Peloponnesian War, the speech engages deeply with the period's political tensions. Antiphon argues that his client faces prejudice due to his origin from Mytilene, a city recently subjugated by Athens. A central theme is the alleged impropriety of the trial's conduct, contending it was improperly moved outside the traditional and solemn homicide courts. The oration is regarded as a foundational work in forensic technique, demonstrating early mastery of rhetorical strategies such as argument from probability and careful narrative construction, which would profoundly influence later orators. Its transmission through medieval manuscripts is occasionally complicated by historical confusion between Antiphon the logographer and a contemporary namesake, but the work is universally accepted as genuine.
+
 ## Text
 
 ### Caed Her t

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pzk-aa` · [HTML page](https://eulogikon.org/works/secundus-life-pzk-aa)
 
+The Life of Secundus is a brief philosophical biography composed in Koine Greek, likely during the second century CE. Its author remains anonymous. The work recounts the legendary tale of Secundus the Silent, a philosopher who adopts a lifelong vow of silence after a formative personal crisis. According to the narrative, Secundus, sent away for education as a youth, returns to his homeland as an adult disguised as a Cynic ascetic. Having heard the adage that all women are promiscuous, he devises a test for his own mother, whom his family does not recognize. He bribes a servant to arrange a secret nocturnal meeting, and his mother agrees to the assignation for payment. This confirmation of her infidelity, and by extension the truth of the maxim, leads Secundus to renounce speech entirely.
+
+The central episode of the fable occurs when the philosopher is brought before the Emperor Hadrian. Commanded to speak and threatened with execution for his refusal, Secundus maintains his vow without flinching. Impressed by this unwavering integrity, Hadrian relents and instead presents the philosopher with twenty written questions on philosophical and natural topics. Secundus provides his answers in writing, producing a series of concise, catechistic responses that form the second half of the work. These questions and answers cover subjects such as the nature of the cosmos, life, death, and human virtue.
+
+The text is not a historical document but a moral fable reflecting the popular philosophical interests of the Roman Imperial era. It functions as a model of philosophical constancy, illustrating the ideal of maintaining one's principles even under the direct pressure of imperial authority. Its simple question-and-answer format served to disseminate basic ethical and cosmological knowledge to a broad audience, including students. The Life of Secundus achieved remarkable popularity in subsequent centuries, particularly during the medieval period. It survives in over one hundred Greek manuscripts and was translated into Syriac, Armenian, Arabic, and Ethiopic, ensuring its influence on later Christian ascetic and educational traditions.
+
 ## Text
 
 ### 68 (t)

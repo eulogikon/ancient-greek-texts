@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gpy-aa` · [HTML page](https://eulogikon.org/works/euagon-samian-legends-gpy-aa)
 
+The Fragments on Samian Legends is a lost prose work by the early historian Euagon of Samos, surviving only in brief citations by later ancient authors. These fragments preserve local mythological and early historical traditions pertaining to the island of Samos, representing an important example of early Greek local historiography, or horography. The extant passages record several distinct Samian traditions, including the mythological ruler Ancaeus, a son of Zeus or Poseidon; a reference to a Samian named Brysus or Bryson in a context concerning luxury; and a note on the Samian cult of Hera that may involve a ritual prohibition. The work is transmitted exclusively through quotations in the geographer Strabo and the scholar Athenaeus. Euagon’s compilation served to articulate Samian identity by linking the island to a heroic past and broader Greek mythological cycles, such as the Argonaut saga through the figure of Ancaeus. The fragments offer valuable, otherwise unattested insights into Samian foundation myths and religious practices, establishing Euagon as an early authoritative source on the island's antiquities for both subsequent ancient writers and modern scholarship.
+
 ## Text
 
 ### 1

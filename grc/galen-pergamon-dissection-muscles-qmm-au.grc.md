@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-au` · [HTML page](https://eulogikon.org/works/galen-pergamon-dissection-muscles-qmm-au)
 
+On the Dissection of Muscles for Beginners is a concise medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. Written as a practical manual for medical students, it provides a systematic, step-by-step guide to the dissection of muscles, proceeding methodically from the most superficial layers to the deepest. The text is organized into 101 succinct passages, each detailing a specific incision or the identification of a particular muscle, with a strong emphasis on hands-on procedure and the appropriate use of surgical tools. Galen composed the work during his tenure at the Roman imperial court with the aim of standardizing anatomical instruction. Given the rarity of human dissection in Roman society, it is presumed the manual was intended for use on animal specimens such as apes or pigs. The complete text survives through medieval Greek manuscripts and exerted considerable influence for over a millennium, having been translated into Arabic and later into Latin. It served as a foundational surgical guide in both Islamic and European medicine until the Renaissance. Modern scholarship interprets the treatise as a reflection of Galen's commitment to empirical methodology and pedagogical clarity, forming part of his larger corpus of introductory anatomical texts.
+
 ## Text
 
 ### 18b 926 (t1)

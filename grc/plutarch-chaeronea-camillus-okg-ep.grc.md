@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ep` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-camillus-okg-ep)
 
+Plutarch’s Life of Camillus forms part of his Parallel Lives, a series of paired biographies composed in Greek during the early second century CE. It chronicles the career of the early Roman hero Marcus Furius Camillus, whose achievements include the decade-long siege and capture of the Etruscan city of Veii and the defense and restoration of Rome following the Gallic invasion of the fourth century BCE. The narrative, structured into 204 sections, proceeds chronologically, detailing Camillus’s five dictatorships, his wrongful exile on charges of embezzlement, his dramatic recall to save the city from the Gauls, and his eventual honorific title as a second founder of Rome. Plutarch’s approach is that of a moral philosopher rather than a mere historian; he uses the historical example to examine character and virtue. The biography explores themes of leadership, piety, and civic duty, emphasizing the role of divine favor in human success and the proper conduct in the face of political injustice. It is explicitly paired with the Life of Themistocles, inviting a comparative study of a Roman and a Greek savior-figure. Preserved through medieval Greek manuscripts, the text was widely translated during the Renaissance, securing Camillus’s story as a enduring model of republican virtue and resilience.
+
 ## Text
 
 ### Cam t 1

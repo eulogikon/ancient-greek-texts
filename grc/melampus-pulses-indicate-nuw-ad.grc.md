@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nuw-ad` · [HTML page](https://eulogikon.org/works/melampus-pulses-indicate-nuw-ad)
 
+_On What Pulses Indicate in Each Part_ is a short divinatory treatise pseudepigraphically attributed to the mythical seer Melampus. It represents the practice of palmonancy, the interpretation of involuntary bodily twitches as omens. The text systematically lists seventy-seven correlations between a pulse in a specific body part and a prediction, moving in an orderly fashion from the head to the feet. Its interpretations link physical sensations to future events, such as a pulse in the right eyebrow signifying joy or one in the left heel portending a journey. The predictions cover a range of everyday personal concerns including travel, financial gain, news, social encounters, and emotional states. The treatise survives intact within the corpus of Greek pseudepigrapha on divination. It is preserved in medieval manuscripts alongside other technical works, such as dream manuals, reflecting its transmission from antiquity through the Byzantine period. As a key source for understanding popular, non-institutional divination in the Greco-Roman world, the text illustrates the breadth of ancient mantle practices beyond formal oracles and reflects contemporary beliefs about the human body as a medium for supernatural signs.
+
 ## Text
 
 ## ΜΕΛΑΜΠΟΔΟΣ ΠΕΡΙ ΠΑΛΜΩΝ ΤΙ ΣΗΜΑΙΝΟΥΣΙΝ ΕΝ ΕΚΑΣΤΩ ΜΕΡΕΙ. Κεφαλῆ τρίχες: ἐὰν σταθῶσιν ὀρθαί, ἐπιβουλὴν σημαίνει.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ore-aa` · [HTML page](https://eulogikon.org/works/seguerianus-anon-rhetoric-ore-aa)
 
+The Rhetorical Art is an anonymous Greek handbook on public speaking from the Roman Imperial period, likely composed around 200 CE. Written in Attic Greek, this systematic guide to rhetoric is structured into 154 sections and survives complete in a single known manuscript from the 14th century, where it is spuriously attributed to a "Sergius" or "Seguerianus"; modern scholarship therefore refers to its author as Anonymous Seguerianus. The work methodically covers the core principles of the art, beginning with definitions of rhetoric and its three main types—deliberative, judicial, and ceremonial. It proceeds to detail the traditional parts of a speech, namely the introduction, narration, proof, and conclusion, and explores advanced topics such as stasis theory for identifying the central issue of a dispute, common argumentative strategies, and elements of style.
+
+Composed during the cultural revival known as the Second Sophistic, the handbook was intended as a practical textbook for students and teachers in rhetorical schools. Scholars interpret it as a valuable compilation of earlier Hellenistic theories, showing a strong dependence on systems like that of Hermagoras of Temnos. As such, it provides a clear window into the highly technical and formalized state of rhetorical education for the Greco-Roman elite, preserving a concise synthesis of doctrinal principles that governed the composition and delivery of political and forensic oratory.
+
 ## Text
 
 ## ΑΝΩΝΥΜΟΥ [Κορνούτου Graeveni] ΤΕΧΝΗ ΡΗΤΟΡΙΚΗ. ΤΕΧΝΗ ΤΟΥ ΠΟΛΙΤΙΚΟΥ ΛΟΓΟΥ. ΠΕΡΙ ΠΡΟΟΙΜΙΩΝ.

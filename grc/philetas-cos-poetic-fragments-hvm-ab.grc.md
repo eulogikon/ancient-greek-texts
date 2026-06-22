@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvm-ab` · [HTML page](https://eulogikon.org/works/philetas-cos-poetic-fragments-hvm-ab)
 
+The Poetic Fragments of Philetas of Cos constitute the extant remains of a seminal early Hellenistic poet and scholar from the late fourth and early third centuries BCE. Written in literary Ionic Greek, these 46 brief passages, preserved solely through quotation by later ancient authors, are believed to derive from at least two major compositions: Demeter, a narrative elegy likely concerning the goddess’s search for Persephone, and Hermes, a hexameter poem possibly detailing the god’s youthful exploits. Additional fragments indicate he also composed personal erotic verse addressed to a woman named Bittis. Philetas, who served as tutor to Ptolemy II Philadelphus in Alexandria, represents a crucial transitional figure who merged poetic artistry with philological erudition. His work, frequently cited in antiquity for its rare and precise diction, is thought to have interwoven mythological narrative with subjective emotional themes. This synthesis profoundly influenced the subsequent generation of Alexandrian poets, most notably Callimachus, and helped establish the learned, allusive aesthetic that characterized Hellenistic poetry. The fragments survive exclusively through the indirect transmission of grammarians, anthologists, and commentators who prized his exemplary language and content.
+
 ## Text
 
 ### book 1.1

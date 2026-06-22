@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-aa` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-weather-signs-ljk-aa)
 
+On Signs of Waters, Winds, Storms, and Fair Weather is a concise meteorological treatise attributed to the philosopher Theophrastus of Eresus. Composed in Attic Greek during the early Hellenistic period, likely in the late fourth or early third century BCE, the work functions as a practical catalog of 114 observable signs for predicting weather. It systematically organizes indicators drawn from bodies of water, wind patterns, animal behavior, and celestial phenomena. Rather than presenting abstract theory, the treatise represents an empirical application of Peripatetic natural philosophy, compiled for the practical benefit of farmers and sailors. The text survives in full within the manuscript tradition of Theophrastus's minor works, and its authenticity is widely accepted by modern scholars, who regard it as a genuine product of his school's project to collect and systematize knowledge of the natural world. It was likely written to compile and validate traditional weather lore within a framework of causal explanation. The work proved influential over many centuries, serving as a key source for later Roman and Byzantine writers on agriculture and natural history, including Pliny the Elder.
+
 ## Text
 
 ### 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-aw` · [HTML page](https://eulogikon.org/works/aristides-orator-well-asclepius-qwm-aw)
 
+To the Well of Asclepius is a sacred oration composed in Attic Greek by the Roman-era orator Aelius Aristides around 170 CE. It functions as a prose hymn to the healing god Asclepius, commemorating the dedication of a new well within the god’s sanctuary at Pergamum. The work artfully blends personal autobiography with public celebration, as Aristides offers thanks for his own recovery from prolonged illness while simultaneously describing the sanctuary’s construction and the rituals performed there. Structured in five distinct sections, the oration serves a dual purpose as both a formal dedicatory speech for the architectural feature and a personal testament to the god’s benevolence. It was composed for delivery at the Asclepieion of Pergamum, a major ancient healing center, before an audience of fellow worshippers, pilgrims, and local notables. The text is a prime exemplar of the literary and cultural movement known as the Second Sophistic, wherein educated Greek intellectuals employed sophisticated classical rhetoric to articulate profound personal religious devotion. It provides invaluable, detailed testimony concerning the practices of ancient medical pilgrimage and the incubation rituals central to the cult of Asclepius. The oration has survived intact through medieval manuscript tradition and is preserved within Aristides’ complete corpus of orations.
+
 ## Text
 
 ### 252

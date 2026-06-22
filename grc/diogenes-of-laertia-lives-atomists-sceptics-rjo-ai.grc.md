@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ai` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-atomists-sceptics-rjo-ai)
 
+Book IX spans atomist and sceptic traditions and juxtaposes sharply different philosophical methods. By collecting lives, sayings, and doctrinal summaries for figures such as Heraclitus and Democritus, Diogenes preserves a comparative archive of competing explanatory strategies.
+
 ## Text
 
 ### Vit.9.1

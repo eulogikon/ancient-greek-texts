@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-bd` · [HTML page](https://eulogikon.org/works/plato-sophist-ffk-bd)
 
+The Sophist is a philosophical dialogue by Plato, forming a trilogy with the Theaetetus and the Statesman. It is a direct sequel to the Theaetetus, featuring Socrates, Theodorus, Theaetetus, and the Eleatic Stranger as the primary interlocutor. The dialogue’s core project is to define the sophist through the method of division, a pursuit that leads to profound metaphysical investigations into non-being and falsehood. The definitional inquiry characterizes the sophist as a creator of illusions and a practitioner of contradiction. This endeavor necessitates a groundbreaking analysis of the problem of non-being, arguing that it exists not as absolute nothingness but as difference. This metaphysical framework is then employed to defend the logical possibility of false statements and false beliefs, resolving a central philosophical puzzle. The argument involves an examination of the interrelation of the greatest kinds or forms: Being, Rest, Motion, Same, and Different, and explores the nature of image-making. The dialogue survives complete within the medieval manuscript tradition of Plato’s works, with its text primarily dependent on the ninth-century Clarke codex. The Sophist has profoundly influenced metaphysics, logic, and semantics. Its analysis of non-being and the interweaving of forms informed Aristotle’s logic and remained pivotal for medieval and modern philosophy. It is a key text for distinguishing philosophy from sophistry and for defending the coherence of false speech.
+
 ## Text
 
 ### Soph.216.a

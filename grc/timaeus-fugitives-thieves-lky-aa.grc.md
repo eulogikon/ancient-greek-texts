@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lky-aa` · [HTML page](https://eulogikon.org/works/timaeus-fugitives-thieves-lky-aa)
 
+The Fragments on Fugitives and Thieves is a lost treatise attributed to Timaeus the Astronomer, a writer of the Hellenistic or Roman Imperial period. Known only by its title from later Byzantine bibliographies and lexica, the work is classified within the domain of applied science. Its subject indicates a specialized application of catarchic astrology, a branch concerned with electing auspicious moments for initiating specific actions. In this case, the treatise would have provided astrological rules and astronomical calculations for determining the most favorable times to pursue fugitives or to attempt the recovery of stolen property. The work’s transmission is limited to its mention as a title in later sources; no direct quotations or manuscript fragments survive. Its recorded existence, however, signifies the extent to which technical astronomy and astrological doctrine were employed in antiquity to address practical societal and legal concerns, reflecting a broader tradition of Hellenistic scientific literature aimed at mundane problem-solving.
+
 ## Text
 
 ### 1.97.(1t)

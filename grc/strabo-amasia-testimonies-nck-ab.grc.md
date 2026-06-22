@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nck-ab` · [HTML page](https://eulogikon.org/works/strabo-amasia-testimonies-nck-ab)
 
+The Testimonies attributed to Strabo of Amasia is not an independent ancient work. Strabo’s sole surviving major composition is the Geographica, a comprehensive 17-book geographical encyclopedia written during the reign of Tiberius and intended for a practical audience of statesmen and generals. The attribution of a work titled Testimonies likely refers to modern scholarly collections of excerpts presented as testimonia drawn from the Geographica, rather than to a lost ancient treatise. Any such collection would derive its content entirely from Strabo’s magnum opus, reflecting its core themes: the descriptive and political geography of the Roman Empire and adjacent regions; the integration of geographical knowledge with history and ethnography; critiques and syntheses of earlier authorities like Eratosthenes and Polybius; and arguments for the utility of such knowledge for governance and military command.
+
+The text of the Geographica itself survives nearly complete. Though it received little attention in antiquity, it was preserved and became influential in the Byzantine era, with the earliest extant manuscripts dating from the late 10th century. There exists no separate manuscript tradition for a work titled Testimonies. The significance of any passages labeled as such is inherently tied to the enduring importance of the Geographica, which became a foundational geographical text for Byzantine and later Renaissance scholars. Its detailed descriptions continue to provide invaluable evidence for historical and archaeological study of the ancient world.
+
 ## Text
 
 ### 2a,91,T 1

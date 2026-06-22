@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mbw-ab` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-exhortation-b-mbw-ab)
 
+_Exhortation B_ is one of two surviving rhetorical exercises attributed to the sophist Lesbonax of Mytilene. This model speech, intended to exhort an audience, exemplifies the sophistic techniques and Attic style characteristic of the Imperial period. The text survives in a fragmentary state across fourteen passages and is structured as a progymnasmata exercise, a preliminary rhetorical training piece designed to encourage the pursuit of virtue or philosophy. As a protreptic, its thematic content is drawn from the conventions of the genre, focusing on the pursuit of virtue, the value of education and rhetorical skill, and standard moral and civic topics suitable for declamation, all while demonstrating a studied Attic stylistic virtuosity. The works of Lesbonax are poorly preserved, with only _Exhortation A_ and _B_ extant. Their fragmentary condition suggests they were transmitted not through complete editions of his work but via later anthologies or manuscript traditions that collected examples of sophistic rhetoric for pedagogical use. The work's significance lies in its documentation of second-tier sophistic activity during the era known as the Second Sophistic. Its preservation indicates it was valued as a teaching model for the protreptic form, though Lesbonax's influence remained more professional than literary, centered on his role as a teacher in Mytilene and his noted rivalry with the sophist Secundus of Athens.
+
 ## Text
 
 ### 1

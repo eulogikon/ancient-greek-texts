@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-aq` · [HTML page](https://eulogikon.org/works/lysias-against-alcibiades-ejc-aq)
 
+Against Alcibiades for Desertion is a forensic prosecution speech composed by the Attic orator Lysias around 395 BCE. Written for a client to deliver in court, the speech accuses Alcibiades, the son of the famous Athenian general of the same name, of the grave military offense of desertion. The text survives only in a fragmentary state, preserved in approximately thirty-seven excerpts that were quoted by later ancient and Byzantine scholars, primarily for their notable vocabulary and rhetorical style rather than as a complete oration.
+
+The extant portions reveal a strategy of character assassination, contrasting the defendant's alleged cowardice with the notorious and turbulent public career of his father. This approach is interpreted by modern scholars as a deliberate rhetorical device, leveraging the father's controversial legacy to suggest a shameful hereditary flaw in the son. The case was brought during the Corinthian War, a period of renewed Athenian military engagement, and the speech serves as a vivid testament to the intense social and legal pressures surrounding military obligation and familial reputation in classical Athens.
+
 ## Text
 
 ### Or14 t

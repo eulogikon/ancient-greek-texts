@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fci-af` · [HTML page](https://eulogikon.org/works/hypereides-legal-cases-fci-af)
 
+The Fragments on Legal Cases is a modern scholarly compilation of 284 passages attributed to the Athenian orator Hypereides, a 4th-century BCE logographer and contemporary of Demosthenes. These fragments derive from his various lost forensic and political speeches, reconstructed from ancient quotations and, most significantly, from papyri discovered in Egypt since the late 19th century. These papyrus finds, which include substantial portions of speeches like Against Athenogenes and For Euxenippus, provide the primary continuous texts of his oratory. The fragments reflect Hypereides’ practice in Athenian jury courts and the Assembly, covering forensic argumentation, political conflict—often advocating Athenian resistance to Macedonian power—persuasive characterization, vivid narrative, and rhetorical wit. Hypereides’ works, unlike those of other canonical Attic orators, were largely lost after antiquity and preserved only in scattered quotations. Their modern recovery is due to papyri from Egypt, which restored him as a major literary figure. Canonized as one of the Ten Attic Orators, Hypereides was praised in antiquity for his stylistic purity and persuasive skill. The rediscovery of his speeches has profoundly impacted classical scholarship, offering direct evidence for the diversity of Athenian legal practice, political rhetoric, and oratorical style in the late Classical period.
+
 ## Text
 
 ### 1

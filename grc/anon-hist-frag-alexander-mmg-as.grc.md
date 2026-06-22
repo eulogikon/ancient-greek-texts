@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-as` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-mmg-as)
 
+The History of Alexander is an anonymous and lost work of Greek historiography, known only through a small number of fragmentary passages preserved by later authors. It forms part of the extensive and complex tradition of historical writing concerning Alexander the Great, a corpus from which only a few major narratives, such as those by Arrian and Curtius Rufus, survive intact. The text is categorized among the many fragmentary sources that were available to and utilized by later historians. The content of the surviving fragments, while their specific details are not recorded in the consulted sources, would typically engage with the central themes of the Alexander tradition. These likely included accounts of his military campaigns and tactics, explorations of his character and decisions, and descriptions of his encounters with foreign peoples and lands during his conquests.
+
+The work survives solely through indirect transmission, having been quoted or referenced by an unspecified later ancient author. This path of preservation is standard for most fragmentary Greek historians, whose works often endured only as citations within the texts of other writers, such as Strabo, Plutarch, or various Byzantine compilers. No independent manuscript tradition exists for this anonymous history. The primary significance of the work lies in its status as a representative piece of the vast, mostly lost, source material that underpinned the ancient Alexander tradition. Its citation by a later author indicates that some element of its narrative was found noteworthy, thereby contributing a small fragment to the collective historical record of Alexander the Great.
+
 ## Text
 
 ### 2b,151,F 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-ak` · [HTML page](https://eulogikon.org/works/aesop-fables-aqo-ak)
 
+The Fables of Libanius is a collection of three prose fables attributed to Aesop but preserved within the works of the fourth-century rhetorician Libanius of Antioch. The fables, titled "The Peacock and the Jackdaw," "The Lion and the Mouse," and "The Ant and the Cicada," are traditional Aesopic narratives. This small grouping represents one minor collection within the complex and fluid manuscript tradition of the Greek Aesopic corpus. The fables exemplify standard Aesopic themes, including the dangers of vanity, the value of mercy and reciprocal aid, and the virtue of hard work over idleness. They survive intact within medieval manuscripts of Libanius’s works. Their inclusion is likely due to their use in elementary rhetorical education, where fables served as beginner exercises in narrative and moral exposition. Their attribution to Libanius thus reflects a pedagogical context rather than actual authorship. While "The Lion and the Mouse" and "The Ant and the Cicada" are themselves immensely influential tales, their specific grouping under Libanius’s name holds limited independent literary significance. The collection is primarily important as evidence for the use of Aesopic material in later Greek rhetorical training and for illustrating the attributive nature of the Aesopic tradition.
+
 ## Text
 
 ### 1 (t)

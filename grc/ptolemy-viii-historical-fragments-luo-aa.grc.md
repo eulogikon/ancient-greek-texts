@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `luo-aa` · [HTML page](https://eulogikon.org/works/ptolemy-viii-historical-fragments-luo-aa)
 
+The Historical Memoirs is a prose work in Koine Greek authored by Ptolemy VIII Euergetes II, the Hellenistic ruler of Egypt from approximately 145 to 116 BCE. Functioning as a royal memoir, the original text is lost, surviving only in approximately a dozen fragments preserved through quotations by later ancient authors. These extant passages concentrate on geographical and ethnographical accounts of regions within the Ptolemaic sphere, especially in Africa. One significant fragment describes an expedition to the "Cave-dwellers" on the Red Sea coast, recording details of the terrain, local fauna, and elephant hunting practices. Another discusses the behavior of the Nile River and its flooding. Scholars interpret the work as an instrument of royal propaganda, designed to present the king as an erudite monarch and a patron of exploration, thereby aligning with the intellectual traditions of the Ptolemaic court. The fragments indicate a blend of personal narrative with information likely drawn from official archives. The full extent and organization of the original memoirs remain uncertain. The work is known exclusively through subsequent citations, chiefly by the geographer Strabo and the historian Diodorus Siculus, who employed it as a source for their own writings on African geography and Ptolemaic history.
+
 ## Text
 
 ### t1-12

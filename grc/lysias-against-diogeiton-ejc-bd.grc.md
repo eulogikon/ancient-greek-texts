@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-bd` · [HTML page](https://eulogikon.org/works/lysias-against-diogeiton-ejc-bd)
 
+Against Diogeiton is a forensic oration composed by the Attic orator Lysias around 400 BCE. Written for delivery by a client in an Athenian court, the speech presents a case against a guardian named Diogeiton, who is accused of embezzling the substantial inheritance of his orphaned nephews. The oration systematically details the provisions of the boys' father's will, enumerates the estate's considerable assets, and chronicles the guardian's fraudulent management of the funds. Through a carefully constructed narrative, it seeks to persuade the jury to compel Diogeiton to restore the misappropriated property to the plaintiffs, who have now reached adulthood. The complete speech survives in twenty-six sections and serves as a prime example of Lysias's lucid and persuasive prose style.
+
+The case offers significant insight into Athenian social and legal structures in the aftermath of the Peloponnesian War, particularly concerning the institution of guardianship and the role of popular courts in adjudicating familial financial disputes. For modern scholars, the oration is a vital source for understanding Athenian law related to inheritance, wills, and the fiduciary duties of guardians, while also illuminating the social and economic vulnerabilities faced by orphans. The work exemplifies Lysias's rhetorical skill in crafting a clear, character-driven narrative that elicits sympathy for the wronged parties and condemns the defendant's breach of familial trust and obligation, all within the precise framework of contemporary legal argument.
+
 ## Text
 
 ### Or32 t

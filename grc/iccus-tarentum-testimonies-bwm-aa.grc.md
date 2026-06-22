@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bwm-aa` · [HTML page](https://eulogikon.org/works/iccus-tarentum-testimonies-bwm-aa)
 
+The Testimonies is a lost treatise from the 5th century BCE, attributed to Iccus of Tarentum, an Olympic pentathlon champion and renowned athletic trainer from a center of Pythagorean thought. The work, known only through later references, was a philosophical and medical text focused on the disciplined regimen, or diatia, required for athletes. It prescribed strict rules for diet, exercise, and notably, sexual abstinence, framing physical training as a practice of moral self-control directly aligned with Pythagorean ethical principles. The treatise itself does not survive; our knowledge derives from a handful of later testimonies, most notably in Plato, who cites Iccus as an exemplar of how athletic discipline, governed by temperance and courage, serves the cultivation of virtue. Later sources, including Pausanias and the Byzantine encyclopedia Suda, confirm Iccus's reputation as an unparalleled trainer and a physician. Modern scholarship interprets the Testimonies as a pioneering synthesis of early sports science, medicine, and ethics, representing a systematic approach where bodily discipline was viewed as a means of purifying the soul. Its primary historical significance lies in its influence on later philosophical thought, particularly in providing a concrete model for the integration of physical and moral education.
+
 ## Text
 
 ### 1

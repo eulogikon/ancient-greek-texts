@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hnk-aa` · [HTML page](https://eulogikon.org/works/demetrius-phalerum-interpretation-hnk-aa)
 
+On Interpretation is an ancient Greek treatise on prose style, traditionally ascribed to the Athenian orator and statesman Demetrius of Phalerum. This comprehensive rhetorical handbook systematically examines the principles of crafting effective written and spoken language. The work is organized around an analysis of four distinct compositional styles: the grand or elevated style, the elegant or polished style, the plain or simple style, and the forceful or powerful style. For each style, the treatise provides definitions, illustrative examples drawn extensively from classical Greek literature, and practical advice on elements such as diction, sentence structure, and rhythm, consistently emphasizing the necessity of matching the style to the subject matter and occasion.
+
+The text survives in its entirety, though its authorship and date remain subjects of scholarly debate. While traditionally linked to Demetrius of Phalerum in the late 4th century BCE, many modern scholars propose it is a later composition, possibly from the 1st century BCE or CE, which nevertheless draws deeply upon the Peripatetic rhetorical tradition associated with Aristotle. It functions as a practical guide for students of rhetoric, reflecting the systematic, classificatory approach characteristic of Hellenistic scholarship. As the most complete ancient treatise devoted exclusively to the theory of literary style, On Interpretation stands as a crucial source for understanding classical rhetorical theory and literary criticism.
+
 ## Text
 
 ### 1 (1t)

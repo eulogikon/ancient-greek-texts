@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-ag` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-soul-supplementary-reo-ag)
 
+On the Soul, Supplementary Books, also known as the Mantissa, is a philosophical treatise by Alexander of Aphrodisias, composed around 200 CE. Written in Attic Greek, it functions as a collection of 86 short essays or notes that supplement the author’s major work, On the Soul. The text systematically addresses fundamental questions in Aristotelian psychology, including the nature and substance of the soul, the intellect, the mechanisms of perception, and the relationship between soul and body. Throughout, Alexander frequently argues against competing Stoic and Platonic doctrines. The work is not structured as a continuous narrative but rather as a series of self-contained discussions. This format has led modern scholars to interpret it as a possible compilation of the author’s working notes or later additions to his established theories. Alexander, who held an official chair in Aristotelian philosophy in Athens, wrote for an advanced audience engaged in technical philosophical debate. The treatise is preserved in full through Greek manuscripts from the Byzantine tradition, though the precise process of its compilation remains a subject of scholarly discussion. Its detailed analysis of the "active intellect" proved particularly influential, shaping the course of later Greek, Arabic, and Latin philosophical thought.
+
 ## Text
 
 ### 101 (1t)

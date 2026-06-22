@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-ah` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-wealth-mlw-ah)
 
+The Commentary on Wealth is an ancient and medieval compilation of explanatory notes, or scholia, on Aristophanes' comedy Wealth. A product of cumulative scholarship rather than a single author, it represents the work of numerous commentators from the Hellenistic period through the Byzantine era. The commentary provides line-by-line exegesis for 445 passages in the play, elucidating obscure vocabulary, historical allusions, mythological references, and points of textual criticism. Its structure is directly parasitic upon the comedy, with each note attached to a specific quoted phrase from the original text.
+
+The tradition of composing scholia originated with Hellenistic scholars at institutions such as the Library of Alexandria, who developed these annotations to preserve, interpret, and teach classical works. The scholia on Wealth thus constitute a stratified record of academic engagement, primarily intended for students and instructors studying Aristophanes. They reveal shifting scholarly priorities across centuries, ranging from meticulous philological analysis to broader cultural and historical annotation. The commentary survives exclusively within the medieval manuscript tradition of Aristophanes' comedies, having been copied, abbreviated, and sometimes expanded by successive scribes. For modern scholars, this collection serves as an indispensable resource for insights into ancient Athenian society, the nuances of the Attic Greek dialect, and the long history of classical textual scholarship.
+
 ## Text
 
 ### book 1

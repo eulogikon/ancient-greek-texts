@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-cl` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-causes-tyc-cl)
 
+On Causes is a fragmentary alchemical treatise written in Koine Greek by Zosimus of Panopolis around 300 CE. The work explores the fundamental principles and causes behind alchemical transformations, blending theoretical explanations about the nature of matter with spiritual philosophy. Only a single passage of the text survives today, transmitted within later Byzantine manuscripts that compile alchemical works. In this surviving fragment, Zosimus outlines the four Aristotelian causes—efficient, material, instrumental, and formal—using the example of a craftsman constructing a door, and notes Plato's addition of the paradigmatic and final causes. Zosimus, working in Roman Egypt, wrote for fellow practitioners, aiming to provide a philosophical foundation for alchemy beyond simple technical recipes. Modern scholars interpret his work as framing alchemy as a sacred art, where physical processes like distillation were seen as analogies for the purification of the soul. The surviving fragment is typical of his approach, which combined practical laboratory knowledge with mystical speculation. Despite its fragmentary state, known primarily by title and through references in later authors, Zosimus’s ideas were profoundly influential. They shaped the development of alchemy in the Byzantine, Islamic, and later medieval European traditions by establishing the field's enduring spiritual and philosophical dimension.
+
 ## Text
 
 ### 2.206.(1t)

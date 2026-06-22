@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ah` · [HTML page](https://eulogikon.org/works/demosthenes-athens-defense-ctesiphthe-fsm-ah)
 
+On the Crown is the most celebrated surviving oration of the Athenian statesman Demosthenes. Delivered in 330 BCE, this forensic speech constitutes a complete and meticulously crafted defense of a citizen named Ctesiphon, who had proposed that Demosthenes be awarded a golden crown for his services to Athens. While the legal pretext was the technical legality of Ctesiphon’s proposal, the trial functioned as a definitive public judgment on Demosthenes’ own political career and policies. The oration transcends its immediate legal framework to become a sweeping justification of Demosthenes’ decades-long leadership in opposing the expansion of Macedonian power under King Philip II. By the time of the trial, that policy had resulted in catastrophic defeat at the Battle of Chaeronea in 338 BCE and subsequent Macedonian hegemony over Greece.
+
+Demosthenes masterfully argues that the honor and necessity of his actions must be evaluated separately from their ultimate failure. He contends that advocating for Athenian freedom and resisting foreign domination was inherently righteous, a patriotic duty whose moral value was not negated by an unfavorable military outcome. The speech is equally a fierce polemic against his prosecutor, the orator Aeschines, whom Demosthenes portrays as a corrupt and unpatriotic collaborator with Athens’ Macedonian enemies. Surviving in full through medieval manuscript traditions, with key copies originating from the 10th century CE onward, On the Crown stands as a monumental work of ancient rhetoric. It is regarded not only as a pinnacle of Attic oratory but also as a profound historical document exploring themes of political principle, civic virtue, and the ethical complexities of leadership in defeat.
+
 ## Text
 
 ### Cor 1

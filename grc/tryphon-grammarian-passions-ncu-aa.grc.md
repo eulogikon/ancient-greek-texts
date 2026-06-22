@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ncu-aa` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-passions-ncu-aa)
 
+On Passions is a fragmentary grammatical treatise attributed to Tryphon, a grammarian of the Augustan age. The work systematically classifies linguistic alterations, or pathē, to standard Greek forms, encompassing figures, tropes, and morphological deviations. It survives only through quotations in later grammatical works, such as those by Apollonius Dyscolus and Herodian, and in Byzantine compilations like the Etymologicum Magnum. The treatise organizes these sanctioned deviations from normative usage into five principal categories: pleonasm, the addition of elements; endeia, the omission of elements; metathesis, the transposition of elements; metalēpsis, the substitution of one element for another; and tmēsis, the separation of a compound word into its constituent parts. The text is preserved indirectly in fragments collected from imperial and Byzantine sources, with the standard modern compilation appearing in the third volume of Grammatici Graeci, which reconstructs the work from these secondary citations. Tryphon's analysis was influential in the technical grammar of the Roman Empire, cited authoritatively by later grammarians. His classifications entered the mainstream of Greek grammatical teaching and contributed substantially to the Byzantine scholarly tradition.
+
 ## Text
 
 ### 1 t

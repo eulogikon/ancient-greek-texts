@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-aq` · [HTML page](https://eulogikon.org/works/aristophanes-athens-frogs-daw-aq)
 
+Frogs is a comedy by the Athenian playwright Aristophanes, first performed in 405 BCE at the Lenaean festival, where it won first prize. Written in verse, the play exemplifies the structure and satirical spirit of Old Comedy. Its plot follows the god Dionysus, who, despairing at the state of Athenian tragedy following the death of Euripides, descends to the Underworld to retrieve the poet. His journey, comically undertaken with his cowardly slave Xanthias, features a memorable encounter with a chorus of frogs during the crossing of the infernal lake. The play's central and lengthier portion consists of a formal debate, or agon, between the deceased tragedians Aeschylus and Euripides, who contend for the title of supreme poet and the privilege of returning to the world of the living. After a contest that parodies and critiques their respective literary styles and moral philosophies, Dionysus ultimately selects Aeschylus to accompany him back to Athens.
+
+Produced during the final, desperate year of the Peloponnesian War, Frogs transcends mere literary parody. Its unusual concluding plea for civic reconciliation and its symbolic choice of the traditional, morally robust Aeschylus over the modern, sophistic Euripides are widely interpreted as Aristophanes's direct intervention in Athens's political crisis, advocating for wisdom and unity to save the city. Preserved in full through the medieval manuscript tradition, the play remains a vital historical document and is celebrated as one of the earliest and most influential works of literary criticism in the Western canon.
+
 ## Text
 
 **ΞΑΝΘΙΑΣ**

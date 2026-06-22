@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cmq-aa` · [HTML page](https://eulogikon.org/works/eparchides-oineis-icarus-wine-cmq-aa)
 
+The Fragments on Icarus and Wine by Eparchides of Oineis is a lost prose work, classified among the fragmentary Greek historians. Known only by its title, it is cited by later authors for specific information. The Suda, a 10th-century Byzantine encyclopedia, records the title but provides no direct quotations, leaving the work’s content irrecoverable. The title indicates the work contained at least two distinct subjects: Icarus, likely addressing the mythological figure or the Aegean island associated with him, and wine, concerning its cultural role in Greek society. This combination suggests the text was a collection of historical or antiquarian notes, possibly connecting these topics to local Attic history, given that “Oineis” in the author’s name denotes an Athenian deme. The work is completely lost, and its existence is preserved solely as a title in the Suda’s entry on Eparchides. No direct fragments or quotations from it survive in the extant ancient corpus. While its direct influence is untraceable, the work’s recorded title contributes to the modern understanding of the range of Hellenistic or later Greek antiquarian writing. It exemplifies the production of specialized, local historical studies that were known to later Byzantine compilers.
+
 ## Text
 
 ### 1a

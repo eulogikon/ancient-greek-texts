@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nyi-ad` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-simple-medicines-nyi-ad)
 
+On Simple Medicines is a pharmacological treatise composed in Greek by the physician Pedanius Dioscorides of Anazarbus around the middle of the first century CE. The work serves as a focused manual dedicated to "simple" drugs—medicines derived from a single source such as a plant, mineral, or animal part—in contrast to complex, multi-ingredient compounds. It comprises 405 discrete entries, each detailing a substance's properties and its specific therapeutic applications for various ailments. Dioscorides's methodology is distinctly empirical, grounded in direct observation and information collected from a wide network of practitioners.
+
+Written as a practical handbook for physicians and compounders of medicines, the treatise is believed to be the product of Dioscorides's extensive travels and firsthand experience, likely gained during service as a surgeon with the Roman armies. This position afforded him unparalleled access to medicinal substances and knowledge from across the empire. The work exemplifies the broader Hellenistic and Roman endeavor to systematize practical, applied knowledge. Scholars today regard it as a specialist companion to Dioscorides's more expansive and celebrated encyclopedia, De Materia Medica.
+
+The complete text of On Simple Medicines has survived from antiquity, preserved within the larger corpus of Dioscorides's writings. It was transmitted through Byzantine, Arabic, and medieval Latin manuscript traditions, which ensured its full preservation despite the minor textual variations typical of such a long and active copying history.
+
 ## Text
 
 ### 1.1

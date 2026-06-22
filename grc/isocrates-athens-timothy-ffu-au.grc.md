@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-au` · [HTML page](https://eulogikon.org/works/isocrates-athens-timothy-ffu-au)
 
+To Timothy is a political letter composed around 345 BCE by the Athenian orator and teacher Isocrates. Addressed to Timotheus, the son of the renowned general Conon, the work is a published oration crafted in epistolary form. Written in Attic Greek, it offers direct counsel on statecraft across eleven sections, advising a leader on the cultivation of wisdom, justice, and public favor. The letter was written during a period of Athenian decline and rising Macedonian hegemony. Isocrates intended it not only for its recipient, a prominent general, but also for a broader public audience as a model of political advice. Modern scholars regard the work as a practical application of Isocrates' educational philosophy, which held that rhetorical training should be employed for ethical leadership and the maintenance of civic stability. The complete text survives through medieval manuscripts that preserve the full corpus of Isocrates' works.
+
 ## Text
 
 ### Epist 7 t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ar` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-water-fire-useful-okg-ar)
 
+_On Whether Water or Fire Is More Useful_ is a short prose work by the Greek biographer and philosopher Plutarch of Chaeronea. A rhetorical exercise structured as a sequential debate, it presents arguments first for the utility of water and then for that of fire. The complete text survives as part of Plutarch’s collected ethical works, the _Moralia_. The work systematically argues for the indispensable value of each element to human civilization, covering their roles in survival, agriculture, and technology, as well as their cultural and religious significance, drawing on mythology and history. The contrasting natures of water and fire are explored to illustrate a protreptic philosophical comparison. Transmitted within the manuscript tradition of the _Moralia_ and considered genuine, the text is preserved complete and is organized into nineteen discrete sections. This dialogue exemplifies the Second Sophistic interest in rhetorical virtuosity and the philosophical examination of common topics, serving as a model of rhetorical argumentation and providing insight into the educational practices of Plutarch’s era.
+
 ## Text
 
 ### t 1

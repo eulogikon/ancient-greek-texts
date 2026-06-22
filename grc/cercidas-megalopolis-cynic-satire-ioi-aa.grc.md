@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ioi-aa` · [HTML page](https://eulogikon.org/works/cercidas-megalopolis-cynic-satire-ioi-aa)
 
+The Fragments of Cynic Satire, also known as the Meliambs, is a collection of moralizing poems by the third-century BCE Hellenistic poet and statesman Cercidas of Megalopolis. Composed in a vigorous Doric Greek dialect and employing a "limping" iambic meter traditionally linked to satirical verse, the work advocates for the principles of Cynic philosophy. Its surviving passages condemn luxury and wealth while praising a life of virtue, self-sufficiency, and social justice, often invoking the god Zeus and heroic figures like Heracles as moral exemplars. The text exists only in fragments, primarily preserved on a single damaged papyrus discovered in Egypt, which contains 109 partial passages whose original sequence and the work's full extent are unknown. Modern scholarship interprets Cercidas's poetry as a distinctive synthesis of radical Cynic thought and practical political engagement, likely intended for a literate audience conversant with contemporary philosophical discourse. His work stands as a significant example of how Cynic ideas were disseminated through poetic commentary during the Hellenistic period.
+
 ## Text
 
 ### book 1.1

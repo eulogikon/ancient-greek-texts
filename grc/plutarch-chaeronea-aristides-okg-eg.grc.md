@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-eg` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-aristides-okg-eg)
 
+Plutarch of Chaeronea’s Aristides is a biography pairing the Athenian statesman Aristides, known as "the Just," with the Roman censor Cato the Elder as part of the author’s celebrated Parallel Lives. The narrative chronicles the political career of Aristides, detailing his crucial military and diplomatic roles during the Persian Wars at the battles of Marathon, Salamis, and Plataea, and examining his posthumous legacy. Plutarch’s approach is fundamentally ethical, employing anecdote and character study to illustrate civic virtue rather than to construct a strictly chronological historical record. The central theme is justice, exemplified by the statesman’s proverbial integrity and fairness, which is explored through the tension between aristocratic virtue and democratic politics, including the episode of his ostracism. The biography further emphasizes ideals of moderation, selfless public service, and the perceived role of divine favor through reported omens and oracles.
+
+The text survives intact within the robust manuscript tradition of the Parallel Lives. Key medieval codices, such as the 10th-century Parisinus Graecus 1671, preserve the work, while the common modern editorial division into 144 chapters serves as a standard reference system. As a component of the Lives, Aristides has exercised profound influence. Translated widely during the Renaissance, it became a handbook for statesmanship, cementing the reputation of its subject as a timeless exemplar of public integrity. Plutarch’s method of crafting moral portraits fundamentally shaped the biographical genre and directly inspired later major authors, including William Shakespeare.
+
 ## Text
 
 ### Arist t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `has-aa` · [HTML page](https://eulogikon.org/works/scythinus-teos-epigrams-has-aa)
 
+Scythinus of Teos was an obscure iambic poet known only from later sources. His work, the Epigrams, is lost and survives in a single fragment. The primary source, Diogenes Laertius, reports that Scythinus attempted to render the philosophy of Heraclitus into verse. The sole surviving line, quoted by Diogenes Laertius, illustrates the work's didactic purpose: "One thing, the only truly wise, does and does not consent to be called by the name of Zeus." This indicates the epigrams versified core Heraclitean doctrines, such as the unity of opposites and the cosmic Logos, reinterpreting the nature of the divine governing principle through a philosophical lens. The work is transmitted exclusively through fragmentary quotations in doxographical sources. Diogenes Laertius provides the one extant line, and the Byzantine Suda encyclopedia also mentions Scythinus as a poet who versified Heraclitus but offers no additional text. Scythinus represents a minor tradition of philosophical didactic poetry aimed at popularizing complex thinkers. His historical significance lies primarily as a named example of the posthumous reception and interpretation of Heraclitus's thought.
+
 ## Text
 
 ### book 22.1.1

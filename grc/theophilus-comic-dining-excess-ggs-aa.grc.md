@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ggs-aa` · [HTML page](https://eulogikon.org/works/theophilus-comic-dining-excess-ggs-aa)
 
+Comic Fragments on Dining and Excess is a modern scholarly compilation of 42 fragmentary verses attributed to the Athenian comic poet Theophilus, a contemporary of Aristophanes active in the late 5th century BCE. The fragments do not constitute a continuous text but are quotations preserved within the works of later authors, most notably Athenaeus in his Deipnosophistae, who cited them for their linguistic peculiarities or their illustrative value regarding ancient customs. The collection is organized thematically around the twin motifs of dining and licentiousness, core subjects of Old Comedy. The verses engage with sympotic culture and banquet scenes, using gluttony and drunkenness as sources of both humor and social critique. They satirize decadence and specific social types, contain detailed references to food and culinary practice, and depict scenes of unrestrained behavior. Like the vast majority of Old Comedy aside from the preserved plays of Aristophanes, the complete works of Theophilus are lost. These fragments survive solely through their citation by later grammarians, lexicographers, and antiquarians, with Athenaeus being the principal source. While Theophilus’s direct literary influence is untraceable, the fragments are invaluable for reconstructing the broader landscape of Greek comedy. They provide essential evidence for the genre’s thematic range, Attic dialect, and metrical practice, while also offering significant insight into Athenian social customs, moral anxieties, and the details of daily life in the classical period.
+
 ## Text
 
 ### book 1.1

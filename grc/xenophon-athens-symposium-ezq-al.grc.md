@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-al` · [HTML page](https://eulogikon.org/works/xenophon-athens-symposium-ezq-al)
 
+Xenophon's Symposium is a prose dialogue composed in Attic Greek, most likely between 385 and 370 BCE. It presents a fictional account of a dinner party hosted by the wealthy Athenian Callias in 421 BCE to celebrate the athletic victory of a youth named Autolycus. The narrative assembles a diverse group of guests, including Socrates and several of his companions, who engage in a series of speeches, debates, and entertainments. The work blends philosophical discourse with lighter amusement, exploring themes such as love, wealth, virtue, and the nature of true benefit within the relaxed atmosphere of a private celebration. Unlike Plato's more abstract and metaphysical dialogue of the same name, Xenophon's Symposium is characterized by its broader social scope and its emphasis on practical ethics and self-mastery within a convivial setting.
+
+The complete text has been preserved through medieval manuscripts. Modern scholarship often interprets the work as part of a literary genre that emerged following the execution of Socrates, aiming to defend his character and legacy. In this context, Xenophon portrays Socrates as a figure of exemplary self-control and moral insight, even amidst the temptations of a festive gathering. Beyond its philosophical purpose, the dialogue is also valued as a rich source for understanding classical Athenian social customs, sympotic rituals, and the interplay between intellectual life and everyday pleasure in the late 5th century BCE.
+
 ## Text
 
 ΣΥΜΠΟΣΙΟΝ

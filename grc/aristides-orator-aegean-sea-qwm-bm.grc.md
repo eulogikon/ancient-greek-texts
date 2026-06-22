@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bm` · [HTML page](https://eulogikon.org/works/aristides-orator-aegean-sea-qwm-bm)
 
+To the Aegean Sea is a prose hymn and encomium composed in the mid-2nd century CE by the Greek orator Aelius Aristides. Written in refined Attic Greek, this five-part oration celebrates the Aegean Sea as if it were a divine or heroic figure. The work details its subject's geographical centrality, its profound role in Greek mythology and history, and its indispensable benefits to commerce and civilization, serving as a masterful display of rhetorical skill. A prime example of the Second Sophistic, a cultural movement marked by the revival of classical rhetoric by Greek intellectuals, the oration was likely performed for educated elite audiences in the eastern Roman Empire. Modern scholarship interprets it as more than a simple description; it employs the encomiastic tradition to reinforce Greek cultural identity under Roman rule by glorifying the central sea of the Hellenic world. The complete text survives securely through medieval manuscripts that preserved Aristides’ collected works.
+
 ## Text
 
 ### [25]

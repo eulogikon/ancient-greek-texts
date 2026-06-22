@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-au` · [HTML page](https://eulogikon.org/works/origen-alexandria-commentaries-romans-3-5-5-7-uhs-au)
 
+Origen of Alexandria's Commentary on the Epistle to the Romans stands as a monumental work of early Christian exegesis. Composed in Greek around 243–244 CE, the original commentary spanned fifteen books, providing a meticulous, verse-by-verse exposition of Paul's foundational theological letter. It systematically addresses central Pauline doctrines, including justification by faith, the universality of human sin, the operation of divine grace, and the spiritual purpose of the Mosaic law. The work was likely intended for the advanced students in Origen's school in Caesarea and demonstrates his engagement with prior interpretive traditions.
+
+The textual history of the commentary is notably fragmentary. The sole surviving continuous portion of the original Greek text covers Romans 3:5 through 5:7, preserved in a papyrus codex dating from approximately 600 CE. For the remainder of the work, scholars rely almost entirely on a Latin translation produced by Rufinus of Aquileia in the late fourth century. It is generally acknowledged that Rufinus, in his translation, abbreviated and modified Origen's arguments to align with later orthodox sensitivities, which renders the extant Greek papyrus fragment critically important for recovering Origen's authentic exegetical voice and method. Additional, though brief, Greek excerpts are preserved in later theological anthologies compiled by Byzantine Church Fathers.
+
 ## Text
 
 ### 124 (1t)

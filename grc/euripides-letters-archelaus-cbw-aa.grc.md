@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbw-aa` · [HTML page](https://eulogikon.org/works/euripides-letters-archelaus-cbw-aa)
 
+The Letters to King Archelaus is a lost prose correspondence attributed to the Athenian tragedian Euripides. Ancient biographical tradition holds that Euripides composed these letters to Archelaus, the king of Macedon, during the final years of his life, approximately between 408 and 406 BCE. No text from the collection survives; its existence is recorded solely in later sources, most notably the tenth-century Byzantine encyclopedia known as the Suda. The letters are situated within the well-documented episode of Euripides’s departure from Athens to reside at the Macedonian court in Pella. King Archelaus was a prominent patron of Hellenic culture who actively recruited leading Greek artists and thinkers. The presumed correspondence forms a key element in the biographical narrative of the poet’s later years, exemplifying the dynamic between a preeminent literary figure and his royal benefactor. Although their precise subjects remain unknown, the letters are generally believed to have addressed literary, philosophical, or personal affairs related to Euripides’s life and work in Macedonia. This tradition significantly contributed to the enduring historical portrait of Euripides as an intellectual who concluded his career under the patronage of a northern Greek monarch.
+
 ## Text
 
 ### 1 1 (t)

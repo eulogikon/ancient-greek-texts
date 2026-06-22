@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `txs-aa` · [HTML page](https://eulogikon.org/works/pappus-alexandria-commentary-ptolemy-syntax-txs-aa)
 
+Pappus of Alexandria’s Commentary on Ptolemy’s Mathematical Syntax is a fourth-century CE mathematical treatise composed in Greek. It functions as a scholarly exegesis of Claudius Ptolemy’s foundational astronomical work, the Almagest. Only a fragment of the original commentary survives, specifically the portion addressing Books 5 and 6 of Ptolemy’s text, which concern lunar theory, solar theory, eclipses, and the calculation of parallax. The extant section comprises approximately 300 explanatory notes or lemmas. Rather than providing a continuous, line-by-line exposition, Pappus offers targeted discussions that supply alternative geometrical proofs, elaborate on steps omitted by Ptolemy, and recast trigonometric relationships into purely geometric terms. Scholars regard the work as a significant pedagogical text, likely composed for advanced students in Alexandria to facilitate mastery of the intricate Ptolemaic system and to preserve the Hellenistic mathematical tradition for a later audience. The complete commentary on all thirteen books of the Almagest is lost; the text for Books 5 and 6 survives in a single manuscript dating from the ninth or tenth century. It was first published in the modern era in 1710. Through its influence on later commentators such as Theon of Alexandria, Pappus’s explanations played a crucial role in transmitting the technical details of Ptolemaic astronomy to subsequent scholarly traditions.
+
 ## Text
 
 ### 1 (1t)

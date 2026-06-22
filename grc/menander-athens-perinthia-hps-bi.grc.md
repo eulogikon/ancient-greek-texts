@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bi` · [HTML page](https://eulogikon.org/works/menander-athens-perinthia-hps-bi)
 
+Perinthia is a lost comedy by the Athenian playwright Menander, composed in verse during the late 4th or early 3rd century BCE. As a work of New Comedy, it eschewed the political satire of earlier forms in favor of realistic domestic narratives centered on private life. The play survives only in fragments, with its content known through 31 quotations preserved by later authors such as the anthologist Stobaeus and the encyclopedist Athenaeus, who valued Menander for his moral sententiae and wit. While the complete plot is unrecoverable, the conventions of the genre suggest it involved romantic complications, familial disputes, and cases of mistaken identity, likely resolved by a conventional discovery such as the revelation of a character's true birth. The title indicates a connection to the city of Perinthus, which probably served as the setting or the origin of a principal character. Like Menander's other comedies, Perinthia was intended for performance at Athenian dramatic festivals and reflects the social mores of its time concerning love, family, and the role of fortune in human affairs.
+
 ## Text
 
 ### 1.1

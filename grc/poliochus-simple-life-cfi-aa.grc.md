@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cfi-aa` · [HTML page](https://eulogikon.org/works/poliochus-simple-life-cfi-aa)
 
+The Simple Life is a comedy by the Athenian poet Poliochus, who was active during the period of Middle Comedy in the fourth century BCE. The work survives only in six brief fragments, which accounts for its alternative Greek title meaning "Fragments." These passages are preserved exclusively through quotation by later ancient authors, primarily within the Deipnosophistae of Athenaeus of Naucratis, a work compiled in the late second or early third century CE. The standard modern edition of the text appears in the authoritative collection Poetae Comici Graeci, as no manuscript tradition for the complete play exists.
+
+The extant quotations focus predominantly on descriptions of specific foods and modest dining practices, a typical reason for their citation by the gastronomically interested Athenaeus. One fragment details a daily diet of small barley cakes, a few figs, an occasional roasted mushroom, gathered snails after a shower, homegrown greens, and a modest amount of wine. The play's title suggests a thematic concern with moderation or rustic living, which aligns with the broader focus of Middle Comedy on generalized social manners and stock character types rather than the specific political satire of the preceding Old Comedy period.
+
+While the scant remains do not allow for the tracing of any direct literary influence, the fragments are valuable for the study of Middle Comedy. They exemplify how later scholarly compilers preserved comic texts primarily for their linguistic and cultural detail, thereby aiding modern reconstruction of the genre's evolution from the politically engaged Old Comedy toward the domestic and romantic themes characteristic of the New Comedy of Menander.
+
 ## Text
 
 ### book 1.1

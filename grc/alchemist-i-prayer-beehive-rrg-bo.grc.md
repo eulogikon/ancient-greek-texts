@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-bo` · [HTML page](https://eulogikon.org/works/alchemist-i-prayer-beehive-rrg-bo)
 
+The Prayer to the Beehive is a short pseudepigraphical treatise attributed to the pseudonymous author designated by modern scholars as Alchemist I. Structured as an invocation directed at a beehive, it survives as a minor work within the larger corpus of Greek alchemical writings preserved in medieval manuscripts. The text opens with a Christian doxology before commanding the bees to gather from sweet and fruitful flowers known only to God. It proceeds to adjure various pests, including wasps, hornets, ravens, snakes, and ants, to keep away from the hive of God's servant. The prayer concludes with ritual instructions, prescribing that it be written upon a cross or a piece of wood placed within the apiary, or inscribed on a laurel leaf to aid with sleep, accompanied by further cryptic phrases and a recipe involving hare's testicles cooked in wine.
+
+Its allegorical use of the beehive and bees represents common alchemical motifs of industry, natural order, and hidden processes of transformation. The hive serves as a model for natural order and productive work, while the activities of the bees symbolically describe alchemical processes of gathering, purification, and transmutation. The prayer format itself reflects the spiritual or theurgical dimension characteristic of Greco-Egyptian and Byzantine alchemical practice, integrating practical craft with philosophical and religious concepts.
+
+The text is preserved within Byzantine manuscript compilations, most notably Marcianus graecus 299 from the 10th or 11th century CE. Its survival depends entirely on such codices, which gathered numerous recipes, procedures, and prayers for monastic and scholarly communities interested in chemeia. As a brief ritual text, it exemplifies the synthesis of technical art with symbolic natural philosophy in late antique alchemy. Its imagery of the ordered, productive beehive contributed to a persistent allegorical tradition in later alchemical literature. Historians value the work for its concrete illustration of the ritual and allegorical frameworks that underpinned ancient chemical arts.
+
 ## Text
 
 ### 2.389

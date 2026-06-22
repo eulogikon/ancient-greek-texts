@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ag` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-fragments-iso-ag)
 
+The treatise Fragments and Title is attributed to the Hellenistic poet and scholar Callimachus of Cyrene. It is known as a collection of fifty-two excerpts, though its precise content remains unknown. The work likely relates to Callimachus's pioneering bibliographic activities at the Library of Alexandria, exemplified by his lost but influential catalogue, the Pinakes. Its subject matter would have concerned the compilation and organization of literary fragments and the scholarly recording of work titles, reflecting the systematic editorial practices developed in Alexandria. The treatise itself is not detailed in standard references to Callimachus's surviving works and, like the Pinakes, is presumably lost, known only through secondary testimony. Despite its obscurity, such a work exemplifies the scholarly methods Callimachus established. His systematic approach to categorizing texts, recording titles, and compiling excerpts defined the Alexandrian tradition of philology and exerted a profound influence on all subsequent bibliographic science in antiquity.
+
 ## Text
 
 ### 238-277 (t)

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-aj` · [HTML page](https://eulogikon.org/works/lysias-against-alcibiades-ejc-aj)
 
+Against Alcibiades for Military Evasion is a forensic oration from Classical Athens, conventionally ascribed to the orator Lysias and dated to approximately 395 BCE. Composed in Attic Greek, the speech constitutes the prosecution's case in a public lawsuit against an individual named Alcibiades, the son of the renowned Athenian general of the same name, on the charge of deserting or evading compulsory military service. The text survives only in a fragmentary state; the ten passages associated with it are excerpts preserved by later authors and do not form a complete, continuous work.
+
+The legal action originated during the Corinthian War, with the specific accusation that the younger Alcibiades had failed to participate in a military campaign to Corinth. The argument centers on the fundamental civic obligation to defend the state, portraying military evasion as an act of betrayal against the city. Employing a standard tactic in Athenian litigation, the speaker also assails the defendant's character, depicting him as morally decadent and cowardly. Modern scholarship frequently observes the probable political motivations underpinning the case, interpreting it as an extension of the public hostility once directed against the defendant's infamous and controversial father. As such, the speech provides valuable insight into Athenian legal culture, demonstrating how the judicial system could be utilized to pursue personal and political vendettas.
+
+The oration is lost from the principal manuscript tradition of Lysias. Contemporary knowledge of it derives entirely from fragments quoted centuries later by the lexicographer Harpocration and the rhetorician Libanius. Given its extremely fragmentary condition, the traditional attribution to Lysias remains difficult to substantiate through independent textual analysis.
+
 ## Text
 
 ### Or15 t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uim-ac` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-in-greek-uim-ac)
 
+The Commentaries on Aristotle's Nicomachean Ethics is an anonymous Greek philosophical work consisting of 233 discrete scholia. Preserved solely in the 13th-century manuscript Parisinus gr. 1854, it provides exegetical notes on Books I, II, and the beginning of Book III of Aristotle's Nicomachean Ethics, with coverage becoming sporadic before breaking off. The scholia engage closely with Aristotle's text, offering exegesis of his ethical doctrines, clarification of key terminology such as happiness and virtue, and logical analysis of arguments, often through posing and resolving dialectical questions. The work survives in a single witness, where the scholia appear interlinearly and in the margins alongside Aristotle's text; the manuscript explicitly attributes the commentary to an anonymous author, and no wider tradition or translations are attested. While its direct influence is untraceable, the commentary is a significant artifact of the Greek Aristotelian tradition, exemplifying the scholiastic exegetical practices prevalent in late antique or Byzantine philosophical scholarship that were crucial for preserving and interpreting Aristotle's works.
+
 ## Text
 
 ### 1 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kgo-ab` · [HTML page](https://eulogikon.org/works/lycus-rhegium-alexander-italian-lore-kgo-ab)
 
+The work On Alexander and Italian Lore, attributed to the historian Lycus of Rhegium, is known only through fragments and testimonia. Its full title indicates it combined an account of Alexander the Great with discussions of Italian myths. Scholars generally identify it as a likely component of Lycus’s larger, multi-volume work On Italy, which is cited by the Byzantine encyclopedia known as the Suda. The fragmentary evidence suggests the work encompassed accounts of Alexander the Great’s deeds alongside myths, foundation legends, and descriptions of local customs and cults pertaining to the Greek communities in Italy. The work is now lost, surviving only in fragments preserved by later grammarians and compilers, such as Stephanus of Byzantium, scholiasts on Aristophanes and Apollonius Rhodius, and the Suda itself; modern scholarship has identified and collected nineteen extant passages. Lycus’s work reflects the dual Hellenistic interest in Alexander’s conquests and western Greek antiquarianism. It contributed to the corpus of western Greek historiography that informed later Roman and Hellenistic understandings of Italian pre-history and colonial foundations.
+
 ## Text
 
 ## LYCUS RHEGINUS. (ΠΕΡΙ ΑΛΕΞΑΝΔΡΟΥ.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ar` · [HTML page](https://eulogikon.org/works/epic-anon-encom-kjq-ar)
 
+The Encomium is an anonymous Greek poem belonging to the genre of praise poetry. As an encomium, its formal purpose is to laud a person, deity, or abstract concept, operating within the established epideictic rhetorical tradition. The work is recorded as consisting of two passages in verse, though its specific subject matter, length, and detailed content are not preserved in extant sources. The poem’s core function would have been praise, or epainos, achieved through the rhetorical amplification of the subject’s virtues and accomplishments; however, the precise identity of the subject praised in this anonymous composition remains unknown. The work is attested solely by its title and the notation that it contained two passages. Its state of preservation—whether it was fragmentary, complete, or is now lost—is unrecorded, and no manuscript tradition or editorial history for the text is documented. The encomium genre itself was a fundamental element of Greek rhetorical education and exerted a significant influence on subsequent Latin laudatory literature. While the historical impact of this particular anonymous work cannot be traced, it stands as a representative example of the enduring classical practice of structured, formal praise in literary culture.
+
 ## Text
 
 ### unit_1

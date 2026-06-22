@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxc-ac` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-meteorology-commentary-uxc-ac)
 
+John Philoponus’s Commentary on Aristotle’s Meteorology Book I is a detailed philosophical and scientific analysis composed in Greek during the early sixth century CE. Structured as a series of 131 lectures, the work provides a systematic exegesis of Aristotle’s text, offering explanations for a range of celestial and terrestrial phenomena, including comets, weather patterns, rivers, and the sea. While adhering closely to the Aristotelian framework, Philoponus frequently advances beyond mere exposition to deliver substantive critiques of Aristotelian physics. He notably challenges the doctrine of a fifth, unchanging celestial element, or aither, marshaling arguments from both logical reasoning and empirical observation.
+
+Philoponus composed the commentary while serving as a teacher in the Neoplatonic school of Alexandria, intending it for advanced students engaged with Aristotle’s scientific corpus. Modern scholarship regards the work as a pivotal text that demonstrates his early intellectual independence from Aristotelian orthodoxy, foreshadowing the more radical departures found in his later writings. The commentary is also seen to integrate occasional Christian theological perspectives, particularly concerning the creation of the world, which stand in contrast to Aristotle’s postulate of an eternal cosmos. The complete text survives primarily through a tenth-century manuscript, and its critical engagement with Aristotelian natural philosophy subsequently exerted a significant influence on the development of both Islamic and medieval European science.
+
 ## Text
 
 ### In Mete 14,1 1 (1T)

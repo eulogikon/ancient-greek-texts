@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcw-ad` · [HTML page](https://eulogikon.org/works/nicander-colophon-trojan-cycle-lcw-ad)
 
+The Fragments on the Trojan Cycle is a lost epic poem by the Hellenistic poet Nicander of Colophon, who was active in the 2nd century BCE. Composed in dactylic hexameter, the work treated episodes from the broader mythology of the Trojan War, encompassing events that preceded and followed the narrative of Homer’s Iliad. The poem survives only in a fragmentary state, with 22 passages preserved primarily in ancient Homeric commentaries and other scholarly sources. These fragments prevent a full reconstruction of the original work’s structure or total length.
+
+The extant portions illustrate Nicander’s method of expanding and systematizing legendary material. One fragment details the origins of the sea monsters that attack the Trojan priest Laocoön, tracing them to serpents nurtured by the Thymbraean Apollo. Another describes the deceptive construction of the Trojan Horse, likening its planks to the handle of an axe. Modern scholarship interprets the work as a characteristic product of Hellenistic mythographic poetry, which blended artistic form with a scholarly impulse to catalog and elaborate upon traditional stories. It was likely composed for a literate audience well-versed in the Homeric epics, offering them refined and often esoteric variations on familiar myths. This poetic endeavor aligns with Nicander’s broader literary output, which also included highly technical didactic poems on subjects such as toxicology and agriculture.
+
 ## Text
 
 ### book 562?.1

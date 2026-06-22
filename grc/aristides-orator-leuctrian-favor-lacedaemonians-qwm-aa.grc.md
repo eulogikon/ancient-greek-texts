@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-aa` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-favor-lacedaemonians-qwm-aa)
 
+The Leuctrian C (In Favor of the Lacedaemonians Second) is a declamatory oration composed in Attic Greek by the orator Aelius Aristides around the middle of the second century CE. It forms the third part of a triad known as the Leuctrian Orations. This work is a rhetorical exercise, or meletē, that dramatizes a critical moment in Spartan history. It portrays an imagined Spartan statesman addressing the citizen assembly in 371 BCE, directly following the devastating Theban victory at the Battle of Leuctra. The speaker’s central aim is to argue against surrender, crafting the speech as a model of deliberative rhetoric designed to guide political action in a time of profound crisis. The complete text is organized into ten distinct passages.
+
+Created during the era of the Second Sophistic, a movement marked by a renaissance of Greek rhetorical and cultural identity under Roman rule, the oration exemplifies Aristides’ mastery of historical impersonation and complex argumentation. It functions as a sophisticated display piece for educated audiences, delving into enduring themes of civic resilience, honor, and strategic calculation following a military catastrophe. The work survives in its entirety through a medieval manuscript tradition, with its most important witness being the 13th-century Codex Laurentianus 60.3.
+
 ## Text
 
 ### 448

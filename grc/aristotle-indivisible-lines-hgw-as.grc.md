@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-as` · [HTML page](https://eulogikon.org/works/aristotle-indivisible-lines-hgw-as)
 
+On Indivisible Lines is a concise philosophical treatise traditionally attributed to Aristotle but whose authorship is widely disputed by modern scholars. The work is now generally considered a product of the Peripatetic school, likely composed in the 4th century BCE. Written in Attic Greek, it presents a systematic critique of the theory that physical or mathematical lines are composed of smallest, indivisible parts. Across its ten sections, the treatise employs rigorous logical and mathematical arguments to demonstrate that positing such atomic lines leads to irreconcilable contradictions with fundamental geometrical principles, such as the universal possibility of bisecting any given line. Its primary target appears to be the mathematical atomism associated with Platonic thinkers like Xenocrates.
+
+The work is a complete artifact of the intense debates within the early Academy concerning the nature of the continuum. It argues decisively that a continuous magnitude cannot be constructed from discrete, uncuttable units, thereby opposing a form of geometrical atomism. Its intended audience was almost certainly academic, consisting of philosophers and mathematicians engaged in these highly technical ontological and mathematical discussions. Although not authored by Aristotle, the treatise survives intact within the Aristotelian corpus. Its preservation ensured that its sophisticated arguments against indivisible magnitudes continued to inform subsequent ancient and medieval philosophical debates on infinity, atomism, and the foundational concepts of geometry.
+
 ## Text
 
 ### LI 968a (t)

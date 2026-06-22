@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hoe-ad` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-hyperboreans-hoe-ad)
 
+On the Hyperboreans was a prose treatise by the early Hellenistic historian and ethnographer Hecataeus of Abdera, composed around 300 BCE. The work is now lost, and its contents are known only through fragments and summaries preserved by later authors such as Diodorus Siculus, Strabo, and Aelian. It presented a rationalizing, ethnographic account of the mythical Hyperboreans, a people traditionally located in a blessed, distant northern land. Hecataeus systematically reinterpreted these figures from legend, portraying them not as poetic fantasy but as a real and virtuous society. He described them as living in a temperate climate, devoted to the worship of Apollo, and free from the common ills of strife, disease, and old age. The treatise is considered a prime example of Hellenistic rationalization of myth, transforming legendary narratives into a plausible historical and geographical description of an idealized, utopian community. Through this work, Hecataeus sought to provide logical explanations for traditional stories, such as the ritual journey of symbolic Hyperborean gifts to the sanctuary of Apollo at Delos.
+
 ## Text
 
 ### tit,1-5

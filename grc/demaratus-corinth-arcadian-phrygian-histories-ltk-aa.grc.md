@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ltk-aa` · [HTML page](https://eulogikon.org/works/demaratus-corinth-arcadian-phrygian-histories-ltk-aa)
 
+The Arcadian and Phrygian Histories, a lost prose work attributed to Demaratus of Corinth, was a historical and mythographical compilation focusing on the antiquities of the Arcadian and Phrygian regions. Known in Greek by the title Apospasmata, meaning "Extracts," the work survives only in fragmentary quotations preserved by later authors such as Plutarch and Stobaeus, indicating it was transmitted in antiquity primarily through excerpts. The extant fragments reveal a content centered on local foundation myths, heroic genealogies, the origins of religious cults and rituals, and ethnographic descriptions of lands and customs. This blending of myth, local history, and etiology is characteristic of early Hellenistic historiography. The work is particularly significant for illustrating the systematization of regional legends and reflects the increased scholarly interest in Anatolian, specifically Phrygian, antiquities in the period following Alexander the Great's conquests.
+
 ## Text
 
 ## ΑΡΚΑΔΙΚΑ. E LIBRO SECUNDO.

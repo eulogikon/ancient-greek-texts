@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iei-aa` · [HTML page](https://eulogikon.org/works/isyllus-epidaurus-fragments-ig-4-950-iei-aa)
 
+The work is a Greek verse inscription authored by Isyllus of Epidaurus around 280 BCE. Carved on stone at the sanctuary of Asclepius in Epidaurus, it is a single, coherent poem of 81 lines that blends personal narrative, cult myth, and sacred law. The text begins with Isyllus recounting a personal vision in which the god Asclepius commands him to establish a new ritual procession. It then provides a foundational myth for the god’s birth and arrival in Epidaurus, prescribes detailed regulations for a children’s procession to the temple, and concludes with political praise linking good governance to piety, followed by a final hymn. The poem survives completely in its original inscribed form, not through medieval manuscripts. Its structure primarily uses dactylic hexameter but switches to elegiac couplets for a central section. Modern scholars interpret the work as a public monument designed to reform and elevate local cult practice while also engaging with the political realities of the early Hellenistic period. It is thought to have been written to secure divine and royal favor, reinforcing the sanctuary’s importance and the author’s own role in civic religious life.
+
 ## Text
 
 ### unit_1.1

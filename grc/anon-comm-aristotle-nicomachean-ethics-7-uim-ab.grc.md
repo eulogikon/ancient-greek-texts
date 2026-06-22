@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uim-ab` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-nicomachean-ethics-7-uim-ab)
 
+The Commentaries on Nicomachean Ethics Book VII is an anonymous Greek philosophical treatise providing exegetical analysis of Aristotle's text. It consists of fifty-four discrete passages that sequentially address lemmata from Aristotle's work, offering glosses and interpretations characteristic of the scholastic commentary tradition. The commentary focuses on the core themes of Book VII of the Nicomachean Ethics, which examines akrasia, or weakness of will, and enkrateia, or self-control. It explores the nature and distinction between akrasia and vice, as well as between enkrateia and true virtue, noting that while self-control resembles virtue in being a chosen state concerning action, it lacks the harmony of soul characteristic of virtue, instead involving an internal conflict between reason and desire. The work also analyzes pleasure, its various kinds, and its relationship to human happiness, while frequently clarifying Aristotelian terminology and resolving perceived textual difficulties. Transmitted through the medieval manuscript tradition of Aristotelian scholia, its preservation as a collection of distinct notes indicates it was contained within manuscripts compiling commentaries on the Ethics. While the specific influence of this anonymous work is not documented, such commentaries were fundamental to the preservation and pedagogy of Aristotelian thought, serving as essential tools for philosophical education in late antiquity and the Byzantine period and shaping the interpretation of Aristotle's ethics for subsequent scholars.
+
 ## Text
 
 ### 407 (1t)

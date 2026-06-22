@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqi-aa` · [HTML page](https://eulogikon.org/works/myron-eleutherae-spartan-helots-bqi-aa)
 
+The Fragments on Spartan Helots consists of two prose passages attributed to the historian Myron of Eleutherae, preserved not as a continuous text but through later quotations. These fragments offer a stark depiction of the harsh treatment endured by the Helots, the servile population of ancient Sparta. They are cited by the lexicographer Hesychius of Alexandria and the Byzantine scholar Photius in his Bibliotheca, who preserved them for their lexical and antiquarian value. Myron’s original work is lost and survives solely within these later compilations, with no independent manuscript tradition.
+
+The content describes a system of ritualized oppression designed to enforce Helot subjugation. According to the fragments, Helots were compelled to wear distinctive dogskin caps and leather garments as markers of their status. They were subjected to a fixed annual number of beatings, administered regardless of any specific offense, to ensure they never forgot their servile condition. The policy extended to controlling the Helots’ physical well-being; any Helot who displayed excessive vigor or strength could be executed, and his Spartan master would be fined for failing to curb such perceived threats. The fragments also note that the Helots were assigned a portion of agricultural produce to deliver to their masters.
+
+These fragments constitute a significant part of the hostile ancient tradition regarding Spartan cruelty. They are frequently cited in modern historical scholarship as crucial evidence for the systematic degradation and control mechanisms employed by the Spartan state, contributing substantially to ongoing debates about the nature of Helotry and the internal dynamics of Lacedaemonian society.
+
 ## Text
 
 ### t1-2

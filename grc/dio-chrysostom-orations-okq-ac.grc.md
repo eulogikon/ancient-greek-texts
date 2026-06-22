@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okq-ac` · [HTML page](https://eulogikon.org/works/dio-chrysostom-orations-okq-ac)
 
+The Orations are a corpus of eighty surviving speeches by the Greek orator and philosopher Dio Chrysostom, composed in Attic Greek during the early Roman Empire, approximately between 70 and 110 CE. This diverse collection encompasses public addresses delivered in cities across the empire, philosophical discourses, and moral essays. Their themes blend Cynic and Stoic philosophy with practical counsel, treating subjects such as ideal kingship, personal ethics, civic duty, and the role of Greek culture under Roman rule. The work is not a unified book but a compilation, with individual orations varying greatly in length from brief fragments to extensive treatises. The texts survive largely intact through medieval manuscripts, the primary tradition of which dates from the 10th century CE. While the corpus is mostly complete, the precise order of the speeches varies in the manuscript tradition, and some are considered spurious by modern scholars. Dio's own career, which included a period of exile and later imperial favor, profoundly shaped the orations, which are thought to have been revised for publication. They remain a major source for understanding the intellectual climate and political life of the Greek East during the Roman Empire.
+
 ## Text
 
 ### 1 t

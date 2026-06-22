@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ah` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah)
 
+The First Book of the Last Abstinence of Zosimus the Theban is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. A seminal work from the formative era of Greco-Egyptian alchemy, it characteristically intertwines practical laboratory instruction with spiritual and allegorical discourse. The text is organized as a sequence of eight passages that elaborate on alchemical theory, describe technical processes such as the use of the kerotakis apparatus, and prescribe the requisite spiritual discipline for the practitioner. The titular concept of "abstinence" indicates the work's framing of metallic transmutation within a context of personal ritual purification and asceticism.
+
+Scholars regard Zosimus's writings as marking a significant transition, wherein ancient craft traditions in metallurgy and dyeing were reinterpreted and elevated into a spiritualized "divine art." His treatise, likely intended for fellow initiates in esoteric circles, synthesizes technical knowledge with philosophical currents drawn from Gnostic and Platonic thought. The text survives through a complex and fragmentary transmission history. Although the original Greek corpus of Zosimus is largely lost, this particular treatise is preserved in later medieval Greek manuscripts compiled from the 6th century onwards. His ideas proved profoundly influential, transmitted through Syriac and later Arabic translations to fundamentally shape the development of Islamic and, subsequently, medieval Latin alchemy for over a millennium.
+
 ## Text
 
 ### 2.239.(1t)

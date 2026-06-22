@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-bd` · [HTML page](https://eulogikon.org/works/isocrates-athens-helena-ffu-bd)
 
+The Helen, also known as the Encomium of Helen, is an epideictic oration composed by the Athenian rhetorician Isocrates around 370 BCE. This formal display speech seeks to rehabilitate the mythological Helen of Troy, countering her traditional reputation as the mere cause of the Trojan War. Isocrates constructs a sophisticated argument that her divine beauty and noble lineage were providential gifts, which ultimately served Greece by uniting the Hellenic peoples against a common foe. Beyond its mythological subject, the oration functions as a programmatic statement of Isocrates' educational philosophy. He explicitly contrasts his own method of philosophical rhetoric with the practices of contemporary sophists and philosophers, whom he criticizes for engaging in frivolous paradoxes and abstract disputation. For Isocrates, true rhetoric is a tool for cultivating practical wisdom and virtue, and for deliberating on noble and useful themes. The complete work, structured in forty sections, survives intact through the medieval manuscript tradition of Isocrates' collected speeches. Modern scholarship interprets it as a polemical text aimed at his students and the wider Athenian intellectual community, designed to define and promote his school of thought against its rivals.
+
 ## Text
 
 ### Hel t

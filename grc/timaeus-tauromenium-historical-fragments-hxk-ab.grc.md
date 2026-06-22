@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hxk-ab` · [HTML page](https://eulogikon.org/works/timaeus-tauromenium-historical-fragments-hxk-ab)
 
+The Historical Fragments of Timaeus comprise the surviving quotations and paraphrases from the lost works of Timaeus of Tauromenium, a major Greek historian of the early Hellenistic period. Active from approximately 315 to 260 BCE, Timaeus spent a significant portion of his life in exile at Athens, where he composed his monumental history of Sicily and the western Greek world. His principal work, titled Historiai or Sikelika, spanned at least thirty-eight books and offered a comprehensive narrative from the mythical origins of the region through to the events of his own lifetime, including the beginnings of the First Punic War. The extant fragments, numbering over two hundred and preserved by later authors such as Polybius, Diodorus Siculus, and Athenaeus, reveal a work of immense scope. Timaeus treated colonial foundations, political and military history, local customs, and mythological traditions, while also developing a meticulous chronological framework for his narrative. His methodology was characterized by a rationalizing approach to myth, a pronounced hostility toward tyranny, and frequent, sharp polemics against other historians. Although the original text is entirely lost, its influence was profound; despite facing severe criticism from Polybius for its allegedly bookish and acrimonious nature, Timaeus's history became the standard authoritative source on western Greek affairs for subsequent generations of ancient writers.
+
 ## Text
 
 ### 3b,566,F 1a

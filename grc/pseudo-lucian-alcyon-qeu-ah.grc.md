@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ah` · [HTML page](https://eulogikon.org/works/pseudo-lucian-alcyon-qeu-ah)
 
+The Alcyon is a short Greek prose oration traditionally included among the works of the satirist Lucian of Samosata, though modern scholarship attributes it to an anonymous author of the later Imperial period, classifying it under Pseudo-Lucian. Likely composed between the 2nd and 4th centuries CE, the work is a rhetorical encomium devoted entirely to the kingfisher bird. It unfolds as a dialogue, opening with the characters Socrates and Chaerephon hearing the bird's lamenting cry by the shore. Socrates recounts the mythological origin of the halcyon, narrating the transformation of the grieving woman Alcyone into a bird who eternally searches the seas for her drowned husband, Ceyx. The oration expands upon this foundation, blending the poignant myth with naturalistic descriptions of the bird's habits and the fabled "halcyon days," a period of winter calm associated with its nesting. Stylistically, it exemplifies the rhetorical exercises of the Second Sophistic, where orators displayed their virtuosity by elaborating on seemingly minor or paradoxical themes. Surviving intact within the Lucianic manuscript tradition, the Alcyon is interpreted by scholars as a demonstrative piece of epideictic oratory, or ekphrasis, crafted for an educated audience appreciative of rhetorical ornament and Hellenistic myth. While the oration itself had limited direct literary influence, the core myth of Alcyone and the enduring metaphorical concept of "halcyon days" have enjoyed a long afterlife in Western literature, symbolizing peace, tranquility, and conjugal devotion.
+
 ## Text
 
 ### Halc t

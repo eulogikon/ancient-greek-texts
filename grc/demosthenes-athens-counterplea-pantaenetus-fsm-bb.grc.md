@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bb` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-pantaenetus-fsm-bb)
 
+The Counterplea to Pantaenetus is a forensic oration from classical Athens, preserved within the corpus of Demosthenes and dated to approximately 346 BCE. Composed for a client named Nicobulus to deliver in a private lawsuit, the speech is a formal paragraphē, a procedural plea arguing that the action brought by the plaintiff Pantaenetus is legally inadmissible and should be dismissed by the court. The complex dispute arises from a series of financial transactions involving a silver mining operation at Laurium, including loans secured against the mining works and the slaves who worked them. Nicobulus systematically presents his account of these dealings, asserting that a prior settlement had definitively resolved all claims between the parties and that Pantaenetus’s new suit therefore violates both their agreement and the relevant statutes. The oration offers a detailed glimpse into the sophisticated and often hazardous world of Athenian commercial finance, particularly the credit mechanisms supporting the vital silver mining industry. As a complete example of a paragraphē procedure, it serves as an invaluable source for the study of Athenian contract law, courtroom rhetoric, and economic practice. While its authorship within the Demosthenic corpus is occasionally questioned by modern scholars, its survival through the medieval manuscript tradition ensures its status as a key document for understanding the practical application of law in fourth-century Athens.
+
 ## Text
 
 ### Or37 1

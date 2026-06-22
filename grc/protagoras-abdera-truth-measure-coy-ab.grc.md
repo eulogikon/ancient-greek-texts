@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `coy-ab` · [HTML page](https://eulogikon.org/works/protagoras-abdera-truth-measure-coy-ab)
 
+On Truth (also known by its alternative title The Overthrowers) is a philosophical treatise by the 5th-century BCE Greek sophist Protagoras of Abdera. Though the original work is entirely lost, its central thesis is preserved through quotations and critiques in later philosophical texts, most notably in Plato’s Theaetetus and the writings of Sextus Empiricus. The treatise is famous for its opening declaration: "Man is the measure of all things: of the things that are, that they are, and of the things that are not, that they are not." This proposition, known as the "Measure Doctrine," advances a radical form of relativism. It argues that there is no single, objective truth or reality independent of human perception. Instead, things are precisely as they appear to each individual, meaning every person's perception and judgment constitute truth for them. For example, if the wind feels cold to one person but not to another, both perceptions are equally and simultaneously true for the respective individuals.
+
+Protagoras developed this epistemological stance to challenge traditional notions of absolute truth and to engage in the Sophistic debate concerning the relationship between nature (physis) and human convention (nomos). His doctrine implied that wisdom and the value of sophistic education lay not in discovering an objective reality but in the practical ability to transform a person's state of mind from a worse condition to a better one. This pragmatic and relativistic approach made On Truth a foundational text, positioning Protagoras as a pivotal figure whose ideas prefigured later developments in relativism, subjectivism, and pragmatic philosophy. The work's enduring influence stems from its profound challenge to the possibility of universal knowledge and its assertion of the individual as the ultimate arbiter of experience.
+
 ## Text
 
 ### 1 (tit)

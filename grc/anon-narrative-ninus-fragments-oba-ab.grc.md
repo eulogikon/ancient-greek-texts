@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oba-ab` · [HTML page](https://eulogikon.org/works/anon-narrative-ninus-fragments-oba-ab)
 
+The Ninus Fragments are the remains of an ancient Greek prose romance, preserved on two fragmentary papyri discovered in Egypt. The extant text, comprising eight damaged columns, depicts episodes from the legendary youth of the Assyrian king Ninus and his beloved Semiramis. The narrative focuses on the young Ninus's hesitant confession of his love, portraying a hero who is militarily proficient yet emotionally inexperienced. This exploration of the tension between public training and private feeling is a central theme. The work adapts legendary Near Eastern figures into a personal, fictional story, showcasing early characteristics of the ancient novel, including aristocratic lovers, erotic themes, and a pseudo-historical setting. The fragments are considered one of the earliest surviving examples of the genre. The text survives only in two papyri, known as P.Berol. 6926 and P.Berol. inv. 12945 + P.Tebt. 268, which are housed in Berlin and Oxford respectively; these are the sole witnesses, and the damage to the papyri prevents a full reconstruction of the original narrative. The discovery of these fragments has been of crucial significance for understanding the origins and development of ancient Greek prose fiction, demonstrating that its core structural and thematic elements were established well before the composition of the more complete novels from later centuries.
+
 ## Text
 
 ### colA,1

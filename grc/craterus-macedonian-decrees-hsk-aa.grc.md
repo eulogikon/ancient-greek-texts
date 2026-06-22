@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hsk-aa` · [HTML page](https://eulogikon.org/works/craterus-macedonian-decrees-hsk-aa)
 
+The Collection of Decrees was a systematic scholarly compilation by the early Hellenistic historian Craterus the Macedonian, produced in the 280s or 270s BCE. Written in Attic Greek, the work eschewed narrative in favor of assembling Athenian public decrees from the city's origins to the author's own time. Organized across multiple books, it presented these documents with critical commentary, comparing different textual versions and noting discrepancies. This approach made it an essential reference for Athenian constitutional history, legal practice, and interstate relations. The original work is lost, surviving only in fragments cited by later authors such as Plutarch, Harpocration, and Stephanus of Byzantium. These citations confirm its high reputation in antiquity as an authoritative documentary source. For modern scholarship, Craterus's compilation represents a pioneering exercise in historical methodology, emblematic of the Hellenistic emphasis on textual verification and the preservation of primary evidence. The surviving fragments provide crucial, often earlier, testimony for many decrees known from later epigraphic copies.
+
 ## Text
 
 ### t1-18

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cj` · [HTML page](https://eulogikon.org/works/lucian-samosata-macrobii-pfk-cj)
 
+Macrobii (The Long-Lived) is a short rhetorical essay by the second-century CE satirist Lucian of Samosata. Composed in Attic Greek during the era of the Second Sophistic, the work presents itself as a gift offered to a certain Quintillus on the occasion of his son's birthday. Framed by the conceit of a divinely inspired dream, Lucian states his intention to present a catalog of figures who achieved great old age, hoping the subject will bring the recipient good cheer and the hopeful prospect of a long life. The essay proceeds as a catalog of twenty-seven brief anecdotes, listing famous individuals from myth and history renowned for their exceptional longevity. The roster blends characters from Homeric epic, such as the venerable counselor Nestor, with historical philosophers and other notable persons. Surviving complete among Lucian's extant works, Macrobii is generally regarded by modern scholars as a display of learned cultural knowledge, or paideia, intended for an educated audience that appreciated rhetorical virtuosity and collections of remarkable information. It functions as a rhetorical exercise on the singular theme of longevity, exploring the limits of human life and the enduring fame that extreme age could confer within the Greek cultural tradition.
+
 ## Text
 
 ### Macr t

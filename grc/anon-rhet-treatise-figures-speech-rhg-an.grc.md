@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-an` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-figures-speech-rhg-an)
 
+On the Figures of Speech is an anonymous Greek rhetorical treatise that systematically catalogs and defines the various figures of speech employed in oratory. Structured as a practical handbook, it classifies these figures into two primary categories: those pertaining to thought and those pertaining to diction. The work proceeds to offer clear definitions and illustrative examples for a wide array of specific techniques, including procorrection, epanaphora, and personification. Its purpose is explicitly instructional, providing students and practitioners of rhetoric with a technical reference for the mechanics of oratorical style, emphasizing the utility of these figures for constructing persuasive and aesthetically effective discourse. As a representative example of a common genre in Hellenistic and later rhetorical education, the treatise transmits an ancient taxonomic system that was subsequently inherited by Roman rhetoricians and continued to exert a profound influence on literary and rhetorical theory well into the early modern period.
+
 ## Text
 
 ### 3.174.(1t)

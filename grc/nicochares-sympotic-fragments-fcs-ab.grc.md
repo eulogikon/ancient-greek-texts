@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fcs-ab` · [HTML page](https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-ab)
 
+The Sympotic Fragments attributed to the Athenian comic poet Nicochares constitute a modern collection of sixteen excerpts, likely compiled from his lost comedies. The title reflects their thematic suitability for a symposium, or drinking party, offering glimpses into his comedic style within the tradition of Old Comedy. These fragments, preserved through quotation by later authors such as Athenaeus and the Byzantine encyclopedia known as the Suda, touch upon characteristic genres of political and social satire, including a joke from his play Laconians about the Spartans' infamous black broth. While specific examples of mythological parody are not detailed in the surviving passages, the collection's focus suggests themes of drinking, revelry, and sympotic social dynamics. A minor but victorious figure active in the late fifth and early fourth centuries BCE, Nicochares provides valuable evidence for scholars reconstructing the broader landscape of Attic comedy beyond the major surviving playwrights like Aristophanes.
+
 ## Text
 
 ### book 1.1

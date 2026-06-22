@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jry-aa` · [HTML page](https://eulogikon.org/works/phanodicus-delian-legends-jry-aa)
 
+The Fragments on Delian Legends is a lost prose work of local history attributed to the Atthidographer Phanodicus. Though Phanodicus is primarily known as a writer of Athenian history, this collection specifically documented the myths, cults, and antiquities of the sacred island of Delos. The work survives only through seven brief passages quoted by later ancient authors, including the grammarian Harpocration and the biographer Plutarch. These fragments address distinct Delian subjects, such as the legendary Hyperboreans and their offerings to the island, and details concerning the cult of Eileithyia, the goddess of childbirth. The collection served as a specialist source for later lexicographers and biographers seeking information on obscure Delian traditions. As such, these fragments provide valuable, if limited, insight into Delian religious practice and the methods of Greek local historiography, where the recording of local myth was integral to the construction of a place's history and identity.
+
 ## Text
 
 ### t1-5b

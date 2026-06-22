@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jns-aa` · [HTML page](https://eulogikon.org/works/hipparchus-comic-art-wealth-jns-aa)
 
+The comedy Fragments on Art and Wealth by Hipparchus is known solely through its title and the notation that it originally comprised thirteen fragments. No direct quotations, plot details, or character names from the play survive in the extant record. The title itself suggests the work engaged with the interrelated themes of artistic skill or craft and material wealth, subjects that were frequent targets for social and philosophical satire within the tradition of Athenian Old Comedy. While the specific content is irrecoverable, such a thematic pairing would typically involve an exploration of the social value of technical expertise, the ethical dimensions of wealth, and the potential conflict between traditional virtues and new forms of socioeconomic mobility. The play is listed in modern scholarly catalogs of comic fragments, but the fragments themselves are not preserved in any surviving ancient sources or major digital repositories. Its significance lies primarily in its testament to the broad thematic range of lost Greek comedy, representing one of many now-missing works that explored the relationship between personal merit, labor, and fortune for the audiences of Athenian dramatic festivals.
+
 ## Text
 
 ### book 1.1

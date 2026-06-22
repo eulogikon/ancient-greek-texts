@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ah` · [HTML page](https://eulogikon.org/works/plato-definitions-ffk-ah)
 
+The Definitions is a brief, spurious treatise included in the Platonic corpus. Its authenticity as a work by Plato is universally rejected by modern scholarship, and it is considered a product of the early Academy, likely compiled by his successors as a pedagogical tool for dialectical training. The text functions as a glossary, presenting concise definitions of key philosophical terms across 26 entries. These encompass both ethical concepts, such as the good, justice, courage, wisdom, piety, and temperance, and metaphysical ones, including being, the same, and the different. Preserved within the medieval manuscripts of the Platonic corpus, the work is transmitted as part of that tradition and is classified among the spuria or doubtful works in modern editions. While philosophically derivative and offering no original doctrine, the text holds historical significance as a witness to the early Academy's efforts to systematize Platonic thought. It reflects an institutional shift toward the creation of handbooks and the standardization of terminology for teaching purposes, illustrating a key development in the Platonic tradition in the period following Plato's death.
+
 ## Text
 
 ### Def 411 a

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tmo-ab` · [HTML page](https://eulogikon.org/works/oros-alexandria-attic-words-tmo-ab)
 
+The Collection of Attic Words is a lexicographical treatise attributed to Oros of Alexandria. This glossary compiles 106 entries of vocabulary considered authentically Attic, often contrasting terms with Ionic or Koine synonyms. Each entry provides definitions, usage notes, or illustrative quotations from classical Athenian authors, making it a characteristic product of the Atticist movement, which sought to preserve the dialect of 5th and 4th century BCE Athens as a literary standard. The work systematically establishes authentic Attic vocabulary against later linguistic forms, offering prescriptive definitions and authoritative literary citations. It frequently excerpts and condenses material from earlier lexicographers such as Aelius Dionysius and Pausanias the Atticist. A significant secondary function of the compilation is the preservation of fragments from lost Attic literature through quotations from authors including the comic poet Eupolis and the orator Antiphon. The text survives through the Byzantine manuscript tradition, where it functioned as a secondary compilation, transmitting material from earlier, sometimes lost, grammatical sources. Oros’s work remains a valuable source for the history of the Greek language, Attic dialectology, and the recovery of fragments from lost classical works. Its primary influence was within Byzantine scholarship, where it contributed directly to the grammatical understanding of Attic Greek.
+
 ## Text
 
 ### 1

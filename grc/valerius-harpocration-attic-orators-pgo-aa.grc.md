@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pgo-aa` · [HTML page](https://eulogikon.org/works/valerius-harpocration-attic-orators-pgo-aa)
 
+The Lexicon of the Ten Attic Orators is a specialized Greek dictionary compiled by the grammarian Valerius Harpocration, likely in the 2nd century CE. Comprising approximately 310 alphabetically arranged entries, it serves as a guide to the vocabulary and historical references found in the works of the ten canonical Athenian orators, including Demosthenes, Lysias, and Hyperides. Each entry typically defines a rare word, legal term, or cultural allusion, cites its occurrences in the oratorical corpus, and frequently provides explanatory quotations from other ancient historians, commentators, and grammarians. Many of these cited sources are now lost, making the lexicon an invaluable repository of fragments and a crucial tool for understanding classical Athenian law, politics, and social history.
+
+Produced during the intellectual revival of classical Greek culture known as the Second Sophistic, the work functioned as a key educational resource for advanced students and practicing rhetoricians who aimed to master the precise Attic Greek style of the classical orators. The lexicon survives through a direct manuscript tradition, existing in both full and epitomized versions. Its influence endured for centuries, as it was extensively mined and excerpted by later Byzantine scholars, most notably the compilers of the 10th-century Suda encyclopedia, which preserved much of its content.
+
 ## Text
 
 ### Lex 1 (t)

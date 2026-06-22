@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-aj` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-genuine-divine-art-tyc-aj)
 
+Genuine Writing on the Divine Art is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. Structured as an instructional letter to his sister Theosebeia, the work synthesizes detailed descriptions of practical laboratory techniques with philosophical and mystical exegesis. It provides specific instructions on processes and apparatus for the transformation of metals, particularly the making of gold and silver, while simultaneously presenting the alchemical art as a spiritual discipline in which the perfection of base matter parallels the refinement and salvation of the human soul. The text survives in fragmentary form within larger collections of Zosimus's writings, preserved in later Greek manuscripts such as the 10th- or 11th-century Marcianus graecus 299. Its transmission was further secured through early translations into Syriac and Arabic. Modern scholarship regards the treatise as a foundational document of Greco-Egyptian chemeia, exemplifying the religious syncretism of late antique Egypt through its integration of practical craft knowledge, Hermetic philosophy, and Judeo-Christian theological concepts. Zosimus's systematic and authoritative approach established him as the preeminent figure in early alchemy, and his work exerted a profound influence on the subsequent development of the art in both the Islamic world and medieval Latin Europe.
+
 ## Text
 
 ### [20t]

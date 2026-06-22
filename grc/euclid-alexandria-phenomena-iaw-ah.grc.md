@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-ah` · [HTML page](https://eulogikon.org/works/euclid-alexandria-phenomena-iaw-ah)
 
+The Phaenomena is a mathematical treatise on spherical astronomy attributed to Euclid of Alexandria, the renowned mathematician active around 300 BCE. Written in Attic Greek, the work does not describe individual stars or planets but instead uses geometry to model the apparent structure of the celestial sphere as observed from Earth. It consists of a series of propositions that prove theorems about great circles on a sphere, such as the horizon, the celestial equator, and the ecliptic. Through these geometric proofs, the treatise establishes a logical foundation for understanding fundamental astronomical phenomena, including why certain stars are always visible above the horizon, why others rise and set, and how the length of daylight varies with the seasons.
+
+The text survives intact from antiquity, preserved in Greek manuscripts alongside Euclid's more famous works like the Elements. It was later translated into Arabic and Latin, ensuring its continuous study through the medieval period and into the Renaissance. Modern scholars interpret the Phaenomena as an early and rigorous example of "sphaerics," a branch of mathematics dedicated to the geometry of the sphere as applied to astronomy. It is thought to have been composed for students within the scholarly environment of early Alexandria, providing them with the deductive geometric tools required to grasp the principles of celestial motion. By framing astronomical observation within a strict geometric framework, the work established a foundational, purely mathematical approach that influenced the methodology of later astronomers for centuries.
+
 ## Text
 
 ### Pr

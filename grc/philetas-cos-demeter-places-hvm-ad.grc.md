@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvm-ad` · [HTML page](https://eulogikon.org/works/philetas-cos-demeter-places-hvm-ad)
 
+The Fragments on Demeter and Places comprises six surviving passages from a longer elegiac poem by the early Hellenistic poet Philetas of Cos, who was active in the late fourth and early third centuries BCE. The work artfully wove the Panhellenic myth of Demeter's search for Persephone with detailed aetiological narratives concerning specific geographical locations. The most substantial extant fragment recounts Demeter's visit to the island of Cos, where her divine anger precipitates the metamorphosis of a local princess into a bird. This episode is characteristic of the poem's overarching purpose: to explicate the origins of local cults, topographical features, and regional traditions by anchoring them within the framework of major mythology.
+
+The text survives only in fragmentary form, preserved not through direct manuscript transmission but via quotations and references in the works of later ancient authors and scholiasts. Scholars regard these fragments as a seminal example of the emergent Hellenistic poetic style, distinguished by its learned refinement, polished diction, and deliberate focus on recondite mythological variants. The poem was likely composed for a sophisticated audience that prized erudition, variety, and the investigation of cultural origins. Philetas, who served as tutor to the future Ptolemy II Philadelphus, exerted a profound influence on subsequent Alexandrian poets such as Callimachus. These fragments exemplify the innovative synthesis of narrative elegance and scholarly detail that would become a hallmark of the Alexandrian poetic tradition.
+
 ## Text
 
 ### book 673?

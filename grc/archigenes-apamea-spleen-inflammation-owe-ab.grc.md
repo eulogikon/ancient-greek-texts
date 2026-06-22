@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `owe-ab` · [HTML page](https://eulogikon.org/works/archigenes-apamea-spleen-inflammation-owe-ab)
 
+On Inflammation of the Spleen is a medical treatise by Archigenes of Apamea, a prominent physician of the Pneumatist school who was active in Rome during the early second century CE. The work is a specialized study of splenitis, examining the disease's pathology, diagnosis, and therapeutic management according to Pneumatist doctrine. This theory attributed illness to imbalances in the pneuma, or vital spirit, within specific organs. Archigenes’s diagnostic approach was notably precise, emphasizing a detailed analysis of the patient's pain—its exact location, character, and rhythm—to identify the disturbance of pneuma within the spleen. The treatise survives not as a complete manuscript but in fragmentary excerpts, likely preserved within later medical compilations. It was written for a professional audience and exemplifies the sophisticated, theory-driven medicine practiced in the Roman Imperial period. Archigenes’s influence persisted chiefly through his inclusion in later encyclopedic works, most significantly the medical compilation of the sixth-century Byzantine physician Aëtius of Amida, which transmitted his specialized knowledge to subsequent Byzantine and Arabic medical traditions.
+
 ## Text
 
 ### 9 (1t)

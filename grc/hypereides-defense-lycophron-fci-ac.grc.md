@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fci-ac` · [HTML page](https://eulogikon.org/works/hypereides-defense-lycophron-fci-ac)
 
+The Defense for Lycophron is a forensic oration composed by the Athenian logographer Hypereides around 333 BCE. It survives in a fragmentary state, known from 42 passages preserved on a second-century CE papyrus discovered in Egypt. The speech was written for the trial of Lycophron, an Athenian official who served as a klerouch, or settler, on the island of Lemnos. He faced impeachment on charges of seducing the wife of a fellow Athenian citizen during his tenure. The core of Hypereides' legal argument contends that Lycophron's alleged personal misconduct, while perhaps morally reprehensible, did not constitute an official crime under the specific statutes governing Athenian territories and their administrators. The speech thus provides a detailed examination of the legal boundaries between private vice and public malfeasance in Athenian law.
+
+The trial occurred during a period of significant political tension in Athens, early in the reign of Alexander the Great. Modern scholarship often interprets the prosecution as politically motivated, likely instigated by Hypereides' rival, the influential statesman and financier Lycurgus. As a work by one of the canonical Ten Attic Orators, the speech was studied in antiquity as a model of rhetorical technique. Its modern rediscovery offers valuable insights into fourth-century BCE Athenian legal procedure, the administration of overseas holdings, and the intersection of personal morality and public accountability in political rhetoric. The surviving text remains a crucial primary source for understanding the forensic strategies and stylistic nuances of Hypereides' oratory.
+
 ## Text
 
 ### Dem t 1

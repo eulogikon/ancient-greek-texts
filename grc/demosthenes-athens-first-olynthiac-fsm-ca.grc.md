@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ca` · [HTML page](https://eulogikon.org/works/demosthenes-athens-first-olynthiac-fsm-ca)
 
+The First Olynthiac is a deliberative oration delivered by the Athenian statesman Demosthenes to the citizen assembly in 349 BCE. It is the earliest of his three surviving speeches addressing the crisis facing Olynthus, a city in the Chalcidice then under assault by the armies of Philip II of Macedon. Demosthenes argues with urgent intensity for immediate Athenian military intervention, framing the conflict not merely as a regional dispute but as a direct threat to Athenian security and its imperial interests in the northern Aegean. He proposes a dual strategy: dispatching a rapid expeditionary force to relieve Olynthus directly while simultaneously launching a secondary campaign to harass Philip’s own territories, thereby dividing the Macedonian king’s attention and resources.
+
+The speech is a masterful example of political persuasion, structured to galvanize its audience from hesitation to action. Demosthenes employs stark contrasts between Athens’ past military failures, attributed to delay and poor planning, and the present critical opportunity to check Philip’s expansion. He portrays the Macedonian king as a cunning and relentless adversary whose success would inevitably lead to further aggression against Athens itself. The oration thus intertwines pragmatic strategic advice with an appeal to Athenian honor and its historical role as a protector of Greek allies. Modern scholarship regards the Olynthiac speeches as a pivotal series in Demosthenes’ burgeoning political career, crystallizing the themes of timely action, the perils of complacency, and the need for decisive military policy that would define his lifelong opposition to Macedonian hegemony. Preserved within the Demosthenic corpus, the authentic text of the First Olynthiac has been transmitted through medieval manuscripts and remains an essential document for the study of classical Athenian oratory, rhetoric, and international relations in the fourth century BCE.
+
 ## Text
 
 ### Ol1 1

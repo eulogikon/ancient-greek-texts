@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-az` · [HTML page](https://eulogikon.org/works/aristides-orator-plato-rhetoric-qwm-az)
 
+To Plato-Rhetoric is a major declamatory oration composed in Attic Greek by the celebrated orator Aelius Aristides during the mid-2nd century CE. Structured as a direct refutation of Socrates’s criticisms in Plato’s dialogue Gorgias, the work is a point-by-point defense of rhetoric as a true and teachable art. Aristides meticulously quotes and argues against Plato’s text, contending that rhetoric is essential for law, governance, and civic virtue rather than a mere knack for flattery. The complete work, divided into 115 sections, survives intact from the medieval manuscript tradition. A prime example of the Second Sophistic, a period of revived Greek cultural identity under Roman rule, the oration is a performative masterpiece designed for elite audiences intimately familiar with Plato’s philosophy. By publicly challenging the foundational philosopher, Aristides aimed to demonstrate the supreme power of oratory and elevate his own status within the intense rivalry between the disciplines of philosophy and rhetoric. The work also seeks to portray the orator as a moral guide, framing eloquence as a divine gift for the benefit of the state.
+
 ## Text
 
 ### 1

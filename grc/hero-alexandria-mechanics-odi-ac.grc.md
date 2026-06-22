@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ac` · [HTML page](https://eulogikon.org/works/hero-alexandria-mechanics-odi-ac)
 
+The Fragments of Mechanics is a collection of fifteen technical passages attributed to the first-century CE mathematician and engineer Hero of Alexandria. Preserved in Koine Greek, the work addresses both theoretical and applied mechanics. Its content systematically examines the principles of motion and provides detailed analysis of the five classic simple machines: the lever, the pulley, the wheel and axle, the wedge, and the screw. The text illustrates their mechanical advantages and practical applications, particularly in the lifting and movement of heavy loads, often employing geometric proofs and proportional reasoning.
+
+The extant text is incomplete, consisting of discontinuous fragments rather than a full, coherent treatise. Its survival is due to later transmission, primarily through Byzantine scholarly compilations such as the Suda lexicon and via Arabic translations that circulated in the medieval Islamic world. Modern scholarship interprets the work as a key representative of the Hellenistic mechanical tradition, which sought to synthesize Aristotelian physical principles with rigorous geometry and pragmatic engineering. Likely composed for both educational and practical purposes, it was aimed at engineers and scholars operating within the Roman imperial context, where Greek scientific knowledge was being systematically compiled and applied to technological challenges.
+
 ## Text
 
 ### 1.1.(1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-ag` · [HTML page](https://eulogikon.org/works/pseudo-galen-fetus-animated-tqu-ag)
 
+To Gaurus on How the Embryo is Ensouled is an anonymous philosophical and medical treatise composed in Attic Greek, most likely dating from the 2nd century CE or later. Though long transmitted under the name of the physician Galen, this attribution is spurious. The work comprises 75 concise chapters and engages directly with a central question in ancient thought: the precise moment at which a developing human fetus acquires a rational soul. The author methodically critiques the Platonic and Pythagorean doctrine of immediate ensoulment at conception, advocating instead for the theory of delayed animation. This position, which holds that the rational soul enters only once the fetal body has attained the necessary physiological organization to receive it, is aligned with Aristotelian embryology and represents an attempt to reconcile philosophical speculation with contemporary biological knowledge.
+
+The treatise survives in full due to its inclusion in medieval manuscripts of Galen's corpus. Modern scholarship regards it as a sophisticated work of doxography, meticulously compiling and analyzing prior philosophical opinions on the subject. Its author demonstrates a dual expertise, suggesting the hand of either a philosophically trained physician or a medically informed philosopher. The argument is structured to provide a definitive, scientifically grounded resolution to the debate, with implicit significance for the ethical considerations of the period. In subsequent centuries, the work proved influential, serving as an important source for Neoplatonist philosophers and contributing to later theological and philosophical discourses on the nature of the soul.
+
 ## Text
 
 ### t 1

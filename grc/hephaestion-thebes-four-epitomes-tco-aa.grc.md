@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tco-aa` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-four-epitomes-tco-aa)
 
+The Apotelesmatika, commonly known as the Effects, is a four-book astrological treatise composed in Greek by Hephaestion of Thebes around 415 CE. This systematic work functions as a comprehensive handbook, synthesizing the branches of universal and personal astrology. Its first book analyzes the influence of planetary phenomena, such as conjunctions and eclipses, on the fates of kingdoms, cities, and climatic conditions. The subsequent three books are devoted to genethlialogy, or natal astrology, meticulously detailing how the celestial configurations at the moment of birth determine an individual's character, life events, and physical traits. The complete text is structured into 348 distinct sections.
+
+Compiled during the late Roman Empire, a period when traditional practices like astrology endured alongside the rise of Christianity, the work is regarded by modern scholars as a practical synthesis aimed at preserving and transmitting Greco-Roman astrological knowledge. It relies extensively on earlier authorities, particularly Ptolemy, though often without explicit citation. The treatise survives in its entirety through Greek manuscripts, the oldest of which dates to the 13th or 14th century. Its significance extended beyond the Byzantine cultural sphere through translations into Syriac and Arabic, establishing it as a key reference for medieval Islamic astrology and a vital source for understanding the late antique astrological tradition.
+
 ## Text
 
 ### 1 (t)

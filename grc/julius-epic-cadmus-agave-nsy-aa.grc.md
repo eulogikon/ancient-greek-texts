@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nsy-aa` · [HTML page](https://eulogikon.org/works/julius-epic-cadmus-agave-nsy-aa)
 
+The Fragments on Cadmus and Agave is a lost epic poem attributed to Julius the Epic Poet. Known only by its title, the work is recorded as consisting of six passages concerning the Theban mythological figures Cadmus, the founder of Thebes, and his daughter Agave, who infamously killed her son Pentheus in a state of Dionysian frenzy. No direct quotations from the poem survive. The title indicates it treated episodes from the Theban cycle, likely addressing the foundation of Thebes and the establishment of civilization by Cadmus, the power of the god Dionysus and the ecstatic madness inflicted upon those who resisted him, and the profound familial tragedy of kin-slaying epitomized by Agave's murder of Pentheus. These subjects would have engaged central themes of divine vengeance and human hubris. The work is entirely lost, its existence noted only in a secondary cataloguing source which lists it among the poet's compositions; it was not preserved in the manuscript tradition. While no direct literary influence can be traced, these fragments attest to the continued production of epic poetry on canonical mythological topics by lesser-known authors during the Greco-Roman period.
+
 ## Text
 
 ### book 1.1

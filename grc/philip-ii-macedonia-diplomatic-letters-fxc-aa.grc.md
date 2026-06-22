@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fxc-aa` · [HTML page](https://eulogikon.org/works/philip-ii-macedonia-diplomatic-letters-fxc-aa)
 
+The Epistles of Philip are a collection of twenty-three diplomatic letters in Greek, traditionally attributed to Philip II, king of Macedon. Purporting to document the king's negotiations, threats, and political dealings with various Greek city-states, particularly Athens, they reference well-known historical contexts of his reign from 359 to 336 BCE, including the protracted dispute over Amphipolis. Modern scholarship, however, does not regard them as authentic primary sources from Philip's chancery. Instead, they are considered later rhetorical exercises, likely composed during the Hellenistic or Roman periods as models of persuasive argumentation and diplomatic discourse. These letters were preserved through their inclusion in medieval manuscripts alongside other pseudonymous epistolary collections, valued primarily for their utility in rhetorical education rather than for historical fidelity. While they may reflect genuine thematic concerns of Macedonian power and political justification, their principal significance lies in illustrating how later antiquity employed the figure of Philip II to teach and exemplify the art of political rhetoric.
+
 ## Text
 
 ### 1 1

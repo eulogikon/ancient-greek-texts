@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ax` · [HTML page](https://eulogikon.org/works/plato-phaedrus-ffk-ax)
 
+The Phaedrus is a philosophical dialogue by Plato, presenting a conversation between Socrates and the young enthusiast Phaedrus outside the walls of Athens. The work unfolds in two major movements. The first consists of three speeches on the nature of love, culminating in Socrates’s celebrated defense of love as a divine madness that guides the soul to recollect transcendent truth and beauty, illustrated by the allegory of the soul as a charioteer striving to control two opposing horses. The second part shifts to a critical examination of rhetoric and writing, arguing that true rhetoric must be founded on philosophical knowledge of truth and a systematic understanding of the soul’s nature, contrasting this with the manipulative techniques of contemporary oratory. The dialogue also presents the influential doctrine that learning is the soul’s recollection of knowledge possessed before birth and offers a famous critique of writing as a static, inferior substitute for living dialectical exchange. The Phaedrus survives complete through the medieval manuscript tradition of Plato’s works, its standard reference being the 373 passages established by the 1578 Stephanus pagination. Profoundly influential, its myth of the soul’s chariot became central to later Platonic psychology, while its theory of intellectual love fundamentally shaped the Western concept of Platonic love. Its analysis of rhetoric as a true art of soul-leading and its skeptical examination of writing remain cornerstones for philosophical and literary studies of communication.
+
 ## Text
 
 ### Phaedr.227.a

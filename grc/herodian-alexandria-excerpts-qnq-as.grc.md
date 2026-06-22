@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-as` · [HTML page](https://eulogikon.org/works/herodian-alexandria-excerpts-qnq-as)
 
+The Excerpts from Herodian is a collection of twenty-six grammatical passages attributed to the second-century CE grammarian Herodian of Alexandria. A prolific and definitive authority on Greek accentuation and morphology, Herodian's major work was the comprehensive treatise known as the Catholica. This later compilation, likely assembled for pedagogical or reference use in later antiquity or the Byzantine period, represents a selective distillation of his vast scholarly output. The excerpts focus on technical aspects of Greek grammar, including prosody and accentuation rules, morphological inflection, orthography, and analogical principles. Herodian's works survive only in fragments and later epitomes, and this collection exemplifies that fragmented transmission, having been preserved within the Byzantine manuscript tradition, often alongside excerpts from other grammarians such as Theodosius of Alexandria. Herodian's influence was profound and enduring; his systematic rules for accentuation became and remain standard for the study of Ancient Greek. The very existence of this compiled work underscores his lasting authority, as evidenced by later Byzantine scholars like George Choeroboscus, who continued to study and comment extensively on his grammatical doctrines.
+
 ## Text
 
 ### 412 (1t)

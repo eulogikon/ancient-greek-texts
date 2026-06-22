@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ag` · [HTML page](https://eulogikon.org/works/plato-republic-ffk-ag)
 
+The Republic is a philosophical dialogue composed by Plato around 380–360 BCE. Presented across ten books, it takes the form of an extended conversation led by Socrates, who begins by investigating the nature of justice. To illuminate this concept, Socrates and his interlocutors construct a detailed theoretical model of an ideal city-state. The dialogue’s central argument posits an analogy between the city and the individual soul, asserting that the structure of a just city mirrors the harmonious order of a just soul, each comprising three analogous parts: rulers, guardians, and producers in the city, corresponding to reason, spirit, and appetite in the soul.
+
+The work is renowned for its profound allegories, most notably the Allegory of the Cave and the Simile of the Sun, which dramatize the philosopher’s arduous ascent from ignorance to knowledge of ultimate reality, or the Forms. Key components of the ideal state include a rigorous educational program for a guardian class and the radical proposal that governance be entrusted to philosopher-kings, rulers who have achieved knowledge of the Form of the Good. The dialogue also contains a sustained critique of poetry and mimetic art for their influence on the soul’s lower elements.
+
+Scholars often interpret The Republic as Plato’s response to the political instability of Athens following the Peloponnesian War and the trial and execution of Socrates. It offers a vision of a rationally ordered society intended as a critical alternative to the perceived shortcomings of Athenian democracy. The complete text has been preserved through medieval manuscript traditions, with a principal source being the 9th-century manuscript Parisinus Graecus 1807. The standard reference system for the dialogue uses the page numbers from the 1578 edition published by Henri Estienne.
+
 ## Text
 
 ### Resp 327 a

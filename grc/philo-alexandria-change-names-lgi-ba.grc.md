@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-ba` · [HTML page](https://eulogikon.org/works/philo-alexandria-change-names-lgi-ba)
 
+On the Change of Names is a philosophical treatise by the first-century Jewish philosopher Philo of Alexandria. It forms a part of his extensive Allegorical Commentary on the Book of Genesis, employing an interpretive method that seeks the universal spiritual truths beneath the surface of biblical narratives. The work focuses primarily on the episodes in Genesis where the patriarchs' names are altered by God, specifically Abram becoming Abraham and Sarai becoming Sarah. For Philo, these changes are not mere historical details but profound allegories for the soul's transformation. He argues that a name change signifies a fundamental progression in virtue and a movement toward a more authentic comprehension of the divine.
+
+Philo composed the treatise in Greek within the intellectually vibrant context of Alexandria, aiming to articulate the tenets of Jewish scripture through the conceptual language of Hellenistic philosophy for an educated audience. The complete text survives, organized in modern editions into 252 sections. A central philosophical theme developed throughout is the distinction between the utterly transcendent, unchangeable nature of God and the mediating divine "Powers" through which God engages with creation. The work stands as a prime exemplar of Philo's allegorical exegesis, wherein scriptural figures and events symbolize ethical and metaphysical principles. This methodological approach proved highly influential on subsequent Christian theologians, such as Origen, who adopted and adapted similar allegorical strategies for interpreting the Bible.
+
 ## Text
 
 ### Mut t

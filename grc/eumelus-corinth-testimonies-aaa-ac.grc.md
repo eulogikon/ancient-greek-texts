@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aaa-ac` · [HTML page](https://eulogikon.org/works/eumelus-corinth-testimonies-aaa-ac)
 
+The Testimonies is a lost work of early Greek epic poetry attributed to the semi-legendary poet Eumelus of Corinth. Known only from brief mentions in much later ancient sources, it is described as an account of Corinthian antiquities, likely containing local foundation myths, genealogies of ruling families, and descriptions of religious customs unique to the city. No direct quotations from the work survive; our knowledge derives entirely from two later testimonia that preserve only its title and attribution. Eumelus is traditionally dated to the eighth century BCE, and his works, including the Testimonies, are considered part of a regional epic tradition that sought to integrate local Corinthian narratives into the broader tapestry of Greek myth, often with the aim of legitimizing the political elite by connecting them to heroic and divine ancestors.
+
 ## Text
 
 ### 3b,451,T 1

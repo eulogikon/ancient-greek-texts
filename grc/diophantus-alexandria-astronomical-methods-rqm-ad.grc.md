@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rqm-ad` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-astronomical-methods-rqm-ad)
 
+The Astronomical Calculation Methods is a Byzantine-era practical handbook attributed to a figure named Diophantus of Alexandria II, who is distinct from the famous 3rd-century mathematician of the same name and is otherwise unattested in major historical sources. The work comprises thirteen passages detailing mathematical procedures essential for astronomical practice, focusing on the precise multiplication and division of fractional units derived from the zodiacal circle. It systematically explains the division of the circle into 360 degrees, each degree into 60 primary parts or 'first minutes', and further subdivisions, establishing a foundational framework for calculation. The content is characteristic of the applied astronomical tradition, encompassing methods for calendrical computation, eclipse prediction, and modeling planetary motion. Surviving as a structured collection, its precise manuscript history remains unclear, and the attribution likely represents a later scribal effort to lend authority by association with the renowned earlier Diophantus. As a concise, distilled compilation, the text exemplifies the handbook genre aimed at students and practitioners, underscoring the continuity of technical astronomical study in the Byzantine world and its reliance on the established mathematical foundations of Greco-Roman science.
+
 ## Text
 
 ### [5]

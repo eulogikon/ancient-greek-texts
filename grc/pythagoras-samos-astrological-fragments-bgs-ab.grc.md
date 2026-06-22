@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bgs-ab` · [HTML page](https://eulogikon.org/works/pythagoras-samos-astrological-fragments-bgs-ab)
 
+No work titled Astrological Fragments is authentically attributed to Pythagoras of Samos. The historical Pythagoras wrote nothing, and all knowledge of his teachings comes from later, often fragmentary, reports by other philosophers. Consequently, a collection of astrological verse fragments bearing his name has no basis in the genuine Pythagorean tradition. While the specific content of such a spurious compilation cannot be described, the astronomical themes later developed by his followers and frequently ascribed to him include the mathematical order of the cosmos, the harmony of the spheres, the central fire cosmological model, and the possible connection between the transmigration of souls and celestial cycles. There exists no direct manuscript tradition for works by Pythagoras; his ideas were transmitted indirectly through figures like Plato and Aristotle and through much later biographical accounts. Any fragments circulating under his name are later reconstructions or forgeries. Despite the inauthenticity of such texts, the astronomical concepts developed within the Pythagorean school were profoundly influential, shaping Platonic cosmology and contributing to the foundations of mathematical astronomy. The enduring practice of pseudepigraphically attributing such works to Pythagoras itself testifies to his lasting authority in both esoteric and scientific thought.
+
 ## Text
 
 ### book 114

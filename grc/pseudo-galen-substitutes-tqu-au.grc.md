@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-au` · [HTML page](https://eulogikon.org/works/pseudo-galen-substitutes-tqu-au)
 
+On Substitutes is a short, practical medical treatise transmitted under the name of the physician Galen but universally considered by modern scholars to be a spurious, pseudo-Galenic work. Its date of composition is uncertain, though it was likely compiled in the late antique or early Byzantine period, between the second and sixth centuries CE. Written in Koine Greek, the text functions as a concise pharmacological handbook with a singular, utilitarian purpose: to list suitable replacements for rare, expensive, or locally unavailable ingredients used in compound medicines. The work is systematically organized into twenty-seven passages, each typically naming a primary drug substance followed by one or more effective alternatives. This structure reflects the practical needs of physicians and pharmacists in the Greco-Roman world, who required guidance in adapting standard recipes based on the constraints of availability and cost. The treatise survives complete solely because it was incorporated into the larger Galenic corpus copied throughout the Middle Ages; its false attribution to the famous authority is thought to have been a deliberate strategy to ensure its preservation and lend it credibility. Devoid of theoretical discussion, On Substitutes is a valuable example of applied, rather than speculative, medical writing from late antiquity, directly addressing the everyday challenges faced by medical practitioners.
+
 ## Text
 
 ### 19 721 (t1)

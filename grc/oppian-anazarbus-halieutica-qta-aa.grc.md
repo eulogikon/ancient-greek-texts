@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qta-aa` · [HTML page](https://eulogikon.org/works/oppian-anazarbus-halieutica-qta-aa)
 
+The Halieutica, also known as Fishing, is a five-book didactic epic poem composed in Greek hexameter verse by Oppian of Anazarbus around 177–180 CE. Dedicated to the Roman emperors Marcus Aurelius and Commodus, the work systematically catalogues the inhabitants of the sea and the methods for their capture. It opens with a proem on the divine origins of fishing before detailing the characteristics and behaviors of numerous fish, broadly categorized as harmless or predatory. The scope expands to include other marine creatures such as octopuses and whales. The final book returns to practical instruction, describing techniques involving nets, hooks, and various traps. Throughout, the poem blends observations of natural history with mythological references and moralizing digressions, portraying the aquatic world as a theater of perpetual struggle and cunning.
+
+The complete text, approximately 3,500 lines in length, survives through medieval manuscript tradition, with a 10th-century copy being of particular importance. Modern scholarship situates the work within the literary culture of the Second Sophistic, viewing it as a display of refined erudition intended for an educated elite audience while also functioning as a form of imperial encomium. The poem elevates fishing to the status of a skilled art and frequently employs the behavior of fish to draw analogies to human virtues and vices. Valued in antiquity and again during the Renaissance, the Halieutica was long regarded as an authoritative and stylistically accomplished compendium of marine lore.
+
 ## Text
 
 ### book 1.1

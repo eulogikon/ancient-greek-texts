@@ -33,9 +33,9 @@ Aristophanes Scholia are ancient grammatical commentaries from the Hellenistic e
 - [Old Scholia on Frogs](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-frogs-mlw-au.grc.md) — *Σχόλια εἰς Βάτραχους* · `mlw-au`
 - [Old Scholia on Wealth](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-wealth-mlw-as.grc.md) — *Σχόλια εἰς Πλοῦτον* · `mlw-as`
 - [Scholia-Birds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-birds-mlw-at.grc.md) — *Σχόλια εἰς Ὄρνιθας* · `mlw-at`
-- [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ap.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ap`
 - [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ar.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ar`
 - [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ao.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ao`
+- [Scholia-Clouds](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-clouds-mlw-ap.grc.md) — *Σχόλια εἰς Νεφέλας* · `mlw-ap`
 - [Scholia-Ecclesiazusae](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-ecclesiazusae-mlw-ab.grc.md) — *Σχόλια εἰς Ἐκκλησιάζουσας* · `mlw-ab`
 - [Scholia-Knights](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-knights-mlw-am.grc.md) — *Σχόλια εἰς Ἱππεῖς* · `mlw-am`
 - [Scholia-Lysistrata](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia-lysistrata-mlw-af.grc.md) — *Σχόλια εἰς Λυσιστράτην* · `mlw-af`

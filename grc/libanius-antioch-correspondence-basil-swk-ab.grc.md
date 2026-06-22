@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ab` · [HTML page](https://eulogikon.org/works/libanius-antioch-correspondence-basil-swk-ab)
 
+The Correspondence of Basil and Libanius is a collection of seventy letters exchanged in Attic Greek between two prominent figures of the late fourth century CE: Libanius, the celebrated pagan rhetorician of Antioch, and Basil, the influential Christian bishop of Caesarea. The collection presents thirty-five letters attributed to each correspondent, dating from approximately the 350s until Basil's death in 379. Their contents revolve around themes of personal friendship, intellectual discourse, and the social mechanics of patronage, such as the recommendation of students or the solicitation of professional favors.
+
+This epistolary exchange serves as a crucial document from an era of profound religious transformation, illustrating how elite culture remained grounded in a shared Greek educational tradition, or paideia, capable of bridging the growing divide between Christianity and paganism. Both men were consummate stylists of refined, classicizing prose, and their letters consistently affirm a mutual admiration for eloquence and literary cultivation. For modern scholarship, the correspondence exemplifies the intricate relationship between Christian faith and classical culture, demonstrating how a leading bishop could adeptly employ the tools of Hellenic rhetoric.
+
+A central question concerning the collection is its authenticity. While the letters from Libanius to Basil are widely accepted as genuine, a significant number of the replies ascribed to Basil are considered by many scholars to be later forgeries or rhetorical exercises. Some researchers further contend that the entire bilateral exchange may have been constructed posthumously to burnish Libanius's reputation by associating him with a major Christian intellectual. Consequently, the correspondence is valued primarily as a reflection of late-antique cultural ideals and dynamics, rather than as a verbatim historical record of a private dialogue. The letters survive within the larger manuscript traditions preserving the complete works of both authors.
+
 ## Text
 
 ### 1 t

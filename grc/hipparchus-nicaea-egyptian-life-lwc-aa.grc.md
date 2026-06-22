@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lwc-aa` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-egyptian-life-lwc-aa)
 
+The Fragments on Egyptian Life is a modern designation for two technical excerpts from a lost scientific work by the Greek astronomer Hipparchus of Nicaea, composed in the second century BCE. These passages are preserved not as an independent text but within a much later sixth-century CE commentary by John Philoponus, on whom their survival entirely depends. Written in Koine Greek, the fragments offer a critical analysis of the Egyptian civil calendar, specifically noting its fixed 365-day year. Hipparchus details the calendar's gradual misalignment with the solar cycle and its divergence from seasonal astronomical events, such as the heliacal rising of the star Sirius. He employed Egyptian calendrical practices as a comparative data point within his broader astronomical research, likely as part of a larger, now-lost treatise arguing for a more precise calculation of the solar year. The work exemplifies the cross-cultural scholarship of the Hellenistic period, in which Greek scientists like Hipparchus systematically compiled and scrutinized observational data from Babylonian, Egyptian, and Greek traditions to advance the field of mathematical astronomy.
+
 ## Text
 
 ### 496

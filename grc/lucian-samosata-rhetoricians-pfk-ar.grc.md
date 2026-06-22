@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ar` · [HTML page](https://eulogikon.org/works/lucian-samosata-rhetoricians-pfk-ar)
 
+Teacher of Rhetoricians is a satirical oration by Lucian of Samosata, composed in Attic Greek around 163–165 CE. The work functions as a parody of the instructional handbooks and pedagogues of the Second Sophistic, a cultural movement defined by its revival of elaborate Greek rhetorical display. Structured as a mock public lecture, the text humorously delineates a path to professional success that cynically prioritizes wealth, fame, and superficial effect over intellectual substance or ethical integrity. Posing as a worldly-wise instructor, the narrator advises an ambitious young student to master a repertoire of cheap theatrical tricks, flatter wealthy patrons assiduously, and rely on memorized, pre-written speeches rather than genuine improvisational skill.
+
+The oration offers a direct and trenchant critique of the rhetorical establishment of Lucian’s own era. It is widely believed to have been written shortly after the author himself abandoned a career as a traveling public speaker, thus providing an insider’s perspective on what he viewed as the pervasive hypocrisy and commercialism of the profession. The complete text survives within the transmitted Lucianic corpus, and its authenticity is generally undisputed. As a historical document, it provides valuable insight into the educational practices and cultural preoccupations of the Roman Imperial period, while simultaneously serving as a prime example of Lucian’s characteristic blend of sharp wit, ironic parody, and moral critique.
+
 ## Text
 
 ### Rh Pr t

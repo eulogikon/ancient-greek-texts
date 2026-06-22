@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bg` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-demetrius-antony-okg-bg)
 
+The Comparison of Demetrius and Antony is a concluding essay by the biographer Plutarch, composed around 100–120 CE as the final section of his paired biographies of Demetrius I Poliorcetes and Mark Antony. It systematically analyzes the two rulers, examining the parallels in their careers and characters that led to their dramatic downfalls. Plutarch structures his analysis as a series of ethical points, comparing their shared traits of immense ambition, prodigal extravagance, and susceptibility to passion, while also noting the differences in their historical contexts and inherited circumstances. The work survives intact within the manuscript tradition of Plutarch's Parallel Lives. His purpose is fundamentally moral, using these historical figures as case studies to illustrate how great natural talent and fortune can be utterly corrupted by a lack of self-mastery. Modern scholars often view this particular pairing as one of Plutarch's most pointed moral lessons, presenting both the Hellenistic king and the Roman triumvir as vivid, cautionary examples of vice. Their compelling narratives, marked by military brilliance, political overreach, and famously tumultuous relationships with powerful women, provided Plutarch with ideal material for his philosophical exploration of character and the consequences of ethical failure.
+
 ## Text
 
 ### 1 1

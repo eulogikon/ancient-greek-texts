@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bx` · [HTML page](https://eulogikon.org/works/herodian-alexandria-verbs-qnq-bx)
 
+On Verbs is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. The work constitutes a systematic analysis of Greek verbal morphology, methodically addressing conjugation patterns, tenses, moods, and irregular forms. It is preserved as a collection of 41 distinct passages, each examining specific verbal usages. Herodian’s approach blends descriptive observation with prescriptive rules, seeking to establish authoritative norms based on the classical Attic Greek that served as the standard for educated discourse during the Roman Imperial period. Composed within the intellectual milieu of the Second Sophistic, a movement that prized linguistic precision and paideia, the treatise was likely intended for advanced students, rhetoricians, and scholars requiring a reliable guide to correct expression. It forms part of Herodian's larger scholarly project to codify the rules of the Greek language. The complete, original text does not survive independently but is known through fragments and excerpts quoted extensively by later Byzantine grammarians and lexicographers. The extant collection of passages likely represents these excerpts, transmitted as a coherent unit within the medieval grammatical tradition. Despite its fragmentary state, Herodian's work remained a foundational reference for Greek linguistics for centuries, exerting a profound influence on Byzantine education and later philological study.
+
 ## Text
 
 ### 3,2 787 (1t)

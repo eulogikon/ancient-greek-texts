@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-be` · [HTML page](https://eulogikon.org/works/philo-alexandria-decalogue-lgi-be)
 
+On the Decalogue is a philosophical treatise by Philo of Alexandria, a Jewish philosopher of the early first century CE. Written in Greek, the work presents a detailed exegesis of the Ten Commandments, which Philo regards not merely as religious statutes but as the foundational and universal principles from which all other Mosaic laws derive. The treatise opens with a discussion on the divine origin and revelation of the law, followed by a systematic analysis of each commandment, giving balanced consideration to obligations toward God and duties toward fellow human beings.
+
+Composed in the cosmopolitan intellectual environment of Alexandria, the treatise seeks to articulate Jewish law within the framework of Greek philosophical concepts. Philo argues that the Decalogue embodies a rational, natural law accessible to human reason, thereby harmonizing Stoic and Platonic ideas with biblical tradition. His interpretation aims to demonstrate the ethical coherence and philosophical depth of the Mosaic code, addressing both a Jewish audience and curious non-Jews. The complete text of On the Decalogue has been preserved through medieval Greek manuscripts, copied by Christian scribes who valued Philo's philosophical approach to scripture.
+
 ## Text
 
 ### Decal t

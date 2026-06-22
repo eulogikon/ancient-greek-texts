@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tsi-aa` · [HTML page](https://eulogikon.org/works/marinus-neapolis-euclid-data-tsi-aa)
 
+Marinus of Neapolis’s Commentary on Euclid's Data is a 5th-century CE philosophical treatise composed in Attic Greek. As the successor to Proclus as head of the Platonic Academy in Athens, Marinus produced this work as a Neoplatonic exegesis of Euclid’s mathematical text, the Data, a geometric treatise concerned with how certain properties become determined or "given" when others are specified. The commentary is structured with an extensive prologue followed by a lemma-by-lemma analysis of Euclid’s propositions. This prologue is of particular significance, as it systematically examines the title, purpose, and educational utility of the Data, situating it within the Neoplatonic curriculum where the mathematical sciences served as a preparatory discipline for the study of philosophy. Only a portion of the complete text survives, consisting of the full prologue and the initial section of the detailed commentary, with the remainder lost. The primary witness is a 10th-century Greek manuscript. Modern scholarship regards the commentary as a crucial document for understanding how late antique philosophers engaged with foundational scientific texts, emphasizing logical structure, causal relationships, and the hierarchical progression of knowledge. Written with a clear pedagogical intent for students of the Athenian school, the work offers valuable insight into the teaching methods and the philosophical interpretation of mathematics in late antiquity.
+
 ## Text
 
 ### 234

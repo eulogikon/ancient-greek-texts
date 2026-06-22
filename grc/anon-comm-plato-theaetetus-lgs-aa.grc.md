@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgs-aa` · [HTML page](https://eulogikon.org/works/anon-comm-plato-theaetetus-lgs-aa)
 
+The Commentary on Plato's Theaetetus is an ancient philosophical treatise, likely composed in the second century CE by an anonymous author. Written in Koine Greek, it offers a line-by-line exegesis of Plato's dialogue the Theaetetus, which examines the nature of knowledge. The work proceeds by quoting a brief passage from Plato and then furnishing detailed explanatory notes, engaging deeply with the dialogue's arguments and clarifying its philosophical terminology. Designed for advanced students or scholars, it reflects the professionalized scholarly approach to philosophy during the Roman Imperial period. The commentator frequently critiques rival schools of thought, particularly the Stoics and Epicureans, while defending a Platonic viewpoint.
+
+The text survives only in a fragmentary state, preserved on a single damaged papyrus scroll known as Papyrus 978. This scroll was excavated from the Villa of the Papyri in Herculaneum, which was buried by the eruption of Mount Vesuvius in 79 CE. The 84 extant columns represent a continuous but incomplete portion of the original work; both the beginning and the end are lost. There is no medieval manuscript tradition for this commentary, making its survival entirely dependent on this carbonized papyrus, which modern scholars read using advanced imaging techniques. Its discovery provides crucial insight into the methods of studying and debating Platonic texts in antiquity.
+
 ## Text
 
 ### 1 [24-49]

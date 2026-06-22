@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-aa` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-thesmophoriazusae-mlw-aa)
 
+The Scholia-Thesmophoriazusae constitute a body of ancient and Byzantine explanatory notes, or scholia, composed in Greek to elucidate Aristophanes' comedy Thesmophoriazusae, first performed in 411 BCE. These anonymous annotations are compilations by later scholars, with layers of commentary accumulated from the Hellenistic period onward. Their primary function is to serve as a detailed exegetical guide, clarifying the play's complex language, historical allusions, Athenian customs, and its extensive parodies of Euripidean tragedy. The work comprises 386 discrete commentary passages, each linked to a specific line of the original verse comedy. The notes range from concise lexical glosses to more expansive discussions of cultural context. The scholia do not exist as an independent text but are preserved within the margins of medieval manuscripts of the play itself. Modern scholarship regards this compilation as a condensed selection derived from more extensive, now-lost commentaries, likely created to aid students and readers in later centuries in navigating the play's dense, historically specific humor. As a fundamental resource for interpreting the comedy, the scholia provide indispensable insight into classical Athenian life and the history of ancient philological scholarship.
+
 ## Text
 
 ### book ante 1

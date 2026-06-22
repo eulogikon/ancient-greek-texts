@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-ao` · [HTML page](https://eulogikon.org/works/pseudo-galen-remedies-tqu-ao)
 
+_On Obtainable Remedies_ is an anonymous Greek medical treatise comprising 271 concise passages, each detailing a specific medicinal recipe. As a practical pharmacopoeia focused on preparable treatments, it systematically compiles drug formulas using accessible, often plant-based ingredients for a wide range of ailments. The work opens by explicitly stating its purpose: to provide medical aid for those living outside cities, in rural or remote areas, where expensive drugs and trained physicians are scarce. Although transmitted as part of the Hippocratic corpus, it is not a genuine work of Hippocrates but reflects the utilitarian medical literature of the Hellenistic or Roman period. Each entry typically lists specific ingredients and their quantities, describes methods of preparation such as decoctions, plasters, and ointments, and notes the applications for targeted conditions. The text survives primarily through its inclusion in the medieval Greek manuscript tradition of the Hippocratic collection, a preservation owed to Alexandrian scholarship and subsequent Byzantine medical encyclopedism which valued such practical handbooks. The treatise offers direct insight into the empirical pharmacology and daily therapeutic practice of ancient physicians. As part of the transmitted Hippocratic tradition, it represents a strand of foundational medical knowledge that would later be expanded and systematized by influential figures such as Galen and Dioscorides.
+
 ## Text
 
 ### 14 311 (t1)

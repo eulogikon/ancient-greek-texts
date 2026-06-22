@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-eh` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-demetrius-okg-eh)
 
+Plutarch’s Life of Demetrius is one of the paired biographies in his Parallel Lives, composed in Greek during the early 2nd century CE. It chronicles the dramatic career of Demetrius I of Macedon, known as Poliorcetes, or “the Besieger,” a dynamic military leader and one of the successors to Alexander the Great. The work follows Plutarch’s characteristic focus on character rather than strict chronology, detailing Demetrius’s ambitious military campaigns, grand projects such as the famous siege of Rhodes, his personal extravagance, and his eventual political and personal decline. In the Parallel Lives, Demetrius is explicitly paired with the Roman triumvir Mark Antony, inviting a comparison of two figures whose considerable talents and initial successes were ultimately undermined by vice, impulsiveness, and the corrupting influence of fortune.
+
+The biography is structured as a continuous prose narrative, preserved in full through medieval manuscripts as part of Plutarch’s transmitted corpus. Modern editions typically divide the text into approximately 280 numbered sections for reference. Interpreted as a moral and pedagogical essay for an educated Greco-Roman audience under the Roman Empire, the work functions as a cautionary tale. It examines how power and success can corrupt, exploring the dangers of hubris, a lack of self-control, and the inherent instability of political fortune. Through the lens of Demetrius’s life, Plutarch probes enduring themes of leadership, the nature of virtue, and the inconstancy of human affairs.
+
 ## Text
 
 ### Demetr t 1

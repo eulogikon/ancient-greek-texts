@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cdu-aa` · [HTML page](https://eulogikon.org/works/hermias-methymna-sicilian-customs-cdu-aa)
 
+The Fragments on Sicilian Customs by Hermias of Methymna is a lost ethnographic treatise known only through a handful of brief quotations preserved in the lexicon of Hesychius of Alexandria. The original work, which appears to have described the dialect and cultural practices of the Greek colonies in Sicily, survives in just three glosses explaining Sicilian Greek vocabulary. These fragments define the word for a type of bulb or onion, which also served as a term of abuse for a foolish person; the name for a species of thrush; and a verb meaning to jest or play the buffoon. The work has no independent manuscript tradition and its title is reconstructed from the citations in Hesychius's Alphabetical Collection of All Words, which represents its sole means of transmission. These remnants constitute a minor example of Hellenistic scholarship devoted to regional dialectology, and the treatise's only historical significance lies in its contribution of rare terms to later lexicography, thereby preserving a faint trace of the Sicilian Greek vernacular.
+
 ## Text
 
 ### 1 (1t)

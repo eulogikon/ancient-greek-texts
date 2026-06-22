@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-af` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-four-parts-speech-rhg-af)
 
+_On the Four Parts of Perfect Speech_ is an anonymous Greek rhetorical treatise that systematically analyzes the structure of a complete oration. The work identifies and examines the four constituent parts of a perfect speech: the prooimion, or introduction; the diegesis, or narration of facts; the pistis, or section of proofs; and the epilogos, or conclusion. Preserved in eighteen labeled sections, the text provides definitions and practical guidance on the function and construction of each part, offering instruction on the theory of rhetorical composition and effective public speaking. While the specific influence and transmission history of this particular treatise remain unclear, its preservation indicates it was copied and studied within the later rhetorical tradition. Its focused analysis reflects the enduring and standard model of the four-part speech, a fundamental structural principle in ancient rhetorical theory.
+
 ## Text
 
 ### 3.570.(1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bv` · [HTML page](https://eulogikon.org/works/aristides-orator-asclepiads-qwm-bv)
 
+The Asclepiads is a prose oration by the Greek rhetorician Aelius Aristides, composed approximately between 170 and 171 CE. It constitutes the fourth narrative within his larger autobiographical work, the Sacred Tales, a six-part collection chronicling his prolonged illness and his intimate experiences with the healing god Asclepius. Written in refined Attic Greek, the text is structured as a series of six passages that function as a devotional diary. These entries meticulously record divine dreams, specific medical prescriptions received from the god—including commands to fast, undergo bloodletting, or endure cold baths—and Aristides’ own philosophical and rhetorical reflections on his suffering and gradual recovery.
+
+Fully preserved within the medieval manuscript tradition of Aristides’ complete works, the Asclepiads is not a formal public declamation but a first-person account that seamlessly blends autobiography with a hymn of praise. As a leading figure of the Second Sophistic, a cultural movement dedicated to the revival of classical Greek language and learning under Roman rule, Aristides imbues his personal narrative with sophisticated rhetorical artistry. Modern scholarship interprets the work as a profound religious testimony, likely intended for circulation among an educated circle of peers and fellow devotees of Asclepius. It provides a unique and invaluable window into ancient therapeutic practices, the authoritative role of dreams in diagnosis and treatment, and the personal experience of chronic illness in the second-century Roman Empire.
+
 ## Text
 
 ### 41

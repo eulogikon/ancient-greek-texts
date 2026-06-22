@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bu` · [HTML page](https://eulogikon.org/works/herodian-alexandria-verses-qnq-bu)
 
+_On Verses_ is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work systematically addresses the rules for measuring poetic verses by syllable quantity, forming part of Herodian's broader project to establish authoritative rules for Greek literary language. It is described as an oration in four passages, though its specific content is not detailed in surviving sources. The extant text begins by defining a verse as a composition of syllables and words that indicates rhythm and length, proceeding to classify twelve distinct types of verse based on their metrical structure and sonic qualities. These include the isochronous, complete, headless, slender, curtailed, harsh, soft-sounding, ill-sounding, prose-like, headed, wasp-waisted, and long-tailed.
+
+The treatise focuses primarily on prosody and meter, analyzing Greek poetic rhythm based on syllable quantity. It exemplifies Herodian's characteristically rigorous, rule-based approach to systematizing the mechanics of the Greek language and contributes to the broader Alexandrian endeavor of defining correct usage for classical literary forms. Herodian's vast output is largely lost, surviving only in fragments and later epitomes. _On Verses_ is not among his most frequently cited titles, suggesting it is particularly fragmentary or known primarily by secondary reference. His influence was transmitted indirectly through later Byzantine grammatical manuals and scholia, which preserved and disseminated his doctrines.
+
+Herodian was considered a paramount authority on Greek grammar in antiquity. His works, foundational for Byzantine education, decisively shaped the medieval and modern understanding of Greek accentuation and prosody. While the specific treatise _On Verses_ remains obscure, Herodian's overall contributions to metrical theory were integral to preserving the systematic study of Greek poetry. His methodologies provided the technical framework that allowed later generations to analyze and appreciate the formal structure of ancient verse.
+
 ## Text
 
 ### 1

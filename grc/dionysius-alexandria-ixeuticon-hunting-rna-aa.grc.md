@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rna-aa` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-ixeuticon-hunting-rna-aa)
 
+The Ixeuticon or On Hunting is a prose paraphrase by Dionysius of Alexandria of the late second-century CE didactic hexameter poem Cynegetica by Oppian of Apamea. This technical treatise systematically reworks the poetic original into sixty-three prose passages, simplifying and explicating its content for pedagogical use. The work details practical hunting lore, with a particular focus on fowling, as indicated by its title derived from the Greek word for birdlime or fowler. It provides instructions on techniques for trapping and catching game, observations on animal behavior and characteristics, and the use of equipment such as nets and snares. The Ixeuticon survives in medieval manuscripts transmitted alongside Oppian’s original poem. This parallel transmission makes the paraphrase a valuable witness for the textual criticism of the Cynegetica and for understanding ancient interpretative traditions. Dionysius’s work exemplifies the late antique scholarly practice of repackaging poetic texts into accessible prose formats, fitting within an intellectual culture dedicated to preserving and systematizing classical knowledge. Its primary significance lies in its role in the reception and pedagogical dissemination of Oppian’s poem.
+
 ## Text
 
 ### t 1

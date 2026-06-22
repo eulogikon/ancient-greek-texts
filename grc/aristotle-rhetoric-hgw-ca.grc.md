@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ca` · [HTML page](https://eulogikon.org/works/aristotle-rhetoric-hgw-ca)
 
+Aristotle's Rhetoric is a foundational philosophical treatise on the art of persuasion, composed in Athens during the final period of his life, circa 335–322 BCE. The work systematically establishes rhetoric as a legitimate, teachable skill, defining it as the counterpart to dialectic. Aristotle identifies its three primary genres: deliberative oratory, concerned with political debate about future courses of action; forensic oratory, pertaining to legal argument about past events; and epideictic oratory, dealing with ceremonial praise or blame in the present. Its most enduring contribution is the analytical framework of the three artistic proofs: logical argument, the appeal to emotion, and the persuasive force of the speaker's own character.
+
+The treatise is organized into three books. The first book lays the philosophical groundwork, defining rhetoric's scope, purposes, and core principles. The second book provides a detailed psychological analysis of human emotions and various character types, offering the speaker a methodical guide for connecting with and persuading a given audience. The third and final book turns to matters of style and the effective arrangement of the parts of a speech. The work is widely interpreted as Aristotle's effort to reclaim rhetoric as a rational art grounded in philosophy and psychology, a direct response to earlier sophistical teachers whom he criticized for overemphasizing emotional manipulation and stylistic tricks at the expense of substantive argument. It was likely composed for use in his school, the Lyceum, to educate students for effective participation in the civic life of Athens and beyond.
+
+Transmitted intact from antiquity through medieval manuscript traditions, most notably via a key 10th-century Byzantine codex, the Rhetoric has exerted a profound and continuous influence. It fundamentally shaped the theory and practice of oratory in the Roman world, as seen in the works of Cicero and Quintilian, and was rediscovered and revitalized by Renaissance humanists. The treatise remains a cornerstone in the modern study of communication, literary criticism, political discourse, and legal argument, its core insights into persuasion retaining their relevance across millennia.
+
 ## Text
 
 ### Rhet 1354a (t)

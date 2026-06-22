@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dxy-ab` · [HTML page](https://eulogikon.org/works/pherecrates-gluttony-slaves-dxy-ab)
 
+_Fragments on Gluttony and Slaves_ is a modern thematic compilation of passages attributed to the Athenian comic poet Pherecrates, a significant rival of Aristophanes in Old Comedy during the late 5th century BCE. The title describes the collection’s focus rather than an ancient work. Pherecrates was known for his linguistic innovation, his role in formalizing the comic parabasis, and for his inventive plots. These fragments, drawn from various lost plays, survive through later quotation. The assembled passages explore standard comic themes of Classical Athens, including exaggerated eating habits and the figure of the parasite, portrayals of slave life and social hierarchy for humor, and satire of contemporary manners and musical trends. No complete play by Pherecrates survives. The approximately 350 fragments attributed to him are preserved indirectly, primarily through citations in later authors such as the encyclopedist Athenaeus in his Deipnosophistae, as well as by lexicographers and grammarians. These fragments are crucial for reconstructing the scope of Old Comedy beyond the works of Aristophanes. They provide valuable insight into the genre’s thematic range, its linguistic play, and its engagement with the daily life and social attitudes of 5th-century BCE Athens.
+
 ## Text
 
 ### book 1.1

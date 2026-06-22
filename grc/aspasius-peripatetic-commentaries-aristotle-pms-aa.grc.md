@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pms-aa` · [HTML page](https://eulogikon.org/works/aspasius-peripatetic-commentaries-aristotle-pms-aa)
 
+Aspasius's Commentaries on Aristotle's Nicomachean Ethics represents the earliest surviving ancient commentary on any of Aristotle's works. Composed in Greek by the Peripatetic philosopher Aspasius during the second century CE, this treatise offers a detailed, line-by-line exegesis of Aristotle's text. It was produced during a revival of Aristotelian study, likely for use in a scholastic setting, and aims to elucidate Aristotle's often dense arguments and technical terminology, with particular focus on core ethical concepts such as happiness, virtue, and moral choice. The extant portion of the commentary covers Books 1, 2, 3, 4, 7, and 8 of the Nicomachean Ethics; the sections on Books 5, 6, 9, and 10 are lost, and it remains uncertain whether Aspasius ever completed them. The entire surviving work is preserved within a single manuscript from the fourteenth century. Regarded by modern scholars as a foundational text in the history of Aristotelian interpretation, Aspasius's commentary established a methodological precedent that would influence how later philosophers taught and analyzed Aristotle's ethical philosophy for centuries.
+
 ## Text
 
 ### 1 (1t)

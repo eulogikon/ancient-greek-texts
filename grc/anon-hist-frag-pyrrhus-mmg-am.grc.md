@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-am` · [HTML page](https://eulogikon.org/works/anon-hist-frag-pyrrhus-mmg-am)
 
+The work On Pyrrhus is a lost historical text known only from a single fragment preserved by Athenaeus in his Deipnosophistae. The fragment records an anecdote concerning King Pyrrhus of Epirus and his culinary preferences, suggesting the original was a biographical or historical treatise that detailed aspects of the king's life and character through illustrative anecdotes. Its subject matter places it within the broader tradition of Hellenistic historical writing concerning the Diadochi period. The work survives exclusively as a quotation in Athenaeus's compilation, with no independent manuscript tradition. While its direct influence appears minimal and it was not a major source for principal narratives like Plutarch's Life of Pyrrhus, for modern scholarship it serves as a trace of the vast and largely lost corpus of Hellenistic historical writing.
+
 ## Text
 
 ### 2b,159,T 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `khs-aa` · [HTML page](https://eulogikon.org/works/demetrius-younger-cooks-boastful-fragments-khs-aa)
 
+_The Cook’s Boastful Fragments_ is a comedic verse work attributed to Demetrius the Younger, surviving only in eight fragmentary passages. It belongs to the tradition of Greek Middle or New Comedy and centers on the stock character of a boastful cook. The extant fragments showcase the cook's professional arrogance and self-aggrandizement, a comic trait known as alazoneia. He boasts of his service to various Hellenistic rulers, claiming to have introduced elaborate dishes like the "tyrant's lentil soup" and to have saved a banquet during a famine with a single caper. The humor derives from the social dynamics of feast preparation and likely satirizes contemporary culinary extravagance and technical jargon. The work is preserved solely through these fragments, which were likely quoted in later grammatical or lexicographical sources. Demetrius the Younger remains an obscure figure in the history of Greek comedy. While the specific influence of this work is undocumented, the boastful cook character type it exemplifies was highly influential, appearing in the comedies of Menander, adapted by Roman playwrights such as Plautus, and establishing a lasting archetype in Western theatrical tradition.
+
 ## Text
 
 ### book 1.1

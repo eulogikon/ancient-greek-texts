@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ikm-aa` · [HTML page](https://eulogikon.org/works/arcesilaus-pitane-testamentary-letter-ikm-aa)
 
+The Letter with Testamentary Instructions is a personal epistle from the Hellenistic philosopher Arcesilaus of Pitane, founder of the skeptical New Academy in Athens. Addressed to a certain Thaumasias, the letter conveys Arcesilaus's last will and testament, detailing practical arrangements for his household and the posthumous emancipation and support of his slaves. A later codicil modifies these instructions. The complete text is not extant; it survives solely in two excerpts preserved by the biographer Diogenes Laërtius in his Lives of Eminent Philosophers, written centuries after Arcesilaus's death. Diogenes included the letter to exemplify the philosopher's character, emphasizing his prudence, lack of affectation, and humane consideration for his dependents. For modern scholarship, the document provides an authentic, rare glimpse into the private social obligations and domestic concerns of a major intellectual figure, offering a tangible counterpoint to his public philosophical stance advocating the suspension of judgment. The letter's transmission is entirely dependent on the manuscript tradition of Diogenes Laërtius's work.
+
 ## Text
 
 ### 1

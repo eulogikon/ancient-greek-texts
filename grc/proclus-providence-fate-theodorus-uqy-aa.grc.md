@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-aa` · [HTML page](https://eulogikon.org/works/proclus-providence-fate-theodorus-uqy-aa)
 
+On Providence, Fate, and What is Within Us is a philosophical treatise by Proclus, the 5th-century CE head of the Platonic Academy in Athens. Addressed to a correspondent named Theodorus the Mechanic, the work systematically examines the relationship between divine providence, fate, and human autonomy. Proclus constructs a hierarchical model of the cosmos in which providence, as the supreme and benevolent divine cause, operates through fate as its subordinate instrument within the physical realm. A central objective of the treatise is to reconcile the apparent existence of evil and suffering with the concept of a perfectly good divine governance, while simultaneously defending the reality of human free will and moral responsibility. The text is organized into a series of 37 passages. It does not survive as a complete, independent manuscript but is known primarily through fragments preserved in the anthology compiled by the later writer John Stobaeus. Scholars regard the work as a significant contribution to the late Neoplatonic project of articulating a rational, pagan account of cosmic order, produced during a period of intense philosophical and theological debate with emerging Christian thought. It is considered to have been composed for an educated, non-specialist audience, applying complex metaphysical principles to enduring practical questions about human life within a providentially ordered universe.
+
 ## Text
 
 ### 10

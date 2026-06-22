@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hoe-aa` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-testimonies-hoe-aa)
 
+The Testimonies is a lost prose work by the early Hellenistic historian and ethnographer Hecataeus of Abdera, composed in Ionic Greek around the late fourth century BCE. Known only through fragmentary citations in later authors, the work was a collection of ethnographic and historical reports. Its structure, partially preserved in references, suggests an organization into at least one book containing fourteen distinct passages. Hecataeus, who worked in Alexandria under the patronage of Ptolemy I, compiled these accounts during a period of intense Greek scholarly activity focused on systematizing knowledge of the known world. The content of the Testimonies is believed to have described the customs, laws, and foundational myths of various peoples, synthesizing observational detail with mythographic tradition for a Greek readership. It functioned as a sourcebook of authoritative reports on foreign cultures, contributing to the Hellenistic genre of comparative ethnography. The work's complete scope and content remain uncertain due to its fragmentary preservation, relying entirely on quotations by subsequent historians and geographers like Diodorus Siculus. While Hecataeus's more extensive work on Egypt exerted greater influence, the Testimonies played a role in shaping the Greek intellectual engagement with and understanding of non-Greek traditions.
+
 ## Text
 
 ### 3a,264,T 1

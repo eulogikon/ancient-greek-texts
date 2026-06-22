@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rfi-ad` · [HTML page](https://eulogikon.org/works/philostratus-athens-gymnastics-rfi-ad)
 
+The Gymnastics is a technical treatise on athletic training composed as an oration by Philostratus the Athenian, a Greek author of the early third century CE. Written in refined Attic Greek and structured in fifty-five sections, the work functions as a comprehensive manual for coaches preparing athletes for the major Greek games. It provides detailed instruction on ideal physiques, diet, massage, and training regimens, blending this practical advice with cultural commentary and anecdotes about historical and mythological athletes. Modern scholarship situates the text within the Second Sophistic, a movement characterized by the revival of classical Greek rhetoric and culture under Roman rule. A central theme is Philostratus's critique of contemporary professional athletics, which he portrays as corrupt and decadent in contrast to the noble amateur ideals he attributes to the classical Greek past. Consequently, the treatise is regarded not merely as a technical guide but as a sophisticated rhetorical performance that uses the subject of athletics to explore broader themes of Greek cultural identity, traditional education, and nostalgia for a perceived golden age. Preserved in full within manuscripts containing Philostratus's other works, the Gymnastics remains a unique and valuable source for the history of ancient sport and the intellectual preoccupations of the Roman imperial period.
+
 ## Text
 
 ### Gym 1 (t)

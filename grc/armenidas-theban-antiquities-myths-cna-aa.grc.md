@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cna-aa` · [HTML page](https://eulogikon.org/works/armenidas-theban-antiquities-myths-cna-aa)
 
+The Theban Antiquities and Myths, a prose work attributed to Armenidas, is a fragmentary local history focusing on the legends and topography of Boeotia, with particular emphasis on Thebes. Its surviving content, preserved under the title meaning "Extracts," suggests it derives from a more comprehensive original text now lost. The seven extant passages, primarily quoted by scholiasts commenting on Apollonius Rhodius's Argonautica, deal with distinctively regional traditions. These include local mythological variants and foundation stories that often diverge from mainstream epic cycles, genealogical lore connecting heroes to specific place names and cults, and etiological explanations for regional cultic practices and landmarks. The work survives solely through these quotations by later authors and lexicographers, with no independent manuscript tradition, and its fragments were collected by modern scholars such as Felix Jacoby. Armenidas's writing exemplifies the lost genre of Greek local history, providing later antiquarians with valuable references for Boeotian traditions and illustrating how regional narratives persisted alongside more dominant Panhellenic myths. Its primary significance lies in its role as a fragmentary witness to this extensive literary tradition.
+
 ## Text
 
 ## ΘΗΒΑΙΚΑ. Schol.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ewo-aa` · [HTML page](https://eulogikon.org/works/timolaus-cyzicus-river-maeander-ewo-aa)
 
+The geographical treatise On the River Maeander by Timolaus of Cyzicus is lost, surviving only in brief fragments preserved within the pseudo-Plutarchan compilation De Fluviis. The work's Greek title, often rendered as "Extract" or "Fragment," likely reflects its fragmentary state as cited by later sources rather than an original designation. The extant passages provide mythological etiologies for the names of tributaries of the Maeander River, including the Marsyas and the Clitor. Transmitted indirectly through the medieval manuscript tradition of De Fluviis, with no independent textual lineage, the work represents the Hellenistic tradition of blending local geography with foundational myths. As a local historian from Cyzicus, Timolaus contributed to this genre, and his writing served as a source for later imperial mythographical compilations, preserving specific Anatolian legends. It remains a minor source for modern studies of the historical geography of Asia Minor and the sources of the pseudo-Plutarchan corpus.
+
 ## Text
 
 ## ΦΡΥΓΙΑΚΑ. E LIBRO PRIMO.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eqk-aa` · [HTML page](https://eulogikon.org/works/pausanias-xerxes-letters-correspondence-eqk-aa)
 
+The Letters of Pausanias and Xerxes is a pseudepigraphic epistolary work, a rhetorical forgery preserved within the larger anthology known as the Epistolographi Graeci. The text presents a fictional exchange of five short letters between the Spartan regent Pausanias and the Persian king Xerxes I. It dramatizes the historical accusation, famously recorded by Thucydides, that Pausanias conspired with Persia following his victory at the Battle of Plataea in 479 BCE. In the correspondence, Pausanias proposes to betray Greece, offering to make Sparta and the rest of the Greek world subject to Xerxes in return for the king's daughter in marriage and other rewards. Xerxes responds with promises of unlimited gold, silver, and military support, urging Pausanias to proceed with his plans confidently. The letters explore themes of treachery, hubris born of military success, and the potent Greek literary trope of Persian wealth corrupting Greek leaders. A product of the Hellenistic or Roman Imperial period, the work has no historical authenticity but serves as a concise example of a popular ancient genre, using invented correspondence to elaborate upon and enliven a canonical historical narrative. It reflects the enduring literary and moral interest in the dramatic downfall of Pausanias and the lessons drawn from the Persian Wars.
+
 ## Text
 
 ### 1.(t)

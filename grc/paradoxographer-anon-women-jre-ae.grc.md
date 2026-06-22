@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jre-ae` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-women-jre-ae)
 
+The Treatise on Women is an anonymous prose work belonging to the genre of paradoxography, which was dedicated to the systematic cataloging of marvels and unusual facts. The text consists of thirteen concise passages, each describing a remarkable quality or deed associated with a specific woman or group drawn from myth and quasi-history. It survives exclusively as part of a larger anthology of paradoxographical texts contained within the tenth- or eleventh-century manuscript known as Codex Palatinus Graecus 398. The entries focus on female exceptionalism, documenting subjects deemed extraordinary for their virtue, piety, monstrous behavior, or distinctive physical traits. The work blends mythological and historical figures, treating all as equivalent sources of remarkable data, and its themes align with core paradoxographical interests in wonders and ethnographic or biological curiosities. The treatise is transmitted solely within this Palatine manuscript anthology, nestled among works attributed to pseudo-Aristotle and other anonymous compilations, making its survival entirely dependent on this medieval collection. As a minor compilation, the work had no independent literary reception but serves as a clear example of how paradoxography categorized the marvelous. It is studied primarily for its structural approach to wonder and for its textualization of exceptional women within a standardized anthological format.
+
 ## Text
 
 ## ΓΥΝΑΙΚΕΣ ΕΝ ΠΟΛΕΜΙΚΟΙΣ ΣΥΝΕΤΑΙ ΚΑΙ ΑΝΔΡΕΙΑΙ. Σεμίραμις.

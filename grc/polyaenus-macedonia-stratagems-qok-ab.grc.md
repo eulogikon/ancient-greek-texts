@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qok-ab` · [HTML page](https://eulogikon.org/works/polyaenus-macedonia-stratagems-qok-ab)
 
+The Stratagems is an eight-book military treatise composed in Attic Greek by Polyaenus of Macedonia around 161–166 CE. Dedicated to the Roman emperors Marcus Aurelius and Lucius Verus at the outset of their Parthian War, it was designed as a practical manual for the imperial high command. The work functions as a compendium of 833 historical anecdotes, each detailing a clever stratagem or deceptive tactic employed by a commander to secure victory in battle or siege. It is systematically organized: the first six books cover Greek history from legendary times through the Hellenistic period, the seventh book features Romans, Carthaginians, Celts, and women, and the eighth book presents examples from Roman emperors from Augustus to Hadrian. Modern scholarship interprets the work as advocating the superiority of cunning and psychological manipulation over brute force in warfare. While it belongs to the tradition of ancient tactical literature, it is distinguished by its exclusive focus on deceptive maneuvers and its use of historical exempla as practical case studies. The complete text survives today, transmitted primarily through a single 13th-century manuscript that, while preserving the full work, contains numerous scribal errors and lacunae. The Stratagems was valued in the Byzantine era and the Renaissance more as a repository of historical military anecdotes than as a formal strategic treatise, and it remains an important source for stories not otherwise preserved in the historical record.
+
 ## Text
 
 ### 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kzk-ad` · [HTML page](https://eulogikon.org/works/bolus-mendes-testimonies-1-kzk-ad)
 
+The Testimonies (Book 1) is a lost prose work in Koine Greek attributed to Bolus of Mendes, a Hellenistic writer active around 200 BCE. While Bolus is more famously associated with magical and alchemical texts later ascribed to the philosopher Democritus, this work represents a scholarly medical compilation. It is structured as a collection of eight passages, functioning as a doxography that gathers authoritative quotations or testimonies from earlier physicians and philosophers, likely focusing on pharmacology and the properties of natural substances. Only fragments of the text survive, known entirely through later citations in Greek, Byzantine, and Arabic medical writers. The work exemplifies the Hellenistic era's drive to systematize knowledge, blending Greek scientific traditions with Egyptian practical lore. Modern scholars interpret it as a utilitarian reference work, designed for practitioners or students to access consolidated medical opinions. Its compilatory method influenced later scientific writing, and Bolus's role as a conduit for cross-cultural knowledge made his works, even when fragmentary, historically significant.
+
 ## Text
 
 ### 3a,263,T 1

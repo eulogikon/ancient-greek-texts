@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hlw-ac` · [HTML page](https://eulogikon.org/works/demades-paeania-abduction-persephone-hlw-ac)
 
+The work On the Abduction of Persephone is a brief rhetorical fragment attributed to the Athenian orator Demades. It functions as a declamation on the myth of Hades abducting Persephone, exemplifying the epideictic oratory of the period with its emphasis on vivid description and emotional appeal. The fragment presents a dramatic retelling of the abduction, focusing on evoking pity and horror, particularly through the lens of Demeter's grief. It serves as a display of rhetorical technique, prioritizing stylistic imagery over political argument. Preserved as a model of style in medieval manuscripts containing collections of rhetorical exercises, the fragment survives within the corpus of Attic orators. Its authenticity is uncertain, as no full speeches by Demades endure, but it was transmitted for its pedagogical utility. This fragment illustrates the use of mythological commonplaces in rhetorical education. As an exemplar for narrative and emotional composition, it contributed to the tradition of preliminary exercises, underscoring the enduring value placed on epideictic skill within classical education.
+
 ## Text
 
 ### 2b,227,F 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ihk-aa` · [HTML page](https://eulogikon.org/works/hegesippus-mecyberna-pallene-ihk-aa)
 
+The Fragments on Pallene is a lost local history of the Pallene peninsula in Chalcidice, authored by Hegesippus of Mecyberna. The work survives only through a handful of quotations preserved by later authors, most notably the geographer Strabo and the lexicographer Harpocration. These fragments constitute a chorography, blending geographical description with regional mythology. They detail the topography of the peninsula, noting its situation between the Thermaic and Toronaic Gulfs and its fertile plain. The recorded local legends prominently feature the Gigantomachy, including the story of the giant Alcyoneus being slain by Heracles on the Phlegraean plain. Other fragments, preserved by Parthenius, relay romanticized etiological myths concerning the peninsula's namesake, a daughter of the Thracian king Sithon. The text is known exclusively through such secondary citations, with its fragments collected in modern editions of Greek historical remains. Hegesippus’s work served as a source for later specialists, with Strabo using it for the geography of Chalcidice and Harpocration citing it for rare regional terms. Its principal value lies in preserving elements of local tradition and geographical knowledge from northern Greece that would otherwise be lost.
+
 ## Text
 
 ### t1-3

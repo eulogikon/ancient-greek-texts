@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-eo` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-sertorius-okg-eo)
 
+Sertorius is a biography by the Greek philosopher and historian Plutarch of Chaeronea, composed in the early second century CE. It forms one of his Parallel Lives, a collection of paired biographies that compare notable Greek and Roman figures. This work chronicles the career of the Roman general Quintus Sertorius, who led a formidable rebellion against the Roman Senate in Spain during the 80s and 70s BCE. Plutarch traces Sertorius's early military exploits, his political exile following the rise of Sulla, and his establishment of an independent, Roman-style state in Hispania, where he proved a skilled and popular governor. The narrative culminates in his eventual betrayal and assassination by a member of his own staff.
+
+The biography, comprising 147 sections, blends historical narrative with moralizing anecdotes and illustrative tales. Among the most famous is the account of Sertorius using a tame white fawn to convince his Iberian allies of his divine favor and supernatural guidance. Plutarch wrote for an educated, Greek-speaking audience within the Roman Empire, employing historical figures to explore enduring themes of leadership, virtue, fortune, and political morality. Modern scholarship often interprets the portrait as nuanced and sympathetic, presenting Sertorius as a cunning and effective leader, a "good" rebel whose principled governance in Spain is contrasted with the corruption and factionalism of his opponents in Rome. The life is explicitly paired with that of the Greek general Eumenes of Cardia, a companion of Alexander the Great, with Plutarch linking them through the shared theme of extraordinarily capable commanders ultimately betrayed by their own followers. The complete text survives through the medieval manuscript tradition of Plutarch's Lives, primarily in copies dating from the 10th and 11th centuries.
+
 ## Text
 
 ### Sert t 1

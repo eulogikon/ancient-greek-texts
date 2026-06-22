@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cui-ab` · [HTML page](https://eulogikon.org/works/hippon-samos-oceanic-hydrology-cui-ab)
 
+The Fragments on Oceanic Hydrology is a modern descriptive title for the surviving cosmological ideas of the 5th-century BCE Pre-Socratic philosopher Hippon of Samos. No complete text by Hippon survives; his theories are known only through a handful of fragmentary passages quoted or reported by later ancient authors. These fragments present a materialist cosmology in which water and moisture are posited as the fundamental substances of the world. Hippon specifically argued that the sea is the ultimate source of all water, including that found in rivers, springs, and wells, and he assigned it a crucial role in the origin of life. His thinking characteristically blended cosmology with biology, as he also proposed that the soul itself was derived from moisture, specifically locating its origin in the brain or semen. This biologically oriented development of earlier Ionian monist philosophy was criticized in antiquity; Aristotle, for instance, dismissed Hippon’s reductive, materialist conception of the soul as intellectually crude and impious. The transmission of his work is entirely indirect, relying on brief excerpts preserved within the texts of later philosophers, doxographers, and commentators such as Aristotle and pseudo-Plutarch.
+
 ## Text
 
 ### 1

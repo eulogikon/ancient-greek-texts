@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bu` · [HTML page](https://eulogikon.org/works/demosthenes-athens-timothy-fsm-bu)
 
+The forensic oration Against Timotheus for a Debt is a private lawsuit attributed to the Athenian orator Demosthenes. In this speech, the plaintiff prosecutes the prominent general Timotheus, son of Conon, for the repayment of a sum of money. The core legal argument contends that the debt was originally contracted by Timotheus’s father and that, under Athenian inheritance law, Timotheus as heir is liable for the obligation up to the value of the estate he received. The plaintiff narrates a detailed account of the financial transactions, which involved a loan drawn from a banker, and supports his case with references to witness testimony and documentary evidence. A recurring rhetorical strategy contrasts Timotheus’s esteemed public reputation as a military commander with his alleged private misconduct in failing to honor a just debt.
+
+Preserved as Oration 49 in the Demosthenic corpus, the speech’s authenticity has been debated since ancient times, with critics noting stylistic divergences from Demosthenes’s undisputed works. Modern scholarship generally regards it as a skilled logographic composition, likely written by a contemporary in Demosthenes’s circle, which has been transmitted in full through the medieval manuscript tradition. As a model of private forensic oratory, it provides significant insight into the legal procedures and rhetorical tactics surrounding suits for debt and inheritance in fourth-century Athens. Its inclusion in the Demosthenic corpus has ensured its enduring importance for the study of Athenian law, the practice of Attic rhetoric, and questions of textual attribution.
+
 ## Text
 
 ### Or49 1

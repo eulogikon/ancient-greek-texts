@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tla-aa` · [HTML page](https://eulogikon.org/works/manichaean-anon-birth-body-tla-aa)
 
+On the Birth of His Body is a Greek Manichaean prose text preserved as the first treatise in the miniature papyrus codex known as the Cologne Mani Codex, discovered at Lykopolis in Egypt. Dating from the fourth or fifth century CE, the work survives uniquely in this manuscript, its preservation owed to the arid Egyptian climate; it was entirely unknown prior to this modern discovery. Structured as a series of 174 numbered passages, the text presents a revelatory discourse delivered by a divine syzygos or paraclete to an audience addressed as little children. It details the core Manichaean narrative of the primordial conflict between the realms of Light and Darkness, the subsequent embodiment and suffering of the divine Living Soul within the architecture of the material cosmos—including the zodiac and planetary spheres—and the soul’s eventual salvation through gnosis and divine intervention. As a primary source composed within the tradition, the text provides direct insight into Greek Manichaean theology and mythography, free from the polemical distortions of its opponents, and has fundamentally reshaped scholarly understanding of Manichaean doctrine in the Greco-Roman world.
+
 ## Text
 
 ### Fr. 1.(3)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eym-ab` · [HTML page](https://eulogikon.org/works/andocides-against-alcibiades-eym-ab)
 
+Against Alcibiades is a forensic oration from classical Athens, traditionally included among the works of the orator Andocides. Composed in Attic Greek, it dates to the late 5th century BCE and constitutes a political indictment presented before the Athenian Council. The speech’s explicit purpose is to prevent the controversial statesman Alcibiades from being elected as a general. It pursues this aim through a detailed catalogue of accusations, centering on alleged acts of impiety, corruption, and violent hubris, with particular emphasis on his purported parody of the sacred Eleusinian Mysteries. The text, structured into 37 sections, survives in its entirety through the medieval manuscript tradition of Andocides’ collected works.
+
+The authenticity of the speech has been contested since antiquity. Ancient authorities such as Plutarch attributed it not to Andocides but to a contemporary orator named Phaeax. This skepticism is shared by many modern scholars, who frequently regard the work not as an authentic courtroom speech delivered by Andocides, but as a later rhetorical exercise, or melete, composed in the style of the period, possibly during the 4th century BCE. Regardless of its disputed authorship, the oration stands as a vivid specimen of political invective, offering valuable insight into the intense personal rivalries and profound religious sensitivities that characterized Athenian public life during the Peloponnesian War.
+
 ## Text
 
 ### Alc t

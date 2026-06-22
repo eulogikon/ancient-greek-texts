@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dd` · [HTML page](https://eulogikon.org/works/galen-pergamon-powers-foods-qmm-dd)
 
+On the Powers in Foods is a three-book medical treatise composed in Greek by the physician Galen of Pergamon around 180–200 CE. The work systematically details the nutritional and medicinal properties of everyday foodstuffs, classifying each item according to its essential qualities—such as warmth, coldness, dryness, or moisture—and its specific capacity to affect the body's humoral balance. Book I examines cereals and pulses, Book II discusses animal products including meat, milk, and honey, and Book III covers vegetables, fruits, and wine. Functioning as a practical guide for physicians and educated laypersons, the treatise illustrates how diet can be employed to maintain health or treat illness in strict accordance with Hippocratic humoral theory.
+
+The text survives complete in its original Greek and represents a cornerstone of ancient dietetic literature, embodying the foundational medical principle that food constitutes the primary form of therapy. Modern scholarship regards it as a product of Galen's mature efforts to systematize medical knowledge for practical application, synthesizing earlier authorities while rigorously applying his own theoretical framework. Translated into Arabic and later into Latin, the treatise became a foundational text in medieval Islamic and European medicine, maintaining its authoritative status for over a millennium.
+
 ## Text
 
 ### 6 453 (t1)

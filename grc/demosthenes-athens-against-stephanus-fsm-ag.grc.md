@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ag` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-stephanus-fsm-ag)
 
+Against Stephanus (False Testimony II) is a forensic oration composed by Demosthenes of Athens around 350–349 BCE. Written in Attic Greek for a client, it was designed for delivery before an Athenian jury in a private lawsuit alleging false testimony. The speech constitutes a meticulous, systematic rebuttal aimed at a man named Stephanus, who had acted as a witness for the opposing party in a prior, related trial. The case originates in a prolonged legal dispute concerning the considerable estate of the banker Pasion. Following Pasion’s death, his elder son Apollodorus, who is the client represented by Demosthenes, repeatedly initiated lawsuits against his father’s successor, Phormion. After Apollodorus lost one of these earlier cases, he brought this separate action against Phormion’s witness, Stephanus, accusing him of presenting fraudulent testimony. The oration thus offers insight into the fiercely litigious environment of Athenian elite competition, where the courts served as arenas for pursuing financial and personal vendettas. Modern scholarship regards the speech as a strategic illustration of how a suit for false testimony could be employed to challenge and undermine a previous legal judgment.
+
+Thematically, the work concentrates on the criminal offense and societal damage of perjury, while deploying extensive character denigration against Stephanus. It also contains significant references to Athenian commercial law, banking contracts, and inheritance controversies. The oration survives in its entirety as Speech 46 within the Demosthenic corpus, transmitted through medieval manuscripts, and is generally accepted by scholars as an authentic client speech composed by Demosthenes.
+
 ## Text
 
 ### Or46 1

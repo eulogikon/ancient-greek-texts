@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ap` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-causes-iso-ap)
 
+The Aetia, or Causes, is a major elegiac poem by the Hellenistic poet and scholar Callimachus of Cyrene, composed in the 3rd century BCE. This extensive work, structured in four books, belongs to the genre of aetiological poetry, offering poetic explanations for the mythical and historical origins of diverse Greek customs, cult practices, names, and rituals. The original text, comprising several thousand lines, does not survive intact; its content is known today through reconstruction from over two hundred fragments preserved in papyrus scraps, quotations by later authors, and ancient prose summaries. The poem was not a continuous narrative but a series of self-contained episodes unified by the theme of investigating origins. A celebrated prologue defends the poet's refined, learned, and meticulously crafted aesthetic, positioning it against more expansive, traditional epic forms. The Aetia is widely regarded as a quintessential product of the intellectual milieu at the Library of Alexandria, where Callimachus worked, and was composed for a sophisticated audience capable of appreciating its deep erudition and allusions to obscure local histories and earlier literature. Its influence was profound, particularly on subsequent Roman poets including Propertius, Ovid, and Catullus, who adapted its aetiological themes and polished, allusive style.
+
 ## Text
 
 ### 1

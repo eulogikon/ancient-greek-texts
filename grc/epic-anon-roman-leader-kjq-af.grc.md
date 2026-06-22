@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-af` · [HTML page](https://eulogikon.org/works/epic-anon-roman-leader-kjq-af)
 
+The Encomium to the Roman Leader is an anonymous Greek verse panegyric consisting of forty passages dedicated to praising an unnamed Roman military or political figure. The work belongs to the encomiastic genre prevalent during the Imperial period and Late Antiquity, in which Greek authors composed elaborate literary tributes to Roman patrons and officials. Its content focuses on extolling the virtues and accomplishments of its subject, employing traditional epic diction and motifs to elevate the leader's character and deeds. The manuscript tradition and precise historical context of the encomium are undocumented, and its survival is inferred from structural references rather than a complete extant text. As an example of Greek literary praise directed toward Roman authority, the work illustrates the cultural and political dynamics of the era, where such compositions served to articulate loyalty, commemorate military successes, and cultivate patronage. Its anonymous and undated nature is characteristic of many similar rhetorical works from late antiquity.
+
 ## Text
 
 ### book 1vb.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-cg` · [HTML page](https://eulogikon.org/works/demosthenes-athens-olynthiac-3-fsm-cg)
 
+The Olynthiac 3 is the final surviving speech in a series of three addresses delivered by the Athenian orator Demosthenes to the citizen assembly in 349/8 BCE. Composed in Attic Greek as a work of deliberative oratory, the speech responds to the imminent crisis facing Olynthus, an Athenian ally under sustained attack by King Philip II of Macedon. Demosthenes confronts what he perceives as a dangerous disconnect between the assembly's rhetorical calls for vengeance against Philip and the practical military inaction that has characterized Athenian policy. He argues that the opportunity for a straightforward punitive expedition has passed; the present necessity is the more urgent and fundamental task of preserving their allies. The orator insists that securing Olynthus must be the immediate and singular objective, dismissing any discussion of future retaliation as futile until this primary goal is assured.
+
+Demosthenes advocates for a decisive and substantial military intervention, criticizing the city’s history of sending inadequate, delayed forces. He proposes a coherent two-part strategy: dispatching a swift and robust citizen army to directly relieve the besieged Olynthians, while simultaneously launching naval raids against Philip’s own territories in Macedonia. This tactic, he contends, would force Philip to divide his forces and alleviate pressure on the front. The speech is a masterful exercise in political persuasion, emphasizing the critical cost of procrastination and the fleeting nature of strategic advantage. Surviving complete within the Demosthenic corpus through medieval Byzantine manuscripts, the Olynthiac orations collectively stand as pivotal documents of Athenian resistance to Macedonian expansion. This third speech, in particular, cemented Demosthenes’ reputation as a compelling voice for Athenian activism and a defender of Greek autonomy against the rising power of Philip II.
+
 ## Text
 
 ### Ol3 1

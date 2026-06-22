@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ap` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-notes-discoveries-rhg-ap)
 
+Notes on the Discoveries is an anonymous rhetorical treatise, surviving only in three fragmentary passages described as an oration. Its title identifies it as a set of notes or commentaries on heuresis, the classical rhetorical canon of invention concerning the discovery of arguments. The surviving text outlines the four standard parts of a political speech—the prologue, narrative, proofs, and epilogue—and discusses their methodological development from circumstances preceding, within, and following the core matter of the case. It further details the preliminary observations for composing prologues, advising the orator first to assess whether the subject is good or bad, and then to consider the preconceptions regarding the persons involved, including the judges, accusers, defendants, and principals. From these considerations, general topics for prologues are derived. The work is unattested in major catalogs of ancient rhetoric, indicating it was a minor or highly fragmentary text known only from limited secondary transmission. As a technical manual focused on invention, it exemplifies the pervasive pedagogical tradition of rhetorical handbooks from the Hellenistic or Roman periods, underscoring the systematic study of argumentation within ancient rhetorical education.
+
 ## Text
 
 ### 7.74.(6t)

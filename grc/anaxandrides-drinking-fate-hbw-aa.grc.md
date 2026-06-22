@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hbw-aa` · [HTML page](https://eulogikon.org/works/anaxandrides-drinking-fate-hbw-aa)
 
+The Fragments on Drinking and Fate is a modern scholarly compilation of 217 passages attributed to the Athenian comic poet Anaxandrides, a prominent figure of Middle Comedy active during the first half of the fourth century BCE. No ancient work by this precise title existed; the collection is a thematic assemblage of excerpts drawn from his numerous lost comedies. These plays were noted for their structural innovations, particularly the diminished role of the chorus, and for incorporating romantic plots and parodic elements. The compilation’s dual themes are reflected in its title, organizing the fragments around scenes depicting symposiac culture, a central social institution, and around the humorous treatment of philosophical concepts such as fate. Given the poet’s known style, the fragments also likely contain material related to broader social satire and romantic narrative.
+
+The entire corpus of Anaxandrides survives only through indirect transmission, primarily in the form of quotations preserved by later authors. The most significant source is Athenaeus of Naucratis, who in his second- or third-century CE work, the Deipnosophistae, recorded a vast array of material concerning dining and drinking customs, thereby preserving many comic fragments. This specific modern collection is thus an editorial reconstruction from these scattered secondary sources. As a key transitional figure between the political satire of Old Comedy and the domestic focus of New Comedy, Anaxandrides’ work, however fragmentary, remains valuable for understanding the evolution of the comic genre and offers insights into the social and intellectual life of fourth-century Athens.
+
 ## Text
 
 ### book 1.1

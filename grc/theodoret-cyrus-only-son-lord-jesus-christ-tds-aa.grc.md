@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-aa` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-only-son-lord-jesus-christ-tds-aa)
 
+That Our Only Son is Our Lord Jesus Christ is a theological epistle by Theodoret, Bishop of Cyrus, composed in the mid-5th century. Formally designated as Letter 151 within his collected correspondence, the work transcends the typical epistolary format to function as a concise and systematic polemical treatise. Written in Koine Greek, it presents a structured exegetical argument centered on six pivotal New Testament passages. Its core thesis is the affirmation of Jesus Christ as the one "only-begotten Son," a single person who is both fully divine and fully human, uniting two distinct natures without confusion or separation.
+
+The letter emerged from the intense Christological controversies that defined the era, specifically the debates between the Alexandrian and Antiochene theological schools. Modern scholarship identifies it as a robust defense of Dyophysite Christology—the doctrine that Christ exists in two natures, divine and human—against perceived doctrinal errors. It directly counters the teachings associated with Nestorius, which were accused of dividing Christ into two persons, and those of Eutyches, which were seen as merging the two natures into one. Theodoret's purpose was to provide clergy and educated laity with a clear, scripturally grounded articulation of what he considered orthodox doctrine. The work survives in its entirety as part of Theodoret's extensive epistolary corpus, preserved through Byzantine Greek manuscript traditions and later translations into Syriac and Latin, attesting to its enduring significance in Eastern and Western theological discourse.
+
 ## Text
 
 ### [45]

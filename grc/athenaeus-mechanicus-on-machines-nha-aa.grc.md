@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nha-aa` · [HTML page](https://eulogikon.org/works/athenaeus-mechanicus-on-machines-nha-aa)
 
+On Machines is a technical treatise on military engineering by Athenaeus the Mechanicus. Dedicated to a Roman named Marcellus, the work survives in a single Byzantine manuscript, the Codex Parisinus Graecus 2442, which compiles texts by several ancient mechanicians. Athenaeus presents himself as a compiler and critic of earlier authorities, notably engaging with the third-century BCE engineer Ctesibius of Alexandria. The treatise consists of thirty-seven passages systematically describing artillery and siege devices, with its primary themes being the design and use of siege engines like catapults and ballistae, the synthesis and evaluation of earlier mechanical authorities, and the practical application of engineering principles in warfare. Preserved in its entirety within the later compilation, which also contains works by Philo of Byzantium and Hero of Alexandria, the text is a valuable source for understanding the development of ancient artillery and the critical discourse among Hellenistic mechanicians. Though its direct influence is difficult to trace, its preservation marks it as a considered part of the technical corpus in later antiquity.
+
 ## Text
 
 ## ΑΘΗΝΑΙΟΥ ΠΕΡΙ ΜΗΧΑΝΗΜΑΤΩΝ Ὅσον ἐφικτὸν μὲν ἀνθρώπῳ τοὺς ὑπὲρ μηχανικῆς ποιουμένῳ λόγους, ὦ σεμνότατε Μάρκελλε, ἐμνήσθην τοῦ Δελφικοῦ παραγγέλματος, ὡς ἔστι θεῖόν τι τὸ ὑπομιμνῆσκον ἡμᾶς χρόνου φείδεσθαι, ᾧ ἔστι σχεδὸν εἰπεῖν ἅπαντα καταχρώμεθα ἀφειδῶς εἰς τὰς κατεπειγούσας 〈ἐν〉 τῷ βίῳ χρείας.

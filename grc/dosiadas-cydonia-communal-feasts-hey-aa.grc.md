@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hey-aa` · [HTML page](https://eulogikon.org/works/dosiadas-cydonia-communal-feasts-hey-aa)
 
+On Cretan Communal Feasts is a fragmentary historical work attributed to Dosiadas of Cydonia. It survives only in excerpts preserved by later authors, primarily the gastronomic writer Athenaeus in his Deipnosophistae. The text provides a detailed antiquarian account of the syssitia, the compulsory public messes that formed the cornerstone of social and political organization across the island of Crete. The extant passages meticulously describe the regulations governing these communal meals, including their funding through tithes of agricultural produce and contributions from public revenues, their division into dining groups called andreia, and their daily operation, which involved designated supervisors and attendants. The work further explores the integral connection between these feasts and other civic structures, notably the military system and the rigorous education of Cretan youth. By offering a focused ethnography of these distinctive institutions, which ancient authors often compared to the similar common meals of Sparta, Dosiadas’s fragments constitute a vital source for understanding the diversity of Greek social customs and political organization in the Hellenistic period.
+
 ## Text
 
 ### t1-6

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfk-ac` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-new-comedies-kfk-ac)
 
+Anonymous New Comedies is a modern scholarly designation for a collection of 158 anonymous dramatic fragments attributed to the genre of New Comedy. These excerpts, drawn from various lost plays, are systematically categorized under the label Comic Fragments Anonymous I as part of the study of unattributed comic material. Preserved through quotation by later ancient authors, the fragments are compiled in modern editorial projects such as Fragmenta Comica. They offer valuable insights into the language, standard scenarios, and stock characters of New Comedy despite their fragmentary state. The content reflects the genre's conventional themes, including romantic love, marriage, family conflicts, and the role of fortune and recognition. The fragments typically feature the familiar social morality plays involving stock characters like the cunning slave, the parasite, and the boastful soldier.
+
+The fragments survive indirectly, having been quoted for grammatical, lexical, or cultural illustration by later prose authors. Primary sources for their preservation include Athenaeus’s Deipnosophistae, Stobaeus’s Anthology, and various lexicographers and scholiasts. No direct manuscript tradition exists for these fragments as coherent, standalone works. While these anonymous pieces lack a direct traceable influence, they are crucial for reconstructing the full scope and common practices of New Comedy beyond the complete works of Menander. The genre itself, defined by these domestic and romantic plots, profoundly shaped subsequent Western comedic tradition through Roman adaptations by Plautus and Terence.
+
 ## Text
 
 ### book 13

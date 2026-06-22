@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pnc-ac` · [HTML page](https://eulogikon.org/works/aelius-aristides-smyrna-nature-god-humanity-pnc-ac)
 
+On the Nature of God and Humanity is a theological treatise attributed to the second-century CE Greek orator Aelius Aristides. Composed in Attic Greek, the work is structured as a collection of fifty-two passages that systematically examine the nature of the divine and humanity’s relationship to it. Central themes include the benevolence of the gods, with particular emphasis on healing deities such as Asclepius, the proper practice of piety and prayer, and the philosophical distinction between mortal and immortal natures. The treatise originates from the Roman Imperial period, an era marked by profound interest in philosophical piety and personal religious experience. Aristides was a prominent figure of the Second Sophistic, renowned for his personal devotion to Asclepius, and his writings characteristically blend sophisticated rhetoric with spiritual inquiry. The work is interpreted by modern scholars as intended for an educated, elite audience engaged in contemporary intellectual and religious dialogues. It is possible that the text represents a compilation of key arguments extracted from his larger body of work, such as the extensive Sacred Tales. The precise transmission history of this specific treatise remains uncertain. While the broader corpus of Aelius Aristides’s works survives through medieval manuscripts, the integrity and exact content of the fifty-two passages in On the Nature of God and Humanity as it exists today require further verification against the manuscript tradition.
+
 ## Text
 
 ### 1 1

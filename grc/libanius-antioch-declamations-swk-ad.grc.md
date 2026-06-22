@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ad` · [HTML page](https://eulogikon.org/works/libanius-antioch-declamations-swk-ad)
 
+The Fragments-Declamations is a collection of eleven rhetorical exercises attributed to the fourth-century orator and teacher Libanius of Antioch. Composed in Attic Greek, these works belong to the genre of declamation, formal practice speeches on historical, mythical, or fictional themes designed as advanced models for students of rhetoric. The surviving fragments illustrate typical pedagogical scenarios, including ethical dilemmas and speeches drawn from famous moments in Greek history. One example involves a defense of the children of a fallen tyrant, while another presents a speech urging Athens to wage war on Thebes for its punishment of the poet Pindar. As a leading sophist in Antioch, Libanius crafted these declamations as core tools for his school, aiming to train students in classical persuasive argumentation and style during a period of profound cultural change in the Late Roman Empire. The work survives only in these select passages, a common fate for educational texts that were often copied selectively. Libanius's full corpus of declamations was preserved through Byzantine scholarly traditions, where he remained an authoritative stylistic model, with the standard modern critical edition established by Richard Foerster.
+
 ## Text
 
 ### 48a t

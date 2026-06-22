@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-aw` · [HTML page](https://eulogikon.org/works/herodian-alexandria-monobiblos-qnq-aw)
 
+The Monobiblos περὶ τοῦ ἦν, or The Single Book on the Word "ἦν", is a lost grammatical treatise by the second-century CE Alexandian scholar Aelius Herodianus, commonly known as Herodian. As its title suggests, this oration was a focused, single-volume study dedicated to the imperfect tense form ἦν of the verb εἰμί, meaning "to be." The work exemplifies Herodian's technical philological approach, which would have involved a detailed analysis of the word's usage, morphology, and proper accentuation. Its content, while unrecoverable, was consistent with the broader grammatical concerns of the period, particularly the promotion of linguistic correctness, or Hellenismos, a central tenet of Second Sophistic scholarship.
+
+The treatise survives only as a title referenced in later Byzantine sources; no direct fragments of the text itself are extant. Herodian's vast output on grammar and prosody is known almost entirely through such citations and later epitomes. Despite its loss, specialized studies like the Monobiblos περὶ τοῦ ἦν contributed significantly to Herodian's enduring authority in the field of Greek grammar. His systematic rules and analyses, preserved and transmitted by Byzantine scholars, became foundational to grammatical education and shaped the technical understanding of the Greek language for centuries.
+
 ## Text
 
 ### 1

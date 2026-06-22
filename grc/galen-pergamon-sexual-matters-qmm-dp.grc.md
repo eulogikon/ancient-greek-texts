@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dp` · [HTML page](https://eulogikon.org/works/galen-pergamon-sexual-matters-qmm-dp)
 
+_On Sexual Matters_ is a medical treatise by the Roman physician Galen of Pergamon. While the specific text is not extensively detailed in major reference works, it represents a focused application of Galen's comprehensive physiological system, which integrated sexual function and reproduction as core elements. His analysis was framed by a teleological worldview that considered every anatomical part perfectly designed for its purpose, and by the explanatory framework of humoral theory and the operations of pneuma, or vital spirit.
+
+The work's content, inferred from Galen's established principles, would have addressed sexual health as governed by the balance of the four bodily humors and the body's innate heat. It would have elaborated on the purpose and design of reproductive organs within the natural order and explained the roles of the psychic, vital, and natural faculties in desire, erection, and procreation. In keeping with Galen's therapeutic approach, the treatise likely also provided treatments for dysfunction or infertility, prescribing regimens of diet, exercise, and pharmacology aimed at correcting humoral imbalances.
+
+The precise state of the treatise's preservation is unclear. Galen's vast corpus was transmitted through Byzantine, Arabic, and Latin scholarly traditions, with some works surviving intact and others only fragmentarily or in compilation. The notation of a structure consisting of "3 passages" may indicate that the work is known through excerpts preserved in a later anthology. Galen's authoritative views on sexual physiology formed the foundation of medical understanding in this domain for over a millennium, profoundly influencing subsequent physicians such as Avicenna in the Islamic world and remaining central to European medical thought until the Scientific Revolution.
+
 ## Text
 
 ### 1.1

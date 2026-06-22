@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sfw-aa` · [HTML page](https://eulogikon.org/works/dexippus-commentary-aristotle-sfw-aa)
 
+Dexippus's Commentary on Aristotle's Categories is a fourth-century CE philosophical treatise composed in Greek. As a student of the influential Neoplatonist Iamblichus, Dexippus structured this work as a dialogue between himself and a pupil named Seleucus. Its seventy-one sections systematically defend Aristotle's foundational logical text, the Categories, against the pointed criticisms of the philosopher Plotinus. Employing a question-and-answer format, the commentary argues for the compatibility of Aristotle's system for classifying reality with Platonic philosophy, contending that its application is properly limited to the realm of sense perception rather than to the higher, intelligible reality of Platonic forms. Modern scholarship regards the work as a crucial document in the Neoplatonic endeavor to harmonize the thought of Aristotle with that of Plato, as well as a significant model of late antique philosophical pedagogy. The text survives in its entirety, transmitted primarily through a single tenth-century manuscript. It offers valuable insight into the advanced curriculum of Neoplatonic schools and exerted a direct influence on later major commentators, most notably Simplicius.
+
 ## Text
 
 ### 1 (1t)

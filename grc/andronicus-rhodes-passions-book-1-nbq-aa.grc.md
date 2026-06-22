@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nbq-aa` · [HTML page](https://eulogikon.org/works/andronicus-rhodes-passions-book-1-nbq-aa)
 
+On Passions is a philosophical treatise by Andronicus of Rhodes, the head of the Lyceum, composed in the 1st century BCE. The work is a systematic exposition and clarification of Aristotelian ethical psychology, drawing primarily from the Nicomachean Ethics. It examines the nature of the passions, or pathē, defines moral virtue as a mean between extremes of emotion and action, and classifies the various states of character. Rather than advancing original doctrine, the treatise functions as a scholarly commentary, organizing and elucidating existing Peripatetic teachings for pedagogical use. The first book is structured as a series of analytical passages, proceeding through definitions and subdivisions of the primary affective states.
+
+The treatise was written during a critical era of recovery and systematization of Aristotle's esoteric works, a project Andronicus himself spearheaded as the first editor of the Aristotelian corpus. On Passions thus represents an early and influential example of philosophical exegesis, aimed at standardizing core concepts for students of the Peripatetic school. The original text is now lost, surviving only in fragments and testimonia preserved by later authors such as the 6th-century commentator Simplicius and the 10th-century Byzantine encyclopedia, the Suda. Our understanding of the work's content and structure is consequently dependent on these secondary sources.
+
 ## Text
 
 ### 1.1

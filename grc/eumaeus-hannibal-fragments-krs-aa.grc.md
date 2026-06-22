@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `krs-aa` · [HTML page](https://eulogikon.org/works/eumaeus-hannibal-fragments-krs-aa)
 
+The Fragments on Hannibal is a lost historical work attributed to an otherwise unknown author named Eumaeus the Historian. Presumed to have focused on the Carthaginian general Hannibal Barca, the work is known only by its title and the notation that it originally comprised at least two books. No direct quotations or substantive content from the work itself survive. Based on its subject, it likely addressed themes common to ancient treatments of Hannibal, including his military strategy and leadership during the Second Punic War, his character and campaigns, and the broader conflict between Rome and Carthage. The work is completely lost with no traceable transmission history; its categorization as fragments suggests it was known only through brief citations in later, now-untraced, sources. As a potential Greek source on Hannibal, it would represent a minor and unknown strand within the broader historiographical tradition, though its specific value or influence cannot be determined without any surviving content.
+
 ## Text
 
 ### 1 (1t)

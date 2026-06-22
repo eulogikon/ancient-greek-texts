@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ndy-ac` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-lysias-syracusan-ndy-ac)
 
+"Lysias the Syracusan by Descent" is a critical essay by the historian and rhetorician Dionysius of Halicarnassus, composed during his residence in Rome in the late first century BCE. It forms part of his series of rhetorical treatises evaluating the classical Attic orators. The work offers a detailed analysis of the style of the orator Lysias, who lived from approximately 445 to 380 BCE. A central theme is the examination of Lysias's Syracusan ancestry and its implications for his status as a metic, or resident alien, in Athens, juxtaposed against his celebrated mastery of pure and elegant Attic prose. The complete text of the essay survives.
+
+Dionysius champions Lysias as the foremost model of the plain style, praising his exceptional clarity, purity of diction, and persuasive simplicity. The analysis delves into specific rhetorical techniques, with particular emphasis on Lysias's skill in argumentation and ethical characterization, known as ēthopoiia, through which he vividly depicted the personas of his clients. Furthermore, the essay engages with the contemporary intellectual debate surrounding Atticism, exploring the complex relationship between an orator's ethnic origins and his achieved literary style, a subject of great relevance in the Augustan period's revival of classical models.
+
+The essay is preserved within the collective manuscript tradition of Dionysius’s rhetorical works, which were transmitted together through antiquity and the Byzantine period. Within this corpus, the treatise on Lysias is considered complete. Dionysius’s analysis was instrumental in cementing Lysias's canonical status as a master of rhetoric. It served as both a key pedagogical tool for students of oratory and a major contribution to the Augustan-era promotion of Attic style as a literary ideal. Its scholarly influence endured through later antiquity, Byzantine scholarship, and into the Renaissance revival of classical rhetoric.
+
 ## Text
 
 ### Lys t

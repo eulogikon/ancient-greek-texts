@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pka-ab` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-pronouns-pka-ab)
 
+On Pronouns is a grammatical treatise by the 2nd-century CE Alexandrian scholar Apollonius Dyscolus. This systematic work, comprising 114 sections, establishes the pronoun as a distinct part of speech defined by its function of substituting for a noun. Apollonius methodically examines the pronoun's properties—including person, number, and case—and its syntactic behavior, with the overarching aim of formulating logical, rule-based principles governing its use. A significant portion of the analysis is dedicated to reconciling apparent irregularities in classical literary texts, particularly Homeric poetry, by demonstrating their conformity to underlying grammatical laws.
+
+The treatise survives in full through Byzantine manuscript transmission, frequently preserved alongside Apollonius's other major grammatical works. Interpreted by modern scholars as a key component of a larger project to establish grammar as a rational science, the work reflects the influence of Stoic logic. It was likely composed for an audience of advanced students and fellow grammarians, serving not merely to describe Greek usage but to explain and defend the practices found in canonical authors. Apollonius's rigorous, analytical approach in On Pronouns exerted a profound and lasting influence on subsequent grammatical theory in the Greek, Latin, and medieval European traditions.
+
 ## Text
 
 ### 2 1,1 3

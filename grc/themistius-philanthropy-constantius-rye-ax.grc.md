@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ax` · [HTML page](https://eulogikon.org/works/themistius-philanthropy-constantius-rye-ax)
 
+On Philanthropy or Constantius is a panegyric oration delivered by the philosopher and statesman Themistius to the Roman Emperor Constantius II, likely around 357 CE. Composed in Greek and structured in sixty-five sections, the speech was delivered in Constantinople during a period of political consolidation for the emperor. Its central argument redefines the basis of imperial authority by elevating the classical philosophical ideal of philanthropia, or love for humanity, as the supreme royal virtue. This concept encompasses mercy, lawful conduct, and genuine care for the welfare of subjects, presented as a more legitimate source of power than military force or wealth.
+
+Themistius, a leading public intellectual, uses the oration to promote a model of symbiotic governance between a philosophically virtuous emperor and the educated governing class. He contrasts the superficial praises of an empire's military might, territorial expanse, and material splendor with the substantive praise owed to a ruler's moral character. The work is interpreted by modern scholars as a nuanced effort to advise the emperor while strategically positioning traditional Hellenic culture and philosophical ethics as indispensable to sound governance, even within the evolving framework of a Christian empire. It functions simultaneously as a vehicle of flattery and as a vehicle for promoting a moderate, reason-based ideal of kingship to the court and senate.
+
+The complete oration survives within the manuscript tradition of Themistius’s collected works. It proved influential in later Byzantine political thought for its foundational argument that true and enduring authority is derived from moral virtue and benevolent service to the people, rather than from coercion or fear alone.
+
 ## Text
 
 ### t 1

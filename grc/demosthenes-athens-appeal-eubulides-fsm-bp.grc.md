@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bp` · [HTML page](https://eulogikon.org/works/demosthenes-athens-appeal-eubulides-fsm-bp)
 
+The Appeal to Eubulides is a forensic oration from Classical Athens, preserved among the works of Demosthenes. Delivered around 345 BCE, the speech was composed for a client named Euxitheus to present before an Athenian court. It constitutes a legal appeal against a decision by Euxitheus’s local deme, or township, to expunge his name from its citizenship register, thereby stripping him of his Athenian status. The action was initiated by his opponent, Eubulides, who alleged that Euxitheus’s mother was not a citizen and that his father had been a slave. In a systematic, sixty-six section argument, the speaker refutes these charges point by point, contending that the deme’s vote was motivated by personal enmity and procedural corruption rather than factual evidence. The speech offers a vivid window into the high-stakes arena of Athenian citizenship law, where such a loss meant the total forfeiture of political rights and legal standing.
+
+Transmitted through medieval manuscripts as Speech 57 in the Demosthenic corpus, its authorship has been debated since antiquity. While some doubts persist regarding whether Demosthenes personally wrote it, the oration is generally accepted as a genuine product of his circle or period. Modern scholarship values the text as a crucial historical source, providing detailed insight into Athenian legal procedure, the social tensions within local deme politics, and the vital, though often formally obscured, role of women in the transmission of citizen status.
+
 ## Text
 
 ### Or57 1

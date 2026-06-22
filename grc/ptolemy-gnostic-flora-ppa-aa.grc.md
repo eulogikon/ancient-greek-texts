@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ppa-aa` · [HTML page](https://eulogikon.org/works/ptolemy-gnostic-flora-ppa-aa)
 
+The Letter to Flora is a theological epistle composed in Koine Greek by Ptolemy, a prominent teacher of Valentinian Gnosticism, during the mid-second century CE. Addressed to a woman named Flora, the work presents a systematic treatise designed to correct her interpretation of the Mosaic Law. Ptolemy argues that the Law is not a unified code from a single divine source but is instead a composite of three distinct parts: legislation originating from God the Father, such as the Decalogue; statutes introduced by the prophet Moses himself; and precepts added by later human elders. Central to his exposition is the Valentinian theological framework, which posits that the true author of the Old Testament law is the Demiurge, a just but inferior and ignorant creator deity, who is entirely separate from the supreme, perfect, and transcendent God revealed by Jesus Christ.
+
+The letter does not survive as an independent manuscript but was preserved in its entirety by the fourth-century bishop Epiphanius of Salamis, who quoted it within his heresiological compendium, the Panarion. Epiphanius included the text expressly to condemn its doctrines, meaning the work is transmitted through a polemical and hostile source. Despite this, modern scholarship regards the Letter to Flora as a vital primary source for understanding Valentinian Gnostic thought. It provides crucial insight into the movement's sophisticated exegetical methods, particularly its attempts to resolve perceived ethical and theological contradictions within scripture through a philosophical reinterpretation of Christian revelation.
+
 ## Text
 
 ### t 1

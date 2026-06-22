@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nzm-ab` · [HTML page](https://eulogikon.org/works/londoner-medicine-medical-works-nzm-ab)
 
+The Iatrika (Medical Works) attributed to a "Londoner on Medicine" is an anonymous Greek medical treatise preserved solely in a single late Byzantine manuscript, British Library MS Burney 86. The epithet "Londoner" derives from the manuscript's modern provenance and does not refer to a known author. The text comprises 55 short, eclectic passages offering definitions, physiological explanations, and therapeutic advice, compiled from earlier authorities such as Galen and Orthasius. Its content includes definitions of medicine and disease, explanations of humoral physiology and pathology, discussions on the causes of disease including fever, and practical treatments for ailments like gout and kidney stones. The work survives in full within a manuscript that also contains texts by later Byzantine medical figures like John Aktouarios, indicating its scholarly context. While it remains unpublished in a modern critical edition and its direct influence is undocumented, the treatise is a significant specimen of Byzantine medical compilation, illustrating the practical transmission and condensation of Galenic and post-Galenic knowledge for use as a handbook or reference.
+
 ## Text
 
 ### 1 (t)

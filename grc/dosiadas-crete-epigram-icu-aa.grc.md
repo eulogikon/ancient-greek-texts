@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `icu-aa` · [HTML page](https://eulogikon.org/works/dosiadas-crete-epigram-icu-aa)
 
+The Epigram attributed to Dosiadas of Crete is a Hellenistic pattern poem, a form known as a technopaignion or "play of skill." It is specifically an altar poem, with its eighteen lines arranged typographically on the page to form the distinct shape of an altar, making its visual layout an essential component of its meaning and effect. The poem is presented as a dedicatory inscription spoken by the personified altar itself, which declares that it was dedicated by Bromius to the god Eros, whom it identifies as Cretan-born. This exemplifies the Hellenistic era's fascination with literary experimentation, merging verbal artistry with a striking visual form. The work is preserved in its entirety in the Greek Anthology, specifically in Book 15.26 of the Anthologia Palatina, a section dedicated to such pattern poems, and has been transmitted through the medieval manuscript tradition of that compilation. As a canonical example of Greek pattern poetry, Dosiadas's Altar is a key text for understanding Hellenistic literary virtuosity and the ancient interplay between text and image. It is regularly cited in studies of ancient visual and concrete poetry alongside similar shaped works by poets such as Theocritus and Simias of Rhodes.
+
 ## Text
 
 ### book 26.1.1

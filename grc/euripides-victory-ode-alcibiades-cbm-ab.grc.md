@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ab` · [HTML page](https://eulogikon.org/works/euripides-victory-ode-alcibiades-cbm-ab)
 
+Attributed to the tragedian Euripides, the Victory Ode for Alcibiades is a choral lyric poem composed to celebrate the Athenian statesman Alcibiades following his chariot victory at the Olympic Games in 416 BCE. The work belongs to the tradition of the epinikian, or victory, ode, a genre of public poetry performed to enhance the prestige of the victor and his city. The poem itself is lost, surviving only in fragments and testimonia preserved by later authors. Its themes, discernible from these secondary references, include the glorification of Alcibiades' Olympic triumph, praise for his noble birth, wealth, and exceptional personal qualities, and the framing of his athletic success as a testament to the greatness of Athens. Consistent with the conventions of the genre, the ode likely employed mythological parallels to elevate the victor's status. Knowledge of the poem depends entirely on these later sources, principally Plutarch's Life of Alcibiades, which quotes two lines and provides the essential context for its composition. As a historical artifact of fifth-century Athenian culture, the ode illustrates the direct intersection of poetry, athletics, and high politics. Its commissioning by Alcibiades was a calculated act of political self-promotion, and its preservation in the biographical tradition remains a key source for understanding the ambitious public persona he cultivated.
+
 ## Text
 
 ### book 1.1

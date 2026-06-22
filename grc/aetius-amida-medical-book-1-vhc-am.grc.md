@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vhc-am` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-1-vhc-am)
 
+Medical Book I constitutes the opening volume of the Tetrabiblon, a comprehensive medical encyclopedia compiled in the sixth century CE by the Byzantine physician Aëtius of Amida. Written as a practical compendium for practitioners, this systematic work organizes 372 entries covering diagnosis, therapeutic methods, pharmacology, and surgical procedures, all framed within the prevailing Galenic theory of the four humors. The book functions not as an original treatise but as a meticulous synthesis of knowledge drawn from earlier Greek and Roman authorities, including Galen, Oribasius, and Rufus of Ephesus. Scholars regard it as a definitive example of late antique efforts to preserve and systematize classical learning, and it is particularly valued for preserving extensive excerpts from medical writers whose own works are otherwise lost. The text also contains significant material on gynecology and obstetrics, incorporating sources such as Soranus. The complete Tetrabiblon survives in numerous Greek manuscripts, attesting to its status as a standard medical textbook in the Byzantine world for centuries. It was later translated into Latin and Arabic, serving as a crucial conduit for the transmission of classical medical knowledge to medieval and early modern cultures.
+
 ## Text
 
 ### P

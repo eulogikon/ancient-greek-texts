@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `luy-aa` · [HTML page](https://eulogikon.org/works/agatharchides-samos-persian-wars-luy-aa)
 
+The Fragments on Persian Wars by Agatharchides of Samos is a historical work known only through five brief excerpts preserved in the Bibliotheca of the 9th-century Byzantine scholar Photius. These passages are explicitly attributed to Agatharchides and identified as originating from a text titled Persian Wars. The surviving fragments offer minimal insight into the original work's scope or narrative structure, containing only a geographical note on the city of Oenus, a remark concerning the Spartan king Cleomenes I, and a mention of the Persian king Darius. The work is otherwise entirely lost, with no independent manuscript tradition; its survival depends solely on these citations. While Agatharchides's geographical writings on the Red Sea and ethnography demonstrably influenced later historians like Diodorus Siculus and Strabo, this particular historical work on the Persian Wars appears to have left no discernible legacy beyond its preservation by Photius. Its existence, however, indicates a broader range of subject matter for Agatharchides, whose other known fragmentary works primarily concern Hellenistic history.
+
 ## Text
 
 ## ΠΕΡΣΙΚΑ. E. LIBRO SECUNDO. Plutarch.

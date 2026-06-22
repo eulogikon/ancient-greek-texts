@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lpy-aa` · [HTML page](https://eulogikon.org/works/alexarchus-macedon-historical-italy-lpy-aa)
 
+The Historical Fragments on Italy by Alexarchus of Macedon is a lost Hellenistic work known only through a handful of brief quotations preserved by later authors. These fragments, cited by Plutarch, Servius, and Athenaeus, do not present a continuous historical narrative but instead offer isolated pieces of information on Italian legends, geography, and customs. One fragment recounts the Roman king Tullus Hostilius's treacherous victory over the Albanians and the brutal execution of their king, Mettius Fufetius. Another discusses the etymological origins of place names in Epirus, linking the region to a legendary king named Campus. The passages preserved by Athenaeus provide glossarial explanations for Italian terms, including names for days of the month and a reference to the mythological figure Tyrrhenus the pirate. The work survives exclusively through these secondary citations, possessing no independent manuscript tradition. As an early Greek text on Italian subjects, it exemplifies the antiquarian interest in the western Mediterranean that followed Alexander the Great's conquests. Its primary significance lies in its value as a minor source within the compilations of later authors and for the study of fragmentary Greek historiography.
+
 ## Text
 
 ### t1-2

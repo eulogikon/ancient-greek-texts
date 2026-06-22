@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-bc` · [HTML page](https://eulogikon.org/works/euripides-oeneus-cbm-bc)
 
+_Oeneus_ is a lost tragedy by Euripides, surviving only in fragments and later testimonia. The plot dramatizes the myth of Oeneus, the aged king of Calydon, who was deposed by his nephews and later restored to his throne by his grandson, the hero Diomedes, following the Trojan War. The extant fragments, numbering thirty-two, indicate a play deeply concerned with themes of exile, wrongful usurpation, and familial conflict across generations. A particularly notable fragment features Oeneus himself delivering a speech that poignantly laments the humiliations and powerlessness of old age. The drama thus explores the injustice of his displacement and the eventual correction of this wrong through the intervention of a heroic avenger. The text of the play is preserved solely through quotations found in later Greek authors such as Stobaeus and the _Suda_, and it is cataloged in modern scholarly editions. While its direct influence on later literature cannot be traced, the fragments exemplify Euripides' characteristic focus on pathos and the sympathetic portrayal of suffering individuals. The play represents a tragic treatment of a myth from the epic cycle, contributing to our understanding of how Athenian drama engaged with heroic genealogies and the narratives surrounding the aftermath of the Trojan War.
+
 ## Text
 
 ### 38.6

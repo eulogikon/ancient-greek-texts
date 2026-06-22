@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iys-aa` · [HTML page](https://eulogikon.org/works/phanocles-orpheus-fragments-iys-aa)
 
+The Fragments on Orpheus consists of eleven elegiac passages attributed to the Hellenistic poet Phanocles. Preserved through later quotation, these verses present mythological narratives centered on Orpheus, composed in the standard elegiac couplet form. The most significant fragment recounts Orpheus’s love for Calaïs, son of Boreas, and attributes the poet’s death at the hands of Thracian women to their rage over his rejection of them following this homoerotic attachment. This offers a notable variant of the more common myth involving the Maenads and Dionysus. The fragments collectively exemplify Phanocles’s characteristic focus on homoerotic themes and a catalog-style structure linking mythological figures. The work survives entirely through indirect transmission, primarily in the 5th-century CE anthology of Stobaeus, with other sources including the Etymologicum Magnum and the Suda. The standard modern critical edition is found in Powell’s Collectanea Alexandrina and the Supplementum Hellenisticum. Phanocles’s fragments are a key source for the development of homoerotic themes in Hellenistic poetry and for understanding the period’s scholarly reworking of myth. His version of Orpheus’s death is frequently cited in analyses of the myth’s evolution and the representation of same-sex relationships in ancient literature.
+
 ## Text
 
 ### book 1.1

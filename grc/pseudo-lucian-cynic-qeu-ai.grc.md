@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ai` · [HTML page](https://eulogikon.org/works/pseudo-lucian-cynic-qeu-ai)
 
+The Cynic is a short philosophical oration composed in Attic Greek. Though traditionally included among the works of the satirist Lucian of Samosata, modern scholarship attributes it to an anonymous imitator, conventionally designated Pseudo-Lucian. Its date is uncertain but likely belongs to the second or third century CE. Structured as a protreptic speech intended to exhort its audience toward a particular philosophy, the work presents a vigorous defense of the Cynic way of life. It is framed as a direct address to a young man who is hesitant to adopt its ascetic practices.
+
+The oration systematically argues that the apparent hardships of Cynicism—such as poverty, begging, rough clothing, and sleeping on the ground—are not miseries but the very means to achieve true freedom and self-sufficiency. The speaker contrasts this existence, aligned with nature, with the anxieties and enslavements of conventional life, which is depicted as being in thrall to luxury, public opinion, and the whims of fortune. Central themes include the distinction between living according to nature versus human convention, the virtue of frugality, and the Cynic's right to practice frank, critical speech. The work survives complete within the manuscript tradition of Lucian’s corpus. It is considered a product of the Roman Imperial period, reflecting the ongoing cultural and philosophical debates about asceticism during the era of the Second Sophistic, and serves as a clear example of how Cynic doctrines were articulated for a literate, Greek-speaking audience.
+
 ## Text
 
 ### Cyn t

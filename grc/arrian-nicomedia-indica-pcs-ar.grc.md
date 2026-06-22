@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-ar` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-indica-pcs-ar)
 
+The Indica is a monograph on India composed in Attic Greek by the historian Arrian of Nicomedia, likely during the 130s CE. It functions as a companion piece to his more extensive history of Alexander the Great. The work is structured in two principal sections. The first offers a systematic geographical and ethnographical account of the Indian subcontinent, detailing its regions, diverse peoples, social customs, and distinctive fauna, with particular attention given to elephants. The second section shifts to a focused historical narrative, providing a detailed chronicle of the arduous sea voyage undertaken by Alexander's fleet under the command of Nearchus, tracing its journey from the mouth of the Indus River to the Persian Gulf. The complete text survives, organized into 344 episodic passages.
+
+Arrian wrote during the Roman Imperial period as an educated Greek official, a participant in the literary and cultural movement known as the Second Sophistic. His stated purpose was to preserve the most credible Greek knowledge of India, consciously basing his account on the authoritative, though now lost, eyewitness reports of the admiral Nearchus and the historian Megasthenes, while explicitly rejecting more fantastical sources. Modern scholarship regards the Indica as both a valuable scholarly compilation of early ethnography and a supplementary work that celebrates the resilience of Alexander's forces. It remains an essential source for understanding ancient Greek exploration and the Hellenistic world's perceptions of India.
+
 ## Text
 
 ### t 1

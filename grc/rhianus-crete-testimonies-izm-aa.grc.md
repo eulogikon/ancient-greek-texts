@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `izm-aa` · [HTML page](https://eulogikon.org/works/rhianus-crete-testimonies-izm-aa)
 
+The Testimonies is a fragmentary epic poem by the Hellenistic poet Rhianus of Crete, composed in the 3rd century BCE. Written in the traditional Homeric dialect, the work is preserved only through a handful of passages quoted by later ancient authors, primarily for their rare vocabulary or historical content. The original length and complete narrative scope of the poem are lost, but the surviving fragments suggest it was a learned, antiquarian work dealing with regional Greek history, local foundation myths, and heroic exploits. Its title implies a function as a poetic "witness" to these local traditions. Rhianus himself was a scholar-poet, originally a slave who later became a schoolmaster and an editor of Homeric texts, and his work exemplifies the erudite literary culture of the period. The Testimonies has no independent manuscript tradition and its direct influence is difficult to assess, but it remains a significant representative of the Hellenistic genre of historical epic.
+
 ## Text
 
 ### 3a,265,T 1a

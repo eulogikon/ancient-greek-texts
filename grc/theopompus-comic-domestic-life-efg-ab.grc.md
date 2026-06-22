@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `efg-ab` · [HTML page](https://eulogikon.org/works/theopompus-comic-domestic-life-efg-ab)
 
+The Comic Fragments of Domestic Life is a modern scholarly compilation of surviving passages from the Athenian comic poet Theopompus, a contemporary and rival of Aristophanes active during the late fifth and early fourth centuries BCE. These 120 fragments, extracted from quotations in later authors such as Athenaeus, from papyrus discoveries, and from ancient scholarly citations, represent the scattered remains of his original full-length comedies performed at Athenian civic festivals. The standard critical edition for these texts is found within the comprehensive collection Poetae Comici Graeci.
+
+The extant pieces reveal the characteristic themes of Theopompus's comedy, which bridge the stylistic evolution from Old Comedy to Middle Comedy. His work frequently engaged in mythological burlesque and the parody of heroic figures, while also offering literary and intellectual satire aimed at contemporary poets and philosophers. A significant portion of the fragments depicts scenes of everyday domestic and social life, featuring vivid descriptions of food, cooks, and symposia. Earlier works also contained pointed political references, including criticism of the demagogue Cleon. As a prolific poet whose career spanned a pivotal transitional period, Theopompus was instrumental in shaping the development of Athenian comic theatre. His fragments are therefore crucial for understanding the genre's evolution beyond the works of Aristophanes, particularly its gradual shift toward a greater focus on mythological parody and generalized social comedy.
+
 ## Text
 
 ### book 1.1

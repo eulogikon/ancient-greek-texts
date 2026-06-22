@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-ao` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-providence-orations-tds-ao)
 
+On Providence is a theological treatise composed in ten discourses by Theodoret, Bishop of Cyrrhus, around 437 CE. Written in Koine Greek, the work systematically defends the Christian doctrine of divine providence, offering a comprehensive apologetic during a period of political instability, barbarian invasions, and natural disasters that had fueled pagan critiques of Christian belief. Theodoret structures his argument to demonstrate benevolent divine governance through observable evidence. He begins with the order and regularity of the celestial bodies, proceeds to the intricate design and functionality of the human body and the natural world, and culminates in an analysis of historical events and the moral governance of human societies. A central concern is the problem of evil and suffering; Theodoret contends that God permits hardships for pedagogical or corrective purposes, ultimately serving a just and benevolent plan. The treatise is a significant synthesis of Hellenistic philosophical concepts, particularly from Stoicism, with orthodox Christian theology, positioning itself against pagan polytheism, fatalism, and contemporary doubts about God's active care for creation. The complete text survives in medieval Greek manuscripts, and its translation into languages such as Syriac ensured its preservation and continued influence within Eastern Christian communities.
+
 ## Text
 
 ### [30]

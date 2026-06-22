@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ab` · [HTML page](https://eulogikon.org/works/porphyry-tyre-homeric-questions-odyssey-udm-ab)
 
+The Remains of Homeric Questions Pertaining to the Odyssey is a fragmentary scholarly treatise by the third-century Neoplatonist philosopher Porphyry of Tyre. Preserved as a collection of 311 short investigations, the work systematically addresses perceived problems or inconsistencies within Homer's epic. It employs a question-and-answer format, wherein Porphyry identifies a textual difficulty in a line of the Odyssey and subsequently offers a philosophical or linguistic resolution. The surviving text represents only a portion of a larger, now lost, Homeric commentary by Porphyry that originally encompassed both the Iliad and the Odyssey. These excerpts pertaining to the Odyssey were not transmitted as an independent volume but were embedded within the marginal scholia of a tenth-century manuscript of Homer. Modern scholarship regards the work as a seminal example of Neoplatonic literary criticism, illustrating how late antique philosophers interpreted Homer as a veiled repository of theological, ethical, and cosmological wisdom. It is generally considered to have been composed as a pedagogical instrument, aimed at defending Homer's coherence and profundity for students of philosophy and literature.
+
 ## Text
 
 ### 1 1

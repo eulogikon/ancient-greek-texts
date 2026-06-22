@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccg-af` · [HTML page](https://eulogikon.org/works/ion-chios-foundations-ccg-af)
 
+The Foundations of Chios is a lost prose work by the 5th-century BCE poet and writer Ion of Chios. Surviving only in thirty-one fragmentary passages quoted by later authors such as Porphyry and Diogenes Laërtius, the collection is written in Ionic Greek and represents an early compilation of historical and philosophical material. Its primary significance lies in its focus on Pre-Socratic thought, particularly the doctrines of Pythagoras and his followers. The fragments preserve valuable anecdotes and teachings concerning the immortality of the soul and its transmigration, offering a crucial early witness to Pythagorean philosophy before its later systematization. Blending biography with intellectual history, the work was likely intended for an educated Greek audience interested in the origins of philosophical traditions and the lives of their foundational thinkers.
+
 ## Text
 
 ### 3b,392,F 1*

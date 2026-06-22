@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-be` · [HTML page](https://eulogikon.org/works/lucian-samosata-encomium-fly-pfk-be)
 
+The Encomium of the Fly is a short satirical oration by the 2nd-century CE author Lucian of Samosata. A prime example of the mock encomium, a rhetorical exercise that humorously praises a trivial subject with exaggerated seriousness, the work comically extols the virtues of the common fly. Structured as a formal speech of praise, it employs mythological references, historical parallels, and pseudo-philosophical arguments to laud the insect's supposed bravery, freedom, musical buzzing, and democratic spirit. The oration is a product of the Second Sophistic, a period of revived interest in Classical Greek rhetoric under the Roman Empire, and functions as a sophisticated parody for educated, Greek-speaking audiences. It showcases Lucian's rhetorical skill while playfully subverting traditional intellectual conventions. Transmitted complete within the Lucianic corpus and generally accepted as genuine, its legacy of ironic praise notably influenced later works such as Erasmus's The Praise of Folly.
+
 ## Text
 
 ### Musc Enc t

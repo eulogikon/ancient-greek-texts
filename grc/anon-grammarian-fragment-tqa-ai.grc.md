@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ai` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ai)
 
+The Grammatical Fragment is an anonymous Greek treatise on grammar preserved in two passages. It systematically outlines the eight canonical parts of speech—noun, verb, participle, article, pronoun, preposition, adverb, and conjunction—providing definitions and analysis for each. The work defines the noun as a part of speech inflected for case that signifies a body or a thing, and it further analyzes noun subtypes, distinguishing between proper and common nouns, and discusses their inherent qualities such as gender, form, shape, and number. The text survives as a fragment within manuscript collections of grammatical works, with the standard Greek edition deriving from I. Bekker’s Anecdota Graeca. As a representative example of a technical handbook, the fragment exemplifies the standardized pedagogical grammar of the Greco-Roman tradition. Its framework and definitions closely align with the system established by Dionysius Thrax, illustrating the continuity of linguistic theory and educational method transmitted from late antiquity through the Byzantine era.
+
 ## Text
 
 ### 1

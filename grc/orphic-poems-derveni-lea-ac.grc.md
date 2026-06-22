@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lea-ac` · [HTML page](https://eulogikon.org/works/orphic-poems-derveni-lea-ac)
 
+The Derveni Papyrus is the oldest surviving manuscript from Europe, a carbonized Greek scroll discovered in a tomb in northern Greece in 1962. Dated to approximately 340–320 BCE, it preserves a philosophical prose commentary that quotes and interprets verses from an Orphic religious poem, itself believed to have been composed in the late fifth or early fourth century BCE. The work survives as twenty-four fragmentary columns of text, though the original scroll was longer and both its beginning and end are lost.
+
+The anonymous author systematically quotes hexameter verses from an Orphic theogony—a poem concerning the origin of the gods—and provides a detailed allegorical interpretation. The quoted poem narrates a cosmogony in which Zeus swallows a primordial deity to absorb all of creation before re-establishing the cosmos. The accompanying commentary seeks to uncover hidden physical and cosmological truths behind this myth, demonstrating clear influences from pre-Socratic philosophical thought. Modern scholarship views the text as crucial evidence for the rationalizing analysis of esoteric religious poetry in the late Classical period, likely intended for an educated elite familiar with both Orphic traditions and contemporary philosophical discourse. Found as a grave good, the papyrus offers a unique snapshot of the intellectual and religious crosscurrents in Macedonia prior to the Hellenistic era.
+
+The text survives solely on this single, badly burned papyrus. It was entirely lost to history after antiquity until its modern archaeological recovery and subsequent conservation, with its first complete scholarly publication appearing in 2006. The Orphic verses quoted within its commentary are among the earliest direct fragments of Orphic poetry known to exist.
+
 ## Text
 
 ### col1a

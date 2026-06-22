@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `clw-aa` · [HTML page](https://eulogikon.org/works/demon-athens-fragments-history-clw-aa)
 
+The Fragments on Athenian History is the modern designation for the surviving portions of an Atthis, a local chronicle of Attica, composed in Greek prose by the historian Demon around 300 BCE. As an Atthidographer, Demon compiled a narrative of Athens that wove together foundational myths, accounts of religious rituals, explanations of archaic laws, and records of historical events. The work was presumably intended for an educated readership with an interest in the origins of Athenian civic identity and antiquarian scholarship. The original text is lost, with only 23 fragments preserved through quotations by later Greek scholars and lexicographers who cited Demon to elucidate obscure Athenian terms, customs, and historical episodes. These excerpts treat diverse subjects, including the procedure of ostracism, the details of festivals such as the Dipolieia and Oschophoria, and legendary narratives concerning early kings and institutions. Modern scholarship regards these fragments as a valuable source for Athenian religious and social history, and it is often noted that Demon's familial connection to his nephew, the ruler Demetrius of Phalerum, may have afforded him access to privileged political information.
+
 ## Text
 
 ### t1-4

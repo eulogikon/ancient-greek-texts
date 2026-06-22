@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ae` · [HTML page](https://eulogikon.org/works/pseudo-lucian-swift-footed-qeu-ae)
 
+_Swift-Footed_ is a short rhetorical exercise, or progymnasma, in the form of a mock-encomium praising the abstract quality of swiftness. Although transmitted within the manuscript tradition of Lucian of Samosata, it is universally considered spurious and is thus attributed to Pseudo-Lucian. The oration employs the standard techniques of epideictic rhetoric to elaborate on the benefits and illustrious exemplars of swiftness, framing it as a divine and heroic attribute. It draws upon a catalogue of mythological figures renowned for their speed, including Hermes, Achilles, and Atalanta, functioning primarily as a display of rhetorical skill in amplifying a seemingly trivial subject. Preserved complete within the Lucianic corpus, its primary transmission issue is its misattribution to Lucian, a common phenomenon for rhetorical exercises that circulated in educational contexts associated with his style and the period of the Second Sophistic. As a minor progymnasma, its significance lies in exemplifying the pedagogical methods and thematic play of advanced Greek rhetorical training during the Roman Imperial period, and it is studied primarily by scholars of ancient rhetoric and the Lucianic corpus.
+
 ## Text
 
 ### 1

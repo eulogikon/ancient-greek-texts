@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aaa-ab` · [HTML page](https://eulogikon.org/works/eumelus-corinth-epic-fragments-aaa-ab)
 
+The Epic Fragments attributed to Eumelus of Corinth consist of seventeen surviving verses drawn from several lost archaic epic poems. These works, primarily the Corinthiaca, the Titanomachy, and possibly the theogonic Europia, are preserved exclusively through quotations by later prose authors and commentators, with the geographer Pausanias and the scholia on Apollonius Rhodius's Argonautica serving as the principal sources. The Corinthiaca detailed the foundation myths and royal lineage of Corinth, tracing its kings from Sisyphus and incorporating the Argonautic saga through the figure of Medus, the son of Medea. The Titanomachy narrated the cosmic war between the Olympian gods and the Titans. This corpus of poetry functioned to establish a heroic pedigree for Corinth and its ruling Bacchiad aristocracy, thereby legitimizing their status within the broader Panhellenic epic tradition. Eumelus represents a significant contributor to the early Greek epic cycle, and his Corinthiaca in particular became a key source for subsequent mythographers and historians of Corinth, influencing the construction of local identity within the wider framework of Greek cultural memory.
+
 ## Text
 
 ### book 2.1

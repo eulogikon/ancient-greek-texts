@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cki-aa` · [HTML page](https://eulogikon.org/works/onatas-divine-cosmos-cki-aa)
 
+On the Divine and the Cosmos is a brief philosophical treatise attributed to an otherwise obscure figure named Onatas the Philosopher. It survives only in two fragmentary passages, as suggested by its alternative title, Extracts. The work’s title indicates a focus on theological and cosmological themes, potentially within a Neopythagorean or Platonic framework, though its specific arguments are largely unknown. The treatise is notable primarily as an attestation of a philosopher named Onatas, who is distinct from the known sculptor and painter of the same name. Its existence points to the circulation of minor philosophical texts on classical themes in the Hellenistic or later periods, though its direct influence is unrecorded and its manuscript tradition remains undocumented.
+
 ## Text
 
 ### 139 (1t)

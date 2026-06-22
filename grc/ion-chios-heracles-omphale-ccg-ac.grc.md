@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccg-ac` · [HTML page](https://eulogikon.org/works/ion-chios-heracles-omphale-ccg-ac)
 
+The Fragments on Heracles and Omphale by the 5th-century BCE poet Ion of Chios consist of 132 passages believed to originate from his satyr-play Omphale. The play dramatized the mythological episode in which Heracles, enslaved to Queen Omphale as punishment, exchanges clothing and roles with her, a scenario rich with inherent humor and spectacle. The surviving fragments indicate the work explored central themes through the conventions of satyr-drama, including the comic effeminization of Heracles and Omphale's assumption of his heroic attributes, the condition of the supreme hero subjected to servitude, the contrast between Heracles' outward disguise and his inherent nature, and a subversive critique of traditional masculine ideals through humor. The complete text is lost; the fragments survive exclusively through quotations in later lexicographers, grammarians, and commentators, who cited Ion's lines for their linguistic or mythological content. While its direct influence is untraceable, Ion's treatment helped establish the comic and critical tone associated with the Heracles and Omphale myth. His broader reputation as a philosophical poet suggests the play may have contained more than simple farce, though the scant fragments cannot confirm this dimension.
+
 ## Text
 
 ### book 1.1

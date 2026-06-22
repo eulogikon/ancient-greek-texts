@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ndy-ao` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-thucydides-ndy-ao)
 
+On Thucydides is a work of literary criticism by Dionysius of Halicarnassus, a Greek teacher of rhetoric active in Rome during the late first century BCE. Composed in Attic Greek as a formal essay or oration, it presents a systematic analysis of the historian Thucydides across 68 sections. Dionysius applies his established rhetorical principles to evaluate the historian’s style and methodology. While he praises Thucydides for his intellectual seriousness and profound thought, he offers a sustained critique of the historian’s often obscure and harsh prose, which he argues is difficult for readers to comprehend and unsuitable as a clear model for students to imitate. The essay is preserved in full within medieval manuscripts alongside Dionysius’s other critical writings. Modern scholarship regards it as a pivotal document in the history of literary criticism, one that reflects the cultural and stylistic debates of its era. Written to educate a Roman audience on classical Greek exemplars, the work advocates for a historical style that harmonizes depth of content with clarity and accessibility. It played a significant role in shaping the ancient and subsequent reception of Thucydides, solidifying both his elevated reputation and the enduring scholarly conversation regarding the challenges of his complex narrative style.
+
 ## Text
 
 ### Th t

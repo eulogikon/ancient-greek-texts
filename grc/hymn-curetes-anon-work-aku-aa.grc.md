@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aku-aa` · [HTML page](https://eulogikon.org/works/hymn-curetes-anon-work-aku-aa)
 
+The Hymn of the Curetes is a fragmentary Greek hymn preserved exclusively through four passages quoted by the Neoplatonist philosopher Porphyry in his third-century CE treatise On the Cave of the Nymphs. Porphyry cites these verses to support his allegorical interpretation of the cave described in Homer's Odyssey, using them as an example of caves considered sacred to nymphs and other deities. The hymn itself addresses the Curetes, the mythical attendants of the infant Zeus, whom it describes as guardians of Zeus and nurses of Bacchus. Its surviving content recounts the birth of Zeus in a Cretan cave, depicting the Curetes performing a clamorous armed dance around the newborn to conceal his cries from his father, Cronus. The text also references the Melian nymphs, or nymphs of ash trees, who assisted in rearing the young god. The hymn has no independent manuscript tradition; its original length, complete poetic structure, and performance context are lost, and it is classified as a fragment of Greek lyric poetry. It draws upon ancient Cretan mythological traditions concerning the infancy of Zeus. While its direct literary influence is untraceable, its core narrative of the protected birth of Zeus was a standard element of Greek myth. Its principal historical significance lies in the role it played, through Porphyry's citation, in later Neoplatonic allegorical interpretations of mythology.
+
 ## Text
 
 ### 1

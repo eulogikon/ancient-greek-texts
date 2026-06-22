@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bb` · [HTML page](https://eulogikon.org/works/aristotle-prior-analytics-hgw-bb)
 
+Aristotle's Prior Analytics is a foundational treatise on logic, composed around 350 BCE. It forms the first part of his collection of logical works known as the Organon. The treatise is systematically divided into two books. The first book introduces and meticulously analyzes the syllogism, a form of deductive argument in which a conclusion is derived necessarily from two premises. Aristotle details the various figures and moods of the syllogism, distinguishing valid from invalid forms. The second book examines further properties of syllogistic reasoning, such as conversion and the modes of opposition, and discusses its application to scientific demonstration and dialectical debate. Intended as a pedagogical tool for his students at the Lyceum, the work provides the formal method of deductive reasoning that underpins Aristotle's entire philosophical and scientific system. Recognized as a monumental innovation, it constitutes the first formal system of logic in Western thought. While later expanded by developments in modern mathematical logic, the Prior Analytics dominated logical study for over two millennia and remains a cornerstone in the history of philosophy and science.
+
 ## Text
 
 ### 1

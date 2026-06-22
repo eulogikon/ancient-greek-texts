@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qoa-aa` · [HTML page](https://eulogikon.org/works/herodicus-athens-republic-qoa-aa)
 
+On the Republic is a lost oration by the second-century CE Greek sophist and Roman senator Herodes Atticus. Composed in Attic Greek, the work belongs to the genre of epideictic oratory, designed to display the author's rhetorical artistry while engaging with political philosophy. It is believed to have been delivered before an elite audience in a setting such as Athens or Rome, addressing the constitution of an ideal state and the virtues necessary for political leadership. The text survives only in fragments, with modern scholarship having reconstructed twenty-nine excerpts preserved through citations by later authors, most notably the third-century biographer Philostratus and the tenth-century Byzantine encyclopedia known as the Suda. These fragments indicate that the oration explored themes including the nature of the ideal polity, the education of a ruler, and the function of justice and rhetoric in governance. Herodes Atticus, a preeminent figure of the Second Sophistic movement who served as tutor to future emperors, composed the work from a distinctive dual perspective as both a Greek intellectual and a Roman statesman. The oration is often interpreted as an effort to reconcile classical Platonic and Aristotelian political thought with the practical realities of civic life under the Roman Empire.
+
 ## Text
 
 ## [ΗΡΩΔΟΥ] ΠΕΡΙ ΠΟΛΙΤΕΙΑΣ Δι’ ὅ, τι μὲν ἀνάγκη λέγειν καὶ τηλικοῖσδε καὶ μὴ πολὺ νεωτέροις περὶ τοῦ παρόντος πράγματος, ἔχω λέξαι· δι’ ὅ, τι δ’ εἰκός ἐστι σιωπᾶν ἔχοντα λέγειν, οὔτε παρ’ ἄλλου δύναμαι μαθεῖν οὔτ’ αὐτὸς ἐξευρίσκω.

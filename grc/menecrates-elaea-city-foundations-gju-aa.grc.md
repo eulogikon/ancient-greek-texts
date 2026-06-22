@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gju-aa` · [HTML page](https://eulogikon.org/works/menecrates-elaea-city-foundations-gju-aa)
 
+Fragments on City Foundations is a lost prose work of historical geography by the Hellenistic author Menecrates of Elaea. It belongs to the genre of ktiseis, or foundation stories, which detailed the mythical and historical origins of cities. The work survives only through three brief fragments quoted by the geographer Strabo in his Geographica. These excerpts focus on northwestern Asia Minor, offering etymological and mythological explanations for place names that connect local geography to Panhellenic heroic cycles. One fragment discusses the foundation of Cius in Bithynia by Mycenaean heroes and its naming for a companion of Heracles. Another mentions the river and plain of Ascanius in Bithynia or Phrygia. A third recounts the origin of the author's own city, Elaea, said to be named for the olive trees discovered there by the Argonauts. The work has no independent manuscript tradition and is preserved solely within Strabo's text, a testament to its value for later compilers of geographical lore. These fragments exemplify the Hellenistic practice of systematizing local histories to integrate regional landscapes into a shared Greek mythological past. Through their preservation in Strabo, they contributed to the broader tradition of ancient historical geography and remain a valuable source for understanding Greek colonization myths and the intersection of landscape with collective memory.
+
 ## Text
 
 ### t1-2

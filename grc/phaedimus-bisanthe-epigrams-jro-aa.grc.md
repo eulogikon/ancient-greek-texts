@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jro-aa` · [HTML page](https://eulogikon.org/works/phaedimus-bisanthe-epigrams-jro-aa)
 
+The Epigrams of Phaedimus of Bisanthe constitute a collection of twenty-six short elegiac poems preserved within the Greek Anthology. These works appear across books 6, 7, and 16 of that monumental compilation. Originally a form of inscription, the literary epigram evolved into a sophisticated genre during the Hellenistic period, the era in which Phaedimus was active. His poems exemplify the traditional thematic categories of the genre as organized within the anthology. These include dedicatory epigrams, which were composed to accompany votive offerings to the gods, and funerary epigrams, intended to commemorate the dead. Other epigrams of a descriptive or amatory nature were likely included in other books of the collection. The work of Phaedimus survives exclusively through the manuscript tradition of the Greek Anthology, descending from Byzantine compilations such as the Palatine Anthology and the Planudean Anthology. His poems were originally selected for inclusion in earlier poetic anthologies, most notably Meleager of Gadara’s Garland. As a contributor to the Greek Anthology, Phaedimus participated in the shaping of the Hellenistic epigram tradition. His poems were transmitted as part of this major compilation, thereby influencing the later Greek, Byzantine, and Renaissance reception of the genre.
+
 ## Text
 
 ### book 271.1.1

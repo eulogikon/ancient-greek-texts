@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mzi-aa` · [HTML page](https://eulogikon.org/works/hermaeus-paropamisadae-egyptian-deities-mzi-aa)
 
+On Egyptian Deities is a lost treatise attributed to Hermaeus of Paropamisadae, known only through two fragments preserved by later authors. The work interpreted Egyptian religion through a Hellenistic lens, representing a genre of Greco-Roman scholarship that sought to explain foreign traditions. The first surviving passage, cited by the Neoplatonist Porphyry in the third century CE, describes the worship of the Nile River as a god, interpreting its annual floods as divine manifestations. The second fragment, summarized by the Byzantine scholar Photius in the ninth century, presents a euhemeristic account that the god Serapis was originally a beneficent human king who was deified after his death. These fragments survive only through paraphrase and summary, lacking an independent manuscript tradition. The work exemplifies the Greco-Roman intellectual approach to Egyptian culture, applying frameworks such as interpretatio Graeca and rationalizing euhemerism to explain its deities. Its scant remains contribute to the modern understanding of the Hellenistic reception and systematization of Egyptian religious concepts.
+
 ## Text
 
 ## ΠΕΡΙ ΑΙΓΥΠΤΙΩΝ.

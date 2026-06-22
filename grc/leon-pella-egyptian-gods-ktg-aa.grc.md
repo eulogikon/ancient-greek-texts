@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ktg-aa` · [HTML page](https://eulogikon.org/works/leon-pella-egyptian-gods-ktg-aa)
 
+_On the Egyptian Gods_, also known by the title _Apospasmata_ ("Extracts"), is a lost prose work attributed to Leon of Pella. It survives only in fragments preserved by later authors, which indicate it presented a euhemeristic interpretation of Egyptian mythology, arguing that the Egyptian gods were originally deified mortal kings and heroes. According to the Christian apologist Tatian, writing in the 2nd century CE, the work was framed as a letter addressed to Alexander the Great, in which Leon, described as a priest of the Egyptian sacred rites, revealed to the king out of fear of his power that the gods commonly worshipped were merely deified humans. The fragments further specify that the goddess Isis was identified by the Greeks with Demeter and was credited with the discovery of barley. The work situated these deified figures within a pseudo-historical narrative of early Egyptian kingship, claiming the Egyptians were the most ancient of peoples and that Thebes was the first city founded in Egypt.
+
+Later Christian writers, including Tatian and Clement of Alexandria, cited Leon’s treatise as authoritative evidence for their polemical argument that pagan deities were merely deified humans, thereby employing his rationalizing approach in service of theological critiques of traditional Greco-Roman religion. The work exemplifies a Hellenistic or early Imperial intellectual tendency to systematize and historicize foreign mythologies, and its focus on Alexander the Great’s connection to the god Ammon reflects contemporary engagements with royal ideology. The Byzantine lexicon _Suda_ also records Leon as the author of the _Apospasmata_, confirming the work’s place in the tradition of antiquarian and historiographical writing about Egypt.
+
 ## Text
 
 ### t1a-6

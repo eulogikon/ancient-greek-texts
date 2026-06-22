@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ueg-aa` · [HTML page](https://eulogikon.org/works/callinicus-petra-testimonies-ueg-aa)
 
+The Testimonies is a lost work attributed to the 3rd-century CE sophist Callinicus of Petra. It is known only from a brief notice in the 10th-century Byzantine encyclopedia, the Suda, which describes it as a collection of six passages. No fragments of the text survive, and no details regarding its specific content or internal structure are recorded. Given the author's profession as a rhetorician and the known titles of his other works, the Testimonies was almost certainly a collection of rhetorical exempla. Its contents likely comprised model speeches or declamations, historical or pseudo-historical narratives, and the kind of ethical or cultural commentary typical of sophistic practice. The work is preserved solely through its mention in the Suda lexicon, with no direct manuscript tradition or cited fragments, indicating an entirely indirect transmission. While the Testimonies itself had no documented influence, its attribution situates it within the broader literary output of a known sophist of the period. The work exemplifies the genre of rhetorical collections used for education and display during the era of the Second Sophistic, though Callinicus himself was not considered a leading practitioner of the movement.
+
 ## Text
 
 ### 3a,281,T 1a

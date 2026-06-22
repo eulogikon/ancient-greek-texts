@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `efq-ac` · [HTML page](https://eulogikon.org/works/plato-comic-aphrodite-fragments-efq-ac)
 
+The Fragments of Comic Aphrodite preserve thirty-two passages from a lost Old Comedy by the Athenian playwright Plato, known as the Comic Poet to distinguish him from the philosopher. The play, titled Aphrodite, centered on the goddess of love and related themes. These fragments survive exclusively through quotations in later authors, primarily lexicographers and scholars such as Athenaeus, who preserved them for their rare vocabulary or cultural references rather than their literary merit. One notable fragment contains a proverbial line on the dual terrors of love and its absence.
+
+The extant lines suggest the comedy engaged with conventional themes of the genre, including love and desire, social and political satire, and the parody of mythology, likely involving a burlesque of myths associated with Aphrodite. A significant number of the fragments are cited for their unusual or innovative vocabulary, indicating a play rich in linguistic creativity. The standard modern edition of these fragments appears in Poetae Comici Graeci. Although the complete work is lost, these remnants contribute to the understanding of Attic Old Comedy beyond the works of Aristophanes, offering valuable evidence for the Athenian language, social history, and the competitive theatrical culture of the late fifth and early fourth centuries BCE.
+
 ## Text
 
 ### book 1

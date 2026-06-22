@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qvs-aa` · [HTML page](https://eulogikon.org/works/pausanias-description-greece-qvs-aa)
 
+The Description of Greece is a ten-book travel guide composed in Greek by Pausanias during the second century CE, likely between 150 and 180. Structured as a systematic tour of mainland Greece, the work begins in Attica with Athens and proceeds region-by-region, offering detailed accounts of cities, sanctuaries, and notable landmarks. Pausanias concentrates on meticulously recording art, architecture, local myths, and religious customs, thereby creating an invaluable antiquarian record of the Greek world as it existed under Roman administration. Modern scholarship often interprets the work as a product of the Second Sophistic, a cultural movement wherein Greek intellectuals actively celebrated and curated their classical heritage; it was presumably written for an audience of educated travelers and readers fascinated by Greece's historical past. The complete text survives through medieval manuscripts and later became a foundational source for the rediscovery of ancient Greek sites during the Renaissance and the early development of modern archaeology. Its precise descriptions of statues, temples, and rituals that have since vanished provide unique information unavailable in any other surviving source.
+
 ## Text
 
 ### 1.1

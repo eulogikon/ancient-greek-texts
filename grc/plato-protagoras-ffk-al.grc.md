@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-al` · [HTML page](https://eulogikon.org/works/plato-protagoras-ffk-al)
 
+The Protagoras is a philosophical dialogue by Plato, composed in Attic Greek circa 390–380 BCE. It stages a dramatic encounter in the home of Callias, where Socrates seeks out the renowned sophist Protagoras. Their central debate concerns the fundamental question of whether virtue, or human excellence, can be taught. Protagoras vigorously defends its teachability, employing a celebrated myth about the origins of human society and a subsequent rational argument to demonstrate that political virtue is both necessary for communal survival and capable of being instilled through instruction and practice. Socrates, in contrast, subjects this position to rigorous scrutiny through his characteristic dialectical method, pressing Protagoras with a series of short, probing questions.
+
+The conversation broadens from this initial premise to investigate the nature of virtue itself, questioning whether specific virtues such as courage, wisdom, temperance, and justice are distinct and separable parts of a whole or ultimately constitute a unified entity. A notable digression features an extended analysis of a poem by Simonides, wherein Socrates and Protagoras offer competing models of literary interpretation, revealing their divergent approaches to language and meaning. The dialogue concludes without a definitive resolution, ending ironically with the two interlocutors having essentially reversed their original stances on the teachability of virtue.
+
+Set against the intellectual ferment of late fifth-century Athens, the work dramatizes the clash between Socratic philosophy and the sophistic movement. Plato contrasts Socrates’s relentless pursuit of definitional knowledge through cooperative inquiry with the sophists’ professional expertise in delivering persuasive, long-form oratory for pay. Transmitted intact through the medieval manuscript tradition, the Protagoras stands as a pivotal text for understanding the historical and philosophical conflict between Socrates and the sophists. It remains a crucial source for early Greek thought on ethics, moral education, and the foundations of political community.
+
 ## Text
 
 ### Prot.309.a

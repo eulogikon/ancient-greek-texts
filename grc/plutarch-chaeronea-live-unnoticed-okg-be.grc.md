@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-be` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-live-unnoticed-okg-be)
 
+"Whether Live Unnoticed Is Well Said" is a philosophical essay by Plutarch of Chaeronea, written in Attic Greek prose around 100 CE. It presents a systematic critique of the Epicurean maxim "live unnoticed," which counseled withdrawal from public life and political affairs. Plutarch structures his argument across fourteen sequential passages, marshaling evidence from history, mythology, and the doctrines of rival philosophical schools, particularly Stoicism and Platonism, to oppose this ideal. He contends that the pursuit of honor and active civic engagement is inherent to human nature and constitutes an essential component of a virtuous and complete life. The essay survives as part of Plutarch's collected ethical works, the Moralia, transmitted through medieval manuscripts. Modern scholarship views the work as a significant document of the intellectual conflicts of the early Roman Empire, reflecting the perspective of a Greek elite deeply committed to public service. It defends traditional Greco-Roman values of political participation and reputation against the Epicurean advocacy for private tranquility and anonymity.
+
 ## Text
 
 ### t 1

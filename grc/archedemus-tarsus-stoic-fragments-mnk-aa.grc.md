@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mnk-aa` · [HTML page](https://eulogikon.org/works/archedemus-tarsus-stoic-fragments-mnk-aa)
 
+The Stoic Philosophical Fragments attributed to Archedemus of Tarsus represent a modern scholarly reconstruction, as no complete treatise by this philosopher survives. The collection comprises twenty-two distinct testimonia and fragments preserved through quotation and summary in later authors, including Diogenes Laertius, Sextus Empiricus, and Stobaeus. These excerpts demonstrate Archedemus's engagement with core areas of Stoic doctrine. In logic, he contributed to dialectic through analyses of propositions, conditionals, and modalities. His physics featured a distinctive view on the cosmic conflagration, arguing that the cosmos is not identically destroyed in each cyclical renewal. In ethics, he provided an influential definition of appropriate action as that which admits of a reasonable justification. His psychology posited that eight parts of the soul, including the commanding faculty, are portions of the corporeal pneuma. The transmission of his thought is entirely indirect, filtered through doxographers and critics, with the standard modern compilation found in Hans von Arnim's Stoicorum Veterum Fragmenta. As a figure of middle Stoicism, Archedemus was significant for his modifications to standard doctrine, particularly in cosmology, and his precise ethical definitions remained points of reference for later philosophers.
+
 ## Text
 
 ### 1

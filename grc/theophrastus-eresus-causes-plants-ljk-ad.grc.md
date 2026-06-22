@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-ad` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ad)
 
+On the Causes of Plants is a six-book scientific treatise written in Attic Greek by the philosopher Theophrastus around 300 BCE. It functions as a companion to his earlier descriptive work, Enquiry into Plants, by shifting from the cataloging of flora to an investigation of the underlying reasons for botanical phenomena. The work is organized thematically, systematically examining the causes of plant generation, growth, health, and death across 595 passages. Its scope encompasses the influence of climate and soil, practical cultivation techniques, and questions of plant physiology. In its method, the treatise represents a significant intellectual endeavor to apply, and at times cautiously adapt, the causal frameworks of Aristotelian philosophy to the specific and complex domain of the botanical world.
+
+Theophrastus composed this work during his tenure as the head of Aristotle's Peripatetic school in Athens, with the aim of establishing botany as a rigorous philosophical discipline. Modern scholarship regards it as a foundational attempt to construct a systematic science of plants, intended for an audience well-versed in Aristotelian natural philosophy. The complete text has survived through medieval manuscript traditions, though certain passages present interpretive challenges, and the precise relationship of the extant book divisions to the author's original organizational scheme remains partially uncertain. Its pioneering causal methodology exerted an influence on early modern botanists, and it continues to be an indispensable source for understanding the principles and practices of ancient Greek science.
+
 ## Text
 
 ### Caus Plant 2 t 1

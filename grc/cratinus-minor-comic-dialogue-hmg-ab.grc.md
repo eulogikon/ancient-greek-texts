@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hmg-ab` · [HTML page](https://eulogikon.org/works/cratinus-minor-comic-dialogue-hmg-ab)
 
+The Fragments of Comic Dialogue is a modern descriptive title for a collection of twenty-eight fragmentary passages of verse attributed to the comic poet Cratinus the Younger. These excerpts, consisting of individual lines or short passages, are preserved primarily within the lexicographical work of Athenaeus of Naucratis, the Deipnosophistae. The content reflects the conventions of Middle or New Comedy, focusing on daily life and social types rather than the political satire characteristic of earlier Old Comedy. The extant fragments illustrate several characteristic themes of the period, including gastronomy and consumption with references to food, drink, and dining, depictions of contemporary social types like merchants and cooks, and the general practice of mythological parody. The work survives entirely through indirect transmission, having been quoted by later authors like Athenaeus for their illustrative value regarding vocabulary and customs, and is collected in modern scholarly editions. While the fragmentary state obscures his direct influence, Cratinus the Younger operated within Middle Comedy, a transitional period that shaped subsequent New Comedy. The fragments provide valuable evidence for the social history and generic evolution of fourth-century BCE Athenian comedy.
+
 ## Text
 
 ### book 1.1

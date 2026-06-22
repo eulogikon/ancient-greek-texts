@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hhg-ac` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-harmonic-elements-hhg-ac)
 
+The Harmonic Elements is a foundational treatise of ancient Greek music theory written by the philosopher Aristoxenus of Tarentum around 330–320 BCE. Composed in Attic Greek, this scientific work systematically establishes the study of harmonics as a distinct discipline. It is structured in three books, though only the first two survive in full; the third book is fragmentary. The treatise covers fundamental musical concepts including notes, intervals, scales, and modulation. Its central and revolutionary argument is that musical phenomena must be studied through human perception and reason rather than through abstract mathematical ratios. This empirical approach positioned it in direct opposition to the Pythagorean school of thought. Modern scholars interpret the work as an attempt to apply Aristotelian scientific methodology to music, written for an audience of both philosophers and practicing musicians. The text survives primarily through medieval manuscripts, with a key 13th-century copy preserving the most complete version. Its perceptual and systematic framework dominated later Greco-Roman music theory and exerted a profound influence on the development of Western musical thought.
+
 ## Text
 
 ### 5 (4)

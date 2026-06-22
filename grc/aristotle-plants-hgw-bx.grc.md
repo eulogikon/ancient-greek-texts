@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bx` · [HTML page](https://eulogikon.org/works/aristotle-plants-hgw-bx)
 
+On Plants is a two-book treatise on botany traditionally ascribed to Aristotle, though modern scholarship almost unanimously attributes it to a later member of his school, likely from the Hellenistic period. Composed as an attempt to extend Aristotelian natural philosophy into the botanical realm, the work is structured as a series of investigations. Its primary inquiry centers on whether plants possess a soul, and it systematically explores their physiology, covering classification, constituent parts, modes of reproduction, nutrition, and diseases. The treatise also contains a significant digression on the properties of stones and minerals. The text's transmission history is exceptionally complex; the original Greek version is lost. The extant work is a 13th-century Latin translation derived from an Arabic version, which was itself translated from a lost intermediary text. This lengthy chain of translation means the surviving treatise may not fully or accurately reflect the original composition. Despite its spurious authorship, On Plants was influential in the medieval Latin West, where it was accepted as a genuine work of Aristotle and studied as an authoritative botanical text.
+
 ## Text
 
 ### 1.1

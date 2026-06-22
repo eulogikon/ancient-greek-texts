@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fh` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-caesar-okg-fh)
 
+Plutarch's Life of Caesar is a biography of Julius Caesar, composed in Greek in the early second century CE as part of the author's celebrated series, Parallel Lives. The work presents a chronological account of Caesar's life, detailing his early political alliances and defiance of Sulla, his rise through the cursus honorum, his pivotal military campaigns in Gaul, the civil war against Pompey and the senatorial faction, and his eventual assassination on the Ides of March in 44 BCE. Preserved intact in medieval manuscripts, the narrative comprises 341 distinct sections.
+
+Plutarch's approach is that of a moral biographer rather than a strict historian. His primary aim is to illuminate the character and virtues of his subject through a careful selection of anecdotes, reported speeches, and revealing incidents. The biography is interpreted by modern scholars as a nuanced study of ambition, the nature of political power, and the profound consequences of autocratic rule, crafted for the edification of the educated Greek-speaking elite within the Roman Empire. Plutarch probes Caesar's defining qualities—his audacity, his strategic clemency, and his relentless personal drive—while also integrating omens and portents that artistically foreshadow his tragic fate. As one of the most influential ancient accounts of Caesar's life, it served as a vital source for later historical works and literary portrayals, most famously providing the foundation for William Shakespeare's Roman tragedy Julius Caesar.
+
 ## Text
 
 ### Caes t 1

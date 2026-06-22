@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lea-aa` · [HTML page](https://eulogikon.org/works/orphic-poems-proclamations-stones-lea-aa)
 
+The Proclamations concerning Stones is a treatise from the pseudepigraphical Orphic corpus, traditionally attributed to the mythical poet Orpheus and classified among the Orphic lapidary texts. Structured in 53 distinct passages, the work systematically details the magical and medicinal properties of various minerals. It combines precise descriptions of each stone's physical appearance and geographical origin with elaborate accounts of its purported occult virtues, which include protective abilities, therapeutic healing, and applications in divination. The text explicitly connects these minerals to underlying cosmic or divine forces, a synthesis that reflects the syncretic esoteric thought of the late Hellenistic period and represents an attempt to systematize natural knowledge within a mystical framework.
+
+The work survives only in a fragmentary state, primarily through quotations preserved in later Byzantine encyclopedic compilations. The principal source for its 53 passages is the Bibliotheca of the 9th-century Patriarch Photius, who excerpted and discussed the text, providing critical testimony to its content and character. As a significant part of the Orphic lapidary tradition, the treatise served as an important conduit of ancient mineral lore, directly contributing to the development of medieval and Renaissance traditions of magical, medical, and alchemical literature. Its preservation and analysis by a figure of Photius's stature further indicate that it was studied in Byzantine scholarly contexts as a notable, if pagan, example of ancient natural philosophy and esoteric science.
+
 ## Text
 
 ## ὈΡΦΕΩΣ ΛΙΘΙΚΑ ΚΗΡΥΓΜΑΤΑ Λίθος κρύσταλλος ὁ πᾶσι γνώριμος.

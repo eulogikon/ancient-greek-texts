@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `czs-ad` · [HTML page](https://eulogikon.org/works/cratinus-judgment-paris-czs-ad)
 
+The Fragments on the Judgment of Paris comprise a collection of 66 short passages attributed to the Athenian comic poet Cratinus, a major exponent of Old Comedy in the fifth century BCE. Written in Attic Greek verse, these fragments are thought to derive from one or more of his lost satirical plays that humorously treated the myth of the Judgment of Paris. This story, in which the Trojan prince Paris awards a golden apple to Aphrodite and thereby sets in motion the events leading to the Trojan War, provided a mythological framework for Cratinus's comedy. As was typical of the genre, the playwright likely used this ancient tale as a vehicle for mocking contemporary Athenian society, politics, and prominent individuals.
+
+The complete work or works from which these fragments originate have not survived. Their preservation is due to their citation by later ancient authors, such as the grammarian Athenaeus, who quoted them for their linguistic peculiarities or notable content. The fragments depict scenes including Hermes escorting the goddesses to Paris on Mount Ida, the comic ridicule of the god Dionysus by characters, and the promises made by Hera, Athena, and Aphrodite to sway Paris's decision. Following his choice of Aphrodite, the narrative continues with Paris's voyage to Sparta, his abduction of Helen, and his subsequent return to Troy, where he hides from the approaching Greek forces. Modern scholars view these pieces as evidence of Cratinus's influential and audacious satirical style, which exploited themes of divine vanity and mortal folly to critique the world of classical Athens during the age of Pericles and the Peloponnesian War. Although the precise plot and structure of the original play remain irrecoverable, the fragments offer valuable insight into the thematic and technical development of comic theater in the period immediately preceding Aristophanes.
+
 ## Text
 
 ### book 69

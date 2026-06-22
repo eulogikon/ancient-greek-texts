@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vhc-ai` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-ix-vhc-ai)
 
+_Medical Book IX_ constitutes the ninth volume of the _Tetrabiblon_, a comprehensive sixteen-book medical encyclopedia compiled by the Byzantine physician Aëtius of Amida in the sixth century. Written in Greek, this systematic work was designed to preserve and organize the medical knowledge of earlier Greek and Roman authorities. This particular book focuses on diseases and treatments of the abdominal organs. Its ninety chapters methodically address a wide range of conditions affecting the stomach, intestines, and associated systems, including jaundice, dysentery, kidney stones, cholera, and various digestive disorders. Each condition is typically followed by detailed therapeutic recommendations drawn from prior authorities, encompassing drugs, dietary advice, and prescribed regimens.
+
+The complete text survives through medieval Byzantine manuscripts and was later translated into Latin during the Renaissance, ensuring its continued accessibility. Aëtius, who is believed to have served in the court of Emperor Justinian I, compiled this encyclopedia for the practical use of fellow physicians and students. Modern scholars regard it as a crucial link in the transmission of classical medicine, as it preserves extensive excerpts from many earlier writers, including Galen, Archigenes, and Philumenus, whose original works are now partially or completely lost. Its structured, doxographic approach, which clearly attributes doctrines to their sources, made the _Tetrabiblon_ a highly influential and authoritative medical reference throughout the Byzantine period and into the early modern world.
+
 ## Text
 
 ### P (t)

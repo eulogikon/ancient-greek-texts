@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kza-ab` · [HTML page](https://eulogikon.org/works/lobon-argos-fragments-kza-ab)
 
+The Fragments and Title by Lobon of Argos is a Hellenistic verse composition known only through a collection of 61 surviving passages. Lobon, active in the 3rd century BCE, was a compiler and forger who fabricated hexameter verses and epigrams, deliberately attributing them to legendary poets such as Orpheus, Musaeus, and Linus. His output, recognized as spurious even in antiquity, represents a deliberate act of literary fabrication and pseudepigraphy, the practice of ascribing new works to famous ancient authors. The composition reflects the broader Hellenistic scholarly interest in compiling, and sometimes inventing, a poetic heritage. The work survives solely in fragments quoted by later ancient authors; no complete manuscript exists, and the recorded passages likely derive from quotations in anthologies or critical references from scholars such as Callimachus. Lobon’s primary influence was negative, making his name a byword for forgery. His fabricated verses entered later compilations, thereby polluting the textual tradition of early Greek poetry. The work remains critically significant for understanding the mechanisms of ancient pseudepigraphy and the enduring challenges involved in authenticating fragmentary texts.
+
 ## Text
 
 ### book 504

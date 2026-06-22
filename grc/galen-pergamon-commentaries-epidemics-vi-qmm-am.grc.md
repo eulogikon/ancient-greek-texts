@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-am` · [HTML page](https://eulogikon.org/works/galen-pergamon-commentaries-epidemics-vi-qmm-am)
 
+Galen of Pergamon's Commentaries on Hippocrates' Book VI of Epidemics is a detailed medical exegesis composed in Attic Greek during the late second century CE. As part of Galen's comprehensive endeavor to interpret and champion the writings attributed to Hippocrates, whom he regarded as the cornerstone of sound medical practice, this work offers a meticulous, line-by-line analysis of one of the most enigmatic texts within the Hippocratic Corpus. The original Hippocratic book comprises a series of terse clinical observations and aphorisms. In his commentary, Galen systematically clarifies obscure medical terminology, elucidates symptoms and therapeutic recommendations, and employs the text as a platform to advocate for his own physiological and pathological theories. The structure mirrors the source material, organized into 559 distinct sections corresponding to passages in the Hippocratic work.
+
+The commentary functions on multiple levels, serving both as a practical handbook for physicians and as a philosophical treatise. Modern scholarship views it as a polemical instrument designed to advance the doctrines of Galen's "Rationalist" medical school against competing sects. It argues forcefully that legitimate medicine must be grounded in logical theory and the understanding of hidden, internal causes of disease, countering empirical or methodist approaches. Its intended readership included advanced medical students, practicing doctors, and educated Roman patrons. The text survives largely complete through a tradition of medieval Byzantine manuscripts. Its influence was extended through subsequent translations into Syriac, Arabic, and Latin, securing its status as a foundational text for medical theory in both the Islamic world and medieval Europe for more than a thousand years.
+
 ## Text
 
 ### 17a 793 (t1)

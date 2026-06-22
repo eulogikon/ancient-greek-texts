@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ab` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-uncertain-author-fragments-iso-ab)
 
+The Fragments of an Uncertain Author constitutes a bibliographic entry from the Pinakes, the monumental catalog of the Library of Alexandria compiled by the scholar-poet Callimachus. This entry did not list Callimachus's own compositions but functioned as an essential cataloging category for texts of disputed or unknown provenance within the library's vast collection. As a catalog record, its content was organizational, exemplifying the advanced scholarly practices of textual criticism and bibliographic taxonomy by systematically isolating and classifying anonymous works. The work itself is entirely lost, preserved only through a later citation by the biographer Diogenes Laertius in the third century CE, who references it when discussing spurious works erroneously attributed to Plato. The entry's significance lies in its demonstration of Hellenistic scholarly rigor. By formally establishing a separate category for works of uncertain authorship, Callimachus set a critical precedent for the study of attribution and authorial corpora, a methodological innovation that profoundly influenced subsequent biographers and doxographers.
+
 ## Text
 
 ### 814

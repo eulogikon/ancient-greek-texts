@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iru-ae` · [HTML page](https://eulogikon.org/works/aratus-commentaries-introduction-iru-ae)
 
+The Introduction from Other Commentaries is a prose compilation of scholia attributed to an author identified as Aratus Lives, a figure distinct from the Hellenistic poet Aratus of Soli. As its title suggests, the work is an introductory synthesis drawn from various prior commentaries on an unspecified primary text. Such compilations served a clear educational purpose, providing accessible exegesis by gathering and presenting earlier scholarly explanations. The content consists of exegetical notes compiled from multiple sources, forming an explanatory commentary aimed at clarifying a base text. The work is not attested in standard reference sources; its existence is known only from limited metadata, which suggests a survival in manuscript or fragmentary form, though no details of its manuscript tradition or publication history are available. This compilation exemplifies the ancient scholarly practice of synthesizing existing commentaries, reflecting the interpretive traditions surrounding the text it addresses and the pedagogical methods characteristic of Hellenistic or later Greco-Roman scholarship.
+
 ## Text
 
 ## ΕΞ ΕΤΕΡΩΝ ΣΧΟΛΙΩΝ ΕΙΣΑΓΩΓΗ Προοίμιον.

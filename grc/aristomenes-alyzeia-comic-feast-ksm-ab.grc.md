@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ksm-ab` · [HTML page](https://eulogikon.org/works/aristomenes-alyzeia-comic-feast-ksm-ab)
 
+The Fragments of a Comic Feast by Aristomenes of Alyzeia is a lost comedy from the era of Middle Comedy, surviving only in fourteen brief passages. These fragments are preserved almost exclusively by the antiquarian Athenaeus in his Deipnosophistae, who valued them primarily for their unusual vocabulary and references to food and dining customs. The work’s title suggests a symposium setting, a conventional literary framework for dialogue and social observation. The extant lines, which mention items like a salted oyster and a servant who constantly eats, along with references to civic officials and a mask, point to a plot centered on gastronomy, consumption, and the humorous interactions of stock character types within a convivial atmosphere. The comedy likely employed social satire and parody, possibly targeting philosophical banquets or mythological tales, while its distinctive language explains its citation by later lexicographers and scholiasts such as Hesychius. Although the direct influence of Aristomenes is not documented, his work exemplifies the transitional nature of Middle Comedy, which moved away from the political invective of Old Comedy toward the domestic and social preoccupations that would be perfected in the New Comedy of Menander. Consequently, these fragments provide scholars with important evidence for the evolution of comic plots, linguistic style, and the reflection of everyday social customs in ancient Greek theater.
+
 ## Text
 
 ### book 1

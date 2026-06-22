@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-aw` · [HTML page](https://eulogikon.org/works/hippocrates-coan-prognostics-bww-aw)
 
+The Coan Prognostics is an ancient Greek medical treatise belonging to the Hippocratic Corpus, a body of works attributed to Hippocrates of Cos but composed by various authors. Dating from the late fifth or early fourth century BCE and written in Ionic Greek, the work comprises 318 concise, aphoristic passages. It functions as a practical manual for diagnosis and prediction, systematically cataloging observable signs and symptoms—progressing from the head to the extremities and including discussions of fevers and critical days—to forecast the likely outcome of an illness, whether recovery or death. The text survives in its entirety through medieval Greek manuscripts copied between the tenth and twelfth centuries CE, a testament to its enduring utility as a reference and teaching tool due to its clear, structured format. Modern scholarship views the treatise as a foundational example of the Hippocratic emphasis on empirical observation and prognosis. It was likely intended for practicing physicians and students, aiding them in evaluating treatable conditions, establishing professional credibility, and managing patient expectations. The title "Coan" associates the work with the renowned medical school on the island of Cos, indicating its origin within that influential tradition.
+
 ## Text
 
 ## Οἱ ἐκ ῥίγεος περιψυχόμενοι, κεφαλαλγέες, τράχηλον ὀδυνώδεες, ἄφωνοι, ἐφιδροῦντες, ἐπανενέγκαντες θνήσκουσιν.

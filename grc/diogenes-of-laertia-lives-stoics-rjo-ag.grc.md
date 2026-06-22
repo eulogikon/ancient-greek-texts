@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ag` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-stoics-rjo-ag)
 
+Book VII of Diogenes Laërtius' Lives and Opinions of Eminent Philosophers is the most philosophically substantial book of the ten, devoted entirely to the Stoics. It proceeds through the principal members of the school in order of succession: Zeno of Citium (founder), Aristo of Chios, Herillus of Carthage, Dionysus the Renegade, Cleanthes of Assos, Sphaerus of Bosphorus, and Chrysippus of Soli. The biographical notices are accompanied by the most comprehensive surviving systematic account of Stoic doctrine, organized under the school's canonical tripartite division of philosophy into logic, physics, and ethics. The logic section preserves the five Stoic indemonstrable syllogisms and the theory of the kataleptic impression; the physics section covers the active and passive principles, pneuma, ekpyrōsis, and the hegemonikon; the ethics section treats virtue, the telos, the wise man, and the kathēkon.
+
+The doctrinal dossier embedded in the biography of Zeno (§§39–160) constitutes the single most important ancient source for early Stoic philosophy, given that the original writings of Chrysippus and the early Stoics are almost entirely lost. Modern scholarship on Stoic logic (Mates, Bobzien), physics (Long and Sedley), and ethics (Inwood) treats Book VII as a primary source of first resort. Diogenes compiled these summaries from earlier doxographers, particularly Diocles of Magnesia, and the presentation reflects the fully systematized form of Stoicism as transmitted in the first centuries CE. Despite its known lacunae and dependence on secondary sources, Book VII of the Lives remains the foundation of our knowledge of the early Stoic school.
+
 ## Text
 
 ### Vit.7.1

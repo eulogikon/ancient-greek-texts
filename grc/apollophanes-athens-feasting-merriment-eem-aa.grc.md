@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eem-aa` · [HTML page](https://eulogikon.org/works/apollophanes-athens-feasting-merriment-eem-aa)
 
+The Fragments on Feasting and Merriment is a modern assemblage of twelve surviving passages from the lost works of the Athenian comic poet Apollophanes. A contemporary of Aristophanes active in the late 5th century BCE, Apollophanes was a practitioner of Old Comedy, producing his first play in 414 BCE and achieving at least one victory at the Lenaean festival. The fragments are preserved exclusively through quotations by later authors, most notably the grammarian Athenaeus in his Deipnosophistae. While the exact content of the original work is unknown, its title and the conventions of the genre suggest it engaged with the symposiac culture of Athens, employing comic exaggeration to satirize gluttony, drunken excess, and the social behaviors associated with feasting and celebration. As with many fragmentary remains of minor comic poets, these passages offer valuable philological insights and contribute to a broader understanding of the thematic range and competitive environment of Old Comedy beyond its major surviving exponents.
+
 ## Text
 
 ### book 2

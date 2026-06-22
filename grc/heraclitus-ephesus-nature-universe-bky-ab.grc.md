@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bky-ab` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-nature-universe-bky-ab)
 
+On the Nature of the Universe is a collection of philosophical aphorisms attributed to Heraclitus of Ephesus, a seminal thinker active around 500 BCE. Composed in a dense, poetic Ionic Greek prose, the work is not a systematic treatise but a series of profound, often paradoxical statements. Heraclitus investigated the fundamental principles governing the cosmos, articulating concepts such as the Logos—a universal rational principle or order—the dynamic unity of opposites, and the symbolism of ever-living fire as the archetypal substance of perpetual change. His doctrine of universal flux, encapsulated in the notion that all things are in a state of constant transformation, stands as a cornerstone of his thought.
+
+The original work does not survive intact. Our knowledge of it derives from approximately 146 fragments preserved through quotation by later Greek and Roman authors, a circumstance that has led to the text also being referred to by the term Apostasmata, meaning "extracts." According to ancient testimony, Heraclitus deposited his book in the great temple of Artemis at Ephesus, suggesting it was intended for a restricted or sacred readership. The original structure and full content are lost, and the conventional title On the Nature of the Universe was assigned by later doxographers. Despite its fragmentary state, Heraclitus's enigmatic ideas concerning cosmic flux, the generative role of strife, and a hidden harmony underlying apparent contradiction have exerted a profound and lasting influence on Western thought, shaping the philosophies of Plato, the Stoics, and numerous modern thinkers.
+
 ## Text
 
 ### tit,1-126

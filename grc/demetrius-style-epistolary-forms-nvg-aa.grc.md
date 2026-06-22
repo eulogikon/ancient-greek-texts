@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nvg-aa` · [HTML page](https://eulogikon.org/works/demetrius-style-epistolary-forms-nvg-aa)
 
+The brief work known as Epistolary Forms is spuriously attributed to Demetrius, the author traditionally associated with the rhetorical treatise On Style. It comprises merely two short passages, which appear to function as illustrative examples of epistolary style rather than constituting a complete, independent treatise. Major sources on ancient rhetoric do not treat it as a separate work, focusing instead on the larger pseudepigraphical corpus of On Style. As its title suggests, the content likely demonstrates the application of specific rhetorical figures to letter-writing, exemplifying the plain style considered appropriate for the genre and exploring distinctions in stylistic register. The transmission of the text is obscure; it may survive as a fragment or a later excerpt incorporated into the manuscript tradition of On Style, which itself dates from the Hellenistic or early Roman period. While the direct influence of Epistolary Forms cannot be traced, its presumed concepts belong to the influential Demetrian stylistic tradition. The discussion of epistolary theory within the broader On Style corpus informed later rhetorical and literary thought, evident in the works of writers such as Philostratus and in the Byzantine tradition.
+
 ## Text
 
 ### 1

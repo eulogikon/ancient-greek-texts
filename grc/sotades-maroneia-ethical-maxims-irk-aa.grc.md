@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `irk-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-ethical-maxims-irk-aa)
 
+The Fragments of Ethical Maxims is a pseudepigraphical collection of 72 gnomic verses, conventionally though spuriously attributed to the 3rd-century BCE poet Sotades of Maroneia. This attribution, found in the manuscript tradition, is considered inauthentic by modern scholarship, as the genuine Sotades was renowned for his obscene and satirical verse composed in a distinctive meter named after him. The presence of his name on a collection of conventional ethical sayings is therefore a notable anomaly. The verses themselves are characteristic of the broader gnomic tradition, focusing on themes of ethical conduct, practical wisdom for daily life, and reflections on human nature, fortune, and social relationships. The fragments survive through indirect transmission, most likely preserved within later anthologies or florilegia. The work's significance lies primarily in its value as an example of the enduring Hellenistic gnomic tradition and the common practice of pseudepigraphical attribution. Its content stands in sharp contrast to the influential, proverbial legacy of the authentic Sotades, whose innovative meter and transgressive style were later adopted for burlesque and satirical poetry.
+
 ## Text
 
 ### book 6.1

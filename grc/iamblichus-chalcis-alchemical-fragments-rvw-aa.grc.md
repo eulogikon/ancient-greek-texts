@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rvw-aa` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-alchemical-fragments-rvw-aa)
 
+The Alchemical Fragments is a pseudepigraphical Greek treatise comprising ten passages on alchemical theory and practice, spuriously attributed to the Neoplatonist philosopher Iamblichus of Chalcis. The work addresses the transmutation of metals, the nature of matter, and the philosophical principles underlying the art, presenting itself as both a practical and doctrinal guide. Its content discusses the fundamental unity and transmutability of matter, detailing practical procedures for creating alloys and imitating precious metals or dyes. It further explores the role of divine power in material transformation and aligns the alchemical art with Neoplatonic and Hermetic cosmological principles. The text survives only as excerpts, likely preserved within later Byzantine alchemical compilations. Its spurious attribution to Iamblichus is characteristic of late antique Greco-Egyptian alchemy, which often invoked prestigious philosophical names to lend authority to its texts. The fragments exemplify the synthesis of practical craft knowledge with late antique philosophical speculation. As part of the pseudepigraphical Iamblichean corpus, they contributed to the medieval and Renaissance esoteric traditions, representing a key intersection of Neoplatonic metaphysics with the technical arts that influenced subsequent Arabic and Latin alchemy.
+
 ## Text
 
 ### 2.286

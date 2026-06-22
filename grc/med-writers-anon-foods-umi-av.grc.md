@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-av` · [HTML page](https://eulogikon.org/works/med-writers-anon-foods-umi-av)
 
+On Foods is an anonymous Greek medical treatise from the Roman Imperial period, likely compiled between the 1st and 4th centuries CE. It belongs to the genre of ancient dietetics, which considered food a primary instrument for maintaining health and treating illness. The work is structured as a practical handbook comprising approximately 80 concise entries. Each passage describes a specific foodstuff—including grains, vegetables, fruits, meats, fish, and beverages—and systematically details its perceived properties and physiological effects. These descriptions typically classify foods as heating or cooling, note their digestibility, and provide recommendations or cautions for their consumption in relation to various bodily conditions.
+
+The treatise survives in full through later Greek manuscripts, though its authorship is unknown. While some manuscript traditions have attributed it to prominent physicians such as Galen or Dioscorides, modern scholarship regards it as an anonymous compilation that synthesizes earlier Hellenistic medical knowledge. It was likely composed as a straightforward reference guide for practical application, embodying the pervasive ancient medical principle that dietary regulation was fundamental to preserving the body's equilibrium. As such, the work provides a valuable insight into the everyday nutritional theories and therapeutic practices of Greco-Roman medicine.
+
 ## Text
 
 ## * ΑΝΩΝΥΜΟΥ ΠΕΡΙ ΧΥΜΩΝ, ΒΡΩΜΑΤΩΝ ΚΑΙ ΠΟΜΑΤΩΝ [τῶν τε χερσαίων, ἐναερίων καὶ θαλαττίων, ὅσα τε ἐκ τούτων εἰσὶ τρόφιμα καὶ εὔχυμα, καὶ ὅσα δύσπεπτα καὶ κακόχυμα.] Περὶ εὐχύμων.

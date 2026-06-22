@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `quy-aa` · [HTML page](https://eulogikon.org/works/celsus-platonist-true-discourse-quy-aa)
 
+The True Discourse is a philosophical treatise written in Greek around 177–180 CE by the Platonic philosopher Celsus. It stands as the earliest known systematic intellectual critique of Christianity from a pagan perspective. The original work is lost, and its contents are reconstructed almost entirely from extensive quotations preserved within the refutation written by the Christian theologian Origen of Alexandria approximately seventy years later. Origen structured his own work, Contra Celsum, as a detailed point-by-point rebuttal, allowing scholars to identify and arrange Celsus's arguments into roughly 264 distinct passages.
+
+Composed during the reign of Marcus Aurelius, the treatise aimed to defend traditional Greco-Roman religion and Platonic philosophy against what Celsus considered a novel and irrational superstition. His critique is wide-ranging, attacking core Christian doctrines such as the conception of God and the divinity of Jesus, whom he dismisses as a mere magician. He vigorously defends the ancient polytheistic order and accuses Christians of being socially subversive and disloyal to the Roman Empire, alleging they form secret associations contrary to established laws. The work is structured partly as a dialogue, with Celsus occasionally adopting a Jewish persona to launch criticisms. His arguments demonstrate a familiarity with Christian scriptures, and he contends that Christian doctrine is a corrupt and inferior borrowing from superior Greek philosophy, particularly Platonism.
+
+The survival of the True Discourse depends entirely on the manuscript tradition of Origen's Contra Celsum, the most complete Greek copy of which dates from the 13th century. Despite being filtered through a hostile source, Celsus's comprehensive attack compelled early Christian apologists to formulate more sophisticated theological and philosophical defenses, making his work a crucial document for understanding the intellectual and religious conflicts of the second century.
+
 ## Text
 
 ### 1 1

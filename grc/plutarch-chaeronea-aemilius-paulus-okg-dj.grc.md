@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dj` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-aemilius-paulus-okg-dj)
 
+Plutarch’s Life of Aemilius Paulus is a biography of the Roman general Lucius Aemilius Paullus Macedonicus, composed in Greek during the early second century CE. It is one of the paired narratives in Plutarch’s Parallel Lives, where it is coupled with the Life of Timoleon, the Corinthian general who liberated Syracuse. The work traces Aemilius’s public career, with particular emphasis on his command in the Third Macedonian War and his definitive triumph over King Perseus at the Battle of Pydna in 168 BCE. Plutarch balances this account of military and political success with a poignant depiction of Aemilius’s private life, notably the successive deaths of his two sons, framing a contrast between public glory and personal sorrow. The biography survives intact and is conventionally organized into approximately 225 chapters in modern editions. True to Plutarch’s overarching method, the primary aim is moral and philosophical inquiry rather than strict historical chronicle. By paralleling Aemilius with Timoleon, Plutarch invites a comparative analysis of their characters, their moderation and justice in victory, and their shared endurance of domestic tragedy. For modern readers, the life serves as a significant cultural document, reflecting Plutarch’s project of synthesizing Greek and Roman heroic ideals. It presents Aemilius as a model of Roman discipline, piety, and fortitude, crafted for the edification of a Greek-speaking, educated audience living under the Roman Empire.
+
 ## Text
 
 ### Aem t 1

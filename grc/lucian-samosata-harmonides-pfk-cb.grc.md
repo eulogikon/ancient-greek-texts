@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cb` · [HTML page](https://eulogikon.org/works/lucian-samosata-harmonides-pfk-cb)
 
+_Harmonides_ is a short rhetorical exercise composed in the 2nd century CE by the Syrian-born satirist Lucian of Samosata. Written in Attic Greek as a five-part oration, it belongs to the genre of progymnasmata, the preliminary exercises used in Greco-Roman rhetorical education. The work takes the form of a fictional dedicatory speech by a celebrated flute-player named Harmonides, who offers a votive flute to the god Apollo in gratitude for his professional success. The central portion of the speech is an ekphrasis, a vivid description detailing the flute's superior materials, its exquisite craftsmanship, and the divine inspiration from Apollo and the Muses that guided its creation. While adhering to the formal structure of a school exercise, the piece is considered to have been written for a sophisticated audience capable of appreciating Lucian's characteristically subtle, ironic humor. Modern interpretation often views it as a gentle satire on artistic vanity and the conventional tropes associated with votive offerings. The text survives complete within the medieval manuscript tradition of Lucian's genuine works, providing a valuable example of how rhetorical training was employed for literary purposes during the cultural period known as the Second Sophistic.
+
 ## Text
 
 ### Harm t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ao` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-preliminary-exercises-rhg-ao)
 
+The Preliminary Exercises is an anonymous rhetorical treatise from the Roman Imperial period, likely dating to the 1st or 2nd century CE. It provides a complete, structured curriculum for training students in the foundational skills of composition and persuasive speech. The work systematically outlines fourteen standard exercises, arranged in order of increasing complexity. These begin with elementary forms such as the retelling of fables and narratives and advance through more sophisticated tasks including the construction of arguments, the composition of speeches of praise and blame, the development of speeches for historical characters, and the crafting of vivid descriptions. Serving as the core textbook in Greek rhetorical schools, the handbook functioned as a crucial bridge between elementary grammatical instruction and the advanced study of oratory. Its practical, incremental approach was designed to equip students with the essential techniques required for public life and further rhetorical training. Modern scholarship regards the text as a foundational document of the educational revival known as the Second Sophistic. Although traditionally attributed to Aelius Theon of Alexandria, its authorship remains uncertain, with some scholars contending it represents a later compilation or a significantly edited version of his original teachings. Its systematic pedagogical method proved enormously influential, establishing a pattern for subsequent Greek rhetorical manuals and shaping educational traditions for centuries.
+
 ## Text
 
 ### 1.597.(1t)

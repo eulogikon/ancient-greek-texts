@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-af` · [HTML page](https://eulogikon.org/works/hymnic-anon-hephaestus-upu-af)
 
+"Hymn 20 To Hephaestus" is a brief, eight-line poem from the anonymous collection known as the Homeric Hymns. Composed in the epic hexameter tradition, these hymns functioned as preludes to longer poetic performances. This hymn directly invokes and praises Hephaestus, the god of fire and metalworking, celebrating his artisan skill and his collaboration with Athena in teaching crafts to humanity. The poem focuses on Hephaestus as the master artisan and highlights his partnership with Athena, goddess of wisdom and craft. It presents both gods as the source of practical arts and technological knowledge for human civilization, crediting them with elevating humanity from a primitive, cave-dwelling existence to a settled, prosperous life. The Homeric Hymns survive primarily through medieval manuscripts, with the principal witness for most hymns, including Hymn 20, being the 15th-century Codex Laurentianus, which preserved the collection alongside the works of Homer. As part of the Homeric Hymns, this poem is a key source for understanding ancient Greek religious poetry and conceptions of the gods. It contributes to the literary portrait of Hephaestus and underscores the thematic connection between divine invention and human craftsmanship.
+
 ## Text
 
 ### 1

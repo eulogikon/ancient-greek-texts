@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fku-aa` · [HTML page](https://eulogikon.org/works/hereas-megara-historical-fragments-fku-aa)
 
+The Megarian Historical Fragments, attributed to the historian Hereas of Megara, is a lost work of local history surviving only through a handful of prose excerpts preserved by later authors. These fragments, primarily quoted by Plutarch and Athenaeus, concern Megarian foundation myths, early kings, local customs, and notable figures. The content often engages in historical polemics, contesting Athenian narratives that sought to diminish Megara's heritage and antiquity. For instance, one fragment cited by Plutarch disputes Athenian accounts of Theseus and Ariadne, while another corrects Athenian claims about Megarian burial practices. The work survives exclusively through such indirect citation, with no independent manuscript tradition, and its fragments are collected in modern scholarship as Fragmente der griechischen Historiker 486. As an example of Greek horography, or local history, Hereas's composition was written to assert Megara's prestige and historical legitimacy against the rival claims of more powerful neighbors, particularly Athens. Its preservation within the works of authors like Plutarch attests to its contemporary reputation as a reputable, if partisan, source, providing valuable alternative perspectives on regional traditions and the intellectual rivalries between ancient Greek city-states.
+
 ## Text
 
 ### t1-4

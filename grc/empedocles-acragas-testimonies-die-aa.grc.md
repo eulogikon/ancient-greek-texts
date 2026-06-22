@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `die-aa` · [HTML page](https://eulogikon.org/works/empedocles-acragas-testimonies-die-aa)
 
+The Testimonies attributed to Empedocles of Acragas is not an original work but a modern scholarly compilation of testimonia. These collected passages assemble reports, paraphrases, and discussions of Empedocles’s life and doctrines from later ancient authors, providing a curated view of his philosophical reception. The assembled material addresses core aspects of Empedocles’s system as interpreted by later writers, including his theory of four eternal roots—fire, air, water, and earth—as the basis of all matter, the cosmic cycle governed by the opposing forces of Love and Strife, and his theories of perception, the nature of the soul, transmigration, and his legendary status as a mystic. As a modern compilation, the Testimonies has no ancient manuscript tradition of its own but is constructed from citations found in later Greek, Hellenistic, and Roman writers, with the standard critical source being Diels and Kranz’s Die Fragmente der Vorsokratiker. This collection is historiographically crucial, as it documents how figures from Plato and Aristotle onward engaged with, criticized, and mythologized Empedocles’s ideas, thereby tracing the influence and transformation of his thought, particularly his four-element theory and cosmic forces, throughout antiquity.
+
 ## Text
 
 ### 1

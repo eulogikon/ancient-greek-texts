@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dzm-aa` · [HTML page](https://eulogikon.org/works/licymnius-chios-hymn-hygieia-sleep-dzm-aa)
 
+The Hymn to Hygieia and Sleep is a fragmentary work by the late 5th-century BCE dithyrambic poet Licymnius of Chios. It survives only through nine brief excerpts preserved by the rhetorician Athenaeus in his Deipnosophistae, written in the 2nd or 3rd century CE. Athenaeus quotes the poem for its lexical and thematic relevance to sympotic culture, and these passages are collected as fragments in modern editions, with no independent manuscript tradition for the complete hymn. The extant verses indicate the poem was a hymn or encomium, likely composed in a dactyrambic style, which jointly praises the goddess Hygieia, personifying Health, and the god Sleep, or Hypnos.
+
+The fragments include direct invocations celebrating the divine blessings of physical well-being and restorative sleep. They emphasize the enjoyment of life, particularly the pleasures of the symposium, and articulate the essential interdependence of health and rest. Composed during a period of increasing interest in encomiastic poetry addressed to personalized deities, the hymn reflects a significant thematic link in Greek thought between health and sleep, especially within the context of Asclepian healing cults that practiced therapeutic incubation. As such, the work provides valuable insight into Classical Greek cultural values surrounding physical vitality, relaxation, and social pleasure.
+
 ## Text
 
 ### book 2.1

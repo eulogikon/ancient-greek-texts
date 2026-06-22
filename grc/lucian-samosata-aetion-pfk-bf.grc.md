@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bf` · [HTML page](https://eulogikon.org/works/lucian-samosata-aetion-pfk-bf)
 
+"Herodotus or Aetion" is a rhetorical oration by the 2nd-century CE author Lucian of Samosata. Composed in Attic Greek during the era of the Second Sophistic, it functions as a prolalia, a prefatory discourse designed to capture an audience's attention before a main performance. The work presents a comparative encomium, playfully debating the relative merits of two figures: the renowned 5th-century BCE historian Herodotus and a painter named Aetion.
+
+Lucian introduces his theme as a dilemma over which man is more praiseworthy. He first recounts the famous anecdote of Herodotus achieving instant fame by reciting his Histories at the Olympic Games, an event said to have moved the young Thucydides to tears. Lucian then shifts to describe an equally celebrated painting by Aetion, which depicted the marriage of Alexander the Great to Roxane and was also displayed at the Olympics. He offers an ekphrastic tour de force, vividly detailing the composition's artistry, the lifelike quality of its figures, and the profound emotional impact it had on its viewers. In a deft rhetorical conclusion, Lucian declares himself incapable of adjudicating between the two, thereby paying simultaneous tribute to the sister arts of history and painting while demonstrating his own sophistic skill.
+
+The complete text is preserved within the extensive medieval manuscript tradition of Lucian's works. Modern scholarship views the oration as a characteristic product of its cultural context, crafted for an educated audience steeped in the classical past. It serves to display Lucian's erudition and to explore the capacity of different artistic media—the spoken historical word and the silent visual image—to create powerful and enduring impressions. The detailed description of Aetion's now-lost painting proved particularly influential, providing a seminal model for later artists and writers in the European tradition.
+
 ## Text
 
 ### Herod t

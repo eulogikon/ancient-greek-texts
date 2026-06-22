@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-as` · [HTML page](https://eulogikon.org/works/demosthenes-athens-boeotian-dowry-fsm-as)
 
+The forensic oration To Boeotian-Maternal Dowry is a private legal speech from the mid-4th century BCE, delivered by the orator Demosthenes on behalf of a client named Mantitheus. It concerns a lawsuit against his half-brother, Boeotus, over the recovery of their mother’s dowry following her death. The speech presents a logical argument to an Athenian jury, asserting the claimant’s right to a dowry of one talent from their father’s estate. The core dispute involves complex issues of Athenian family and property law, including the legal rights of heirs to a mother’s dowry and the status and legitimacy of children from different marriages, which continues a prior feud between the half-brothers over the use of the name Mantitheus. As a work of forensic rhetoric, it employs a strategic narrative and appeals to documentary evidence to persuade the jury. Preserved within the Demosthenic corpus and generally accepted as genuine, the complete text survives via medieval manuscripts of the Attic orators. The oration is a critical source for Athenian social and legal history, providing detailed evidence on inheritance, dowry law, and familial litigation, and it remains a canonical model for the study of classical forensic rhetoric.
+
 ## Text
 
 ### Or40 1

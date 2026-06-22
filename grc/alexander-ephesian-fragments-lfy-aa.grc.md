@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lfy-aa` · [HTML page](https://eulogikon.org/works/alexander-ephesian-fragments-lfy-aa)
 
+No specific oration titled Fragments and Title is attested for Alexander of Ephesus, a Hellenistic poet and scholar of the third century BCE. The provided metadata, which describes an oration of three passages, appears to be a modern descriptive label for excerpts rather than the title of a genuine ancient work. Alexander, also known as Alexander Aetolus, is remembered as a poet, tragedian, and literary editor within the Alexandrian scholarly tradition. His known surviving works consist only of fragments, including pieces of tragedies, elegies, and epigrams, preserved through citation by later authors such as Athenaeus and Stobaeus. The Suda provides a biography and lists his literary productions, which encompass tragedies and various poems, but it records no orations. Consequently, the content, transmission, and significance of an oration attributed to him cannot be assessed, as no such work is documented in the historical or philological record.
+
 ## Text
 
 ### 21

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `urs-ac` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-mystical-theology-urs-ac)
 
+On Mystical Theology is a concise yet seminal Greek treatise on Christian mystical thought, composed around 500 CE by an anonymous author writing under the pseudonym of Dionysius the Areopagite, a New Testament figure. The work is structured as a series of instructions from a teacher to his disciple Timothy, comprising five brief chapters and four appended letters. Its central philosophical contribution is the systematic distinction between two theological methods: cataphatic theology, which approaches the divine through positive affirmations and analogical names, and apophatic theology, which proceeds by way of negation, systematically denying that any human concept or attribute can truly describe the transcendent God. The treatise argues that the true, ineffable divine essence lies beyond all intellectual comprehension and linguistic expression. It outlines a spiritual ascent in which the soul must abandon not only sensory perceptions but also all rational activities and conceptual understandings. By this process of radical unknowing, the seeker enters a "divine darkness" or a "cloud of unknowing," wherein a direct, supra-intellectual union with the Godhead is achieved.
+
+The author’s pseudonym, deliberately evoking apostolic authority, ensured the work’s profound influence throughout the medieval period. Modern scholarship identifies the text as a sophisticated synthesis of late Neoplatonic philosophy, particularly the thought of Proclus, with core Christian theological principles. It was likely composed for an audience of advanced monastic contemplatives. The treatise survives in numerous Greek manuscripts and became a cornerstone of Western mystical and scholastic tradition following its translation into Latin in the 9th century, shaping theological discourse for centuries.
+
 ## Text
 
 ### 141 (1t)

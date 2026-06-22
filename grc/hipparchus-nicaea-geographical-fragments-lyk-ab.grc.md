@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lyk-ab` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-geographical-fragments-lyk-ab)
 
+The Geographical Fragments constitute the surviving remnants of a lost critical treatise by the Hellenistic astronomer Hipparchus of Nicaea, composed in Greek circa 140–120 BCE. The original work, titled Against the "Geography" of Eratosthenes, was a systematic critique of the foundational geographical text by the earlier scholar Eratosthenes of Cyrene. Hipparchus, applying the principles of mathematical astronomy, challenged the descriptive and often anecdotal methodology of his predecessor. He advocated for a more rigorous scientific framework, arguing that terrestrial locations must be determined through precise astronomical observation—such as calculating latitudes from solar or stellar measurements—rather than relying on the inconsistent and unverifiable accounts of travelers.
+
+The text survives only indirectly through 44 fragments, compiled by modern scholarship, which are quoted and debated within the later Geography of Strabo. Writing nearly two centuries after Hipparchus, Strabo preserved these excerpts while frequently contesting their conclusions, providing the principal conduit for the work's transmission. Hipparchus's treatise was intended for a specialized scholarly audience and aimed to establish a unified system of celestial coordinates for mapping the inhabited world. Modern analysis identifies this critique as a pivotal intellectual bridge, connecting the qualitative traditions of early Greek geography with the quantitative, coordinate-based cartography that would later achieve its definitive expression in the work of Claudius Ptolemy.
+
 ## Text
 
 ## ΠΡΟΣ ΤΗΝ ΕΡΑΤΟΣΘΕΝΟΥΣ ΓΕΩΓΡΑΦΙΑΝ ΒΙΒΛΙΑ ΤΡΙΑ BOOK 1 Strabo, 2 καὶ πρῶτον ὅτι ὀρθῶς ὑπειλήφαμεν καὶ ἡμεῖς καὶ οἱ πρὸ ἡμῶν, ὧν ἐστι καὶ Ἵππαρχος, ἀρχηγέτην εἶναι τῆς γεωγραφικῆς ἐμπειρίας Ὅμηρον.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyq-ad` · [HTML page](https://eulogikon.org/works/romanos-melodist-hymns-uyq-ad)
 
+The Songs or Hymns of Romanos the Melodist constitute a major corpus of Byzantine liturgical poetry from the sixth century CE. Composed in Koine Greek, these works represent the artistic pinnacle of the kontakion, a form of poetic sermon performed during nocturnal church vigils. A kontakion is structured with a brief introductory prelude followed by a series of metrically uniform stanzas, each concluding with a shared refrain. It was executed as a dialogue between a solo cantor, who sang the narrative stanzas, and a choir, which responded with the refrain. Romanos’s hymns are profoundly dramatic and exegetical, offering vivid expansions of scriptural episodes and theological explorations of major feast days such as Christmas, Easter, and the Presentation of Christ in the Temple.
+
+Of the nearly one thousand hymns attributed to him in medieval tradition, approximately sixty are considered genuine. The surviving corpus, comprising some 1,512 individual strophes across these works, was composed in Constantinople. Romanos is credited with perfecting the Greek adaptation of a hymnographic form that originated within Syriac Christian liturgy. His compositions served as powerful didactic instruments, synthesizing profound theological doctrine with emotive narrative to render biblical stories and dogmatic concepts accessible to a lay congregation. The transmission of his work is complex, with no autograph manuscripts extant; his poems were preserved in later liturgical collections, most notably in a key manuscript dating from the tenth or eleventh century. Celebrated as the supreme master of the kontakion, Romanos exerted a profound and lasting influence on the development of Byzantine hymnography. While the full kontakion form eventually fell out of regular liturgical use, excerpts from his hymns continued to be sung for centuries. He is venerated as a saint in both the Eastern Orthodox and Roman Catholic traditions.
+
 ## Text
 
 ### book pro

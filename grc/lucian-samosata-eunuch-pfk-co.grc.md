@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-co` · [HTML page](https://eulogikon.org/works/lucian-samosata-eunuch-pfk-co)
 
+Lucian of Samosata's Eunuch is a satirical oration composed in Attic Greek, likely between 165 and 175 CE. The work lampoons the professional rivalries and intellectual pretensions of philosophers during the era known as the Second Sophistic. It takes the form of a thirteen-part speech framed around a fictional legal dispute concerning the appointment to a publicly endowed chair of philosophy in Athens. The central, absurd question of the debate is whether a eunuch, by virtue of his physical condition, can be considered morally and physically qualified to hold a position dedicated to teaching ethics and virtue. Lucian presents the proceedings through a narrative dialogue where a character recounts the spectacle to a friend, positioning himself as a derisive witness to the petty and vicious personal invective exchanged by the competing intellectuals.
+
+The complete text has been preserved via Byzantine manuscripts dating from the tenth century CE. Scholars regard the oration as a pointed critique of the hypocrisy and empty rhetorical performance that Lucian perceived among the intellectual elite of his day. Written for an educated, Greek-literate audience familiar with philosophical sectarianism, the work employs irony and humor to interrogate the presumed connections between physical embodiment, moral character, and professional authority in the ancient world.
+
 ## Text
 
 ### Eun t

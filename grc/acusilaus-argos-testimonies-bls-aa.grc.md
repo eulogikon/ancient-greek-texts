@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bls-aa` · [HTML page](https://eulogikon.org/works/acusilaus-argos-testimonies-bls-aa)
 
+The Testimonies of Acusilaus of Argos is a lost prose work that systematized Greek mythical genealogies, particularly drawing from the poetic tradition of Hesiod’s Theogony. Known only through fragments and later testimonia, it represents an early and significant transition from poetic to prose accounts of myth. Acusilaus wrote in an austere, archaic style, often providing rationalizing or euhemeristic versions of traditional stories and tracing lineages back to primordial figures such as Chaos. The work methodically traced divine and heroic genealogies from these beginnings, translating epic material into prose form and frequently emphasizing Argive connections within the broader Panhellenic mythological framework.
+
+The text survives exclusively in fragments quoted by later authors, including Apollodorus, Diogenes Laertius, Plato, and Diodorus Siculus, as well as in various scholia. The standard modern collection of these remains is found in Felix Jacoby’s Die Fragmente der griechischen Historiker. Acusilaus is considered a pioneering logographer whose prose systematization of myth exerted a notable influence on the development of early Greek historiography. He was cited as an authority by subsequent mythographers and historians, and Herodotus mentions him as a source, cementing his foundational role in the tradition of genealogical writing.
+
 ## Text
 
 ### 1a,2,T 1

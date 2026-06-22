@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bj` · [HTML page](https://eulogikon.org/works/anon-hist-frag-nile-mmg-bj)
 
+"On the Nile" is a modern editorial title given to a collection of four fragmentary passages concerning the Nile River, categorized within the anonymous corpus known as the "Historical Fragments." It is not a coherent, original treatise but a scholarly compilation of excerpts likely extracted from one or more lost historical or geographical works. The fragments address standard topics in ancient natural history and ethnography. Based on the conventions of the genre, the passages discuss theories regarding the cause of the Nile's annual summer inundation, speculation on the river's distant sources, descriptions of its course and notable phenomena such as cataracts, and observations on the customs of the peoples living along its banks. The fragments survive indirectly, having been preserved through quotation in later Byzantine scholarly sources, such as lexica or anthologies. Their compilation under the singular title "On the Nile" is thus a modern construct for organizing these thematically related excerpts. While the direct influence of this specific compilation is untraceable, the theories it preserves represent important contributions to the enduring Western scientific and geographical discourse on the Nile. These fragments remain valuable primary sources for historians seeking to reconstruct the breadth and development of ancient thought on one of the classical world's most persistent natural puzzles.
+
 ## Text
 
 ### 3c,647,F 1

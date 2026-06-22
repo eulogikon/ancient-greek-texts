@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ayq-ab` · [HTML page](https://eulogikon.org/works/seven-sages-sayings-ayq-ab)
 
+The Sayings of the Seven Sages is a collection of 120 short maxims attributed to a canonical group of early Greek wise men, including Thales, Solon, and Chilon. Preserved in a 14th-century manuscript, the compilation presents sayings from these figures and others like Pythagoras, formatted as a list of attributed precepts. The sayings embody archaic Greek practical wisdom, with key themes including moderation and self-knowledge, exemplified by the Delphic maxim "Know thyself," alongside practical ethics concerning friendship, speech, and civic duty. The collection emphasizes restraint and the principle of "nothing in excess," as well as divine respect, including injunctions to honor the gods and one's parents. While individual sayings were quoted by authors like Plato and Diogenes Laërtius from the 5th century BCE onward, this specific 120-passage treatise represents a later editorial gathering. The primary witness is the medieval manuscript Parisinus Graecus 3070, which preserves the full compilation. The maxims were foundational to Greek ethical thought and cultural identity, widely used in education. Their concise, actionable wisdom significantly influenced later philosophical schools, particularly Stoicism, and the broader Western aphoristic tradition.
+
 ## Text
 
 ### t 1

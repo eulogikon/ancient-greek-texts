@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bz` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-alchemical-excerpt-tyc-bz)
 
+The Alchemical Excerpt is a treatise attributed to Zosimus of Panopolis, a Greco-Egyptian alchemist active in the late third to early fourth century CE. It represents a fragment from his larger body of work, which characteristically merges detailed technical instructions with philosophical and gnostic speculation concerning the nature of matter and spiritual ascent. The text provides specific guidance on laboratory operations, including the construction and use of furnaces, the handling of materials like mercury and sulfur, and processes for creating alloys or imitating precious substances. Its theoretical framework is grounded in classical concepts such as the four elements and the transformative role of pneuma, or spirit. The work is also notable for its esoteric symbolism, employing allegorical devices like the krater, or mixing bowl, as a metaphor for profound inner and material transformation. Preserved primarily in Byzantine Greek manuscripts, most importantly the tenth- or eleventh-century Marcianus graecus 299, the treatise was later translated into Syriac and Arabic. Through these channels, Zosimus's ideas exerted a significant influence on the subsequent development of Islamic and medieval Latin alchemical traditions. As a foundational figure in Western alchemy, Zosimus's synthesis of practical craft technology with spiritual doctrine established a enduring pattern for later practitioners, while his precise descriptions of apparatus and chemical processes retain importance for the history of science.
+
 ## Text
 
 ### 1

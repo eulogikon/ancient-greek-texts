@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `the-aa` · [HTML page](https://eulogikon.org/works/compendium-geography-anon-exposition-the-aa)
 
+The Concise Exposition of Geography is an anonymous Byzantine geographical handbook, surviving in its entirety within a single 13th-century manuscript, Codex Vaticanus Graecus 176. Comprising 45 brief chapters, the work systematically catalogues the known world, divided into the traditional continents of Europe, Asia, and Libya (Africa). It employs an extremely terse, enumerative style, listing for each region its major cities, rivers, mountains, and peoples with minimal descriptive elaboration. Reflecting a compilatory tradition, the text distills knowledge from earlier geographical sources into a concise epitome. As such, it is a valuable witness to the transmission and pedagogical simplification of classical geography in the Byzantine period, exemplifying the genre of reference handbooks used for education or administrative purposes.
+
 ## Text
 
 ### T

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dpw-aa` · [HTML page](https://eulogikon.org/works/prodicus-ceos-testimonies-dpw-aa)
 
+The Testimonies is a lost work attributed to the sophist Prodicus of Ceos, a prominent intellectual figure in late 5th-century BCE Athens. It survives not as a continuous manuscript but as a modern scholarly compilation of fragmentary reports preserved by later Greek authors. These two dozen testimonia summarize the core tenets of his influential teachings, which centered on linguistic precision, ethical decision-making, and a naturalistic interpretation of religious origins. Prodicus was renowned for his meticulous distinctions between near-synonyms and for his celebrated allegory, the "Choice of Heracles," which dramatized a youth's selection between the paths of Virtue and Vice. A central doctrine reconstructed from these fragments posits that the gods originated as deified personifications of elements vital to human survival and prosperity, such as the sun, rivers, and agricultural bounty.
+
+The original form, scope, and precise content of the work entitled Testimonies remain obscure. While its title may imply a connection to rhetorical evidence or argumentation, the extant philosophical fragments suggest a broader intellectual project. Modern scholarship interprets Prodicus, through these collected testimonies, as a seminal figure in the sophistic movement, which emphasized the power of language, the art of persuasion, and human-centric explanations for cultural and religious phenomena. Our entire understanding of his ideas is reconstructed from critical mentions and paraphrases in the works of later philosophers, most notably Plato, Xenophon, and Aristotle. No independent copy of the Testimonies exists, rendering these later sources the sole foundation for knowledge of Prodicus's thought.
+
 ## Text
 
 ### 1

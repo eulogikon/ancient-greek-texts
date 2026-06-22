@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ohe-aa` · [HTML page](https://eulogikon.org/works/barnabas-letter-ohe-aa)
 
+The Letter of Barnabas is an early Christian treatise composed in Koine Greek and structured as a twenty-one-chapter epistle. Although traditionally ascribed to Barnabas, a companion of the Apostle Paul, modern scholarship regards it as an anonymous work likely written in the late first or early second century CE. Its central thesis is that the Jewish people fundamentally misunderstood their own scriptures. The author contends that the laws and rituals of the Old Testament were always intended to be interpreted spiritually and prophetically as prefigurations of Jesus Christ. According to this view, by adhering to a literal interpretation of these texts, the Jews forfeited their covenant with God. The letter concludes with an ethical exhortation known as "The Two Ways," which delineates the paths of light and darkness for the Christian believer.
+
+The work was probably composed after the destruction of the Second Temple in 70 CE, a period marked by the increasing separation of early Christian communities from their Jewish roots. It appears to have been written for a Gentile Christian audience, aiming both to dissuade them from adopting Jewish religious practices and to instruct them in a distinctly Christian, allegorical method of reading scripture. The text survives in its complete form primarily within the fourth-century Greek Bible known as the Codex Sinaiticus, where it was placed among the New Testament writings, indicating that some early Christian circles considered it to be of scriptural authority. Although it was later excluded from the canonical New Testament, the Letter of Barnabas remains a significant document among the collection of early Christian works referred to as the Apostolic Fathers.
+
 ## Text
 
 ### T 1

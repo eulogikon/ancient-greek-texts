@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cf` · [HTML page](https://eulogikon.org/works/lucian-samosata-symposium-pfk-cf)
 
+Lucian of Samosata’s Symposium, also known as The Lapiths, is a satirical prose dialogue composed in Attic Greek during the second century CE. It parodies the classical tradition of philosophical banquet literature, most directly targeting Plato’s idealized dialogue of the same name. The work is framed as a first-person narrative in which the character Lycinus recounts the events of a wedding feast. The gathering, which includes rival philosophers, a rhetorician, a grammarian, and a physician, rapidly devolves from intellectual discourse into drunken chaos and culminates in a violent physical brawl among the guests. The alternative title The Lapiths serves as an ironic allusion, comparing the erudite combatants to the mythical battle between the Lapiths and Centaurs that famously erupted at a wedding celebration.
+
+A product of the Second Sophistic period, Lucian’s Symposium functions as a critique of contemporary intellectual culture. It systematically inverts the Platonic model to expose the hypocrisy, vanity, and petty sectarian rivalries that characterized the professional thinkers of Lucian’s era. The work was intended for an educated readership well-versed in classical Greek literature, who would fully appreciate its layered parody and satirical edge. The complete text has survived intact through a robust medieval manuscript tradition, and its authenticity has never been seriously disputed.
+
 ## Text
 
 ### Symp t

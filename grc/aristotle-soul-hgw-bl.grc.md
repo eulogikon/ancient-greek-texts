@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bl` · [HTML page](https://eulogikon.org/works/aristotle-soul-hgw-bl)
 
+On the Soul is a philosophical treatise by Aristotle, composed around 350 BCE. As a foundational investigation within his natural philosophy, it systematically examines the nature of the soul, which Aristotle posits as the essential principle of life. The work opens by establishing the inquiry's importance and difficulty before proceeding in three books. The first book critically reviews and refutes earlier theories from pre-Socratic thinkers and Plato. The second and third books develop Aristotle's positive doctrine, defining the soul as the "form" or actuality of a natural body that has life potentially. This hylomorphic framework presents the soul not as a separate substance but as the inseparable organizing principle that actualizes a living organism's capacities.
+
+Aristotle proceeds to analyze the soul's hierarchical faculties, beginning with the nutritive and reproductive powers common to all living things, including plants. He then examines perception, which defines animal life, offering detailed theories of the five senses and the central faculty of common sense. The most complex faculty is intellect, reserved for humans, where Aristotle makes a seminal and much-debated distinction between the passive intellect, which receives intelligible forms, and the active intellect, which abstracts and illuminates them. The treatise concludes with a discussion of locomotion and desire. Written for use in Aristotle's school, the Lyceum, the work's integrated view of soul and body profoundly influenced subsequent thought. Preserved intact through ancient manuscripts and later Latin translations, it became a cornerstone for medieval scholastics like Thomas Aquinas and remains a central text in the history of philosophy, psychology, and the sciences of life.
+
 ## Text
 
 ### deAn 402a (t)

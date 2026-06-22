@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ak` · [HTML page](https://eulogikon.org/works/lucian-samosata-death-peregrinus-pfk-ak)
 
+On the Death of Peregrinus is a satirical oration by the Syrian-born author Lucian of Samosata, composed in Attic Greek around 170 CE. The work is a blistering critique of the Cynic philosopher Peregrinus Proteus, who achieved notoriety by publicly immolating himself on a pyre at the Olympic Games of 165 CE. Structured as a letter to a friend, Lucian’s narrative systematically dismantles Peregrinus’s reputation, portraying his entire life as a calculated series of performances designed solely for fame. It chronicles his early exploits, his brief period of exploiting a Christian community for financial gain and status, his subsequent adoption of Cynic asceticism, and his final, theatrical suicide, which Lucian derides as the ultimate act of vanity rather than philosophical conviction.
+
+Composed during the era known as the Second Sophistic, a period of revived Greek rhetorical culture under Roman imperial rule, the oration targets the intellectual and religious posturing characteristic of the time. Modern scholarship regards the text as a crucial source for understanding Lucian’s sophisticated satirical techniques, contemporary perceptions of Cynic philosophy, and early external perspectives on Christian groups, whom Lucian also depicts as credulous. The complete text survives through medieval manuscripts as part of the standard Lucianic corpus, its preservation ensured by the author’s enduring popularity in subsequent centuries.
+
 ## Text
 
 ### Peregr t

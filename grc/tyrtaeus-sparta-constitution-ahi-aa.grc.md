@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ahi-aa` · [HTML page](https://eulogikon.org/works/tyrtaeus-sparta-constitution-ahi-aa)
 
+The Fragments on Spartan Constitution is a modern designation for a collection of poetic passages attributed to the Spartan poet Tyrtaeus, who was active in the mid-seventh century BCE. These 134 fragments do not constitute a single, coherent work but are excerpts preserved from his elegies, most notably from a poem traditionally titled Eunomia, or "Good Order." Composed in elegiac couplets, the verses blend the Doric dialect of Sparta with the epic Ionic diction of Homeric poetry.
+
+The content of these fragments centers on Spartan law, government, and social structure, providing the earliest surviving poetic account of the Spartan constitution. The poetry asserts that the political system was divinely ordained, having been delivered by the oracle of Apollo at Delphi to the legendary lawgiver Lycurgus. This claim of divine sanction served to legitimize the core institutions of the Spartan state—its dual kingship, council of elders, and assembly of citizens—during the tumultuous period of the Second Messenian War. Modern scholarship interprets Tyrtaeus's verses as a form of civic poetry, crafted to foster social cohesion, political obedience, and military discipline among the Spartan citizenry.
+
+The work survives only in a fragmentary state, known entirely through quotations by later Greek and Roman authors such as Strabo, Plutarch, Aristotle, and Plato, who referenced it for its historical and constitutional significance. No independent manuscript of Tyrtaeus's poetry exists; consequently, the original structure, scope, and full context of the Eunomia poem remain lost to history.
+
 ## Text
 
 ### book 2.1

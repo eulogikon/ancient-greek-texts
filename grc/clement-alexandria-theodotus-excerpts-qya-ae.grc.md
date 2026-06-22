@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qya-ae` · [HTML page](https://eulogikon.org/works/clement-alexandria-theodotus-excerpts-qya-ae)
 
+The Excerpts from Theodotus is a theological compilation by the early Christian scholar Clement of Alexandria, composed in Koine Greek likely between 190 and 215 CE. It consists of 86 passages attributed to the teachings of a Gnostic teacher named Theodotus, each followed by Clement's own critical commentary and refutation. The content systematically details Valentinian Gnostic doctrines, presenting complex views on cosmology, the nature of Christ, the process of human salvation, and the significance of sacraments. The work survives in a fragmentary state, preserved solely within a single manuscript dating from the 10th or 11th century. Its structure is not a continuous narrative but a series of assembled doctrinal points, which modern scholars interpret as a pedagogical tool. Clement likely used this compilation to train his students in Alexandria to understand and counter theological arguments he considered heretical. As such, it provides a valuable, though polemical, window into the specific beliefs of a major Gnostic school of the second century.
+
 ## Text
 
 ### 1.1

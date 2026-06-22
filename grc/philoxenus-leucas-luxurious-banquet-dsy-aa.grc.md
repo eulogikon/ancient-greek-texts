@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dsy-aa` · [HTML page](https://eulogikon.org/works/philoxenus-leucas-luxurious-banquet-dsy-aa)
 
+The Fragments of a Luxurious Banquet is a dithyrambic poem by the Greek poet Philoxenus of Leucas, composed around 400 BCE. Written in Doric Greek with epic stylistic elements, the work is a parody that applies the grand language and heroic similes of traditional epic poetry to the description of an outrageously extravagant feast. The original continuous narrative is lost, and the poem is known only through 65 surviving passages quoted by later authors. These fragments vividly depict excessive food and drink, most famously including a fish so immense it required transport by cart. The poem is a notable example of the "New Music" movement in classical Greece, which embraced innovative and often secular subjects. Scholars interpret it as a creative subversion of traditional poetic forms, blending high literary style with low comedy for a sophisticated audience at festivals or symposia. Its thematic focus on extreme luxury reflects contemporary Athenian interest in, and anxiety about, decadence and Sicilian opulence. The work’s entire transmission depends on these quotations, preserved primarily within Athenaeus’s Deipnosophistae (The Learned Banqueters) from the 2nd–3rd century CE, which saved the fragments due to their culinary and literary interest.
+
 ## Text
 
 ### book a.1

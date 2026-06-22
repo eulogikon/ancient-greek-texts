@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `piw-ab` · [HTML page](https://eulogikon.org/works/galen-pergamon-allegories-theogony-piw-ab)
 
+Galen's Allegories on Hesiod's Theogony is a lost treatise representing the physician's early foray into literary exegesis. Known only from Galen's own reference in his bibliographical work On My Own Books, the text was an allegorical commentary structured in 71 passages that systematically interpreted Hesiod's mythological poem. It decoded the narrative of the Theogony, treating its gods and their conflicts as symbolic representations of physical, cosmological, and ethical principles. For instance, the epic's succession myth was read as an allegory for natural processes. The work aimed to reconcile archaic poetry with contemporary philosophical and scientific thought by arguing that traditional poetry contained veiled philosophical wisdom, a method common within the Second Sophistic intellectual tradition. Galen later disavowed this early composition, listing it among writings circulated without his permission and expressing a desire for it to be disregarded. Consequently, it did not survive within the main manuscript tradition of his works. Its existence, however, illustrates the breadth of Galen's early scholarly activities and his participation in Imperial-era literary culture, while his subsequent rejection of it highlights his evolving standards for publication and his later exclusive focus on medical and philosophical subjects.
+
 ## Text
 
 ### 295

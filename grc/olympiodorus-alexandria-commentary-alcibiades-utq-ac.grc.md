@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `utq-ac` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-commentary-alcibiades-utq-ac)
 
+The Commentary on Plato's Alcibiades is a sixth-century philosophical treatise by Olympiodorus the Younger, a pagan Neoplatonist active in Alexandria. Preserved in full in medieval manuscripts, it comprises 235 lectures offering a systematic, line-by-line exegesis of Plato’s dialogue Alcibiades I. This dialogue was regarded in the late Neoplatonic curriculum as the foundational and propaedeutic text for Platonic study, a status reflected in Olympiodorus’s comprehensive treatment. The commentary follows a conventional pedagogical structure, with each lecture first introducing the general themes of a section before proceeding to a detailed philological and philosophical analysis of the text.
+
+Composed as a teaching manual for students embarking on the formal Neoplatonic syllabus, the work is a vital document of the final era of pagan philosophical instruction in Alexandria, produced under the Christian Byzantine Empire where such schools were in decline. Olympiodorus interprets the dialogue as a protreptic discourse, fundamentally concerned with the Delphic injunction to "know thyself." He frames this ethical imperative within the elaborate metaphysical hierarchy of Neoplatonism, presenting the pursuit of self-knowledge as the essential first step in turning the soul toward philosophy and the care of the self, thereby initiating its ascent toward the divine.
+
 ## Text
 
 ### 1 (1t)

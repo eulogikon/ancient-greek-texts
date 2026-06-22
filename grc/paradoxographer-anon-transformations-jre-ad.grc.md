@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jre-ad` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-transformations-jre-ad)
 
+_On Transformations_ is a minor anonymous work of ancient Greek paradoxography, a genre dedicated to the systematic compilation of marvels and wondrous events. The text is recorded as consisting of two prose passages, though the work itself is not directly quoted in surviving sources. Its title clearly indicates a thematic focus on tales of metamorphosis, which would typically encompass mythological transformations of gods and mortals into animals, plants, or other natural forms, as well as descriptions of extraordinary natural phenomena. As a catalog of such curiosities, it belongs to the tradition of documenting marvels that flourished in the Hellenistic period and later antiquity. While its direct influence is untraceable and its preservation status remains unclear, the work exemplifies the scholarly interest in collecting and categorizing lore considered strange or miraculous, a tradition that subsequently informed Roman and medieval encyclopedic collections of wonders.
+
 ## Text
 
 ### [5]

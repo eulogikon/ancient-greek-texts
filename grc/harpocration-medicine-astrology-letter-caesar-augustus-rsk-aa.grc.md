@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rsk-aa` · [HTML page](https://eulogikon.org/works/harpocration-medicine-astrology-letter-caesar-augustus-rsk-aa)
 
+The Letter to Caesar Augustus is an unattested work ascribed to an author named Harpocration. No such medical or astrological letter addressed to the emperor Augustus is recorded for any known figure of that name, including the lexicographer Valerius Harpocration of the second century CE, the Neoplatonist Harpocration of Argos, or the medical writer mentioned by the physician Orthasius. The work is absent from their established fragments and testimonia. Described in metadata as an epistle of twenty passages, no substantive content or thematic details are preserved in the extant historical record. There exists no documented manuscript tradition for the letter, nor is it referenced by later authors such as Galen or the Suda lexicon, leaving its status as a lost, fragmentary, or misattributed text unverifiable. Although it was a common practice for Greek medical writers to address dedicatory epistles to Roman emperors, this particular attribution remains unsubstantiated, and its complete absence from the historical record precludes any meaningful assessment of its influence or purpose.
+
 ## Text
 
 ## Ἁρποκρατίων Καίσαρι Αὐγούστῳ χαίρειν. Πολλῶν ἐπιχειρησάντων ἐν τῷ βίῳ, Σεβαστὲ Καῖσαρ, παραδοῦναι πολλὰ παράδοξα μηδενὸς πρὸς τέλος ἀγαγεῖν τὰς ἐπαγγελίας δυνηθέντος διὰ τὸν τῆς εἱμαρμένης ταῖς διανοίαις αὐτῶν ἐπικείμενον ζόφον, μόνος δοκῶ τῶν ἀπ’ αἰῶνος ἀνθρώπων πεποιηκέναι τι παράδοξον.

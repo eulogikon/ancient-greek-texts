@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kcs-aa` · [HTML page](https://eulogikon.org/works/athenaeus-epigrammatist-wealth-virtue-kcs-aa)
 
+_Fragments on Wealth and Virtue_ is a collection of eight poetic passages attributed to Athenaeus the Epigrammatist, a figure distinct from the more famous Athenaeus of Naucratis. As an epigrammatist, his work belongs to the tradition of concise Greek verse, often used for pointed commentary. The collection engages with the classical ethical theme concerning the relationship between material wealth and moral virtue. The surviving fragments present a critique of the relentless human pursuit of profit, which is portrayed as a source of strife and conflict, while contrasting this with the enduring, limitless path of philosophical judgment. One fragment explicitly champions a Stoic perspective, declaring virtue the sole good of the soul and the only force capable of saving both individual lives and cities, thereby relegating physical pleasure to a lesser status. The work survives only in a fragmentary state, reconstructed from quotations in later authors. Though the author remains obscure, these fragments represent a contribution to the enduring Hellenistic and later discourse on morality within the epigrammatic tradition.
+
 ## Text
 
 ### book 225.1

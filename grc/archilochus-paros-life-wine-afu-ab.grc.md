@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `afu-ab` · [HTML page](https://eulogikon.org/works/archilochus-paros-life-wine-afu-ab)
 
+"Warrior's Life and Wine" is a modern descriptive title for the collected poetic fragments of the 7th-century BCE Greek poet Archilochus of Paros. The designation refers not to a single, unified work but to a compilation of 464 surviving passages, originally composed in various meters including iambics and elegiacs. These fragments, preserved through quotations by later ancient authors and on papyrus scraps discovered in Egypt, represent only a fraction of his original output; no complete poem survives. Archilochus wrote during a period of intense Greek colonization, and his poetry, likely performed for live audiences at symposia, covers a wide range of personal and social themes. His verses move from the harsh realities of a soldier's life and sharp, often satirical invective to the pleasures of wine and fellowship at drinking parties. In stark contrast to the heroic ideals of contemporary epic poetry, his work is intensely personal and autobiographical. A famous fragment in which the speaker admits to throwing away his shield in battle to save his own life is interpreted by modern scholars as a deliberate and transgressive rejection of the traditional aristocratic warrior code, reflecting instead the pragmatic values of the emerging common citizen.
+
 ## Text
 
 ### book 1

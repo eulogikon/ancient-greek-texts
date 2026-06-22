@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hlw-ab` · [HTML page](https://eulogikon.org/works/demades-paeania-testimony-hlw-ab)
 
+The Testimony is a brief fragment of Greek oratory attributed to the Athenian statesman Demades, who was active during the late 4th century BCE. It is not a complete speech but a single passage, likely representing a formal statement made within an Athenian legal proceeding. The work survives exclusively as part of later ancient collections of speeches by the Attic orators. Given its extreme brevity, the specific legal context and case to which it pertains remain unknown, though its nature as a testimony inherently connects it to judicial procedure and the presentation of factual evidence. Modern scholarship generally regards the fragment as spurious, considering it a later attribution to Demades based on his political fame rather than genuine authorship. It was preserved within medieval manuscripts that copied earlier anthologies of rhetorical texts. The fragment's principal value lies in the study of the transmission of the Attic oratorical corpus and the historical practice of attributing anonymous rhetorical works to celebrated historical figures.
+
 ## Text
 
 ### 2b,227,T 1

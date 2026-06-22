@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ah` · [HTML page](https://eulogikon.org/works/aristotle-winds-hgw-ah)
 
+The short treatise Positions and Names of Winds, traditionally attributed to Aristotle, systematically identifies the directional origins and nomenclature of winds in the ancient Mediterranean. It lists principal winds, their cardinal positions, and records variant local names used by Greeks, Romans, and Etruscans, representing an early effort to standardize meteorological and geographical terminology. The work details the primary wind system, correlating winds with specific compass points, and provides a catalog of alternative wind names across different cultures, reflecting the breadth of Hellenistic geographical knowledge. Preserved within the Aristotelian corpus, its authenticity is disputed, with many scholars considering it a later Peripatetic or Hellenistic compilation, though the full text survives in the manuscript tradition of Aristotle’s minor works. The treatise contributed to the standardization of wind nomenclature in ancient and medieval science. Its systematic approach influenced later geographers and natural philosophers, and its classifications informed the wind diagrams of medieval and early modern meteorology.
+
 ## Text
 
 ### Vent 973a (t1)

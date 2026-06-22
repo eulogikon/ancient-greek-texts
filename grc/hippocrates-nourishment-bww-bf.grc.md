@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bf` · [HTML page](https://eulogikon.org/works/hippocrates-nourishment-bww-bf)
 
+On Nourishment is a concise medical treatise from the Hippocratic Corpus, a body of ancient Greek medical works attributed to Hippocrates and his followers but composed by multiple authors. Written in Ionic Greek during the fifth or fourth century BCE, the work comprises twenty-nine brief, aphoristic passages dedicated exclusively to the principles of dietetics. It systematically details how various foods and drinks nourish the body and can be employed to treat disease. Operating within the framework of humoral theory, the treatise classifies foods by their perceived qualities—such as heating, cooling, moistening, or drying—and prescribes specific dietary regimens intended to balance the body's four humors: blood, phlegm, yellow bile, and black bile. This balance was considered essential for maintaining or restoring health.
+
+The text is a product of Classical Greece, reflecting the era's emergence of rational, systematic medicine and the core Hippocratic principle that regimen, particularly diet, constitutes a physician's primary therapeutic tool. Its succinct, aphoristic style suggests it functioned as a practical manual or teaching aid for practicing physicians and medical students. Modern scholarship regards it as a genuine, though minor, component of the Hippocratic Corpus, while rejecting any direct authorship by the historical figure Hippocrates. The complete text survives through the standard manuscript tradition of the Corpus and stands as a clear example of the ancient, influential doctrine of food as medicine, a concept that profoundly shaped Western medical thought for centuries.
+
 ## Text
 
 ## Τροφὴ καὶ τροφῆς εἶδος, μία καὶ πολλαί· μία μὲν ᾗ γένος ἓν, εἶδος δὲ ὑγρότητι καὶ ξηρότητι· καὶ ἐν τουτέοισιν ἰδέαι καὶ πόσον ἐστὶ καὶ ἐς τίνα καὶ ἐς τοσαῦτα.

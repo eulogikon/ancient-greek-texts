@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swu-aa` · [HTML page](https://eulogikon.org/works/ammonius-similar-different-words-swu-aa)
 
+_On Similar and Different Words_ is a lexicographical treatise attributed to Ammonius the Grammarian. This work of synonymic lexicography systematically distinguishes between words of similar meaning or form through 476 discrete entries, serving as a guide for proper usage in the study of classical Greek literature. The entries clarify near-synonyms, homonyms, and paronyms, promoting classical Attic standards by frequently citing authors such as Plato and Demosthenes to authorize its distinctions. Its concise, alphabetical format is designed for reference and memorization, suiting the needs of students and scholars. The text survives within the corpus of Greek grammatical works transmitted through Byzantine manuscripts and is included in modern critical editions of the minor grammarians. Such synonymic lexica were central to Byzantine education and influenced later lexicography, including the _Suda_. The treatise's methodological approach to lexical differentiation contributed to the development of Western philology.
+
 ## Text
 
 ## ΑΜΜΩΝΙΟΥ ΠΕΡΙ ΟΜΟΙΩΝ ΚΑΙ ΔΙΑΦΟΡΩΝ ΛΕΞΕΩΝ Α ἄβαξ καὶ ἀβάκιον διαφέρει.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ae` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-ae)
 
+The Fragments of Epigrams constitute the extant remains of short poems by the Hellenistic poet and scholar Callimachus of Cyrene, who was active at the Library of Alexandria during the 3rd century BCE. Composed in refined Greek elegiac couplets, these epigrams treat a diverse array of subjects, encompassing love poetry, dedicatory verses to deities, epitaphs, and literary commentary. They are distinguished by their wit, erudition, and meticulous craftsmanship, exemplifying the poet's celebrated dictum favoring short, polished works over lengthy compositions. No complete, original collection by Callimachus survives; the poems are preserved fragmentarily through later sources such as the Greek Anthology, quotations in other ancient authors, and papyrus discoveries. The original structure of the work is lost, and modern references to specific passages typically reflect contemporary editorial groupings rather than ancient organization. These epigrams were composed for a sophisticated, courtly audience in Alexandria, embodying the intellectual and aesthetic ideals of the Ptolemaic period. Their concise artistry and learned allusions rendered them profoundly influential, providing a model for subsequent Greek and Roman poets, including Catullus and Propertius.
+
 ## Text
 
 ### 393

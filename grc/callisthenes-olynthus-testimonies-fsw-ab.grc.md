@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsw-ab` · [HTML page](https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-ab)
 
+The Testimonies was a scholarly compilation of source materials assembled by the Greek historian Callisthenes of Olynthus, likely during the 330s BCE. Unlike a narrative history, it functioned as a documented research foundation, with its first book alone containing forty-eight discrete passages. The work is believed to have consisted of transcribed official records, treaties, and firsthand reports that Callisthenes gathered in preparation for his major historical writings. This methodological approach, emphasizing the critical collection of verifiable accounts over unreliable sources, is often interpreted as reflecting the empirical principles of his teacher, Aristotle. The Testimonies is now completely lost, surviving only as a title and in brief bibliographic references; not a single fragment of its text remains extant. It was likely a working document compiled prior to or during his work on his history of Greece, the Hellenica, and its intended audience was probably limited to fellow scholars and students. While the compilation itself did not survive to exert direct influence, its existence underscores Callisthenes' methodological contribution to historiography, which valued rigorous source collection and left an imprint on later Hellenistic historical practice.
+
 ## Text
 
 ### 2b,124,T 1

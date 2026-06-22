@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hbm-ab` · [HTML page](https://eulogikon.org/works/aeschines-athens-against-timarchus-hbm-ab)
 
+Against Timarchus is a forensic oration delivered by the Athenian statesman Aeschines in 346/5 BCE. This public prosecution speech, preserved in its complete form, was directed against Aeschines' political rival Timarchus. The legal basis for the prosecution was a specific Athenian statute that prohibited citizens who had engaged in prostitution, squandered their inheritance, or mistreated their parents from addressing the public assembly. The core of Aeschines' argument is a detailed and virulent character assassination, alleging that Timarchus had been a prostitute and lived a life of debauchery in his youth, thereby forfeiting his moral and legal right to participate in civic life. The prosecution was successful, resulting in Timarchus's conviction and the loss of his civic rights.
+
+The speech survives in full through medieval manuscript tradition as one of Aeschines' three extant orations. Modern scholarship interprets it primarily as a political instrument, deployed during a period of intense factional conflict in Athens. It is widely understood as a preemptive strike against an ally of Aeschines' great rival, Demosthenes, amid the political turmoil following the Peace of Philocrates with Macedon. Beyond its immediate political context, the oration provides invaluable, though profoundly biased, evidence concerning Athenian legal procedure, societal norms regarding sexuality and personal honor, and the strategic use of the judicial system for political warfare.
+
 ## Text
 
 ### Tim 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lvi-aa` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-little-commentary-lvi-aa)
 
+The Byzantine Little Commentary is an anonymous grammatical treatise from the Byzantine era. It functions as a concise, pedagogical exegesis in twenty-two sections on the Art of Grammar attributed to Dionysius Thrax. The work systematically explicates the core doctrines of that foundational text for the benefit of students and scholars. Its content addresses the definition of grammar and its subdivisions, provides a detailed analysis of the eight parts of speech, and offers explanations of phonology and prosody concerning letters, syllables, and accents. The commentary also includes exegetical and textual notes on its source material. Transmitted within the Byzantine manuscript tradition of grammatical scholia, it survives in modern critical editions typical of scholarly texts copied in monastic and educational contexts. As part of the extensive Byzantine exegetical tradition on Dionysius Thrax, the Little Commentary played a role in standardizing grammatical pedagogy and sustaining the Hellenic linguistic tradition, which later influenced Western European grammatical thought during the Renaissance revival of Greek studies.
+
 ## Text
 
 ### [30]

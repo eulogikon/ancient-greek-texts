@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-aw` · [HTML page](https://eulogikon.org/works/porphyry-tyre-testimonies-udm-aw)
 
+The Testimonies is a lost philosophical compilation by the Neoplatonist thinker Porphyry of Tyre, written in the late third century CE. Known only from a handful of fragmentary references in later authors, the work is believed to have been a collection of authoritative quotations from earlier philosophers, assembled to support and validate specific doctrinal arguments within the Neoplatonic school. Its exact scope, original length, and internal structure remain entirely unknown due to its fragmentary state. The work exemplifies Porphyry's scholarly method of doxography, or the systematic compilation of philosophical opinions, a practice also evident in his other lost works such as the History of Philosophy. As a product of a major systematizer of Neoplatonism, the Testimonies illustrates the importance of historical testimony and precedent in late antique philosophical teaching and debate, a methodological approach that would exert a significant influence on subsequent philosophical and theological writing.
+
 ## Text
 
 ### 2b,260,T 1

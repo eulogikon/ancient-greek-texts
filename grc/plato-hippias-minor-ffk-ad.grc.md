@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ad` · [HTML page](https://eulogikon.org/works/plato-hippias-minor-ffk-ad)
 
+The Lesser Hippias is a short philosophical dialogue attributed to Plato. It presents a conversation between Socrates and the sophist Hippias of Elis. The discussion originates from an analysis of Homeric heroes, comparing the straightforward Achilles with the cunning Odysseus. This literary examination serves as a springboard for a more abstract ethical inquiry into whether it is better to do wrong voluntarily or involuntarily. Through a series of questions, Socrates guides the argument toward a paradoxical conclusion, suggesting that the individual who does wrong knowingly and by design possesses a superior capacity and would, in a certain sense, be the better man. The dialogue concludes without a definitive resolution, a characteristic feature of Plato’s early, aporetic works.
+
+Set in Classical Athens, the dialogue dramatizes the intellectual contest between Socratic dialectic and the teachings of the professional sophists, who offered instruction in rhetoric and often claimed authoritative expertise in interpreting poetry. Modern scholarship generally views the work as a critique of such sophistic pretensions, using the vehicle of Homeric exegesis to expose contradictions in conventional understandings of knowledge, virtue, and justice. While its authenticity was debated in antiquity, it is now widely accepted as a genuine work of Plato. The text survives complete within the medieval manuscript tradition of Plato’s corpus, having been consistently transmitted since ancient times and classified among the Thrasyllan tetralogies.
+
 ## Text
 
 ### HpMi.363.a

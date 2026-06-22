@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jre-ab` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-brotherly-friends-jre-ab)
 
+_On Brotherly Friends_ is a concise anonymous prose text belonging to the genre of paradoxography, a form of literature dedicated to cataloging marvels and unusual narratives. Transmitted as part of a larger compilation attributed to an unknown author conventionally termed Paradoxographer Anonymous, the work survives in two brief passages. The first recounts the story of Cleobis and Biton, the Argive brothers who, according to Herodotus, died after heroically pulling their mother's cart to the temple of Hera. The second relates the tale of the Ephesian brothers Eurybatus and Apriatus, whose profound devotion led one to starve himself to death following the other's demise. The compilation serves to highlight themes of extraordinary fraternal love, filial piety, and the wondrous. Preserved within a corpus of anonymous paradoxographical works found primarily in the 14th-century Codex Vaticanus Graecus 305, the text appears in modern critical editions of the Greek paradoxographers. Though minor, its significance lies in exemplifying the Hellenistic and later practice of excerpting and repackaging exemplary moral tales from canonical authors, reflecting a sustained cultural interest in anecdotes of extreme devotion and contributing to the broader literary tradition of collecting curiosities.
+
 ## Text
 
 ### 1

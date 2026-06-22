@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `spc-ab` · [HTML page](https://eulogikon.org/works/sopater-athens-introduction-spc-ab)
 
+The Introduction to Aristides is a rhetorical prolegomenon composed by the fourth-century CE rhetorician and Neoplatonist Sopater of Athens. It serves as a scholarly guide to the works of the celebrated Second Sophistic orator Aelius Aristides. The text survives not as a complete, independent work but through a series of twenty-one excerpts preserved in later Byzantine manuscripts and rhetorical compilations. These fragments constitute a form of advanced rhetorical commentary, offering analysis of Aristides' oratorical style and compositional structure, providing exegesis of the historical and mythological references within his speeches, and delivering pedagogical instruction for students navigating this canonical author. The work's transmission through medieval anthologies underscores its utility within the rhetorical schools of late antiquity and the Byzantine era. Sopater's introduction exemplifies the late antique scholarly practice of producing commentaries to mediate classical texts, thereby facilitating the ongoing study and imitation of Aristides and affirming his enduring importance in the rhetorical curriculum.
+
 ## Text
 
 ### 3 737

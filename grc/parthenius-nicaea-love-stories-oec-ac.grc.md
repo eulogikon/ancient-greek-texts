@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oec-ac` · [HTML page](https://eulogikon.org/works/parthenius-nicaea-love-stories-oec-ac)
 
+The Erotika Pathemata, commonly known as Love Stories, is a prose compilation of tragic mythological narratives authored by the Hellenistic poet Parthenius of Nicaea in the latter half of the first century BCE. The work is prefaced by a dedicatory letter to the Roman elegist Gaius Cornelius Gallus, explaining its purpose as a practical sourcebook. Parthenius assembled these concise summaries of amorous misfortunes to provide Gallus and other poets with raw material suitable for adaptation into Latin verse, specifically epic and elegy. The collection focuses exclusively on the sorrows and calamities inflicted by erotic passion, with a pronounced emphasis on female suffering. Its brief tales routinely feature heroines who endure abduction, betrayal, illicit desire, metamorphosis, or death.
+
+Transmission of the text is fragmentary; while ancient indices suggest the original compilation contained 139 discrete stories, only 36 complete narratives survive in a single medieval manuscript. The extant stories are rendered in a stark, scholarly prose that condenses episodes from a wide range of earlier Greek poets and historians, many of whose works are now lost. As such, the compilation preserves valuable mythographic variants and fragments of otherwise unknown literature. Modern scholarship interprets the Erotika Pathemata not as a work of original literature but as a deliberate tool of cultural transmission, systematizing Greek mythological learning for Roman literary consumption. Its thematic concentration on tragic love and physical transformation is considered a significant influence on subsequent Roman poetry, particularly evident in the works of Ovid.
+
 ## Text
 
 ### C T

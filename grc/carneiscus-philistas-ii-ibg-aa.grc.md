@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ibg-aa` · [HTML page](https://eulogikon.org/works/carneiscus-philistas-ii-ibg-aa)
 
+_Philistas_ is a philosophical treatise by the Epicurean philosopher Carneiscus, preserved only in fragmentary form within the charred Herculaneum papyrus known as PHerc. 1027. The work is a consolatory text addressed to a woman named Philistas, employing core Epicurean doctrines to alleviate grief and the fear of death. The surviving fragments indicate the treatise argues for the mortality of the soul, aiming to demonstrate that death, understood as the complete cessation of sensation, is nothing to be feared. Its primary themes are consolation for personal loss through philosophical argument, the nature of the soul and mortality based on Epicurean physics, the elimination of anxiety surrounding death, and the value of friendship and the philosophical response to its loss.
+
+The text survives solely in the carbonized papyrus scrolls from Herculaneum, which were buried during the eruption of Mount Vesuvius in 79 CE. It has been recovered through modern imaging techniques and has no attestation in any medieval manuscript tradition. While it had no known historical influence due to its limited preservation, _Philistas_ holds significant value for modern scholarship. It provides a concrete example of the practical, therapeutic application of Epicurean ethics to personal bereavement, thereby extending our understanding of the school’s activities beyond the works of its foundational figures.
+
 ## Text
 
 ### 1 1

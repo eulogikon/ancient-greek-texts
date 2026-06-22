@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gcm-aa` · [HTML page](https://eulogikon.org/works/philetaerus-comic-life-pleasure-gcm-aa)
 
+_Comic Fragments on Life and Pleasure_ is a modern thematic compilation of passages attributed to the Athenian comic poet Philetaerus, who was active during the 4th-century BCE era of Middle Comedy. No complete play by him survives; the work consists of quotations from his lost dramas, preserved by later authors and organized around the subjects of life and pleasure. The fragments, primarily in verse, reflect the characteristic themes of Middle Comedy, including mythological parody of tragic subjects, social observation of behaviors like gluttony and dining, and humor derived from contemporary stereotypes and metatheatrical references. Philetaerus’s work survives only through indirect citation, most notably in Athenaeus’s Deipnosophistae from the 2nd–3rd century CE and in various ancient lexica. The definitive modern edition is found in Poetae Comici Graeci (PCG) Volume VII, which catalogs his fragments. As a poet of Middle Comedy, Philetaerus represents the transition from Old Comedy’s political satire to New Comedy’s focus on social types. His fragments provide valuable evidence for the development of the genre, for Athenian social history, and for the comic treatment of myth and daily life.
+
 ## Text
 
 ### book 1.1

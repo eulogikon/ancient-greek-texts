@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ao` · [HTML page](https://eulogikon.org/works/themistius-physics-paraphrase-rye-ao)
 
+Themistius’s Paraphrase of Aristotle’s Physics is a fourth-century CE interpretive summary of Aristotle’s foundational treatise on natural science. Composed in Attic Greek by the philosopher and rhetorician Themistius, the work is structured as an oration divided into 237 thematic passages. It functions not as a line-by-line commentary but as a selective rephrasing, designed to elucidate Aristotle’s complex arguments concerning nature, motion, time, place, and the prime mover for students and educated readers. The paraphrase survives in its entirety through medieval Greek manuscripts and played a crucial role in the transmission of Aristotelian thought. Translated into Arabic in the ninth century and later into Latin and Hebrew, it served as a vital bridge between classical philosophy and both the Islamic world and medieval Europe. Modern scholarship regards the work as part of a late-antique endeavor to defend and teach Aristotelian doctrine within an intellectual culture increasingly dominated by Platonism. Themistius is believed to have delivered this material as lectures in Constantinople, with the dual aim of making Aristotle’s physics more accessible and contesting rival Neoplatonic interpretations.
+
 ## Text
 
 ### 5,2 t1-34

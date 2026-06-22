@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jre-ag` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-friends-jre-ag)
 
+On Friends is a brief, anonymous paradoxographical text preserved within a larger collection of such works in the 13th-century manuscript known as the Codex Vaticanus Graecus 305, which serves as its sole known witness. The work consists of two short passages that present legendary exempla of extreme devotion as marvels, or thaumata. The first recounts the story of Cleobis and Biton, the Argive brothers who died honorably after pulling their mother’s cart to a festival. The second relates the story of Orestes and Pylades, focusing on Pylades’s offer to die in his friend’s place and their subsequent joint salvation. This minor work exemplifies the breadth of the paradoxographical genre, demonstrating how traditional narratives of supreme friendship and familial duty were systematically repurposed as collections of admirable human wonders.
+
 ## Text
 
 ### 1

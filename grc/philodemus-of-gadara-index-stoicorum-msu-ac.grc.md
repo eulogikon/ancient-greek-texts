@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `msu-ac` · [HTML page](https://eulogikon.org/works/philodemus-of-gadara-index-stoicorum-msu-ac)
 
+The Σύνταξις τῶν φιλοσόφων (Index Stoikōn Herkoulanesion) is a Stoic succession history (διαδοχή) composed by the Epicurean philosopher Philodemos of Gadara, who worked in Herculaneum during the first century BCE. It survives as a single carbonised papyrus roll, PHerc. 1018, recovered from the Villa of the Papyri.
+
+The text spans 82 columns (col. I*–LXXIX), recording the scholarchs and pupils of the Stoic school from Zeno of Citium onward — tracking who taught whom, their cities of origin, and their writings. Column XLVII presents two parallel readings because the physical papyrus layer detached, exposing an under-layer. The Eulogikon edition offers a unified reading reconstructed by comparing four witnesses: Comparetti's 1875 edition, Dorandi's 1994 edition, von Arnim's SVF, and OCR cross-checks. Each column carries a diplomatic (Leiden) transcription with editorial notes.
+
+Thirty-eight of the 82 columns are cross-referenced to fragments in von Arnim's SVF, making PHerc. 1018 a primary papyrus witness behind numerous testimonia on the early Stoa — including columns that reappear, as witnesses, inside the Chrysippus testimonia held elsewhere in this corpus.
+
 ## Text
 
 ### I*

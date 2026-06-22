@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ojc-ac` · [HTML page](https://eulogikon.org/works/rufus-ephesus-satyriasis-gonorrhea-ojc-ac)
 
+On Satyriasis and Gonorrhea is a specialized medical treatise by the physician Rufus of Ephesus, composed in Greek around the late first or early second century CE. The work presents a systematic examination of two urogenital disorders: satyriasis, characterized as a pathological and excessive sexual desire, and gonorrhea, which in ancient medical terminology denoted an involuntary discharge of semen rather than the modern infectious disease. Structured in 49 concise passages, the treatise methodically addresses definitions, symptomatic presentations, potential etiologies, and therapeutic recommendations for each condition. It functions as a practical manual for physicians and students, grounded in the humoral theory that interpreted disease through imbalances in the body's fundamental fluids. The pairing of these ailments illustrates the ancient conceptual linkage between disorders of excessive sexual drive and those involving a loss of seminal control. Rufus’s detailed clinical observations within this work contributed to his enduring reputation as a keen diagnostician. The complete text survives as part of his collected works, preserved through Greek manuscripts and later translations, and it was subsequently studied within the Byzantine, Arabic, and medieval Latin medical traditions.
+
 ## Text
 
 ## ΤΟΥ ΑΥΤΟΥ [ΡΟΥΦΟΥ]. ΠΕΡΙ [ΣΑΤΥΡΙΑΣΜΟΥ ΚΑΙ ΓΟΝΟΡΡΟΙΑΣ. Ἄνθρωπός τις ἦν] ᾧ τὸ αἰδοῖον ἐπάλλετο [.

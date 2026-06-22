@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-an` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-olympiodorus-fsm-an)
 
+Against Olympiodorus for Damage is a private forensic oration preserved within the Demosthenic corpus as Speech 48. Composed for delivery by a client in an Athenian inheritance dispute, the speech presents a lawsuit for damages brought by an unnamed plaintiff against his brother-in-law, Olympiodorus. The plaintiff alleges that Olympiodorus violated a formal partnership agreement to share equally the estate of a deceased relative named Comon of Oeon, instead seizing the entire property for himself. The case centers on a breach of contract and a violated oath concerning an inheritance governed by Athenian rules of succession. The oration details the initial cooperation and subsequent breakdown between the two relatives, employing forensic strategies to portray Olympiodorus as dishonest and violent while presenting the client as a wronged party who remained loyal to their agreements. It offers specific evidence regarding Athenian family law, property rights, and legal procedure in the fourth century BCE. The speech survives in full through the medieval manuscript tradition of Demosthenes' works. Although included among the orations attributed to Demosthenes, stylistic analysis suggests it is spurious, likely composed by another logographer from his circle or era. Studied as a model of private forensic oratory, it provides valuable historical insight into Athenian social life, inheritance law, and contract litigation, with its detailed account of a breached partnership making it a frequently cited source for understanding Athenian private law.
+
 ## Text
 
 ### Or48 1

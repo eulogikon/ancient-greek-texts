@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-az` · [HTML page](https://eulogikon.org/works/herodian-alexandria-attic-prosody-qnq-az)
 
+On Attic Prosody is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work systematically addresses the rules of prosody—the study of accents, pronunciation, and syllable quantity—specifically for the Attic dialect of ancient Greek. Composed during the Roman Imperial period, when Attic Greek was upheld as the standard for refined literature and rhetoric, Herodian’s treatise served as an authoritative guide for advanced students and teachers seeking linguistic correctness. The original text does not survive intact but is known through later references, quotations, and summaries preserved in Byzantine grammatical compilations. These fragments reveal that the work was part of Herodian’s vast output on language, produced during the cultural movement known as the Second Sophistic, a period of revived interest in classical Greek heritage. His analysis helped codify the accentuation system that became standard for teaching Ancient Greek. Herodian’s influence was profound; his doctrines on prosody, transmitted through later epitomes and encyclopedias, remained the foundational authority on Greek accents for over a millennium, decisively shaping Byzantine education and later Western philology.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ijs-aa` · [HTML page](https://eulogikon.org/works/alcimus-sicily-italian-antiquities-ijs-aa)
 
+The Sicilian and Italian Antiquities by Alcimus of Sicily is a fragmentary antiquarian work, preserved only in seven quotations by later authors such as Athenaeus. The title, sometimes recorded as Excerpts, indicates it was likely a collection of notes on diverse topics rather than a continuous historical narrative. Its scope encompassed the origins, myths, and early history of Sicily and Italy. The extant fragments reveal a focus on local foundation myths, etymological explanations for place names, and elements of cultural history, including references to customs and notable figures. As a representative of Hellenistic local history and mythography, these fragments provide valuable evidence for regional traditions and are collected in modern editions of Greek historical fragments.
+
 ## Text
 
 ### t1-6

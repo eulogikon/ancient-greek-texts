@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-ag` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag)
 
+The Enquiry into Plants is a foundational botanical treatise composed in Attic Greek by Theophrastus of Eresus, the immediate successor to Aristotle, during the late fourth or early third century BCE. This systematic work in nine books applies the empirical and classificatory principles of Aristotelian natural philosophy to the comprehensive study of plant life. It organizes its subject by first distinguishing fundamental categories of plants—trees, shrubs, undershrubs, and herbs—before proceeding to a detailed analysis of their physical parts, modes of reproduction and growth, geographical habitats, practical uses in agriculture and medicine, and various diseases. The treatise functions as a critical enquiry rather than a mere catalogue, frequently interrogating received opinions and explicitly acknowledging the boundaries of contemporary knowledge.
+
+Produced within the intellectual milieu of the Lyceum, the work is believed to have incorporated observations from the school’s own garden as well as reports gathered during the eastern campaigns of Alexander the Great. Its primary aim was to establish botany as a rigorous scientific discipline, providing a systematic counterpart to Aristotle’s zoological studies. The text survives almost completely through a tradition of medieval manuscripts, the principal copies of which date from the tenth century CE and later, securing its status as the most extensive botanical work preserved from classical antiquity. Modern scholarship regards the Enquiry into Plants as a monumental achievement that defined the methodological framework for the scientific study of botany for nearly two thousand years, exerting a profound and lasting influence on Roman agricultural writers and, later, Renaissance naturalists.
+
 ## Text
 
 ### 1.1

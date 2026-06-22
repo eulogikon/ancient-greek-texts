@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vbs-ae` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-abramius-vbs-ae)
 
+The Life of Abramius is a sixth-century hagiographical biography composed in Koine Greek by Cyril of Scythopolis, a Palestinian monk. It is a constituent work within his larger collection, the Lives of the Monks of Palestine. The text adheres to the conventional structure of saintly biography, chronicling the life of Abramius, a hermit from Syria near the Euphrates River. It narrates his renunciation of the world, his embrace of extreme asceticism including years of enclosure in a small cell, his spiritual struggles, the miracles attributed to him, and his death, ultimately presenting him as a paragon of holiness and a spiritual guide.
+
+Cyril authored this work in the mid-sixth century, a period of consolidation for orthodox monasticism following intense Christological controversies. Scholars generally interpret his Lives as serving multiple purposes: to preserve the memory of desert ascetics, to promote orthodox monastic ideals, and to provide spiritual edification, primarily for a monastic readership. The text is well-preserved, transmitted through a robust Greek manuscript tradition as part of Cyril’s corpus. It remains a valuable historical source for understanding the daily life and spiritual practices of Eastern monastic communities in the sixth century.
+
 ## Text
 
 ### [25]

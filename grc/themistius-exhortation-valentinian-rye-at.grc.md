@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-at` · [HTML page](https://eulogikon.org/works/themistius-exhortation-valentinian-rye-at)
 
+The Exhortation to Young Valentinian is an oration composed by the philosopher and statesman Themistius around 370 CE. Addressed to the child co-emperor Valentinian II, the work functions as both a mirror for princes and a piece of imperial panegyric, blending political philosophy with ceremonial praise. Written in refined Attic Greek and structured into thirty-three distinct passages, the oration advises the young ruler that legitimate authority springs from moral excellence and philosophical wisdom rather than mere dynastic right or military power. Themistius adapts core Platonic and Aristotelian concepts of virtue and statecraft to the context of the Christian Roman Empire, arguing that a true sovereign must cultivate personal wisdom, justice, and a genuine love for humanity. The speech was delivered in Constantinople during a period of political fragility following the death of Valentinian I, with the imperial court and senate as its intended audience. Scholars view it as a key document within Themistius's lifelong project of employing Hellenic philosophical tradition to counsel and legitimize Roman imperial rule, thereby promoting stability around the reign of a child emperor. The complete text survives through medieval Byzantine manuscript transmission and stands as a significant witness to the fusion of classical philosophy with late antique imperial ideology.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-al` · [HTML page](https://eulogikon.org/works/demosthenes-athens-macartatus-hagnius-estate-fsm-al)
 
+To Macartatus-Hagnius' Estate is a forensic oration from classical Athens, preserved within the corpus of speeches attributed to Demosthenes. Composed around 345 BCE, it was written for a client to deliver in a legal dispute concerning the substantial estate of Hagnias of Oeum, who died without a direct male heir. The speaker represents the interests of a woman who is the closest surviving relative of Hagnias through the male line; she had previously successfully claimed the estate for her young son, the speaker's ward. The speech argues against the defendant, Macartatus, a more distant relative who has seized control of the property. The oration is a detailed legal pleading, structured in 77 sections, that meticulously applies Athenian inheritance law, presents extensive genealogical evidence, and accuses the opposition of persistent fraudulent conduct.
+
+The work survives in full through the medieval manuscript tradition of Demosthenes' orations. Its authorship, however, remains uncertain. Although it has been transmitted under Demosthenes' name since antiquity, many modern scholars consider it more likely the product of another professional speechwriter from his milieu or circle. The speech offers a vital window into fourth-century Athenian society, where inheritance disputes were matters of profound importance, involving not merely wealth but the continuity of the family line, the performance of essential religious rites for the deceased, and the preservation of social status. It is crafted to persuade a large jury of Athenian citizens through precise legal reasoning grounded in the inheritance laws attributed to Solon, which established a clear hierarchy of claims based on proximity of kinship through the male line.
+
+As a historical document, the oration is an invaluable source for understanding the practical application of Athenian law, the complexities of familial and kinship structures, and the sophisticated role of professional logographers in constructing compelling forensic arguments for the courts.
+
 ## Text
 
 ### Or43 1

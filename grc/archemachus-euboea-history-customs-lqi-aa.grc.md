@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lqi-aa` · [HTML page](https://eulogikon.org/works/archemachus-euboea-history-customs-lqi-aa)
 
+The Euboean History and Customs is a lost local history of the island of Euboea, written in the Hellenistic period by Archemachus of Euboea. Preserved only in fragmentary quotations by later authors such as Strabo, Harpocration, and Apollonius, the work treated the island’s mythology, early history, and distinctive customs. Its content encompassed founding myths for Euboean cities, descriptions of local religious rites and sanctuaries, and accounts of wondrous natural phenomena. The fragments reveal an effort to integrate heroic mythology with narratives of historical settlement, thereby articulating a distinct Euboean identity within the broader context of Greek culture. As an authoritative source on Euboean topography and tradition for subsequent ancient writers, the work remains a valuable resource for modern scholars studying the island’s antiquity and the conventions of Hellenistic local historiography.
+
 ## Text
 
 ### t1-5

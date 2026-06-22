@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ios-ab` · [HTML page](https://eulogikon.org/works/posidippus-cassandreia-cooks-courtesans-ios-ab)
 
+The Fragments on Cooks and Courtesans is a modern descriptive title for a collection of passages from lost comedies by the Hellenistic playwright Posidippus of Cassandreia. Active in Athens from the late fourth to the mid-third century BCE, Posidippus was a significant figure in the development of New Comedy. The fragments, written in Attic Greek verse, are not excerpts from a single play but are grouped thematically around two enduring character types: the boastful professional cook and the sophisticated courtesan. Preserved entirely through quotations by later ancient authors, primarily the scholar Athenaeus in his work The Learned Banqueters, these snippets of comic dialogue focus on food, professional pride, romantic negotiation, and domestic intrigue.
+
+The fragments provide valuable evidence for the style and concerns of New Comedy, which moved away from the political satire of earlier periods toward plots centered on everyday life, family conflict, and romantic entanglements. The passages illustrate how Posidippus helped to popularize and refine these comic archetypes, which would become staples of the genre and exert a profound influence on subsequent Roman playwrights, including Plautus and Terence. The collection, comprising some 75 passages in modern scholarly editions such as Poetae Comici Graeci, offers insights not only into theatrical conventions but also into Hellenistic social customs, dining practices, and gender dynamics as filtered through the lens of popular comedy.
+
 ## Text
 
 ### book 1.1

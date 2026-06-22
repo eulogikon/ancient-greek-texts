@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `boa-ae` · [HTML page](https://eulogikon.org/works/pindar-melicertes-heroes-boa-ae)
 
+The Fragments on Melicertes and Heroes constitute a modern assemblage of poetic excerpts attributed to Pindar, focusing on the hero Melicertes, also known as Palaemon, and related heroic figures. These 942 passages are individual lines extracted from lost poems, likely including paeans and dithyrambs, and survive solely through quotation by later ancient authors such as scholiasts and grammarians. While Pindar's four books of Epinician Odes were preserved in medieval manuscripts, his broader corpus did not survive intact, making these citations compiled by modern editors an essential resource.
+
+The content of the fragments centers on several interconnected themes fundamental to Greek religious and cultural thought. A primary concern is hero cult and foundation myths, particularly detailing the establishment of rituals and the Isthmian Games in honor of Melicertes. Closely linked is the theme of divine metamorphosis, illustrating the transformation of mortals into deities, as seen in the figures of Melicertes and his mother, Ino. The fragments also shed light on the interplay between local and panhellenic religion, tracing how specific Corinthian and Boeotian hero cults were integrated into broader athletic and religious contexts. Furthermore, they explore the connection between athletic glory and divine favor, emphasizing the patronage heroes associated with contest sites could bestow upon victors.
+
+These fragments are of significant scholarly importance for reconstructing the scope and themes of Pindar's lost poetry. His treatment of the Melicertes myth was central to the cultural identity of the Isthmian Games, and his literary rendition established a standard for mythological narrative that served as a key source for later antiquity.
+
 ## Text
 
 ### book 1a.1

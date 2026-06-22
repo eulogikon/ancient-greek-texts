@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bl` · [HTML page](https://eulogikon.org/works/themistius-soul-rye-bl)
 
+Themistius’s On the Soul is a fourth-century CE philosophical treatise that provides a systematic paraphrase and commentary on Aristotle’s foundational work of the same name. Written in Greek by the prominent Constantinopolitan philosopher and statesman Themistius, it aims to elucidate Aristotle’s complex investigation into the nature of the soul for pedagogical purposes. The work meticulously follows the structure of Aristotle’s three books, examining the soul’s essence, its various faculties—such as nutrition, sensation, and intellect—and its relationship to the body. As a key document of the late-antique revival of Aristotelian thought, it engages with prior interpretations and reflects the intellectual milieu where Aristotelian and Neoplatonic ideas converged, serving as an advanced textbook for students and scholars.
+
+The treatise survives in its complete form and exerted a profound influence through its transmission. Preserved in Greek manuscripts, it was translated into Arabic in the ninth century, where it became a crucial text for Islamic philosophers. Its subsequent translation into Hebrew and, during the Renaissance, into Latin ensured its continued study in Europe, offering a significant alternative to other medieval interpretations of Aristotle’s psychology.
+
 ## Text
 
 ### 1.(n)

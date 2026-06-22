@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dw` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-marcus-cato-okg-dw)
 
+Plutarch’s Life of Marcus Cato is a biography of the Roman statesman Cato the Elder, composed in Greek as part of the author’s Parallel Lives around the early second century CE. It is paired with the life of the Athenian general Aristides, inviting a comparative examination of Greek and Roman civic virtue. The narrative, preserved in its entirety, chronicles Cato’s ascent from a humble Sabine farming background to the pinnacle of Roman political authority as censor. Plutarch meticulously details his subject’s military exploits during the Second Punic War, his long and contentious political career in the Senate, and his relentless advocacy for traditional Roman values, most famously encapsulated in his repeated exhortation for the destruction of Carthage. The portrait that emerges is of a man defined by austere frugality, rigorous self-discipline, and a profound suspicion of Hellenistic luxury and cultural influence, presented by Plutarch as an archetype of antique Roman integrity. While the work is a literary and moral essay composed centuries after its subject’s death, it draws upon earlier historical sources, many now lost, providing an indispensable, if stylized, record of Cato’s character and his enduring symbolic power in the Roman moral imagination.
+
 ## Text
 
 ### CatMa t 1

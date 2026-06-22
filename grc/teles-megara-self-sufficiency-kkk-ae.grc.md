@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kkk-ae` · [HTML page](https://eulogikon.org/works/teles-megara-self-sufficiency-kkk-ae)
 
+On Self-Sufficiency is a philosophical work by Teles of Megara, a Cynic thinker of the 3rd century BCE. Written in Koine Greek, the text takes the form of a moralizing lecture or diatribe, employing a conversational style that features rhetorical arguments with imaginary interlocutors. Its central thesis is that genuine happiness and freedom are attained through autarkeia, or self-sufficiency. This state is achieved by radically minimizing one’s needs and desires, thereby cultivating independence from wealth, social status, and the vicissitudes of fortune. The complete work of Teles is lost; what survives are two substantial excerpts preserved in the 5th-century CE anthology compiled by Stobaeus. These fragments develop their argument through a pointed contrast, juxtaposing the anxiety-ridden existence of those dependent on external goods with the serene contentment of the wise individual who finds ample satisfaction in very little. Modern scholarship interprets the work as an example of popular Hellenistic philosophy, likely intended for oral delivery to students or a general audience as practical ethical guidance for securing a tranquil life. It stands as a significant early specimen of the diatribe form, a style that would later exert considerable influence on Roman moralists such as Seneca.
+
 ## Text
 
 ### 13

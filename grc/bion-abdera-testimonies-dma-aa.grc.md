@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dma-aa` · [HTML page](https://eulogikon.org/works/bion-abdera-testimonies-dma-aa)
 
+The Testimonies of Bion of Abdera is a lost mathematical work, known only through fragmentary citations preserved by later authors. The collection originally compiled various mathematical and cosmological opinions, though its complete scope and structure are now unrecoverable. The surviving evidence, drawn from the astronomer Cleomedes and the philosopher Sextus Empiricus, indicates the work addressed two primary themes. In cosmology, it presented a Democritean atomist perspective, asserting the existence of infinite and unequal worlds. In mathematics, it contributed to the definition of geometry as a science concerned with eternal and immovable objects. The work's content survives solely through these technical and philosophical sources, which cite Bion within doxographical and skeptical contexts. While the original text is entirely lost, these testimonia secure Bion's place as a minor but documented figure in the history of Greek mathematics and atomist thought.
+
 ## Text
 
 ### 1

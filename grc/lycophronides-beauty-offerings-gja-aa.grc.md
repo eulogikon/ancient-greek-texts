@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gja-aa` · [HTML page](https://eulogikon.org/works/lycophronides-beauty-offerings-gja-aa)
 
+The work known as Fragments on Beauty and Offerings, attributed to an author named Lycophronides Lyricus, is not attested in any major scholarly reference works, papyrological collections, or standard digital repositories of classical Greek texts. No independent record of an author by this name or a compiled poetic work under this precise title exists within the established corpus of ancient Greek literature. The title itself suggests a modern compilation of lyric poetry fragments thematically linked to concepts of beauty and votive offerings, presented as a collection of seven short passages. The sole extant fragment provided discusses physical beauty, noting that the comeliness of a boy, a gold-adorned maiden, or a deep-bosomed woman is less significant than inherent decorum, as modesty sows the flower of grace. The speaker then dedicates a rose, sandals, a helmet, and a beast-slaying spear to a deity, explaining that their mind is poured out upon the Graces and a beloved, beautiful child. The transmission history of these fragments is entirely undocumented, with no known manuscript tradition or provenance for the passages. Consequently, in the absence of verification within the historical record or the accepted canon of Greek literary sources, the work and its attributed author currently hold no recognized scholarly position in the study of ancient Greek poetry.
+
 ## Text
 
 ### book 1.1

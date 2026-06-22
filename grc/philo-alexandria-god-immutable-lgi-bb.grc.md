@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-bb` · [HTML page](https://eulogikon.org/works/philo-alexandria-god-immutable-lgi-bb)
 
+That God is Immutable is a philosophical treatise by the 1st-century CE Jewish thinker Philo of Alexandria. Composed in Koine Greek, the work presents a systematic argument for the absolute unchangeability, incorporeality, and impassibility of the divine nature. Philo develops his case across 153 sections, employing his characteristic method of allegorical exegesis to interpret passages from the Hebrew Scriptures, most notably the Book of Genesis. His primary aim is to resolve the apparent contradiction between the anthropomorphic language found in biblical narratives and the Greek philosophical conception, particularly indebted to Platonism, of a perfect and transcendent deity who is beyond all alteration or affect.
+
+The treatise is a product of the Hellenistic Jewish intellectual milieu of Roman Alexandria, where Philo sought to demonstrate that the foundational texts of Judaism not only contained but also expressed in a venerable form the highest truths of Greek philosophy. By addressing the tension between literal scriptural depiction and philosophical abstraction, the work targets an educated audience, both Jewish and Gentile, presenting Jewish theological tradition as a sophisticated and coherent system of thought. The text survives in its entirety within the extensive Philonic corpus, which was preserved largely through the efforts of early Christian scholars who found his allegorical techniques and theological propositions deeply valuable. Philo’s rigorous arguments for divine immutability proved profoundly influential on the subsequent development of Christian theological doctrine, providing a crucial philosophical framework for early patristic writers as they articulated the nature of God.
+
 ## Text
 
 ### Immut t

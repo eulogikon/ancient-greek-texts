@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ptg-ab` · [HTML page](https://eulogikon.org/works/astrampsychus-oracles-ptg-ab)
 
+The Oracles of Astrampsychus, also known as the Sortes Astrampsychi, is an ancient Greek divinatory treatise attributed pseudonymously to the legendary magician Astrampsychus. Composed during the Roman Imperial period, most likely between the second and fourth centuries CE, the work functioned as a practical manual for personal fortune-telling, addressing common concerns such as travel, business, marriage, health, and legal affairs. Its structure is systematic rather than narrative, built around a two-step procedural mechanism. A user would first select from a list of 92 predefined questions and then employ a numerical algorithm, utilizing a random number and a special table, to arrive at one of 1030 possible answers. These responses are characteristically concise, ranging from simple affirmatives or negatives to brief predictive statements. The elaborate, pseudo-random system was designed to imbue the divination process with an aura of mathematical precision and mystical objectivity. The work exemplifies the popular demand for accessible forms of personal guidance in antiquity, operating outside formal religious institutions. Preserved in several Greek manuscripts, the oldest of which dates to the 14th century, the text survives in its entirety, though its transmission history reveals a complex tradition of multiple versions and revisions over time.
+
 ## Text
 
 ### quaest (12)

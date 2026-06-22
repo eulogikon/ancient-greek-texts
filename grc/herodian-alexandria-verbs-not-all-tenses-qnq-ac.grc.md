@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ac` · [HTML page](https://eulogikon.org/works/herodian-alexandria-verbs-not-all-tenses-qnq-ac)
 
+The Monobiblos on Not All Verbs Being Conjugated in All Tenses is a grammatical treatise by the second-century CE Alexandrian scholar Herodian. As indicated by its title, the work provides a systematic analysis of defective verbs in ancient Greek, specifically examining the phonological and morphological reasons why certain verbs lack forms in particular tenses, moods, or voices. Structured as a concise, single-book study, it is composed in Attic Greek prose and organized into six passages that progress from general principles to specific verbal examples. It was intended for an advanced scholarly audience during the Roman Imperial period, reflecting the broader Alexandrian tradition of creating a descriptive and systematic framework for Greek morphology. The original text is no longer extant but survives through fragments and quotations preserved in the works of later Byzantine grammarians and encyclopedias, attesting to the enduring influence of Herodian's vast grammatical scholarship.
+
 ## Text
 
 ### [25]

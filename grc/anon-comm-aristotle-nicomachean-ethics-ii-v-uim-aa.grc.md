@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uim-aa` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-nicomachean-ethics-ii-v-uim-aa)
 
+The Commentaries on Nicomachean Ethics Books II–V is an anonymous Greek exegetical work comprising 134 scholia on Aristotle's foundational ethical treatise. It provides detailed analysis of Books II through V, which systematically treat the nature of moral virtue, the doctrine of the mean, the concepts of voluntary action and moral responsibility, and the specific virtues of courage, temperance, and justice. Characteristic of late antique and Byzantine Aristotelian scholarship, its primary purpose is to clarify terminology and explicate complex arguments rather than to advance independent philosophical positions. The scholia engage with core doctrines such as the role of habituation in developing virtue and the detailed classifications of justice found in Book V. Preserved within the manuscript tradition of Aristotle's works, these notes were likely originally marginal or interlinear glosses that were later compiled into a discrete set of commentaries. While the direct influence of this specific anonymous work is not recorded, it exemplifies the vital scholarly tradition that transmitted and interpreted Aristotelian philosophy through the Byzantine period and into the Renaissance, serving as an essential tool for pedagogical and scholarly engagement with Aristotle's ethics.
+
 ## Text
 
 ### 122 (1t)

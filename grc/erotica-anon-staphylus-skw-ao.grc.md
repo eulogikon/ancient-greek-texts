@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ao` · [HTML page](https://eulogikon.org/works/erotica-anon-staphylus-skw-ao)
 
+The Staphylus is a lost ancient Greek work, the nature and authorship of which remain ambiguous due to conflicting historical records. The primary source of information is the 10th-century Byzantine encyclopedia known as the Suda, which lists two distinct poetic works under this title. One is attributed to the Hellenistic poet and scholar Euphorion of Chalcis, active in the 3rd century BCE, and is described as a sympotic composition, a piece intended for recitation at drinking parties. Another entry attributes a work of the same name to the poet Alexander of Aetolia, a contemporary of Euphorion. These poetic versions were likely characterized by the learned, allusive style typical of Hellenistic verse, incorporating elements of erotic narrative and mythological reference within a convivial framework. In contrast, some modern metadata references an anonymous prose erotic narrative titled Staphylus, a format for which there is no corroborating evidence in ancient catalogs or surviving fragments. The work is considered entirely fragmentary, with no continuous text transmitted to the modern era. Its significance lies primarily in its association with the influential Euphorion, whose dense, scholarly poetics later exerted a notable influence on Roman poets such as Catullus and Virgil. Its inclusion in the Suda confirms its place within the canon of Hellenistic literary production, even as its precise content is irrecoverable.
+
 ## Text
 
 ### col1

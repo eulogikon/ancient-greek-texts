@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oyw-ad` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-interpretative-stones-oyw-ad)
 
+The Interpretation of Active Stones is a pseudepigraphical lapidary attributed to Hippocrates and included within the broader Hippocratic Corpus. This short treatise, consisting of thirty-one passages, systematically catalogs various stones believed to possess inherent therapeutic and magical powers. Each entry describes a stone's physical characteristics, such as its color, and details its purported applications. These uses range from treating specific medical conditions like hemorrhages, eye ailments, or scorpion stings to providing magical protection in warfare, legal disputes, or against general misfortune. The descriptions often blend empirical observation with principles of sympathetic magic, where a stone's perceived efficacy is linked to its visual or symbolic resemblance to a bodily substance or the nature of an ailment.
+
+The text survives as part of the Greek manuscript tradition of the Hippocratic Corpus, transmitted alongside the major genuine works while being consistently treated as a minor and spurious addition. Its significance lies in illustrating the considerable diversity within the Hippocratic Corpus and the common ancient practice of pseudepigraphy in technical literature. The treatise provides valuable evidence for the mineral-based branch of ancient materia medica, demonstrating how magico-medical and talismanic beliefs coexisted with the more rationalist therapeutic traditions typically associated with Hippocratic medicine.
+
 ## Text
 
 ## ΕΡΜΗΝΕΙΑ ΠΕΡΙ ΕΝΕΡΓΩΝ ΛΙΘΩΝ. ΙΠΠΟΚΡΑΤΟΥΣ. Λίθος ὁ κουράλιο ς.

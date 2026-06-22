@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-aj` · [HTML page](https://eulogikon.org/works/appian-alexandria-from-royal-pdc-aj)
 
+From the Royal is a lost historical work by the Greek historian Appian of Alexandria, composed in the mid-2nd century CE. Written in Attic Greek prose, it existed as a separate collection distinct from his major Roman History. The work survives only in 31 fragments, preserved by later Byzantine scholars and excerptors such as Photius and the compilers under Emperor Constantine VII. These fragments indicate the work was a compilation of biographical sketches or anecdotes concerning kings, covering a diverse array of rulers from various eras and regions. Among the figures mentioned are Alexander the Great, the Seleucid king Antiochus III, Mithridates VI of Pontus, several rulers from Cyprus and Egypt, and the legendary Assyrian king Sardanapalus. Modern scholarship generally interprets From the Royal as an early project by Appian, likely conceived as a collection of moral and historical exempla on the theme of kingship for a Greek-speaking audience within the Roman Empire. The work reflects the literary tendencies of the Second Sophistic period, which frequently involved the curation and retelling of stories from the past. Despite its fragmentary state, the collection remains a valuable potential source for unique details about these historical figures.
+
 ## Text
 
 ### Bas 1 1

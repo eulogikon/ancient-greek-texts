@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-ac` · [HTML page](https://eulogikon.org/works/homer-life-jho-ac)
 
+The Life of Plutarch is a concise, anonymous biographical sketch of the philosopher Plutarch of Chaeronea. Preserved within the spurious late antique compilation known as the Lives of the Philosophers and Sophists, often attributed to Hesychius of Miletus, the text is an anecdotal summary rather than a detailed biography. It records Plutarch’s origin in Chaeronea, his Platonic education in Athens under Ammonius, and his priesthood at Delphi. The work also notes the honors granted to him by the emperors Trajan and Hadrian, the latter of whom is said to have erected a statue in his honor, and concludes with praise for his character and prolific literary output. Transmitted in its entirety as part of the Pseudo-Hesychian corpus, the standard critical edition is that of Jürgen Mau in the Bibliotheca Teubneriana. The biography’s primary significance lies in its witness to late antique biographical traditions about Plutarch, serving as a secondary source for his life, though it is far less detailed than lost contemporary accounts. The erroneous manuscript attribution of the containing corpus to the poet Homer is a curiosity without scholarly merit.
+
 ## Text
 
 ### 1

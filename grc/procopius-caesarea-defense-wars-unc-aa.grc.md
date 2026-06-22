@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `unc-aa` · [HTML page](https://eulogikon.org/works/procopius-caesarea-defense-wars-unc-aa)
 
+The Speeches in Defense of the Wars is a collection of 243 excerpts compiled from the original orations of the sixth-century Byzantine historian Procopius of Caesarea. The work was assembled centuries later, during the reign of the scholar-emperor Constantine VII in the tenth century. Written in an elevated Atticizing Greek, the compilation is not a continuous speech but a thematic selection of fragments defending the military campaigns of Emperor Justinian I. The excerpts praise the emperor and his general Belisarius, presenting the wars to reconquer lost western Roman territories as both a strategic necessity and a virtuous imperial duty.
+
+The full, original speeches from which these excerpts were drawn are now lost. They were preserved in a tenth-century manuscript under the thematic heading "On Virtue and Vice." Modern scholarship interprets the original orations as a form of political propaganda, likely intended to persuade the Roman Senate in Constantinople to support Justinian's expensive and protracted military endeavors. This public justification stands in stark contrast to the secret, vitriolic critique of the same emperor and his policies found in Procopius's clandestine work, the Secret History. The survival of this compilation underscores its enduring value to later Byzantine readers, who regarded it as a model of political rhetoric concerning statecraft, military virtue, and the responsibilities of imperial power.
+
 ## Text
 
 ### 1

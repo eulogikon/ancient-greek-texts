@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-ap` · [HTML page](https://eulogikon.org/works/menander-athens-papyrus-sentences-hps-ap)
 
+The Sentences from Papyrus is a collection of moralizing verses attributed to the Athenian comic playwright Menander. Composed in Attic Greek verse around the late fourth or early third century BCE, the work comprises thirty-one short maxims and couplets offering practical advice on life. Its themes are classic to the Hellenistic period, extolling the value of self-control, warning against the dangers of anger and greed, emphasizing the importance of good character, and counseling acceptance of fortune's changes. The work survives not as a complete play but as a collection of excerpts copied onto a single papyrus, reflecting a common contemporary practice where pithy, philosophical lines from popular authors were anthologized for moral instruction and general edification. This format underscores Menander's posthumous reputation as a source of accessible wisdom, with his words circulating independently from their original comic contexts for educational purposes. The collection was likely intended for a broad readership interested in practical philosophy rather than for an audience of the theater.
+
 ## Text
 
 ### unit_1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rty-aa` · [HTML page](https://eulogikon.org/works/panarces-riddles-paradoxical-encounters-rty-aa)
 
+The Riddles of Paradoxical Encounters, attributed to Panarces the Writer of Riddles, is a work of riddle poetry not attested in standard scholarly sources. Its Greek title, which generically means "Extracts" or "Fragments," suggests a collection of excerpted material, and it is described as consisting of nine poetic passages. The content comprises poetic riddles and paradoxes, exemplified by a surviving fragment that presents a logical puzzle involving a man who is and is not a man, who sees and does not see a bird that is and is not a bird, perched on wood that is and is not wood, and who hits and does not hit it with a stone that is and is not a stone. There is no record of this specific work's transmission or survival in the extant manuscript tradition, and its provenance is entirely undocumented. While the work and author remain unattested, the genre of griphoi, or riddles, holds a recognized place in Greek literary tradition, serving purposes of intellectual amusement and rhetorical exercise from the classical period onward.
+
 ## Text
 
 ### book a.1

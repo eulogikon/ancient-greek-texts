@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fci-aa` · [HTML page](https://eulogikon.org/works/hypereides-euxenippus-defense-fci-aa)
 
+The Defense for Euxenippus is a forensic oration composed by the Athenian logographer Hypereides, likely between 330 and 324 BCE. Written in Attic Greek, the speech was delivered in defense of a citizen named Euxenippus, who faced a public impeachment prosecuted by Polyeuctus. The case originated from a dispute over sacred land. Euxenippus, along with two others, had been formally appointed by the state to undergo dream incubation at the temple of Amphiaraus to receive an oracle concerning the land's status. Polyeuctus accused him of submitting a false report of the divine dream. In his defense, Hypereides argues that Euxenippus cannot be held legally accountable for the content of a dream he was officially commanded to seek, contending that the prosecution constitutes a malicious and politically motivated abuse of the judicial process.
+
+The speech survives only in fragments, preserved among 17 damaged passages on a papyrus roll discovered in Egypt containing portions of several works by Hypereides. Despite its incomplete state, the oration is regarded as a significant historical document. It offers insight into the intense political rivalries of late Classical Athens, demonstrating how legal mechanisms like impeachment could be weaponized in personal and factional conflicts. Furthermore, it provides a rare, concrete example of the Athenian state's practice of consulting oracles through ritual dream incubation at public sanctuaries. The work remains an important subject of study for understanding Athenian law, the techniques of forensic rhetoric, and the literary style of Hypereides, who was ranked among the canonical Ten Attic Orators.
+
 ## Text
 
 ### Philip t

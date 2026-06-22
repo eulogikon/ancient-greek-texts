@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-az` · [HTML page](https://eulogikon.org/works/philo-alexandria-numbers-arithmetic-lgi-az)
 
+On Numbers or Arithmetica is a philosophical treatise by Philo of Alexandria, a Jewish philosopher of the early 1st century CE. Written in Koine Greek, the work is not a mathematical text but a systematic exploration of arithmology, examining the symbolic and theological meanings of numbers as found within the Jewish scriptures. Philo interprets numbers, typically from one to ten, attributing to each specific cosmic, ethical, and divine significance. For example, the number one symbolizes the absolute unity of God, four represents the physical elements or the seasons, and seven is venerated as a symbol of perfection and sacred time.
+
+The treatise survives only fragmentarily; the original Greek text is largely lost. Knowledge of the work depends primarily on a 6th-century CE Armenian translation, from which modern scholarly editions are reconstructed. The surviving material is organized into 239 distinct passages. Composed as part of Philo's larger endeavor to harmonize Greek philosophy—notably Platonist and Stoic thought—with Jewish biblical tradition, the treatise aims to demonstrate that the Mosaic law contains profound philosophical truths accessible through allegorical exegesis. This symbolic treatment of numbers subsequently exerted considerable influence on early Christian theologians and later Neoplatonic thinkers.
+
 ## Text
 
 ### Arith 2

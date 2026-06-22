@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-al` · [HTML page](https://eulogikon.org/works/lysias-defense-overthrow-ejc-al)
 
+The Defense on a Charge of Subverting the Democracy is a forensic oration composed by the Attic orator Lysias for a client standing trial in Athens. Dating to the period between 403 and 380 BCE, the speech exists only in fragmentary form, preserved through 33 quotations by later ancient authors. The defendant faced the grave public charge of having participated in the overthrow of the democratic government by serving as a councillor during the oligarchic rule of the Thirty Tyrants in 404/3 BCE. Composed in the politically delicate atmosphere following the restoration of democracy and a general amnesty, the speech navigates the legal exception that allowed prosecutions for direct involvement in the oligarchy. The extant fragments reveal a defense strategy centered on the claim of acting under compulsion rather than voluntary collaboration, seeking to differentiate the client's minor administrative role from the violent crimes of the regime's leaders. As a historical document, the speech provides critical insight into the legal complexities and social tensions of post-civil war Athens, illustrating the practical application and limitations of the famed amnesty agreement.
+
 ## Text
 
 ### Or25 t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vae-aa` · [HTML page](https://eulogikon.org/works/john-malalas-antioch-chronicle-vae-aa)
 
+The Chronicle of John Malalas is a universal history composed in Koine Greek prose during the mid-6th century CE. Authored by a rhetorician from Antioch, it originally comprised 18 books, tracing a continuous narrative from the biblical Creation to the reign of the Byzantine Emperor Justinian I, concluding around 565 CE. The work synthesizes biblical stories, Hellenistic mythology, and Roman imperial history into a unified chronological framework, presenting a Christian perspective in which all past events culminate in the contemporary Christian Roman Empire. The later sections provide increasingly detailed accounts of contemporary affairs, particularly those in Antioch and Constantinople, offering a valuable viewpoint on the reigns of Justin I and Justinian I.
+
+The text survives in a fragmentary and complex manuscript tradition. Its primary witness is an 11th-century Greek codex that contains an abbreviated version of the original chronicle. Scholars must reconstruct much of the work, especially for the earlier periods, by utilizing material preserved in later Byzantine chronicles and a medieval Church Slavonic translation. The chronicle was likely written as an accessible historical narrative for a broad public audience. Modern scholarship regards it as an essential source for understanding 6th-century popular culture, local Antiochene traditions, and the vernacular historiography of the early Byzantine period.
+
 ## Text
 
 ### 3 (t)

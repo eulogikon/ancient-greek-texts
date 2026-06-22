@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mia-ad` · [HTML page](https://eulogikon.org/works/aristonicus-alexandria-tragic-dance-mia-ad)
 
+The work On the Origins of Tragic Dance by the grammarian Aristonicus of Alexandria survives only as a brief fragment, preserved within the later compilation of Athenaeus. Aristonicus, who is better known for his contributions to Homeric textual criticism and the exegesis of Aristarchean critical signs, here turns his scholarly attention to the history of performative practice. The fragment discusses the development of tragic dance, known as the emmeleia, tracing its lineage and that of related forms. It identifies the dancer Bathyllus of Alexandria as a key innovator, crediting him and Pylades with systematizing the Italian style of dance by synthesizing three earlier forms: the comic dance called the kordax, the tragic emmeleia, and the satyric dance known as the sikinnis, the latter purportedly invented by a barbarian or Cretan named Sikinnos. The excerpt further characterizes the contrasting styles of the two principal exponents, describing the dance of Pylades as weighty, emotional, and elaborate, while that of Bathyllus was more cheerful and included the composition of a kind of hyporcheme. This fragment, likely extracted from a larger, lost work by Aristonicus and transmitted through later scholarly or lexicographical tradition, illustrates the broader Alexandrian interest in the archaeology of cultural rituals. It provides valuable evidence for how ancient grammarians engaged with theater history beyond purely textual criticism, documenting the perceived evolution and technical vocabulary of dramatic performance.
+
 ## Text
 
 ### 1194 004.3c,633,F.1

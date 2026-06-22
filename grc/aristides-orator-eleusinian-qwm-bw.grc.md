@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bw` · [HTML page](https://eulogikon.org/works/aristides-orator-eleusinian-qwm-bw)
 
+The Eleusinian is a formal prose hymn composed in Attic Greek by the orator Aelius Aristides during the Roman Imperial period, circa 170–180 CE. A complete work in five parts, it belongs to the genre of epideictic oratory, serving as a ceremonial encomium honoring the goddess Demeter. The speech praises her two foundational gifts to humanity: agriculture, which established civilization, and the Eleusinian Mysteries, which promised initiates a blessed afterlife. The oration opens with the author questioning his own ability to adequately praise a sanctuary so universally revered, framing Eleusis as a sacred precinct belonging to all humanity and a site where ritual spectacle rivaled mythic narrative.
+
+Reflecting the cultural milieu of the Second Sophistic, a movement where educated elites reaffirmed Greek identity through classical language and tradition, the work is believed to have been delivered at a public festival. Its performance would have functioned simultaneously as an act of religious devotion and a display of the orator’s erudition and rhetorical skill. The text survives in full through medieval manuscript transmission, most significantly in the tenth-century codex Parisinus graecus 2951. As a major literary treatment of the Eleusinian Mysteries composed long after their classical zenith, it remains a valuable source for understanding the adaptation of ancient religious themes within the literary culture of the Roman Empire.
+
 ## Text
 
 ### [20]

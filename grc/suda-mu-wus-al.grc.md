@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-al` · [HTML page](https://eulogikon.org/works/suda-mu-wus-al)
 
+The mu section of the Suda contains 1,497 entries ranging from grammatical particles to technical vocabulary. Early entries address the oath-particle μά as used in Homer, distinguishing its affirmative from its negative constructions, and a cluster of entries on μαγγανεία and related forms explores the semantics of trickery, sorcery, and wonder-working, drawing on Procopius for illustrative quotations.
+
+The letter includes lexical material on musical instruments (μαγάς, the bridge of a kithara or lyre), naval terminology (μεταχειρίσαι, converting penteconters into triremes), and spatial vocabulary (μυχός, the innermost recess, with citations from Herodotus). Such diversity is typical of the Suda's composite method, blending glossography, literary quotation, and encyclopedic commentary.
+
+Researchers find the mu entries useful for tracking Byzantine reception of Herodotus and Procopius, for the history of Greek magical terminology, and for the transmission of Homeric exegesis. The tail entries on μυχθίζεις and μυχός illustrate the Suda's habit of grouping morphologically related words while drawing on epigram and historiography alike.
+
 ## Text
 
 ### μ 1

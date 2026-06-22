@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nck-aa` · [HTML page](https://eulogikon.org/works/strabo-amasia-chrestomathies-geography-nck-aa)
 
+The Chrestomathies from Strabo's Geographical Books is a Byzantine-era epitome, or condensed compilation, of Strabo's extensive seventeen-book Geographica. Structured as a collection of 1,667 excerpts, it was created to make the original work's vast geographical, historical, and ethnographical information more accessible for students and scholars, functioning as a practical handbook. The anonymous compiler condensed Strabo's text, focusing on core descriptions of physical and political geography from Iberia to India, along with selected notes on the customs of various peoples and illustrative historical anecdotes. In this process, much of Strabo's discursive criticism of earlier writers was omitted. This abridged version exists as a distinct textual tradition and was a crucial vehicle for transmitting Strabo's knowledge in the Byzantine world, helping to preserve Greek geographical learning. Such epitomes often contain variant readings that aid modern textual criticism of the complete work. During the Renaissance, the study of these compilations alongside recovered full manuscripts contributed significantly to the revival of classical geography in Western Europe.
+
 ## Text
 
 ### 1.1

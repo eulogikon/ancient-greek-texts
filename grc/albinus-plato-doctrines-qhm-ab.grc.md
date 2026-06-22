@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qhm-ab` · [HTML page](https://eulogikon.org/works/albinus-plato-doctrines-qhm-ab)
 
+The Didaskalikos, or Handbook of Plato’s Doctrines, is a philosophical treatise written in Greek by the Middle Platonist teacher Albinus around 150 CE. Designed as a textbook, it provides a systematic introduction to Plato’s core teachings, organized into three principal divisions: Logic, which concerns the theory of knowledge; Physics, encompassing theology and cosmology; and Ethics, dealing with virtue and the good life. Comprising 110 concise chapters, the work synthesizes ideas from key Platonic dialogues such as the Timaeus and the Republic into a coherent curriculum for students.
+
+The handbook survives in full through medieval manuscripts, the oldest of which dates from the 9th century. While some manuscript traditions attribute the work to a philosopher named Alcinous, modern scholarship generally regards this as a scribal error and identifies the author as Albinus, a known teacher of the period. The text is a characteristic product of the Middle Platonist movement during the Roman Imperial era, which sought to systematize Plato’s thought into a teachable body of doctrine, occasionally integrating concepts from Aristotle and the Stoics. It was likely composed to guide newcomers toward a more profound engagement with Plato’s own writings.
+
+As one of the most complete surviving examples of a Middle Platonist handbook, the Didaskalikos offers valuable insight into how Plato was studied and interpreted in late antiquity. It played a significant role in philosophical education and contributed to the development of later Neoplatonic thought.
+
 ## Text
 
 ### t 1

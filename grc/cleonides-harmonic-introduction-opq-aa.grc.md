@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `opq-aa` · [HTML page](https://eulogikon.org/works/cleonides-harmonic-introduction-opq-aa)
 
+The Harmonic Introduction is a concise Greek treatise on music theory attributed to Cleonides and generally dated to the 2nd century CE. Written as a systematic primer in Koine Greek, the work organizes the fundamental principles of ancient harmonic science into a logical sequence of seventeen sections. It opens by defining harmonics as the theoretical and practical science of melody, proceeding to methodically explicate core concepts including sound, interval, scale type, system, key, modulation, and composition. The text provides precise technical definitions, describing a sound as a single, fixed pitch of the voice and an interval as the space bounded by two sounds of different pitch. Its clear, pedagogical structure presents a distilled version of the sophisticated musical theories developed centuries earlier by Aristoxenus of Tarentum.
+
+The treatise survives intact through medieval manuscript transmission, though its authorship has been subject to historical confusion, with some manuscripts incorrectly attributing the work to the mathematician Euclid. Modern scholarship regards it as an independent compilation, valued for its didactic clarity in organizing complex Aristoxenian ideas into an accessible format for students. This systematic and lucid presentation secured the text's status as a standard reference work, ensuring its enduring influence on the study of music theory from late antiquity through the Renaissance.
+
 ## Text
 
 ### 1

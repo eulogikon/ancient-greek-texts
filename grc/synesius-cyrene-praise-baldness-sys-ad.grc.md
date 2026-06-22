@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sys-ad` · [HTML page](https://eulogikon.org/works/synesius-cyrene-praise-baldness-sys-ad)
 
+The Praise of Baldness is a rhetorical treatise by Synesius of Cyrene, the Neoplatonic philosopher and later Christian bishop who lived from approximately 370 to 413 CE. Composed in Attic Greek and structured in thirty sections, the work is a prime example of the paradoxical encomium, a sophistic exercise that employs serious rhetorical artistry to praise a subject conventionally deemed trivial or undesirable. Synesius’s treatise is a direct and systematic rebuttal to an earlier Praise of Hair, a work often attributed to Dio Chrysostom or the sophist Favorinus. Inverting the arguments of his predecessor, Synesius marshals evidence from mythology, citing bald heroes like Achilles, alongside philosophical authorities such as Plato and the Stoics, natural science, and quotidian observation to construct a witty and learned defense of the bald head. The treatise, believed to have been written early in his career around 400–405 CE, functions as a display of intellectual virtuosity for educated peers within the rhetorical culture of late antiquity. The complete text is preserved within the manuscript tradition of Synesius’s works and is available in modern critical editions and translations.
+
 ## Text
 
 ## ΦΑΛΑΚΡΑΣ ΕΓΚΩΜΙΟΝ Δίωνι τῷ χρυσῷ τὴν γλῶτταν ἐποιήθη βιβλίον, κόμης ἐγκώμιον, οὕτω δή τι λαμπρόν, ὡς ἀνάγκην εἶναι παρὰ τοῦ λόγου φαλακρὸν ἄνδρα αἰσχύνεσθαι.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qou-aa` · [HTML page](https://eulogikon.org/works/sextus-empiricus-against-mathematicians-qou-aa)
 
+Against the Mathematicians is a major philosophical treatise from the late second century CE, written in Greek by the physician and skeptic Sextus Empiricus. This large-scale work of Pyrrhonian Skepticism systematically argues against claims of certain knowledge across a broad range of intellectual disciplines. The work is structured in eleven books, with the first six, collectively titled Against the Professors, targeting specific arts or sciences: grammar, rhetoric, geometry, arithmetic, astrology, and music. The final five books, originally circulated under the separate title Against the Dogmatists, offer a more fundamental philosophical critique of the foundational principles of logic, physics, and ethics. The overarching aim of the entire project is to induce a suspension of judgment, which Sextus argues is the path to achieving tranquility.
+
+Composed during a period of intense debate between Hellenistic philosophical schools, the treatise stands as a comprehensive defense of Skepticism. It was written for an audience of philosophers and educated individuals to challenge the doctrines of dogmatic thinkers, particularly the Stoics and Epicureans, as well as the claims of technical experts. The text serves as a vital sourcebook, preserving many ancient arguments and positions that would otherwise be lost. The manuscript tradition is complex; while the complete text of Against the Dogmatists survives, substantial portions of Against the Professors are extant, though likely with some gaps in the text. Preserved through Byzantine copies, the work was largely unknown in Western Europe until the sixteenth century. Its rediscovery and subsequent translation then profoundly influenced Renaissance and early modern philosophy.
+
 ## Text
 
 ### [5]

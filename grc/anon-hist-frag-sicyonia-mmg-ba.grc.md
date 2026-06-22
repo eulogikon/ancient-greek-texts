@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ba` · [HTML page](https://eulogikon.org/works/anon-hist-frag-sicyonia-mmg-ba)
 
+The Record of Sicyonia is a lost work of ancient Greek local historiography, or horography, concerning the city of Sicyon in the northern Peloponnese. It survives only in two brief fragments, which are preserved not through direct manuscript transmission but as quotations within the works of later authors, notably Plutarch in his treatise On Music. These fragments are compiled in modern scholarly collections such as Die Fragmente der griechischen Historiker. The work was an anagraphē, a formal public record or chronicle, and its anonymous content likely encompassed Sicyonian foundation myths, the genealogies of early kings, the establishment of local cults and religious customs, and significant civic events. The surviving excerpts are of particular value for the history of Greek music, as they are cited as authorities on the origins of citharody and on the musician Sacadas of Argos, who is credited therein with inventing a three-part nomos employing the Dorian, Phrygian, and Lydian modes. Although the original text is lost, works of this nature were important sources for later antiquarians and travel writers like Pausanias, and its fragments remain crucial for modern scholarly reconstruction of Sicyon's local traditions, religious institutions, and cultural history.
+
 ## Text
 
 ### 3b,550,F 1

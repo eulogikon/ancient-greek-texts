@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-am` · [HTML page](https://eulogikon.org/works/erotica-anon-calligone-skw-am)
 
+Calligone is a lost ancient Greek erotic narrative known only from a single fragment preserved by the 2nd-century CE author Athenaeus in his Deipnosophistae. Athenaeus attributes the citation to the earlier Hellenistic philosopher Clearchus of Soli, who referenced the story in his own work On Proverbs. The surviving fragment identifies the titular Calligone as a courtesan, though no further plot details or characters are extant. Its classification as an erotic narrative places it within a broader literary tradition focused on themes of love and desire. The work survives solely as an embedded quotation within Athenaeus’s compendium, with no independent manuscript tradition; its transmission is entirely dependent on this chain of citation from Clearchus to Athenaeus. The fragment serves as a valuable data point for understanding the scope of Hellenistic erotic literature and its scholarly reception in later antiquity, exemplifying how such narratives were used as reference points in discussions of proverbs and cultural history.
+
 ## Text
 
 ### [40]

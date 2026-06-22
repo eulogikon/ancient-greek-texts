@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ay` · [HTML page](https://eulogikon.org/works/aristotle-interpretation-hgw-ay)
 
+On Interpretation is a treatise by Aristotle, composed in the mid-4th century BCE as the second work in his logical collection, the Organon. The text systematically examines the relationship between language, thought, and reality, with a primary focus on the nature of declarative statements, or propositions. Aristotle begins by establishing fundamental linguistic categories, defining the name and the verb as the basic significant components of speech. He then proceeds to analyze how affirmations and denials are constructed and how they relate to truth and falsehood, arguing that these logical qualities arise only through the combination or separation of terms in a proposition.
+
+A central and enduringly influential section of the work concerns the problem of future contingents. Aristotle explores the logical status of statements about singular future events, such as "There will be a sea-battle tomorrow." He argues that if such a proposition is already determinately true or false now, then the future event appears necessitated, challenging notions of chance and free will. His nuanced discussion aimed to preserve both the principle of bivalence—that every proposition must be true or false—and the reality of contingency in events yet to come.
+
+The treatise, comprising fourteen chapters, was designed as a pedagogical foundation for scientific and philosophical demonstration. Its analysis of logical opposition, later formalized by medieval logicians into the classic "square of opposition," became a cornerstone of formal logic for over two millennia. Translated into Latin by Boethius around 500 CE, On Interpretation served as a fundamental textbook throughout the Middle Ages in both the Latin West and the Byzantine East, exerting a profound and lasting influence on the development of Western philosophy, theology, and logical theory.
+
 ## Text
 
 ### Int 16a (t)

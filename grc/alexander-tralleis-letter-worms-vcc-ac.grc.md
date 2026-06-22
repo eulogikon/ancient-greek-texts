@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vcc-ac` · [HTML page](https://eulogikon.org/works/alexander-tralleis-letter-worms-vcc-ac)
 
+The Letter on Worms is a sixth-century CE medical treatise by the physician Alexander of Tralles. Structured as an epistle divided into fourteen sections, it offers a specialized guide to the diagnosis and treatment of intestinal worm infestations, a prevalent and dangerous ailment in antiquity. The work opens by chiding its recipient, a certain Theodorus, for providing insufficient detail about a patient's condition, emphasizing the need for a full clinical history. It then systematically outlines a tripartite classification of worms—small and thin, round, and flat—before detailing their associated symptoms. The subsequent therapeutic recommendations exemplify the syncretic nature of late antique medicine, combining rational, drug-based prescriptions utilizing herbs such as aloe, wormwood, and pomegranate with magico-religious remedies involving amulets and incantations. This synthesis reflects Alexander's integration of earlier Greek medical tradition, particularly Galenic theory, with his own extensive practical experience and contemporary folk practices. Likely composed for fellow practitioners or educated patrons, the treatise survives in its original Greek within Alexander's collected works. Its practical utility ensured a wide influence, with translations into Latin, Syriac, and Arabic facilitating the transmission of its knowledge into the medieval medical canon.
+
 ## Text
 
 ### 2.587.(t1)

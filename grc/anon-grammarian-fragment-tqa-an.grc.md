@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-an` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-an)
 
+The Grammatical Fragment is an anonymous Greek treatise on language preserved only as a single, incomplete passage. Its survival as an excerpt is typical of the many anonymous notes and pedagogical aids commonly found in manuscript margins or compiled in collections of scholia. The extant text systematically addresses core elements of Greek grammar, beginning with a discussion of grammatical gender. It defines and provides examples for the masculine, feminine, and neuter genders, as well as for common-gender and epicene nouns, the latter being those that have a single grammatical gender but can refer to either biological sex. The fragment then proceeds to enumerate the three grammatical numbers: singular, dual, and plural. As a didactic work, its content is fundamentally linguistic, focusing on the analysis of parts of speech, the rules for grammatical correctness, and the explanation of linguistic forms. While its specific manuscript provenance is unknown and its direct influence appears minimal, such fragments hold significant value for understanding the development and transmission of grammatical theory within the broader Greco-Roman scholarly tradition.
+
 ## Text
 
 ### 1

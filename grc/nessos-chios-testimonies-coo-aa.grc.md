@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `coo-aa` · [HTML page](https://eulogikon.org/works/nessos-chios-testimonies-coo-aa)
 
+Testimonies is a lost philosophical compilation attributed to Nessos of Chios. As a collection of testimonia, it would have functioned to preserve reports or quotations of philosophical doctrines by later authors. The work is recorded in modern scholarship as containing only two passages, though the specific philosophical figures or schools referenced within them remain unidentified, leaving its thematic content and organizational structure entirely unknown. It possesses no manuscript tradition and is unattested in standard ancient catalogs or biographical sources; its existence is noted solely in specialized modern reference works. The author, Nessos of Chios, is otherwise known only as a sculptor mentioned by Pausanias, with no ancient evidence linking him to philosophical writing. Consequently, the work holds minimal significance, surviving merely as a minor entry in modern efforts to systematically catalog all known sources from ancient philosophy.
+
 ## Text
 
 ### 1

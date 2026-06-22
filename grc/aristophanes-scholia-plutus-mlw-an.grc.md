@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-an` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-plutus-mlw-an)
 
+The Glosses-Plutus is a collection of ancient scholia, or explanatory notes, on Aristophanes' comedy Plutus. Attributed to the accumulated work of Hellenistic and Roman grammarians, this compilation of 1043 individual passages provides lexical, grammatical, and historical commentary on the play. As a scholarly commentary, the glosses primarily offer explanations of rare or obsolete Attic words, identify mythological and historical figures, analyze grammatical and syntactical usage specific to Attic comedy, and include notes on poetic meter and staging conventions. The scholia are preserved within the medieval manuscript tradition of Aristophanes' comedies, primarily found in Byzantine codices dating from the 10th century CE onward. This specific compilation likely derives from a larger, more comprehensive corpus of Aristophanic scholia, representing a focused set of lexical explanations. These glosses are of critical importance for the modern study of Old Comedy, as they preserve fragments of lost works, record significant textual variants, and offer essential insights for philologists and historians working to establish the authoritative text and interpret its cultural and linguistic context.
+
 ## Text
 
 ### book 1

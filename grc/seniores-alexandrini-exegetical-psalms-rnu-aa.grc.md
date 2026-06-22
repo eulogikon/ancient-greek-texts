@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rnu-aa` · [HTML page](https://eulogikon.org/works/seniores-alexandrini-exegetical-psalms-rnu-aa)
 
+The Exegetical Fragments on Psalms is a collection of eleven brief passages on the Psalms attributed to the Seniores Alexandrini, or Elders of Alexandria. Preserved solely within the Byzantine florilegium known as the Sacra Parallela, the fragments offer allegorical and spiritual interpretations characteristic of the Alexandrian exegetical tradition. They provide concise interpretive comments on specific psalms, emphasizing Christological readings, ascetic and moral instruction for Christian life, and theological reflection consistent with Alexandrian thought. The work survives exclusively as excerpts in the Sacra Parallela, a thematic anthology traditionally attributed to John of Damascus, with the standard critical edition appearing in the Die griechischen christlichen Schriftsteller series. Its inclusion in this major anthology indicates the fragments were valued as authoritative within later Byzantine monastic and theological circles, exemplifying the enduring influence of the Alexandrian school’s interpretive method on Eastern Christian biblical exegesis.
+
 ## Text
 
 ### 1 (t1)

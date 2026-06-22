@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-az` · [HTML page](https://eulogikon.org/works/porphyry-tyre-statues-udm-az)
 
+On Statues is a philosophical treatise by the Neoplatonist thinker Porphyry of Tyre, composed in Greek around the mid-260s CE. The work presents an allegorical interpretation of Greek religious iconography, seeking to explain the symbolic rationale behind the forms, attributes, and materials of the gods as represented in traditional cult statues. Porphyry contends that the ancient sculptors and theologians employed physical symbols not to depict the literal appearance of the divine, which is beyond human perception, but to encode representations of divine powers and cosmic principles. Through these material images—such as a scepter denoting sovereignty or multiple limbs signifying manifold activity—the initiated could be guided toward a philosophical understanding of the gods' true, incorporeal nature.
+
+The treatise survives only in a fragmentary state; the complete text is lost. What remains are thirteen excerpts preserved through citation by later authors, most notably the fifth-century philosopher Proclus and the sixth-century scholar John Lydus. This fragmentary preservation leaves the original structure and full scope of the work uncertain.
+
+Scholars generally situate On Statues within Porphyry's early efforts to defend and intellectually revitalize traditional pagan religion. It appears to have been addressed to an educated pagan audience and philosophical students, likely in Rome, providing an allegorical framework to justify religious art and practice at a time when they faced increasing criticism from Christian apologists and philosophical skeptics. By arguing that statues were symbolic texts meant to be "read" by the wise, Porphyry offered a sophisticated, intellectualized interpretation of polytheistic worship. The work was influential within later Neoplatonic circles for its methodological approach to decoding artistic symbols in order to reveal underlying theological and philosophical truths.
+
 ## Text
 
 ### 1

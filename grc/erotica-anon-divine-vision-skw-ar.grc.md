@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ar` · [HTML page](https://eulogikon.org/works/erotica-anon-divine-vision-skw-ar)
 
+Fragments on a Divine Vision is an unattested title within the canon of ancient Greek literature. No known manuscript tradition, authorial attribution, or scholarly record exists for a work by this name. The provided author designation, Erotic Narrative Anonymous, does not correspond to any recognized ancient literary figure or genre classification. The scant and damaged Greek text fragment associated with the title describes a scene of profound personal crisis, wherein a narrator recounts a terrifying vision of a god or divine figure emerging from darkness, bearing a mournful and dreadful serpent. The witness, seized with terror and lamenting past transgressions, tears his garments and approaches the apparition. The fragment breaks off amid themes of bodily suffering and feasting, suggesting a narrative context of ritual punishment or epiphany. Given the complete absence of this work from historical catalogs and its thematic divergence from standard erotic narrative forms, it is most plausibly a modern composition, a misattributed fragment from another unknown text, or an invented title.
+
 ## Text
 
 ### 1

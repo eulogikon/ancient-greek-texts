@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cks-aa` · [HTML page](https://eulogikon.org/works/antidotus-comic-healing-cks-aa)
 
+Fragments on Healing is a lost comedy by the ancient Greek poet Antidotus, known only by its title and a notice that it originally comprised seven passages. No direct quotations or descriptions of its plot survive. The title suggests the play offered a comic treatment of healing, a subject frequently satirized in Greek comedy, where it likely parodied contemporary medical practices or popular healing cults. Based on the conventions of the genre, the comedy probably featured satire of medical practitioners and their methods, humor derived from the failure of absurd remedies, and parody of miraculous cures and the social dynamics surrounding illness. The work survives in an extremely fragmentary state, preserved only as a title mentioned indirectly through a lost secondary source, such as a later ancient author, lexicographer, or commentator. While its specific content and influence remain untraceable, the play attests to the broad range of subjects treated in Greek comedy and contributes to the catalog of known comic poets, exemplifying the genre's engagement with contemporary professional and social themes.
+
 ## Text
 
 ### book 1

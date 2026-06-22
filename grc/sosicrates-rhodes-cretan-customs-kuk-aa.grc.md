@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kuk-aa` · [HTML page](https://eulogikon.org/works/sosicrates-rhodes-cretan-customs-kuk-aa)
 
+The Fragments on Cretan Customs is a lost Hellenistic ethnographic work by Sosicrates of Rhodes, preserved only through quotations in later authors. These fragments systematically detail the distinctive social and legal institutions of ancient Crete. The work described the political and legal structures of the Cretan city-states, along with key social customs such as the youth bands known as agelai, the practice of communal dining called syssitia, and rigorous military training. It also covered the island's ritualized pederastic traditions and their educational function, as well as formal educational systems and rites of passage to full citizenship. The compilation survives entirely through secondary citation, with the most substantial fragments transmitted by Strabo in his Geography and Diogenes Laërtius in his Lives and Opinions of Eminent Philosophers, among others. Sosicrates's work served as a principal source on Cretan society for later ancient writers and remains a critical, though fragmentary, resource for modern scholarship on Cretan law, social organization, and Hellenistic historiography.
+
 ## Text
 
 ### t2-9

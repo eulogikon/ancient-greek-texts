@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `msu-ab` · [HTML page](https://eulogikon.org/works/philodemus-of-gadara-rhetoric-msu-ab)
 
+On Rhetoric is a philosophical treatise by the Epicurean thinker Philodemus of Gadara, composed in Koine Greek during the 1st century BCE. The work presents a detailed critique of how other major philosophical schools, particularly the Stoics and Peripatetics, defined and valued the art of public speaking. Philodemus argues for a fundamental distinction between two types of rhetoric: he rejects "sophistic" rhetoric, which aims at persuasion for its own sake, but accepts a "philosophical" rhetoric as a useful technical skill when it serves the pursuit of truth and furthers the Epicurean goal of attaining a tranquil life.
+
+The text survives only in a fragmentary state on carbonized papyrus scrolls recovered from the Villa of the Papyri in Herculaneum, which were buried by the eruption of Mount Vesuvius in 79 CE. Of the original treatise, 151 columns or passages remain, though their sequence is often uncertain and scholarly reconstruction is ongoing. Modern interpretation views the work as crucial evidence for the intense Hellenistic debates concerning education and the role of speech within philosophy, and it was likely written for an audience of fellow philosophers and educated Roman patrons.
+
+Having been lost to history after its ancient burial, the treatise had no influence on the medieval or Renaissance rhetorical tradition. Its contemporary importance lies in the unique window it provides into Epicurean thought and the substantive arguments of their philosophical rivals during the late Roman Republic.
+
 ## Text
 
 ### 1.1

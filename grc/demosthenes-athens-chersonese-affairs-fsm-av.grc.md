@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-av` · [HTML page](https://eulogikon.org/works/demosthenes-athens-chersonese-affairs-fsm-av)
 
+On the Affairs in Chersonese is a deliberative oration delivered by the Athenian statesman Demosthenes to the citizen assembly around 341 BCE. The speech addresses an immediate crisis concerning the Thracian Chersonese, the modern Gallipoli peninsula, a strategically vital region that secured the grain supply route from the Black Sea to Athens. Demosthenes argues for urgent military and financial support for the Athenian general Diopeithes, who was operating in the area with an under-resourced force against the encroaching power of Philip II of Macedon. The orator frames Philip’s prolonged campaign in Thrace not as an isolated event but as a calculated step in a broader pattern of aggression aimed ultimately at Athens itself.
+
+Demosthenes structures his case by defending the often controversial and legally ambiguous actions of Diopeithes as necessary in the face of an existential threat, while vehemently rebutting the arguments of political opponents who counseled restraint and strict adherence to peacetime protocols. He portrays their caution as a dangerous failure to recognize the reality of Philip’s ambitions. The speech builds to a powerful call for decisive action, warning that hesitation would lead to the irreversible loss of Athenian influence and security. As a surviving document from the final years of Athenian independence, the oration is a critical artifact of the escalating conflict that culminated in the Battle of Chaeronea. It exemplifies Demosthenes’s relentless political rhetoric aimed at galvanizing Athenian resistance to Macedonian expansion, and its complete text is preserved within the corpus of his works transmitted through medieval manuscripts.
+
 ## Text
 
 ### Or8 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-ai` · [HTML page](https://eulogikon.org/works/aristophanes-athens-lost-plays-daw-ai)
 
+The Aristophanes' Lost Plays Catalogue is a modern scholarly compilation that aggregates the surviving fragments from the approximately twenty-nine lost comedies of Aristophanes, complementing his eleven extant complete works. These fragments are recovered from quotations in later authors and from papyrus discoveries. The themes inferred from the fragments and the titles of the lost plays align with Aristophanes' known corpus, including political and social satire of Athenian figures, parody of mythology and heroic archetypes, critique of contemporary poets and philosophers, humor derived from daily life and domestic situations, and the exploration of utopian or fantastical societal constructs. No full manuscripts of the lost plays exist. The fragments are preserved indirectly through quotations in later Greek and Roman authors such as Athenaeus, via papyrus scraps recovered from Egypt, and through ancient plot summaries known as hypotheseis. The standard modern edition for these texts is the Poetae Comici Graeci. These fragments are essential for understanding the full scope of Old Comedy, Aristophanes' artistic range, and Athenian theatrical culture beyond the surviving plays. They provide critical evidence for the development of the comic genre and for the social history of classical Athens.
+
 ## Text
 
 ### book 17

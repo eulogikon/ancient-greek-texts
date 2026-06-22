@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nyi-aa` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-medical-material-nyi-aa)
 
+On Medical Material, traditionally known by its Latin title De Materia Medica, is a pharmacological treatise composed in Greek by the physician Pedanius Dioscorides of Anazarbus around the middle of the first century CE. The work is a systematic and comprehensive guide to the medicinal properties of substances derived from the natural world. Organized into five books, it catalogs approximately six hundred plants along with remedies sourced from animals and minerals, detailing for each entry its physical description, methods of preparation, therapeutic applications, and appropriate dosages. Dioscorides structured his material not alphabetically but by the perceived physiological effects of the substances, grouping together plants with similar properties to create a practical reference for medical practitioners.
+
+The treatise reflects an empirical approach grounded in observation and direct experience, likely accumulated during Dioscorides's service as a physician with the Roman army, which afforded him wide travel and access to diverse materia medica. It sought to supersede earlier, more speculative herbals by providing a reliable, experience-based compendium. The text survives in its entirety and boasts an exceptionally rich and continuous transmission history. Copied, translated, and commented upon for over fifteen centuries, its oldest extant Greek manuscripts date from the fifth and sixth centuries. Its enduring authority established it as the preeminent work on pharmacy and medicinal botany in both the European and Islamic worlds until the scientific advancements of the Renaissance.
+
 ## Text
 
 ### 1 1

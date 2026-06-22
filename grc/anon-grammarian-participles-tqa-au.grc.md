@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-au` · [HTML page](https://eulogikon.org/works/anon-grammarian-participles-tqa-au)
 
+On Participles is a concise grammatical treatise by an anonymous Greek author, surviving as a single, fragmentary passage. The work provides a technical analysis of the participle, defining it as a part of speech that shares characteristics of both verbs and adjectives. It exemplifies the school-level grammatical tradition that developed from the Hellenistic period onward. The text focuses on the definition and classification of the participle, with its core theme being the hybrid nature of the form. It details how the participle inherits verbal properties, such as tense and voice, alongside adjectival properties, including case, number, and gender. The surviving passage illustrates this with specific morphological rules, discussing the formation of participles in various voices and genders, including the transformation of endings for masculine and neuter forms in the genitive case and the characteristic endings for feminine forms.
+
+The treatise survives as one brief passage, preserved through the manuscript tradition and now cataloged in digital repositories of ancient Greek texts. Its concise, schematic form suggests it functioned as a pedagogical excerpt or a compilation of standard grammatical doctrine. The work reflects the standardized grammatical framework that was fundamental to Greek and later Latin education. This technical material, transmitted through Byzantine scholarship, formed part of the bedrock of the medieval trivium and subsequently influenced the development of Western grammatical theory.
+
 ## Text
 
 ### 1

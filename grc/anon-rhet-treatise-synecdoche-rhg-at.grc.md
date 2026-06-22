@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-at` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-synecdoche-rhg-at)
 
+_On Synecdoche_ is a concise, anonymous Greek rhetorical treatise presented in the form of an oration. It offers a systematic technical exposition of the trope known as synecdoche, a figure of speech in which a part is used to signify a whole, a whole signifies a part, or a more general term stands for a specific one, as in the classic example of "sail" representing "ship." The work is preserved within the corpus of the Minor Attic Orators. The treatise is fundamentally a prescriptive scholarly manual, dedicated to defining, categorizing, and illustrating the various applications of this rhetorical device through examples drawn from classical literature. Its primary function is to instruct students in the correct identification and deployment of synecdoche. Transmitted complete within the anthology of the Minor Attic Orators, the text appears in modern editions such as the second volume of the Loeb Classical Library series, alongside orations by figures like Lycurgus and other anonymous works. As a specialized handbook, it represents a contribution to the extensive tradition of rhetorical technical literature that was studied throughout the Hellenistic, Roman, and Byzantine periods, and its survival attests to its perceived utility within the standard rhetorical curriculum.
+
 ## Text
 
 ### 8.691.(1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pby-aa` · [HTML page](https://eulogikon.org/works/diogenianus-fate-homer-pby-aa)
 
+The Fragments on Fate and Homer is a lost philosophical treatise by the second-century CE grammarian Diogenianus, known only through quotations preserved in the sixth-century works of the philosopher John Philoponus. Written in Attic Greek, the treatise engaged in contemporary debates concerning fate, or heimarmenē, by employing Homeric epic as a critical philological tool. The surviving excerpts reveal Diogenianus in direct contention with Stoic determinism, particularly the doctrines associated with Chrysippus which posited that all events are bound by an unbreakable chain of necessity. Diogenianus’s method was to marshal contradictory passages from the Iliad and Odyssey against the Stoic interpretation of Homer. He argued that verses suggesting human agency and responsibility for suffering, such as those blaming a person's own recklessness for their downfall, fundamentally opposed the idea of a universally predetermined fate. This approach exemplifies the broader practice in antiquity of using literary authority, especially that of Homer, to adjudicate philosophical disputes. The work’s fragmentary survival is owed entirely to its later utility; Philoponus excerpted these passages to bolster his own Christian arguments against pagan philosophical systems, thereby preserving a unique record of a grammarian’s intervention in Hellenistic debates on free will and necessity.
+
 ## Text
 
 ### 1

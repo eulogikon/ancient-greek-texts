@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `spw-ab` · [HTML page](https://eulogikon.org/works/theon-alexandria-commentary-ptolemy-syntax-spw-ab)
 
+The Commentary on Ptolemy's Mathematical Syntax I–IV is a scholarly treatise by Theon of Alexandria, composed around 364 CE. It provides a detailed, line-by-line exegesis of the first four books of Claudius Ptolemy's Almagest, the definitive astronomical textbook of antiquity. Structured as a series of 738 sections, the work systematically quotes passages from Ptolemy's text and then furnishes extensive clarification, supplementary calculations, and alternative geometric proofs. Its coverage encompasses the foundational mathematical and astronomical principles of the Almagest, including spherical trigonometry and the theories governing the motions of the sun and moon.
+
+Theon, a mathematician and teacher based in Alexandria, explicitly states that his purpose was pedagogical, intending to elucidate the more difficult aspects of Ptolemy's treatise for his students and fellow scholars. The complete text is preserved in Byzantine manuscripts dating from the ninth century onward. For over a millennium, it served as a standard companion to the Almagest, fundamentally shaping the transmission and study of Ptolemaic astronomy throughout late antiquity, the Byzantine Empire, and, via subsequent Arabic and Latin translations, the medieval Islamic and European worlds. Modern scholarship regards the commentary as an indispensable source for understanding both the pedagogical practices and the technical astronomical knowledge of the late ancient period.
+
 ## Text
 
 ### 317 (1t)

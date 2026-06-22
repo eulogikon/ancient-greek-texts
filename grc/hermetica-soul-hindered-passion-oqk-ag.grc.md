@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqk-ag` · [HTML page](https://eulogikon.org/works/hermetica-soul-hindered-passion-oqk-ag)
 
+On the Soul Hindered by the Body's Passion is a philosophical treatise from the Hermetic corpus, a collection of mystical writings attributed to the legendary Hellenistic sage Hermes Trismegistus. Composed in Koine Greek, most likely in Roman Egypt between the first and third centuries CE, the work takes the form of a didactic dialogue in which Hermes instructs his disciple Tat. Its central theme is the soul’s divine origin, its subsequent descent into a material body, and the impediments created by bodily passions, which foster ignorance and vice and effectively imprison the soul. The treatise concludes by describing a path of liberation achieved through spiritual knowledge and the cultivation of virtue, thereby enabling the soul to reunite with its divine source.
+
+The text survives not as an independent manuscript but as one of the numerous excerpts preserved within the Anthology compiled by John of Stobaeus in the fifth century. Transmitted in fifteen distinct passages, it is considered a complete unit within the anthology, though it represents only a fragment of the vastly larger and mostly lost body of Hermetic literature. Modern scholarship interprets this and similar Hermetic texts as products of religious syncretism, blending Platonic and Stoic philosophical concepts with themes of personal revelation and spiritual ascent, likely intended for small, dedicated circles of seekers. The recovery and translation of such Hermetic works during the Renaissance exerted a profound influence on the development of Western esoteric and philosophical thought.
+
 ## Text
 
 ## Περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος ἐμποδιζομένης ψυχῆς Τοῖς τῆς παμμούσου μελῳδίας τὴν ἁρμονίαν ἐπαγγελλομένοις, εἰ κατὰ τὴν ἐπίδειξιν ἐμποδών τι τῇ προθυμίᾳ γένηται ἡ τῶν ὀργάνων ἀναρμοστία, καταγέλαστον τὸ ἐπιχείρημα.

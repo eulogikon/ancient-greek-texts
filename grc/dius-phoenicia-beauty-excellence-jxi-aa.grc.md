@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jxi-aa` · [HTML page](https://eulogikon.org/works/dius-phoenicia-beauty-excellence-jxi-aa)
 
+On Beauty and Human Excellence is a lost philosophical treatise attributed to Dius, a historian of Phoenicia known only from citations by the Jewish historian Josephus in the 1st century CE. While Josephus references Dius as a source for Phoenician and Israelite royal history, there is no independent record of Dius authoring any philosophical works. The treatise is absent from all major catalogs of ancient Greek literature and fragments, and no manuscript tradition or direct quotations from it survive. The attribution of a work on beauty and human excellence to a figure documented solely as a historian remains unverified and appears inconsistent with his known literary output. Consequently, Dius’s historical significance rests entirely on his value as a source for Phoenician history utilized by Josephus, with the philosophical treatise representing an unattested and likely spurious attribution.
+
 ## Text
 
 ### 70 (6t)

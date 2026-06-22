@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bb` · [HTML page](https://eulogikon.org/works/themistius-consular-jovian-rye-bb)
 
+The Consular to Emperor Jovian is a panegyric oration composed and delivered by the philosopher and statesman Themistius in late 364 CE. Presented in Attic Greek before Emperor Jovian in Ancyra to honor his consulship, the complete thirty-part speech functions as a sophisticated instrument of political legitimization. Its primary aim was to secure the authority of Jovian, whose accession was both recent and precarious following the sudden death of his predecessor, the pagan emperor Julian. Themistius constructs a narrative of divine and military sanction, portraying Jovian as a ruler selected by providence and the army’s acclamation, thereby anchoring his contested position in a framework of accepted legitimacy.
+
+Beyond mere praise, the oration offers substantive political counsel, advancing the ideal of the moderate, philosophically virtuous sovereign. A central and delicate rhetorical challenge involves justifying Jovian’s controversial peace treaty with Sassanian Persia, which ceded significant territory and was viewed by many as a humiliating concession. Themistius reframes this act not as a failure but as a prudent and humane decision that preserved the Roman state and its armies from destruction, emphasizing strategic wisdom over martial pride. Scholars regard the speech as a critical document of late Roman political ideology, advocating for a return to religious tolerance after Julian’s attempted pagan revival and reinforcing the vital partnership between the emperor and the traditional senatorial aristocracy. Preserved intact in medieval manuscripts, the oration provides crucial insight into the enduring application of classical Greek rhetoric and philosophical concepts to advise and stabilize Christian Roman rule during a period of profound transition.
+
 ## Text
 
 ### t 1

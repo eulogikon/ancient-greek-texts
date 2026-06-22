@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lue-ad` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-asia-egypt-fragments-lue-ad)
 
+The Fragments on Asia and Egypt constitutes a modern scholarly compilation of thirty-three excerpts derived from the lost geographical treatises of Agatharchides of Cnidus, a Greek historian and geographer active in the second century BCE. A resident of Ptolemaic Alexandria, Agatharchides authored two major works, On the Erythraean Sea and On Asia, which provided comprehensive descriptions of the lands bordering the Red Sea, the Persian Gulf, Arabia, and Egypt. Written in Koine Greek, his original texts blended geography with detailed ethnography and natural history, recording observations on local customs, exotic fauna, mining operations, and commercial trade routes. Modern interpretation views these works as products of the Ptolemaic kingdom's economic interests in exploration and as exemplars of the broader Hellenistic intellectual fascination with the periphery of the known world.
+
+No complete manuscript of Agatharchides' writings survives. Their content is preserved only in fragmentary quotations by later authors, most notably within Athenaeus's Deipnosophistae from around 200 CE and the ninth-century Bibliotheca of Photius. These later sources transmit scattered passages that, while incomplete, offer invaluable insight into his methods and the scope of his research. Despite their fragmentary state, Agatharchides' works were highly regarded in antiquity and served as a principal source for subsequent geographers, including Strabo and Pliny the Elder, thereby shaping the classical world's understanding of the eastern Mediterranean and the Red Sea region.
+
 ## Text
 
 ### 2a,86,F 1

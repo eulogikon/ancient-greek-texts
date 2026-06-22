@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-ae` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-alanic-history-pcs-ae)
 
+The Alanic History by Arrian of Nicomedia is a lost work, surviving only through a single fragment preserved in the tenth-century Byzantine encyclopedia known as the Suda. This fragment cites Arrian's text as the source for the definition of the military term apospasmata, referring to detachments separated from a main phalanx. The citation indicates the work dealt with military tactics, likely within the context of Roman conflicts with the nomadic Alans, a people Arrian confronted during his tenure as governor of Cappadocia in 135 CE. The content presumably included analysis of specialized formations, ethnographic descriptions of Alanic society and warfare, and examinations of frontier combat against nomadic cavalry armies. The work is attested solely by its title and this lexical quotation in the Suda; no manuscript survives, and no other direct quotations are known from extant ancient sources. While its direct influence remains untraceable due to its loss, the Alanic History illustrates the breadth of Arrian's literary output, complementing his surviving tactical works such as the Array against the Alans. The preserved fragment confirms the text was accessed by Byzantine scholars and contributed a specific technical term to their military lexicon.
+
 ## Text
 
 ### 1

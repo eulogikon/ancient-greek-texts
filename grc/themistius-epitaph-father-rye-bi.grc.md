@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bi` · [HTML page](https://eulogikon.org/works/themistius-epitaph-father-rye-bi)
 
+The Funeral Oration for His Father is a prose oration composed and delivered by the philosopher and statesman Themistius in Constantinople around 355 CE. A complete example of a classical funeral speech, it is written in Attic Greek and honors Themistius’s father, Eugenius, who was himself a philosopher. While fundamentally a personal eulogy, the work functions equally as a public defense of the philosophical life, presenting Eugenius as the ideal philosopher whose virtues and teachings constituted a profound civic benefit. Delivered during the reign of Emperor Constantius II, a period when Themistius was actively advocating for the integration of Greek philosophy within the Roman imperial court, the oration is a multifaceted performance. It serves as an act of filial piety, a showcase of rhetorical prowess, and a political argument for the indispensable role of philosophers as advisors to sovereigns. The speech artfully merges personal lament with philosophical consolation, proposing that a virtuous soul attains a form of immortality through its enduring reputation and legacy. Preserved in full within the Byzantine manuscript tradition of Themistius’s orations, it remains a crucial document for understanding the public persona and political function of philosophers in late antiquity.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mty-aa` · [HTML page](https://eulogikon.org/works/athenodorus-tarsus-historical-figures-mty-aa)
 
+On Tarsus and Historical Figures is a lost treatise by the Stoic philosopher Athenodorus Cordylion of Tarsus. The work is known only through scattered references in later authors, which indicate it was a multi-faceted text combining local history, mythology, and biographical commentary. One section, referenced by the geographer Stephanus of Byzantium, dealt with the foundation myths of Tarsus and its surrounding region. In it, Athenodorus recounted the legendary genealogy tracing the city's origins to the mythological figures Anchiale, daughter of Iapetus, and her descendants Cydnus and Parthenius, from whom local rivers and an early name for the city were derived. He supported his account by citing the agreement of earlier authorities, the grammarian Diodorus and King Ptolemy.
+
+Another part of the work, cited by Plutarch, contained historical or biographical notes on Roman figures. In this section, Athenodorus offered an alternative etymology for the cognomen Scaevola, applied to the legendary hero Gaius Mucius, suggesting it originated from a name meaning "Left-handed" or "Ambidextrous." A further fragment, preserved by Strabo, recounts the philosopher's personal travels and observations. He describes visiting the Nabataean city of Petra and provides a firsthand account of its political structure, noting it was ruled by a king from a royal lineage who governed with the aid of a chief minister titled "brother," and he remarked on the city's good order. The treatise thus represents a blend of antiquarian scholarship, critical engagement with historical tradition, and personal ethnography, reflecting the broad intellectual interests of its Stoic author.
+
 ## Text
 
 ## ΠΕΡΙ ΤΑΡΣΟΥ ΠΑΤΡΙΔΟΣ. Steph.

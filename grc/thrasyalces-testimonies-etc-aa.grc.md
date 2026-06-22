@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `etc-aa` · [HTML page](https://eulogikon.org/works/thrasyalces-testimonies-etc-aa)
 
+The Testimonies is a lost work attributed to Thrasyalces the Sophist, known only by its title and the indication that it originally comprised two passages. No description of its specific content, arguments, or structure survives in the extant source record. The work appears to be preserved solely as a bibliographic mention, with no direct fragments or substantive details transmitted. The attribution itself is historically problematic, as the figure named Thrasyalces is otherwise attested in ancient sources not as a Sophist but as a renowned seer from Elis, noted by Herodotus in the context of the Battle of Plataea and by Pausanias as a famous prophet and founder of the Iamidai lineage. No independent evidence confirms the existence of a Sophist by this name or verifies the work's place in the Sophistic corpus, rendering the Testimonies an obscure and unverified entry in the history of ancient Greek literature.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mxk-aa` · [HTML page](https://eulogikon.org/works/pseudo-archytas-ten-categories-mxk-aa)
 
+On the Ten Universal Categories is a pseudepigraphical Neopythagorean treatise falsely attributed to the philosopher Archytas of Tarentum. Composed between the 1st century BCE and the 1st century CE, the work systematically presents the ten highest genera of being: Substance, Quantity, Quality, Relation, Place, Time, Position, State, Action, and Passion. Its 44 passages provide a comprehensive ontological framework, analyzing reality through these fundamental predicates. The treatise defines and explores the interrelations of its ten universal categories, arguing for the ontological priority of Substance, upon which all other categories depend. The text represents a core Neopythagorean effort to appropriate Aristotelian metaphysical concepts and present them as original Pythagorean doctrine. The complete text survives within the corpus of pseudepigraphical Pythagorean writings, with its preservation aided by inclusion in late antique anthologies. Accepted as genuine for centuries, the work profoundly influenced later philosophy. The Neoplatonist Porphyry cited it as an Archytan authority in his Isagoge, embedding its categorical scheme into the Aristotelian tradition. Through this conduit, the tenfold system became a foundational element of medieval logic and metaphysics in the Latin, Byzantine, and Arabic intellectual worlds.
+
 ## Text
 
 ### 3 (9t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sma-ad` · [HTML page](https://eulogikon.org/works/eutecnius-paraphrast-theriaca-sma-ad)
 
+The Paraphrase of Nicander's Theriaca by Eutecnius the Paraphrast is a prose rendering of the Hellenistic didactic poem of the same name by Nicander of Colophon. Composed around the second century BCE, Nicander's original work is a technically complex verse treatise on venomous animals and their antidotes. Eutecnius’s paraphrase transforms this challenging poetic material into clearer, more accessible prose, exemplifying a common Byzantine scholarly practice aimed at making archaic or specialized texts usable for education and practical application. The work systematically covers the subjects of Nicander’s poem across fifty-one sections, detailing the nature of venoms and their remedies, providing descriptive zoology of creatures such as snakes, spiders, and scorpions, and listing pharmacological recipes for medicinal compounds derived from plants and other substances. It survives within the manuscript tradition of Nicander’s corpus, likely transmitted in pharmacological codices alongside related technical texts. As a key conduit for transmitting Hellenistic scientific knowledge into the Byzantine era, Eutecnius’s paraphrase helped preserve the Theriaca’s utility as a reference work in toxicology and pharmacology, underscoring the enduring pedagogical value placed on such technical literature.
+
 ## Text
 
 ### 19 (1t)

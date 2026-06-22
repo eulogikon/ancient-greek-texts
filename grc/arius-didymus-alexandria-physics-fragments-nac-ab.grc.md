@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nac-ab` · [HTML page](https://eulogikon.org/works/arius-didymus-alexandria-physics-fragments-nac-ab)
 
+The Physics, Fragments is a collection of philosophical summaries attributed to Arius Didymus, a Stoic philosopher and advisor to Emperor Augustus in the late 1st century BCE. This Greek work is a doxography, a systematic compilation of the opinions of earlier philosophers on topics concerning the natural world. It covers subjects such as cosmology, the nature of the soul, meteorology, and physiology, presenting comparative summaries of major schools of thought, with particular emphasis on the Stoics and the Peripatetics, the followers of Aristotle. The work survives only in fragments, known entirely through 43 excerpts preserved within the much later anthology compiled by John Stobaeus in the 6th century CE. There is no independent manuscript tradition. Modern scholarship interprets the collection as a handbook or reference guide, likely created to serve the Roman elite's growing interest in Greek philosophy. It is considered a crucial source for reconstructing Hellenistic doctrines, especially Stoic physics, given the loss of many original texts from that period. While Stobaeus attributes the material to Arius Didymus, some scholarly debate exists regarding the unity of the compilation and whether all the fragments derive from a single original work.
+
 ## Text
 
 ## ΕΚ ΤΩΝ ΑΡΕΙΟΥ ΔΙΔΥΜΟΥ ΕΠΙΤΟΜΗΣ ΦΥΣΙΚΩΝ

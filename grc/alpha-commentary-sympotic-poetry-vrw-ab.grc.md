@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vrw-ab` · [HTML page](https://eulogikon.org/works/alpha-commentary-sympotic-poetry-vrw-ab)
 
+Overview The Sympotic Poetry Fragments by Alphabetical Commentary (Συμποτικῆς Ποιήσεως Ἀποσπάσματα) is a lost or fragmentary grammatical treatise. Its title indicates it was a scholarly compilation, organizing and explicating fragments of classical Greek lyric poetry associated with the symposium in alphabetical order.
+
+Content The work’s three surviving passages suggest it functioned as a reference text, likely covering:
+
+Lexical and grammatical commentary on sympotic poetry fragments.
+
+Explication of mythological, historical, or cultural references within the fragments.
+
+Preservation of otherwise lost poetic lines from authors like Alcaeus, Anacreon, or Theognis.
+
+Transmission No direct manuscript tradition is documented. The work is known only from secondary metadata, indicating it was a product of late antique or Byzantine scholarly activity focused on preserving classical texts.
+
+Significance This commentary represents the grammatical and lexicographical tradition that was crucial for transmitting fragments of Greek lyric poetry. It provides indirect evidence for the study and canonization of sympotic literature in later antiquity.
+
 ## Text
 
 ### 1

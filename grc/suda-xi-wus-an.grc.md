@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-an` · [HTML page](https://eulogikon.org/works/suda-xi-wus-an)
 
+The 171 entries under Ξ in the Suda range across everyday vocabulary, institutional terminology, and literary quotation. Early lemmas cluster around the root ξανθ-, addressing colour terms such as ξανθήν (reddish-yellow), culinary browning (ξανθίζετε), and hair-grooming, as well as ξανᾶν, defined as the hand-fatigue women suffer from continuous wool-working.
+
+The mid-section moves into Attic orthographic and grammatical discussion, illustrated with quotations from Aristophanes' Πλοῦτος (ξυγγέωργος) and a passage on the oligarchic commissioners (ξυγγραφεῖς) drawn from Thucydides. The entry ξυγγνώμη πρῶτον πείρῳ preserves a proverbial phrase glossed as applying to first-time offenders.
+
+Later entries cover material culture and architecture: ξυστίς denotes a full-length woman's garment or tragic costume, while ξυστόν encompasses both a light javelin and the covered running-track where athletes trained, the latter illustrated with a passage from Arrian. The letter is useful for lexical history of textile terminology, Macedonian calendar names, and Attic political vocabulary.
+
 ## Text
 
 ### ξ 1

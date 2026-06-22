@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-al` · [HTML page](https://eulogikon.org/works/aristotle-sleep-wakefulness-hgw-al)
 
+On Sleep and Wakefulness is a scientific treatise by Aristotle, composed in the mid-4th century BCE. It belongs to his series of investigations on the phenomena of life known collectively as the Parva Naturalia. In this concise work, Aristotle undertakes a systematic inquiry into the nature, causes, and purpose of sleep and wakefulness. He defines sleep as a state of immobilization affecting the primary sensory organ, which he locates in the region of the heart. This condition, he argues, is induced by the physiological processes of digestion, which generate vaporous heat that ascends and temporarily overwhelms the sensory faculty. Consequently, Aristotle posits that sleep is a necessary state for all animals possessing the sense of touch. The treatise also explores related phenomena, including the occurrence and potential causes of dreams, questioning whether they can ever be prophetic. The complete text, conventionally divided into three chapters, survives through the medieval manuscript tradition.
+
+Likely intended for use within Aristotle's school, the Lyceum, the treatise exemplifies his empirical method, drawing upon biological observation to explain the interaction between the physical body and the faculties of the soul. Modern scholarship regards it as a foundational application of Aristotle's hylomorphic theory, which understands living beings as a compound of matter and form, or body and soul. The analysis proceeds according to his system of four causes, ultimately presenting sleep not as a mere negation of wakefulness but as a purposeful state with a final cause: the preservation of the animal's life by providing essential rest for recuperation. The work proved highly influential, translated into Arabic and later Latin, and it shaped scientific and philosophical theories of sleep from antiquity through the Middle Ages.
+
 ## Text
 
 ### SomnVig 453b (t)

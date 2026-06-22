@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ad` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-hecale-vmw-ad)
 
+Overview The Narratives-Hecale Ancient Scholia (Διηγήσεις Ἑκάλης Ἀρχαῖα Σχόλια) are ancient explanatory notes on Callimachus’s fragmentary hexameter poem Hecale. As scholia, they comprise a commentary containing glosses, mythological explanations, and interpretive notes compiled from earlier Hellenistic and Roman scholarship. This specific set appears to focus on providing narrative summaries (διηγήσεις) for parts of the poem, with the extant material consisting of two passages.
+
+Content The scholia address several exegetical topics:
+
+Textual explanation of rare words and grammatical constructions.
+
+Exposition of mythological references within the Hecale.
+
+Prose paraphrases or narrative summaries of the poetic text.
+
+Transmission The scholia are transmitted within the medieval manuscript tradition of Callimachus’s works, notably in manuscripts such as the 11th-century codex Laurentianus (Florence, Biblioteca Medicea Laurenziana, Pluteus 28.32). They survive as prose commentary interspersed with the fragmentary verses of the Hecale, which itself is preserved primarily through such scholia and quotations in later authors.
+
+Significance These scholia are a crucial philological source for reconstructing the lost text of Callimachus’s Hecale and for understanding ancient scholarly reception of Hellenistic poetry. They preserve otherwise unknown fragments and reflect the methods of the Alexandrian grammatical tradition, indirectly shaping later European literary culture through their transmission of Callimachean poetics.
+
 ## Text
 
 ### 230 col10 (18)

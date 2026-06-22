@@ -20,6 +20,18 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vtu-ae` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-names-of-lawsuits-vtu-ae)
 
+Overview The Δικῶν ὀνόματα (Names of Lawsuits) is a short, anonymous Greek glossary consisting of 29 entries. Each entry provides the name of a specific type of lawsuit or legal action, such as δίκη φόνου (murder) or δίκη βλάβης (damage), often accompanied by a brief definition. The text is preserved solely in the 10th/11th-century Codex Parisinus suppl. gr. 676, a manuscript containing a collection of grammatical and lexicographical works.
+
+Content
+
+Legal Terminology: The work systematically defines precise terms for lawsuits from ancient Greek law.
+
+Scholarly Lexicography: It functions as a practical reference tool, exemplifying the Byzantine effort to catalog and explain classical vocabulary.
+
+Transmission The text survives complete within the single Codex Parisinus suppl. gr. 676. It has been published in modern critical editions of minor grammatical works and appears alongside similar anonymous glossaries, indicating its use as a standard scholarly reference.
+
+Significance While its direct influence is untraceable, the glossary is a valuable source for historians of Greek law and for studying the Byzantine reception of classical institutions. It reveals which legal terms were considered obscure and how later scholars interpreted them.
+
 ## Text
 
 ### t 181

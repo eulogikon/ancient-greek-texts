@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mui-ab` · [HTML page](https://eulogikon.org/works/dionysius-thrace-homeric-pronunciation-mui-ab)
 
+The Fragments on Homeric Pronunciation is a collection of philological notes attributed to the Hellenistic grammarian Dionysius Thrax. Preserved exclusively through quotations in later sources, these sixty-one fragments apply the grammatical principles outlined in his seminal work, the Tekhnē Grammatikē, to specific questions concerning the oral performance of the Homeric epics. The fragments systematically address issues of pronunciation, accentuation, and prosody, focusing on the role of syllable quantity within the Homeric hexameter, the rules governing pitch accents, and phonological peculiarities of the epic dialect. This technical analysis was often employed as a criterion for textual criticism, adjudicating between variant readings based on their conformity to established rules of spoken delivery. The work survives through citations in later ancient and Byzantine grammarians and scholiasts, most notably within the Homeric scholia and the writings of Herodian. As a product of the Alexandrian scholarly tradition, these fragments were instrumental in standardizing the teaching and recitation of Homeric poetry, providing a foundational technical framework that influenced grammatical science and Homeric commentary for centuries.
+
 ## Text
 
 ### [1]

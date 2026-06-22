@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-ak` · [HTML page](https://eulogikon.org/works/med-writers-anon-difference-fevers-umi-ak)
 
+_On the Difference of Fevers_ is an anonymous Greek medical treatise, a spurious work traditionally but incorrectly included among the writings of Galen. The text systematically addresses the classification and differentiation of fever types, a fundamental concern in ancient medical practice. It focuses on the systematic classification of fevers, the diagnostic differentiation of febrile symptoms, and the medical terminology related to fever typology. Preserved within the Galenic corpus, the text is found in the standard Kühn edition of Galen’s works as a work of doubtful authenticity. While its direct influence is untraceable, the work exemplifies the post-classical effort to systematize Hippocratic and later medical knowledge. Its transmission as part of the Galenic corpus ensured its preservation, contributing to the continuity of Greco-Roman medical concepts into later traditions.
+
 ## Text
 
 ### 601

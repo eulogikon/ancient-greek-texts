@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `evu-aa` · [HTML page](https://eulogikon.org/works/straton-comicus-pretentious-dinner-guest-evu-aa)
 
+_The Pretentious Dinner Guest_ is a fragmentary comedy by the Athenian poet Straton Comicus, a playwright of the Middle Comedy period. The work survives only in twenty-four separate passages, primarily preserved within the culinary and literary compilation _Deipnosophistae_ by Athenaeus. As suggested by its conventional English title, the play satirizes the figure of the ostentatious and parasitic dinner guest, a common scenario in the comic tradition. The extant fragments depict a host bewildered by a guest who employs absurdly pretentious and archaic vocabulary, referring to fellow diners as "Meropes" and "Dai tymones," and inquiring about sacrificial rituals in grandiose terms, all while the host insists on serving simple fare like a lamb. This scenario typifies the Middle Comedy's shift toward generalized social satire, focusing on themes of hypocrisy, flattery, gourmandise, and the anxieties of social climbing within the context of private hospitality. While Straton's direct influence is untraceable due to the fragmentary state of his work, such comedies contributed to the development of the stock characters and domestic situations that would become central to New Comedy and, later, Roman comedy. The fragments collectively offer a valuable glimpse into the thematic concerns and comic style of the often poorly attested Middle Comic period.
+
 ## Text
 
 ### book 1.1

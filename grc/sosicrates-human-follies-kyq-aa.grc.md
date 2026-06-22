@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kyq-aa` · [HTML page](https://eulogikon.org/works/sosicrates-human-follies-kyq-aa)
 
+The comedic work Fragments on Human Follies by Sosicrates the Comic Poet is known only by its title and the report that it consisted of fifteen passages. No direct quotations from the text survive. The title indicates a satirical focus on human foolishness, a staple theme of ancient comedy. The term "fragments" within the title itself is unusual and may suggest the work was composed of episodic pieces or was excerpted from a larger composition. The work is entirely lost, and its existence is attested only by a single entry in the 10th-century Byzantine encyclopedia, the Suda, which lists it among Sosicrates’s works. No ancient or medieval author cites any content from it. With no preserved text, the work’s direct literary influence is untraceable. Its primary significance lies as a bibliographic record of the otherwise obscure comic poet Sosicrates, confirming his activity within the broader tradition of Greek comedic satire.
+
 ## Text
 
 ### book 1.1

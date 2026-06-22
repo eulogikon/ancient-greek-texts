@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-au` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-on-fire-ljk-au)
 
+On Fire is a scientific treatise by the ancient Greek philosopher Theophrastus, composed in the late fourth or early third century BCE. As the successor to Aristotle and head of the Peripatetic school, Theophrastus wrote this work as part of a systematic investigation into natural phenomena. The treatise methodically examines fire as a fundamental element, distinguishing it from air, water, and earth by its unique capacity to generate and destroy itself. It analyzes the nature of fire through a series of concise passages, exploring its generation—often described as occurring through violent means such as friction, compression, or atmospheric disturbances—along with its colors, extinction, and behavior.
+
+A significant portion of the work is devoted to the classification of combustible materials, extending beyond common fuels like wood charcoal to include various minerals such as sulfur and bitumen, all categorized under the ancient concept of "coals." The text survives in full through medieval manuscripts and represents an empirical expansion of Aristotelian natural philosophy. It is considered a practical, observational catalog intended for use within the Lyceum, aiming to document and explain specific, often enigmatic fiery phenomena observed in the terrestrial and subterranean realms. The treatise reflects an early scientific engagement with chemistry and practical knowledge, emphasizing fire's distinctive properties and its numerous modes of generation.
+
 ## Text
 
 ### Ign t

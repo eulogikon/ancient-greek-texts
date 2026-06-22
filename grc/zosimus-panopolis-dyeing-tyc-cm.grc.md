@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-cm` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-dyeing-tyc-cm)
 
+On Dyeing is a technical treatise on alchemy composed in Greek by Zosimus of Panopolis around 300 CE. The work details procedures for dyeing and coloring metals, a core alchemical practice in Greco-Egyptian tradition that represented the transmutation of base metals into noble ones such as gold. Structured in two passages, the text provides specific recipes for creating transformative tinctures. Modern scholarship interprets these practical craft instructions as deeply intertwined with contemporary religious and philosophical concepts, wherein the physical change in a metal's color symbolized the purification and spiritual resurrection of matter. Zosimus wrote within a context where empirical knowledge from metallurgy and textile dyeing merged with mystical speculation, and the treatise was likely intended for fellow practitioners. His works survive only in fragments, preserved through later Byzantine Greek manuscripts where his texts were copied and compiled into larger alchemical anthologies. On Dyeing is known from this transmission tradition, its two constituent passages found within these medieval collections.
+
 ## Text
 
 ### 2.208

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyq-ac` · [HTML page](https://eulogikon.org/works/romanos-melodist-genuine-songs-uyq-ac)
 
+The Genuine Songs is the modern scholarly designation for the authentic corpus of hymns composed by Romanos the Melodist, a seminal figure in sixth-century Byzantine poetry. Written in Koine Greek, these works belong to the liturgical form known as the kontakion, a chanted poetic sermon central to the celebration of major Christian feasts. Each kontakion is structured with a prelude followed by a series of metrically identical stanzas, all sung to the same melody. The hymns are characterized by their dramatic and narrative quality, expanding upon biblical stories and doctrinal themes with vivid dialogue and profound emotional resonance. Central preoccupations include the incarnation of Christ, the nature of repentance, and the promise of salvation.
+
+Romanos produced his work in Constantinople during an era of intense theological controversy. His poetry, while not systematic theology, is widely interpreted by modern scholars as a powerful reinforcement of orthodox Christological positions through its lyrical and narrative force. The kontakion was typically performed during the vigil services of the liturgical year and represents the artistic zenith of this genre before it was gradually superseded by other liturgical forms in later centuries.
+
+The textual transmission of Romanos’s oeuvre is notably complex. Although numerous manuscripts preserve hymns attributed to him, only a portion are considered authentic by contemporary critical editions. The figure of 154 passages refers to the total number of individual hymn texts that survive from a larger, partially spurious tradition. Many of these works exist only in fragmentary states or were significantly reworked within later liturgical books. While the full kontakion form eventually fell out of regular liturgical use, the poetic and theological influence of Romanos endured throughout the Byzantine tradition and profoundly shaped subsequent hymnography and devotional piety.
+
 ## Text
 
 ### 1

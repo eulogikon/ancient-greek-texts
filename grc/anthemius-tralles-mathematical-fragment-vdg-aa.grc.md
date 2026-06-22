@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vdg-aa` · [HTML page](https://eulogikon.org/works/anthemius-tralles-mathematical-fragment-vdg-aa)
 
+The Mathematical Fragment from Bobbio is a brief Greek mathematical treatise attributed to the 6th-century architect and mathematician Anthemius of Tralles. It survives in a single 9th- or 10th-century manuscript discovered at the monastery of Bobbio and consists of seven passages concerning geometric constructions and optics. The fragment’s practical and theoretical problems include a method for constructing an ellipse using a loop of string, often called the gardener's method, and a proof based on the focal properties of the parabola, demonstrating that parallel rays of light reflected by a parabolic mirror converge at its focus. The attribution to Anthemius, based on the manuscript’s title, is generally accepted given his documented expertise in mathematics and mechanics. The fragment illustrates the application of classical Greek geometry, particularly from Archimedes and the theory of conics, to 6th-century engineering and optical problems. It provides direct insight into the advanced mathematical knowledge that underpinned the architectural achievements of late antiquity, such as the Hagia Sophia, which Anthemius co-designed.
+
 ## Text
 
 ### 1

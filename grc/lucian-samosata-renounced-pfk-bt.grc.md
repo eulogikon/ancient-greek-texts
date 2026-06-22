@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bt` · [HTML page](https://eulogikon.org/works/lucian-samosata-renounced-pfk-bt)
 
+_The Renounced_ is a satirical oration by the 2nd-century CE author Lucian of Samosata. Structured as a first-person defense speech, the work features a narrator who publicly renounces his former profession and way of life. This rhetorical showpiece blends philosophical dialogue and comedy to critique contemporary intellectual trends, likely targeting the pretensions of philosophers or rhetoricians. The oration presents a coherent argument in which the speaker justifies his rejection of a specific path, centering on themes of hypocrisy and pretense among self-proclaimed teachers. It satirizes the vanity and contentiousness of intellectuals, framing the act of conversion and rejection as a path to personal integrity and exploring the performance of identity through a public apologia. The text survives securely within the Lucianic corpus, transmitted through numerous Byzantine manuscripts; its style is consistent with Lucian’s authenticated works, and it is included in standard modern editions. As part of Lucian’s broader satirical project during the period known as the Second Sophistic, the work exemplifies his characteristic use of irony and parody to expose human folly. Its themes of renouncing false wisdom later influenced Renaissance writers, including Erasmus and Thomas More, contributing to Lucian’s enduring reputation as a master of comic prose.
+
 ## Text
 
 ### Abdic t

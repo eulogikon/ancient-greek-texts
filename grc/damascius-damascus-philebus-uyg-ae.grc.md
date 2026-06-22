@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyg-ae` · [HTML page](https://eulogikon.org/works/damascius-damascus-philebus-uyg-ae)
 
+On Philebus is a philosophical commentary by Damascius of Damascus, the final head of the Neoplatonic Academy in Athens. Composed in the late fifth or early sixth century CE, this treatise offers a meticulous, passage-by-passage interpretation of Plato's dialogue of the same name, which examines the nature of the good life through a debate between pleasure and intellect. Preserved in its entirety through medieval manuscripts, the work stands as a sophisticated product of the last phase of Athenian philosophical activity, written for an advanced scholarly audience shortly before the Academy's closure in 529 CE.
+
+The commentary is structured as a series of 261 sections. While it systematically addresses the core arguments of Plato's text concerning pleasure, knowledge, and their mixture in the good life, Damascius's engagement is far from a mere paraphrase. He critically integrates the dialogue's themes into the elaborate metaphysical framework of late Neoplatonism. His analysis extends to profound discussions on the supreme Good, the principles of Limit and the Unlimited, and the hierarchical ordering of reality, often contrasting his own interpretations with those of his predecessor, Proclus. Consequently, On Philebus is valued not only as an exegetical work but as a vital source for understanding the culmination and critical refinement of ancient Platonic thought.
+
 ## Text
 
 ## ΕΙΣ ΤΟΝ ΦΙΛΗΒΟΝ αʹ.

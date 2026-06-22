@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bx` · [HTML page](https://eulogikon.org/works/hippocrates-vision-bww-bx)
 
+On Vision is a brief medical treatise from the Hippocratic Corpus, the collection of works attributed to Hippocrates of Cos and his followers. Composed in Ionic Greek by an unknown author in the fifth or fourth century BCE, the text survives only in fragmentary form. It addresses the anatomy and physiology of the eye, describing the organ as composed of three layers, or tunics, surrounding a central fluid. The treatise advances a theory of vision in which sight occurs through the eye receiving influences from external objects, a model known as intromission. This perspective, which rejects the idea of the eye emitting visual rays, aligns with the broader Hippocratic project of seeking naturalistic explanations for bodily functions. The complete original work is lost; modern knowledge derives entirely from eight short excerpts preserved within the second-century CE physician Galen’s commentary on another Hippocratic text. These fragments indicate that On Vision was considered part of the authoritative medical tradition studied in later antiquity and that it contributed to the early Greek scientific debate concerning the mechanics of sight.
+
 ## Text
 
 ## Αἱ ὄψιες αἱ διεφθαρμέναι, αὐτόματοι μὲν κυανίτιδες γιγνόμεναι, ἐξαπίνης γίνονται, καὶ ἐπειδὰν γένωνται, οὐκ ἔστιν ἴησις τοιαύτη.

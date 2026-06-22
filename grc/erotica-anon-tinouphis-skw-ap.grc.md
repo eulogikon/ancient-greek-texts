@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ap` · [HTML page](https://eulogikon.org/works/erotica-anon-tinouphis-skw-ap)
 
+Tinouphis is a fragmentary ancient Greek erotic narrative preserved on a single papyrus, P.Oxy. LXXIII 4930, from Oxyrhynchus in Egypt. The surviving prose passage presents a first-person account of a seduction, describing a character named Tinouphis being led, kissed, and having his hand placed on a body part, likely within a bedchamber. The narrative details an erotic encounter and a seduction involving the character Tinouphis, with a possible Egyptian setting inferred from the Egyptian name of the titular figure. The text is known solely from this papyrus fragment, dated paleographically to the late second or early third century CE, which provides a terminus ante quem for its composition. The fragment consists of partial text on both sides and is otherwise unattested in any ancient source. As a recently published fragment, Tinouphis holds significance for papyrologists and scholars of ancient popular literature, illustrating the presence of erotic prose fiction within the Greco-Roman culture of Egypt.
+
 ## Text
 
 ### 1

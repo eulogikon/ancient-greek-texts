@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `foq-ab` · [HTML page](https://eulogikon.org/works/amphis-life-pleasure-foq-ab)
 
+The Comic Fragments on Life and Pleasure is a modern compilation of excerpts from the lost comedies of Amphis, an Athenian poet of the 4th century BCE. As no complete play by Amphis survives, the 129 fragments in this collection derive from quotations preserved by later ancient authors such as Athenaeus and Stobaeus, who cited them for their notable content on food, social customs, and moral aphorisms. Written in Attic Greek verse, these fragments provide insight into the conventions of Middle Comedy, a genre that shifted away from the direct political satire of earlier Old Comedy toward a focus on social types, domestic scenarios, and the parody of mythological and philosophical subjects.
+
+Thematically organized around concepts of life and pleasure, the fragments reflect the cultural preoccupations of Amphis's era. Scholars interpret them as evidence of comedy's engagement with contemporary intellectual trends, particularly through the mockery of philosophical debates concerning hedonism and the nature of the good life. The collection serves as a valuable resource for Athenian social history, illustrating everyday topics such as gastronomy, familial conflicts, and personal relationships. As a representative figure of Middle Comedy, Amphis occupies a transitional phase between the politically charged humor of Aristophanes and the more plot-driven, domestic focus that would characterize the later New Comedy of Menander.
+
 ## Text
 
 ### book 1.1

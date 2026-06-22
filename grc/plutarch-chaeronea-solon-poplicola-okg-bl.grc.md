@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bl` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-solon-poplicola-okg-bl)
 
+The Comparison of Solon and Poplicola is a concluding essay by Plutarch, composed around 100–120 CE as the final section to his paired biographies of the Athenian lawgiver Solon and the early Roman consul Publius Valerius Poplicola. Written in Greek prose and structured as a series of eighteen distinct points, the work systematically contrasts the two statesmen across several domains. It examines their social origins, political reforms, shared refusal of tyrannical power, personal use of wealth, and the nature of their posthumous honors. A central theme is the contrast between Solon’s primary role as a civil legislator and Poplicola’s achievements as a military leader, drawing out both their common virtues and their divergent approaches to governance.
+
+As an integral component of Plutarch’s Parallel Lives, the essay functions as an ethical and philosophical exercise. Its purpose is to derive lessons about statesmanship and moral character by comparing foundational figures from Greek and Roman history, thereby illuminating the qualities of ideal leadership. The work was intended for a literate, Greek-speaking elite within the Roman Empire, reflecting the period’s active cultural and intellectual dialogue between Hellenic and Roman traditions. The text has survived intact through the medieval manuscript tradition of Plutarch’s Lives and is not considered fragmentary.
+
 ## Text
 
 ### 1 1

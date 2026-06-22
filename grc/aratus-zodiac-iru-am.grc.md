@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iru-am` · [HTML page](https://eulogikon.org/works/aratus-zodiac-iru-am)
 
+No work titled On the Zodiac by an author named Aratus Lives is attested in the historical record. The name appears to be a corruption or a modern construct. The Hellenistic poet Aratus of Soli, who lived in the third century BCE, authored the Phaenomena, a highly influential didactic poem on constellations, the zodiac, and weather signs. That work, however, is poetic in form and is not known by the prose title On the Zodiac. Given the complete absence of the purported treatise from the historical record, its specific content and transmission history cannot be described. In contrast, the authentic Phaenomena of Aratus was widely disseminated, translated into Latin by figures such as Cicero and Germanicus, and remained a standard astronomical text for centuries. It stands as a landmark of Hellenistic poetry and a crucial source for understanding ancient astronomy and its literary reception. The unattested work On the Zodiac therefore holds no established scholarly significance.
+
 ## Text
 
 ### 529 (t)

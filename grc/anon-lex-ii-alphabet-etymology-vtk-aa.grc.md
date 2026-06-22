@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vtk-aa` · [HTML page](https://eulogikon.org/works/anon-lex-ii-alphabet-etymology-vtk-aa)
 
+Overview The Ἐτυμολογία τοῦ Ἀλφαβήτου (Etymology of the Alphabet) is a brief, anonymous grammatical treatise consisting of six prose passages. It provides etymological explanations for the Greek alphabet, detailing the origins, names, and symbolic meanings of its letters, and belongs to the tradition of Greek grammatical scholarship.
+
+Content The work’s topics include:
+
+The origin and history of the Greek alphabet.
+
+The etymology of Greek letter names.
+
+The phonetic values and shapes of letters.
+
+The symbolic or numerical significance of letters.
+
+Transmission The work is cataloged as "Lexicographic Work Anonymous II," indicating a minor text likely preserved within medieval manuscripts containing grammatical anthologies.
+
+Significance While its direct influence is not documented, the treatise serves as a witness to the continuity of etymological and grammatical studies from antiquity through the Byzantine era, contributing to the preservation of linguistic knowledge and pedagogical methods.
+
 ## Text
 
 ### 595 (11t)

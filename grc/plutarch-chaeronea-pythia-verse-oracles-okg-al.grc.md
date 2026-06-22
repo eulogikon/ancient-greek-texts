@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-al` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pythia-verse-oracles-okg-al)
 
+On the Pythia Not Giving Oracles in Verse Now is a philosophical dialogue by the priest and philosopher Plutarch of Chaeronea, composed in Greek around 100 CE. The work examines a notable historical development at the Oracle of Delphi: the fact that the prophecies of the Pythia, the priestess of Apollo, were once delivered in poetic verse but by Plutarch’s era were given in ordinary prose. Framed as a conversation among several characters at the sanctuary, the dialogue explores the potential causes for this shift.
+
+Drawing on his personal experience as a priest at Delphi, Plutarch uses the discussion to probe deeper questions concerning the nature of divine inspiration, the changing relationship between gods and humanity, and the evolution of religious practice over time. The dialogue moves beyond a simplistic narrative of decline, offering instead philosophical and theological explanations. It entertains the possibility that straightforward prose may constitute a more direct and less adorned medium for conveying the will of Apollo, perhaps reflecting a purer form of communication. The complete text survives within Plutarch’s extensive collection of ethical and philosophical essays known as the Moralia.
+
+Scholars regard this dialogue as an essential source for understanding the operation of the Delphic Oracle during the Roman period and for illuminating Plutarch’s own religious philosophy. It stands as a significant example of how traditional Greek religious institutions engaged with contemporary intellectual and philosophical inquiry.
+
 ## Text
 
 ### 394 D

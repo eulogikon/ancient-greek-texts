@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvc-ab` · [HTML page](https://eulogikon.org/works/aeschrion-samos-epigram-hvc-ab)
 
+The Epigram attributed to Aeschrion of Samos is a short funerary poem preserved within the Palatine Anthology, also known as the Greek Anthology. It appears in Book 7 of the compilation, which is dedicated to sepulchral epigrams, and the text survives complete through this manuscript tradition. The poem consists of nine lines spoken from the tomb of the courtesan Philaenis, who vigorously defends her posthumous reputation against slanderous accusations of promiscuity. She addresses passing sailors, swearing oaths to Zeus and the gods of the underworld that she was not lustful or vulgar. Instead, she blames a man named Polycrates, an Athenian characterized by deceptive speech and a malicious tongue, for fabricating these claims. As an iambic poet known for satire and invective, Aeschrion brings a characteristic sharpness and personal focus to this epitaphic form. The work's transmission is secured by its inclusion in the major Byzantine compilation of the Palatine Anthology, which ensured the preservation of thousands of Greek epigrams. As a component of this seminal collection, the epigram contributes to the continuity of the Hellenistic epigrammatic tradition. The Greek Anthology itself served as a crucial reservoir for later European literature, profoundly influencing the revival and development of the epigram form from the Renaissance onward.
+
 ## Text
 
 ### book 345.1.1

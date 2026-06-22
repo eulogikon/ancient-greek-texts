@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsc-aa` · [HTML page](https://eulogikon.org/works/dionysius-sinope-cooking-strategy-fsc-aa)
 
+The Fragments on Cooking and Strategy by the 4th-century BCE Middle Comic poet Dionysius of Sinope is a lost work known only by its title and its reported structure of 71 passages. No direct quotations survive. The title presents a classic comic juxtaposition, pairing the domestic art of cooking with the public art of generalship. While the text is lost, its title and genre indicate probable themes, including parody of the technical jargon used by both chefs and military commanders, social satire contrasting domestic and public leadership, and the exploitation of incongruity between high and low arts. It likely featured the stock character of the boastful cook, a figure central to Middle Comedy. The work is transmitted solely through doxographic reference; the 10th-century Byzantine encyclopedia, the Suda, records its title and notes it contained 71 passages, but no papyrus fragments or verbatim citations have been identified. Although the work itself is lost, its conceptual framework reflects the core tendencies of Middle Comedy. The prominence of the cook figure aligns with the period's shift toward social satire and established character types, a tradition that profoundly influenced subsequent New Comedy and Roman comedy.
+
 ## Text
 
 ### book 1.1

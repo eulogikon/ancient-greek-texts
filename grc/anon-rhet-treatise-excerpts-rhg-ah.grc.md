@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ah` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-excerpts-rhg-ah)
 
+The Excerpts on the Art of Rhetoric is an anonymous Greek rhetorical treatise presented as a collection of selected passages. The work is structured in three parts formatted as an oration. Its content addresses foundational elements of rhetorical theory and practice. The text opens by defining preliminary exercises and rhetorical exercises, then systematically delineates the division of the fourteen issues of argument according to various authorities including Hermogenes and Metrophanes. It proceeds through a logical analysis of subjects for judgment, classifying them as either obscure or clear, and further subdividing them based on completeness and quality. This framework leads to the examination of legal issues concerning written documents and substantive matters, ultimately distinguishing between deliberative oratory concerning the future and judicial oratory concerning the past. The treatise survives as an anonymous compilation, likely transmitted within medieval manuscripts containing collections of rhetorical works. It belongs to the extensive tradition of Greek technical manuals that formed the core of advanced education, and its preservation as a set of excerpts offers insight into the methods of compiling and disseminating rhetorical doctrine in late antiquity.
+
 ## Text
 
 ### 6.30.(14)

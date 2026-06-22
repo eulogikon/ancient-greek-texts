@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bi` · [HTML page](https://eulogikon.org/works/anon-hist-frag-hannibal-mmg-bi)
 
+On Hannibal is an anonymous collection of five Greek fragments pertaining to the Carthaginian general Hannibal Barca. No ancient work survives under this precise title, indicating that the collection is a modern assemblage of excerpts from a lost historical source. The fragments are believed to derive from a lost Hellenistic historian, such as Sosylus of Lacedaemon or Silenus of Caleacte, both of whom are known to have written accounts of Hannibal’s campaigns. The content of such fragments, consistent with themes in contemporary Greek historiography, would typically address Hannibal’s military strategy and character, pivotal events of the Second Punic War like the invasion of Italy and the Battle of Cannae, the overarching conflict between Rome and Carthage as a decisive historical moment, and the role of fortune in shaping events. These fragments were transmitted indirectly through quotation in later ancient or Byzantine works, such as historical compilations, lexica, or the excerpt collections commissioned by Emperor Constantine VII Porphyrogennetos. Their anonymous, collected format is characteristic of fragmentary texts preserved in repositories like the Bibliotheca of Photius or the Suda. While the direct influence of these specific fragments is untraceable, they form part of the broader Greek historiographical interest in Hannibal. This narrative, central to both Greek and Roman historical writing, helped shape enduring understandings of military genius and the rise of Rome, influencing historical thought into the Renaissance and early modern periods.
+
 ## Text
 
 ### 2b,180,F 1

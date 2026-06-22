@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvw-aa` · [HTML page](https://eulogikon.org/works/anaxippus-cooking-fragments-hvw-aa)
 
+The Fragments on Cooking is a modern compilation of 61 short passages attributed to the Athenian comic poet Anaxippus, who was active during the period of Middle Comedy around 300 BCE. These excerpts, written in Attic Greek verse, are not derived from a single, continuous work but are instead gathered from quotations preserved within the Deipnosophistae of Athenaeus, a later literary compendium focused on banqueting and culinary lore. The content of the fragments centers on the world of food, featuring humorous observations on expensive fish, elaborate sauces, and stereotypical characters such as the pompous professional cook and the insatiable parasite. Collectively, they provide a vivid, albeit piecemeal, portrait of gourmet culture and the bustling marketplace of Hellenistic Athens.
+
+No complete play by Anaxippus survives, making these fragments the sole extant evidence of his work. Their preservation relies entirely on Athenaeus's selective quotations, which were chosen for their thematic connection to dining and gastronomy. Scholars regard this collection as a filtered but valuable window into Middle Comedy, a transitional phase in Greek theatrical history that moved away from direct political satire toward comedies of manners, domestic situations, and mythological parody. As such, the fragments serve as an important resource for understanding the evolution of comic theater and for illuminating the social history and daily practices surrounding food in the ancient Greek world.
+
 ## Text
 
 ### book 1.1

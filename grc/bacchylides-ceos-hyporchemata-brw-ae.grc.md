@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-ae` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-hyporchemata-brw-ae)
 
+The Hyporchemata Fragments are the extant portions of choral lyric poetry by Bacchylides of Ceos, a major Greek poet of the fifth century BCE. A hyporcheme was a genre of song expressly intended for performance with vigorous, mimetic dance, typically presented at public religious festivals or private aristocratic celebrations. Bacchylides, a contemporary and rival of Pindar, was celebrated for his mastery of this form. Only nine brief passages survive, not from a continuous manuscript but as quotations preserved by later authors such as Athenaeus and Pollux, who cited them for their lexical or antiquarian value. The original musical accompaniment, choreography, and complete structure of these works are therefore lost. The content of the fragments indicates that the poems narrated mythological episodes, which the chorus would have enacted through movement, functioning as vehicles for communal celebration and praise. Scholars regard these fragments as crucial evidence for the performance practice of Greek choral lyric, an art that seamlessly integrated poetry, music, and dance. They illuminate the competitive cultural milieu of the fifth-century Greek elite, in which poets were commissioned to produce sophisticated works for their patrons. Despite their brevity, the fragments provide a valuable window into a vibrant artistic tradition that extends beyond the more fully preserved corpus of epinician odes.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bg` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-alchemy-excerpt-tyc-bg)
 
+The Excerpt-Parts of Alchemy is a short technical treatise attributed to Zosimus of Panopolis, an author active around 300 CE. Written in Koine Greek, the work is structured as two distinct passages and functions as a selection concerning the divisions or components of the alchemical art. Its content is instructional, blending practical laboratory advice with philosophical speculation as it discusses the various parts, stages, and processes involved in alchemical operations. The work was composed during a period when Greco-Egyptian alchemy was systematizing earlier craft traditions within philosophical and often mystical frameworks. Zosimus's corpus is interpreted by modern scholars as being intended for a community of students or adepts engaged in both the physical and spiritual dimensions of the art, aiming to provide a theoretical foundation alongside practical instructions for the transformation of substances. The treatise survives as part of the larger corpus of Greek alchemical writings preserved in Byzantine manuscripts. Its transmission relies on its inclusion in major anthologies such as the 10th- or 11th-century Marcianus graecus 299, which were compilations designed for practitioners. As a component of Zosimus's influential body of work, this excerpt contributed to the technical and theoretical literature that shaped the study of alchemy for centuries.
+
 ## Text
 
 ### 2 219

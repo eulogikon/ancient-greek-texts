@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ino-ab` · [HTML page](https://eulogikon.org/works/epigenes-byzantium-banquets-vessels-ino-ab)
 
+The Fragments on Banquets and Vessels is a lost comedic work in verse attributed to the poet Epigenes of Byzantium. Known only by its title and the report that it originally consisted of twenty-one passages, no direct quotations from the fragments survive. The title indicates the work’s subject matter centered on symposium culture, including drinking, dining, and social interaction, as well as the domestic equipment and vessels used in such settings. The work’s existence is recorded solely in the tenth-century Byzantine encyclopedia, the Suda, which lists it among the titles of Epigenes; the fragments were not preserved in any independent manuscript tradition. Epigenes’ historical period is uncertain, with the Suda placing him before Aristophanes in the fifth century BCE, while other sources suggest a later date and note scholarly debates about the authenticity of his attributed works. The title aligns with common settings in Greek comedy. As a completely lost work, its significance is confined to its place in the catalog of fragmentary Greek comedy and in discussions concerning the poet’s chronology.
+
 ## Text
 
 ### book 1.1

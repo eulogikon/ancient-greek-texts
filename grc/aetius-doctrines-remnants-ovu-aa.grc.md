@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ovu-aa` · [HTML page](https://eulogikon.org/works/aetius-doctrines-remnants-ovu-aa)
 
+On Doctrines, Remnants, commonly known as the Placita, is a Greek doxography compiled by Aetius around 100 CE. As a systematic handbook rather than an original philosophical treatise, it collects and organizes the opinions of earlier Greek thinkers, ranging from the pre-Socratics to the Hellenistic schools, on fundamental questions of natural philosophy. The work is structured into 129 topical sections, each addressing a specific subject such as the nature of first principles or the soul, followed by a catalogue of the divergent answers provided by various philosophers and schools.
+
+The original text of Aetius is no longer extant. The modern version is a scholarly reconstruction assembled primarily from excerpts preserved in two later sources: an epitome from the 1st or 2nd century CE traditionally attributed to Plutarch and the extensive 5th-century CE anthology compiled by Stobaeus. The title Remnants alludes to this fragmentary transmission history. Compiled as a practical reference work for students and authors in the early Roman Empire, the text serves as a concise comparative digest of doctrines concerning the cosmos, the soul, and natural phenomena. In its reconstructed form, it remains an indispensable source for the study of many early Greek philosophers whose own writings have been lost.
+
 ## Text
 
 ### 275 (1t)

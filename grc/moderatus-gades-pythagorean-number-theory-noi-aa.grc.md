@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `noi-aa` · [HTML page](https://eulogikon.org/works/moderatus-gades-pythagorean-number-theory-noi-aa)
 
+On Pythagorean Number Theory is a philosophical treatise composed in the first century CE by the Neopythagorean philosopher Moderatus of Gades. Written in Koine Greek, the work presents a systematic exposition of Pythagorean number metaphysics, interpreting numbers not merely as mathematical quantities but as the fundamental ontological and theological principles underlying all reality. Only fragmentary passages of the text survive, preserved primarily through quotations by later Neoplatonist commentators such as Porphyry and Simplicius. The alternative title Extracts suggests the original may have been a compilation or summary of core doctrines. In the extant fragments, Moderatus delineates a hierarchical metaphysical system originating from a supreme and ineffable One, or Monad. From this first principle proceeds the Dyad, the principle of multiplicity and differentiation. The interaction of the Monad and Dyad generates the realm of ideal Numbers, which Moderatus identifies with Platonic Forms. This synthesis represents a deliberate effort to harmonize earlier Pythagorean concepts with Platonic and Aristotelian philosophy for a contemporary Roman intellectual audience. Moderatus's treatise was instrumental in the revival of Pythagorean thought during the Imperial period and served as a direct precursor to Neoplatonism. His formulation of a transcendent first principle and his correlation of numbers with Forms exerted a significant influence on subsequent philosophers, most notably Plotinus.
+
 ## Text
 
 ### 1

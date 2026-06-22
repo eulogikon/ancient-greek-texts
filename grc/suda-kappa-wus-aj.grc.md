@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-aj` · [HTML page](https://eulogikon.org/works/suda-kappa-wus-aj)
 
+The kappa section of the Suda (Σοῦδα, Στοιχεῖον Κ) contains 2,805 entries ranging across grammar, ethnography, natural history, and literary quotation. Early entries treat proper names such as Καβάδης and cult terms like Κάβειροι — the Samothracian deities described here also as a tribal name — alongside colloquial vocabulary such as Κάββαλων and Κάβαξ ("scoundrel") drawn from Old Comedy writers including Ameipsias.
+
+Mid-letter material illustrates the Suda's characteristic method: κέρκος (the tail of a reptile or animal) is glossed with an Aristophanic quotation on a hare's tail and an extended note on the softness of hare-wool, while κέρκουρος identifies a type of vessel and records the proverb "κέρκουρος ἐν λαχάνοις." Entries on vessel-types, topographical names, and proverbial phrases are woven throughout.
+
+The final entries on κυψέλη and its derivatives show the lexicon's antiquarian range: the word denotes both a beehive and a grain-bin, and the article on Κυψελιδῶν ἀνάθημα draws on Plato's Phaedrus to discuss the colossal votive offering at Olympia attributed to the Cypselid dynasty. This letter is accordingly useful for students of Attic comedy, Greek metrology, nautical terminology, and Archaic Corinthian history.
+
 ## Text
 
 ### κ 1

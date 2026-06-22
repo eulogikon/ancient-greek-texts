@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bs` · [HTML page](https://eulogikon.org/works/herodian-alexandria-numbers-qnq-bs)
 
+_On Numbers_ is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work, now lost, addressed the system of numerals in the Greek language, a subject consistent with Herodian's broader and highly influential focus on technical grammar, which included orthography and inflection. Based on the author's known expertise, the treatise likely examined the declension, formation, and rules for the accentuation of Greek numerals. The text survives only in fragments, preserved through quotations in later Byzantine grammatical works and lexicographies, such as the Suda. Herodian was a preeminent grammarian whose authoritative works shaped the grammatical tradition for centuries. While the direct influence of On Numbers is untraceable due to its fragmentary state, its existence underscores the systematic, scholarly effort to analyze and codify the rules of the Greek language during the Imperial Roman period.
+
 ## Text
 
 ### [40]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-am` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-knights-mlw-am)
 
+The Scholia on Knights constitute a body of ancient and Byzantine marginal annotations on Aristophanes' comedy The Knights. As scholia, they compile explanatory notes from multiple scholars across centuries, serving to elucidate the play's obscure language, historical references, and cultural context. This dense commentary preserves vital antiquarian and linguistic information from antiquity. Its exegetical themes encompass lexicography, such as explaining rare or dialectal Attic words; the identification of historical figures and contemporary events, most notably the demagogue Cleon; discussions of textual variants and emendations; and cultural commentary clarifying Athenian customs, mythology, and dramatic technique. Transmitted through medieval manuscripts, primarily from the 10th century CE onward, the scholia represent a layered compilation of earlier Hellenistic and Roman scholarship, drawing notably on the works of scholars like Didymus Chalcenterus, later refined within the Byzantine educational tradition. These scholia are indispensable for the modern study of Old Comedy, providing unique historical details and preserving fragments of otherwise lost works. They form the foundational resource for all subsequent philological and historical commentary on Aristophanes' The Knights.
+
 ## Text
 
 ### book A1

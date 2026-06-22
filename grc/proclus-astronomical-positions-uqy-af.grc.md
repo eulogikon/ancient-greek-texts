@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-af` · [HTML page](https://eulogikon.org/works/proclus-astronomical-positions-uqy-af)
 
+The Outline of Astronomical Positions is a fifth-century CE astronomical treatise composed in Greek by Proclus Lycius, the head of the Platonic Academy in Athens. This systematic work compiles and elucidates the foundational principles of Ptolemaic astronomy, the geocentric model of the universe established by Claudius Ptolemy. Structured as a series of 372 numbered propositions, it employs a geometric, Euclidean style to define and demonstrate theorems concerning the celestial sphere, the motions of the stars and planets, and the phenomena of eclipses. The treatise survives complete through a direct manuscript tradition, with the oldest extant copy dating from the ninth century. Modern scholarship interprets it not as an original contribution to science but as a clear pedagogical manual, likely written for students within the Neoplatonic school to provide the technical astronomical knowledge that supported their broader philosophical curriculum. Through its concise and methodical format, the Outline served as a key textbook in the Byzantine world and played a significant role in transmitting the essentials of Greek astronomical knowledge to later periods.
+
 ## Text
 
 ### Hyp 1 t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iie-aa` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-life-fortune-iie-aa)
 
+The Fragments on Life and Fortune is a modern scholarly compilation of 53 poetic excerpts attributed to the New Comedy playwright Apollodorus of Carystus, who was active in early 3rd-century BCE Athens. The title is a descriptive, thematic label for the collection, reflecting the recurrent subjects of the passages, and does not correspond to an ancient work. These fragments, which consist of dialogue and monologue in verse, are preserved indirectly through quotations in later grammatical, lexicographical, and anthological sources, most notably by Athenaeus and Stobaeus. No manuscript of Apollodorus's complete plays survives, and the standard modern edition is found in the authoritative collection Poetae Comici Graeci.
+
+The content of the fragments aligns with the conventions of New Comedy, exploring themes such as the capricious nature of fortune, romantic and domestic entanglements, and the social dynamics of family, wealth, and master-slave relationships. One extended passage presents a philosophical critique of human strife, contrasting it with an idealized vision of a life devoted to pleasure and communal celebration, while personifying Fortune as an ignorant, rustic force that governs human affairs arbitrarily. Though fragmentary, this material provides crucial evidence for the development of Hellenistic comedy. Apollodorus's work held particular significance as a direct source for Roman drama; the Latin playwright Terence adapted his plays Hecyra and Epidikazomenos. Consequently, these fragments illuminate a key link in the transmission of comic plots and character types from the Greek to the Roman theatrical tradition.
+
 ## Text
 
 ### book 1.1

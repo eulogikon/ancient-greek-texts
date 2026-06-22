@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eco-ab` · [HTML page](https://eulogikon.org/works/strattis-comic-food-theater-eco-ab)
 
+The comic fragments attributed to Strattis, an Athenian poet active from approximately 410 to 370 BCE, represent a modern thematic compilation of 109 passages drawn from his numerous lost plays. None of Strattis's comedies survive in complete form; these excerpts are preserved solely through quotation by later authors, most notably Athenaeus in his 2nd–3rd century CE work Deipnosophistae, with additional fragments found in ancient lexicons and scholarly commentaries. The collection is organized around two central preoccupations of Old Comedy: food and the theater. Written in Attic Greek verse for performance at Athenian festivals, the fragments showcase Strattis's comedic technique through detailed, humorous descriptions of specific foods, dining practices, and metatheatrical commentary. The passages include parody of contemporary tragedians such as Euripides and burlesque treatments of mythological figures, offering valuable insight into the satirical range of Old Comedy beyond the extant works of Aristophanes. These fragments are instrumental for understanding the genre's diversity and its evolution toward the more literary and domestic concerns characteristic of Middle Comedy. The standard scholarly edition for these texts is Poetae Comici Graeci.
+
 ## Text
 
 ### book 1

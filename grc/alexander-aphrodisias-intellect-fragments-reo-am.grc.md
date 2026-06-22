@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-am` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-intellect-fragments-reo-am)
 
+The Fragments on Aristotelian Intellect is a collection of excerpts attributed to the Peripatetic philosopher Alexander of Aphrodisias, the preeminent ancient commentator on Aristotle. These fragments focus on Aristotle’s complex and influential doctrine of the intellect as presented in the third book of De Anima. The compilation, likely drawn from Alexander’s lost commentaries or specialized treatises, centers on his interpretation of the so-called active intellect, which he identified as a separate, divine, and eternal entity. This transcendent intellect, according to Alexander, is responsible for actualizing the human potential intellect, enabling thought, while the individual human intellect remains mortal. The work survives only indirectly, preserved primarily through extensive quotations and critiques found in the commentaries of later Neoplatonist philosophers, most notably those of John Philoponus in the sixth century. Modern scholarly editions have reconstructed the Greek text from these sources. Alexander’s interpretation was profoundly influential, shaping subsequent Peripatetic thought and becoming a major point of contention for Neoplatonist critics. His "separatist" reading, which sharply distinguished the eternal active intellect from the perishable human mind, later served as a crucial source for medieval Islamic Aristotelianism and fueled enduring debates in the Latin West about the nature and immortality of the intellect.
+
 ## Text
 
 ### 1 (t)

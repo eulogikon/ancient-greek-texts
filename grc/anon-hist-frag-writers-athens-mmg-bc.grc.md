@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bc` · [HTML page](https://eulogikon.org/works/anon-hist-frag-writers-athens-mmg-bc)
 
+Writers on Athens is a modern scholarly compilation of ten excerpts from various ancient Greek authors whose works address Athenian history and culture. Assembled under an anonymous editorial title, it draws fragments from writers spanning the Classical to the Roman Imperial periods, serving as a focused resource for primary source perspectives on the city. The collected fragments address central themes of Athenian civilization, including the development of democratic institutions like the Assembly and courts, accounts of major historical events such as the Persian and Peloponnesian Wars, and descriptions of laws, lawmakers like Solon, and notable legal cases. They also provide biographical details of prominent Athenian statesmen, generals, and philosophers, alongside the topography of the city, its monuments, religious sites, and social customs, festivals, and cultural practices. Each fragment possesses its own manuscript tradition, often preserved through quotation by later authors, papyri, or medieval copies, while the collection itself is a modern editorial project that transmits these selected passages into a single thematic format for academic use. Although the modern compilation has no independent reception history, it provides critical utility by consolidating dispersed source material. Its significance lies in facilitating access to the original fragments, which have themselves profoundly shaped the enduring legacy of ancient Athens in Western historical thought.
+
 ## Text
 
 ### 3b,329,T 1

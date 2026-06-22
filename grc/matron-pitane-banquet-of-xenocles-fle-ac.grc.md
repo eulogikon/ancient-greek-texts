@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fle-ac` · [HTML page](https://eulogikon.org/works/matron-pitane-banquet-of-xenocles-fle-ac)
 
+The Banquet of Xenocles, also known as the Apospasmata or "Extracts," is a mock-epic poem by Matron of Pitane, composed around the late 4th century BCE. Written in the dignified dactylic hexameter of Homeric epic, the work applies the genre's elevated language and cataloguing techniques to a mundane subject: a lavish contemporary dinner party. It humorously lists dishes and describes gluttonous feasting in place of heroic deeds and battles, creating a sophisticated parody aimed at an audience well-versed in epic poetry. The poem satirizes both Homeric style and the culinary excesses of its own time. The complete text is lost, surviving only in approximately 95 fragments preserved by the later author Athenaeus in his Deipnosophistae. These quotations provide a substantial though disjointed picture of its content. Modern scholarship regards the work as a prime example of Hellenistic literary parody, reflecting the intellectual playfulness of its era while offering a comic, exaggerated glimpse into ancient Greek social and culinary culture.
+
 ## Text
 
 ### book 534.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `msa-ab` · [HTML page](https://eulogikon.org/works/posidonius-apameia-rhodes-ocean-tides-msa-ab)
 
+The Fragments on Ocean Tides is a modern scholarly reconstruction of the tidal theories of the Stoic philosopher Posidonius. His original treatise on the subject is entirely lost, and our knowledge of it derives solely from quotations and summaries preserved in later authors, primarily the geographer Strabo and the philosopher Seneca. Posidonius, working within the Stoic framework of a rationally ordered and interconnected cosmos, sought to provide a systematic explanation for oceanic tides. His method emphasized direct empirical observation, most famously his study of the tidal patterns at Gades in Spain. He identified the moon as the primary causative agent of the tides, with the sun playing a modifying role; the combined influence of both celestial bodies during new and full moons, he argued, produced the highest spring tides. This lunar theory is interpreted by modern scholars as a key application of the Stoic principle of cosmic sympathy, wherein celestial and terrestrial phenomena are bound in a web of physical influence. Preserved across several key passages in later literature, Posidonius's explanation became highly influential in ancient natural philosophy and remained a standard account until his original texts were lost and his ideas were eventually superseded by modern physical theory.
+
 ## Text
 
 ### 417 (50)

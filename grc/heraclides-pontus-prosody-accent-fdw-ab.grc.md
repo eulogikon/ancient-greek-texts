@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fdw-ab` · [HTML page](https://eulogikon.org/works/heraclides-pontus-prosody-accent-fdw-ab)
 
+On Prosody and Accent is a lost philological treatise attributed to the 4th-century BCE philosopher Heraclides of Pontus. Known only through quotations preserved by later grammarians, the work was a collection of short passages focused on the technical analysis of ancient Greek speech. It dealt systematically with prosody—the rhythmic and melodic patterns of language—and the rules of accentuation. This specialized study reflects the broader philosophical interest in music, harmony, and systematic language analysis that developed within Plato's Academy and Aristotle's Lyceum, institutions where Heraclides was educated. Modern scholars interpret the treatise as an early and influential attempt to establish formal principles for Greek pronunciation and the analysis of poetic meter, likely composed for an academic audience of philosophers and early philologists. Its fragmentary transmission, reconstructed entirely from later citations, is characteristic of the fate of most of Heraclides' prolific written output.
+
 ## Text
 
 ### 1-15t

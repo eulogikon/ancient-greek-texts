@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ojc-aa` · [HTML page](https://eulogikon.org/works/rufus-ephesus-kidneys-bladder-ojc-aa)
 
+On Diseases of the Kidneys and Bladder is a medical treatise by the Greek physician Rufus of Ephesus, composed around the late first or early second century CE. The work offers a systematic and detailed examination of urological disorders, methodically describing their symptoms, which include pain and urinary retention, and providing guidance for diagnosing specific conditions such as kidney stones, ulcers, and inflammations. Its therapeutic recommendations are comprehensive, ranging from dietary modifications and herbal remedies to more invasive procedures like surgery and catheterization. Organized into 178 distinct passages, the treatise adopts a practical, point-by-point structure designed for clarity and immediate use by medical practitioners and students.
+
+The text survives in its complete form, preserved through Byzantine manuscript traditions and subsequent scholarly editions. It was written during an era of consolidation for Greek medical knowledge under the Roman Empire. Rufus’s approach is notably empirical, prioritizing careful observation and diagnostic precision focused on specific organs. This specialized focus on the kidneys and bladder is regarded by modern scholars as indicative of advanced medical specialization in the period. Rufus was a highly regarded authority whose works, including this treatise, were cited by later figures such as Galen and exerted a lasting influence on medical thought in both the Islamic world and medieval Europe through translations.
+
 ## Text
 
 ### t 1

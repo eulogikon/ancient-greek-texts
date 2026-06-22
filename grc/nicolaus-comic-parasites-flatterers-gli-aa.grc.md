@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gli-aa` · [HTML page](https://eulogikon.org/works/nicolaus-comic-parasites-flatterers-gli-aa)
 
+On Parasites and Flatterers, a comedic work attributed to Nicolaus the Comic Poet, survives only in fragmentary form. The text is known through 33 excerpts preserved by later ancient authors, most notably the 2nd-century CE scholar Athenaeus in his compendium Deipnosophistae. These fragments focus on the stock characters of the social parasite and the flatterer, figures central to the tradition of Greek and later Roman comedy. The extant passages depict the lifestyle of the parasite, a man who attaches himself to a wealthy host for sustenance, and explore the practice and ethics of flattery as a tool for social advancement. Scenes of dining and conviviality, the primary arena for the parasite's activities, provide a humorous critique of social climbing, hypocrisy, and relationships founded on wealth and dependence. The work has no independent manuscript tradition and is known solely through this indirect transmission. While the specific influence of Nicolaus's treatment is difficult to trace, the fragments exemplify the enduring comic type that was central to the New Comedy of Menander and was subsequently adopted and adapted by Roman playwrights such as Plautus and Terence, shaping later European literary depictions of sycophants and social opportunists.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emo-ad` · [HTML page](https://eulogikon.org/works/aeschylus-supplicants-emo-ad)
 
+_Supplicants_ is a tragedy by Aeschylus, composed around 463 BCE and notable as the earliest complete Greek tragedy to survive. The drama is written in verse and is distinguished by its chorus, which assumes the leading role. The plot follows the fifty daughters of Danaus, the Danaids, who flee Egypt for the Greek city of Argos to escape forced marriage to their cousins, the sons of Aegyptus. Arriving as suppliants, they appeal to the Argive king Pelasgus for sanctuary. The central conflict arises from the king's profound dilemma: he is bound by the sacred religious duty to protect suppliants, yet granting them asylum risks provoking a catastrophic war with Egypt. The drama unfolds through his consultation with the Argive citizen body and culminates in a tense confrontation with an Egyptian herald, leaving the larger conflict unresolved.
+
+The play engages deeply with contemporary Athenian concerns, exploring the obligations of asylum, the clash between political expediency and divine law, and the processes of collective decision-making. It was originally performed for the Athenian public at the City Dionysia festival. _Supplicants_ was the first play in a connected trilogy, followed by _The Egyptians_ and _The Danaids_, along with a satyr play; these subsequent works are now lost, surviving only in fragments and later summaries. The text of _Supplicants_ itself has been preserved largely intact through medieval manuscript traditions.
+
 ## Text
 
 ### 1

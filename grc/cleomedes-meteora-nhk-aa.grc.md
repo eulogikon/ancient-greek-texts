@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nhk-aa` · [HTML page](https://eulogikon.org/works/cleomedes-meteora-nhk-aa)
 
+Cleomedes' Meteora is a two-book astronomical and cosmological treatise written in Koine Greek during the Roman Imperial period. While its precise date remains uncertain, scholarly consensus generally places its composition around 200 CE, within a possible range from the 1st century BCE to the 2nd century CE. The work functions as a didactic textbook, systematically presenting a model of a spherical Earth within a spherical cosmos. Its contents include explanations for the sizes and distances of the sun and moon, detailed accounts of lunar phases and eclipses, and discussions of meteorological phenomena such as rainbows. The treatise is of particular historical significance for its preservation and defense of the Stoic philosopher Posidonius's calculation of the Earth's circumference, a valuable record of Hellenistic scientific thought.
+
+Transmitted complete through Byzantine manuscripts, the oldest of which dates to the 10th century, the Meteora is believed to have been composed for students within a Stoic educational framework. It synthesizes and clearly explains earlier Hellenistic knowledge rather than advancing new theoretical models. Its lack of reference to the later, comprehensive work of Claudius Ptolemy suggests it originated from a pedagogical tradition that maintained pre-Ptolemaic astronomical concepts. For modern readers, the primary value of Cleomedes' work lies in its role as a clear and coherent window into pre-Ptolemaic astronomy and Stoic physical doctrines, preserving important information from sources that are otherwise lost.
+
 ## Text
 
 ### 2

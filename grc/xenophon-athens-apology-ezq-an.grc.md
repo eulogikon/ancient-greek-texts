@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-an` · [HTML page](https://eulogikon.org/works/xenophon-athens-apology-ezq-an)
 
+Xenophon's Apology is a concise prose work composed in the early fourth century BCE, offering a distinct account of the trial and execution of Socrates in 399 BCE. Presented as a Socratic dialogue, it explicitly positions itself as a corrective to other contemporary versions of the defense speech. Xenophon argues that Socrates' famously defiant and lofty tone before the Athenian jury was not a mark of arrogance but a deliberate and principled stance, stemming from his conviction that death at that moment was preferable to a life of inevitable physical and mental decline. The work is structurally divided into two principal parts: the first recounts Socrates' defense before the court, while the second depicts his dignified and generous conduct during the interval between his sentencing and his execution by hemlock.
+
+Deriving its account from the testimony of Hermogenes, a companion of Socrates who was present at the trial, the Apology survives complete in twenty-eight sections. Its central thematic concern is the vindication of Socrates' character, reinterpreting his courtroom demeanor as a noble acceptance of a timely fate. For modern scholars, the work functions as a key component of Xenophon's broader apologetic and commemorative project. It addresses an audience already familiar with the trial's outcome, seeking to explain the philosopher's serene composure not as mere resignation but as the conscious culmination of a life lived according to his philosophical convictions.
+
 ## Text
 
 ΑΠΟΛΟΓΙΑ ΣΩΚΡΑΤΟΥΣ ΠΡΟΣ ΤΟΥΣ ΔΙΚΑΣΤΑΣ

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qao-ac` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-chronic-diseases-qao-ac)
 
+Treatment of Chronic Diseases is a medical treatise composed in Ionic Greek by the physician Aretaeus of Cappadocia, who is believed to have practiced in the 1st century CE. It stands as one of his two major surviving works, functioning as the therapeutic counterpart to his other book, which details the causes and symptoms of diseases. The text is systematically organized into four books, each methodically outlining treatments for specific long-lasting illnesses. These encompass a wide range of conditions, from diseases of the head and mental disorders to afflictions of the respiratory system, abdomen, joints, and skin. Aretaeus writes in a refined, archaic style deliberately modeled on that of Hippocrates, lending his work a classical authority.
+
+The treatise embodies the principles of the Pneumatist school of medicine, to which Aretaeus adhered, emphasizing the critical role of pneuma (spirit or air) and the balance of bodily qualities in maintaining health. Modern scholarship identifies his primary audience as fellow practitioners and medical students, and his writing is particularly celebrated for its exceptionally vivid and precise clinical descriptions of ailments such as diabetes and asthma. The text was preserved through the centuries within the Byzantine scholarly tradition but was lost to Western Europe until a single manuscript was rediscovered in Italy during the mid-16th century. This relatively late rediscovery resulted in the work surviving in a remarkably complete and well-preserved state, largely free from the layers of corruption and interpolation common in many ancient texts that underwent repeated copying over the medieval period.
+
 ## Text
 
 ### 1.1

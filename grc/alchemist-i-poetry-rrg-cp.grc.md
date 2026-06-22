@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-cp` · [HTML page](https://eulogikon.org/works/alchemist-i-poetry-rrg-cp)
 
+The Poetry is a short alchemical treatise composed in verse and attributed to the pseudonymous author known as Alchemist I. It forms part of the foundational Greco-Egyptian corpus of works falsely ascribed to the philosopher Democritus, a collection likely compiled between the first and third centuries CE. Distinguished within early alchemical literature by its poetic form, the text employs a characteristically enigmatic style designed to conceal its practical meanings from the uninitiated. Its content provides instructions for alchemical operations, likely pertaining to metals or dyes, using allegory and symbolic language to obscure the technical processes. The work reflects an implicit belief in the unity and transformability of matter and frames the practitioner's labor as a sacred, divinely inspired art. Transmitted as a fragment within the larger Pseudo-Democritean corpus, the text survives in Byzantine manuscripts such as the Marcianus graecus 299 from the tenth or eleventh century, where it is preserved alongside the works of later alchemists like Zosimos of Panopolis. As a component of the earliest stratum of Greek alchemical writing, The Poetry helped establish key literary conventions for the genre, including the use of verse and pseudepigraphy. The Pseudo-Democritean corpus in which it is embedded provided the foundational knowledge for all subsequent alchemical traditions in the Byzantine, Arabic, and Latin worlds.
+
 ## Text
 
 ### 2.284.(1t)

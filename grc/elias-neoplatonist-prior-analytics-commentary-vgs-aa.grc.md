@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vgs-aa` · [HTML page](https://eulogikon.org/works/elias-neoplatonist-prior-analytics-commentary-vgs-aa)
 
+The Commentary on Aristotle's Prior Analytics is a sixth-century philosophical treatise by Elias, a Neoplatonist philosopher active in Alexandria. Composed in Attic Greek, the work exemplifies the scholarly commentary, a central genre in late antique education, and is structured as a series of explanatory lectures intended to guide students through Aristotle's foundational text on syllogistic logic. It opens with a prolegomenon examining the status of logic itself, surveying the positions of the Stoic, Peripatetic, and Platonic schools on whether logic is a part or merely an instrument of philosophy, before proceeding to a detailed, line-by-line exegesis of the Aristotelian arguments. Modern scholarship interprets the commentary primarily as a pedagogical text, created for use within the Alexandrian school during a significant intellectual transition following the closure of the Platonic Academy in Athens. As Alexandria emerged as a major center for philosophical instruction, its curriculum sought to employ Aristotle's works as a propaedeutic to the higher study of Plato. Consequently, while meticulously explicating Aristotelian doctrine, the commentary is also situated within the broader Neoplatonic project of harmonizing the philosophies of Plato and Aristotle. The complete text of Elias's commentary survives through medieval manuscript transmission and forms part of the important corpus of Greek philosophical commentaries preserved by Byzantine, Islamic, and Renaissance scholars.
+
 ## Text
 
 ### 134 (1t)

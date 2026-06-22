@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-an` · [HTML page](https://eulogikon.org/works/pseudo-galen-weights-measures-tqu-an)
 
+On Weights and Measures is an anonymous Greek metrological treatise from late antiquity, traditionally but erroneously attributed to the physician Galen. Scholarly consensus dates its composition to between the 4th and 7th centuries CE. The work functions as a comprehensive technical manual, systematically cataloging and comparing the diverse systems of weights, measures, and coinage employed across the ancient Mediterranean and Near Eastern world. Structured as a series of approximately 160 concise entries, its core purpose is to provide practical conversion ratios between units from Greek, Roman, Egyptian, Persian, and Hebrew traditions, with special attention given to measurements referenced in the Bible. This detailed reference was indispensable for pharmacists requiring precise drug dosages, as well as for merchants, administrators, and biblical exegetes navigating a complex metrological environment. Preserved in full within medieval manuscripts of Galen’s corpus due to its enduring utility, the treatise is a spurious addition to his authentic works. It stands as a characteristic product of late antique encyclopedism, reflecting the multicultural fabric of the early Byzantine Empire. For centuries it served as a standard authority on metrology, significantly influencing later lexicographers and translators.
+
 ## Text
 
 ### t51-55 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bju-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-letters-bju-aa)
 
+The Letters to Heraclitus is a pseudepigraphic collection of twenty-two short epistles attributed to the pre-Socratic philosopher Heraclitus of Ephesus. The actual author, conventionally designated Pseudo-Heraclitus, composed the work within a later Hellenistic or Roman tradition of crafting philosophical pseudepigrapha. The historical Heraclitus, who flourished around 500 BCE, wrote only in aphoristic fragments; this epistolary corpus is a later fabrication. The letters typify the genre, featuring moral exhortation, advice on living, and philosophical commonplaces concerning virtue and the nature of the cosmos. They also include anecdotes about Heraclitus and, given the comic context noted in its transmission, may contain satire of philosophical discourse. The text survives within medieval manuscripts that transmit pseudepigraphic letters, often alongside works such as those of Diogenes Laërtius. It is preserved as part of the standard, though inauthentic, textual tradition of ancient philosophical writings. The work holds no significant independent philosophical influence. Its value is primarily historical, serving as an example of how later antiquity mythologized pre-Socratic figures and illustrating the reception and popularization of Heraclitus’s thought centuries after his death.
+
 ## Text
 
 ### 1 1 (t1)

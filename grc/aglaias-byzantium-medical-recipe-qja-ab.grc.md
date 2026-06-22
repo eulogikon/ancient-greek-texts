@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qja-ab` · [HTML page](https://eulogikon.org/works/aglaias-byzantium-medical-recipe-qja-ab)
 
+The Medical Recipe for Demetrius is a lost didactic poem by Aglaias of Byzantium, a physician from Constantinople. Composed in verse and structured in nineteen passages, the work is a technical prescription addressed to an individual named Demetrius, situating it within the Byzantine tradition of rendering medical material in poetic form for mnemonic and instructional purposes. Its content focused on medical treatment and pharmacology, employing a didactic poetic form and indicating a relationship of patronage through its dedication. The work is known solely from an entry in the tenth-century Byzantine encyclopedia, the Suda, which records its title, author, and format, but no fragments or further description of its medical content survive. As a lost verse recipe, the poem exemplifies the breadth of technical didactic poetry in the Greek tradition and provides evidence for professional medical exchange and patronage in the Byzantine world.
+
 ## Text
 
 ### book 18.1

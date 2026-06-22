@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ay` · [HTML page](https://eulogikon.org/works/hippocrates-decent-attire-bww-ay)
 
+On Decent Attire is a brief treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates but composed by multiple authors. Written in Ionic Greek during the Classical period, the work comprises fifteen concise passages. It diverges from typical medical texts by eschewing discussions of theory or therapy to focus instead on the professional demeanor and appearance of the physician. The text advises maintaining a serious and thoughtful countenance, wearing clean and moderate clothing, using perfumed ointments, and avoiding excessive laughter or undue familiarity with patients. This conduct is presented as essential for inspiring the confidence and trust necessary for effective practice.
+
+The treatise survives intact within the medieval manuscript tradition of the Hippocratic Corpus. Modern scholarship interprets it as a significant document reflecting the early professionalization of medicine in ancient Greece, wherein physicians sought to establish their authority and distinguish themselves through prescribed ethical behavior and a respectable public image. Its precepts are rooted in contemporary social virtues such as moderation and self-control, aiming to project an aura of moral integrity and competence that would legitimize the healer's role in society.
+
 ## Text
 
 ## Οὐκ ἀλόγως οἱ προβαλλόμενοι τὴν σοφίην πρὸς πολλὰ εἶναι χρησίμην, ταύτην δὴ τὴν ἐν τῷ βίῳ.

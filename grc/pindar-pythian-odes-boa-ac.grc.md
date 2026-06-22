@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `boa-ac` · [HTML page](https://eulogikon.org/works/pindar-pythian-odes-boa-ac)
 
+The Pythian Odes are a collection of twelve victory poems composed by the ancient Greek poet Pindar in the fifth century BCE. Commissioned to celebrate athletes victorious at the prestigious Pythian Games held at Delphi, these choral songs are written in a literary blend of Doric Greek with other dialects. Each ode adheres to a traditional tripartite structure, opening with praise for the victor and his city, expanding into a mythological narrative rich with moral and ethical significance, and concluding with gnomic wisdom and further acclamation. The poems functioned to immortalize the athlete's achievement, honor the god Apollo, patron of the games, and reinforce the social and political standing of aristocratic patrons such as Hieron of Syracuse.
+
+The complete collection has survived largely intact through medieval manuscripts, a rare fortune for works of ancient lyric poetry. Modern scholarship interprets the intricate mythological digressions within the odes as vehicles for ethical guidance and subtle political commentary, often advising powerful patrons on the principles of pious and just rulership. Celebrated for their dense imagery and complex syntax, the odes explore enduring themes including the nature of human excellence, the precarious balance between divine favor and mortal limitation, and the unique, transcendent power of poetry to confer imperishable fame.
+
 ## Text
 
 ### book 1

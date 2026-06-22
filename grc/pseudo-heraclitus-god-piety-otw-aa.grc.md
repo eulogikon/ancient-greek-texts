@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `otw-aa` · [HTML page](https://eulogikon.org/works/pseudo-heraclitus-god-piety-otw-aa)
 
+The Fragments on God and Piety is a pseudepigraphic epistle composed in Koine Greek, likely during the 1st century CE. Falsely attributed to the pre-Socratic philosopher Heraclitus, it forms part of a larger corpus known as the Letters of Heraclitus. The work is structured as a philosophical letter containing fourteen distinct passages that present a sustained argument for the worship of a singular, rational, and benevolent deity. It mounts a philosophical critique against traditional Greek polytheism and the practice of idolatry, redefining true piety not as ritual observance but as an intellectual virtue aligned with a just life.
+
+This text exemplifies a common literary practice in the Roman era, wherein philosophical schools forged letters in the names of venerable ancient thinkers to lend authority and persuasive power to contemporary ideas. The author’s choice to impersonate Heraclitus was strategic, capitalizing on the philosopher’s historical association with the concept of the Logos, or cosmic reason, to frame later theological speculations. The work’s theological content, which blends Stoic pantheistic notions with a pronounced monotheistic tendency, reflects the religious syncretism of its period and indicates points of contact with emerging Jewish and Christian thought.
+
+The Fragments on God and Piety survives not as an independent manuscript but as a component within the pseudepigraphical letter collection, preserved through medieval copying traditions. Scholars universally regard it as spurious, confirming it holds no value as a source for the authentic doctrines of the historical Heraclitus. Nevertheless, it remains a significant document for the study of ancient philosophical forgery, the popularization of theological ideas, and the intellectual crosscurrents of the early imperial era.
+
 ## Text
 
 ### 4 t

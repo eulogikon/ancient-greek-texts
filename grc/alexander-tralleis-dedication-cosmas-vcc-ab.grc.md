@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vcc-ab` · [HTML page](https://eulogikon.org/works/alexander-tralleis-dedication-cosmas-vcc-ab)
 
+The Dedication to Cosmas is a prefatory letter composed in Koine Greek by the sixth-century Byzantine physician Alexander of Tralles. It introduces his principal medical textbook, the Therapeutica, and is addressed personally to his brother, Cosmas, who would later gain renown as the traveler and monk Cosmas Indicopleustes. In this dedication, Alexander explains his motivations for compiling the work, stressing a practical and empirical approach to medicine that synthesizes the teachings of earlier authorities with the insights derived from his own extensive clinical practice. He presents the ensuing medical compendium as a functional manual intended for the use of practicing physicians. The full text of the dedication survives as an integral component of the Therapeutica. The complete work is preserved in numerous Greek manuscripts and was subsequently translated into Latin, Arabic, Syriac, and Hebrew, which facilitated its broad dissemination. Modern scholarship regards the dedication as a valuable document offering insight into the intellectual milieu of late antiquity, illustrating the fraternal connection between two brothers engaged in distinct pursuits—one in empirical medicine and the other in theological geography. The letter serves to establish Alexander's professional credibility and his pragmatic aim to produce a medical resource grounded in both received tradition and direct personal observation.
+
 ## Text
 
 ### 1.289

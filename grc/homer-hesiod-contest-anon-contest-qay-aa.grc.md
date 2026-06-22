@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qay-aa` · [HTML page](https://eulogikon.org/works/homer-hesiod-contest-anon-contest-qay-aa)
 
+The Contest of Homer and Hesiod is a short prose narrative in Attic Greek, believed to have been composed during the Roman Imperial period, likely in the 1st or 2nd century CE. Though anonymous, the work draws upon a much older legendary tradition of a poetic competition between the two foundational figures of Greek literature. The story recounts their meeting at funeral games in Euboea, where Hesiod challenges Homer with a series of questions concerning practical wisdom and statecraft. Homer provides brilliant responses, yet the judge ultimately awards victory to Hesiod, declaring that poetry which advocates for peace and agriculture holds greater social value than poetry celebrating war.
+
+The narrative is presented as a continuous prose story, interweaving the account of the contest with later legends concerning Homer's life and death. The text survives complete in medieval manuscripts, most notably within a 10th-century codex, but scholars generally regard it as a later epitome of a longer, more elaborate Hellenistic original. Modern interpretation views the work primarily as a rhetorical exercise, or progymnasmata, used in ancient education. It reflects the Imperial era's fascination with constructing biographical traditions for canonical authors and engaging in literary debates about the relative merits and social utility of different poetic genres.
+
 ## Text
 
 ### 1

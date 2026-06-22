@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qrc-aa` · [HTML page](https://eulogikon.org/works/theophilus-antioch-autolycus-qrc-aa)
 
+To Autolycus is a three-book apologetic treatise composed in Koine Greek around 180 CE by Theophilus, the sixth bishop of Antioch. Addressed to a skeptical pagan friend of that name, the work systematically defends the Christian faith. The first book argues for the superiority of the Christian conception of a single, invisible and eternal God over the follies of pagan mythology and the worship of man-made idols. The second book presents a detailed historical chronology, aiming to demonstrate that the Hebrew scriptures and prophets, particularly Moses, predate and thus possess greater authority than the revered poets and philosophers of Greece. The third book continues this historical argument while also offering a robust defense of Christian morality, contrasting the ethical life prescribed by Christianity with the immoral conduct depicted in pagan myths. The complete treatise is structured as a sequence of 88 passages across its three books.
+
+A prime example of late second-century Christian apologetics, the work reflects a period when educated Christians actively sought to justify their beliefs to the skeptical Roman elite. Theophilus engages directly with Hellenistic culture, frequently quoting Greek poets such as Hesiod and Homer to counter pagan claims and establish common intellectual ground. Modern scholars regard the treatise as a significant early effort to assert Christianity's intellectual credibility and ancient heritage within the competitive religious landscape of the Greco-Roman world. To Autolycus is the only complete work of Theophilus to survive, preserved in a single eleventh-century manuscript. This textual isolation makes it a vital, though singular, witness to the theological reasoning and apologetic methods characteristic of the early church in Antioch.
+
 ## Text
 
 ### Autol t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmq-aa` · [HTML page](https://eulogikon.org/works/hyperochus-cumae-fragments-mmq-aa)
 
+The Fragments on Cumae, a lost local history attributed to Hyperochus of Cumae, survives only in a handful of quotations preserved by later authors. These brief excerpts, found in the works of Athenaeus, Pausanias, and Festus, provide valuable insights into the customs, traditions, and foundation myths of the important Greek colony of Cumae in Italy. The work is a prime example of horography, a genre dedicated to the history and lore of a single city. The extant fragments describe the luxurious lifestyle of the early Cymaeans, who wore gold and floral garments and traveled to their fields in wagons accompanied by women. They also record local traditions concerning the Cumaean Sibyl, named Demo, noting that while her oracles were not preserved, her bones were kept in a small stone urn in the temple of Apollo. Another fragment presents an etiological myth for the Palatine Hill in Rome, tracing its name, Valentia, to a leader of strength and linking the early inhabitants, the Aborigines, to Greek settlers from Athens and Sicyon. Transmitted indirectly through these later sources, the fragments of Hyperochus's work are essential for understanding the historical self-conception and foundational narratives cultivated by one of the earliest and most influential Greek communities in the West.
+
 ## Text
 
 ## ΚΥΜΑΪΚΑ.

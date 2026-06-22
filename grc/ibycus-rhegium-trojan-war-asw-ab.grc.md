@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `asw-ab` · [HTML page](https://eulogikon.org/works/ibycus-rhegium-trojan-war-asw-ab)
 
+The Fragments on the Trojan War is a modern collective title for the surviving poetry of Ibycus of Rhegium, a Greek choral lyric poet of the sixth century BCE. Composed in a literary Doric dialect for musical performance, these works treat grand mythological themes drawn from the Trojan War cycle, featuring heroes such as Polydeuces and Memnon. Ibycus skillfully blends epic narrative with the personal emotion and vivid imagery characteristic of lyric poetry. A prominent and innovative theme in his surviving lines is the overwhelming power of erotic desire, which he describes with striking natural metaphors. No complete poem by Ibycus survives; the extant corpus consists of 204 highly fragmentary passages preserved through quotations by later ancient authors and papyrus discoveries, such as those from Oxyrhynchus. Modern scholarship interprets his work as a significant bridge between the Homeric epic tradition and the more personal, musical forms of his era, often composed within the sophisticated, patronage-driven court of Polycrates of Samos.
+
 ## Text
 
 ### book S151.1

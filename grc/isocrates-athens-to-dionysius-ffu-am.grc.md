@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-am` · [HTML page](https://eulogikon.org/works/isocrates-athens-to-dionysius-ffu-am)
 
+To Dionysius is a letter composed by the Athenian orator Isocrates and addressed to Dionysius I, the tyrant of Syracuse. Written in Attic Greek around 368 BCE, the work is a published epistolary oration comprising nine concise sections. Isocrates opens by acknowledging the limitations of offering counsel through a letter rather than in person, but proceeds to advise the ruler on the principles of sound governance. He argues that enduring fame and political security are achieved not through the mere accumulation of power or wealth, but through the cultivation of virtue, justice, and wise leadership. The complete text survives within the traditional corpus of Isocrates's works. Modern scholarship generally interprets the letter as a public performance of political philosophy, crafted for circulation among a broader Greek audience as much as for the aging tyrant himself. It exemplifies Isocrates's lifelong concern with promoting stable and virtuous leadership throughout the Hellenic world and stands as an early precursor to the "mirror for princes" genre, examining the ideal dynamic between a ruler and a philosophical counselor.
+
 ## Text
 
 ### Epist 1 t

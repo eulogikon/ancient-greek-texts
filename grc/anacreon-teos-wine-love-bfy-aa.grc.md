@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bfy-aa` · [HTML page](https://eulogikon.org/works/anacreon-teos-wine-love-bfy-aa)
 
+Fragments on Wine and Love is a modern compilation of surviving verses attributed to the 6th-century BCE Greek lyric poet Anacreon of Teos. The original poems were composed in Ionic Greek for musical performance, typically within the aristocratic social setting of the symposium, or drinking party. Preserved through quotations by later ancient authors and on papyrus fragments, these works are defined by their focus on the poet's signature themes: the cultivated enjoyment of wine, the pleasures and pains of erotic desire, and a witty, often ironic, celebration of present delights in conscious defiance of life's brevity and worldly strife.
+
+The extant corpus represents only a fraction of Anacreon's original output, with the collected fragments surviving largely due to their grammatical interest or thematic appeal to later compilers. The poetry is characterized by a refined first-person persona who narrates experiences of love and revelry with polished grace and detachment. Scholars interpret this body of work as artfully crafted for its specific social context, where it served to reflect and reinforce ideals of sophisticated pleasure, conversational elegance, and camaraderie among elite circles. Anacreon himself worked as a court poet for powerful patrons, including Polycrates of Samos and the Athenian Hipparchus, and his verses are understood as integral to the cultural and social bonding of these aristocratic milieus.
+
+Anacreon's distinctive style and hedonistic yet artful themes proved profoundly influential. In antiquity, he was canonized as one of the Nine Lyric Poets. His legacy was perpetuated through later imitations, most notably the pseudonymous Anacreontea, which helped transmit his poetic persona to later ages. His work exerted a significant and lasting influence on the subsequent European tradition of poetry celebrating conviviality, erotic pursuit, and the carpe diem motif.
+
 ## Text
 
 ### book 1.1

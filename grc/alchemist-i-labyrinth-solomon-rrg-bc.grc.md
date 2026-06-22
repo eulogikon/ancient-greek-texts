@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-bc` · [HTML page](https://eulogikon.org/works/alchemist-i-labyrinth-solomon-rrg-bc)
 
+The Labyrinth Built by Solomon is a short, pseudepigraphical Greek alchemical treatise attributed to a figure designated by modern scholars as Alchemist I. Preserved as a single fragmentary passage, the text uses the mythological labyrinth as a metaphor for the alchemical process, attributing its construction to the biblical King Solomon to invoke his traditional authority in esoteric wisdom. The treatise employs the labyrinth as an allegory for the complex and winding path of the alchemical work, describing its endless internal coils, spherical ascents, and a single deceptive entrance that draws the seeker ever deeper. This structure is presented as a symbol for the cyclical and treacherous course of life and the alchemical art itself, which ensnares the practitioner with daily hopes and empty speculations. The text exemplifies the syncretic blend of practical laboratory technique with philosophical and mystical symbolism characteristic of Greco-Egyptian alchemy, and its pseudepigraphical attribution places it within a tradition seeking ancient, divinely-inspired authority for its teachings. It survives within the broader corpus of Greek alchemical writings, transmitted primarily through Byzantine manuscripts. While its direct influence is untraceable, the work is a significant exemplar of late antique alchemy’s integrative nature, merging Greek philosophical concepts, Egyptian craft knowledge, and Judeo-Christian legendary figures into its allegorical framework.
+
 ## Text
 
 ### 2.39.(12t)

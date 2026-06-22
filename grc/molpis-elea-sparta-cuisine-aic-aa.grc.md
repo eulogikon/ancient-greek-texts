@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aic-aa` · [HTML page](https://eulogikon.org/works/molpis-elea-sparta-cuisine-aic-aa)
 
+The Apospasmata, or "Extracts," by Molpis of Elea is a lost antiquarian prose work concerning Spartan social institutions and dietary practices. It belongs to the genre of Spartan constitutional literature, which systematically described the customs and laws of the Lacedaemonian state. The text survives only in fragments, primarily preserved within the Deipnosophistae of Athenaeus, written around 200 CE. These citations indicate the work addressed the characteristic discipline and austere regimen of Spartan life, including the function and rules of the communal mess halls known as syssitia. Specific fragments describe Spartan cuisine, detailing the components of a meal called a kopis—which included bread, meat, raw greens, broth, and figs—and the practice of the mattye, or after-dinner delicacies brought by hunters to showcase their skill. Such customs were typically attributed to the foundational laws of Lycurgus. As part of the broader Hellenistic and Roman antiquarian interest in Sparta, Molpis's work contributed to the scholarly documentation of Spartan society and helped perpetuate the later classical image of Sparta as a polity defined by military discipline, communal living, and culinary austerity.
+
 ## Text
 
 ### t1-3b

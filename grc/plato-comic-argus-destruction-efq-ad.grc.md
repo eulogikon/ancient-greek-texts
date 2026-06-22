@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `efq-ad` · [HTML page](https://eulogikon.org/works/plato-comic-argus-destruction-efq-ad)
 
+The comedy Fragments on Argus and Destruction by Plato the Comic Poet survives only in six brief passages. These fragments, preserved by later grammarians and lexicographers, suggest the play parodied the myth of the many-eyed giant Argus, likely incorporating the personified figure of Destruction. As a work of Old Comedy, it would have blended this mythological parody with contemporary social and political satire performed for the Athenian public. The extant lines, which include references to the god Hermes and the word for destruction, indicate a comedic treatment of the Argus and Io myth, probably interwoven with satire of contemporary Athenian public figures and intellectual trends, a practice consistent with the author’s other works. The fragments are transmitted indirectly through quotations in later ancient scholarly sources, such as Athenaeus, and are collected in modern editions like Poetae Comici Graeci; no manuscript of the complete play exists. While the play’s direct influence is untraceable, its fragments confirm Plato’s engagement with mythological parody. Their preservation underscores his canonical status as a comic poet whose language was deemed worthy of scholarly citation in antiquity.
+
 ## Text
 
 ### book 8

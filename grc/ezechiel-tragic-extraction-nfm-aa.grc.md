@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nfm-aa` · [HTML page](https://eulogikon.org/works/ezechiel-tragic-extraction-nfm-aa)
 
+The Exagōgē, or The Exodus, is a Greek tragic drama composed in verse by Ezechiel the Tragic Poet, a Hellenistic Jewish author of the 2nd century BCE. The work adapts the biblical narrative of the Israelite exodus from Egypt, dramatizing the life of Moses from his infancy and flight from Egypt to his encounter with the burning bush, the subsequent plagues upon Egypt, and the final deliverance of his people. It employs the formal structure and conventions of classical Greek tragedy, including the use of a chorus and messenger speeches to report offstage events. The text survives only in fragments, preserved through quotations by later Christian scholars such as Eusebius of Caesarea, whose citation provides the most substantial extant portion of 269 lines. As a unique cultural synthesis, the play is interpreted by modern scholars as an attempt to present Jewish sacred history within the prestigious literary framework of Greek drama, likely intended for a Greek-speaking audience in Alexandria. It remains the sole complete example of a biblical play from the Hellenistic period.
+
 ## Text
 
 ### 1.1

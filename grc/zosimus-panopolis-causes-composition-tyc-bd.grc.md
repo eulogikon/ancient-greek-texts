@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bd` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-causes-composition-tyc-bd)
 
+On the Causes of Composition is a fragmentary Greek alchemical treatise attributed to Zosimus of Panopolis, an author active in Egypt during the late third or early fourth century CE. The work examines the fundamental principles governing the composition and transformation of substances, merging practical laboratory techniques with philosophical and mystical speculation. Written for fellow practitioners, it is deeply informed by contemporary Gnostic and Hermetic thought, presenting physical transmutation as a process analogous to spiritual purification and ascent. The surviving text, which is incomplete, does not exist as an independent manuscript but is preserved within later Byzantine compilations of alchemical writings. This fragmentary state obscures the treatise's original structure and full content. Scholars regard Zosimus's corpus as the earliest systematic expression of Greek alchemy, a product of the syncretic Greco-Egyptian tradition that integrated craft knowledge with speculative natural philosophy. Despite its incomplete form, On the Causes of Composition was a foundational text, exerting a significant influence on subsequent Byzantine, Islamic, and Latin alchemical traditions through its distinctive synthesis of material practice and spiritual allegory.
+
 ## Text
 
 ### 1

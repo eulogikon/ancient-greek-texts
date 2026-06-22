@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gnq-aa` · [HTML page](https://eulogikon.org/works/clytus-birds-leros-gnq-aa)
 
+The work On the Birds of Leros, attributed to the historian Clytus of Miletus, survives only in fragments. It is known primarily through citations in Athenaeus’s Deipnosophistae, which quote it for details on the diet and characteristics of birds native to the island of Leros. The alternative transmitted title, Extracts, reflects its fragmentary state. The surviving content includes descriptions of local bird species, with a focus on their dietary habits, such as shellfish- or fish-eating behaviors. Given the context of its preservation in Athenaeus’s work on dining and learned conversation, the treatise likely held an interest in the culinary uses of birds. The work is lost and preserved solely in six fragments within later compilations, chiefly those of Athenaeus from the late second or early third century CE; it has no independent manuscript tradition. This treatise represents a specialized example of Peripatetic local natural history. Its fragments contribute to the understanding of ancient Greek chorography and natural science, serving as a minor source for imperial-era encyclopedism and modern scholarship on fragmentary historians.
+
 ## Text
 
 ### t1-3

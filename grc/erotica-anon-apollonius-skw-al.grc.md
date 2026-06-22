@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-al` · [HTML page](https://eulogikon.org/works/erotica-anon-apollonius-skw-al)
 
+_Apollonius_ is an anonymous Greek prose narrative belonging to the genre of erotic fiction. The surviving text, which is fragmentary, depicts a scene involving a queen and a man named Apollonius. The queen initiates physical intimacy, embracing and kissing Apollonius, and explicitly expresses her desire for him, urging him to spend the night with her. The narrative breaks off at this point, and no further details regarding the plot, characters, or its conclusion are known. The work's manuscript tradition, preservation status, and textual history are undocumented. As an anonymous erotic tale, _Apollonius_ would form part of the wider landscape of ancient Greek prose fiction, which encompasses the novel and shorter narrative forms, but its precise literary characteristics and significance remain indeterminate due to the extremely limited nature of the extant text.
+
 ## Text
 
 ### 1

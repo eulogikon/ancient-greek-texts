@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tco-ae` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ae)
 
+The Apotelesmatika is a comprehensive astrological treatise composed in Greek by Hephaestion of Thebes around 380 CE. Functioning as a systematic technical manual, it compiles the doctrines of Hellenistic astrology, detailing methods for casting and interpreting horoscopes concerning birth, future events, and the selection of auspicious times. The work is notably eclectic, synthesizing theories from earlier authorities such as Ptolemy and Dorotheus of Sidon. While the complete text is extensive and traditionally divided into three books, the version referenced here is specifically an excerpt, or Eklogē, representing a selected passage from the larger compendium. The full work survives largely intact through numerous medieval Greek manuscripts, as well as Syriac, Arabic, and later Latin translations, which attest to its widespread use. Modern scholars interpret Hephaestion’s work as a practical handbook for professional astrologers, created during a period of sustained demand for astrological services. It is thought to have been written to preserve and systematize classical astrological knowledge for applied use. The Apotelesmatika was highly influential, serving as a crucial conduit for transmitting Greek astrological science to Byzantine, Islamic, and later Western traditions.
+
 ## Text
 
 ### xxii

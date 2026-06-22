@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oyw-ac` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-foods-oyw-ac)
 
+On Foods is a pseudepigraphical treatise within the Hippocratic Corpus, traditionally but incorrectly attributed to Hippocrates. This concise work is systematically organized into four sections and serves as a practical dietary manual. It catalogs a wide range of foodstuffs—including grains, meats, vegetables, and fruits—and classifies them according to their perceived effects on the human body. Each item is analyzed through the lens of humoral theory, with descriptions of its qualitative properties, such as whether it is moistening or drying, cooling or heating. The underlying principle is that health depends on a balance of the four bodily humors and that diet is a primary therapeutic tool for maintaining or restoring this equilibrium.
+
+The treatise survives complete within the Greek manuscript tradition of the Hippocratic Corpus. The critical edition by Émile Littré in his Oeuvres complètes d'Hippocrate remains the standard scholarly text. Analysis of its style and doctrinal content confirms its status as a non-Hippocratic work from the classical period. On Foods exemplifies the central Hippocratic emphasis on regimen and preventive medicine. Its systematic dietary principles were later expanded and commented upon by Galen, ensuring the treatise's enduring influence on nutritional theory throughout medieval Islamic and European medicine.
+
 ## Text
 
 ### 479 (9)

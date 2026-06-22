@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jdi-ab` · [HTML page](https://eulogikon.org/works/diodorus-sinope-parasitic-dining-jdi-ab)
 
+"On Parasitic Dining" is a lost comedic work attributed to the poet Diodorus of Sinope, a figure associated with the period of Middle Comedy in ancient Greece. Known only by its title and a brief entry in the tenth-century Byzantine encyclopedia known as the Suda, the work is also referenced under the alternate title "Apospasmata," meaning "Extracts." This designation, along with a notation that it consisted of forty-eight verse passages, strongly suggests the text was not a complete play but rather a collection of excerpts compiled from a longer comedy. No direct quotations from the work survive in the extant literary record.
+
+As a product of Middle Comedy, which flourished roughly between 400 and 323 BCE, the subject matter would have centered on the stock character of the parasite, a familiar comic type who secured meals and patronage through flattery and wit. The treatise-like title implies a humorous, perhaps even mock-scholarly, examination of this social role. Thematically, the work would have explored the parasite's strategies for survival, the dynamics of dependency and patronage in Athenian society, and the comedic potential of hunger and gluttony, while often offering a satirical critique of social hypocrisy and pretense. Diodorus of Sinope himself remains a shadowy figure; the Suda credits him with thirty comedies, though "On Parasitic Dining" is among only a few specific titles that have been preserved. While the work's direct influence cannot be traced, its thematic focus exemplifies the formalization of the parasite character during Middle Comedy, a type that would later be inherited and refined by Roman playwrights such as Plautus and Terence.
+
 ## Text
 
 ### book 1.1

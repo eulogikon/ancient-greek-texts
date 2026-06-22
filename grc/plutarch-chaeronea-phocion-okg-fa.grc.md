@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fa` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-phocion-okg-fa)
 
+Phocion is a biography by the Greek writer Plutarch, composed in Greek around 100–120 CE as part of his Parallel Lives. In this series, it is paired with the life of the Roman statesman Cato the Younger. The work chronicles the career of Phocion, an Athenian general and statesman who lived from approximately 402 to 318 BCE. Renowned for his personal integrity and frugality, Phocion was repeatedly elected to high office despite his advocacy for a policy of peaceful accommodation with the rising power of Macedon under Philip II and Alexander the Great, a stance often unpopular with the Athenian populace. Plutarch’s narrative details Phocion’s extensive military service, his political leadership during a turbulent period, and his tragic execution by the restored Athenian democracy following a failed uprising.
+
+The biography survives intact through the full manuscript tradition of Plutarch’s Lives. Plutarch wrote with an explicit moral purpose, employing historical figures to exemplify character traits and ethical principles. He presents Phocion as a virtuous and pragmatic leader whose noble intentions and prudent counsel were ultimately overcome by the fickleness of the democratic mob, leading to his unjust death. The deliberate pairing with Cato the Younger underscores their shared identity as austere, uncompromising defenders of their respective republics’ liberty, each choosing death over submission to what they perceived as tyranny. The biography explores enduring themes of principled leadership amidst democratic fervor and the realistic management of imperial decline, subjects of acute relevance to Plutarch’s Greek contemporaries living under the stable authority of the Roman Empire.
+
 ## Text
 
 ### Phoc t 1

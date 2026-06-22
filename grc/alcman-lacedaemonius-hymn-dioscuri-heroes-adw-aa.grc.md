@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `adw-aa` · [HTML page](https://eulogikon.org/works/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa)
 
+The Hymn to the Dioscuri and Heroes is a modern collective title for the fragmentary remains of poetry by Alcman, a choral lyric poet of seventh-century BCE Sparta. The corpus consists of 329 excerpts, traditionally referred to as Apospásmata, which represent the surviving evidence of his work. Composed in the Doric dialect for musical performance by choruses at public festivals, these fragments encompass a variety of genres and themes. They include hymns to deities, most notably the Spartan hero-gods Castor and Polydeuces, the Dioscuri, as well as mythological narratives, vivid depictions of the natural world, and meditations on beauty, desire, and mortality.
+
+The fragments survive indirectly through quotations in later ancient authors, grammatical scholia, and papyrus discoveries in Egypt. A particularly significant papyrus contains a substantial portion of a Partheneion, or maiden-song, which, while not the hymn to the Dioscuri per se, is instrumental for understanding Alcman’s poetic technique and performative context. Scholarly interpretation positions this poetry within the framework of Spartan religious and civic ritual, where it functioned to honor the gods and solidify communal identity during a formative period in the city-state’s history. As the earliest known practitioner of choral lyric, Alcman’s fragments provide an invaluable window into early Spartan culture and the performance traditions of archaic Greek poetry.
+
 ## Text
 
 ### book 1.1

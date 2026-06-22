@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kly-ac` · [HTML page](https://eulogikon.org/works/eratosthenes-cyrene-cosmic-order-kly-ac)
 
+The Fragments on Cosmic Order is a collection of fourteen passages attributed to the Hellenistic polymath Eratosthenes of Cyrene. While the treatise is not directly attested in major historical sources, its title indicates a philosophical inquiry into the arrangement of the universe, a subject consistent with Eratosthenes's wide-ranging scientific pursuits and his tenure as head of the Library of Alexandria. The content of these fragments, inferred from his broader intellectual profile, would likely have engaged with theories of cosmic structure, potentially synthesizing Presocratic, Platonic, and Aristotelian thought. It may also have applied mathematical or geometric principles to celestial phenomena, reflecting his characteristic integration of geographical, astronomical, and philosophical knowledge. The work survives only in excerpted form, a fate common to most of Eratosthenes's writings, and would have been transmitted through quotations by later authors such as Strabo or Cleomedes. Although its direct influence remains untraceable, the fragments exemplify Eratosthenes's methodological approach, which combined mathematical precision with philosophical inquiry and underpinned his significant contributions to geography and astronomy.
+
 ## Text
 
 ### 4

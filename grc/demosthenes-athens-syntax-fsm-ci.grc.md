@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ci` · [HTML page](https://eulogikon.org/works/demosthenes-athens-syntax-fsm-ci)
 
+The oration On Syntax is a work spuriously attributed to the Athenian orator Demosthenes. It does not belong to his authentic corpus, which consists entirely of political and forensic speeches addressing the urgent civic and legal concerns of fourth-century Athens, such as the Philippics and Against Meidias. No grammatical or theoretical treatise is recorded among his genuine works, and major scholarly collections of his orations do not include this title. The subject implied by the title, concerning grammatical or rhetorical sentence construction, represents a theoretical focus entirely alien to the practical, immediate advocacy that characterizes Demosthenic oratory. There is no evidence for the work's transmission within the medieval manuscript tradition that preserved Demosthenes' authentic speeches, suggesting the attribution likely stems from a later misidentification or confusion with an unrelated grammatical treatise. While Demosthenes' canonical speeches were immensely influential as models of Attic prose and were studied by later rhetoricians, the spurious On Syntax holds no attested place in this tradition. Its significance is primarily bibliographical, serving as an example of the misattributions that occasionally occur within the classical corpus.
+
 ## Text
 
 ### Or13 1

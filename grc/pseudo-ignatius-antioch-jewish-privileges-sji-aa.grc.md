@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sji-aa` · [HTML page](https://eulogikon.org/works/pseudo-ignatius-antioch-jewish-privileges-sji-aa)
 
+The Letters on Jewish Privileges is a pseudepigraphic text falsely ascribed to Ignatius of Antioch. Preserved only in two brief fragments quoted by the fourth-century historian Eusebius of Caesarea in his Ecclesiastical History, the work is cited by him as an example of a spurious writing. The lost original epistles argued for the continued observance of Mosaic law and Jewish customs by Christians, a theological position associated with the Judaizing faction that was directly opposed by the authentic letters of Ignatius. Based on Eusebius’s description, the content advocated for a law-observant form of Christianity, thereby contradicting the anti-Judaizing polemic central to the genuine Ignatian corpus. The complete text is lost and has no independent manuscript tradition; its existence and content are known solely from Eusebius’s adversarial quotation, providing a terminus ante quem of approximately 324 CE. While the letters themselves had minimal direct influence, being rejected as forgeries by a major ecclesiastical authority, their significance lies as historical evidence for the intense intra-Christian debates between Judaizing and Gentile factions during the second and third centuries. They also serve as a notable example of how pseudepigraphy was employed to lend apostolic authority to contested theological positions in early Christian literature.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ak` · [HTML page](https://eulogikon.org/works/galen-pergamon-commentaries-epidemics-3-qmm-ak)
 
+Galen's Commentaries on Hippocrates' Book III of Epidemics is a detailed medical exegesis composed in Greek around 175–180 CE. In this treatise, the physician Galen of Pergamon provides a meticulous, passage-by-passage analysis of the 42 case histories contained within the Hippocratic text Epidemics III. His work functions as a comprehensive scholarly apparatus, aiming to elucidate obscure terminology, clarify clinical observations, and defend what he considered the authentic, rationalist doctrine of Hippocrates. The commentary served multiple purposes: it was a pedagogical tool for advanced medical students, a polemical text for arguing against rival medical sects such as the Empiricists, and a vehicle for legitimizing Galen's own theories by presenting them as the direct and true continuation of Hippocratic wisdom.
+
+The complete text survives through medieval Greek manuscripts and remained a cornerstone of medical education for over a millennium. Translated into Arabic in the 9th century, it played a major role in the development of Islamic medicine; subsequent Latin translations ensured its continued use in European universities. The commentary fundamentally shaped the reception of the Hippocratic Corpus for centuries, systematically framing Hippocrates as a theoretical rationalist whose ideas on the body's natural and purposeful processes were in precise alignment with Galen's own physiological system.
+
 ## Text
 
 ### 17a 480 (t1)

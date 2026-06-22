@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-am` · [HTML page](https://eulogikon.org/works/appian-alexandria-testimony-pdc-am)
 
+The Testimony is a lost, fragmentary work attributed to the Greek historian Appian of Alexandria. It is cataloged only as a single passage and receives no description in surviving sources. Appian is principally known for his Roman History, a substantial 24-book ethnographic narrative of Rome's wars, but the content and purpose of the Testimony remain entirely unknown. The work is preserved solely as a brief citation, or testimonium, within another text, possessing no independent manuscript tradition. The 10th-century Byzantine Suda encyclopedia, while mentioning an autobiography by Appian, does not list this particular title. As a lost work, its historical influence cannot be assessed. Appian's scholarly significance rests entirely on his surviving historical writings, most notably his detailed narrative of the Roman Civil Wars.
+
 ## Text
 
 ### 2b,237,T 1

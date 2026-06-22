@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ai` · [HTML page](https://eulogikon.org/works/erotica-anon-sesonchosis-skw-ai)
 
+_Sesonchosis_ is an anonymous Greek prose narrative belonging to the genre of ancient romance. Its title derives from a Hellenized form of an Egyptian pharaonic name, indicating a fictional account centered on the legendary conqueror-pharaoh Sesostris, a figure conflated in Greek tradition with historical rulers such as Senwosret and Ramesses II. Classified as an erotic narrative, the work focuses on romantic or amorous episodes within a pseudo-historical Egyptian setting. It survives only as a single passage, which may represent either a fragment of a longer work or a short, self-contained story.
+
+The extant fragment describes a military conflict between Egyptians and Arabs, detailing a battle in which many combatants on both sides perish. The Arab forces, seeing their numbers diminish daily while Egyptian reinforcements arrive from other regions, are routed; only their leader, Oubelios, escapes with a few followers. The victorious Egyptians, fearing a renewed invasion, subsequently fortify their frontier cities. The narrative then shifts, with Sesonchosis receiving a report from a character named Thaimos. While the specific romantic or erotic content implied by the genre is not present in this fragment, the work as a whole would have engaged with core themes of the ancient Greek novel, such as love and desire, royal power, adventure, the exoticized depiction of Egypt, and the role of fortune.
+
+The text is preserved solely in this one passage, suggesting it survives as a papyrus fragment or an excerpt within a later compilation. It forms part of the fragmentary corpus of ancient Greek novels, many of which are known only through similarly brief remains. _Sesonchosis_ represents the novelistic treatment of the enduring Sesostris legend, contributing to the Greco-Roman literary perception of Egypt's past. Its combination of erotic and historical framing aligns with the popular genre of Greek romance, which frequently used exotic settings and legendary figures to explore universal themes of love, adventure, and reversal of fortune.
+
 ## Text
 
 ### [25]

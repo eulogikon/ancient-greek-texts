@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-aj` · [HTML page](https://eulogikon.org/works/aesop-dositheus-fables-aqo-aj)
 
+The Fables of Dositheus is a collection of seventeen prose fables preserved within the medieval manuscript tradition of Aesopic literature. Attributed to the legendary fabulist Aesop, the compilation bears the name of a figure called Dositheus, whose precise role as author, compiler, or dedicatee remains uncertain. The fables follow the classic Aesopic structure, presenting brief narratives, frequently involving animal characters, that culminate in an explicit moral lesson. Their themes encompass practical wisdom and ethical conduct, social critique of power dynamics and arrogance, and the inevitable consequences of one's actions, thereby reinforcing the instructive purpose of the tales.
+
+The work survives as an integral part of the vast Aesopic corpus transmitted through major manuscript families such as the Augustana, Vindobonensis, and Accursiana. Modern scholarly editions reconstruct its text from these sources. While not individually distinguished, the Fables of Dositheus contributes to the immense and influential body of Aesopic literature that has served as a foundational tool for education and rhetoric for over two millennia. This tradition, extended by later authors including Phaedrus and Jean de La Fontaine, has profoundly shaped the development of Western literary culture.
+
 ## Text
 
 ### 1 (t)

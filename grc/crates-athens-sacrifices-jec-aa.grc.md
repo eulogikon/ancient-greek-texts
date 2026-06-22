@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jec-aa` · [HTML page](https://eulogikon.org/works/crates-athens-sacrifices-jec-aa)
 
+On Athenian Sacrifices (also known by the title Apospasmata, meaning "Excerpts") is a lost prose treatise attributed to the Hellenistic antiquarian Crates of Athens. The work functioned as a scholarly compilation detailing the rituals, deities, and religious calendar associated with sacrificial practice in ancient Athens. It systematically addressed the specific procedures performed, the heroes and gods honored in Attic cult, the festival contexts for various sacrifices, and provided antiquarian explanations for the origins of ritual details. The treatise is preserved only in fragments, cited by later grammarians and scholiasts such as Photius, Harpocration, and the Suda. These citations demonstrate that the work was used by later lexicographers as an authoritative source for clarifying obscure Athenian ritual terminology. Through these fragments, Crates' compilation served as a significant conduit for preserving knowledge of Athenian religious practice, influencing both Byzantine and early modern scholarly understanding of Greek cult.
+
 ## Text
 
 ### t1-5f

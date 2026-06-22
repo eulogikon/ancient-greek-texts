@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ecy-aa` · [HTML page](https://eulogikon.org/works/hellenica-anon-london-fragments-ecy-aa)
 
+The London Fragments of Uncertain Placement are a collection of papyrus fragments, designated as British Library Papyrus 3083, which preserve a portion of a Greek historical narrative. Written in a prose style characteristic of fourth-century BCE historiography, the text details military campaigns in the northern Aegean, focusing on the activities of the Athenian general Iphicrates in the regions of the Hellespont and Thrace. The narrative includes an account of the capture of a city and the subsequent fate of its garrison, situating these events within the period of Spartan hegemony following the Peloponnesian War. These fragments are attributed on stylistic and contextual grounds to the anonymous author of the lost historical work known as the Hellenica Oxyrhynchia. They survive only in this damaged papyrus, which was published in 1968, and are considered a direct textual witness to that important source. As such, the fragments provide a crucial alternative perspective to the history of Xenophon, valued by modern scholars for their detailed factual reporting. They contribute significantly to the understanding of Greek political and military history in the tumultuous era between the end of the Peloponnesian War and the rise of Macedonian power.
+
 ## Text
 
 ### 72

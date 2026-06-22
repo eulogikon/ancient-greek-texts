@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hee-ab` · [HTML page](https://eulogikon.org/works/apollodorus-gela-household-management-hee-ab)
 
+The Fragments on Household Management by Apollodorus of Gela is a lost comedic work from the 4th century BCE, known only by its title and the notation that it comprised eleven passages. As a comedy of its period, it would have treated the theme of household management satirically, likely as a collection of excerpts or scenes from a longer play. Based on the conventions of Middle Comedy, its themes probably included the mishandling of domestic finances and estate management, satire of household roles such as the steward or the husband and wife, conflicts between masters and slaves, and the perils of extravagance and failures of thrift. The work is preserved solely as a title listed in the 10th-century Byzantine encyclopedia, the Suda, and by the compiler Athenaeus from the 2nd or 3rd century CE. The notation of eleven passages refers to fragments available to these later scholars, none of which are directly quoted in surviving sources. Apollodorus’s work belongs to the tradition of Middle Comedy, which shifted focus toward domestic and social satire and influenced later Roman comedy. Its preservation only as a title exemplifies the fragmentary state of our knowledge of this genre.
+
 ## Text
 
 ### book 1.1

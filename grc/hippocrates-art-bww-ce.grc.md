@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ce` · [HTML page](https://eulogikon.org/works/hippocrates-art-bww-ce)
 
+On Art is a medical treatise from Classical Greece, composed in Ionic Greek around 430–420 BCE. Although traditionally attributed to the physician Hippocrates, it is the work of an unknown author within the broader Hippocratic school. The treatise is a structured, rhetorical defense of medicine as a true and rational art, written to counter contemporary critics, likely sophists or philosophers, who argued that medical failures demonstrated the practice was merely a matter of chance.
+
+The work systematically contends that medicine constitutes a genuine art, or technē, comparable to navigation or writing, because it is founded on knowledge, possesses a defined subject in disease, and follows a methodical approach to achieve its goal of health. It carefully distinguishes between failures resulting from a physician's error and those arising from the severity of an illness or a patient's own actions, maintaining that such external factors do not invalidate the art itself. Stylistically, the treatise is more philosophical and apologetic than practical, reflecting the intense intellectual debates in late 5th-century Athens concerning the nature of knowledge and professional expertise. The complete text survives through the medieval manuscript tradition of the Hippocratic Corpus.
+
 ## Text
 
 ## Εἰσί τινες οἳ τέχνην πεποίηνται τὸ τὰς τέχνας αἰσχροεπεῖν, ὡς μὲν οἴονται οἱ τοῦτο διαπρησσόμενοι, οὐχ ὃ ἐγὼ λέγω, ἀλλ’ ἱστορίης οἰκείης ἐπίδειξιν ποιεύμενοι.

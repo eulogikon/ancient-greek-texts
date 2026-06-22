@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qng-aa` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-method-awesomeness-qng-aa)
 
+On the Method of Awesomeness is a rhetorical treatise by Hermogenes of Tarsus, composed in Greek around 180 CE. As a progymnasma, or preliminary exercise, it was designed to train students in persuasive oratory through a systematic analysis of the concept of deinotēs—the force, power, or compelling quality inherent in great speech. The work methodically examines how rhetorical power is generated through style, diction, and composition, structuring its inquiry into thirty-seven distinct passages. It survives intact as part of the larger corpus of Hermogenes' rhetorical writings.
+
+Composed during the Second Sophistic, a period of revived Greek cultural and educational activity under Roman rule, the treatise functions as a technical manual for advanced students and teachers within the imperial Greek educational system. It reflects the principles of the Atticist movement, which emphasized the linguistic standards of classical Athenian orators. The influence of On the Method of Awesomeness was profound and enduring; it became a standard textbook for centuries within the Byzantine educational tradition, where it was preserved through extensive copying and scholarly commentary.
+
 ## Text
 
 ### 1 (t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bt` · [HTML page](https://eulogikon.org/works/demosthenes-athens-phormio-loan-fsm-bt)
 
+To Phormio-Loan is a forensic oration from Classical Athens, attributed to the orator Demosthenes and dated to approximately 350–340 BCE. Composed for a client named Apollodorus, the speech was intended for delivery in a private legal dispute concerning a maritime loan. The case involves Apollodorus, a shipowner, and the banker Phormio, who contested the terms of a loan of two thousand drachmas issued to finance a commercial voyage to the Black Sea. The core argument presented is that the loan contract was satisfied upon the safe return of the vessel, whereas the lender alleged a breach of its conditions. The oration, structured in forty-four sections, adheres to conventional Athenian legal form, systematically presenting a narrative of events, legal arguments grounded in contract, and a refutation of the opposing party's claims.
+
+The speech offers a detailed view of the complex and risk-laden world of Athenian maritime finance, where such loans were essential for enabling long-distance trade. It was crafted for an Athenian jury, whose verdict would rely on both the rhetorical force of the arguments and their own familiarity with commercial customs. The text survives in its entirety within the Demosthenic corpus, where it is numbered as Oration 34 in modern editions. Although some stylistic features have led certain scholars to question its authenticity, it is generally accepted as a genuine example of mid-fourth-century Athenian legal rhetoric. It remains a vital historical source for the study of ancient Greek contract law, economic history, and the techniques of forensic oratory.
+
 ## Text
 
 ### Or34 1

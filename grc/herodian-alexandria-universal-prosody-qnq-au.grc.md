@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-au` · [HTML page](https://eulogikon.org/works/herodian-alexandria-universal-prosody-qnq-au)
 
+_On Universal Prosody_ is a major grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. This systematic work, considered his most important, aimed to establish universal, rule-based principles for Greek accentuation. The original composition was extensive, comprising twenty books, but it survives today only in fragments and through extensive quotations preserved in the works of later grammarians and in Byzantine epitomes and scholia. The treatise represents a deductive, normative linguistic project, analyzing examples drawn from a vast corpus of Greek literature, including Homeric and Attic texts, to standardize and preserve the correct pronunciation of literary Greek. Its transmission through these secondary sources was profoundly influential; Herodian’s analysis became the foundational authority on Greek accents for subsequent centuries. The work was central to Byzantine education and scholarship, and the rules it promulgated ultimately shaped the standard accentuation of classical Greek texts as they were transmitted in medieval manuscripts for over a millennium.
+
 ## Text
 
 ### 3,1 1 (1t)

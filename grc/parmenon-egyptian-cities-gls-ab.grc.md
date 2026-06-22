@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gls-ab` · [HTML page](https://eulogikon.org/works/parmenon-egyptian-cities-gls-ab)
 
+The Fragments on Egyptian Cities is a lost verse work by the Hellenistic poet Parmenon, known only through five brief citations preserved in the Ethnica, a sixth-century CE geographical lexicon compiled by Stephanus of Byzantium. These short fragments, often comprising just a single line, record the names and poetic epithets of various Egyptian urban centers. The surviving lines, composed in iambic meter, offer alternative names or descriptive phrases for cities, such as referring to Coptos as "Coptos of beautiful dances." The work functioned as a kind of poetic gazetteer, cataloging geographical names and occasionally hinting at local customs or characteristics through its chosen epithets. As no independent manuscript tradition exists, the text is purely fragmentary, surviving solely through its utility as a source for later lexicography. The fragments represent a specialized subgenre of Hellenistic scholarly poetry, and their primary historical significance lies in their contribution of rare toponymic information to the Byzantine scholarly tradition.
+
 ## Text
 
 ### book 604A.1

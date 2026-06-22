@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-av` · [HTML page](https://eulogikon.org/works/lysias-against-philocrates-ejc-av)
 
+"Against Philocrates, Epilogue" is a fragmentary forensic oration from the corpus of the Attic orator Lysias. Cataloged as Speech 60 in modern editions, it survives only in 15 excerpted passages. The text constitutes the concluding section of a prosecution speech against an individual named Philocrates, designed to summarize the legal arguments and make a final emotional appeal to the jurors. The surviving content focuses on the prosecution of the defendant, employing forensic argumentation through recapitulation and direct appeal, including a character attack against the accused. The complete speech is lost; the fragments are preserved through indirect transmission, having been quoted by later lexicographers, grammarians, and rhetoricians who used Lysias's works as models of style. While the work's direct influence is untraceable due to its fragmentary state, its preservation in later scholarly citations attests to the continued study of the Lysianic corpus throughout antiquity, a body of work esteemed as a model of clear Attic prose and effective forensic persuasion.
+
 ## Text
 
 ### Or29 t

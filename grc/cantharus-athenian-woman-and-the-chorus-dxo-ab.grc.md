@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dxo-ab` · [HTML page](https://eulogikon.org/works/cantharus-athenian-woman-and-the-chorus-dxo-ab)
 
+_The Athenian Woman and the Chorus_ is a lost Old Comedy by the late-5th century BCE Athenian poet Cantharus, a contemporary and rival of Aristophanes. The work survives only in fragmentary form, indicated by the descriptor "Extracts," with its plot unrecoverable. The title, however, suggests a conventional focus for the genre, likely exploring themes such as gender roles and the behavior of women in Athenian society, political satire of contemporary figures or policies, and the metatheatrical function of the chorus as both character and civic commentator. The play is preserved solely through six fragmentary passages, likely cited by later grammarians or anthologists such as Athenaeus for their linguistic or cultural interest, and these are cataloged in standard scholarly collections. Cantharus notably defeated Aristophanes' _The Wasps_ to win first prize at the City Dionysia in 422 BCE. The work's primary significance lies in its contribution to understanding the competitive landscape of Old Comedy beyond its major surviving figures; this victory demonstrates the diversity of popular comic styles in Classical Athens. The fragments remain chiefly of interest to specialists engaged in reconstructing the history of lost Athenian drama.
+
 ## Text
 
 ### book 1.1

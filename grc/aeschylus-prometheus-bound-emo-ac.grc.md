@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emo-ac` · [HTML page](https://eulogikon.org/works/aeschylus-prometheus-bound-emo-ac)
 
+Prometheus Bound is an ancient Greek tragedy traditionally ascribed to Aeschylus. The play dramatizes the punishment of the Titan Prometheus, who is bound to a remote Scythian cliff by order of Zeus for the crime of stealing fire from the gods and bestowing it upon humanity. Its dramatic structure is singular, as the immobilized protagonist remains fixed upon the rock throughout the action, which unfolds entirely through a series of dialogues with visitors. These include a chorus of Oceanids, the sea nymph daughters of Oceanus; the Titan Oceanus himself; the maiden Io, who has been transformed into a cow and driven mad by the wrath of Hera; and finally the messenger god Hermes, who delivers Zeus's final ultimatum. The play concludes with Prometheus, defiant and in possession of a secret prophecy that threatens Zeus's reign, being cast into the abyss as the cliff collapses around him.
+
+Scholarly consensus on the play's date and authorship remains unsettled. While transmitted as part of the Aeschylean corpus, significant stylistic and metrical divergences from his authenticated works have led many modern scholars to propose a later composition, possibly in the 430s BCE, by an unknown playwright. It is generally believed to have been the first play in a connected trilogy, followed by the lost works Prometheus Unbound and Prometheus the Fire-Bearer; the absence of these companion pieces limits a complete understanding of the trilogy's overarching theological and philosophical resolution. Thematically, the work explores profound conflicts between intelligence and tyrannical power, the civilizing gifts bestowed upon humanity, and the nature of righteous suffering in defiance of unjust authority. Its enduring portrayal of Prometheus as the defiant benefactor of mankind has established the figure as a potent and recurring symbol in Western literature, art, and political thought.
+
 ## Text
 
 ### 1

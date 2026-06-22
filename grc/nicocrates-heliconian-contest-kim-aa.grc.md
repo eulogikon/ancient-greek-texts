@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kim-aa` · [HTML page](https://eulogikon.org/works/nicocrates-heliconian-contest-kim-aa)
 
+The work On the Heliconian Contest, attributed to the otherwise unknown historian Nicocrates, is preserved only by its title and a handful of fragments. Its subject was likely a musical or poetic competition held at the Valley of the Muses on Mount Helicon in Boeotia, a major cult center for the Muses and the site of the Mouseia festival. An alternative title, Extracts, indicates that the surviving remnants are quotations preserved by later authors. Based on its title and the genre of local history, the work probably addressed the religious cult and sanctuaries of the Muses, the history and conduct of Greek musical and poetic competitions, and Boeotian topography and festival rituals. The work is known solely from an entry in the tenth-century Byzantine encyclopedia, the Suda. The few surviving passages represent fragments quoted in lost intermediary sources, with no independent manuscript tradition. Its primary importance lies as a trace of lost Boeotian local history, serving as a source for the reception of the Heliconian festival and exemplifying the antiquarian interests of Hellenistic historians.
+
 ## Text
 
 ## ΠΕΡΙ ΤΟΥ ΕΝ ΕΛΙΚΩΝΙ ΑΓΩΝΟΣ.

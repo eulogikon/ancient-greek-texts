@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-al` · [HTML page](https://eulogikon.org/works/homer-sixth-life-jho-al)
 
+The Sixth Life is an anonymous prose biography traditionally attributed to Homer, forming part of the ancient corpus of legendary Lives of Homer. These texts compile competing anecdotes and traditions concerning the poet’s origins and death, often constructed to claim him for specific city-states. This particular Life is structured in two passages and belongs to the same genre as the Contest of Homer and Hesiod and other pseudo-biographies. Its narrative, though not detailed in extant sources, conforms to the core themes of the Lives tradition, including competing claims about Homer’s parentage and birthplace, anecdotes concerning the source of his poetic genius, legendary accounts of his death frequently involving oracles, and the cultural appropriation of Homer’s figure for local prestige. The Sixth Life is preserved within the medieval manuscript tradition of Homeric works, typically included as introductory material to copies of the Iliad and the Odyssey. As part of the Homeric biographical corpus, it helped shape the legendary image of the poet throughout the medieval and Renaissance periods. Modern scholarship values these texts primarily for the insights they provide into ancient biographical practices and the reception of Homer, rather than for any historical fact they might contain.
+
 ## Text
 
 ### [45]

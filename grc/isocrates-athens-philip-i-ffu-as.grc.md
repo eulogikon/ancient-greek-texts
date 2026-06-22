@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-as` · [HTML page](https://eulogikon.org/works/isocrates-athens-philip-i-ffu-as)
 
+To Philip I is a political oration composed in 346 BCE by the Athenian rhetorician Isocrates. Addressed to King Philip II of Macedon, it is structured as a published open letter containing seventeen passages of persuasive argument. The work urges Philip to unify the historically divided Greek city-states and lead them in a collective war against the Persian Empire. Isocrates presents this pan-Hellenic campaign as a solution to chronic internal strife and economic hardship in Greece, contending it would redirect violence outward and bring prosperity. Composed in Attic Greek shortly after a peace treaty between Athens and Macedon, the oration reflects Isocrates’s long-held political vision. At about ninety years old, he saw a powerful monarch as the necessary leader to transcend local conflicts. The text systematically builds a case for Philip’s suitability, citing his military power, his mythical descent from the Greek hero Heracles, and his past favors to Greek communities. Modern scholars interpret the work as a key document of fourth-century political thought, advocating for Hellenic cultural unity under Macedonian leadership—an idea that would later be realized by Philip’s son, Alexander the Great. The oration survives intact through a reliable medieval manuscript tradition, having been preserved for centuries as a model of rhetorical style.
+
 ## Text
 
 ### Epist 2 t

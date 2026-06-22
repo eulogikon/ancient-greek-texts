@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nmu-aa` · [HTML page](https://eulogikon.org/works/pamphila-epidaurus-historical-memoranda-nmu-aa)
 
+The Historical Memoranda was a substantial scholarly compilation in thirty-three books by Pamphila of Epidaurus, a Greek author active during the reign of Nero in the first century CE. Structured as a prose miscellany rather than a continuous narrative, the work assembled a wide array of anecdotes, biographical details, and chronological notes concerning philosophers, poets, and historical figures, which Pamphila systematically collected from her extensive reading. The original text is now lost, surviving only through eleven fragments preserved in the quotations of later authors. The principal source for these fragments is the third-century biographer Diogenes Laërtius, who relied on Pamphila for information on figures such as Thales, Chilon, Pittacus, and Cleobulus, as well as Socrates and Plato. Additional citations are found in the writings of the Byzantine scholar Photius. The work represents a significant example of the Roman-era tradition of knowledge compilation, serving to organize and preserve elements of the Greek cultural and intellectual heritage. Pamphila’s project is regarded by modern scholars as an important, though fragmentary, contribution to the history of philosophical biography and anecdotal history. Her status as a rare female compiler from antiquity lends her work a distinctive place in the historiographical tradition.
+
 ## Text
 
 ### t1-10

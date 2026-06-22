@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bj` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bj)
 
+The Sacred Words Third is an autobiographical oration by the second-century CE orator Aelius Aristides. Composed around 170–171 CE, it forms the third installment in a series of six works collectively known as the Sacred Tales. The text is a first-person narrative detailing the author's protracted and severe illness, alongside the dreams, oracles, and therapeutic regimens he received from the healing god Asclepius at his sanctuary in Pergamum. Structured in twelve sections, the oration meticulously documents a personal medical history interwoven with religious piety, describing divinely prescribed treatments such as controlled bathing, dietary restrictions, and purgatives.
+
+The work survives complete within Aristides' transmitted corpus, preserved chiefly in a thirteenth-century manuscript. It was composed during the period of the Second Sophistic, a cultural movement that prized the revival of classical Greek rhetoric and literary forms under Roman imperial authority. Scholars regard the Sacred Tales as a singular document of ancient religious experience, offering crucial evidence for the practices of temple medicine and dream incubation in the Greco-Roman world. Written for a literate and sophisticated audience, the oration functions simultaneously as a profound votive offering of gratitude to Asclepius and as a consummate demonstration of Aristides' rhetorical artistry.
+
 ## Text
 
 ### [5]

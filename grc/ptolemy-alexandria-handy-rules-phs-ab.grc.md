@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ab` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-handy-rules-phs-ab)
 
+The Arrangement and Voting of Handy Rules, conventionally known as the Handy Tables, is a practical astronomical manual composed in Greek by Claudius Ptolemy of Alexandria around 150 CE. It functions as a working companion to his foundational theoretical work, the Almagest, and was designed to streamline the intricate calculations required for astrology and observational astronomy. The treatise comprises a series of explanatory canons, or procedural rules, which provide step-by-step instructions for using an accompanying set of pre-computed numerical tables. These tables and instructions allow a practitioner to determine planetary positions, the timing of eclipses, and other celestial phenomena without performing the underlying mathematical derivations from first principles.
+
+Scholars regard the work as an astronomical toolbox crafted for the use of practicing astrologers, scribes, and calendar keepers rather than for theoretical mathematicians. Its primary aim was to standardize and expedite the process of casting horoscopes and maintaining accurate calendars. The unusual term "Voting" in its title is interpreted as a metaphorical reference to the process of tallying or adjudicating the numerical results extracted from the tables. The original Greek explanatory text survives, most completely in a ninth-century manuscript, though the numerical tables themselves were subject to frequent copying, correction, and updating over subsequent centuries.
+
+The work's influence was extended through translations into Syriac, Arabic, and Latin, with the Arabic tradition proving particularly vigorous and influential. Later commentators, most notably Theon of Alexandria, produced revised and annotated editions. By providing a standardized template for astronomical computation, the Handy Tables established the enduring pattern for practical astronomical handbooks and remained a central tool for celestial calculation in the Byzantine, Islamic, and medieval Latin worlds for more than a millennium.
+
 ## Text
 
 ### 2 159

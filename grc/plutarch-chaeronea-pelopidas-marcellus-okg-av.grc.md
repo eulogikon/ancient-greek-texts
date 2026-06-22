@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-av` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pelopidas-marcellus-okg-av)
 
+The Comparison of Pelopidas and Marcellus is a concluding analytical essay by the Greek biographer Plutarch, composed in Attic Greek around 100–120 CE. It forms the final section of his paired biographies of the Theban general Pelopidas and the Roman general Marcus Claudius Marcellus within the larger corpus of his Parallel Lives. The essay systematically contrasts the two leaders across fifteen distinct passages, shifting from narrative biography to direct evaluation. Plutarch assesses their respective military accomplishments, personal virtues and vices, political conduct, and the influence of fortune on their careers and ultimate fates. The complete text survives as an integral component of the Parallel Lives manuscript tradition. Written for a literate, bilingual Greco-Roman audience, the work exemplifies the cultural synthesis of the early Roman Empire. Modern scholarship interprets the essay as fulfilling the core moral-didactic purpose of Plutarch’s biographical project. It employs historical comparison not merely for factual juxtaposition but as a method of ethical inquiry, probing universal questions of leadership, civic virtue, and the common good through the examination of specific exemplars from Greek and Roman history.
+
 ## Text
 
 ### 1 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ago-aa` · [HTML page](https://eulogikon.org/works/callinus-ephesus-exhortation-young-ago-aa)
 
+The Exhortation to the Young is a collection of poetic fragments attributed to Callinus of Ephesus, one of the earliest known Greek elegiac poets. Composed in the mid-7th century BCE in epic Ionic Greek, the work is a prime example of martial exhortation poetry. Its most substantial and famous fragment directly addresses the young men of Ephesus, urging them to rouse their courage and defend their city from an imminent attack, which scholars associate with the invading Cimmerians. The poem argues that an honorable death in battle brings eternal glory to the individual and his family, while cowardice leads only to shame and a miserable, forgotten end. Other surviving fragments briefly explore supporting themes of inescapable fate, the will of the gods, and the inherent fragility of human life.
+
+The work survives not as a complete, continuous poem but as a series of approximately fifteen fragments, the longest of which extends to twenty-one lines. These pieces were preserved solely through quotation by later ancient authors such as Stobaeus and Strabo, with no independent manuscript tradition. Modern interpretation views the Exhortation as a clear example of civic poetry with a practical function, designed to bolster the morale of citizen-soldiers during a period of military crisis in Archaic Greece. Callinus’s adaptation of the elegiac couplet—a meter previously associated with lament—for public, martial themes established a influential model that was later refined by poets such as the Spartan Tyrtaeus.
+
 ## Text
 
 ### book 1.1

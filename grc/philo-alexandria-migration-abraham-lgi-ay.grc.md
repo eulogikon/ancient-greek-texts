@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-ay` · [HTML page](https://eulogikon.org/works/philo-alexandria-migration-abraham-lgi-ay)
 
+On the Migration of Abraham is a philosophical treatise by Philo of Alexandria, a first-century Jewish philosopher. It offers an allegorical exegesis of the biblical command from Genesis for Abraham to leave his country, his kindred, and his father’s house. Philo interprets this divine injunction not as a literal journey but as a profound spiritual allegory. The migration symbolizes the soul’s necessary departure from three domains: the “land” represents the corporeal body, “kindred” signifies the deceptive realm of the senses, and the “father’s house” stands for uttered speech, which is inherently imperfect. True progress, for Philo, requires the soul to detach from these attachments to embark on a quest for virtue and a direct knowledge of the divine.
+
+The treatise, comprising 204 sections, is preserved in its entirety through medieval manuscript traditions maintained by Christian scribes who valued Philo’s interpretive methods. A seminal work of Hellenistic Jewish thought, it masterfully synthesizes scriptural narrative with Greek philosophical concepts, particularly from Middle Platonism and Stoicism. Philo posits the patriarch Abraham as the archetype of the soul in ascent, modeling the philosophical life of ethical and contemplative perfection. Written for an educated audience conversant with both the Septuagint and Hellenistic philosophy, the treatise argues for the philosophical depth of Mosaic law. Its allegorical method proved immensely influential, providing a foundational hermeneutic for later Christian theologians, especially within the Alexandrian school of Clement and Origen.
+
 ## Text
 
 ### Migr t

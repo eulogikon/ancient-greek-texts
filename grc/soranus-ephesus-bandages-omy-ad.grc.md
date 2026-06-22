@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `omy-ad` · [HTML page](https://eulogikon.org/works/soranus-ephesus-bandages-omy-ad)
 
+On Bandages is a specialized medical treatise by the Roman-era physician Soranus of Ephesus, likely composed in the first or second century CE. The work is a concise, technical manual dedicated exclusively to the methods of applying bandages and dressings. It is structured as a series of sixty-one brief passages, each detailing a specific type of bandage, such as the T-bandage or the rhomboid bandage, with precise, step-by-step instructions for its application to various parts of the body. The original text by Soranus is lost and survives only through excerpts preserved by later medical compilers, most notably within the fourth-century Medical Collections of Orthasius. Modern scholarship interprets the treatise as a practical handbook for physicians and students, embodying the pragmatic, methodical approach of the Methodist school of medicine to which Soranus belonged. It stands as a significant record of the hands-on surgical and wound-care knowledge of the ancient world.
+
 ## Text
 
 ## ΣΩΡΑΝΟΥ ΠΕΡΙ ΕΠΙΔΕΣΜΩΝ Θέντες τὴν ἀρχὴν κατὰ μεσοφρύου ὥστε ἀποκρέμασθαι ἄγομεν 〈τὴν〉 ἐπείλησιν εὐθεῖαν κατὰ βρέγματος ἄχρι ἰνίου, ἐγκύκλιον δὲ κατὰ μετώπου.

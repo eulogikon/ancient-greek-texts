@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ct` · [HTML page](https://eulogikon.org/works/galen-pergamon-anatomical-procedures-qmm-ct)
 
+On Anatomical Procedures is a detailed medical treatise written in Greek by the physician Galen of Pergamon during his residence in Rome, likely composed between 170 and 192 CE. It stands as his most comprehensive guide to dissection and vivisection, conceived as a practical manual for advanced medical students. The work systematically instructs readers on the dissection of various animals, including apes, pigs, and oxen, progressing methodically from the study of bones and muscles to the more complex structures of nerves, blood vessels, and the brain. Galen emphasizes meticulous procedure and manual skill, consistently advocating for direct observation as the indispensable foundation of all medical knowledge.
+
+Originally comprising fifteen books, the text survives in an incomplete state. Books 1 through 9 and 11 through 15 are preserved in the original Greek, but Book 10 is lost in Greek and survives only through medieval Arabic translations and later Latin versions. Modern scholarship interprets the treatise as a product of its historical context, shaped by the Roman-era prohibitions on human dissection. Consequently, Galen's influential descriptions of human anatomy were largely extrapolated from animal models, particularly the Barbary macaque, which he believed most closely resembled human physiology. The work also functions as a robust defense of empirical research against the more theoretical and dogmatic medical approaches prevalent in his time. For over a millennium, On Anatomical Procedures served as the definitive anatomical textbook, profoundly shaping medical education in both the Islamic world and medieval Europe until the anatomical discoveries of the Renaissance.
+
 ## Text
 
 ### 2 215 (t1)

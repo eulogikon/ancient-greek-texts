@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bjk-aa` · [HTML page](https://eulogikon.org/works/phrynichus-heracles-fragments-bjk-aa)
 
+The Fragments on Heracles is a modern scholarly compilation of forty-three brief passages attributed to the early Athenian tragic poet Phrynichus. These textual remnants, preserved not in manuscripts of his plays but through quotations in later lexicographers and grammarians such as Athenaeus and the Suda, are believed to originate from one or more now-lost tragedies or satyr plays by Phrynichus that featured the hero Heracles. No continuous narrative or plot can be reconstructed from these scattered pieces. Given their fragmentary nature, specific thematic concerns are elusive, though they likely engaged with conventional treatments of the hero current in early Greek drama, including themes of heroic labor and suffering, the interaction between divine and mortal realms, and the nature of strength and madness. The transmission of these fragments is entirely indirect, relying on citations by later Greek authors who quoted Phrynichus for linguistic or antiquarian interest, with the standard modern collection found in the Tragicorum Graecorum Fragmenta. As a pioneer of Athenian tragedy and an older contemporary of Aeschylus, Phrynichus played a significant role in shaping the genre’s formal development, including the expansion of the number of actors. While the direct influence of his Heracles play or plays is untraceable due to their complete loss, his innovative approach to subject matter contributed to the expanding thematic possibilities of early tragedy.
+
 ## Text
 
 ### book 1

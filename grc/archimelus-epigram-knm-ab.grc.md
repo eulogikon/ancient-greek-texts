@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `knm-ab` · [HTML page](https://eulogikon.org/works/archimelus-epigram-knm-ab)
 
+Archimelus was a Hellenistic Greek epigrammatist active in the 3rd century BCE, most notably at the court of Ptolemy II Philadelphus in Alexandria. His work survives exclusively within the manuscript tradition of the Greek Anthology, appearing across several of its thematic books, including those dedicated to dedicatory, sepulchral, and epideictic poetry. The poems attributed to him encompass traditional epigrammatic genres, featuring encomiastic verses praising the Ptolemaic ruler, descriptive pieces on votive offerings, and epitaphs for both historical and contemporary figures. One of his most significant surviving epigrams offers an ekphrastic description of Lysippus’s famous statue of Opportunity, or Kairos, serving as an important literary testimony for this lost work of sculpture. His refined verses represent the artistic development of the epigram form during the Alexandrian period and function as valuable historical documents of courtly culture and royal ideology.
+
 ## Text
 
 ### book 50.1.1

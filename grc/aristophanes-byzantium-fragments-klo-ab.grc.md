@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `klo-ab` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-fragments-klo-ab)
 
+The Other Books of Aristophanes, or Fragments, refers to the scattered remains of scholarly treatises by the Alexandrian grammarian Aristophanes of Byzantium, who served as head librarian around 200 BCE. These works were not commentaries on his own comedies but rather systematic studies on linguistic and literary topics, as evidenced by surviving references to treatises with titles such as On Analogy, On the Aegis, and On the Mourning Wand. The original texts are lost, and our knowledge of them derives entirely from fragments—brief quotations, paraphrases, or mentions—preserved in the works of later grammarians, lexicographers, and within the scholia of medieval manuscripts. These fragments reveal a scholarly focus on precise philological analysis, including discussions of Homeric personification, dialectal word usage, and analogical patterns in language. The collection represents a significant component of the Alexandrian scholarly project to systematize and elucidate classical Greek texts, contributing foundational work to the fields of grammar, textual criticism, and literary exegesis that influenced subsequent ancient scholarship.
+
 ## Text
 
 ### 1 t

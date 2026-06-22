@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sys-ai` · [HTML page](https://eulogikon.org/works/synesius-cyrene-hymns-sys-ai)
 
+The Hymns of Synesius of Cyrene constitute a collection of ten philosophical poems composed in Greek between approximately 390 and 410 CE. As a late antique bishop and philosopher, Synesius crafted these works not for liturgical use but as sophisticated personal meditations that synthesize Neoplatonic metaphysics with Christian theological concepts. Written in classical poetic meters, the ten hymns comprise a total of forty-two stanzas and are formally addressed to abstract divine principles such as the supreme One, the Cosmic Intellect, and the World Soul. Their contemplative structure explores the soul's descent into the material realm, its attendant suffering, and its potential ascent back to divine unity through purification and intellectual striving.
+
+Scholars regard the hymns as a distinctive artifact of Synesius's intellectual journey, likely composed during his transition from being a pupil of the Neoplatonist philosopher Hypatia to his eventual role as a Christian bishop. They appear to have served a private, devotional function, embodying the complex syncretism characteristic of educated elites in late antiquity who sought to harmonize pagan philosophical traditions with emerging Christian doctrine. The complete collection has been preserved through medieval manuscript transmission, with the oldest extant copies dating from the fourteenth century. As such, it provides a valuable perspective on the spiritual and philosophical currents of the period, illustrating the enduring influence of Platonic thought within early Christian intellectual life.
+
 ## Text
 
 ### 1.(50)

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mui-aa` · [HTML page](https://eulogikon.org/works/dionysius-thrace-grammatical-art-mui-aa)
 
+The Grammatical Art is a foundational treatise on the Greek language, traditionally attributed to the Hellenistic scholar Dionysius Thrax. Composed around 100 BCE, this concise technical manual systematically defines the study of grammar and analyzes the language's structure. It famously opens by defining grammar as the practical knowledge of the usages of poets and prose writers. The work then outlines the six constituent parts of the grammatical art: skilled reading aloud with proper pronunciation, explanation of poetic devices, clarification of rare words and historical references, investigation of etymology, the working out of grammatical regularities, and the judgment of literary works, which it declares the finest part of all. It provides detailed prescriptions for reading different genres, such as tragedy, comedy, and epic, with appropriate expression.
+
+Its core and most influential section details the eight parts of speech—noun, verb, participle, article, pronoun, preposition, adverb, and conjunction—a taxonomy that fundamentally shaped Western linguistic thought for centuries. The text originated within the Alexandrian scholarly community, where Dionysius was a pupil of the famed Homeric critic Aristarchus. It was designed to provide students of literature and rhetoric with the technical framework necessary for advanced textual study and is regarded as a pivotal work that helped transform grammar from a tool for literary criticism into a formal, independent discipline.
+
+The transmission of the Grammatical Art is complex. While its core doctrine remains remarkably stable, scholars believe the surviving text likely includes expansions and interpolations from later centuries, as it was used continuously as a standard textbook. It survives in numerous Greek manuscripts accompanied by extensive ancient and medieval commentaries and was translated early into Armenian and Syriac. Its structure was directly adapted by Latin grammarians, ensuring its profound and enduring influence on education from the Roman era through the Middle Ages and into the Renaissance.
+
 ## Text
 
 ### 1 1 5

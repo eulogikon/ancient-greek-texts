@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jsi-aa` · [HTML page](https://eulogikon.org/works/phoenicides-comic-courtesans-jsi-aa)
 
+The Fragments of Comic Courtesans is a collection of twenty-five poetic excerpts attributed to the comic poet Phoenicides. The work survives only indirectly, preserved primarily through quotations in the Deipnosophistae of Athenaeus of Naucratis, written in the second or third century CE. Athenaeus cites these fragments for their depictions of hetaerae, or courtesans. The collection has no independent manuscript tradition and was likely compiled by an unknown anthologist after the poet's lifetime, surviving solely through its incorporation into later scholarly works. The extant passages focus on the lives and portrayals of courtesans, a common subject in Greek comedy, and illustrate associated themes of luxury and symposium culture. These fragments preserve otherwise lost comic material by Phoenicides, providing valuable evidence for the literary treatment of hetaerae and demonstrating the ancient practice of creating thematic anthologies.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `btu-aa` · [HTML page](https://eulogikon.org/works/oenopides-chios-testimonies-btu-aa)
 
+The Testimonies is a modern scholarly compilation of ancient references to the 5th-century BCE philosopher and mathematician Oenopides of Chios. No original writings by Oenopides survive; this collection assembles fifteen fragmentary reports from later Greek authors, including Proclus, Theon of Smyrna, and Aëtius. These testimonia record his principal contributions to mathematical astronomy and geometry. He is credited with calculating a 59-year cycle, known as a Great Year, for reconciling solar and lunar calendars, and with discovering the obliquity of the ecliptic, the axial tilt of the Earth. In geometry, he is noted for solving problems such as inscribing a fifteen-sided polygon within a circle. These reports constitute the sole evidence for his work, placing him within the tradition of Ionian pre-Socratic philosophy. Scholars interpret the testimonies as demonstrating Oenopides's significant role in applying geometric principles to celestial phenomena, thereby advancing a more mathematical approach to cosmology. The transmission of his ideas is entirely indirect, filtered through the perspectives of later commentators and historians of science, and has been reconstructed in modern critical editions dedicated to the study of ancient philosophy.
+
 ## Text
 
 ### 1

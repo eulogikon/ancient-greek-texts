@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `taq-aa` · [HTML page](https://eulogikon.org/works/hesychius-alexandria-letter-eulogius-taq-aa)
 
+The Letter to Eulogius is an epistolary treatise by the grammarian Hesychius of Alexandria. Structured as a formal letter, it constitutes a focused piece of grammatical commentary written in response to a scholarly inquiry regarding the interpretation of the rare word amphasíē, which denotes a state of speechlessness, in Homer's Odyssey. The work systematically presents Hesychius's own lexicographical analysis of the term alongside the exegesis of other grammarians, thereby serving as a concise example of Homeric criticism. The letter survives as an independent text, transmitted separately from Hesychius's major Lexicon in manuscripts dedicated to grammatical works; it remains complete and is available in modern critical editions. As a concrete artifact of late antique scholarship, the treatise illustrates the meticulous philological discourse conducted between scholars and exemplifies the methodological rigor that underpinned larger reference works, contributing to the cumulative tradition of ancient and Byzantine philology.
+
 ## Text
 
 ### [45]

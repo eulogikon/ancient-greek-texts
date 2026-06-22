@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bs` · [HTML page](https://eulogikon.org/works/aristotle-good-happy-life-hgw-bs)
 
+On the Good and Happy Life is a title attributed to Aristotle, though the work does not form part of his standard surviving corpus. The title likely refers to a later compilation of excerpts, as suggested by its alternative Greek designation meaning "Extracts." These passages may be connected to a lost Aristotelian treatise on happiness, which is recorded in ancient catalogs of his works. If the content genuinely derives from Aristotle, its themes would center on his core ethical doctrines, exploring the nature of the highest human good, or eudaimonia, understood as flourishing or living well. This would involve examining the essential relationship between virtue and happiness, the distinct roles of intellectual and moral excellence, and the argument that human flourishing constitutes the excellent activity of reason in accordance with virtue. The work is not transmitted through the principal medieval manuscript tradition of Aristotle's texts; the extant passages likely survive as fragments or quotations preserved in later anthologies. While these specific fragments themselves have no discernible independent influence, the Aristotelian concepts they would have contained exercised a profound and lasting impact. Aristotle's formulation of eudaimonia as rational, virtuous activity fundamentally shaped Hellenistic philosophy, was later engaged with and integrated into Islamic philosophical traditions, and was comprehensively synthesized into Christian moral theology by thinkers such as Thomas Aquinas.
+
 ## Text
 
 ### 672

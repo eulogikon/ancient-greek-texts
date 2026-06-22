@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hxk-aa` · [HTML page](https://eulogikon.org/works/timaeus-tauromenium-testimonies-hxk-aa)
 
+The Testimonies is a lost scholarly compilation attributed to the Sicilian historian Timaeus of Tauromenium, who flourished in the late 4th and early 3rd centuries BCE. As recorded in the 10th-century Byzantine encyclopedia known as the Suda, the work consisted of 46 passages. It represents not a continuous historical narrative but a collection of source material, reflecting Timaeus's renowned methodological rigor. His approach to history was characterized by a strong emphasis on evidence, making extensive use of documentary and epigraphic sources. The content of the Testimonies likely served as a foundational apparatus for his other historical writings, focusing on the careful verification of facts, systematic chronology using the Olympiad dating system he helped establish, and critical evaluation of documents pertaining primarily to Sicilian and Western Greek affairs. Despite its loss, the mere existence of such a work underscores Timaeus's pioneering role in developing historical methodology. His development of Olympiad chronology became the standard framework for Greek historians, and his insistence on archival research set an important precedent for later historical practice. The work's eventual disappearance is part of the broader loss of Timaeus's writings, which was accelerated by severe criticism from subsequent historians, most notably Polybius. The Testimonies stands as an early testament to the scholarly impulse to ground historical narrative in citable and verifiable evidence.
+
 ## Text
 
 ### 3b,566,T 1

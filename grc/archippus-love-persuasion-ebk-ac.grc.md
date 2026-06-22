@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ebk-ac` · [HTML page](https://eulogikon.org/works/archippus-love-persuasion-ebk-ac)
 
+The Fragments on Love and Persuasion is a modern descriptive title for a collection of seven fragmentary passages attributed to the Athenian comic poet Archippus. A contemporary of Aristophanes active in the late 5th century BCE, Archippus was a practitioner of Old Comedy whose complete works are lost. The fragments, which concern the intertwined themes of Eros and Peitho, originate from his non-extant plays and are preserved through later quotations. They engage with central comic preoccupations of the period, including the disruptive and humorous power of sexual desire and the art of rhetoric and seduction, often satirized in both political and personal contexts. The content suggests mockery of contemporary Athenian manners, potentially involving lovers, politicians, or sophists, and some fragments may derive from known mythological parodies like his play The Fishes, which comically portrayed gods and heroes.
+
+Like most fragmentary comic poets, the work of Archippus survives indirectly through citations by later grammarians and anthologists, most notably Athenaeus in his Deipnosophistae from the 2nd or 3rd century CE. The standard modern scholarly collection for these and other fragments is Poetae Comici Graeci. While the direct influence of Archippus is minimal due to the fragmentary state of his oeuvre, these passages contribute historically to understanding the breadth of Old Comedy beyond its major surviving figures. They provide valuable evidence for the genre's thematic range, linguistic style, and its persistent engagement with the social and intellectual currents of late 5th-century Athenian society.
+
 ## Text
 
 ### book 1

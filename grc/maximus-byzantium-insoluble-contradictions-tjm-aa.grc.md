@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tjm-aa` · [HTML page](https://eulogikon.org/works/maximus-byzantium-insoluble-contradictions-tjm-aa)
 
+The oration On the Insoluble Contradictions by Maximus of Byzantium addresses the rhetorical and logical challenges posed by formally irresolvable paradoxes. Its title indicates a focus on self-referential contradictions akin to the Liar Paradox, a topic of enduring dialectical and rhetorical interest since the Classical period. The work systematically presents methods for handling such insoluble arguments in oratorical practice, advising strategies that range from counter-accusation and deferral to the division of a paradox into manageable parts or the strategic redirection of a judge's attention. The author, Maximus of Byzantium, remains an obscure figure with no known biographical details, and the oration's original context is lost. The work is not attested within the principal surviving corpora of ancient Greek literature, and its manuscript tradition is undocumented in standard reference works. Nevertheless, its subject matter places it within a significant intellectual tradition exploring the limits of language, truth, and logical consistency.
+
 ## Text
 
 ### 14.427.(1t)

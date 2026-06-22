@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nbg-aa` · [HTML page](https://eulogikon.org/works/socrates-rhodes-cleopatra-banquet-nbg-aa)
 
+_On Cleopatra's Banquet_ is a fragmentary historical prose text attributed to Socrates of Rhodes, also known by the title _Extracts_. The work centers on a famously extravagant banquet hosted by Cleopatra VII for the Roman triumvir Mark Antony in Cilicia during the late 1st century BCE. Its most detailed surviving passage, preserved by the later author Athenaeus, describes the queen's strategic display of wealth, including the dissolution of a priceless pearl earring in vinegar, which she then drank to win a wager. This anecdote exemplifies the work's anecdotal and sensational style, which emphasizes the almost unimaginable luxury of the Ptolemaic court and offers a moralizing critique of such decadence within the established literary trope of the Oriental banquet. The text is entirely lost except for four fragments quoted by Athenaeus in his _Deipnosophistae_, surviving through this secondary transmission alone without an independent manuscript tradition. The legend of Cleopatra's pearl, as transmitted by Socrates of Rhodes, became one of the most enduring stories about the queen. Repeated by subsequent authors like Pliny the Elder, it profoundly shaped the popular image of Cleopatra as a figure of lavish spectacle and cunning, influencing artistic and literary depictions for centuries.
+
 ## Text
 
 ### t1-2

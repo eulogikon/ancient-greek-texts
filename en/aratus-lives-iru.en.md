@@ -25,9 +25,9 @@ Aratus Lives collects fourteen ancient biographies of the Hellenistic poet Aratu
 - [Introduction to Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-introduction-iru-ah.grc.md) — *Εἰσαγωγὴ εἰς τὸν Ἄρατον* · `iru-ah`
 - [Introduction to Aratus,-Interpretation](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-introduction-iru-ad.grc.md) — *Περὶ ἐξηγήσεως* · `iru-ad`
 - [Letter to Julian](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-letter-to-julian-iru-aa.grc.md) — *Πρὸς Ἰουλιανὸν ἐπιστολή* · `iru-aa`
-- [Life of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-life-iru-aj.grc.md) — *Βίος Ἀράτου* · `iru-aj`
 - [Life of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-life-iru-ab.grc.md) — *Βίος Ἀράτου* · `iru-ab`
 - [Life of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-life-iru-al.grc.md) — *Βίος Ἄρατου* · `iru-al`
+- [Life of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-life-iru-aj.grc.md) — *Βίος Ἀράτου* · `iru-aj`
 - [Life of Aratus](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-life-iru-ak.grc.md) — *Βίος Ἀράτου* · `iru-ak`
 - [On the Zodiac](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-zodiac-iru-am.grc.md) — *Περὶ τοῦ Ζῳδιακοῦ* · `iru-am`
 - [Phenomena](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-phenomena-iru-ac.grc.md) — *Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου* · `iru-ac`

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `buo-ab` · [HTML page](https://eulogikon.org/works/sophocles-women-of-trachis-buo-ab)
 
+The Women of Trachis is a tragedy by the Athenian playwright Sophocles, composed in the mid-to-late 5th century BCE. The play dramatizes the final day in the life of the hero Heracles, but its central focus is his wife, Deianeira, who anxiously awaits his return in the city of Trachis. The plot is propelled by a series of reports and messengers. Fearing that Heracles' affections have turned to a younger captive, Iole, Deianeira sends him a robe anointed with what she believes is a love charm. The substance is in fact a deadly poison, given to her years earlier by the dying centaur Nessus. Upon learning that the robe is consuming her husband's flesh, Deianeira kills herself. Heracles is then brought on stage in agonized torment, and the play concludes with his commands for his own funeral pyre. The complete work survives as 1,280 lines of verse, structured through episodes of dialogue and choral odes sung by a chorus of local women. Its dramatic architecture is notable for the delayed entrance of the titular hero, who does not appear until the final scenes. The tragedy is a profound exploration of ignorance, catastrophic good intentions, and the destructive collision between the domestic sphere and the world of heroic myth. Written for the citizen audience of Athenian dramatic festivals, it engages with contemporary ideas concerning marriage, fate, and suffering. The text has been preserved through medieval manuscripts and remains one of seven complete tragedies by Sophocles extant today.
+
 ## Text
 
 ### 1

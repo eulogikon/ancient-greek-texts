@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxc-ab` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-posterior-analytics-commentary-uxc-ab)
 
+John Philoponus of Alexandria’s Commentary on Aristotle’s Posterior Analytics is a comprehensive philosophical treatise from the early sixth century CE. It provides a detailed, lecture-based exegesis of Aristotle’s foundational work on scientific demonstration and epistemic certainty. Philoponus, a Christian philosopher and polymath working within the Alexandrian Neoplatonic school, composed the commentary as an advanced teaching guide. While he states it originated from the seminars of his teacher Ammonius Hermeiou, the work is substantially expanded with Philoponus’s own analytical contributions and critical observations.
+
+The commentary meticulously follows the structure of Aristotle’s text, offering paraphrase, explanation, and independent logical discussion across its 440 sections. Its primary aim is to elucidate Aristotle’s complex theories on the nature of demonstrative syllogism, scientific definition, and the principles of necessary knowledge. Philoponus positions the Posterior Analytics as the culminating goal of Aristotle’s entire logical project, arguing that understanding simple propositions and general syllogisms, treated in earlier works like the Categories and Prior Analytics, is a necessary prerequisite for grasping the specialized demonstrative syllogism at the heart of scientific inquiry.
+
+As a surviving complete text, preserved in numerous Byzantine manuscripts, the commentary is a crucial document for understanding the methods of late antique Aristotelian education. It exemplifies the Neoplatonic practice of detailed textual analysis while also showcasing Philoponus’s independent philosophical engagement. The work holds significant historical importance as a key conduit of Aristotelian logic, forming a vital link between late antique Greek scholarship and subsequent medieval traditions in the Byzantine, Arabic, and Latin intellectual worlds.
+
 ## Text
 
 ### In APo 13,3 1 (1T)

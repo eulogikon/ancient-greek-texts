@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ce` · [HTML page](https://eulogikon.org/works/galen-pergamon-pulses-differences-qmm-ce)
 
+On the Differences of Pulses is a medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek around 170–180 CE. Written in Rome, the work represents a systematic and exhaustive guide to pulse diagnosis, aiming to synthesize and refine the theories of earlier Greek physicians. Galen methodically classifies the subtle variations in a patient's pulse according to its size, speed, strength, and rhythm across 270 sections, constructing a detailed diagnostic taxonomy. This framework was designed to enable practitioners to distinguish precisely between healthy pulses and those indicating pathology, functioning as a precise manual for clinical assessment. The treatise is a cornerstone of Galen's writings on sphygmology and is closely related to his companion work, On the Causes of Pulses. It exemplifies his broader project to standardize medical knowledge by integrating direct observation with a logical theoretical structure derived from Hippocratic principles, intended for both practicing physicians and advanced students. The complete text survives through Byzantine manuscripts and exerted profound influence after its translation into Arabic and later Latin, fundamentally shaping diagnostic practice in the Islamic world and medieval Europe for centuries.
+
 ## Text
 
 ### 8 493 (t1)

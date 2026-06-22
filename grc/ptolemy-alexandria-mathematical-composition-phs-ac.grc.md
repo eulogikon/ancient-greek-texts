@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ac` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-mathematical-composition-phs-ac)
 
+The Mathematical Composition, universally known as the Almagest, is a foundational astronomical treatise written by Claudius Ptolemy around 150 CE. This comprehensive work in thirteen books systematically presents a geocentric, mathematical model of the universe. It aims to predict the motions of the sun, moon, planets, and stars using complex geometrical models, including epicycles and eccentric circles. The text is highly structured, beginning with an introduction that establishes philosophical principles and the sphericity of the heavens and Earth. It then progresses through essential mathematical tools and trigonometry, solar and lunar theory, eclipses, a catalog of stars, and finally the intricate motions of the five known planets. Ptolemy composed the work in Alexandria, synthesizing centuries of Greek astronomical knowledge, particularly from Hipparchus. It was written for a scholarly audience of mathematicians and philosophers, providing a complete predictive system based on the principle of uniform circular motion. The complete text survives intact, primarily transmitted through Byzantine Greek manuscripts and, most influentially, through 9th-century Arabic translations, from which it gained its famous title. This transmission made it the cornerstone of astronomy in both the Islamic world and medieval Europe for over a millennium. Modern scholars view it as one of the most influential scientific works from antiquity, defining astronomical practice until the Copernican revolution.
+
 ## Text
 
 ### 1,1 3

@@ -1,6 +1,6 @@
 # Ancient Greek Texts
 
-> CC0 corpus of 1,352 authors and 4,051 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, and plain text. Data store for [Eulogikon](https://eulogikon.org).
+> CC0 corpus of 1,353 authors and 4,055 ancient Greek works (Greek text plus English metadata), published as PDF, Markdown, and plain text. Data store for [Eulogikon](https://eulogikon.org).
 
 This repository is a flat file archive. Do not crawl `grc/` or `en/` to discover contents — use the lookup files below.
 
@@ -24,8 +24,8 @@ Licence: CC0 1.0 Universal — public domain, no restrictions on use, redistribu
 ## Lookup indexes
 
 - [README](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/README.md): corpus overview, layout, licence
-- [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,352 rows)
-- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,051 rows; grep/filter friendly)
+- [manifest.authors.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json): compact author index (1,353 rows)
+- [manifest.works.min.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv): compact work index (4,055 rows; grep/filter friendly)
 - [dataset.jsonld](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/dataset.jsonld): schema.org Dataset metadata (JSON-LD)
 - [CITATION.cff](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff): citation metadata
 
@@ -42,12 +42,14 @@ Pre-built PDF bundles, one per domain. Useful for a topic-scoped first pass befo
 - [grammar](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/grammar.pdf): all grammar texts
 - [history](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/history.pdf): all history texts
 - [law](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/law.pdf): all law texts
+- [lexicography](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/lexicography.pdf): all lexicography texts
 - [mathematics](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/mathematics.pdf): all mathematics texts
 - [medicine](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/medicine.pdf): all medicine texts
 - [oratory](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/oratory.pdf): all oratory texts
 - [philosophy](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/philosophy.pdf): all philosophy texts
 - [poetry](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/poetry.pdf): all poetry texts
 - [rhetoric](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/rhetoric.pdf): all rhetoric texts
+- [scholia](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/scholia.pdf): all scholia texts
 - [science](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/science.pdf): all science texts
 - [theology](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/domains/theology.pdf): all theology texts
 
@@ -85,6 +87,6 @@ Pre-built PDF bundles, one per philosophical school or tradition.
 
 Skip these unless you need an exhaustive offline dump — each is far too large to load whole into a context window:
 
-- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,403 entries)
+- [MANIFEST.md](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md): full human-readable index (~5,408 entries)
 - [manifest.json](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json): full nested machine-readable index
 - [manifest.csv](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv): full spreadsheet with all file paths

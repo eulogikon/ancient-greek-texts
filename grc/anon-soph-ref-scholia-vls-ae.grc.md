@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vls-ae` · [HTML page](https://eulogikon.org/works/anon-soph-ref-scholia-vls-ae)
 
+Overview The Scholia on the Sophistical Refutations (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) is an anonymous ancient Greek commentary on Aristotle’s Sophistical Refutations, the final treatise of his Organon. It comprises 211 discrete explanatory notes offering interpretations and glosses on Aristotle’s analysis of thirteen fallacies. This work belongs to the later ancient or Byzantine exegetical tradition dedicated to clarifying Aristotle’s dense logical arguments concerning sophistical reasoning.
+
+Content
+
+Exegesis of Aristotelian logic and fallacy theory.
+
+Classification and analysis of sophistical refutations.
+
+Interpretation of ambiguous terms and propositions.
+
+Transmission The scholia survive as marginal annotations in medieval manuscripts of Aristotle’s text. Such anonymous compilations often draw from earlier commentators like Alexander of Aphrodisias or John Philoponus, though no specific source is identified for this collection.
+
+Significance As part of the corpus of Aristotelian scholia, this commentary was a key pedagogical tool for teaching logic. It played a fundamental role in preserving and transmitting Aristotelian thought into the Byzantine, Arabic, and Latin scholarly traditions.
+
 ## Text
 
 ### book inscript

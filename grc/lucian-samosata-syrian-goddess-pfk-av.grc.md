@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-av` · [HTML page](https://eulogikon.org/works/lucian-samosata-syrian-goddess-pfk-av)
 
+On the Syrian Goddess is a prose treatise describing the temple complex, priesthood, and rituals at the sanctuary of the goddess Atargatis in Hierapolis, a major cult center in Roman Syria. Written in the Ionic dialect of Greek, the work is traditionally ascribed to the satirist Lucian of Samosata, though its linguistic style and some thematic elements have led many scholars to doubt his authorship, suggesting it may be the product of an anonymous contemporary. The text presents itself as an eyewitness ethnography, composed by a self-proclaimed Assyrian who blends personal observation with priestly lore. It systematically details the temple's legendary foundation, its architectural features and sacred images, the organization of its clergy, and the elaborate festivals and sacrifices performed there, including accounts of massive pilgrimages and extreme acts of devotion.
+
+Surviving complete through medieval manuscripts, the work functions as a complex hybrid of apparent documentary reportage and literary artifice. It provides valuable, if stylized, insight into the syncretic religious practices of the Near East under Roman rule, framed for a Greek-speaking audience fascinated by foreign customs. The author's tone oscillates between detached, analytical description and moments of reverence for the antiquity and strangeness of the rites, a duality that has fueled ongoing scholarly debate. Interpretations range from viewing it as a straightforward, albeit archaizing, guide to a major cult to reading it as a subtle parody of ethnographic and historiographical conventions, or as a sophisticated text that deliberately inhabits both modes simultaneously.
+
 ## Text
 
 ### Syr D t

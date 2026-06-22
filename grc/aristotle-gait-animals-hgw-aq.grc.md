@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-aq` · [HTML page](https://eulogikon.org/works/aristotle-gait-animals-hgw-aq)
 
+On the Gait of Animals is a zoological treatise by Aristotle, composed in the mid-fourth century BCE. The work systematically investigates the principles of animal locomotion, examining the mechanics of walking, flying, swimming, and crawling. Aristotle structures his inquiry by analyzing the number and arrangement of limbs, the function of joints, and the comparative anatomy of blooded and bloodless creatures. He proceeds from general axioms of motion to specific examinations of diverse animals, including insects, birds, and cephalopods, culminating in a discussion of humanity’s distinctive upright posture.
+
+The treatise forms an integral part of Aristotle’s larger investigation of living nature, closely related to his History of Animals and Parts of Animals. It functions as a bridge between descriptive zoology and explanatory teleology, seeking the purposes behind anatomical structures. A central thesis is that an animal’s mode of locomotion is determined by its essential nature and way of life. Aristotle argues, for instance, that humans stand erect so their forelimbs are liberated for use as hands, thereby linking human posture directly to rationality and manual capability. The work exemplifies his characteristic method, which combines meticulous empirical observation with philosophical reasoning to uncover the final and formal causes governing natural phenomena.
+
 ## Text
 
 ### IA.704a.(4t)

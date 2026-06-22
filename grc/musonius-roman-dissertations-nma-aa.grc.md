@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nma-aa` · [HTML page](https://eulogikon.org/works/musonius-roman-dissertations-nma-aa)
 
+The Remains of the Dissertations Compiled by Lucius is a posthumous collection of ethical teachings by the Roman Stoic philosopher Gaius Musonius Rufus. Compiled in Koine Greek by his student Lucius, the work is not a formal treatise but a record of 41 passages capturing Musonius's spoken discourses. These employ a conversational, question-and-answer style characteristic of the diatribe, focusing intensely on the practical application of philosophy to daily life. Its subjects include training, simplicity, marriage, and the notable argument for women's capacity to practice philosophy.
+
+The text survives fragmentarily, preserved chiefly within a 5th-century anthology by Stobaeus. Scholars consider the extant passages a partial representation of Musonius's original teachings. The compilation exemplifies the Stoic shift in the early Roman Empire toward practical ethics, designed for students and a wider audience seeking guidance on living virtuously. This emphasis on resilience and self-discipline was informed by Musonius's own experiences of political turmoil and exile. His thought synthesizes Stoic and Cynic ideas, often critiquing social convention. While his direct influence flowed largely through his famous student Epictetus, his works are now studied alongside those of Seneca and Epictetus as a central pillar of Roman Stoicism.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-aa` · [HTML page](https://eulogikon.org/works/euclid-alexandria-phenomena-demonstrations-b-iaw-aa)
 
+The Phenomena is a treatise on mathematical astronomy attributed to the Greek mathematician Euclid of Alexandria. Composed around 300 BCE, it applies the principles of spherical geometry to explain the apparent motions of the fixed stars as observed from Earth. The work is not a record of observations but a deductive exploration of the celestial sphere, systematically examining the properties of great circles such as the horizon, meridian, and ecliptic, and establishing the geometric conditions for stellar risings and settings. The text survives in a complex manuscript tradition, with the version known as Demonstrations of Another Recension B representing one of several revised forms that circulated in antiquity. This particular recension is organized as a treatise containing six propositions. Scholars regard the Phenomena as a foundational and likely pedagogical text, designed to provide students of mathematics with the geometric underpinnings essential for the later development of spherical astronomy. Its transmission in multiple revised forms indicates it was a standard technical work that was adapted and utilized for instruction over centuries.
+
 ## Text
 
 ### 1 (n)

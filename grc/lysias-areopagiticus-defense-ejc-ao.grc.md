@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ao` · [HTML page](https://eulogikon.org/works/lysias-areopagiticus-defense-ejc-ao)
 
+Lysias’s Areopagiticus Defense of the Shrine, conventionally identified as Oration 7, is a forensic speech composed for a client prosecuted on a charge of religious impiety in classical Athens. Dating to the early fourth century BCE, the speech was delivered before the Council of the Areopagus, the venerable Athenian court vested with jurisdiction over cases concerning sacred matters. The defendant, a landowner of means, stood accused of uprooting a sacred olive stump, known as a moria, on his estate. Such trees were protected by law as descendants of the original olive gifted by the goddess Athena to the city, and their destruction constituted a grave public offense. The speech, structured in thirty-seven succinct sections, methodically contests the charge. The speaker maintains that the removed tree was an ordinary olive, not a consecrated moria, and thus his action was legally permissible and devoid of sacrilege.
+
+The case emerges from the stringent religious and legal climate of Athens following the restoration of democracy, a period in which the sanctity of civic symbols was vigorously upheld. The argumentation is characteristic of Lysianic style, pivoting on a factual dispute rather than emotional appeal. The defendant builds his case upon tangible evidence, witness testimony, and a close interpretation of the relevant statutes, aiming to create reasonable doubt regarding the tree’s protected status. His tone throughout is measured and deferential, appropriate for the austere authority of the Areopagus. The speech provides a valuable window into Athenian legal procedure, illustrating the strategic use of documentation, slave testimony, and procedural objections within a high-stakes religious trial.
+
+Preserved in its entirety through medieval manuscript tradition, the oration is accepted as an authentic work of Lysias. It stands as a significant document for understanding the interplay of law, religion, and rhetoric in Athenian society, highlighting how property rights could clash with sacred obligations and how forensic oratory navigated such conflicts within the established judicial framework.
+
 ## Text
 
 ### Or7 t

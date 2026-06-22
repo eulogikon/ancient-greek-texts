@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqy-ab` · [HTML page](https://eulogikon.org/works/epimenides-crete-testimonies-2-aqy-ab)
 
+"Testimonies 2" is a lost work attributed to the semi-legendary Cretan seer and philosopher Epimenides. Listed by Diogenes Laertius among his writings, the designation "2" indicates it was a second book or collection within a larger series. No direct fragments of the text survive. Based on the known character of Epimenides' output, it was likely a compilation of oracular pronouncements, theological doctrines, or ritual prescriptions, consistent with his other works on mythological genealogy and cultic practices. The probable content would have centered on themes of purification and atonement, which were central to his famous legend of cleansing Athens from a plague. It may also have contained theological innovations, such as the introduction of the worship of the Curetes, alongside alternative genealogies of gods and heroes and specific instructions for ritual worship.
+
+The text is not extant, and knowledge of Epimenides' corpus derives entirely from indirect testimonia preserved in later philosophical and biographical compilations, most notably by Diogenes Laertius. Works circulated under his name were likely composed by later followers seeking to borrow the authority of the legendary sage. Despite the loss of his writings, Epimenides' influence endured. His purification of Athens remained a famed event in tradition. He is particularly noted for the theological paradox concerning Cretans, later quoted by the Apostle Paul, which entered logical discourse as the "Epimenides Paradox." His reputation as a profound religious expert established him as a model for later mystical thinkers like Pythagoras and a significant forerunner in the development of Greek philosophical and mystical thought.
+
 ## Text
 
 ### 1

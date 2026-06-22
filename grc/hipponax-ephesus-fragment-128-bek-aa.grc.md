@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bek-aa` · [HTML page](https://eulogikon.org/works/hipponax-ephesus-fragment-128-bek-aa)
 
+Fragment 128 is a surviving passage from the iambic poetry of Hipponax of Ephesus, who was active around 540 BCE. His work, composed primarily in the Ionic Greek dialect, is characterized by its aggressive and mocking tone. Hipponax is credited with inventing the choliamb, or "limping" meter, which creates a distinctive, hobbling rhythm suited to his coarse and vivid subject matter. The poems survive only in fragments, preserved through quotations by later authors, grammarians, and lexicographers, with the original scope and order of his poetry now lost. His verses are famous for their graphic, often grotesque depictions of low life, personal feuds, poverty, and sexual humor. He directed fierce invective against real individuals, most notably the sculptors Bupalus and Athenis. Modern scholarship interprets his work as a deliberate departure from aristocratic epic poetry toward a raw, personal engagement with the struggles of marginal existence, likely intended for a broad popular audience. His innovative style and transgressive spirit later exerted a significant influence on major poets such as Callimachus and the Roman satirists Catullus and Horace.
+
 ## Text
 
 ### book 1*

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bcc-aa` · [HTML page](https://eulogikon.org/works/myia-phyllis-bcc-aa)
 
+The Letter to Phyllis is a brief pseudepigraphical epistle attributed to Myia, a female philosopher associated with the Pythagorean school. Preserved within later collections of Pythagorean literature, this philosophical letter offers guidance to a woman named Phyllis on the selection and management of a wet nurse for her newborn child. It frames this domestic concern within the broader Pythagorean principles of harmony, order, and moderation. The text advises choosing a nurse of sober, orderly, and morally sound character, suggesting that such ethical qualities can be transmitted to the infant through care and nourishment. It further advocates for a measured and natural regimen concerning the nurse’s own diet, sleep, and conduct, reflecting the Pythagorean belief that physical harmony and disciplined routine are foundational to the proper development of the soul. The letter survives as part of the corpus of pseudepigraphical Pythagorean Epistles, a collection likely compiled in the Hellenistic or early Imperial period and transmitted through medieval manuscripts alongside other writings ascribed to early Pythagorean figures. Although a minor work, it exemplifies the dissemination of Pythagoreanism as a comprehensive way of life that extended philosophical authority into domestic and female spheres. It remains a valuable source for the study of ancient philosophical advice literature, cultural concepts of motherhood, and the practical reception of Pythagorean ethics.
+
 ## Text
 
 ### 123 (11t)

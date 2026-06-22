@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-am` · [HTML page](https://eulogikon.org/works/herodian-alexandria-marriage-cohabitation-qnq-am)
 
+The work On Marriage and Cohabitation is a lost oration by the second-century CE grammarian Herodian of Alexandria. Known only by its title, which is preserved in later lexicographical sources, no direct quotations or substantive content from the text survive. The title indicates the work addressed the dual themes of formal marriage and the broader concept of cohabitation or partnership. As a technical grammarian renowned for his systematic studies of language, Herodian's authorship of a rhetorical discourse on this social theme suggests a wider range of scholarly activity beyond his philological treatises. The oration's complete absence from the manuscript tradition and its mention solely in bibliographical lists prevent any assessment of its specific arguments or literary character. Its significance lies primarily in illustrating the potential breadth of intellectual interests pursued by a major grammatical authority in the Imperial period.
+
 ## Text
 
 ### 1

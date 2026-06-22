@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ak` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-vmw-ak)
 
+Overview The Diegeseis (Διηγήσεις Μύθων, Narratives of Fables) is a prose commentary attributed to the scholarship on Callimachus. Preserved on a fragmentary 2nd-century CE papyrus from Oxyrhynchus (P.Oxy. 20.2261), it provides concise summaries of plots from Callimachus’s major poetic works, including the Aitia, Iambi, and Hecale. The text served as an exegetical aid for understanding the poet’s complex and allusive style.
+
+Content The surviving passages summarize mythological narratives, with a particular focus on aetiological stories explaining the origins of cults, rituals, and names. The summaries function as scholarly paraphrases, distilling the core narratives of Callimachus’s poetry for educational use.
+
+Transmission The work is known only from the single Oxyrhynchus papyrus, which is a Roman-era copy of a lost Hellenistic original. Its fragmentary state, organized in columns, remains crucial for reconstructing the content and sequence of Callimachus’s fragmentary poems.
+
+Significance The Diegeseis is of fundamental importance to modern philology, having shaped the editorial reconstruction of Callimachus’s corpus. It also exemplifies Hellenistic scholarly practices, illustrating how grammarians produced auxiliary texts to elucidate canonical literature.
+
 ## Text
 
 ### 26-31a col1

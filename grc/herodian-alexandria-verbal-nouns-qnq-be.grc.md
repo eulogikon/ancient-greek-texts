@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-be` · [HTML page](https://eulogikon.org/works/herodian-alexandria-verbal-nouns-qnq-be)
 
+On Verbal Nouns is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work systematically classifies and explains the formation of nouns derived from verbs, a category encompassing many agent nouns and adjectives. It is preserved not as a continuous text but as a collection of six distinct passages, indicating it was likely a compilation of specific discussions or excerpts intended for reference. Composed during the Roman Imperial Period, a time of revived scholarly interest in classical Greek language known as the Second Sophistic, the treatise reflects Herodian's lifelong project to systematize Greek grammar. As the son of the grammarian Apollonius Dyscolus and a prominent intellectual figure in Rome, Herodian sought to establish rules and regularities based on classical Attic models, aiming his work at an audience of advanced students and teachers.
+
+The surviving fragments focus on detailed rules of accentuation and morphology for various noun endings. They analyze patterns for nouns ending in -της, -ης, and -υτης, among others, often prescribing correct usage by distinguishing between common Hellenistic forms and those sanctioned by Attic tradition. The text illustrates Herodian's methodological reliance on analogy, arguing for consistent grammatical principles derived from the observed patterns of reputable classical authors. The work survives exclusively through quotations in later Byzantine grammatical compilations, encyclopedias such as the Suda, and scholia on ancient texts. These six passages have been extracted and reconstructed from those secondary sources. Despite its fragmentary state, On Verbal Nouns exerted considerable authority for centuries, playing a significant role in Byzantine education and the preservation of Greek linguistic knowledge.
+
 ## Text
 
 ### 3,2 898

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `urs-ad` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-divine-names-urs-ad)
 
+On Divine Names is a theological treatise composed in Greek, most likely in the late fifth or early sixth century CE. Its author remains anonymous but wrote under the pseudonym Dionysius the Areopagite, the Athenian convert of Saint Paul mentioned in the Acts of the Apostles, thereby claiming apostolic authority for the work. The treatise presents a systematic examination of the names and attributes ascribed to God in Christian scripture, such as Good, Being, Life, Wisdom, and Love. It is structured in thirteen chapters that progress from general methodological principles to detailed analysis of these specific divine perfections.
+
+A cornerstone of Christian mystical theology, the work synthesizes Neoplatonic philosophy, particularly that of Proclus, with Christian doctrinal tradition. Its central intellectual project is the reconciliation of two complementary theological methods: the cataphatic, or affirmative, which describes God through positive concepts derived from revelation, and the apophatic, or negative, which insists on God's ultimate transcendence beyond all human understanding and linguistic categorization. The text is widely regarded as a sophisticated guide for contemplative practice, offering monks and theologians a philosophical framework for conceptualizing the soul's ascent toward union with the divine.
+
+The complete treatise has been preserved through a robust manuscript tradition. It is first definitively referenced in theological debates in 533 CE. Its translation into Latin by John Scotus Eriugena in the ninth century secured its profound and lasting influence on medieval Western thought, shaping the work of major scholastics like Thomas Aquinas and later mystics such as Meister Eckhart.
+
 ## Text
 
 ### 107 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bw` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-bw)
 
+Against Philip IV, traditionally known as the Fourth Philippic, is a political oration from classical Athens attributed to the orator Demosthenes. Composed around 341 BCE, the speech is a vehement appeal to the Athenian assembly, warning of the existential danger posed by King Philip II of Macedon. It sharply criticizes Athenian complacency and political inertia, arguing that the city’s safety depends on immediate and decisive military and financial mobilization against Macedonian expansion. The oration asserts that Philip’s ambitions are driven by insatiable greed and aggression which cannot be checked by diplomacy or rhetoric alone, demanding a permanent state of practical readiness rather than intermittent alarm.
+
+The complete text survives within the Demosthenic corpus, but its authenticity has been contested since antiquity. Ancient sources, including Dionysius of Halicarnassus, questioned its authorship, with some attributing it to the rhetorician Anaximenes of Lampsacus. Modern scholarship frequently regards the speech as spurious or of doubtful provenance, noting stylistic and structural differences from Demosthenes’ undisputed works. Nevertheless, it was preserved alongside his genuine orations and remains a significant document of the period’s political rhetoric. The speech exemplifies the intense public debates in Athens during Philip’s ascendancy and contributed to the enduring historical portrayal of Demosthenes as the principled champion of Greek autonomy against monarchical encroachment.
+
 ## Text
 
 ### Phil4 1

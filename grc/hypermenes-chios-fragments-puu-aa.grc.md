@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `puu-aa` · [HTML page](https://eulogikon.org/works/hypermenes-chios-fragments-puu-aa)
 
+Fragments on Chios is a lost prose work by the otherwise unknown historian Hypermenes. The title indicates it was a work of local history or antiquarian research focused on the island of Chios, a genre common in the Hellenistic period that detailed regional myths, foundations, and customs. No direct quotations or summaries of its content survive, though such works typically covered topics like the island's mythical foundation, its role in Ionian and broader Greek history, and descriptions of notable Chian customs, institutions, and products. The work is known only by its title, which suggests it was excerpted by later scholars, though these fragments are not preserved in extant sources. Its significance is primarily as a testament to the vast number of specialized local histories produced in the ancient world, the majority of which have not survived.
+
 ## Text
 
 ## ΠΕΡΙ ΧΙΟΥ.

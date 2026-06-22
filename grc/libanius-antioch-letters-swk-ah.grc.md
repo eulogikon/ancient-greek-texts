@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ah` · [HTML page](https://eulogikon.org/works/libanius-antioch-letters-swk-ah)
 
+The surviving works of Libanius of Antioch constitute one of the most extensive and significant literary corpora from a single author in Late Antiquity. Composed in refined Attic Greek during the mid-to-late fourth century CE, the collection encompasses sixty-four orations, fifty-one declamations, a substantial body of preliminary rhetorical exercises known as progymnasmata, and over fifteen hundred letters. The orations demonstrate remarkable variety, ranging from formal panegyrics celebrating cities to autobiographical accounts, judicial speeches, and direct political appeals to imperial authorities. His extensive epistolary collection offers an unparalleled view into the intricate social, professional, and intellectual networks of the period.
+
+Operating from Antioch, a major cultural and administrative hub of the Eastern Roman Empire, Libanius wrote as a devoted adherent of traditional Hellenic religion and a master teacher of rhetoric. His works functioned both as pedagogical models for his renowned school of rhetoric and as active engagements with the profound political and religious transformations of his era. Modern scholarship interprets his prolific output as a sustained, sophisticated defense of classical Greek paideia—the system of education and civic values—against the rising cultural and institutional dominance of Christianity. Numerous orations address contemporary events with directness, such as advocating for the interests of Antioch or expressing support for the policies of the pagan emperor Julian.
+
+The texts survive in a notably complete state, a testament to Libanius's enduring reputation as a preeminent stylistic model throughout the Byzantine educational tradition. A complex manuscript tradition has preserved the majority of his orations and declamations. The vast corpus of letters, while immense, is generally considered a curated selection from an originally even larger body of personal and professional correspondence.
+
 ## Text
 
 ### 1

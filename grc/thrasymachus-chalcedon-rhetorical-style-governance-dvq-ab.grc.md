@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dvq-ab` · [HTML page](https://eulogikon.org/works/thrasymachus-chalcedon-rhetorical-style-governance-dvq-ab)
 
+The Apospasmata, or Extracts, is a lost collection of rhetorical model passages attributed to the sophist Thrasymachus of Chalcedon, who was active in Athens during the late 5th century BCE. Structured as twelve exemplary discourses, the work was not a continuous treatise but a practical compilation designed for instructional use, written in Attic Greek to train students in effective oratory. It served as a handbook showcasing Thrasymachus’s innovative “middle” style of rhetoric, which deliberately blended plain statement with emotional appeal and was pioneering in its conscious use of prose rhythm. The collection is believed to have contained model speeches on themes central to sophistic education, such as justice and governance, aimed at preparing wealthy young men for persuasive speaking in political and legal contexts. No continuous text of the twelve passages survives; knowledge of the work derives entirely from references and descriptions by later ancient authors, most notably Dionysius of Halicarnassus. Through this collection, Thrasymachus’s contributions to rhetorical theory and style exerted a significant influence on the subsequent development of Greek oratorical prose, notably on figures such as Isocrates and, indirectly, Demosthenes.
+
 ## Text
 
 ### 1 (tit)

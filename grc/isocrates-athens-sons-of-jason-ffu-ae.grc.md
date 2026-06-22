@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ae` · [HTML page](https://eulogikon.org/works/isocrates-athens-sons-of-jason-ffu-ae)
 
+To the Sons of Jason is a political discourse composed around 355 BCE by the Athenian orator and teacher Isocrates. Written in Attic Greek and structured as a brief open letter or pamphlet of twelve sections, it is addressed to the sons of Jason of Pherae, the powerful tyrant of Thessaly who was assassinated in 370 BCE. The work functions as a didactic epistle, offering the young princes counsel on statecraft. Isocrates advises them to secure honor and enduring authority by ruling justly and for the common welfare of their subjects, contrasting this path with the precarious nature of tyrannical power. Expanding beyond domestic affairs, he exhorts them to aspire to the leadership of a unified Greece in a grand campaign against the Persian Empire, thereby articulating the Panhellenic ideals that permeate his life’s work.
+
+The complete text is preserved within the standard corpus of Isocrates’s writings. Modern scholarship regards the discourse as a characteristic example of his later epistolary style, composed not solely for its nominal Thessalian recipients but for broader circulation among a Greek political readership. It is generally dated to the period following the Social War, when Athenian influence was diminished, interpreting it as Isocrates’s attempt to shape leadership and promote Hellenic unity from a distance. Consequently, the work stands as a piece of deliberate political rhetoric and a valuable historical source for understanding the volatile political landscape in Thessaly after the death of Jason.
+
 ## Text
 
 ### Epist 6 t

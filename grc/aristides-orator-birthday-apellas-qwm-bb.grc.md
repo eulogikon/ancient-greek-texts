@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bb` · [HTML page](https://eulogikon.org/works/aristides-orator-birthday-apellas-qwm-bb)
 
+The Birthday of Apellas is a complete ceremonial oration composed in the second century CE by the Greek orator Aelius Aristides. Written in polished Attic Greek, it belongs to the genre of the genethliakos logos, or birthday speech, and is structured in eight thematic sections. The work publicly celebrates a man named Apellas, who was likely a wealthy friend or patron within Aristides's social circle in the Roman province of Asia Minor. Following the established conventions of epideictic rhetoric, the oration highlights the subject's virtues, character, and achievements, serving the dual purpose of honoring Apellas and showcasing the orator's own considerable rhetorical artistry.
+
+A product of the Second Sophistic, a period characterized by a self-conscious revival of classical Greek language and culture under Roman imperial rule, the speech exemplifies the performance of shared elite education. Such orations functioned to reinforce social bonds and affirm a collective Hellenic identity among the provincial aristocracy. While the precise historical identity of Apellas remains uncertain, the work provides valuable insight into the social and cultural functions of rhetoric in the ancient world. The text survives intact through medieval manuscript tradition and stands as a representative, though not the most famous, example of Aristides's prolific output of ceremonial oratory.
+
 ## Text
 
 ### 68

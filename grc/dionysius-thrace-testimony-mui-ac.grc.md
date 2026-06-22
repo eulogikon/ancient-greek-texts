@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mui-ac` · [HTML page](https://eulogikon.org/works/dionysius-thrace-testimony-mui-ac)
 
+The Testimony is a brief grammatical fragment attributed to the Hellenistic scholar Dionysius Thrax, a pupil of Aristarchus of Samothrace who taught in the 2nd century BCE. It is not an independent treatise but a short passage preserved through later quotation. The extant fragment addresses the technical classification of Greek conjunctions, specifically debating whether certain ones should be categorized as completive or causal. This content situates the work within the detailed linguistic scholarship of the Alexandrian tradition, where scholars systematically analyzed and codified the rules of language. The text survives only as a citation within the 9th-century CE commentary of the Byzantine grammarian Choeroboscus, a typical mode of transmission for many minor technical works. The fragment offers a narrow but significant view into the definitional discourse of ancient grammatical scholarship, likely intended for specialists or advanced students engaged in textual analysis. Its preservation over many centuries underscores the enduring influence of Dionysius Thrax's grammatical framework within both ancient and medieval scholarly traditions.
+
 ## Text
 
 ### 3b,512,T 1

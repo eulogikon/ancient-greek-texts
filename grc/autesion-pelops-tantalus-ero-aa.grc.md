@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ero-aa` · [HTML page](https://eulogikon.org/works/autesion-pelops-tantalus-ero-aa)
 
+The Fragments on Pelops and Tantalus is a lost prose work by the obscure historian Autesion. Known only by its title, which is preserved in the Byzantine encyclopedia Suda, the work comprised at least two passages concerning the mythological figures Pelops and Tantalus. No direct quotations from the text survive, but its title indicates a compilatory or antiquarian focus on these specific characters. Based on the standard mythological narratives associated with its subjects, the fragments likely addressed themes of divine transgression and punishment, as seen in the eternal torment of Tantalus, as well as the related stories of kinship, betrayal, and cannibalism involving Tantalus serving his son Pelops as a meal to the gods. The work would also have touched upon heroic foundation myths, particularly the role of Pelops in the legends surrounding Olympia, thereby contributing to the broader study of myth, genealogy, and regional identity in ancient historiography. The work is transmitted solely through its citation in the Suda, which identifies Autesion as a historian; no independent manuscript tradition exists. While its direct influence is untraceable, the work remains a notable data point for the study of fragmentary Greek historiography, exemplifying the many lost, specialized antiquarian works that compiled and analyzed local mythological traditions.
+
 ## Text
 
 ### 2a.(l1)

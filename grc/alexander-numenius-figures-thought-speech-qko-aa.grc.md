@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qko-aa` · [HTML page](https://eulogikon.org/works/alexander-numenius-figures-thought-speech-qko-aa)
 
+_On Figures of Thought and Speech_ is a rhetorical treatise attributed to Alexander, son of Numenius, and likely composed in the 2nd century CE. This systematic handbook classifies and exemplifies rhetorical figures, establishing a fundamental distinction between figures of thought and figures of diction. The work opens by acknowledging the inherent difficulty in defining and categorizing these devices, noting the disagreement among scholars regarding their number and the challenge of separating a figure from a mere stylistic mode. It nevertheless proceeds with a clear methodological aim: to present and organize the material transmitted by more precise writers, carefully distinguishing between the two categories. The treatise illustrates its classifications with 32 passages of examples, predominantly drawn from classical Attic orators like Demosthenes, thereby positioning itself within the pedagogical and imitative tradition of the Second Sophistic. Its primary focus is the systematic division of rhetorical ornamentation, promoting stylistic elaboration through the emulation of canonical models. The complete text is preserved in medieval manuscripts, often compiled alongside other Imperial-era rhetorical works, with the standard modern edition appearing in Leonhard von Spengel’s Rhetores Graeci. As a technical manual, the treatise contributed to the systematization of Greek rhetorical theory, representing a strand of pedagogical literature that helped standardize terminology and practice into the Byzantine period.
+
 ## Text
 
 ### 9 (1t)

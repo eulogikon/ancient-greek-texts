@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cjy-aa` · [HTML page](https://eulogikon.org/works/diogenes-athens-foreign-rites-cjy-aa)
 
+Fragments on Foreign Rites is a lost tragedy attributed to the late 5th-century Athenian playwright Diogenes of Athens. Known only by its title and attribution, the work survives in name alone, with no direct quotations or descriptions of its plot extant. The title suggests a dramatic focus on the religious rituals and sacred customs of non-Greek peoples. In the context of late 5th-century Athenian tragedy, such a subject would likely have explored themes of cultural conflict, the nature of piety, and the confrontation between Greek and foreign religious identities, reflecting a contemporary interest in religious otherness also evident in works like Euripides' Bacchae. The tragedy is noted as comprising eight fragmentary passages, though these are not quoted in standard sources; their transmission likely depends on preservation in later ancient scholarly or lexicographical works. As an attested title from the largely lost corpus of Attic tragedy, it serves as a valuable data point for understanding the range of subjects treated by tragic poets. Diogenes of Athens was a contemporary of Aristophanes and Euripides, mentioned by Aristophanes in his comedy The Frogs.
+
 ## Text
 
 ### book 1.1

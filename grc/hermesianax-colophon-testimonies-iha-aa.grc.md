@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iha-aa` · [HTML page](https://eulogikon.org/works/hermesianax-colophon-testimonies-iha-aa)
 
+The Testimonies is a collection of elegiac poetry by the Hellenistic poet Hermesianax of Colophon, composed around 300 BCE. The work is almost entirely lost, with its content known only through two quoted passages preserved by later ancient authors. The most substantial surviving fragment is a 98-line poem cited by Athenaeus. This piece takes the form of a mythological catalogue, listing famous love affairs from legend and history as a poetic consolation to the poet's beloved, Leontion. It includes a characteristically Hellenistic, playful anachronism in its mention of the philosopher Plato being in love. A second, shorter fragment preserves a couplet on the power of Eros. The original scope and full structure of the collection remain unknown.
+
+Hermesianax was a pupil of the poet Philitas of Cos, and his work exemplifies the learned, allusive style of early Hellenistic poetry. Scholars interpret the Testimonies as a key example of erotic catalogue poetry, a genre that blended myth, history, and contemporary reference for a sophisticated, erudite audience. The work exercised an influence on later elegiac poets, and its anecdote concerning Plato was frequently repeated in later antiquity. The surviving fragments are studied primarily for the insight they provide into the thematic concerns and artistic methods of early Hellenistic elegy.
+
 ## Text
 
 ### 3c,691,T 1

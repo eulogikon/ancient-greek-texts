@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cv` · [HTML page](https://eulogikon.org/works/galen-pergamon-prognosis-epigenes-qmm-cv)
 
+On Prognosis to Epigenes is a medical treatise by the physician Galen of Pergamon, composed in Greek around 178–180 CE. Addressed to his student Epigenes, the work is a systematic manual arguing for the fundamental importance of prognosis, the physician's ability to foretell the course and outcome of a disease. Galen frames this skill not merely as an academic exercise but as a practical necessity for securing patient confidence and for determining the correct therapeutic intervention. The treatise is structured in 75 sections, blending theoretical exposition with detailed case histories drawn from Galen's own extensive practice in Rome, where he served as a physician to the imperial court. Written during a period of fierce competition among medical sects, the work functions as both a practical guide and a polemical defense of Galen's rational, Hippocratic methodology against rival schools, particularly the Empiricists, who dismissed long-term prediction as unreliable. Galen consistently anchors his prognostic system in the authority of Hippocrates, presenting it as the restoration of a classical ideal that had been neglected by contemporary physicians more concerned with popularity and patronage than with true medical art. The complete text, preserved through medieval manuscripts, proved highly influential in later Byzantine and Islamic medicine, cementing the status of prognosis as a core component of the physician's craft for centuries.
+
 ## Text
 
 ### 14 599 (t1)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kly-ab` · [HTML page](https://eulogikon.org/works/eratosthenes-cyrene-catasterisms-kly-ab)
 
+The Catasterisms, or "Placings Among the Stars," is a Hellenistic treatise attributed to the scholar Eratosthenes of Cyrene. It functions as a systematic catalogue of the constellations, detailing for each the number and position of its principal stars while providing the associated mythological narrative that explains its origin and celestial placement. The work synthesizes astronomical observation with aetiological myth, presenting streamlined and often rationalized versions of traditional stories where figures are translated to the stars as a reward for virtue or as a lasting memorial. In doing so, it organizes disparate local Greek myths into a coherent, pan-Hellenic celestial framework. The original 3rd-century BCE text is lost, and our knowledge of it derives primarily from later epitomes, most notably a Byzantine abridgment known as the Epitome Catasterismorum and the Latin Poeticon Astronomicon attributed to Hyginus, which borrowed extensively from this tradition. For centuries, the Catasterisms served as the standard reference on constellation mythology, profoundly influencing later astronomers, mythographers, and celestial iconography from antiquity through the Renaissance, and it provided the canonical narratives behind the constellation names used in Western astronomy.
+
 ## Text
 
 ### 1 t

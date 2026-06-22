@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bfy-ac` · [HTML page](https://eulogikon.org/works/anacreon-teos-epigrams-bfy-ac)
 
+The Epigrams are a collection of seventy-one short Greek poems traditionally ascribed to the archaic lyric poet Anacreon of Teos, who flourished in the sixth century BCE. While Anacreon was celebrated for his songs of love, wine, and conviviality, this corpus belongs to the distinct genre of the epigram. Composed typically in elegiac couplets, these concise verses most often function as funerary epitaphs or dedicatory inscriptions. Modern scholarship concurs that the poems are not the work of Anacreon himself but are later compositions, likely originating in the Hellenistic period or later, which were attributed to him to capitalize on his prestigious name and thematic associations.
+
+The collection survives not as an independent volume but as a component of the far more extensive Greek Anthology, a Byzantine compilation of ancient poetry. Its primary source is the tenth-century manuscript known as the Palatine Anthology. This late and compiled transmission renders the authenticity of any individual poem uncertain. The epigrams were likely gathered for literate audiences in later antiquity who had a taste for archaizing verse. Their themes encompass love and desire, death and commemoration, and religious dedication, frequently engaging playfully with the established biographical tradition of Anacreon as a cheerful, aging hedonist. Although not authored by the historical Anacreon, this collection played a significant role in crystallizing his enduring literary persona for subsequent generations.
+
 ## Text
 
 ### book 134.1.1

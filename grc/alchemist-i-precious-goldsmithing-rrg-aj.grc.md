@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-aj` · [HTML page](https://eulogikon.org/works/alchemist-i-precious-goldsmithing-rrg-aj)
 
+On the Most Precious and Renowned Goldsmithing is an early Greek alchemical treatise attributed to a pseudonymous author conventionally known as Alchemist I or Pseudo-Democritus. Composed in Koine Greek, likely during the 1st century CE, the work is a practical manual containing seventeen recipes focused on metalworking and dyeing. Its processes detail methods for coloring base metals to resemble gold and silver, treating precious stones, and employing substances such as sulfur, arsenic, and mercury. The treatise exemplifies the empirical, workshop origins of alchemy, synthesizing Egyptian and Near Eastern technical knowledge with Greco-Roman craft traditions.
+
+The text survives intact within larger compilations of Greek alchemical writings, transmitted primarily through Byzantine manuscripts such as the 10th- or 11th-century Marcianus Graecus 299. Modern scholarship regards it as a foundational document for the alchemical tradition, originally intended for artisans like goldsmiths and jewelers. Its pseudonymous attribution to the pre-Socratic philosopher Democritus lent the work authority, though its content remains largely technical. The treatise employs deliberately obscure terminology, suggesting it was designed to guard craft secrets within a professional community. Its recipes subsequently exerted a significant influence on the development of Greek, Arabic, and later Latin alchemical thought.
+
 ## Text
 
 ### 2.321.(1t)

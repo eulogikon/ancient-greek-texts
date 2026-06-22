@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iuw-aa` · [HTML page](https://eulogikon.org/works/nymphis-heraclea-pontica-iuw-aa)
 
+Nymphis of Heraclea Pontica’s On Heraclea Pontica is a Hellenistic-era local history of the Greek colony on the southern coast of the Black Sea. Composed in the third century BCE, the original work is lost and survives only in approximately twenty fragments. These excerpts, preserved through quotations in later authors such as Strabo, Plutarch, and the Byzantine patriarch Photius, suggest the text available in late antiquity was an epitome of a larger history. The fragments, collected in Felix Jacoby’s Die Fragmente der griechischen Historiker, cover several key topics including the city’s foundation by Megarian and Boeotian colonists, its political constitution, periods of tyranny, relations with Hellenistic kings, and local mythology and religion, including interactions with subjugated native populations like the Mariandynoi. Nymphis’s history served as an important primary source for later historians of the Black Sea region. Its use by Strabo and Plutarch ensured its integration into the broader Greco-Roman historical tradition, and it remains a crucial, though fragmentary, source for the study of Greek colonial foundations and Hellenistic local historiography.
+
 ## Text
 
 ### t1-16

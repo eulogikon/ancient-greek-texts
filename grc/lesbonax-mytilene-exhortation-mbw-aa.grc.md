@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mbw-aa` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-exhortation-mbw-aa)
 
+Exhortation A is a protreptic, or exhortatory, prose oration by the sophist Lesbonax of Mytilene, who was active in the first century CE. The work survives only in fragments; the Suda records two Protreptics by Lesbonax, and the sixteen passages attributed to Exhortation A are preserved in the citations of later lexicographers and rhetoricians such as Harpocration and the Etymologicum Magnum. These brief, scattered quotations prevent a full reconstruction of the speech’s original argument or structure. Based on the genre and extant fragments, the oration likely addressed the pursuit of virtue, philosophy, or rhetorical education, employing classical Athenian history and figures such as Pericles as exempla while demonstrating refined Attic Greek vocabulary and rhetorical technique. The complete speech is lost. Its fragments were transmitted not through a continuous manuscript tradition but through the scholarly works of grammarians and commentators from the second century CE onward, who quoted Lesbonax as a model of pure Attic diction. Lesbonax’s influence lay primarily in style. His Exhortations were studied as canonical examples of Imperial-period Attic Greek within the Second Sophistic movement and are frequently cited by later Atticist lexicographers. The work’s preservation is due to this role as a stylistic exemplar, though it survives only in fragments.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kbe-aa` · [HTML page](https://eulogikon.org/works/agroetas-libyan-myths-kbe-aa)
 
+The Libyan Myths and Genealogies is a lost prose mythography attributed to the otherwise unknown author Agroetas. Its title indicates a systematic compilation of the mythological and genealogical traditions of North Africa, known to the Greeks as Libya. The work survives only as a title and through a handful of later citations, which provide glimpses into its content. These fragments suggest it contained narratives on Libyan heroes and divine figures, such as the story of Amphithemis and the Nymphs, and offered alternative versions of pan-Mediterranean myths, including an account of the golden apples of the Hesperides, which Agroetas rationalized as a flock of superlative sheep guarded by a herdsman called a dragon. The work also detailed genealogies that connected legendary founders to historical Libyan tribes like the Garamantes. It is known from an entry in the 10th-century Byzantine encyclopedia, the Suda, and was cited by early Christian scholars such as Eusebius of Caesarea in his apologetic writings. Its use by Eusebius demonstrates its value as a source for pagan mythology engaged by early Christian scholarship, and it stands as an example of the Hellenistic and Roman tradition of systematizing regional, non-Greek lore for a learned audience.
+
 ## Text
 
 ### t1-5

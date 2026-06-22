@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `veu-ab` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-sacred-art-veu-ab)
 
+On Sacred Art is a concise alchemical treatise attributed to Olympiodorus of Alexandria, a figure believed to have been active in the sixth century CE. Written in Koine Greek, the work presents alchemy as a divine science, blending practical laboratory instructions with philosophical speculation. It functions as a commentary, explicating earlier doctrines associated with figures such as pseudo-Democritus. The core of the text details technical procedures for metallic transmutation, emphasizing foundational operations like the whitening and yellowing of substances as stages in the production of silver and gold. These material processes are framed within a mystical understanding of art imitating nature and divine creation, a synthesis characteristic of late antique Alexandria, where the treatise was composed. The work survives complete in Byzantine manuscripts, notably within the tenth- or eleventh-century Marcianus graecus 299. Although the author shares his name with the renowned Neoplatonist philosopher Olympiodorus, they are considered distinct individuals. The treatise was intended for a specialized audience of practitioners and played a significant role in transmitting Hellenistic alchemical knowledge into later Byzantine and Arabic traditions.
+
 ## Text
 
 ### [20]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-cu` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-envy-hatred-okg-cu)
 
+On Envy and Hatred is a concise ethical treatise by the Greek philosopher and biographer Plutarch, composed in Attic Greek prose around 100 CE. The work presents a systematic, fourteen-part analysis of two destructive passions: envy and hatred. Plutarch meticulously differentiates between them, defining envy as the pain felt at another's good fortune and hatred as the active desire for another's harm. The essay investigates the psychological origins and social ramifications of these emotions, providing practical counsel on how to eradicate them within oneself and navigate relationships with those who harbor them. Preserved in its entirety within the manuscript tradition of Plutarch's Moralia, the treatise is interpreted by modern scholars as a work of practical philosophy intended for an educated Greco-Roman readership. It reflects pervasive philosophical preoccupations with attaining moral virtue and inner tranquility, synthesizing Platonic, Peripatetic, and Stoic insights to diagnose and remedy common ethical failures in social and political conduct.
+
 ## Text
 
 ### t 1

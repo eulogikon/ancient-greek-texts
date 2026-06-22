@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oug-aa` · [HTML page](https://eulogikon.org/works/dionysius-antioch-letters-philoxenus-oug-aa)
 
+The Letters to Philoxenus is a lost collection of eighty model epistles attributed to Dionysius of Antioch. According to the tenth-century Byzantine encyclopedia known as the Suda, Dionysius composed this variety of letters as a rhetorical exercise, effectively forming a comprehensive handbook for letter-writing. As a pedagogical tool from the period of the Second Sophistic, its themes were demonstrative, designed to exemplify rhetorical variety through models for different epistolary types such as praise, blame, consolation, or recommendation. The collection would have showcased stylistic virtuosity, emphasizing mastery of Attic Greek and the appropriate stylistic registers for diverse occasions, and served as direct compositional instruction, providing concrete examples for students of rhetoric to imitate. The work is preserved only by testimony; no fragments survive, and knowledge of it derives solely from its entry in the Suda, which records its existence, attribution, length, and rhetorical purpose. The collection participated in the advanced rhetorical training of its era by codifying norms for Greek prose composition. Its mention in the Suda confirms its recognition by later Byzantine scholars, though its specific literary influence remains untraceable due to its complete loss.
+
 ## Text
 
 ### 1 (t)

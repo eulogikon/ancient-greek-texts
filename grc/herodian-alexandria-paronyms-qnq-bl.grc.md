@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bl` · [HTML page](https://eulogikon.org/works/herodian-alexandria-paronyms-qnq-bl)
 
+On Paronyms is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. The work provides a systematic analysis of paronyms, which are words derived from a common root but belonging to different grammatical categories, such as nouns, adjectives, and verbs. It examines the derivational relationships and morphological patterns between these words according to the established rules of classical Attic Greek. The treatise is structured as a collection of 48 discrete passages, each focusing on specific word families and the principles governing their formation. Composed during the Roman Imperial period and the cultural movement known as the Second Sophistic, the work reflects the era's scholarly preoccupation with codifying and preserving the classical language. It functioned as a technical, pedagogical resource for advanced students and teachers, providing the systematic linguistic foundation deemed essential for correct literary composition and rhetorical practice. The original text does not survive intact; the known sections have been reconstructed by modern editors from fragments preserved in later Byzantine grammatical compilations, encyclopedias, and scholia. Despite its fragmentary transmission, Herodian's treatise exerted a lasting influence on the study and teaching of Greek morphology throughout the Byzantine educational tradition.
+
 ## Text
 
 ### 3,2 850

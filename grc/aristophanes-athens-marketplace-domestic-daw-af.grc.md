@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-af` · [HTML page](https://eulogikon.org/works/aristophanes-athens-marketplace-domestic-daw-af)
 
+Marketplace and Domestic Scenes is a lost work by the Athenian comic playwright Aristophanes. It is not a unified play but a collection of 1,262 fragments, with a title suggesting excerpts depicting daily life in the Athenian marketplace and households. As a fragmentary collection, it lacks a conventional plot and is classified among Aristophanes' lost comedies, distinct from his eleven surviving complete plays. The title indicates the collection’s focus on mundane spheres of Athenian life, including scenes from the marketplace, domestic interactions, social and economic exchanges, and common comic character types such as merchants, slaves, and householders. The work survives only as a title and fragment count in ancient catalogues of Aristophanes' works; the fragments themselves are not quoted in the sources consulted here. The transmission of Aristophanes' corpus primarily relies on medieval manuscripts of the complete plays, with fragments of lost works recovered from quotations in other ancient authors and papyri. While its direct influence is untraceable, the collection would have served ancient scholars and lexicographers as a source for Attic Greek idiom and comic technique drawn from everyday life, contrasting with the political satire of Aristophanes' more famous produced plays.
+
 ## Text
 
 ### book 1

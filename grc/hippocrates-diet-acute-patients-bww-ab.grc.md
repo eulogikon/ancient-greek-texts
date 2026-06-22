@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ab` · [HTML page](https://eulogikon.org/works/hippocrates-diet-acute-patients-bww-ab)
 
+On the Diet of Acute Patients is a medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works attributed to Hippocrates but composed by various authors around 400 BCE. Written in Ionic Greek, this concise work serves as a practical manual for managing acute, fast-onset diseases, with a particular focus on fevers. It is structured as a series of 32 brief passages that systematically outline specific dietary and lifestyle regimens. The text provides detailed instructions on the types and quantities of foods and beverages to administer to patients, carefully timed to correspond with different stages of the illness. This approach embodies the fundamental Hippocratic principle that diet is a primary therapeutic tool and that recovery depends on the meticulous regulation of a patient's regimen.
+
+The treatise survives intact through the medieval manuscript tradition associated with the Hippocratic Corpus. It was likely composed as a handbook for practicing physicians and students, prioritizing direct observation and naturalistic treatment over explanations involving supernatural causes. Modern scholarship regards the work as a significant early example of clinical medicine, illustrating a systematic and rational approach to patient care. Its emphasis on dietary management as a cornerstone of therapy exerted a lasting influence, informing medical thought and practice throughout the Hellenistic, Roman, and later Islamic worlds.
+
 ## Text
 
 ## Καῦσος γίγνεται, ὁκόταν ἀναξηρανθέντα τὰ φλέβια ἐν θερινῇ ὥρῃ ἐπισπάσηται δριμέας καὶ χολώδεας ἰχῶρας ἐς ἑωυτά· καὶ πυρετὸς πολὺς ἴσχει, τό τε σῶμα ὡς ὑπὸ κόπου ἐχόμενον κοπιᾷ καὶ ἀλγέει.

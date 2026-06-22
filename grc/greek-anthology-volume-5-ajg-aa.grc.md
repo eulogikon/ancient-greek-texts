@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ajg-aa` · [HTML page](https://eulogikon.org/works/greek-anthology-volume-5-ajg-aa)
 
+The Greek Anthology is a comprehensive collection of ancient Greek epigrammatic poetry, compiled in its definitive form by the Byzantine scholar Constantinus Cephalas in the 10th century CE. It preserves over 3,700 short poems from more than 300 authors, spanning a period from the 7th century BCE to the Byzantine era. The work is organized into fifteen thematic books, encompassing a vast array of subjects such as love poetry, epitaphs, dedicatory inscriptions, satirical verse, descriptive pieces, and Christian epigrams.
+
+The modern text is primarily derived from a 10th-century manuscript known as the Palatine Anthology, which itself represents a synthesis of several earlier Hellenistic and Roman collections. These earlier anthologies, including Meleager's Garland from the 1st century BCE and Agathias's Cycle from the 6th century CE, were systematically reorganized by Cephalas. The collection was later supplemented in the 13th century by Maximus Planudes, whose compilation added several hundred poems not found in the Palatine manuscript. While the compiled text survives in good condition, the original structure and context of the earlier source anthologies have been lost and are the subject of ongoing scholarly reconstruction.
+
+Regarded as the principal repository of surviving Greek epigrammatic poetry, the anthology was compiled to preserve a broad cross-section of Greek literary culture for an educated Byzantine readership. Its rediscovery during the Renaissance had a profound influence on European poetry, inspiring epigrammatic traditions in both Latin and vernacular languages. The collection remains an invaluable resource not only for the study of literature but also for understanding ancient social history, aesthetics, and daily life across nearly two millennia.
+
 ## Text
 
 ### book 1.1.1

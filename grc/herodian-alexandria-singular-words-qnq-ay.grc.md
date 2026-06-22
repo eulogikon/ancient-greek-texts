@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ay` · [HTML page](https://eulogikon.org/works/herodian-alexandria-singular-words-qnq-ay)
 
+On Singular Words is a grammatical treatise by the second-century CE scholar Herodian of Alexandria. The work survives in a fragmentary state, comprising forty-five short passages that analyze rare or peculiar Greek words. These fragments exemplify the detailed lexicographical scholarship of the Roman Imperial period, which was dedicated to systematizing correct Greek usage, often according to classical Attic models. The treatise addresses core themes of the contemporary grammatical tradition, including lexicography and morphology, with close analysis of individual word forms. It reflects the principles of Atticism, offering judgments on vocabulary aligned with esteemed classical standards, and contributes to the broader project of establishing grammatical correctness, or Hellenismos. The work is characterized by its meticulous philological detail, scrutinizing exceptional linguistic features.
+
+The treatise does not survive as a continuous text but is preserved through excerpts and citations in later Byzantine grammatical compilations, lexicons, and scholia. Modern editions have reconstructed it from sources such as the Suda lexicon. Herodian was a preeminent and influential grammarian, and though fragmentary, this work made a significant contribution to the technical grammatical tradition. Its analyses were frequently quoted by later authors and incorporated into foundational texts that shaped Byzantine and early modern understanding of Greek vocabulary and usage.
+
 ## Text
 
 ### 3,2 908 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jfq-aa` · [HTML page](https://eulogikon.org/works/apollonius-rhodes-argonautica-jfq-aa)
 
+The Argonautica is a four-book epic poem composed in Greek hexameter by the Hellenistic poet Apollonius of Rhodes during the 3rd century BCE. It recounts the myth of Jason and his crew of Argonauts on their voyage to retrieve the Golden Fleece from the remote kingdom of Colchis. The narrative unfolds systematically across its books, detailing the assembly of heroes and the initial voyage, the treacherous passage through the Hellespont, the pivotal events in Colchis centering on Medea's enamored assistance to Jason, and finally the completion of supernatural labors, the seizure of the Fleece, and the long journey home. Transmitted through medieval manuscripts, the work survives nearly complete at just over 5,800 lines. Composed within the innovative intellectual milieu of Alexandria, where Apollonius was connected to the famed Library, the poem is a defining work of Hellenistic literature. It merges traditional epic architecture with a contemporary emphasis on psychological interiority, most famously in its nuanced depiction of Medea's passionate turmoil. The poem is also characterized by its erudite style, pronounced interest in geographical lore, and etiological explanations for local customs and place names. The Argonautica exercised considerable influence on subsequent Roman epic poetry, most directly serving as a model for Virgil's Aeneid.
+
 ## Text
 
 ### book 1.1

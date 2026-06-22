@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bo` · [HTML page](https://eulogikon.org/works/lucian-samosata-thirsty-pfk-bo)
 
+On the Thirsty is a short rhetorical exercise by the 2nd-century CE satirist Lucian of Samosata. Composed in Attic Greek, it belongs to the genre of paradoxical encomium, a speech that humorously praises a seemingly unworthy subject—in this case, thirst or thirsty individuals. The work is a product of the Second Sophistic, a period characterized by a revival of elaborate Greek oratory and rhetorical display. It opens with a vivid description of the southern Libyan desert, a barren and waterless wasteland inhabited only by the nomadic Garamantes, who venture into it to hunt. The exercise proceeds as a display of rhetorical virtuosity, likely intended for educated audiences familiar with school exercises and the conventions of epideictic oratory. By earnestly arguing an absurd premise, Lucian demonstrates his technical skill while simultaneously offering a gentle satire on the artificial nature of sophistic rhetoric itself. The complete text survives within the standard manuscript tradition of Lucian's works.
+
 ## Text
 
 ### Dips t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cfs-aa` · [HTML page](https://eulogikon.org/works/polycharmus-lycian-oracle-cfs-aa)
 
+The Lycian Oracle Fragments constitute a collection of six prose passages attributed to the otherwise unattested author Polycharmus the Historian. These fragments preserve records of oracular pronouncements originating from the region of Lycia in southwestern Anatolia. As the title indicates, the work survives only in these excerpted passages, with no substantive details of its original scope or the author's biography remaining. Based on its genre, the fragments likely documented the oracular activity of a major Lycian sanctuary, such as the renowned oracle of Apollo at Patara. Thematic concerns would have encompassed divine prophecy, ritual practice, and the role of oracles in providing political and military guidance, thereby illuminating aspects of Lycian religious identity within the wider Hellenic world. The fragments owe their preservation to the common practice of later authors or scholars quoting from now-lost texts. Their principal historical value lies in the potential insight they offer into the religious history and oracular customs of Lycia, a region distinguished by its synthesis of Anatolian and Greek cultural traditions.
+
 ## Text
 
 ### t1-4

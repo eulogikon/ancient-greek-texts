@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nys-aa` · [HTML page](https://eulogikon.org/works/pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa)
 
+On Animals That Emit Venom, Including the Rabid Dog is a toxicological treatise composed in Koine Greek, likely during the 1st or 2nd century CE. Though traditionally ascribed to the renowned 1st-century pharmacologist Dioscorides, modern scholarship identifies the author as anonymous, conventionally designated Pseudo-Dioscorides. The work is a practical medical manual comprising 41 discrete sections, each dedicated to a specific venomous creature such as snakes, scorpions, spiders, and marine animals. A typical entry identifies the animal, describes the symptoms caused by its bite or sting, and provides a corresponding list of therapeutic substances and procedures to counteract the venom.
+
+Reflecting the syncretic nature of ancient medicine, the text blends empirical pharmacological advice with elements of magical practice. Its recommended antidotes include plant-based drugs, animal products, minerals, and the use of inscribed amulets. It was probably intended for use by medical practitioners or educated laypersons seeking remedies for common hazards. The treatise survives primarily because it was frequently copied alongside the authentic and authoritative work of Dioscorides, De Materia Medica, in medieval Greek manuscripts. Its subsequent translation into Latin and Arabic facilitated the transmission of its toxicological knowledge, influencing medical traditions for centuries. Today, it is valued by scholars as a significant independent source for the study of ancient toxicology and folk medicine.
+
 ## Text
 
 ## [ΠΕΔΑΝΙΟΥ ΔΙΟΣΚΟΡΙΔΟΥ] ΠΕΡΙ ΙΟΒΟΛΩΝ, ΕΝ Ωι ΚΑΙ ΠΕΡΙ ΛΥΣΣΟΝΤΟΣ ΚΥΝΟΣ. ΤΟ ΠΡΟΟΙΜΙΟ Ν .

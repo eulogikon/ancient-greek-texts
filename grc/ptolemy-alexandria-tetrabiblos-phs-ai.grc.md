@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ai` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-tetrabiblos-phs-ai)
 
+The Tetrabiblos, also known as the Apotelesmatika, is a four-book astrological treatise composed in Greek by the scholar Claudius Ptolemy around 150 CE in Roman Egypt. It functions as a systematic companion to his astronomical masterpiece, the Almagest. Where the Almagest provides the mathematical framework for calculating celestial motions, the Tetrabiblos explains the methodology for interpreting the influence of those motions on terrestrial affairs. The work is structured as a comprehensive textbook, beginning with the philosophical and scientific foundations of astrology in its first book. The second book addresses what is termed universal astrology, concerning the fates of nations, cities, and peoples. The final two books are devoted to genethlialogy, or natal astrology, detailing the interpretation of an individual's character and life events from the configuration of the heavens at the moment of birth.
+
+Ptolemy's objective was to establish astrology as a rational and philosophically coherent discipline, synthesizing Greek scientific principles with older Babylonian and Egyptian astrological traditions. He grounds his system in the theory of celestial causation and the interplay of the four classical elements, presenting it as a logical extension of natural philosophy aimed at an educated audience of practitioners and theorists. The treatise survives through an exceptionally robust manuscript tradition. It was copied continuously in Greek from antiquity, translated into Arabic in the 9th century, and later into Latin, securing its status as the foundational textbook for astrologers in the Byzantine, Islamic, and medieval European worlds for over a millennium.
+
 ## Text
 
 ### 1.1

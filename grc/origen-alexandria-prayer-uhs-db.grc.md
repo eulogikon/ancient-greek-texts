@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-db` · [HTML page](https://eulogikon.org/works/origen-alexandria-prayer-uhs-db)
 
+On Prayer is a theological treatise composed in Greek by the early Christian scholar Origen of Alexandria around 233–234 CE. Written in response to inquiries from friends, the work serves as a structured manual on Christian prayer. It is organized into two principal sections. The first offers a general discourse on the nature and purpose of prayer, contending that its primary aim is not to inform God of human needs but to align the petitioner’s soul with the divine will. The second and more extensive section provides a detailed, phrase-by-phrase commentary on the Lord’s Prayer, which Origen presents as the perfect model for all Christian supplication. Composed during a formative period in Christian thought, the treatise engages with philosophical objections to prayer current in the wider Greco-Roman world. Modern scholarship interprets it as a synthesis of Middle Platonic philosophy and Christian scripture, functioning simultaneously as pastoral instruction and an apologetic defense of Christian piety. The complete Greek text survives intact through manuscript transmission, with a significant copy dating from the 11th century, and its translation into Latin ensured its broad and lasting influence on subsequent Christian mystical and theological traditions.
+
 ## Text
 
 ### t 1

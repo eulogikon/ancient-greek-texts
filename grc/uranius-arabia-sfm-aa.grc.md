@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sfm-aa` · [HTML page](https://eulogikon.org/works/uranius-arabia-sfm-aa)
 
+The Fragments on Arabia is a lost geographical and ethnographical text attributed to Uranius the Historian. It survives only through approximately thirty fragments preserved within the Ethnica, the 6th-century CE geographical lexicon compiled by Stephanus of Byzantium. These brief entries suggest the original was a systematic treatment of Arabian topography. The extant fragments, quoted by Stephanus, consist of concise lemmata identifying place names, peoples and tribes, and various geographical features of the Arabian peninsula. Uranius’s work is entirely lost in its original form, with its content known exclusively through its incorporation as a source within Stephanus of Byzantium’s Ethnica and no independent manuscript tradition. The fragments provide a limited but focused source on Arabian toponymy and ethnography from a Greco-Roman perspective. Their use by Stephanus indicates the work remained a credible geographical reference in late antiquity, though its broader influence is unattested.
+
 ## Text
 
 ### t1a-31

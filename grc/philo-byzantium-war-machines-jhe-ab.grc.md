@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jhe-ab` · [HTML page](https://eulogikon.org/works/philo-byzantium-war-machines-jhe-ab)
 
+The Art of War Machines is a technical treatise on military engineering authored by Philo of Byzantium around 200 BCE. Originally composed in Koine Greek as one section of his larger, multi-volume work on mechanics, the text functions as a systematic manual for the construction and deployment of advanced siege engines, with a particular focus on torsion-powered catapults. It methodically details the mathematical principles governing artillery design, the preparation of essential materials such as sinew for springs, and the operational use of various bolt-shooters and stone-throwers. Written for a professional audience of military engineers and their patrons, the treatise aimed to compile the cutting-edge technological knowledge of the Hellenistic period.
+
+Only a portion of the original text survives, preserved primarily within a single, damaged manuscript. Other sections are known indirectly through summaries found in later Byzantine military manuals, requiring modern scholars to reconstruct its full content from these fragmentary sources. The work is recognized as a foundational document that represents the sophisticated application of geometry and physics to practical military problems, reflecting the advanced engineering capabilities of its era. Its principles significantly influenced later Roman and Byzantine military engineering, with its technical insights being cited by subsequent authors, including the Roman architect Vitruvius.
+
 ## Text
 
 ### T

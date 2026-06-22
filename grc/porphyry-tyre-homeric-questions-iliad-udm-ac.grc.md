@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ac` · [HTML page](https://eulogikon.org/works/porphyry-tyre-homeric-questions-iliad-udm-ac)
 
+The Remains of Homeric Questions Pertaining to the Iliad is a fragmentary scholarly work by the third-century Neoplatonist philosopher Porphyry of Tyre. Written in Greek, it represents a significant contribution to the tradition of philosophical and philological commentary on Homer. The surviving text addresses specific interpretive problems within the Iliad, including questions of difficult vocabulary, narrative inconsistencies, and apparent contradictions. Porphyry’s primary exegetical method is to explain Homer by means of Homer himself, using other passages from the epic to clarify the meaning of challenging lines, a technique inherited from earlier Alexandrian scholarship. The original structure of the work was likely dialogic, though the extant portions largely present a question-and-answer format. Only a part of the treatise survives today, preserved through excerpts in a medieval manuscript and quotations in later ancient commentaries. Modern scholars view this work as an integral component of Porphyry’s broader project to defend Homer’s authority and to uncover deeper philosophical and ethical truths within the text, consistent with the Neoplatonic conception of Homer as a theologian and sage. It served as a crucial link between earlier Homeric scholarship and the Byzantine tradition, with many of its insights subsequently absorbed into the standard marginal scholia on the Iliad.
+
 ## Text
 
 ### 10 252-253

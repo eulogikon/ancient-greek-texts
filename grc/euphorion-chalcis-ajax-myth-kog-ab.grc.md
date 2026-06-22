@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kog-ab` · [HTML page](https://eulogikon.org/works/euphorion-chalcis-ajax-myth-kog-ab)
 
+Fragments on Ajax and Myth is a lost epic poem by the Hellenistic poet and scholar Euphorion of Chalcis. Its existence is attested solely by a title and a notation in the Byzantine Suda encyclopedia, which records that it comprised 134 passages. No direct quotations from the work survive. Based on Euphorion's characteristic style and his position as head of the Library of Antioch in the Seleucid court, it was likely a learned and allusive composition intended for a sophisticated literary audience. The title suggests a focus on the hero Ajax, potentially exploring obscure variants of his myth or connecting his narrative to other tales. Euphorion's poetry is known for its erotic themes within mythology, aetiological explanations for cults and names, obscure learning, rare vocabulary, and an interest in local and lesser-known legends. The complete loss of the work is typical of much difficult, scholarly Hellenistic poetry that fell from favor in later antiquity. Despite the poem's disappearance, Euphorion's dense, erudite style exerted a significant influence on later Roman poets, including Gaius Cornelius Gallus and, through him, Virgil. The preservation of its title in the Suda underscores Euphorion's important status within the Hellenistic literary tradition.
+
 ## Text
 
 ### book 413.1

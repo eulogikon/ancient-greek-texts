@@ -35,9 +35,9 @@ Callimachus Scholia, Late Antique grammatical commentaries from the 4th to 6th c
 - [Scholia on the Hymns (Continuous)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-vmw-au.grc.md) — *σχόλια εἰς ὕμνους* · `vmw-au`
 - [Scholia on the Hymns (Marginal)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-vmw-av.grc.md) — *Σχόλια εἰς Ὕμνους* · `vmw-av`
 - [Scholia-Aetia](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-at.grc.md) — *Σχόλια εἰς Αἴτια* · `vmw-at`
-- [Scholia-Aetia I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-ap.grc.md) — *Σχόλια εἰς Αἴτια Α'* · `vmw-ap`
-- [Scholia-Aetia I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-aq.grc.md) — *Σχόλια εἰς Αἴτια Α'* · `vmw-aq`
 - [Scholia-Aetia I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-ao.grc.md) — *Σχόλια εἰς Αἴτια Α'* · `vmw-ao`
+- [Scholia-Aetia I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-aq.grc.md) — *Σχόλια εἰς Αἴτια Α'* · `vmw-aq`
+- [Scholia-Aetia I](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-aetia-vmw-ap.grc.md) — *Σχόλια εἰς Αἴτια Α'* · `vmw-ap`
 - [Scholia-Hymns II and III](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-hymns-ii-iii-vmw-ah.grc.md) — *Σχόλια εἰς Ὕμνους Β΄ καὶ Γ΄* · `vmw-ah`
 - [Scholia-Lyric Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-lyric-poems-vmw-ai.grc.md) — *Σχόλια εἰς Λυρικὰ Ποιήματα* · `vmw-ai`
 - [Scholia-Minor Epic and Elegiac Poems](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia-minor-epic-elegiac-vmw-ac.grc.md) — *Σχόλια εἰς Μικρὰ Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα* · `vmw-ac`

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nio-aa` · [HTML page](https://eulogikon.org/works/asclepiades-mendes-apples-hesperides-nio-aa)
 
+The work On the Apples of the Hesperides, attributed to the grammarian Asclepiades of Mendes, is a lost mythographical treatise. It was not an independent composition but rather a passage within a larger scholarly compilation, likely the author's Aegyptiaca. The treatise focused on explicating the myth of the golden apples, a subject of considerable allegorical and etymological interest in Hellenistic scholarship. It is known today solely from a single citation in the scholia to Apollonius Rhodius's Argonautica, which references it concerning the number and names of the Hesperides nymphs. Based on the conventions of comparable Alexandrian works, the treatise presumably cataloged variant mythological traditions, analyzed the names "Hesperides" and the nature of the so-called apples, and offered allegorical interpretations while relating the myth to earlier poetic accounts. This brief citation exemplifies the systematic, scholarly approach to mythology that characterized the period, representing the type of specialized compilation that informed later mythographic handbooks and served as a resource for literary commentators.
+
 ## Text
 
 ### 1

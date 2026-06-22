@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-by` · [HTML page](https://eulogikon.org/works/hippolytus-rome-universe-qsg-by)
 
+On the Universe is a theological treatise written in Greek by Hippolytus of Rome, an early third-century Christian theologian. The work constitutes a philosophical refutation, systematically critiquing Greek theories concerning the origin and nature of the cosmos. Hippolytus summarizes the cosmological doctrines of pre-Socratic philosophers such as Thales and Heraclitus, arguing that their systems are fundamentally flawed and internally contradictory. His primary aim is to demonstrate the logical and theological superiority of the Christian account of divine creation. The treatise survives only in a fragmentary state, known from four passages preserved within a later Byzantine anthology. This incomplete transmission leaves the work’s original scope and structural organization uncertain. Modern scholarship interprets it as an integral component of Hippolytus’s broader project to engage with and decisively reject pagan intellectual culture for an educated Christian readership. It is understood to have been composed not merely to refute specific cosmological models but also to highlight the profound disagreements among philosophers themselves, thereby undermining their collective authority and reinforcing the need for revealed truth.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sie-aa` · [HTML page](https://eulogikon.org/works/dositheus-grammarian-art-sie-aa)
 
+The Grammatical Art is a Greek grammatical treatise attributed to Dositheus the Grammarian. Structured as a series of 101 passages, it functions as a technical manual within the tradition of Greek grammatical scholarship. The work provides a systematic exposition of Greek grammar, beginning with a definition of the grammatical art as the knowledge of correct speech in both speaking and writing, along with expertise in the teaching of poetry and reading. It outlines the four parts of grammar as reading, textual correction, explanation, and critical judgment. The treatise proceeds from first principles, explaining how letters form syllables, syllables combine into words, and words are classified into the parts of speech, with language ultimately judged for its virtues and faults. The text survives through the manuscript tradition and is preserved in its complete form. As a grammatical handbook, or technē, the work contributed to the pedagogical tradition for teaching the Greek language, particularly during the Hellenistic and Roman periods, serving as a foundational tool for education and linguistic standardization.
+
 ## Text
 
 ### 1

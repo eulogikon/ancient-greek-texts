@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `klo-ad` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-suspect-words-klo-ad)
 
+On Suspect Words Among the Ancients is a lost grammatical treatise composed by the Hellenistic scholar Aristophanes of Byzantium, who served as head of the Library of Alexandria around 200 BCE. The work was dedicated to identifying and examining words in the texts of ancient Greek poets, particularly Homer, that were deemed "suspect" or dubious. These were terms whose authenticity, precise meaning, or correct spelling was uncertain, often due to scribal errors, archaic or dialectal forms, or rare usage. As a key figure in Alexandrian scholarship, Aristophanes produced this treatise as a practical tool for the critical editing of classical literature, aiming to assist fellow scholars in establishing authoritative and reliable versions of foundational texts.
+
+The treatise does not survive in its complete form and is known only through a handful of fragmentary passages preserved in the works of later grammarians. These fragments have been transmitted indirectly through Byzantine commentaries and lexicographical works. The extant snippets typically present a suspect word followed by a brief explanation or definition, illustrating the author's method of analysis. Modern scholarship regards the work as a seminal example of early systematic textual criticism, embodying the rigorous Alexandrian approach to preserving and standardizing the Greek literary tradition. Its methodology of systematically flagging problematic readings for scrutiny laid important groundwork for the development of critical symbols used in scholarly editions and influenced the foundational principles of Western philology.
+
 ## Text
 
 ### 273 (1t)

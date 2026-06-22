@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-de` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-meddlesomeness-okg-de)
 
+_On Meddlesomeness_ is an ethical dialogue by Plutarch of Chaeronea, forming part of his extensive collection of practical philosophical works known as the _Moralia_. The treatise is a concise examination of the vice the Greeks termed _polypragmosynē_, which denotes an intrusive, meddlesome, and officious preoccupation with the private affairs of others. Plutarch opens by framing such harmful psychological states as akin to a dark, ill-ventilated house, suggesting that while it is best to expel them entirely, one can also mitigate their effects by redirecting their energy, just as a city might be reoriented to catch a healthier breeze. He immediately defines meddlesomeness as a kind of learning that is fixated on the misfortunes of others, a definition that sets the stage for his core argument.
+
+The work systematically distinguishes this vicious curiosity from the virtuous and praiseworthy pursuit of knowledge, or _polymathia_. Where true learning seeks understanding of noble and beneficial subjects, meddlesomeness is drawn exclusively to the trivial, secret, or shameful details of other people's lives. Plutarch illustrates the social and personal harms caused by this behavior, which breeds gossip, sows discord, destroys trust, and ultimately leaves the meddler’s own life and affairs neglected. He explores the psychological roots of the tendency, attributing it not to a genuine love of learning but to motives such as idleness, malice, envy, and a desire to expose the faults of others in order to feel superior.
+
+The dialogue concludes by offering practical ethical guidance, steering the reader toward the Delphic maxim to “know thyself” and the philosophical principle of minding one’s own concerns. Preserved within the robust manuscript tradition of the _Moralia_, which was transmitted widely through Byzantine copies, the essay stands as a pointed contribution to social ethics. Its exploration of the boundaries between legitimate curiosity and harmful interference, and its insights into the nature of privacy, gossip, and social harmony, ensure its relevance endures.
+
 ## Text
 
 ### 519 A

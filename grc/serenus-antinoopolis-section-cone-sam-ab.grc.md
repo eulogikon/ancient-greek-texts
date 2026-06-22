@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sam-ab` · [HTML page](https://eulogikon.org/works/serenus-antinoopolis-section-cone-sam-ab)
 
+_On the Section of a Cone_ is a fourth-century CE mathematical treatise by Serenus of Antinoöpolis. The work, which survives in full through the Byzantine manuscript tradition, comprises ninety-two propositions investigating the geometry of conic sections—the ellipse, parabola, and hyperbola—and their analogues on cylinders. Its primary subject is the study of the curves formed by intersecting a cone or a cylinder with a plane. A significant portion of the treatise is devoted to proving that an oblique section of a cylinder is an ellipse, offering demonstrations often considered more elegant than those of the earlier mathematician Apollonius of Perga. The work also examines the comparative geometry of cones and cylinders. Serenus’s treatise represents a competent, didactic contribution within the late antique study of Greek geometry. While not groundbreaking, it is valued for its simpler demonstrations of established problems and as important evidence for the continued scholarly engagement with advanced mathematics in the late Roman period. His related work on the geometry of the cylindrical helix is also noted historically.
+
 ## Text
 
 ### 120 (1t)

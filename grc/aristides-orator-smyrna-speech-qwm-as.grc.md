@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-as` · [HTML page](https://eulogikon.org/works/aristides-orator-smyrna-speech-qwm-as)
 
+The Political Speech for Smyrna is a formal oration of praise composed by the Greek orator Aelius Aristides around 177–180 CE. Written in refined Attic Greek, it stands as a prime example of a politikos logos, or political speech, belonging to the epideictic or ceremonial branch of oratory. The speech systematically celebrates the city of Smyrna, modern İzmir in Turkey, by extolling its advantageous location and physical beauty, the virtuous character of its citizens, its political institutions, and its distinguished ancient Greek heritage. Composed in the immediate aftermath of a devastating earthquake, the work is interpreted by modern scholars as serving a dual purpose: to bolster civic pride among the survivors and to function as a sophisticated instrument of political persuasion. Its ultimate aim was to secure imperial favor and financial aid from Rome for the city's reconstruction. The oration reflects the common practice within the Roman Empire whereby elite Greek intellectuals employed their rhetorical skill to advocate for their home cities. The complete text, which is structured around the traditional themes of a city encomium, survives reliably through the medieval manuscript tradition of Aristides' collected works.
+
 ## Text
 
 ### 229

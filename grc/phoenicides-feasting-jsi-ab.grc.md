@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jsi-ab` · [HTML page](https://eulogikon.org/works/phoenicides-feasting-jsi-ab)
 
+The Fragments on Feasting is a modern assemblage of poetic excerpts attributed to the Athenian comic poet Phoenicides. These twenty-five fragments are not preserved as a continuous text but survive exclusively through quotations by later authors, most notably the scholar Athenaeus of Naucratis in his expansive 2nd or 3rd century CE work, the Deipnosophistae. The content of the fragments centers on convivial themes characteristic of the Middle Comedy period, focusing on gastronomy, the social rituals of the symposium, and the pleasures and excesses of consumption. They employ social critique through familiar stock characters such as the glutton and the parasite, offering commentary on culinary luxury and the dynamics of Athenian social life. As with most works of Middle Comedy, there exists no independent manuscript tradition for the plays of Phoenicides; their survival relies entirely on this indirect transmission. While the specific fragments possess limited direct literary influence, they hold collective significance as vital evidence for tracing the evolution of Greek comedy away from political satire and toward the social comedy of manners that would later inform Roman drama. Furthermore, they provide invaluable source material for the study of ancient social history, particularly the practices and culture of the symposium and daily life in classical Athens.
+
 ## Text
 
 ### book 1.1

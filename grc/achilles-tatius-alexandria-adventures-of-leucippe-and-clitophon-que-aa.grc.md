@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `que-aa` · [HTML page](https://eulogikon.org/works/achilles-tatius-alexandria-adventures-of-leucippe-and-clitophon-que-aa)
 
+Leucippe and Clitophon is an ancient Greek prose romance composed in the second century CE by Achilles Tatius of Alexandria. Narrated in the first person by its young hero, Clitophon, the novel unfolds in eight books and chronicles the intense love between Clitophon and his cousin, Leucippe. When their relationship is opposed, the couple flees from Tyre, embarking upon a series of perilous adventures across the eastern Mediterranean. Their journey is marked by shipwrecks, piracy, kidnappings, and dramatic, falsely reported deaths, all of which test their constancy before their eventual reunion and marriage.
+
+A prominent work of the Second Sophistic literary movement, the novel is distinguished by its polished, rhetorical style and its inclusion of elaborate set-piece descriptions of art, architecture, and natural phenomena. The episodic plot traverses major cultural centers such as Alexandria and Ephesus. Modern scholarship regards the work as a sophisticated narrative exploration of love, desire, and virtue, with many interpreters noting its often playful or subversive engagement with the conventions of the romantic genre. The complete text survives through a strong manuscript tradition, although the opening lines of the work are lost and have been reconstructed by editors.
+
 ## Text
 
 ### 1.1.1

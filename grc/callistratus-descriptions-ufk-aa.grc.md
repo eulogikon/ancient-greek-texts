@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ufk-aa` · [HTML page](https://eulogikon.org/works/callistratus-descriptions-ufk-aa)
 
+The Descriptions is a collection of fourteen short prose works by the Greek sophist Callistratus, who lived during the Roman Imperial period. Composed in Attic Greek as rhetorical exercises, each piece offers a detailed and vivid verbal portrait, or ekphrasis, of a celebrated statue, predominantly depicting gods and mythological figures such as Eros, a Satyr, and Opportunity. The work pays homage to master sculptors including Praxiteles and Lysippus, consistently highlighting the lifelike and dynamic qualities of their bronze and marble creations. Its precise date remains uncertain, though modern scholarship generally assigns it to the third or fourth century CE. Likely intended for educational and cultural purposes, the collection exemplifies the sophistic training of its era, using elaborate description to demonstrate rhetorical skill and evoke the Greek artistic heritage. The complete text has been preserved through medieval manuscript transmission, where it is frequently paired with the similar Imagines of Philostratus. While the historical accuracy of its descriptions of specific statues is a subject of scholarly debate, the work endures as a significant document of ancient art criticism and rhetorical practice.
+
 ## Text
 
 ### 1 t

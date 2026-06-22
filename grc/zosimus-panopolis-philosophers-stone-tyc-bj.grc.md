@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bj` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-philosophers-stone-tyc-bj)
 
+On the Philosopher's Stone is an ancient Greek alchemical treatise attributed to Zosimus of Panopolis, an author active in Egypt around 300 CE. The work is a foundational text within the earliest surviving corpus of Greek alchemical writings and focuses on the legendary philosopher's stone, the purported substance capable of transmuting base metals into silver or gold. Structured as a series of seven passages, the treatise blends practical laboratory instructions with allegorical descriptions and mystical speculation, often conveyed through visionary experiences or dialogues. It was composed within the Greco-Egyptian tradition, which synthesized Egyptian craft knowledge with Greek philosophical and spiritual concepts. Modern scholarship interprets Zosimus's work as a unified project where the material process of perfecting metal is inextricably linked to the spiritual purification and salvation of the human soul, a pursuit intended for fellow initiates of what was then termed the sacred art. The text survives primarily through Byzantine manuscripts, most notably within a 10th- or 11th-century anthology of Greek alchemical works. Its transmission history is complex, with the original writings often preserved in fragmentary or disordered states. The ideas of Zosimus were later translated into Syriac and Arabic, exerting a profound influence on the development of Islamic and medieval European alchemy and securing his status as a pivotal figure in the history of Western esoteric traditions.
+
 ## Text
 
 ### [15]

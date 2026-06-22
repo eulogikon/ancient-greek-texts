@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxm-aa` · [HTML page](https://eulogikon.org/works/severus-antioch-narratives-ethopoeiae-uxm-aa)
 
+The Narratives and Ethopoeiae is a collection of fifteen orations attributed to Severus of Antioch, the influential sixth-century Miaphysite patriarch and theologian. The title denotes a combination of narrative accounts and ethopoeiae, a standard rhetorical exercise involving the composition of speeches appropriate to a defined character and circumstance. The work's content, as illustrated by surviving fragments, consists of mythological narratives and declamations, such as an account of the transformation of Io into a heifer and a speech concerning the youth Hyacinthus. This rhetorical compilation stands apart from Severus's extensive and well-documented corpus of theological polemics, homilies, and letters, which secured his legacy as a defining figure for the Syrian Orthodox Church. The collection is likely a product of his early education in rhetoric and law at Alexandria and Berytus, reflecting standard pedagogical practices of the era. Like much of his original Greek output, the complete text of the Narratives and Ethopoeiae does not survive, with his major works preserved primarily in Syriac translation due to his posthumous condemnation and the subsequent curation of his writings within the Miaphysite tradition.
+
 ## Text
 
 ### Di t

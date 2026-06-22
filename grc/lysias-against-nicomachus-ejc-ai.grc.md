@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ai` · [HTML page](https://eulogikon.org/works/lysias-against-nicomachus-ejc-ai)
 
+Against Nicomachus is a forensic oration composed by the Athenian speechwriter Lysias, delivered around 399 BCE during the public audit of a former official. The speech constitutes the prosecution case against Nicomachus, a secretary who had been entrusted with assisting in the republication of the city's laws following the restoration of democracy after the rule of the Thirty Tyrants. The accuser charges that Nicomachus grossly exceeded his mandated authority, which was limited to transcribing the established laws of Solon within a four-month period. Instead, he is accused of acting as a legislator in his own right, prolonging his task to six years, and arbitrarily inscribing and erasing laws for personal profit while receiving a daily wage. The core accusation is that Nicomachus placed the citizenry in the untenable position of having their legal code dependent on his personal discretion, thereby corrupting a foundational democratic process.
+
+Surviving in a fragmentary condition, the speech consists of 34 passages and lacks its opening section. Despite its incomplete state, transmitted through medieval manuscripts, it remains a crucial document for understanding the political and legal anxieties of Athens in the immediate post-oligarchic period. The case illuminates the intense contemporary conflicts over legal authority, the procedures for holding public officials accountable, and the profound challenges involved in reconstructing a stable civic order after a period of violent constitutional upheaval.
+
 ## Text
 
 ### Or30 t

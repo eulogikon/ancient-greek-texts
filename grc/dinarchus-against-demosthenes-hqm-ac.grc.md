@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hqm-ac` · [HTML page](https://eulogikon.org/works/dinarchus-against-demosthenes-hqm-ac)
 
+Against Demosthenes is a forensic oration composed in 323 BCE by the logographer Dinarchus for use in a major Athenian trial. Written in Attic Greek, the complete speech spans eighty-five sections and adheres to the conventional structure of a courtroom address. It forms part of the prosecution's case against the renowned statesman Demosthenes, who was accused of accepting a substantial bribe from Harpalus, the fugitive treasurer of Alexander the Great who had sought refuge in Athens. As a metic, or resident alien, Dinarchus was legally barred from delivering speeches in court himself; he therefore wrote this text for an unnamed litigant. The argument methodically assails the character of Demosthenes, citing his own previous patriotic orations and proposed legislation as evidence of his hypocrisy and corruption.
+
+The speech was crafted for a specific and volatile political context, stemming from the "Harpalus affair," a scandal triggered by the disappearance of a large sum of money demanded by Alexander. Modern scholarship regards the oration as a prominent example of character assassination within the Athenian legal system, designed to convince a jury that Demosthenes had betrayed the city for personal enrichment. It offers valuable historical insight into the political rhetoric and judicial processes of late Classical Athens. The text survives in its entirety due to its preservation within the medieval manuscript tradition of the canonical collection known as the Ten Attic Orators.
+
 ## Text
 
 ### Dem t

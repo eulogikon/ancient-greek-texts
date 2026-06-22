@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-ae` · [HTML page](https://eulogikon.org/works/proclus-chaldaean-philosophy-uqy-ae)
 
+Proclus’s Selections on Chaldaean Philosophy is a treatise that presents and interprets seven passages from the Chaldaean Oracles, a corpus of revelatory verses from the second century CE that were revered by later Neoplatonists. The work exemplifies Proclus’s exegetical method, applying his systematic Neoplatonic metaphysics to elucidate these sacred texts. It forms part of his broader project to synthesize Platonic, Orphic, and Chaldaean wisdom for an advanced philosophical audience. The treatise interprets the ritual practices of theurgy for soul purification and ascent, correlating the Chaldaean divine orders, such as the Father, Power, and Intellect, with Proclean hypostases like the One and Intellect. Through symbolic exegesis, it decodes the oracles’ mystical language to reveal doctrines on the nature of reality and the divine, charting the soul’s soteriological path of return from material embodiment to its divine source. The treatise survives within the manuscript tradition of Proclus’s works and serves as a crucial source for modern knowledge of the Chaldaean Oracles, which themselves survive primarily through fragments quoted by Neoplatonists. Proclus’s Selections was influential in cementing the authority of the Chaldaean Oracles within the later Platonic tradition, helping to transmit theurgic ideas and symbolic exegetical methods into Byzantine and Renaissance Platonism and early modern esoteric thought.
+
 ## Text
 
 ## Πρόκλου ἐκ τῆς αὐτῆς χαλδαϊκῆς φιλοσοφίας Αὐλαὶ τῶν θείων καὶ οἰκήσεις αἱ ἀΐδιαι τάξεις.

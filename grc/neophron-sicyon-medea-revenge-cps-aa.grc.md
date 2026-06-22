@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cps-aa` · [HTML page](https://eulogikon.org/works/neophron-sicyon-medea-revenge-cps-aa)
 
+The Medea of Neophron of Sicyon is a lost tragedy from the fifth century BCE, surviving only in fragments. Written in verse with Attic Greek as its primary dialect, it dramatized the myth of the Colchian sorceress Medea and her vengeance against her husband, Jason, for abandoning her. The exact plot and structure of the original play are irrecoverable, but modern scholarship has organized the surviving textual remnants into twelve discrete passages. The work’s historical significance stems largely from an ancient literary controversy. Later sources, including scholiasts commenting on Euripides, report an accusation that Euripides plagiarized elements from Neophron’s earlier treatment for his own celebrated Medea, produced in 431 BCE. This charge suggests Neophron’s version was a notable and known work within Athenian dramatic circles. A further point of contention in the ancient testimonia concerns the play’s climax; some reports claim that in Neophron’s version, Medea’s children were killed by the Corinthians rather than by their mother, a plot detail that diverges from Euripides’ canonical account and remains a subject of scholarly debate. The text of Neophron’s play has not survived through direct manuscript transmission. Knowledge of its existence and content derives entirely from quotations and references preserved in the works of later ancient commentators and anthologists.
+
 ## Text
 
 ### book 1.1

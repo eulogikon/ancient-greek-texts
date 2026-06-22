@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `duc-aa` · [HTML page](https://eulogikon.org/works/aristippus-cyrene-antiquities-myths-duc-aa)
 
+Arcadian Antiquities and Myths is a prose work attributed to Aristippus of Cyrene, the founder of the Cyrenaic school of philosophy. This attribution is historically problematic, as Aristippus is not otherwise known as a writer of history or antiquities. The work survives only in a handful of fragments preserved by later authors, including Clement of Alexandria and various scholiasts. These fragments suggest the text dealt with Arcadian foundation stories and local legends, touching on figures such as Apis, the king of Argos who founded Memphis, and various traditions surrounding the hero Deucalion. The work's title implies a focus on the antiquarian lore of the Peloponnesian region of Arcadia. Its uncertain transmission and the questionable authorship make it a minor but intriguing artifact of Hellenistic interest in local history and mythography. If genuinely by the philosopher Aristippus, it would represent an unusual historiographical departure from his known philosophical pursuits. More likely, it is a later compilation, possibly of excerpts, attributed to him due to the commonality of the name.
+
 ## Text
 
 ### t1-4

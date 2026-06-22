@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ae` · [HTML page](https://eulogikon.org/works/anon-hist-frag-heraclean-history-mmg-ae)
 
+The History of Heracles, also referenced as the Alban Tablet, is an anonymous historical or mythographical compilation. Its title indicates an epitomized account of the stories surrounding the hero Heracles, likely derived from earlier traditions that treated mythological narratives as a form of pseudo-history. The significance of the designation "Alban Tablet" remains unclear, though it may obliquely refer to a legendary record from Alba Longa in Latium, a connection otherwise unattested in surviving sources concerning Heracles. The work's specific content is not preserved in any known manuscript tradition or major collection of Greek fragments, rendering its precise nature and transmission history uncertain. It may represent a completely lost work or a modern scholarly grouping of disparate excerpts. Based on its title, it would have encompassed core themes of the Heracles cycle, including his labors and ancillary deeds, his apotheosis and establishment of cult, his role as a civilizing hero, and foundation myths, potentially with an Italian focus. While this particular compilation itself lacks a demonstrable historical influence, it exemplifies the enduring antiquarian practice of systematizing heroic myth, reflecting the figure of Heracles as a pan-Mediterranean cultural icon whose legends were extensively adopted and adapted, particularly within Roman historiography and foundation narratives.
+
 ## Text
 
 ### 1a,40,F 1a

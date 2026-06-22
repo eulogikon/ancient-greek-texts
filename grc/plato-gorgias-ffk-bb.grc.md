@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-bb` · [HTML page](https://eulogikon.org/works/plato-gorgias-ffk-bb)
 
+Plato's Gorgias is a philosophical dialogue composed around 380 BCE that stages a rigorous examination of rhetoric, justice, and the good life. The work presents a series of escalating conversations in which Socrates engages three distinct interlocutors: the celebrated rhetorician Gorgias, his enthusiastic follower Polus, and the formidable intellectual Callicles. Socrates first questions Gorgias on the nature of his craft, probing whether rhetoric constitutes a genuine art grounded in knowledge or is merely a knack for flattery and persuasion aimed at pleasure. With Polus, the debate turns to morality, where Socrates argues paradoxically that committing injustice is far worse for the wrongdoer than suffering it, as it corrupts the soul. The confrontation reaches its peak with Callicles, who champions a doctrine of natural right, asserting that superior individuals are justified in overstepping conventional justice to satisfy their desires. Socrates counters by defending the philosophical life as the only path to a harmonious and happy soul, governed by self-discipline and the pursuit of the good. The dialogue concludes with a vivid eschatological myth detailing the judgment of souls, reinforcing the eternal consequences of earthly justice and injustice.
+
+Written in the turbulent aftermath of the Peloponnesian War and the trial of Socrates, the Gorgias functions as a profound critique of the Athenian political culture that prized persuasive power over moral truth. It is a complete and well-preserved text, transmitted through medieval manuscripts. For modern readers, it stands as a foundational work in political philosophy and ethics, offering a seminal critique of rhetoric divorced from ethical responsibility and a powerful defense of the idea that the health of the soul is the supreme human good. The dialogue was likely intended for an educated Athenian audience engaged in contemporary debates about virtue, power, and the nature of the best life.
+
 ## Text
 
 ### Gorg.447.a

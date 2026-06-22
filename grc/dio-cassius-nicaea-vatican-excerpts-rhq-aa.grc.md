@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhq-aa` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-vatican-excerpts-rhq-aa)
 
+The Roman Histories, also known as Peter the Patrician's Vatican or Maian Excerpts, is a sixth-century compilation of passages from the Roman History of Cassius Dio. The original work, an eighty-book narrative in Greek by the third-century senator and historian Cassius Dio of Nicaea, chronicled Roman history from its legendary foundations to 229 CE. Only portions of the complete text survive. This specific collection comprises sixty-nine excerpts, selected by the Byzantine official and historian Peter the Patrician, and is preserved in two tenth-century manuscripts.
+
+The curated passages concentrate on critical events from the late Roman Republic and early Empire, including the civil wars following the assassination of Julius Caesar and the consolidation of power under Augustus. The excerpts, which feature episodes such as a Roman envoy seeking Persian aid against Caesar's assassins and Caesar's pointed refusal to view the corpse of Ptolemy, illuminate themes of political strife, the establishment of autocratic rule, and the enduring conflict between senatorial authority and imperial power. These themes reflect Dio's own senatorial viewpoint. The compilation was created not as a literary anthology but for practical consultation within the Byzantine imperial administration, representing a bureaucratically filtered selection of Dio's historical analysis.
+
+The transmission of Cassius Dio's monumental history is fragmentary. While some books survive intact in medieval manuscripts, understanding of the periods covered by these excerpts often relies entirely on such later collections. Consequently, these sixty-nine passages constitute a vital source for modern historians studying the political and military crises that marked the end of the Roman Republic.
+
 ## Text
 
 ### 1

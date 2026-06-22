@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kms-af` · [HTML page](https://eulogikon.org/works/chrysippus-soli-dietary-taboos-kms-af)
 
+The Fragments on Dietary Taboos is a lost philosophical treatise by Chrysippus of Soli, the third head of the Stoic school in Athens, who was active in the 3rd century BCE. Written in Greek, the work examined the cultural and religious prohibitions on certain foods from a Stoic perspective. It likely analyzed whether such dietary customs were grounded in natural reason or were merely products of human convention, and how these practices related to the core Stoic doctrine that material things, including specific foods, are morally indifferent. The treatise survives only in fragments, with its original length and full structure remaining unknown. It is represented by five surviving passages quoted or paraphrased by later authors, and its title is preserved in ancient catalogues of Chrysippus's extensive writings. Modern scholars interpret this work as part of the broader Stoic project to provide rational, often physicalist, explanations for traditional practices, thereby connecting dietary laws to larger themes of ethics, theology, and the ideal of living in accordance with nature.
+
 ## Text
 
 ### 1

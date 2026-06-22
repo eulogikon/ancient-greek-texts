@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lbs-ab` · [HTML page](https://eulogikon.org/works/heraclides-lembus-historical-excerpts-lbs-ab)
 
+The Historical Excerpts and Anecdotes is a 2nd-century BCE compilation by Heraclides Lembus, a scholar and official in the Ptolemaic court of Alexandria. Written in Koine Greek prose, the work is an epitome, or condensed summary, of longer historical and biographical texts. The surviving fragments, preserved through quotations in later Byzantine compilations, cover diverse topics including the founding legends of Rome, the constitutions of Greek city-states, and illustrative anecdotes concerning philosophers and statesmen, all presented in a concise and factual style. The text as it exists today represents a twice-filtered distillation of knowledge; the 19 extant passages are themselves summaries drawn from Heraclides' own more extensive epitomes of earlier historians, which are now lost. Modern scholarship interprets the work as a characteristic product of Alexandrian scholarship, designed for practical use as a quick reference for students, officials, or scholars needing accessible digests of lengthy historical works. Its principal historical value lies in preserving these summaries of important sources that otherwise would have disappeared entirely.
+
 ## Text
 
 ### t1-5

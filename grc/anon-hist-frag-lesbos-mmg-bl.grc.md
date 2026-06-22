@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bl` · [HTML page](https://eulogikon.org/works/anon-hist-frag-lesbos-mmg-bl)
 
+_On Lesbos_ is a lost work of ancient Greek local history, or horography, concerning the island of Lesbos. It survives only in two brief fragments transmitted by later scholarly sources. The first fragment, cited by the grammarian Herodian in his work _On Peculiar Diction_, records that a harbor known as Euripos was historically named Maloeis. The second, preserved by Stephanus of Byzantium in his geographical lexicon _Ethnica_, identifies Pyrrha as a village on the island. These excerpts demonstrate the work's focus on archaic toponymy and local geographical detail. Known exclusively through these indirect citations from the second and sixth centuries CE, the text has no independent manuscript tradition. As a representative of local historiography, _On Lesbos_ served as a source of rare lexical and antiquarian data for later grammarians and geographers, contributing to the historical geographical knowledge of the late antique and Byzantine periods.
+
 ## Text
 
 ### 3b,479,F 1

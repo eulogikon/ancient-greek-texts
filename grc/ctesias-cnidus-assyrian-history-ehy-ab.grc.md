@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ehy-ab` · [HTML page](https://eulogikon.org/works/ctesias-cnidus-assyrian-history-ehy-ab)
 
+The Fragments on Assyrian History constitutes a modern scholarly compilation of excerpts derived from the lost Assyrian narrative of Ctesias of Cnidus, a Greek physician and historian active in the late fifth and early fourth centuries BCE. These fragments originate from the Assyrian section of his major work, the Persica, a twenty-three-volume history of the East written in Ionic Greek. The surviving material presents a largely legendary account of the Assyrian Empire, centering on archetypal figures such as the empire's founder, King Ninus, the formidable Queen Semiramis, and the decadent final ruler, Sardanapalus. Its narrative blends myth with purported history, detailing imperial conquests, monumental building projects, and dramatic tales of courtly luxury and moral downfall.
+
+The text exists only in a fragmentary state, preserved not in its original form but through quotations, summaries, and paraphrases in the works of later Greek and Roman authors. The most significant sources for these 184 fragments are the historical library of Diodorus Siculus from the first century BCE and the ninth-century CE summary by the Byzantine patriarch Photius. Modern scholarship interprets Ctesias's work as a conscious effort to rival Herodotus by providing Greek audiences with a sensationalized, insider's perspective on the East, purportedly based on his access to Persian royal archives during his service as a physician at the Achaemenid court. Although criticized even in antiquity for its historical inaccuracies and romantic embellishments, Ctesias's vivid portrayals of Assyrian monarchy proved profoundly influential, shaping the classical and subsequent Western image of Assyria as a domain of exotic grandeur and inherent moral decay.
+
 ## Text
 
 ### 3c,688,F 1b

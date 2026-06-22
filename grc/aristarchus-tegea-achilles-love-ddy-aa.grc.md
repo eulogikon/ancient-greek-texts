@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ddy-aa` · [HTML page](https://eulogikon.org/works/aristarchus-tegea-achilles-love-ddy-aa)
 
+The tragedy known as Fragments on Achilles and Love is a lost work by the 5th-century BCE playwright Aristarchus of Tegea, an older contemporary of Euripides. The play is known only by its title and a handful of surviving passages, which suggest it engaged with the myth of the hero Achilles while incorporating the thematic force of Eros, or love. The specific plot is unrecoverable, but the title implies a focus on particular episodes from the hero's story, potentially alluding to his relationship with Patroclus or other romantic narratives from the wider epic tradition. The work survives exclusively through quotations in later ancient authors, such as the grammarian Athenaeus. Although its direct literary influence remains undocumented, the fragments represent the extensive, non-canonical output of 5th-century Athenian tragedy. Aristarchus himself was a prolific figure, credited with seventy plays and two dramatic victories, and his work exemplifies the vast, yet largely fragmentary, corpus of classical drama beyond the surviving masterpieces.
+
 ## Text
 
 ### book 1a.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kau-aa` · [HTML page](https://eulogikon.org/works/dionysius-mytilene-testimonies-kau-aa)
 
+The Testimonies is a lost grammatical work attributed to the Hellenistic scholar and mythographer Dionysius Scytobrachion of Mytilene. Preserved only through six fragmentary citations in later sources, the work's title indicates it was a compilation of authoritative quotations from earlier authors, a standard philological tool in antiquity. As a collection of martyriai, or textual "witnesses," its contents likely served the practical needs of scholarly debate, providing evidence for textual criticism, illustrating correct linguistic or metrical usage, and offering authoritative citations from poets and prose writers. The work survives not as an independent volume but solely through its incorporation into later doxographical and grammatical texts. Its primary significance lies in its form, as it represents a clear example of the Hellenistic scholarly practice of assembling canonical excerpts for use in grammatical and critical discourse, a methodology that underpinned much of ancient literary scholarship.
+
 ## Text
 
 ### 1a,32,T 1

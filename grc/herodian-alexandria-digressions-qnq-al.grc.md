@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-al` · [HTML page](https://eulogikon.org/works/herodian-alexandria-digressions-qnq-al)
 
+The Digressions of the Great Speech is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. This major work on prosody analyzes syllable quantity and accentuation in the Homeric epics, with the "Great Speech" referring specifically to the Iliad. The text systematically examines Homeric vocabulary, focusing on the rules of Greek accentuation and the metrical properties of words. It frequently corrects perceived errors in earlier scholarship, employing analogical reasoning to establish grammatical correctness. The original treatise is lost and survives only fragmentarily; its content is reconstructed from excerpts and epitomes preserved in later Byzantine grammatical compilations, most notably the Epitome of Herodian's General Prosody by Theodosius of Alexandria and the Etymologicum Magnum. Herodian’s analysis became a standard authority on Greek accentuation, directly influencing later grammarians like Theodosius and George Choeroboscus. It informed the accentual marks in medieval manuscripts, thereby shaping the Byzantine and subsequent scholarly understanding of Homeric Greek.
+
 ## Text
 
 ### 4 (1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kkk-ad` · [HTML page](https://eulogikon.org/works/teles-megara-seeming-being-kkk-ad)
 
+On Seeming and Being is a philosophical dialogue by the Cynic teacher Teles of Megara, composed in the 3rd century BCE. The work survives only in two brief fragments preserved within a longer excerpt from Teles’s On Self-Sufficiency, quoted by the 5th-century CE anthologist Stobaeus. As a dialogue, it functioned as a protreptic discourse, employing conversational form to exhort its audience toward the Cynic ideal of a life grounded in virtue. Its title encapsulates the core ethical investigation: the critical distinction between outward appearance or reputation—seeming—and genuine inner reality or character—being.
+
+The extant fragments present a series of rhetorical questions contrasting superficial perception with true substance, arguing that actual competence and goodness, not the mere appearance of them, are the foundations of a well-lived life. Modern scholarship interprets the dialogue as a work of practical ethics aimed at a general audience, characteristic of the Hellenistic diatribe tradition. It critiques conventional social values such as wealth, status, and public esteem as hollow semblances, advocating instead for an authentic existence of virtue and self-sufficiency lived in accordance with nature. While its original structure and full content are lost, the fragments offer valuable insight into popular moral philosophy of the period. Teles himself is regarded as a significant figure in the transmission of Cynic thought, serving as a conceptual bridge between the earlier Cynic tradition and the development of later Stoic ethics.
+
 ## Text
 
 ### 3 (1t)

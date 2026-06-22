@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vke-aa` · [HTML page](https://eulogikon.org/works/hierotheus-divine-sacred-art-vke-aa)
 
+The work Hierotheus the Philosopher—the Divine and Sacred Art in Iambic Verses is a Byzantine alchemical poem preserved in Greek manuscripts. Attributed to a figure named Hierotheus, it consists of fourteen passages composed in iambic verse, a standard meter for didactic technical poetry. The poem forms part of the pseudepigraphical Greek alchemical corpus, where texts were commonly ascribed to ancient authorities. Its title indicates its focus on the "divine and sacred art," a conventional term for alchemy. The verses address the theory and practice of chrysopoeia, or gold-making, employing allegorical and coded language to explore the symbolic and spiritual interpretation of chemical processes and the relationship between divine wisdom and technical skill. The text survives within larger compilations of the Greek alchemical manuscript tradition, such as the corpus found in codices like Marcianus graecus 299 from the tenth or eleventh century. As a representative of the Byzantine alchemical poetic sub-genre, the work functioned as both a mnemonic device and a vehicle for esoteric doctrine. It contributed to the body of knowledge transmitted from Greek to Arabic and later Latin alchemical traditions, its specific influence being subsumed within the broader corpus.
+
 ## Text
 
 ### unit_1

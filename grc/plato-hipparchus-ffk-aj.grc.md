@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-aj` · [HTML page](https://eulogikon.org/works/plato-hipparchus-ffk-aj)
 
+The Hipparchus is a short philosophical dialogue traditionally included among the works of Plato, though its authenticity has been widely questioned since antiquity. Presented as a conversation between Socrates and an unnamed companion, the dialogue centers on the definition of greed, or the love of gain. Socrates initiates the inquiry by proposing that since all people desire good things and material gain is commonly considered good, it follows that everyone must be a lover of gain. His companion objects to this broad definition, citing the Athenian tyrant Hipparchus as a proverbial example of a greedy and unjust man.
+
+In a surprising rhetorical turn, Socrates responds not by refining his argument but by delivering an extended, laudatory account of Hipparchus’s character and rule. He portrays Hipparchus not as a vicious tyrant but as a wise and cultivated leader who adorned Athens with moral inscriptions and promoted cultural refinement. This positive depiction starkly contradicts the standard Athenian democratic tradition, which remembered Hipparchus as an oppressive and greedy ruler. The dialogue concludes without resolving the initial question about the nature of greed, ending in apparent aporia.
+
+Modern interpretation generally views this encomium to Hipparchus as an ironic device. The praise is likely not meant to rehabilitate the historical figure but to unsettle conventional assumptions and provoke deeper reflection on the underlying ethical questions. The dialogue challenges the reader to examine the relationship between desire, profit, and the true good, questioning whether common condemnations of greed are philosophically coherent. The work is preserved in the medieval manuscript tradition of Plato’s corpus and is considered complete. However, most contemporary scholars regard it as spurious, judging its style and philosophical content to be inconsistent with Plato’s authentic writings. It is generally considered a product of Plato’s early Academy, composed by a follower imitating the Socratic method of elencitic inquiry.
+
 ## Text
 
 ### Hipp.225.a

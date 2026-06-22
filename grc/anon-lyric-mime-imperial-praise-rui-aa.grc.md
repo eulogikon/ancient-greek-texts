@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rui-aa` · [HTML page](https://eulogikon.org/works/anon-lyric-mime-imperial-praise-rui-aa)
 
+Fragments on Imperial Praise is an anonymous lyric mime known only by its title, which indicates it consisted of poetic passages composed in praise of a Roman emperor or the imperial institution. The work is entirely lost, with no surviving textual fragments or descriptive details beyond its listing in the tenth-century Byzantine encyclopedia known as the Suda, which classifies it under the genre of lyric mime. Its significance lies in its attestation of panegyrical content within the mime tradition, a genre more commonly associated with comedy and satire, suggesting a possible specialized, courtly form of performance that illustrates the diverse applications of the medium.
+
 ## Text
 
 ### unit_1

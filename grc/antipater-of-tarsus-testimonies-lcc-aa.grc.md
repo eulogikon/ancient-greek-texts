@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcc-aa` · [HTML page](https://eulogikon.org/works/antipater-of-tarsus-testimonies-lcc-aa)
 
+The Testimonies and Fragments is a modern collection of philosophical testimonia and fragments of Antipater of Tarsus, the 2nd-century BCE Stoic scholarch who succeeded Diogenes of Babylon and taught Panaetius. Preserved indirectly in authors such as Cicero, Plutarch, Strabo, and Stobaeus, the passages document his Tarsian origin, controversies with Carneades, and Stoic doctrines in ethics and logic. The collection aligns with the SVF testimonia for Antipater and provides essential evidence for the history of the Stoa between Chrysippus and the Middle Stoa.
+
 ## Text
 
 ### 1

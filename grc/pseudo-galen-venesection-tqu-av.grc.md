@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-av` · [HTML page](https://eulogikon.org/works/pseudo-galen-venesection-tqu-av)
 
+On Venesection is a concise, anonymous medical treatise preserved within the Hippocratic corpus. This practical instructional manual focuses on the procedure of therapeutic bloodletting, offering guidance across ten brief passages. The text details the technical execution of phlebotomy, including the optimal timing for the procedure—such as during the remission of a fever's paroxysm or, in non-febrile cases like severe eye inflammation, when pain begins to subside. It advises on patient preparation, recommending morning procedures after a period of wakefulness, sometimes preceded by bathing or walking. Crucially, the work grounds the practice within the framework of classical humoral theory, instructing the physician to assess the patient's natural constitution and strength to determine the appropriate quantity of blood to be removed. It recommends a more vigorous evacuation for those with dark veins and a lean, but not overly pale or soft, physique, while advocating caution for patients of the opposite constitution. Transmitted through the medieval manuscripts that carried the larger Hippocratic collection, this technical manual exemplifies the perpetuation of specific surgical knowledge within the Hippocratic-Galenic tradition, contributing to the enduring practice of bloodletting in Western medicine from antiquity through the Renaissance.
+
 ## Text
 
 ### 19 519 (t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dyi-aa` · [HTML page](https://eulogikon.org/works/cebes-thebes-table-dyi-aa)
 
+The Tablet of Cebes, also known as the Tabula Cebetis, is a philosophical allegory composed in Attic Greek. While traditionally ascribed to Cebes, a disciple of Socrates, linguistic analysis suggests it was actually written during the late first or early second century CE. The work takes the form of a dialogue in which an elderly interpreter explains the meaning of a complex votive painting housed within a temple. This painting allegorizes human life as a journey through a series of concentric enclosures. Personified figures, including True Education, False Education, Fortune, and Deceit, either guide or mislead the souls depicted. The narrative traces individuals who are led astray by vices but who, through the intervention of Repentance, can rediscover the path toward True Education and ultimately attain Happiness within the innermost sanctuary. Functioning as a moral exhortation for a general audience, the text synthesizes popular themes from Stoic, Cynic, and Platonic philosophy without rigorous doctrinal allegiance to any single school. Its enduring popularity as an educational text ensured its survival through antiquity and the Middle Ages; it was frequently copied alongside the works of Epictetus and was translated into Latin, Arabic, and numerous European vernaculars.
+
 ## Text
 
 ### t 1

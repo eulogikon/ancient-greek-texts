@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-au` · [HTML page](https://eulogikon.org/works/hymnic-anon-athena-upu-au)
 
+The Homeric Hymn to Athena is an eighteen-line invocation in dactylic hexameter, composed in the epic dialect and preserved within the larger collection of anonymous Homeric Hymns. Dating likely to the Archaic or early Classical period, between the seventh and sixth centuries BCE, it functions as a concise prelude, or prooimion, intended for recitation before longer epic performances at public festivals. The hymn opens with a series of traditional epithets for the goddess, celebrating her as the revered, grey-eyed, resourceful, and relentless protector of cities. It vividly recounts her dramatic birth from the head of Zeus, fully armed with gleaming golden armor, an event that shook Olympus, terrified the earth, and stilled the sea. The narrative pauses as Hyperion's son, Helios, halts his chariot, and all marvel until Athena removes her divine armor. The poem concludes with a direct address and farewell to the daughter of Zeus, followed by the singer's promise to remember her in future song. As a performative piece, the hymn encapsulates the essential Athenian conception of the goddess as a potent blend of martial power, civic order, and cunning wisdom.
+
 ## Text
 
 ### 1

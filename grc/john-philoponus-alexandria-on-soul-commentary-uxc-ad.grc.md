@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxc-ad` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-on-soul-commentary-uxc-ad)
 
+John Philoponus's On Aristotle's Books On the Soul is a comprehensive philosophical commentary on Aristotle's De Anima, composed in Greek between approximately 517 and 526/8 CE. Structured according to the conventions of late antique scholarship, the work proceeds by quoting a short passage from Aristotle's text and then furnishing an extensive exegesis, covering all three books of the original treatise. As a Christian intellectual operating within the Alexandrian Neoplatonic tradition, Philoponus uses the commentary form to engage in critical dialogue with earlier interpreters, most notably Alexander of Aphrodisias. He articulates his own theory of the soul, contending that it is the essential form of the living body rather than a separate, pre-existing substance. The commentary also advances a distinctive theory of intellect and offers a meticulous analysis of Aristotle's account of perception. Modern scholarship regards this early work as a significant document of late Neoplatonic thought, identifying within it the innovative philosophical tendencies that would later characterize Philoponus's more explicitly Christian intellectual trajectory. The complete text of the commentary is preserved in medieval Greek manuscripts.
+
 ## Text
 
 ### [5]

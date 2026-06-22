@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tem-aa` · [HTML page](https://eulogikon.org/works/syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa)
 
+The Scholia on Hermogenes's On Issues is a Byzantine compilation of explanatory notes on the influential 2nd-century CE rhetorical treatise On Issues by Hermogenes of Tarsus. Assembled under the names of the Neoplatonist philosopher Syrianus and the rhetoricians Sopater and Marcellinus, this collection of 655 passages constitutes a comprehensive, lemma-by-lemma commentary designed for pedagogical use. The scholia provide detailed exegesis of Hermogenes's stasis theory, a systematic method for classifying the central point of contention in judicial disputes. They clarify technical rhetorical terminology, offer textual criticism discussing variant readings, and, particularly in the portions attributed to Syrianus, integrate rhetorical theory with Neoplatonic philosophical principles. The work is preserved in numerous Byzantine manuscripts, originally transmitted as marginal and interlinear notes alongside Hermogenes's text that were later copied independently, attesting to their standard use in rhetorical education. This compilation was instrumental in cementing the authority of Hermogenes in Byzantine rhetoric, serving as the primary vehicle for teaching his theories for centuries. Its influence on later scholars ensured the survival and transmission of classical rhetorical theory into the Renaissance.
+
 ## Text
 
 ### 4.39.(1t)

@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ap` · [HTML page](https://eulogikon.org/works/callimachus-scholia-aetia-vmw-ap)
 
+Overview The Scholia-Aetia I (Σχόλια εἰς Αἴτια Α') comprises ancient marginal annotations on the first book of Callimachus's Aetia, a major Hellenistic elegiac poem. These scholia, composed by anonymous commentators, provide glosses, mythological references, textual criticism, and interpretive notes. They are a crucial scholarly resource because the Aetia itself survives only fragmentarily, primarily on papyri; the scholia aid in reconstructing the text and clarifying its dense allusions.
+
+Content The scholia address several key areas:
+
+Textual explanation of rare words and grammar.
+
+Exposition of the mythological and historical etiologies central to the Aetia.
+
+Literary analysis, identifying sources and allusions.
+
+Records of ancient scholarly debates on the text's meaning.
+
+Transmission The scholia are preserved alongside the poem's fragments on papyri, most significantly from Oxyrhynchus in Egypt. They were not transmitted through a continuous medieval manuscript tradition but survive in these recovered documents, which represent copies used in scholarly or educational settings.
+
+Significance These notes are indispensable for modern study of the Aetia, offering direct insight into how later antiquity read and taught Callimachus's complex work. They illuminate the poem's reception and are fundamental to all contemporary editions and interpretations of the text.
+
 ## Text
 
 ### 1

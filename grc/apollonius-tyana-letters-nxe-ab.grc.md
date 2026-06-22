@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nxe-ab` · [HTML page](https://eulogikon.org/works/apollonius-tyana-letters-nxe-ab)
 
+The Letters of Apollonius is a corpus of 99 brief epistles ascribed to Apollonius of Tyana, the renowned Neopythagorean philosopher and ascetic of the 1st century CE. Composed in a terse and classical Attic Greek style, the collection is addressed to a diverse array of recipients, ranging from Roman emperors such as Vespasian and Domitian to cities like Smyrna, and encompassing various philosophers, officials, and communities. Their content consists primarily of philosophical counsel, moral exhortation, and pointed critiques of contemporary religious practices, most notably animal sacrifice, collectively fashioning the portrait of a supremely wise and authoritative spiritual teacher.
+
+The letters survive as an independent collection, but their authenticity is a matter of significant scholarly contention. The prevailing modern view holds that the majority are not genuine pieces of correspondence from the historical Apollonius. They are instead considered later compositions, most likely dating from the 2nd or 3rd centuries CE, and were attributed to him to borrow his considerable cultural authority. Many scholars interpret the collection as a literary product of the Second Sophistic period, deliberately crafted to construct and disseminate a specific public image of Apollonius as a divine philosopher and imperial counselor. This constructed persona proved highly useful in later religious polemics, where pagan apologists employed the figure of Apollonius as a philosophical and miraculous rival to Jesus Christ.
+
 ## Text
 
 ## ΑΠΟΛΛΩΝΙΟΥ ΤΟΥ ΤΥΑΝΕΩΣ ΕΠΙΣΤΟΛΑΙ. αʹ.

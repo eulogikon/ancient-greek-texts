@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kvo-aa` · [HTML page](https://eulogikon.org/works/apollonius-paradoxographer-marvelous-histories-kvo-aa)
 
+The Marvelous Histories is a paradoxographical work attributed to Apollonius, conventionally known as Apollonius the Paradoxographer. Surviving in 51 short prose passages, the text collects wondrous and paradoxical phenomena drawn from the natural world, history, and mythology. It functions primarily as a compilation, presenting curiosities excerpted from earlier authorities with minimal original commentary from the compiler. The entries encompass standard paradoxographical themes, including peculiar biological and geological facts, remarkable historical or legendary events, and accounts of strange customs and mythical creatures. The work is preserved in a single 13th- or 14th-century manuscript, the Codex Vaticanus Graecus 305, where the text remains incomplete; it was first published in the 19th century. Its transmission is typical of minor, specialized texts that survived through later Byzantine compilations. As a representative of the Hellenistic paradoxographical tradition, the Marvelous Histories illustrates the period's intellectual fascination with cataloging and systematizing marvels. It serves as a valuable source for scholars studying the reception of earlier natural historical and ethnographic writings, contributing to a broader literary tradition that subsequently influenced Roman and medieval encyclopedic literature.
+
 ## Text
 
 ### t 1

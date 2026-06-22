@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-aa` · [HTML page](https://eulogikon.org/works/aristophanes-athens-thesmophoria-daw-aa)
 
+Women at the Thesmophoria is a comedy by the Athenian playwright Aristophanes, first performed in 411 BCE. Written in verse, the play is a classic example of Old Comedy. Its plot centers on the tragic playwright Euripides, who learns that the women of Athens, angered by his unflattering dramatic portrayals of them, plan to condemn him to death during their secret assembly at the women-only Thesmophoria festival. To infiltrate the gathering, Euripides persuades his elderly relative Mnesilochus to disguise himself as a woman. The ruse is eventually discovered, leading to a series of frantic rescue attempts in which Euripides parodies scenes from his own tragedies. The play adheres to the conventional structure of Old Comedy, featuring a chorus, a formal debate, and a sequence of comic episodes.
+
+Produced during the Peloponnesian War in the aftermath of Athens's disastrous Sicilian Expedition, the comedy reflects a period of profound civic anxiety. Modern scholarship often interprets it as a sophisticated, meta-theatrical critique of Euripidean drama and a satire of Athenian political and legal institutions, which are humorously transposed to a female context. The complete text of the play, comprising 1394 lines, survives through medieval manuscripts primarily from the Byzantine era, transmitted with the minor textual corruptions and gaps typical of ancient works.
+
 ## Text
 
 **ΚΗΔΕΣΤΗΣ**

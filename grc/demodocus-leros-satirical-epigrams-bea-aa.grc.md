@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bea-aa` · [HTML page](https://eulogikon.org/works/demodocus-leros-satirical-epigrams-bea-aa)
 
+The Satirical Epigrams on Peoples is a fragmentary collection of short poems attributed to the early archaic poet Demodocus of Leros. A figure associated with the iambic tradition, Demodocus composed a series of formulaic, satirical epigrams that mock stereotypical traits of various Greek peoples. The work exemplifies this through such proverbial statements as the observation that the Milesians are not fools, but they do just the things that fools do. The content focuses on ethnic and civic stereotypes, employing the invective and satire characteristic of iambic poetry to comment on perceived foolishness, treachery, and other human foibles. These gnomic statements reflect the inter-polis rivalries of ancient Greece, defining community identity through humorous blame. The work survives only in fragments, preserved not in independent manuscripts but through quotation by later anthologists, most notably Stobaeus in the fifth century CE. Demodocus’s epigrams constitute a valuable example of early Greek satirical poetry, and their formulaic style represents a distinct thread within the iambic tradition that would later influence Hellenistic and Roman satire.
+
 ## Text
 
 ### book 1

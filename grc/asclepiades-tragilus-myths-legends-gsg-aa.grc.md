@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gsg-aa` · [HTML page](https://eulogikon.org/works/asclepiades-tragilus-myths-legends-gsg-aa)
 
+The Tragic Myths and Legends, also known by the title Excerpts, is a lost prose mythography attributed to Asclepiades of Tragilus, a scholar of the fourth century BCE. The work represents an early systematic effort to compile and compare the various treatments of Greek myths as they appeared in the plays of the Athenian tragedians, including Aeschylus, Sophocles, and Euripides. It stands as a pioneering example of scholarly mythography, marking a transition between Classical and Hellenistic literary scholarship.
+
+The content of the work is known only through fragments quoted by later ancient authors and commentators, such as scholiasts and grammarians. These references suggest the original text was organized into multiple books containing roughly three dozen separate entries. Each entry appears to have focused on a specific myth, cataloging its different versions across tragic drama and possibly contrasting them with other poetic or local traditions. The fragments indicate it covered stories such as the myth of Glaucus, son of Sisyphus, who was devoured by his own mares, and the Argonauts' use of a dove to navigate the Clashing Rocks. The work was likely conceived as a reference handbook for scholars, poets, and educated readers interested in the literary heritage of Greek theater.
+
+Although the original text did not survive antiquity, its methodological influence was considerable. Asclepiades’s practice of citing tragedies by playwright and title provided a model for subsequent philological and mythographic scholarship. His compilations were utilized by later mythographers and contributed to major mythological handbooks, such as the Bibliotheca attributed to Apollodorus, thereby securing the work’s enduring significance in the history of classical literary studies.
+
 ## Text
 
 ### t1-28

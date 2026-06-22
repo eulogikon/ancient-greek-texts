@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-ac` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-dithyrambs-brw-ac)
 
+The Fragments of Dithyrambs are the extant portions of choral lyric poetry composed by Bacchylides of Ceos, a major Greek poet of the fifth century BCE and a contemporary of Pindar. These works represent the dithyramb, a form of elaborate narrative song performed by a chorus at public festivals, often in honor of Dionysus but encompassing a broad spectrum of Greek mythological subjects. The fifty-two surviving fragments range from brief phrases to more substantial narrative passages, illustrating Bacchylides' characteristically elegant, clear, and vividly descriptive style. The text of Bacchylides was lost for centuries and is known today almost exclusively from a single papyrus roll discovered in Egypt in 1896, which dates to the first or second century CE. This manuscript contained a collection of his epinician odes and dithyrambs, facilitating his modern rediscovery. The language of the fragments is literary Greek with Doric dialectal coloring, a convention of choral poetry reflecting its performance origins. These works are crucial for understanding the competitive festival culture of Classical Athens and the nature of public choral performance, offering a distinct and often more accessible poetic voice compared to the dense complexity of Pindar.
+
 ## Text
 
 ### book 1.1

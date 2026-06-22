@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hoy-aa` · [HTML page](https://eulogikon.org/works/philippus-theangela-carians-leleges-hoy-aa)
 
+The work On the Carians and Leleges by Philippus of Theangela is an ethnographic and historical treatise from the Hellenistic period, known today only through a handful of fragments preserved by later authors, most notably Athenaeus in his Deipnosophistae. These excerpts provide a local perspective on the customs, language, and origins of the Carians and Leleges, peoples of southwestern Anatolia. The fragments record distinctive regional practices, such as dietary habits including the consumption of rabbits and donkeys, and address questions of Carian linguistic character. They also preserve traditions of ethnic origin, notably claiming that the Carians were originally Leleges, a group of islanders who later took their name from a leader called Car. Other fragments relay mythological stories, such as that of the brigands Termerus and Lycus, and discuss social structures, comparing the historical relationship between Carians and Leleges to that of Spartans and Helots or Thessalians and Penestae. As a product of Hellenistic local historiography from Caria itself, the work offers valuable insider testimony on regional identity. Its primary significance lies in its contribution to ancient ethnography and the preservation of local Anatolian traditions, which were utilized by ancient compilers like Athenaeus and Strabo and remain a subject of study for modern historians. The text survives with no independent manuscript tradition and is collected in modern editions of Greek historical fragments.
+
 ## Text
 
 ### t1-4

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ae` · [HTML page](https://eulogikon.org/works/libanius-antioch-pseudepigraphal-letters-swk-ae)
 
+The Pseudepigraphal Letters are a collection of twenty-four prose passages attributed to the fourth-century rhetorician Libanius of Antioch. They are not genuine correspondence but sophisticated rhetorical exercises in epistolary form, designed as practice in character portrayal and argumentation. Each passage presents a fictional letter from a well-known historical or mythological figure, such as Medea to Jason or Achilles to Thetis, constructing a concise, persuasive argument within a defined dramatic scenario. The core exercise is the creation of a plausible voice and emotional state for a given character, often exploring an ethical dilemma or crisis from that figure's perspective. These letters draw upon familiar stories from the Greek cultural canon as bases for rhetorical invention, frequently promoting the values of Hellenic culture and civic tradition through implicit persuasion. Preserved within the larger manuscript tradition of Libanius's works, the collection was copied and studied throughout the Byzantine period for its exemplary Attic style and is included in modern critical editions of his preparatory exercises. As advanced rhetorical models, these works played a role in maintaining the Greek rhetorical tradition in late antiquity and Byzantium and are studied today as significant examples of late antique rhetorical education and the application of sophistic techniques to classical themes.
+
 ## Text
 
 ### 1 t

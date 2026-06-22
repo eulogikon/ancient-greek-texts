@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-au` · [HTML page](https://eulogikon.org/works/euripides-antiope-cbm-au)
 
+Antiope is a tragedy by Euripides, written circa 410–408 BCE. The full text is lost, with its plot reconstructed from later summaries and roughly 133 surviving fragments. The play dramatizes the myth of Antiope, a Theban princess seduced by Zeus. After bearing twin sons, Amphion and Zethus, she is imprisoned and tormented by her aunt Dirce. The brothers, raised as herdsmen unaware of their royal parentage, eventually discover their identity, liberate their mother, and exact a violent revenge by tying Dirce to a wild bull.
+
+The tragedy was renowned in antiquity for a central debate, or agon, between the twin protagonists. Zethus champions the active, practical life of a man of action, while Amphion defends the contemplative, artistic life devoted to music and philosophy. This confrontation represents Euripides’s engagement with a contemporary intellectual discourse on the ideal mode of existence. Ancient sources also noted the drama’s powerful recognition scene and its significant musical components.
+
+Despite its fragmentary state, Antiope exerted considerable influence. Its philosophical debate was cited by Plato and later translated by Cicero, while the myth’s climactic punishment of Dirce inspired major artworks, most notably the monumental Hellenistic sculpture known as the Farnese Bull.
+
 ## Text
 
 ### unknown

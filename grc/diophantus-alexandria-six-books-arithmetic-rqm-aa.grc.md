@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rqm-aa` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-six-books-arithmetic-rqm-aa)
 
+The Arithmetica, also known as The Six Books on Arithmetic, is a seminal mathematical work composed in Greek by Diophantus of Alexandria around 250 CE. It is a collection of algebraic problems rather than a systematic theoretical treatise, with the surviving text presenting 189 specific equations to be solved. Diophantus sought rational number solutions and pioneered a form of symbolic notation, using abbreviations for the unknown quantity and its powers, which represented a significant advance beyond describing mathematics purely in prose. The problems typically involve finding numbers that satisfy conditions related to squares, cubes, or specific sums and ratios. While ancient sources reference thirteen books, only six are preserved in the original Greek, with the survival of the text heavily dependent on a single 13th-century manuscript. The work is considered to have been written for advanced students, representing a specialized, number-focused branch of Greek mathematics distinct from the geometric tradition of Euclid. Modern scholarship regards the Arithmetica as the pinnacle of ancient algebra, whose rediscovery in Renaissance Europe directly stimulated the development of modern number theory and gave rise to the study of Diophantine equations.
+
 ## Text
 
 ### 2 (1t)

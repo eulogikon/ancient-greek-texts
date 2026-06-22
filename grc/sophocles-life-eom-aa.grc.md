@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eom-aa` · [HTML page](https://eulogikon.org/works/sophocles-life-eom-aa)
 
+The Life of Sophocles is an ancient prose biography of the Athenian tragic playwright, traditionally though falsely attributed to Sophocles himself. A later compilation likely assembled in the Hellenistic or Roman period, the text survives in full as part of the introductory material prefaced to medieval manuscripts of Sophocles' plays. Structured as two continuous passages, this biographical sketch details the poet's Athenian origin, his dramatic career with its innovations and victories, his public service, and his personal character. It incorporates famous anecdotes illustrating his reputed wisdom, piety, and cheerful disposition in old age. Modern scholarship interprets the work not as a reliable historical record but as a later literary construction designed to illustrate the poet's perceived character and forge connections between his life and his dramatic works. It exemplifies the ancient educational practice of employing such authorial "Lives" to introduce students and readers to classical authors. While many of its details are legendary, the biography served for centuries as the foundation of the traditional understanding of Sophocles.
+
 ## Text
 
 ### [45]

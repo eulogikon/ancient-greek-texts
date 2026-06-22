@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-af` · [HTML page](https://eulogikon.org/works/hippocrates-diet-acute-diseases-bww-af)
 
+On Diet in Acute Diseases is a medical treatise from the Hippocratic Corpus, a collection of foundational Greek medical works attributed to Hippocrates of Cos and his followers. Composed in Ionic Greek around 400 BCE, the work directly criticizes the therapeutic methods of a rival school of physicians, particularly those associated with the so-called Cnidian Sentences. The author argues that while the Cnidian writers correctly described the symptoms and outcomes of diseases, their prescriptive advice was flawed and overly reliant on a narrow set of treatments, namely purgative drugs, whey, and milk. In contrast, this treatise champions a flexible and detailed system of dietary management tailored to the individual patient’s condition, constitution, and the specific stage of their acute illness.
+
+The text systematically details the properties and effects of various foods and drinks, prescribing how a regimen should be adjusted in response to the patient’s changing symptoms. It emphasizes the physician’s need for prognostic judgment and active intervention, moving beyond merely recording what patients report. Surviving in full through the manuscript tradition of the Hippocratic Corpus, the work was preserved and studied by scholars in Alexandria, the Byzantine Empire, and the Islamic world. Modern scholarship regards it as a pivotal document in the early development of clinical dietetics, illustrating the competitive intellectual debates among Greek medical practitioners. Written for an audience of fellow physicians and students, it advocates for a nuanced, patient-centered approach that would become a cornerstone of Western medical thought.
+
 ## Text
 
 ## Οἱ ξυγγράψαντες τὰς Κνιδίας καλεομένας γνώμας, ὁκοῖα μὲν πάσχουσιν οἱ κάμνοντες ἐν ἑκάστοισι τῶν νουσημάτων ὀρθῶς ἔγραψαν, καὶ ὁκοίως ἔνια ἀπέβαινεν αὐτέων· καὶ ἄχρι μὲν τουτέου καὶ μὴ ἰητρὸς δύναιτο τις ἂν ὀρθῶς ξυγγράψαι, εἰ εὖ παρὰ τῶν καμνόντων ἕκαστον πύθοιτο ὁκοῖα πάσχουσιν.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bls-ab` · [HTML page](https://eulogikon.org/works/acusilaus-argos-testimonies-bls-ab)
 
+Testimonies 2 is a modern designation for a collection of five prose fragments attributed to Acusilaus of Argos, an early Greek writer active around 500 BCE. Acusilaus is traditionally considered one of the earliest prose authors in Greece, and his major work, known as the Genealogies, was a systematic attempt to record and organize the origins of gods, heroes, and humans, with a particular emphasis on the traditions of his native Argos. The title Testimonies reflects the nature of these passages as excerpts or authoritative accounts, likely drawn from his larger genealogical writings. The work does not survive intact; the extant passages are preserved only through quotation by later ancient commentators and scholars, such as the Byzantine encyclopedist Suidas and the church father Clement of Alexandria. Writing during a transitional period when Greek literature was shifting from poetic to prose forms, Acusilaus is regarded as a pioneering mythographer. He helped establish genealogy as a distinct literary genre and exerted an influence on later historians, even though his subject matter remained rooted in the mythical past. His effort to synthesize diverse local stories into a coherent narrative represents a significant early step toward systematic historical writing.
+
 ## Text
 
 ### 1

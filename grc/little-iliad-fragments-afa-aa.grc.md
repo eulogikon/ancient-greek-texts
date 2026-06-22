@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `afa-aa` · [HTML page](https://eulogikon.org/works/little-iliad-fragments-afa-aa)
 
+The Little Iliad was a lost epic poem from ancient Greece, forming part of the Epic Cycle that narrated the complete story of the Trojan War. Traditionally ascribed to the poet Lesches, though this attribution remains uncertain, it was composed during the Archaic period, likely in the 7th or 6th century BCE. Written in the dactylic hexameter verse characteristic of epic poetry and in the Epic Greek dialect, it began its narrative after the death of Achilles, covering the concluding episodes of the conflict. Its major events included the contest between Odysseus and Ajax for the armor of Achilles, the retrieval of the archer Philoctetes, the theft of the sacred Palladium statue from Troy, and the deception of the Wooden Horse that ultimately caused the city's downfall. The poem concluded with the sack of Troy and the departure of the Greek fleet. Modern scholarship interprets the Epic Cycle, including this work, as providing a continuous mythological narrative for audiences already deeply familiar with the Homeric epics.
+
+The complete text of the Little Iliad has not survived antiquity. It is known today only through approximately thirty-eight fragmentary passages preserved in quotations by later Greek authors and a prose summary written by the 5th-century CE scholar Proclus. This summary has been crucial for reconstructing the poem's plot structure, which ancient critics observed was more episodic and less tightly focused than the narratives of Homer. Despite its fragmentary state, the Little Iliad exerted significant influence on later literature, establishing the canonical versions of these myths that were subsequently adapted by Greek tragedians and by Roman poets such as Virgil.
+
 ## Text
 
 ### book 1

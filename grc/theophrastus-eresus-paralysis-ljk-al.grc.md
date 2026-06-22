@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-al` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-paralysis-ljk-al)
 
+_On Paralysis_ is a lost philosophical and scientific treatise by Theophrastus of Eresus. No direct fragments of the work survive; its existence and a key doctrinal point are known solely through later testimonia, most importantly in the writings of the physician Galen. He reports that Theophrastus attributed the cause of paralysis to the chilling and consequent thickening of the pneuma, or vital breath, within the nerves. This theory, grounded in Peripatetic physiology, understood paralysis as resulting from a qualitative change in the substance responsible for sensation and motion, offering an alternative to other ancient models that emphasized a physical blockage or disease of the nerves themselves. The work is not preserved in any manuscript tradition, and our knowledge depends entirely on such secondary references. Theophrastus’s theory represents a significant Peripatetic contribution to ancient medical thought, bridging natural philosophy and empirical pathology. Galen’s subsequent critical engagement with the idea ensured its continued discussion in later neurological and pathological debates, illustrating the dynamic interaction between philosophical schools and medical theory in antiquity.
+
 ## Text
 
 ### 1.1

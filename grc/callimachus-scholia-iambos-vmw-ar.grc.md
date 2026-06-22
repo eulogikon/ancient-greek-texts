@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ar` · [HTML page](https://eulogikon.org/works/callimachus-scholia-iambos-vmw-ar)
 
+Overview The title Scholia-Iambos (Σχόλια εἰς Ἴαμβον) refers not to an original work by Callimachus but to later scholarly annotations on his collection of 13 Iambi. Callimachus’s Iambi are fragmentary poems in iambic meter, adapting the archaic genre to encompass literary criticism, aetiology, and fables. Ancient scholia on Callimachus’s works, including the Iambi, are explanatory commentaries produced in later antiquity, not by the poet himself.
+
+Content As a commentary, the scholia would address exegetical themes related to the content of the Iambi, including:
+
+Literary criticism and polemic.
+
+Aetiological stories explaining customs and cults.
+
+Ethical instruction through fables and anecdotes.
+
+Explanations of contemporary references, metrics, and language.
+
+Transmission Callimachus’s Iambi survive in papyrus fragments and later quotations. Scholia on his works are preserved in medieval manuscripts, such as the 11th-century codex Laurentianus plut. 32.9, though the specific transmission history for scholia on the Iambi is less clearly documented.
+
+Significance Scholia on Callimachus are critical for modern scholarship, providing essential clues for reconstructing his fragmentary poems and understanding Alexandrian interpretative methods. They form a key link in the scholarly reception of Callimachus from the Hellenistic to the Byzantine era.
+
 ## Text
 
 ### book 2-3

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bf` · [HTML page](https://eulogikon.org/works/anon-hist-frag-roman-chronicle-mmg-bf)
 
+The Roman Chronicle is an anonymous Greek historical compilation preserved in two fragmentary passages. Its title indicates a focus on Roman history arranged in a chronicle format, suggesting a work structured as a chronological listing of events. The surviving fragments concern pivotal events and figures from the late Roman Republic, including the Mithradatic Wars, the civil conflicts between Sulla and Marius, and the subsequent political settlements in the eastern provinces. As a chronicle, the work emphasizes sequential recording, anchoring events with phrases like "from which time" and noting the elapsed years, a method typical of annalistic historiography. The text survives only as excerpts, indicating transmission via a damaged manuscript or preservation within other works. It belongs to the broader tradition of Greek-language historiography about Rome, a common genre in late antique and Byzantine writing often used for reference or as a source for other compilers. Its specific influence and original scope remain unassessable due to its fragmentary state and the lack of identifiable references in standard historical sources.
+
 ## Text
 
 ### 2b,252,F 1

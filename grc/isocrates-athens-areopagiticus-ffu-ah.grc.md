@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ah` · [HTML page](https://eulogikon.org/works/isocrates-athens-areopagiticus-ffu-ah)
 
+The Areopagiticus is a political oration composed by the Athenian rhetorician Isocrates around 357–355 BCE. Presented in the formal structure of a public speech, the work is a sustained argument for constitutional reform, taking its name from the ancient Athenian Council of the Areopagus. Isocrates contrasts the democracy of his own time, which he characterizes as corrupt and excessively litigious, with an idealized vision of Athens’ earlier “ancestral constitution.” He proposes that restoring the Areopagus to a position of broad moral and civic supervision would remedy the city’s social decay and encourage public virtue over private interest. Written in the troubled period following the financially draining Social War, the oration reflects contemporary anxieties about Athenian stability and prestige. It stands as a significant document within the broader fourth-century BCE intellectual critique of radical democracy, engaging with enduring debates about civic education, political order, and the relationship between law and character. The complete text is preserved through medieval manuscript tradition.
+
 ## Text
 
 ### Areop t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-cf` · [HTML page](https://eulogikon.org/works/demosthenes-athens-olynthiac-2-fsm-cf)
 
+Olynthiac 2 is a deliberative oration delivered by the Athenian statesman Demosthenes to the citizen assembly in 349 BCE. It forms part of a trilogy of speeches bearing the same name, all composed during a critical juncture in the conflict between Athens and the rising power of Macedon under King Philip II. The speech addresses the immediate threat to Olynthus, a city in the Chalcidice that had once been an ally of Philip but was now under siege by his forces. Demosthenes argues with urgent conviction that Athens must dispatch a substantial military expedition, comprising both citizen hoplites and mercenary forces, to defend Olynthus. He frames the city not merely as a distant ally but as a vital strategic buffer for Athenian security, whose fall would directly expose Athens to Macedonian aggression.
+
+The oration is a structured appeal combining pragmatic policy with potent ideological rhetoric. Demosthenes outlines practical measures for financing and manning the expedition, insisting that half-hearted support with only mercenaries would be insufficient. Interwoven with these proposals are recurring themes of Athenian honor, historical responsibility, and the contrast between Philip’s relentless ambition and Athenian complacency. He portrays the conflict as a defense of Greek freedom against tyrannical expansion, invoking the city’s glorious past to shame it into present action. The speech is considered a prime example of Demosthenes’ oratorical technique, designed to overcome public apathy and legislative inertia by creating a sense of imminent crisis. Preserved within the stable manuscript tradition of Demosthenes’ works, Olynthiac 2 remains a central document for understanding the political rhetoric and foreign policy debates in Athens during the years preceding the Macedonian conquest of Greece.
+
 ## Text
 
 ### Ol2 1

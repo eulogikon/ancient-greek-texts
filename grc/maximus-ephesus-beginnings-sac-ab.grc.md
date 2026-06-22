@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sac-ab` · [HTML page](https://eulogikon.org/works/maximus-ephesus-beginnings-sac-ab)
 
+On Beginnings is a fourth-century CE treatise by the Neoplatonist philosopher Maximus of Ephesus. Written in Attic Greek as a collection of fifty-five passages, the work functions as a philosophical and ritual manual dedicated to the subject of katarchai, or "beginnings." These beginnings refer to the specific ritual acts, divine symbols, and incantations employed to initiate contact with gods or cosmic powers for purposes such as divination. As such, the treatise serves as a practical guide to theurgy, the ritual practice aimed at purifying and elevating the soul. The complete text has not survived; only fragments are known today, preserved through quotations and summaries in later authors such as the philosophers Proclus and Damascius. Modern scholarship interprets the work as a product of the intense religious competition of the late Roman Empire, intended for advanced students and practitioners within the pagan Neoplatonic tradition. It embodies the practical, ritual-focused strand of later Neoplatonism that emphasized material symbols and actions to achieve connection with the divine.
+
 ## Text
 
 ### p

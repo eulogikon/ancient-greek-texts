@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ai` · [HTML page](https://eulogikon.org/works/demosthenes-athens-defense-rhodians-fsm-ai)
 
+In Defense of the Rhodians' Freedom is a political oration attributed to the Athenian statesman Demosthenes, composed around 351 BCE. Delivered before the Athenian assembly, this deliberative speech urges military intervention to support democratic exiles from the island of Rhodes, who sought to overthrow an oligarchic regime installed by the Persian satrap Mausolus. Demosthenes masterfully presents the issue not as a simple act of foreign aid but as a vital strategic imperative for Athens. He argues that assisting the Rhodian democrats would serve to check Persian expansionism in the Aegean, reassert Athenian leadership among Greek states, and honor the city's historic legacy as a champion of political freedom. The speech, which survives complete in 33 sections, is a significant artifact from a period of Athenian vulnerability following the debilitating Social War. It exemplifies Demosthenes' early oratorical style, skillfully intertwining appeals to Athenian moral ideals with pragmatic calculations of national interest and warnings about the perils of passivity. Although its authenticity was occasionally debated in antiquity, modern scholarship generally accepts it as genuine. The oration offers a valuable window into the complex diplomatic and military challenges confronting Athens during the mid-fourth century BCE.
+
 ## Text
 
 ### Or15 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aby-aa` · [HTML page](https://eulogikon.org/works/agias-troezen-histories-myths-aby-aa)
 
+The Argolic Histories and Myths, attributed to Agias of Troezen, is a fragmentary prose work of local history and mythography focusing on the Argolid region. It represents a common Hellenistic genre that compiled regional myths, cultic traditions, and historical anecdotes to assert civic prestige. The work's themes, inferred from its genre and the author's provenance, include foundation myths and genealogies of Argolic cities, local cults and rituals, and heroic mythology connected to the region, such as the cycles of Perseus, Heracles, and the Seven against Thebes. The text itself is lost, surviving only through fragments preserved as quotations in later authors like Athenaeus, Clement of Alexandria, and various scholiasts. These seven known passages constitute the extant evidence for the work. As a local history, Agias's compilation served as a source for later compilers. Its primary significance lies in contributing to the pool of regional traditions synthesized by subsequent authors, thereby indirectly preserving unique local knowledge of the Argolid.
+
 ## Text
 
 ### t1a-4

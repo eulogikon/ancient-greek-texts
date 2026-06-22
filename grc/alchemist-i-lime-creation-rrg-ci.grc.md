@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ci` · [HTML page](https://eulogikon.org/works/alchemist-i-lime-creation-rrg-ci)
 
+The Creation of Lime is a brief, pseudepigraphal Greek alchemical treatise attributed by modern scholarship to the anonymous author designated as Alchemist I. The text consists of two short passages, the first offering a practical recipe for producing lime, or calcium oxide, through a process of calcination. The second passage describes an application for this material, likely within a metallurgical or transmutative process, employing the characteristic allegorical and symbolic language of the Greco-Egyptian alchemical tradition to conceal its operational details. The work survives as part of the larger Greek alchemical corpus preserved in medieval manuscripts, most notably within the tenth- or eleventh-century Byzantine compendium known as the Codex Marcianus. The modern attribution to Alchemist I is an editorial convention for organizing anonymous texts within this manuscript tradition. As a minor but representative example of late antique alchemical writing, the treatise exemplifies the fusion of practical craft knowledge with esoteric symbolism. While the text itself had no distinct independent reception history, the basic chemical process it describes remained a standard component of later metallurgical and alchemical practice, its influence subsumed within the broader transmission of the Greek alchemical tradition to the Islamic world and later medieval Europe.
+
 ## Text
 
 ### 2.282

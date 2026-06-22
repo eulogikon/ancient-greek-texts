@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ai` · [HTML page](https://eulogikon.org/works/isocrates-athens-archidamus-ffu-ai)
 
+To Archidamus is a political oration composed by the Athenian rhetorician Isocrates around 366 BCE. Written in Attic Greek and structured as an open letter, it is addressed to Archidamus III, the crown prince of Sparta, and survives in its complete form. The work functions as an advisory piece, urging the Spartan prince to champion a policy of Panhellenic unity and to lead a concerted Greek campaign against the Persian Empire. Isocrates contends that such an expedition would redeem Sparta’s prestige, severely damaged by its decisive defeat at the Battle of Leuctra in 371 BCE, and secure lasting glory for Archidamus himself. Modern scholarship generally interprets the oration as a published political pamphlet, which uses the device of addressing a Spartan royal to advocate publicly for a central theme in Isocrates’s thought: that a common external war could resolve internal Greek crises, including poverty and interstate strife. While nominally directed at Archidamus, the work’s intended audience was the wider Greek political community. It offers an implicit critique of past Spartan hegemony while presenting this vision of unifying leadership as a pragmatic path forward for a weakened Sparta and a fractured Hellenic world. The text has been transmitted through the strong manuscript tradition of Isocrates’s complete corpus, aided by its subsequent use as a model for rhetorical style and prose composition.
+
 ## Text
 
 ### Epist 9 t

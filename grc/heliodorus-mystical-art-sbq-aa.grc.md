@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sbq-aa` · [HTML page](https://eulogikon.org/works/heliodorus-mystical-art-sbq-aa)
 
+The alchemical poem "Heliodorus to Theodosius the Great," attributed to Heliodorus the Alchemist and Poet, is preserved within the corpus of Greek alchemical literature. Its sixteen verses exemplify a common late antique format for conveying complex material processes in a memorable poetic form. While ostensibly addressed to Emperor Theodosius I, this dedication is a conventional literary device to enhance the text's authority, suggesting a composition or redaction date in the late fourth century or later within the eastern Roman Empire. The work discusses practical alchemical procedures framed in allegorical language, including the preparation and use of reactive agents like "divine water," processes for the manipulation and transmutation of metals, and the relationship between divine art, nature, and human technical skill. The text survives intact primarily in the 11th-century Codex Marcianus graecus 299, a fundamental manuscript for the Greek alchemical corpus, and its transmission is linked to other pseudepigraphical works attributed to figures like Hermes and Cleopatra. As part of the later Greek alchemical tradition, which synthesized craft knowledge with philosophical concepts, the poem contributed to the stream of knowledge that passed into Arabic and later Latin alchemy. It remains a key example of late antique Greco-Egyptian technical and esoteric writing.
+
 ## Text
 
 ### 1

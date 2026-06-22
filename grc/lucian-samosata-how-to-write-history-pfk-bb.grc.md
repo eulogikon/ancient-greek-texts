@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bb` · [HTML page](https://eulogikon.org/works/lucian-samosata-how-to-write-history-pfk-bb)
 
+How to Write History is a satirical treatise by the Syrian-born Greek author Lucian of Samosata, composed around 166 CE. Written in Attic Greek as a rhetorical lecture, the work delivers a sharp critique of the standards of contemporary historical writing. Lucian opens by likening the recent flood of inferior histories to a plague, a trend he observed in the wake of Rome's war with Parthia. He contends that the historian's sole obligation is to relate the truth impartially, avoiding flattery of patrons and eschewing sensational or poetic language. In its place, he advocates for a narrative style characterized by clarity and dignity, proposing the ancient historian Thucydides as the exemplary model.
+
+A product of the Roman Imperial period and the intellectual milieu of the Second Sophistic, which valued classical Greek style, the treatise is a direct response to what Lucian perceived as an epidemic of biased and stylistically extravagant histories produced following a major military victory. Modern scholarship regards the work as a significant document in the history of literary criticism, wherein Lucian, positioning himself as an outsider to the historical profession, rigorously distinguishes legitimate history from panegyric or fiction. The complete text has been preserved through medieval manuscript transmission, most notably in a 10th- or 11th-century codex that contains a substantial portion of Lucian's corpus.
+
 ## Text
 
 ### Hist Conscr t

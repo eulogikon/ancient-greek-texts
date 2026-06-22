@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-ae` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-acharnians-mlw-ae)
 
+The Scholia-Acharnians constitute a body of ancient and medieval explanatory annotations preserved in the margins of manuscripts containing Aristophanes' comedy Acharnians. Compiled anonymously over many centuries, these scholia represent the cumulative work of multiple generations of scholars. Their primary function was to aid later readers by elucidating difficult vocabulary, obscure historical references to fifth-century BCE Athens, contemporary political figures, and the nuances of the play's humor. Modern philology regards them as an indispensable tool for understanding Old Comedy, as they preserve valuable fragments of otherwise lost ancient scholarship.
+
+The process of compilation began in the Hellenistic period, with significant contributions traditionally attributed to scholars such as Aristophanes of Byzantium. Annotation continued through the Roman and Byzantine eras, with later scribes condensing and copying these notes into medieval codices. The scholia are not an independent text but exist in a parasitic relationship with the verses of the Acharnians, which they quote and explicate line by line. Only a selective portion of the original, more extensive ancient commentaries survives today, transmitted primarily in manuscripts dating from the tenth century CE onward. This complex, layered transmission history renders the certain attribution of specific notes to individual ancient scholars virtually impossible.
+
 ## Text
 
 ### sch ach.frag a, col 2.(51)

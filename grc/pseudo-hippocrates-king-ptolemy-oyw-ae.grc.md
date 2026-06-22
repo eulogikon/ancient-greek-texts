@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oyw-ae` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-king-ptolemy-oyw-ae)
 
+The Letter to King Ptolemy is a brief Greek epistle falsely ascribed to the physician Hippocrates of Cos. Presented as a personal missive, it is directed to a King Ptolemy, generally identified as Ptolemy I Soter, the founder of Egypt's Ptolemaic dynasty. Scholarly consensus regards it as a pseudepigraphic work, composed by an anonymous author in the Hellenistic or later period to invoke the authority of the famed doctor. Structured in seven sections, the text serves as a compact synopsis and justification of fundamental medical tenets.
+
+Its core aim appears to have been the professional legitimization of medicine, framing it as a rational and noble discipline suitable for royal consideration. The fabricated correspondence between the iconic founder of Greek medicine and a celebrated Hellenistic patron of scholarship was designed to enhance the prestige of contemporary medical practice. The intended readership was likely medical students, practitioners, or educated laypersons interested in Hippocratic tradition. Preserved within the broader Hippocratic Corpus through medieval manuscripts, the letter did not substantially impact medical theory like the core Hippocratic works. Instead, it contributed to the legendary biography of Hippocrates, reinforcing his iconic status in later historical reception. Modern scholarship examines it principally as an artifact of ancient pseudepigraphy and a testament to the enduring legacy of the Hippocratic name.
+
 ## Text
 
 ## ΙΠΠΟΚΡΑΤΗΣ ΚΩΟΣ ΠΤΟΛΕΜΑΙῼ ΒΑΣΙΛΕΙ ΧΑΙΡΕΙΝ. Ἐπιμελούμενοι τῆς σῆς ὑγιείας, ὦ βασιλεῦ, καὶ ταύτης φροντίδα τιθέμενοι, τὸ κράτιστον τῶν τῇ διαίτῃ καὶ τῷ σώματι καθηκόντων ὑποθέσθαι σοι ἀκριβῶς κατανοήσαντες, τὰ ἀποβαίνοντα τῷ ἀνθρωπίνῳ σώματι ἐξ ἑκατέρων, ἄστρων τε καὶ ὡρῶν καὶ κέντρων, ὑποτετάχαμέν σοι, ἀναγράψαντες ἐν κεφαλαίοις καὶ πεπομφότες σοι, ὥστε προγινώσκειν τὰ μέλλοντα, κὶ βοηθεῖν τῇ τῆς διαίτης ὕλῃ, ἵν’, οὕτως ποιῶν, ἐῤῥωμένος διατελέσῃς τὸν ἅπαντα χρόνον.

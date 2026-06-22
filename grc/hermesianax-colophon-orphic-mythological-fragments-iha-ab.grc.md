@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iha-ab` · [HTML page](https://eulogikon.org/works/hermesianax-colophon-orphic-mythological-fragments-iha-ab)
 
+The Orphic and Mythological Fragments is not an attested ancient title for a work by Hermesianax of Colophon. Hermesianax was a Hellenistic elegiac poet whose only securely attested composition is the Leontion, also known as On Women in Love. This work was a three-book catalogue poem in elegiac couplets, dedicated to his mistress Leontion, and survives only in fragments. The most substantial of these is a 98-line excerpt preserved by the grammarian Athenaeus, which provides the clearest view of the poem's character. The description of numerous "Orphic" passages does not align with the known content of the Leontion, which is fundamentally a work of erotic mythology.
+
+The extant fragments reveal a poem structured as a learned catalogue of mythological exempla, focusing on narratives of gods and heroes who suffered for love. This thematic focus on mythological erotika is presented with the Alexandrian taste for erudition and allusion to obscure myths. The poem's transmission is entirely indirect; no independent manuscript tradition exists. Beyond the principal source in Athenaeus's Deipnosophistae, brief references and quotations appear in the works of Plutarch, Pausanias, and the Suda lexicon. Hermesianax was a significant figure in the development of early Hellenistic elegy. His Leontion played a formative role in shaping the erotic catalogue poem, a genre that later influenced Roman poets such as Propertius and Ovid.
+
 ## Text
 
 ### book 1.1

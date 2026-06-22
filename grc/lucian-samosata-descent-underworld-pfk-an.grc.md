@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-an` · [HTML page](https://eulogikon.org/works/lucian-samosata-descent-underworld-pfk-an)
 
+The Downward Journey or The Tyrant is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. Written in Attic Greek, it exemplifies the Menippean tradition through its blend of prose and verse and its sharp critique of social values. The narrative centers on the contrasting fates of two recently deceased individuals: Megapenthes, an arrogant and wealthy tyrant, and Micyllus, a poor but virtuous cobbler. Their journey to the afterlife is overseen by the ferryman Charon, who comments cynically on the procession of souls. Upon arrival in the underworld, the pair are judged by the mythical figures Minos, Rhadamanthus, and Aeacus. The work culminates in a decisive moral reversal, where the tyrant is punished for his hubris and worldly crimes, while the humble cobbler is rewarded for his integrity and simple life.
+
+Structured in approximately thirty episodic sections, the dialogue moves from the initial death scenes through the crossing of the Styx to the final judgment. Scholars widely interpret the work as a pointed critique of the Roman Imperial elite, using the timeless setting of the underworld to satirize the emptiness of wealth, power, and social ambition. It reflects popular Cynic and Stoic philosophical ideals that prized ethical character over material status. Composed for an educated, Greek-speaking audience, the dialogue employs sophisticated rhetorical style and philosophical humor. It has been successfully transmitted through numerous Byzantine manuscripts and survives intact as a significant part of Lucian’s influential literary corpus.
+
 ## Text
 
 ### Cat t

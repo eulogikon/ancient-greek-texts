@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `igq-ab` · [HTML page](https://eulogikon.org/works/simmias-rhodes-epigrams-igq-ab)
 
+Simmias of Rhodes was a Hellenistic poet and grammarian active around 300 BCE. He is remembered for a small collection of surviving short poems, or epigrams, of which approximately eleven are extant. His most notable works are three innovative "pattern poems" titled "Axe," "Wings," and "Egg." In these pieces, the text is arranged typographically to form a visual image of the object described, representing an early ancient experiment in concrete or visual poetry. His remaining epigrams adhere to more conventional Hellenistic forms, treating familiar subjects such as dedicatory offerings and funerary epitaphs. The poems survive not through a dedicated manuscript of his own work but because they were preserved in later anthologies, principally the Greek Anthology, and were cited by ancient commentators intrigued by their formal novelty. This transmission process has left only a fragment of his probable output. Modern scholarship views these shaped poems as demonstrations of technical skill and erudite play, characteristic of the experimental literary culture of the early Hellenistic era, where poets crafted sophisticated and artistically self-conscious works for a discerning audience.
+
 ## Text
 
 ### 6.113.(p1)

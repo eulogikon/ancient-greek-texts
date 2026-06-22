@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bc` · [HTML page](https://eulogikon.org/works/aristotle-respiration-hgw-bc)
 
+On Respiration is a scientific treatise by the ancient Greek philosopher Aristotle, composed in the mid-4th century BCE. As a concise work of twenty-one chapters, it forms part of the collection known as the Parva Naturalia, a series of short investigations into natural phenomena. The treatise systematically examines the purpose and mechanism of breathing across the animal kingdom. Aristotle compares respiration in creatures with lungs, those with gills, and even insects, which he argues do not breathe at all. His central thesis posits that the primary function of respiration is to cool the innate vital heat generated in the heart, which he regarded as the central organ of life and the seat of the soul's nutritive and sensory faculties.
+
+The work opens with a critique of earlier natural philosophers, whom Aristotle faults for providing inadequate or incorrect explanations for why animals breathe. He then establishes his own empirical foundation, noting that not all animals respire and that the capacity varies even among lung-bearing creatures based on the structure and blood content of their organs. The treatise survives in full through the medieval manuscript tradition and is considered authentic. Written for an advanced audience, presumably within Aristotle's own Lyceum, it exemplifies his characteristic method of integrating detailed biological observation with overarching teleological principles. In this framework, every physiological process serves a definitive purpose within the organism's overall functioning. Modern scholars view the work as a critical engagement with and refutation of earlier materialist theories, such as those of Empedocles and Democritus. While its specific physiological model was eventually superseded, On Respiration stands as a foundational text in the history of biology and a vital document for understanding Aristotle's systematic approach to natural science.
+
 ## Text
 
 ### Resp 470b (6)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oow-ab` · [HTML page](https://eulogikon.org/works/philon-byblos-alphabetical-meanings-oow-ab)
 
+On the Alphabetical Meanings of Words is a lost lexicographical treatise attributed to the grammarian and historian Philon of Byblos, who was active during the Roman Imperial period in the early second century CE. The work is known only through a single reference in the tenth-century Byzantine encyclopedia, the Suda, which describes it as comprising 102 sections. Judging from its title, it was likely a glossary or a series of entries explaining the definitions, nuances, and etymologies of Greek words, organized in alphabetical order. This type of technical grammatical work reflects the scholarly preoccupations of the Second Sophistic, a period marked by a renewed focus on the precision, history, and cultural heritage of the Greek language. As a grammarian, Philon would have composed such a treatise for an audience of advanced students or educated elites engaged in the close study of classical texts. No fragments or direct quotations from the work survive, leaving its precise content and methodological approach entirely dependent on the brief testimony preserved in the Suda.
+
 ## Text
 
 ### t 1

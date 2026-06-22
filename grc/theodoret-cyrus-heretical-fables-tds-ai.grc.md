@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tds-ai` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-heretical-fables-tds-ai)
 
+The Compendium of Heretical Fables is a fifth-century theological treatise composed in Greek by Theodoret, Bishop of Cyrrhus. Written around 453 CE, this systematic polemical work catalogues and refutes Christian heresies from the apostolic era to the author's own time. Structured in five books comprising 165 chapters, the compendium dedicates its first two books to a historical survey of heretical sects and their doctrines. The final three books present a constructive exposition of orthodox teaching on the Trinity, the Incarnation, and other foundational doctrines, supported by arguments from Scripture and ecclesiastical tradition.
+
+Theodoret authored this work late in his career, following the Council of Chalcedon in 451. Modern scholarship views it as both a mature defense of his personal orthodoxy and a practical manual intended for clergy and monastics to reinforce Chalcedonian Christology during persistent doctrinal disputes. The treatise survives in its entirety through medieval manuscript transmission and remained an influential resource in Eastern Orthodox theology for centuries, serving as a principal source for subsequent heresiological writers.
+
 ## Text
 
 ### 83.336.(29t)

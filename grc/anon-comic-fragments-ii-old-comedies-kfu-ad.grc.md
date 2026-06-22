@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfu-ad` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-old-comedies-kfu-ad)
 
+The Anonymous Old Comedies constitute a modern scholarly compilation of 63 fragmentary passages extracted from lost Athenian plays of the 5th and 4th centuries BCE. These verses, composed in the Attic Greek dialect characteristic of Old Comedy, represent scattered remnants from the works of various unknown playwrights active during the genre's peak. The original comedies were satirical and humorous productions, typically lampooning contemporary politicians, intellectuals, and the social mores of classical Athens.
+
+The fragments themselves range from isolated lines to brief excerpts, all severely lacking their original dramatic context. They survive not through the direct transmission of literary manuscripts but as quotations preserved by later grammarians, lexicographers, and compilers such as Athenaeus, who cited them to elucidate obscure words, phrases, or cultural practices. Consequently, the associated play titles, plots, and characters are almost entirely lost. In contemporary scholarship, these fragments are systematically cataloged under the designation "Comic Fragments Anonymous II."
+
+Philologically and historically, the collection is of considerable importance. It provides indispensable, albeit piecemeal, evidence for the thematic range, linguistic creativity, and performative scope of Old Comedy beyond the limited corpus of complete plays by Aristophanes and his peers. These fragments allow scholars to reconstruct a more nuanced and comprehensive picture of a vibrant theatrical tradition, the majority of which has not survived intact.
+
 ## Text
 
 ### book 225

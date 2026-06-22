@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vta-ab` · [HTML page](https://eulogikon.org/works/homer-comm-scholia-odyssey-1-vta-ab)
 
+Overview The Scholia to Odyssey 1.1–309 is a collection of 315 ancient and Byzantine marginal annotations on the opening 309 lines of Homer’s epic. These scholia compile explanatory notes from earlier scholars, covering the text from Odysseus’s introduction to the early scenes on Ithaca. The content is heterogeneous, incorporating textual criticism, grammatical parsing, mythological background, and literary analysis. They represent a layered palimpsest of scholarship, preserving fragments of work by Hellenistic critics like Aristarchus of Samothrace and Didymus Chalcenterus alongside later Byzantine compilations.
+
+Content
+
+Textual Criticism: Discussion of variant readings and editorial decisions by Alexandrian scholars.
+
+Grammatical and Linguistic Explanation: Parsing of Homeric grammar and glosses on obscure vocabulary.
+
+Mythological and Historical Exegesis: Explanations of characters, places, and external myths.
+
+Literary Interpretation: Notes on Homeric narrative technique and poetic devices.
+
+Transmission The scholia are preserved in medieval manuscripts of the Odyssey, transmitted in the margins of the poetic text. The standard modern critical edition is Wilhelm Dindorf’s Scholia Graeca in Odysseam (1855), which collects the material from various Byzantine manuscripts.
+
+Significance These scholia are invaluable for modern scholarship, preserving fragments of lost Alexandrian commentaries and providing direct insight into ancient interpretive debates. They have fundamentally shaped the development of Homeric textual criticism and continue to inform contemporary analysis of the epic.
+
 ## Text
 
 ### hyp

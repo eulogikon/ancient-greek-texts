@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-an` · [HTML page](https://eulogikon.org/works/menander-athens-new-misumenus-hps-an)
 
+The New Fragments of Misumenus constitute a collection of 114 passages recovered from a lost comedy by the Athenian playwright Menander. Composed in Attic Greek verse around the late fourth or early third century BCE, the work is a prime example of New Comedy, a genre characterized by its focus on domestic scenarios, romantic complications, and stereotypical figures from everyday Hellenistic society. The fragments preserve several consecutive scenes, enabling scholars to piece together a plot that likely centers on a protagonist who becomes universally disliked due to a misunderstanding, exploring familiar Menandrian themes of recognition, reconciliation, and the restoration of social harmony.
+
+The play was lost for centuries, surviving only in scant ancient quotations, until a significant portion was rediscovered in the twentieth century within a papyrus codex. This manuscript, designated Papyrus Bodmer 4 and dated to the third or fourth century CE, contained a damaged but extensive copy of Misumenus among other comedies by Menander. Modern scholarship regards this discovery as transformative, offering vital evidence for understanding Menander's dramatic craftsmanship and the architectural principles of his plays. Originally written for the Athenian stage, Misumenus would have engaged with the standard concerns of New Comedy—love, family dynamics, and social standing—through a lens of humor and ethical contemplation.
+
 ## Text
 
 ### book vert

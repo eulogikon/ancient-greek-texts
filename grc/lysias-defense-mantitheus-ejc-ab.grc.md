@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ab` · [HTML page](https://eulogikon.org/works/lysias-defense-mantitheus-ejc-ab)
 
+Defense in the Council for Mantitheus Under Examination is a forensic oration composed by the Athenian speechwriter Lysias around 392 BCE. Written for delivery before the Athenian Council, the speech serves as a defense for a citizen named Mantitheus, who was undergoing a dokimasia, the mandatory public scrutiny required of individuals before they could assume certain civic offices. The complete speech systematically argues that Mantitheus remained a loyal democrat and was not a collaborator with the violent oligarchic regimes, the Thirty Tyrants and the Ten, which briefly governed Athens after the city's defeat in the Peloponnesian War. The oration survives in full through the medieval manuscript tradition, most notably within a 10th-century codex preserving the works of Lysias. Modern scholars regard the speech as a valuable historical source that illuminates the political tensions and legal mechanisms of accountability in Athens following the restoration of democracy. It is considered a crafted piece of persuasive rhetoric, designed to convince the five hundred councilors judging the case by foregrounding Mantitheus's good character and his moderate, lawful conduct during a period of intense civil conflict.
+
 ## Text
 
 ### Or16 t

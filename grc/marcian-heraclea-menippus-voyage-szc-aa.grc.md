@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `szc-aa` · [HTML page](https://eulogikon.org/works/marcian-heraclea-menippus-voyage-szc-aa)
 
+The Menippus' Voyage Around the Inner Sea, Epitome of Marcianus is a late antique geographical compendium authored in Greek by Marcian of Heraclea, likely composed around 400 CE. It functions as a concise summary, or epitome, of a more extensive, now-lost periplus, or coastal sailing guide, originally written by the first-century geographer Menippus of Pergamum. The work provides a systematic, clockwise description of the coastlines of the Mediterranean and Black Seas, traditionally commencing from the Strait of Gibraltar. Organized into fourteen sections, it catalogs ports, coastal landmarks, and the distances between them measured in stadia, presenting a practical, navigator's perspective on the ancient maritime world. The text survives in a single manuscript dating from the thirteenth century. Modern scholarship situates Marcian's epitome within a broader late antique tradition of digesting and preserving earlier Greek geographical knowledge for educational or reference purposes. Its principal contemporary value lies in its utility as a source for the reconstruction of lost geographical works and for the study of ancient metrology and cartographic techniques.
+
 ## Text
 
 ### T

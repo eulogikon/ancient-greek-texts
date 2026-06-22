@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hui-ae` · [HTML page](https://eulogikon.org/works/epicurus-lost-books-hui-ae)
 
+The Remains of Lost Books by Epicurus the Philosopher is a modern editorial title for a collection of 421 passages from otherwise lost works of Epicurus. These short, ethical maxims are preserved primarily in the Vatican Sayings and other ancient sources. The compilation is not a continuous original work but a later digest of excerpts from Epicurus’s lost treatises, such as On Nature, and letters, assembled for pedagogical use. The passages cover core Epicurean doctrines, including the goal of life as pleasure, defined as the absence of pain and mental disturbance; the classification of desires into natural and necessary, natural but unnecessary, and vain; the nature of the gods as blissful, immortal beings unconcerned with human affairs; the famous dictum that death is nothing to us; and the supreme value of friendship and self-sufficiency for a tranquil life.
+
+The primary source for these sayings is the 14th-century manuscript Vaticanus Graecus 1950, which contains 81 of them. The full collection of 421 passages is a modern reconstruction by scholars such as Hermann Usener, who compiled fragments from this manuscript and quotations found in authors like Diogenes Laertius, Seneca, and Plutarch. The transmission of the material is thus entirely indirect and fragmentary. These maxims, alongside the Principal Doctrines and the extant Letters, formed an accessible core of Epicurean teaching. They were extensively engaged by later Greek and Roman philosophers, including Stoic and Skeptic critics. The modern reconstruction of these fragments was crucial for reconstituting Epicurean philosophy, most notably in Usener’s foundational scholarly work Epicurea, published in 1887.
+
 ## Text
 
 ### 7 t

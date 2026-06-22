@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhq-al` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-al)
 
+The Roman Histories is a comprehensive history of Rome composed in Greek by the senator and historian Cassius Dio in the early third century CE. Originally spanning eighty books, it narrated events from the city's legendary foundation through to the author's own era, employing an annalistic structure organized by consular years. The complete text survives today only for specific periods, most notably from 68 BCE to 46 CE. For the majority of the work, including the narratives of the later first and second centuries CE, modern scholarship depends on summaries compiled by later Byzantine scholars. The most significant of these is the Epitome produced in the eleventh century by the monk John Xiphilinus, which condensed Books 36 through 80. Dio's history is regarded as an indispensable source, especially for understanding the transition from Republic to Empire and the politics of the early imperial period. His senatorial career profoundly shaped his perspective, leading him to emphasize the necessity of stable governance while offering critiques of autocratic excess. The transmission of the text is fragmentary, relying on a combination of surviving medieval manuscripts for certain portions, Xiphilinus's epitome for others, and various excerpts preserved in Byzantine collections.
+
 ## Text
 
 ### 1 (1t)

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aua-ab` · [HTML page](https://eulogikon.org/works/anaximander-miletus-nature-infinite-aua-ab)
 
+On the Nature of the Infinite is a seminal but fragmentary philosophical treatise attributed to the 6th-century BCE Milesian thinker Anaximander. Composed in Ionic Greek prose, it represents one of the earliest known attempts to provide a rational, non-mythological account of the cosmos. The work’s central thesis posits the apeiron—the boundless, eternal, and indefinite—as the fundamental origin and substance of all things. From this inexhaustible source, the cosmos continually emerges and into it all things ultimately return according to a governing principle of necessity.
+
+The original text is lost, and our knowledge of its contents derives entirely from later ancient commentators and doxographers. These preserved reports and excerpts outline a comprehensive natural philosophy. They describe a cosmogonic process wherein paired opposites, such as hot and cold, separate from the primordial apeiron to generate the ordered world, with the Earth conceived as a cylindrical body positioned at the center of the universe. The fragments further suggest an innovative conception of cosmic justice, wherein elemental forces pay penalty and recompense to one another for their transgressions in a perpetual cycle governed by time. The work also ventured into early speculative biology, proposing that animal life first arose from a moist element.
+
+This treatise marks a pivotal transition in Western thought from mythological narrative to systematic philosophical inquiry. It was likely composed for an educated audience in the vibrant intellectual milieu of Miletus, engaging them in novel debates concerning the fundamental principles of nature. Its pioneering concepts, particularly the apeiron as an abstract, non-empirical first principle, exerted a profound influence on subsequent pre-Socratic philosophy and were subject to detailed critical analysis by Aristotle in his own physical writings.
+
 ## Text
 
 ### 1

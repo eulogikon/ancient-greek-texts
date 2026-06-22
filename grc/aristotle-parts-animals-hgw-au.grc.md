@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-au` · [HTML page](https://eulogikon.org/works/aristotle-parts-animals-hgw-au)
 
+On the Parts of Animals is a four-book treatise by the ancient Greek philosopher Aristotle, composed around 350–330 BCE. It stands as a foundational work of natural philosophy and biology, systematically investigating the reasons for the specific organs and physical structures found in animals. The treatise opens with a philosophical prologue that defends the intellectual value of studying living nature and establishes Aristotle’s teleological framework, the principle that nature acts for an end or purpose. The subsequent three books provide a detailed, comparative analysis of animal anatomy. This examination is organized according to biological function and major taxonomic divisions, notably between blooded and bloodless creatures, offering explanations for the presence and form of parts from internal organs to external features.
+
+The work survives in its entirety and was likely intended for Aristotle’s students and associates at the Lyceum in Athens, forming a core component of his extensive biological research. Scholars view it as a deliberate progression from the descriptive cataloguing of his History of Animals to a causal explanation of animal morphology, with particular emphasis on final causes, or purposes. A central theme is the conception of a "scale of nature," wherein living beings are arranged in a hierarchy of increasing complexity and perfection, culminating with humans. Transmitted through medieval Greek and Arabic manuscript traditions, On the Parts of Animals exerted a profound influence on biological thought for nearly two millennia, shaping the fields of comparative anatomy and functional biology through its rigorous application of teleological explanation.
+
 ## Text
 
 ### PA 639a (t1)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lpo-aa` · [HTML page](https://eulogikon.org/works/nicias-nicaea-arcadian-beauty-contest-lpo-aa)
 
+The work On the Arcadian Beauty Contest by the grammarian Nicias of Nicaea is preserved solely as a fragment quoted by Athenaeus in his Deipnosophistae. This prose excerpt from a larger local history records an otherwise unattested ritual: an Arcadian male beauty contest held in honor of Demeter and Persephone. Athenaeus cites two passages from Nicias. The first describes the contest itself, noting that the victor received weapons as a prize and led the procession for the goddesses. The second provides an aetiological myth, explaining that during the Messenian War, a handsome youth named Dromeus was the first to arm himself and rush to battle; his remarkable beauty and zeal inspired the other soldiers to follow, securing a victory that was later commemorated by the institution of the contest. The work survives exclusively through its quotation in Book 13 of Athenaeus’s Deipnosophistae, a text from the late second or early third century CE. As a unique record of a local cult practice, the fragment is valuable for studies of Greek athletics, gender, and regional religion, illustrating the antiquarian interests of the Imperial period and the thematic link between physical beauty and martial virtue in Greek thought.
+
 ## Text
 
 ### 1.(t)

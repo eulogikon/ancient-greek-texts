@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hoe-ab` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-testimonies-2-hoe-ab)
 
+Testimonies 2 is a modern scholarly compilation of six fragmentary passages attributed to Hecataeus of Abdera, an early Hellenistic historian and ethnographer active during the late fourth and early third centuries BCE. Hecataeus is principally known for his extensive writings on Egypt and the mythical Hyperboreans, works that presented Greek audiences with idealized accounts of foreign cultures, often framing them as repositories of ancient wisdom and models of just societal organization. The passages collected under this title do not survive as a continuous text but are gleaned from quotations and references in later authors such as Diodorus Siculus and Josephus. This indirect transmission is characteristic of Hecataeus's corpus, as his original works are lost. His ethnographic narratives, produced in the context of the newly established Ptolemaic dynasty in Egypt, functioned as interpretive bridges, explaining Egyptian civilization and history to the Greek-speaking world, frequently for the purposes of cultural comparison or philosophical critique. The compilation thus represents a reconstruction of his thought from scattered sources rather than a discrete ancient work.
+
 ## Text
 
 ### 1

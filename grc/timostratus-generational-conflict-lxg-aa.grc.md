@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lxg-aa` · [HTML page](https://eulogikon.org/works/timostratus-generational-conflict-lxg-aa)
 
+The Generational Conflict Fragments is a modern editorial title for a collection of eleven verse fragments attributed to the comic poet Timostratus. The original titles of the plays from which these excerpts derive are lost; they survive through quotation by later authors, most notably Athenaeus in his Deipnosophistae. The fragments preserve dialogue and choral parts from comedies that appear to have centered on the conflict between older and younger generations. Their content suggests thematic concerns typical of the comic genre, including tensions between fathers and sons over authority and values, satire of contemporary social manners, and scenes of domestic life. Several fragments mention foods and dining practices, which likely explains their preservation by Athenaeus, who had a particular interest in such subjects. The fragments survive indirectly through such quotations and are collected in modern scholarly editions. Timostratus is an obscure figure, stylistically placed in the early 4th century BCE, a period of transition between Old and Middle Comedy. While his direct influence is undocumented, these fragments provide valuable evidence for the evolution of the comic genre, Athenian social history, and colloquial language of the era.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vfo-ab` · [HTML page](https://eulogikon.org/works/paul-silentiary-ambo-vfo-ab)
 
+The Description of the Ambo is a short poem by Paul the Silentiary, a court poet in sixth-century Constantinople. Composed in 563 CE, it consists of 21 passages written in Homeric-style Greek hexameters. The work is a detailed poetic description, or ekphrasis, of the magnificent new pulpit installed in the Great Church of Hagia Sophia following repairs to its dome. It celebrates the ambo's lavish materials, including silver and precious stones, its exquisite craftsmanship, and its sacred function as the platform for proclaiming the Gospel. The poem was performed publicly, likely by the author himself, before Emperor Justinian I and the Patriarch during a dedication ceremony on the Feast of the Epiphany in 563. Modern scholars interpret the work as a panegyric, using the physical splendor of the ambo to glorify the emperor's piety, wealth, and role as a builder and restorer of the empire's premier church. The text survives complete and is preserved alongside Paul's other major poems in Byzantine manuscript collections. It is valued today as both a literary masterpiece of late antique verse and a vital historical source for understanding Justinianic art and imperial ceremony.
+
 ## Text
 
 ### 1

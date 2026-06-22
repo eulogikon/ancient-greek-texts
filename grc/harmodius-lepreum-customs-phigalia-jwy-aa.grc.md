@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jwy-aa` · [HTML page](https://eulogikon.org/works/harmodius-lepreum-customs-phigalia-jwy-aa)
 
+On the Customs of Phigalia is a lost prose work of local history concerning the Arcadian city of Phigalia. Attributed to the otherwise unknown author Harmodius of Lepreum, it is also referenced under the title Apospasmata, meaning "Extracts." The work survives only through later testimonia and a few quoted passages preserved by authors such as Pausanias and Athenaeus. Based on its title and genre, the treatise treated standard topics of Hellenistic local historiography, including the religious customs and cults of Phigalia, such as that of Demeter Melaina, alongside foundation myths, descriptions of temples and rituals, and aetiological stories explaining the origins of local practices. The text itself is entirely lost, with no surviving manuscript tradition; our knowledge derives from fragmentary references, primarily in Pausanias's Description of Greece, which cites Harmodius as an authority on Phigalian matters. The work's significance is largely indirect, stemming from its use as a source for later antiquarians. It represents a typical example of Hellenistic local historiography and provides a valuable, though fragmentary, record of Arcadian religious and antiquarian lore.
+
 ## Text
 
 ### t1a-3a

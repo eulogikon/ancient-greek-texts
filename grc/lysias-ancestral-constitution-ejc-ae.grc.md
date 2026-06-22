@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ae` · [HTML page](https://eulogikon.org/works/lysias-ancestral-constitution-ejc-ae)
 
+On Not Abolishing The Ancestral Constitution at Athens is a forensic oration attributed to the Athenian logographer Lysias. Composed around 403 BCE, the speech survives only in fragments, preserved through quotations by later ancient critics such as Dionysius of Halicarnassus. It was delivered in an Athenian court, likely as part of a defense against a charge of proposing an illegal decree. The speech constitutes a vigorous polemic in defense of Athens's traditional democratic constitution, arguing against any proposed alteration to the established laws. Drawing upon the city's recent traumatic experience under the oligarchic regime of the Thirty Tyrants, the speaker warns of the dangers of political instability and advocates for legal conservatism. The surviving passages emphasize the necessity of inclusive citizenship and recall the collective suffering endured to dissuade the jury from endorsing constitutional change. Modern scholars regard the work as a significant document from the immediate post-restoration period, illustrating the intense ideological and legal conflicts that characterized Athenian public life after the return of democracy. Its rhetorical strategy relies heavily on invoking recent collective memory to persuade the jury that preserving the ancestral constitution is the only path to civic safety and unity.
+
 ## Text
 
 ### Or34 t

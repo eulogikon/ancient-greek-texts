@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ah` · [HTML page](https://eulogikon.org/works/euripides-heraclidae-cbm-ah)
 
+Heracleidae, or The Children of Heracles, is a tragedy by the Athenian playwright Euripides, composed in verse around 430 BCE. The play dramatizes the plight of the children and elderly companion of the hero Heracles as they flee persecution by King Eurystheus of Argos following their father's death. Arriving as suppliants at the altar of Zeus in the Attic town of Marathon, they are granted protection by the Athenian king Demophon, son of Theseus. This pledge of sanctuary leads Athens into a war against the Argive forces of Eurystheus. Facing a dire oracle stating that victory requires the sacrifice of a noble maiden, Heracles' daughter Macaria voluntarily offers her life to save her family and their Athenian protectors. The Athenian forces are subsequently victorious, and Eurystheus is captured. In a concluding prophecy, Eurystheus declares that, if his corpse is buried in Athenian soil, it will one day protect Athens from the descendants of Heracles, a clear allusion to the Spartans. The transmitted text of the play, comprising 1026 lines, is largely complete, though some scholars have questioned the authenticity of the final section beginning at line 928 due to perceived stylistic and dramatic inconsistencies.
+
+Produced during the early years of the Peloponnesian War, the play functions as potent patriotic propaganda, celebrating Athens' self-proclaimed role as a defender of the weak and a guarantor of suppliants' rights. The narrative emphasizes themes of sanctuary, civic duty, and self-sacrifice. The prophecy of Eurystheus serves as explicit political myth-making, offering a mythical justification for Athenian resilience and suggesting a future in which the city would be safeguarded from invasion by its Peloponnesian enemies.
+
 ## Text
 
 ### 1

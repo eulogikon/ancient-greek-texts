@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cb` · [HTML page](https://eulogikon.org/works/galen-pergamon-fractures-qmm-cb)
 
+Galen’s On Hippocrates' Fractures is a detailed exegetical commentary on the Hippocratic surgical treatise On Fractures. Composed as part of his extensive project to interpret the Hippocratic corpus, the work systematically quotes and explicates the original text across 311 lemmata. In his prologue, Galen outlines his exegetical principles, stating that the proper role of a commentator is to clarify obscure passages rather than to engage in full polemical defense of the author’s doctrines, though he acknowledges that a moderate degree of advocacy is customary. The commentary aims to elucidate Hippocratic doctrine, defend it against rival interpretations from other medical sects, and integrate its practical surgical advice into Galen’s own rational medical system. It consistently connects Hippocratic techniques with Galen’s theories of anatomy, physiology, and healing, emphasizing detailed anatomical knowledge as essential for proper treatment and showcasing his Dogmatic approach. The work also functions to establish Galen’s authority by positioning him as the legitimate heir and definitive interpreter of the Hippocratic legacy. The complete text is preserved within the medieval manuscript tradition of Galen’s collected works. This commentary was instrumental in shaping the medieval and Renaissance understanding of both Hippocrates and Galen, reinforcing the Hippocratic texts as canonical and Galen as their paramount interpreter, thereby ensuring the continued influence of these surgical concepts in medical education for centuries.
+
 ## Text
 
 ### 18b 318 (t1)

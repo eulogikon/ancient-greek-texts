@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-otho-okg-fq)
 
+Plutarch’s Otho is a biography of the Roman emperor Marcus Otho, who reigned for three months in 69 CE during the tumultuous Year of the Four Emperors. It is one of the paired Parallel Lives, in which Plutarch compares notable Greek and Roman figures; Otho is paired with the Greek general and successor of Alexander the Great, Eumenes of Cardia. Composed in Attic Greek around the turn of the second century CE, the narrative traces Otho’s life from his early years as a profligate companion to the emperor Nero, through his role in the conspiracy to overthrow Galba, his own brief ascension to the principate, his decisive defeat by Vitellian forces at the First Battle of Bedriacum, and his subsequent suicide. The text is organized into 73 thematic sections, a structural convention of Plutarch’s biographical technique that allows for the exploration of character through illustrative episodes rather than strict chronology.
+
+Modern scholarship interprets the Life of Otho not merely as a historical account but as a moral and philosophical study. Plutarch, writing under the stable rule of the Roman Empire, sought to provide exemplars of character, both virtuous and vicious, for his educated audience. The biography probes themes such as the volatile nature of power seized during a crisis, the capricious role of fortune in political affairs, and the ethics of a voluntary death. Plutarch devotes considerable attention to Otho’s final act, portraying his suicide not as a desperate escape but as a deliberate, noble sacrifice intended to spare Rome further civil war—an interpretation that has profoundly influenced Otho’s posthumous reputation. The work survives in its complete form through medieval manuscript transmission and is preserved in modern critical editions, where it remains a vital source for the history and historiography of the first-century Roman Empire.
+
 ## Text
 
 ### Oth t 1

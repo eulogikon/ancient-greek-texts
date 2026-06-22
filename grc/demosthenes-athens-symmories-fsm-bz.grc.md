@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bz` · [HTML page](https://eulogikon.org/works/demosthenes-athens-symmories-fsm-bz)
 
+On the Symmories is a deliberative oration delivered by the Athenian statesman Demosthenes to the citizen assembly in 354 BCE. The speech addresses the reform of the symmories, the administrative groups composed of wealthy citizens who bore the financial responsibility for equipping and maintaining the warships of the Athenian navy. Demosthenes critiques the existing system as both inefficient and inequitable, arguing that it places a disproportionate burden on a narrow segment of the citizenry while failing to provide the state with a reliably funded fleet. He proposes a detailed reorganization into a greater number of symmories, aiming to distribute the financial obligations more broadly and fairly. His ultimate objective is to establish a permanent and robust naval force of three hundred triremes, which he presents as essential for Athenian security. While the immediate rhetorical context involves a perceived threat from Persia, the speech is fundamentally concerned with domestic fiscal and military preparedness, using the external danger to underscore the urgency of internal reform.
+
+Preserved in thirty-eight sections and cataloged as Oration 14 in the Demosthenic corpus, the work is accepted by scholars as an authentic product of the orator's early career. It represents a significant phase in Demosthenes' development, focusing on intricate matters of public finance and domestic administration prior to his later, more famous preoccupation with the Macedonian threat. As a historical document, the oration provides invaluable insight into the practical workings of Athenian naval logistics, the liturgy system that funded public services, and the operational challenges facing the Athenian democracy in the fourth century.
+
 ## Text
 
 ### Or14 1

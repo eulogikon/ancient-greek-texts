@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dvq-aa` · [HTML page](https://eulogikon.org/works/thrasymachus-chalcedon-testimonies-dvq-aa)
 
+The Testimonies is a model forensic speech attributed to the sophist and rhetorician Thrasymachus of Chalcedon. Composed in Attic Greek in the late fifth century BCE, it represents a practical work from the early development of professional rhetoric, functioning as a handbook for constructing arguments within Athenian law courts. The speech focuses specifically on the presentation and examination of witness testimony, demonstrating systematic techniques for either proving or challenging its credibility. Modern scholars interpret it as a pedagogical tool for students and litigants, reflecting the sophistic movement's emphasis on persuasive argument and probability over absolute truth. The work survives only in a fragmentary state, preserved through quotations in later ancient authors such as Diogenes Laertius. It is not a complete, continuous text but a collection of rhetorical arguments; the available evidence suggests it was originally structured as a series of fourteen passages. As a product of Thrasymachus—who is famously depicted as an interlocutor in Plato’s Republic—the Testimonies illustrates his concrete contributions to rhetorical style and forensic technique, offering a perspective on his legacy distinct from his philosophical reputation.
+
 ## Text
 
 ### 1

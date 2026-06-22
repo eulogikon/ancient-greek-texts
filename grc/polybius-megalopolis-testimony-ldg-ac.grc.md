@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ldg-ac` · [HTML page](https://eulogikon.org/works/polybius-megalopolis-testimony-ldg-ac)
 
+The work commonly referred to as the Testimony is not an independent ancient text but a modern editorial construct attributed to the historian Polybius of Megalopolis. It designates a collection of excerpts drawn from his monumental Histories, a forty-book pragmatic account of Rome's rise to dominance in the Mediterranean world. The selection is intended to exemplify the historian's core methodological principle, which privileges eyewitness experience and personal inquiry as the foundation of reliable history. These passages highlight Polybius's insistence on the superiority of autopsia, or firsthand observation, particularly for military and political events, arguing that such direct engagement is essential for producing a history that is both truthful and useful for instruction.
+
+The content of these excerpts reflects the major themes of Polybius's historical project. Beyond the emphasis on eyewitness authority, they illustrate his concept of pragmatic history, which focuses analytically on political and military deeds to provide practical lessons for statesmen. The selected testimony also touches upon his broader theoretical frameworks, including the role of Tyche, or Fortune, in human affairs and his theory of anacyclosis, the cyclical evolution and decay of constitutional forms. A central component is his famed analysis of the Roman constitution, which he praised as a stable mixed government blending monarchical, aristocratic, and democratic elements.
+
+The transmission of this material is entirely dependent on the fate of Polybius's Histories. The complete work does not survive intact; only the first five books are preserved fully in medieval manuscripts. The remainder exists in fragmentary form, primarily through excerpts contained in Byzantine anthologies compiled in the tenth century, such as those commissioned by Emperor Constantine VII Porphyrogennetos. There is no separate manuscript tradition for a discrete work titled Testimony; it is a modern scholarly assemblage from these surviving fragments.
+
+Polybius's methodological rigor and political analysis have exerted a long and significant influence. His work was consulted by later ancient historians, including Dionysius of Halicarnassus, and his theories on government were engaged by Roman political thinkers like Cicero. During the Renaissance, his analysis of constitutions and the causes of political stability was revived by Niccolò Machiavelli. In the Enlightenment, his ideas informed the political philosophy of Montesquieu and, through him, contributed to the constitutional thought of the Founding Fathers of the United States, cementing his status as a foundational figure in both historiography and political theory.
+
 ## Text
 
 ### 2b,173,T 1

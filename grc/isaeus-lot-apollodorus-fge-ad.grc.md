@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-ad` · [HTML page](https://eulogikon.org/works/isaeus-lot-apollodorus-fge-ad)
 
+On the Lot of Apollodorus is a forensic oration composed by the Athenian logographer Isaeus around 354–353 BCE. Written in Attic Greek for delivery in a dikastic court, the speech was crafted for a client defending his claim to the estate of his maternal uncle, Apollodorus, against a rival relative. The work is a sustained legal argument that methodically reconstructs the relevant family history, cites Athenian inheritance statutes, and seeks to validate a will in the speaker's favor while systematically undermining the opponent's case. The central legal contention revolves around whether the deceased had formally adopted his challenger, an assertion the oration vigorously denies through detailed exposition and rhetorical questioning of the evidence.
+
+Surviving complete in thirty-five sections, the speech offers a vivid glimpse into the social fabric of Classical Athens, where inheritance disputes were a frequent source of litigation and familial strife. Modern scholars regard the oration as a masterful specimen of forensic rhetoric, meticulously designed to persuade a jury through a combination of logical deduction, strategic presentation of testimony, and subtle emotional appeal. Beyond its rhetorical artistry, it serves as an invaluable historical document for understanding the practical application of Athenian inheritance law, a complex legal framework essential for the preservation of a family's property, religious continuity, and social standing.
+
+Transmitted through the medieval manuscript tradition, most notably via a tenth-century codex, On the Lot of Apollodorus remains a fundamental text for the study of ancient Greek law, social history, and the technical craft of Attic oratory.
+
 ## Text
 
 ### Or7 1

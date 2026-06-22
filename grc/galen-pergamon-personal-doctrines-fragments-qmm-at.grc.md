@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-at` · [HTML page](https://eulogikon.org/works/galen-pergamon-personal-doctrines-fragments-qmm-at)
 
+_On Personal Doctrines_ is a fragmentary treatise by the physician Galen of Pergamon. Long believed lost, excerpts from the work were rediscovered in 2005 within a 15th-century Greek manuscript held in Thessaloniki. The text functions as an intellectual autobiography, in which Galen systematically outlines and defends his core medical and philosophical doctrines for his students while critiquing rival schools such as the Empiricists and Methodists. The seven surviving passages argue for the necessity of logical demonstration in medicine and defend a teleological understanding of nature, synthesizing Platonic and Aristotelian philosophy. Central themes include the refutation of medical skepticism, the assertion that physicians require training in logic and physics, and the construction of Galen’s personal doctrinal legacy. The work was absent from the medieval Galenic corpus and its full scope remains unknown, as the manuscript preserves only excerpts rather than the complete treatise. Its rediscovery has profoundly impacted modern scholarship, providing crucial insight into Galen’s late thought, his epistemological commitments, and his strategies for securing his posthumous reputation against contemporary rivals.
+
 ## Text
 
 ### 1 (t)

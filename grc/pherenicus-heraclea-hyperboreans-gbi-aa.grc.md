@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gbi-aa` · [HTML page](https://eulogikon.org/works/pherenicus-heraclea-hyperboreans-gbi-aa)
 
+The Fragments on the Hyperboreans by Pherenicus of Heraclea are brief remnants of an epic or mythographic poem, preserved through quotations by later ancient and Byzantine scholars such as Athenaeus and the compiler of the Etymologicum Magnum. The work describes the mythical Hyperboreans, a people said to dwell in a blessed land beyond the North Wind. The extant passages depict this remote territory as a fertile utopia capable of yielding two harvests annually and emphasize the piety of its inhabitants, who are closely associated with the gods Apollo and Artemis. One fragment specifically mentions the Hyperborean maiden Upis as an attendant of Artemis. These fragments provide valuable evidence for the development of the Hyperborean myth in Greek literature, contributing to scholarly understanding of ancient mythical geography, utopian ideals, and regional cult practices.
+
 ## Text
 
 ### book 671.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fyg-aa` · [HTML page](https://eulogikon.org/works/diyllus-athens-historical-fragments-fyg-aa)
 
+The Historical Fragments represent the extant portions of a comprehensive universal history composed in Greek prose by the Athenian historian Diyllus around 300 BCE. The original work, now entirely lost, was structured as a continuous narrative spanning twenty-six books. It was conceived as a direct continuation of the history of Ephorus, beginning its account in 341 BCE and extending to at least 297 BCE, thereby encompassing the ascendance of Macedon under Philip II, the vast conquests of Alexander the Great, and the tumultuous wars waged by his successors in the decades following his death. The text survives only through a handful of scattered passages—eight in total—preserved as quotations or summaries within the works of later authors, including the Byzantine scholar Photius. The modern title Historical Fragments is thus a descriptive label for these collected excerpts, not the name of an original book. These fragments reveal Diyllus as a significant source for the early Hellenistic period, offering an Athenian perspective on an era marked by the erosion of traditional Greek autonomy. His history, written in a serious style for a learned readership, was later employed as a major source by the historian Diodorus Siculus, thereby influencing the transmission of the historical narrative concerning Alexander's successors to later antiquity.
+
 ## Text
 
 ### t1-3

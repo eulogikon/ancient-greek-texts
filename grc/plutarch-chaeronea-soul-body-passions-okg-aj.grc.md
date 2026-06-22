@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-aj` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-soul-body-passions-okg-aj)
 
+Whether the Soul's or Body's Passions Are Worse is a philosophical treatise by Plutarch of Chaeronea, written in Attic Greek around 100 CE. Preserved within his collected ethical works known as the Moralia, it is a concise, dialectical inquiry structured as a systematic comparison. The work examines whether disorders of the soul, such as anger or greed, inflict greater harm than afflictions of the body, such as disease or injury. Characteristically, Plutarch presents arguments on both sides before delivering his judgment. He concludes that the passions of the soul are worse, arguing they are more voluntary, more fundamentally corrupting to one's character, and a greater impediment to achieving virtue and happiness than physical suffering. The treatise engages with central debates from Platonic, Stoic, and Epicurean thought concerning the management of the passions and the cultivation of moral excellence, reflecting broader philosophical concerns of the Imperial Roman period. Modern scholars view it as part of Plutarch's pedagogical project, designed to guide an educated audience toward self-improvement and a deeper understanding of the soul's primacy over the body.
+
 ## Text
 
 ### t 1

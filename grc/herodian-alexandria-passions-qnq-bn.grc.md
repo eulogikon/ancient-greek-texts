@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bn` · [HTML page](https://eulogikon.org/works/herodian-alexandria-passions-qnq-bn)
 
+On Passions is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. Composed in Attic Greek, it functions as a systematic technical handbook cataloging 159 linguistic "passions" or "affections"—the irregularities and alterations that occur in a word's standard form, such as changes in accent, spelling, or declension. The work explains the rules governing these phonetic and morphological shifts, illustrating each point with examples drawn from classical authors, particularly Homer. It was produced during the Roman Imperial Period, a time of intense scholarly activity aimed at preserving and systematizing classical Greek language and literature, and it stands as a key text of the Alexandrian grammatical tradition, intended for advanced students and professionals requiring mastery of authoritative Attic usage. Its structure as a collection of discrete entries suggests it may have originated from lecture notes or been designed as a reference manual. The transmission of On Passions is complex and fragmentary; it does not survive as a complete, independent manuscript. Instead, the work is known almost exclusively through excerpts and citations preserved within later Byzantine grammatical compilations, lexica, and scholiastic commentaries. The 159 passages that constitute the modern text are therefore a reconstruction from these secondary sources, leaving the exact form and full scope of Herodian's original treatise uncertain.
+
 ## Text
 
 ### 3,2 167 (24)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jew-aa` · [HTML page](https://eulogikon.org/works/cleanthes-assos-testimonies-fragments-jew-aa)
 
+The Testimonies and Fragments of Cleanthes of Assos constitutes the modern scholarly compilation of all surviving evidence for the philosophy of the second head of the Stoic school in Athens. As no complete treatise, hymn, or poem from Cleanthes survives, our understanding of his thought is entirely dependent on these remnants, which are preserved within the works of later Greek and Roman authors such as Diogenes Laertius, Cicero, and Seneca. The collection is conventionally divided into testimonia, which are reports about his life and doctrines, and fragments, which are direct quotations from his lost writings. Among the most significant of these is the complete text of his Hymn to Zeus, a philosophical poem that identifies the chief Olympian deity with the rational, governing principle of the cosmos. The collected passages address the full spectrum of Stoic philosophy, including logic, physics, and ethics, and are instrumental in revealing Cleanthes's role in systematizing and defending the school's foundational ideas. His contributions to key ethical concepts, such as living in accordance with nature and the theory of appropriation, were particularly influential for the subsequent development of Stoicism. The standard critical edition of this material is found in the modern sourcebook Stoicorum Veterum Fragmenta.
+
 ## Text
 
 ### 463

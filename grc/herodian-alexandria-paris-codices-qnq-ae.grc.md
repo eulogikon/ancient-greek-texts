@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ae` · [HTML page](https://eulogikon.org/works/herodian-alexandria-paris-codices-qnq-ae)
 
+The Partitions is a grammatical treatise attributed to the second-century CE scholar Herodian of Alexandria. Surviving in a fragmentary state, it is not a continuous oration but a systematic collection of 274 passages analyzing individual words, primarily drawn from Homeric and classical texts. The work focuses on prosody, morphology, and dialect, offering technical examinations of Greek accentuation rules and their exceptions, morphological analysis of word formation, and explanations of peculiar Homeric forms and usages. Its overarching aim was to establish and clarify standards for linguistic correctness, known as Hellenismos. The text is preserved through excerpts in later manuscripts, chiefly the Paris Codices 2543 and 2570. Like much of Herodian's prolific output, it survives indirectly, having been reconstructed from quotations by later grammarians, lexicographers, and scholiasts. Herodian was a foundational authority for subsequent Greek scholarship, and the principles detailed in the Partitions profoundly influenced Byzantine grammarians and educators for centuries, shaping the teaching and understanding of Greek grammar well into the early modern period.
+
 ## Text
 
 ### 1 (1t)

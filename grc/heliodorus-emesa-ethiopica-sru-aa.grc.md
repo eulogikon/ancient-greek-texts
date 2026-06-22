@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sru-aa` · [HTML page](https://eulogikon.org/works/heliodorus-emesa-ethiopica-sru-aa)
 
+The Aethiopica, also known as the Ethiopian Story, is an ancient Greek prose romance attributed to Heliodorus of Emesa. While its precise date of composition remains uncertain, modern scholarship generally assigns it to the third or fourth century CE. The work is a sophisticated adventure narrative in ten books, chronicling the tribulations of two noble lovers: Theagenes, a Thessalian, and Chariclea, a priestess of Apollo who is secretly the daughter of the Ethiopian king and queen. Their journey, which spans the Mediterranean world, involves kidnappings, shipwrecks, and numerous perils, all underpinned by a central theme of preserving their chastity and virtue. The plot is renowned for its intricate complexity, famously beginning in medias res with a mysterious and violent scene on the Egyptian coast before gradually revealing the characters' pasts through a series of embedded narratives.
+
+The novel survives in its complete form due to a continuous manuscript tradition from the Byzantine era onward, with its oldest known copy dating from the tenth or eleventh century. Interpreted as a product of the culturally vibrant Roman Imperial East, the work reflects a cosmopolitan fusion of Greek, Egyptian, and Ethiopian religious and social elements. It was likely composed for an educated, Greek-speaking elite. Its elaborate structure and enduring themes of divine providence, concealed identity, and ethical fortitude have secured its status as one of the most influential ancient novels, profoundly shaping the subsequent development of European romance and epic literature.
+
 ## Text
 
 ### 1.1.2

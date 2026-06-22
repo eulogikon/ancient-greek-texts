@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-ai` · [HTML page](https://eulogikon.org/works/appian-alexandria-celtic-pdc-ai)
 
+From the Celtic is a lost historical work by the 2nd-century CE Greek author Appian of Alexandria, forming one book within his larger 24-book Roman History. Composed around 160 CE, Appian’s history was organized thematically by region and people rather than chronologically, and this volume focused exclusively on Rome’s protracted conflicts with Celtic peoples, chiefly the Gauls. The original text is no longer extant and is known only through 49 fragments preserved in Byzantine excerpt collections compiled under Emperor Constantine VII in the 10th century. These surviving passages span pivotal events from the legendary Gallic sack of Rome in 390 BCE to Julius Caesar’s definitive conquest of Gaul in the mid-1st century BCE. The fragments suggest the narrative highlighted key military engagements and Roman leaders, such as Camillus’s victories and the tactical innovations of generals like Gaius Sulpicius, while charting the gradual subjugation of various Celtic tribes. As part of Appian’s overarching project to explain Roman imperial ascendancy to a Greek-speaking audience, the book likely emphasized themes of Roman resilience, military prowess, and the integration of a formidable neighboring culture into the Roman world. Although the work’s complete structure and scope remain uncertain due to its fragmentary transmission, the excerpts provide valuable insight into both the history of Roman-Gallic relations and the methods of a historian writing under the High Empire.
+
 ## Text
 
 ### Celt 1 1

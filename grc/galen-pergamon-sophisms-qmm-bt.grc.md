@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bt` · [HTML page](https://eulogikon.org/works/galen-pergamon-sophisms-qmm-bt)
 
+Galen’s treatise On Sophisms or Verbal Fallacies examines deceptive arguments that arise from linguistic ambiguity, systematically distinguishing verbal fallacies from material errors in reasoning. The work is fragmentary, surviving not as a complete text but through quotations preserved in later Greek and Arabic commentators. Its structure, known primarily from a summary by the 10th-century philosopher al-Farabi, is organized into seventeen passages. Galen begins by outlining Aristotle’s six categories of verbal sophisms—homonymy, amphiboly, prosody, composition, division, and figure of speech—and proceeds to analyze how equivocation in language leads to erroneous conclusions. He emphasizes the critical importance of valid demonstration as the foundation for reliable scientific knowledge, thereby positioning logic as an indispensable tool for rigorous medical and philosophical practice. Composed to equip students with the means to critique rival medical and philosophical schools, the treatise reflects Galen’s syncretic approach to logic. Its influence was particularly notable in medieval Islamic philosophy, where al-Farabi’s detailed engagement with the text played a significant role in the Arabic reception and development of Greek logical theory.
+
 ## Text
 
 ### 14 582 (t1)

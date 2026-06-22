@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bi` · [HTML page](https://eulogikon.org/works/demosthenes-athens-onetor-eviction-fsm-bi)
 
+Against Onetor on Eviction is a forensic speech composed by the Athenian orator Demosthenes around 362–361 BCE. A complete example of private legal oratory, the speech presents Demosthenes as the plaintiff in a complex financial dispute. He accuses a man named Onetor of conspiring with Aphobus, a guardian who had defrauded Demosthenes of his inheritance, to fraudulently shield property from seizure for debt repayment. Demosthenes contends that a divorce and the subsequent return of a dowry, which Onetor used to claim legal possession of Aphobus's property, were a sham transaction designed solely to prevent him from collecting a court-awarded judgment.
+
+The oration follows the conventional structure of a courtroom speech and delves into intricate points of Athenian law regarding debt recovery, property rights, and the use of marriage dowries as financial security. It offers significant insight into the social and legal mechanics of Classical Athens, illustrating how formal institutions could be manipulated for personal gain. Modern scholars regard the speech as a valuable case study for understanding both Athenian property law and the practical application of forensic rhetoric. Composed early in Demosthenes' career as a logographer, or speechwriter, it follows his own famous lawsuits against his guardians. The text has been preserved within the medieval manuscript tradition of Demosthenes' works and is generally accepted as authentic.
+
 ## Text
 
 ### Or31.2

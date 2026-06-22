@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gdg-ab` · [HTML page](https://eulogikon.org/works/philonides-comic-morals-gdg-ab)
 
+The Fragments on Morals is a modern descriptive title for eight brief passages attributed to the Athenian comic poet Philonides, a 5th-century BCE contemporary of Aristophanes. These are not excerpts from a single coherent text but rather short, moralizing verses originally embedded within his lost comedies, preserved by later authors for their ethical content. The principal source is the 5th-century CE anthologist Stobaeus, who collected them in his work for their sententious value. The fragments present gnomic statements characteristic of Old Comedy, with themes that include critiques of social vices such as arrogance and greed, practical wisdom concerning daily life and moderation, observations on domestic affairs, and indirect political commentary on contemporary Athenian figures and institutions. Philonides’s comedies survive only in such fragments, which are now standardly collected in modern scholarly editions. While his direct influence is minimal, these excerpts illustrate how Classical literature was repurposed in later antiquity for ethical instruction and aid scholars in reconstructing the broader landscape of Old Comedy beyond its major surviving figures.
+
 ## Text
 
 ### book 1

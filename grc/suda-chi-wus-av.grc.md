@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-av` · [HTML page](https://eulogikon.org/works/suda-chi-wus-av)
 
+The chi section of the Suda (Σοῦδα, Στοιχεῖον Χ) contains 623 entries ranging from single-word glosses to extended historical and antiquarian notices. Topics include natural phenomena—χάλαζα is defined as frozen cloud broken apart by wind and distinguished carefully from snow—and veterinary observations on livestock disease.
+
+Notable biographical entries include Χίλων of Sparta, identified as one of the Seven Sages and the originator of the terse manner of speech called Χιλώνειος τρόπος. Historical proper names such as Χαβρίας and Χαγάνος anchor the letter in Greek and Byzantine military history.
+
+The section also documents Athenian religious practice: the festival Χύτροι, held on the thirteenth of Anthesterion, at which a pot of mixed grain was boiled as an offering to Dionysus and Hermes, is treated in two separate entries drawing on Philochorus and Theopompus. Cross-references within the letter (e.g., χ 310 directing the reader back to χιλή) illustrate the Suda's internal lexicographic organization.
+
 ## Text
 
 ### χ 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-en` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-poplicola-okg-en)
 
+Poplicola is a biography by the Greek philosopher and historian Plutarch, composed in the early second century CE as part of his Parallel Lives. This work pairs the Roman statesman Publius Valerius Poplicola with the Athenian lawgiver Solon, framing a comparative study of two foundational figures in their respective political traditions. The biography chronicles the career of Poplicola, a central figure in the establishment of the Roman Republic following the expulsion of the last king, Tarquinius Superbus, in the late sixth century BCE. Plutarch details his subject's political and military actions, including his pivotal role in defeating conspiracies aimed at restoring the monarchy and his multiple terms as consul.
+
+Rather than presenting a strict historical chronology, the narrative is structured across 125 sections to elucidate Poplicola's character, emphasizing virtues such as his commitment to public liberty, civic harmony, and moderate governance. The honorific title "Poplicola," meaning "friend of the people," which was bestowed upon him by the Roman populace, serves as a central motif for these qualities. Modern scholarship interprets the work primarily as moral instruction, using the exempla of great leaders to explore concepts of justice and political moderation. The deliberate pairing with Solon reflects Plutarch's broader intellectual project of comparing the origins and guiding principles of Greek and Roman civilization for his educated, bilingual audience in the Roman Empire.
+
+The text survives intact through medieval manuscript transmission and is an integral part of the Plutarchan corpus. It remains a significant literary source for the legendary early history of Rome and the ideological underpinnings of its republican ethos.
+
 ## Text
 
 ### Publ t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-au` · [HTML page](https://eulogikon.org/works/med-writers-anon-pulses-umi-au)
 
+_On Pulses_ is an anonymous Greek medical treatise on sphygmology, the diagnostic study of the pulse. It represents a genre of practical pulse lore within the broader Hellenistic and Roman medical tradition, distinct from the known works of major figures like Herophilus or Galen. The surviving text consists of three passages. The treatise concerns the diagnostic interpretation of the pulse, a technique refined by the Alexandrian physician Herophilus in the early third century BCE. Its content aligns with core themes of the genre, treating the pulse as a key indicator of the body’s internal state and specific diseases. It classifies pulses by qualities such as speed, strength, and rhythm, and links these characteristics to physiological principles, such as the balance of elemental qualities or the function of the heart and arteries. The anonymous text survives through the Byzantine manuscript tradition, likely transmitted within larger medical compendia. Its brief, three-passage form suggests it may be a fragment or a summary excerpted from a more comprehensive, now-lost work. As an example of an anonymous technical manual, this treatise illustrates the standardization and dissemination of core diagnostic knowledge. The pulse concepts it contained were later systematized by Galen and remained central to Western and Islamic medical practice for centuries.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cy` · [HTML page](https://eulogikon.org/works/galen-pergamon-pulses-beginners-qmm-cy)
 
+On Pulses for Beginners is a concise medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. Written as an introductory manual for students, it systematically outlines the principles of pulse diagnosis. The work opens by defining the pulse as the dilation and contraction of the arteries, a motion originating from the heart. It proceeds through forty brief chapters to establish a detailed classification of pulses, analyzing them according to size, speed, strength, rhythm, and hardness. A fundamental distinction is drawn between the healthy "natural" pulse and the various "non-natural" pulses that indicate pathological conditions. Throughout, Galen explains these observable qualities through the framework of his own physiological theory, relating them to the balance of the body's primary qualities—hot, cold, wet, and dry. The treatise represents a deliberate effort to standardize medical instruction by providing a logical, theory-driven foundation for a core diagnostic technique. Its clear pedagogical structure ensured its enduring influence; preserved through Byzantine and Arabic manuscript traditions and later translated into Latin, it served as a definitive textbook on the subject for more than a millennium, profoundly shaping the practice of pulse diagnosis in both Islamic and European medicine.
+
 ## Text
 
 ### 8 453 (t1)

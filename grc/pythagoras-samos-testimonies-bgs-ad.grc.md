@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bgs-ad` · [HTML page](https://eulogikon.org/works/pythagoras-samos-testimonies-bgs-ad)
 
+The Testimonies is a modern scholarly designation for the curated collection of ancient reports concerning the doctrines and influence of Pythagoras of Samos. As the philosopher himself left no written texts, our knowledge of early Pythagoreanism depends entirely on these later accounts, compiled from disparate sources by editors such as Hermann Diels and Walther Kranz. The testimonia reconstruct core Pythagorean teachings, which include the immortality of the soul and its transmigration through different life forms, a process known as metempsychosis. They further attest to the central Pythagorean aim of purifying the soul, the foundational principle that number constitutes the essence and harmony of reality, the concept of a celestial "harmony of the spheres," and various ascetic rules of life, including distinctive dietary restrictions. These ideas were transmitted orally within the Pythagorean school and are preserved indirectly through the works of later writers such as Herodotus, Aristotle, and Neoplatonists like Porphyry and Iamblichus. The testimonial tradition, sometimes referenced through a canonical set of twenty-four key passages, was crucial in securing Pythagoras’s foundational influence on Western philosophy, mathematics, and music theory. His ideas profoundly shaped the thought of Plato and the entire Neoplatonic tradition, while his mathematical and symbolic conception of the cosmos continued to resonate through Renaissance and early modern thought.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `szw-aa` · [HTML page](https://eulogikon.org/works/euryphamus-life-szw-aa)
 
+Fragments on Life is a philosophical treatise attributed to Euryphamus the Philosopher, a figure otherwise unattested in the historical record. The name Euryphamus appears in classical sources solely in reference to mythological characters, with no known philosopher of that name documented in major philosophical or classical reference works. The treatise itself is described as consisting of three passages on life, but no substantive information regarding its thematic content, historical context, or scholarly reception exists. There is no record of a manuscript tradition, ancient testimonia, or modern editions for this specific work, and its described fragmentary state cannot be verified. The complete absence of both the author and the work from the established historical record suggests the attribution is likely apocryphal, a misattribution, or derives from an obscure source not captured within standard academic references.
+
 ## Text
 
 ### 85 (13t)

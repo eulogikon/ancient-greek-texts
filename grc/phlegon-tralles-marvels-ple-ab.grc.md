@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ple-ab` · [HTML page](https://eulogikon.org/works/phlegon-tralles-marvels-ple-ab)
 
+On Marvels is a second-century CE prose work by Phlegon of Tralles, a Greek freedman in the imperial court of Hadrian. It is a prime example of paradoxography, a genre dedicated to compiling accounts of strange, wondrous, and anomalous phenomena. The extant text, likely an abridgment of a larger original, presents a catalog of thirty-five narratives, often subdivided into sixty-five brief entries. These describe a wide array of bizarre occurrences, including ghostly apparitions, hermaphrodites, monstrous births, discoveries of giant skeletons, and tales of individuals miraculously returning from the dead. The entries are related in a straightforward, reportorial style and frequently cite earlier historians or local sources to bolster their credibility.
+
+Composed during the High Roman Empire, a period marked by strong antiquarian interests, the work reflects a broader literary trend of collecting and preserving curious knowledge about the natural and supernatural world. Modern scholarship interprets such paradoxographical texts not as mere fiction but as serious, if eclectic, attempts to document exceptional events that defied ordinary explanation, compiled for an educated audience with a taste for the extraordinary. The work survives primarily in a single thirteenth-century manuscript. Several of its most notable stories, such as the haunting tale of the vampire-like Philinnion, were later circulated by other authors, attesting to its influence on subsequent traditions of the marvelous and uncanny.
+
 ## Text
 
 ### t 1

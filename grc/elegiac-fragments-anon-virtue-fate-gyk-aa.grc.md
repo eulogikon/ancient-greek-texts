@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gyk-aa` · [HTML page](https://eulogikon.org/works/elegiac-fragments-anon-virtue-fate-gyk-aa)
 
+Fragments on Virtue and Fate is a modern scholarly compilation of fifty-nine fragmentary passages of elegiac poetry, unified by their thematic focus on the concepts of human excellence and cosmic destiny. The verses are not derived from a single, continuous poem but are excerpts preserved through quotation in later prose authors, most notably the Stoic philosopher Chrysippus and the anthologist Stobaeus. As a collection of gnomic poetry, it employs the elegiac couplet to deliver concise, authoritative statements on ethics and the nature of the cosmos. The content addresses the core preoccupations of early Greek wisdom literature, exploring the supreme value of virtue, the fixed and divine order of fate, and the complex relationship between divine justice, human agency, and predetermined outcomes.
+
+The work survives exclusively through this secondary transmission, having been cited by Chrysippus to provide poetic support for Stoic philosophical doctrines and later anthologized by Stobaeus. This mode of preservation ensured its survival within the stream of philosophical discourse rather than as an independent literary text. The fragments hold historical significance primarily for their demonstrable influence on Hellenistic philosophy, particularly Stoicism, which adopted them as venerable poetic antecedents for its own teachings. Today, they are studied both as valuable examples of pre-philosophical Greek ethical thought and for their critical role in understanding the Stoic reception and reinterpretation of earlier poetic tradition.
+
 ## Text
 
 ### 1

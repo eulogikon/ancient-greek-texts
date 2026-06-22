@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `klo-ai` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-testimonies-klo-ai)
 
+The Testimonies is a lost scholarly compilation by the Hellenistic grammarian Aristophanes of Byzantium, who served as head of the Library of Alexandria in the early second century BCE. The work functioned as a repository of literary citations, systematically gathering authoritative passages from earlier Greek poets and playwrights to serve as exemplars for grammatical analysis, textual criticism, and literary interpretation. Only two fragments of the collection survive, transmitted by later authors. One, preserved by the second-century CE grammarian Aelius Herodianus, quotes a line from the comic poet Eupolis. The other, found in a sixth-century CE commentary by John Philoponus, quotes a line from Sophocles’s tragedy Tyro. These scant remains indicate the original was an organized anthology of excerpts, though its complete structure and total scope are unrecoverable. The work is a quintessential product of the Alexandrian scholarly tradition, which methodically collected and analyzed classical texts to establish authoritative readings and elucidate linguistic difficulties. As a leading figure in this enterprise, Aristophanes of Byzantium likely designed the Testimonies as a practical reference tool for librarians, educators, and commentators, embodying the Library’s central role in philological research. While the compilation itself is lost, its methodological principle of using literary "testimonies" as evidence exerted a lasting influence on subsequent grammatical and exegetical scholarship.
+
 ## Text
 
 ### 3b,347,T 1

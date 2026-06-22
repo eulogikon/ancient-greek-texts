@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-aj` · [HTML page](https://eulogikon.org/works/themistius-philanthropy-theodosius-rye-aj)
 
+On the Philanthropy of Emperor Theodosius is an imperial oration delivered in 384 CE by the philosopher and statesman Themistius before Emperor Theodosius I and the Roman senate. Composed in refined Attic Greek, the speech systematically argues that the supreme virtue of a true sovereign is philanthropia, or love for humanity, which manifests principally through clemency and a commitment to justice. Themistius constructs this argument by praising Theodosius for his merciful treatment of supporters of the defeated usurper Magnus Maximus, presenting the emperor's restraint as the hallmark of philosophical kingship. This model is explicitly contrasted with tyrannical rule, which relies on fear and violent spectacle.
+
+The oration opens with a rhetorical device, recounting the legend of the Spartan lawgiver Lycurgus being addressed as a god by the Delphic oracle. Themistius uses this anecdote to question the conventional trappings of imperial power—military victory, opulent ceremony, and regalia—arguing that these alone do not confer true, god-like stature. Instead, he asserts that divine favor and lasting glory are earned through humanity and wisdom. The speech thus functions as a sophisticated piece of political counsel, advocating for a governance model rooted in Hellenic philosophical ideals, particularly Stoic and Platonic concepts of the philosopher-king, and adapted to the context of a Christian Roman empire. It promotes a vision of universal, virtue-based rule that prioritizes civilian administration, legal integration, and reconciliation following civil conflict. Preserved in full within the manuscript tradition of Themistius's works, the oration is regarded by modern scholars as a significant document of late antique political thought, illustrating how traditional Greek paideia was employed to advise and shape the public image of a Christian emperor.
+
 ## Text
 
 ### t 1

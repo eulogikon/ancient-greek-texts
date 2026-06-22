@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-ai` · [HTML page](https://eulogikon.org/works/hero-alexandria-measurements-odi-ai)
 
+On Measurements is a practical Greek mathematical treatise attributed to the engineer Hero of Alexandria, composed around 60 CE. It functions as a handbook for surveyors, architects, and builders, systematically providing formulas and methods for calculating the areas of plane figures and the volumes of solid shapes. A notable element is the inclusion of the formula known as Heron's formula for finding the area of a triangle from the lengths of its three sides. The work also covers practical matters such as land division and the conversion between different units of measurement, reflecting the applied needs of Roman administration and construction. The text is structured as a series of 82 concise passages. Its transmission to the modern era is complex; it was long known only through fragments and medieval Arabic translations until a significant Greek manuscript was identified in the late 19th century. Scholars debate its exact relationship to Hero's more theoretical work, the Metrica, with some viewing On Measurements as a version or epitome of that text. It is generally interpreted as a key synthesis, adapting abstract Greek geometry into straightforward computational rules for practical field use.
+
 ## Text
 
 ### 1 1 (t)

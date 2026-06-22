@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-au` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aristogeiton-2-fsm-au)
 
+Against Aristogeiton, Part 2 is a forensic oration delivered by the Athenian statesman Demosthenes around 325–324 BCE. It constitutes the second half of a legal prosecution against the politician Aristogeiton, formally charging him with the illegal act of proposing a decree while being a state debtor. The speech, comprising 23 sections, is a sustained rhetorical assault that methodically portrays Aristogeiton as a man of profound moral corruption and a direct threat to the civic order, seeking not merely a legal penalty but his complete public dishonor. Composed in the fraught aftermath of Athens's defeat by Macedon, the prosecution is widely interpreted by modern scholars as a politically motivated action, likely orchestrated by pro-Macedonian factions to neutralize a vocal anti-Macedonian opponent. The full text has been preserved within the medieval manuscript tradition of Demosthenes’ collected works. While considered a genuine speech of Demosthenes, its division from the oration known as Against Aristogeiton I is a later editorial convention rather than an original separation. As a prime specimen of Attic oratory, the speech offers significant insight into Athenian legal procedure, the nature of political conflict in the late classical period, and the potent role of character denigration in ancient courtroom rhetoric.
+
 ## Text
 
 ### Or26 1

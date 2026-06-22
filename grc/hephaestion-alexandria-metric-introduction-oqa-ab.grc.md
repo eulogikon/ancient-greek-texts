@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqa-ab` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-metric-introduction-oqa-ab)
 
+The Metric Introduction is a systematic treatise on Greek poetic meter composed in the 2nd century CE by the Alexandrian grammarian Hephaestion. Written as a comprehensive handbook, it methodically classifies the rhythmic components of Greek poetry, from individual metrical feet and cola to complete verse forms and strophic systems. Hephaestion organizes his material with clear didactic intent, progressing from fundamental principles to more complex metrical combinations. A defining feature of the work is its extensive use of illustrative quotations drawn from a broad spectrum of Greek poets, including Homer and numerous lyric and dramatic authors. These citations, provided to exemplify the rules under discussion, have preserved valuable fragments of many works otherwise lost to antiquity.
+
+The treatise survives in its complete form, transmitted through a substantial number of medieval manuscripts, a testament to its enduring role as a standard textbook within the Byzantine educational curriculum. As a product of the Alexandrian scholarly tradition, it synthesizes earlier metrical theory into a coherent and practical guide. Its primary purpose was pedagogical, aimed at advanced students and scholars to enable the correct analysis, recitation, and appreciation of Greek poetic rhythm. For over a millennium, it remained the definitive reference work on the subject, securing Hephaestion's authority in the field of ancient metrics.
+
 ## Text
 
 ### [20]

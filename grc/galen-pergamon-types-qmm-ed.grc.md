@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ed` · [HTML page](https://eulogikon.org/works/galen-pergamon-types-qmm-ed)
 
+_On Types_ is a medical treatise by the 2nd-century CE physician Galen of Pergamon. The work systematically examines the classification of febrile and other diseases according to their observable patterns or "types," focusing on the periodic intensification and remission of symptoms. Galen introduces the treatise as a clearer and more definitive account intended for those newly approaching the medical art, stating that a type is an order of intensification and remission, while a period is the duration of such intensification and remission occurring in diseases. He notes that while few conditions, like atrophy or paralysis, show no such patterning, and many do so only rarely, fevers most consistently exhibit types, with the exception of certain continuous or irregular forms. The text proceeds to delineate primary and secondary types, stationary and moving types, and simple versus compound types, using the tertian and quartan fevers as examples of primary types characterized by short intensification and long remission.
+
+The treatise exemplifies Galen's commitment to applying logical division and systematic categorization to medical phenomena, forming part of his broader diagnostic methodology. It survives within the extensive Galenic corpus, transmitted through Greek manuscripts from the Byzantine period and edited in the modern _Corpus Medicorum Graecorum_. As a component of Galen's authoritative oeuvre, _On Types_ contributed to the enduring methodological framework of Galenic medicine, its conceptual approach to classification persisting through Byzantine and Arabic scholarly traditions and maintaining influence in medical theory into the early modern era.
+
 ## Text
 
 ### 7 463 (t)

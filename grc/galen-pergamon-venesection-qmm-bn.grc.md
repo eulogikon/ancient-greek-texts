@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bn` · [HTML page](https://eulogikon.org/works/galen-pergamon-venesection-qmm-bn)
 
+_On Venesection against Erasistratus_ is a polemical medical treatise by Galen of Pergamon. It constitutes a detailed and systematic defense of the therapeutic practice of bloodletting, written to refute the objections of the Hellenistic physician Erasistratus of Ceos and his followers. The Erasistratean school attributed disease primarily to a pathological infiltration of blood into the arteries, a condition termed plethora, and advocated dietary restriction and starvation as the appropriate treatment. Galen’s treatise directly challenges this view, arguing instead that venesection is a necessary and powerful intervention for correcting humoral imbalances within the body. The work meticulously critiques Erasistratean physiology and therapeutics while appealing to the authority of earlier Hippocratic texts and the evidence of clinical observation. It thus frames a fundamental debate between Galen’s interventive approach, rooted in humoral theory, and the more conservative, dietary methodology of his rivals. The complete treatise is preserved in Greek within the Galenic corpus and appears in standard modern editions such as the Corpus Medicorum Graecorum and Karl Gottlob Kühn’s Claudii Galeni Opera Omnia. By successfully dismantling a major philosophical and practical challenge to bloodletting, this polemic was instrumental in establishing the procedure as a cornerstone of Western medical practice for centuries, simultaneously reinforcing Galen’s own authority as the definitive synthesizer of ancient medical tradition.
+
 ## Text
 
 ### 11 147 (t1)

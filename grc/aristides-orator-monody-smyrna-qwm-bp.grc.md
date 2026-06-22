@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bp` · [HTML page](https://eulogikon.org/works/aristides-orator-monody-smyrna-qwm-bp)
 
+The Monody on Smyrna is a formal prose lament composed by the orator Aelius Aristides in the late second century CE, following the catastrophic earthquake that destroyed the prominent city. A classic work of epideictic oratory from the Roman Imperial period, it channels communal grief into a highly artistic and rhythmic performance of public speech. The oration vividly personifies Smyrna, contrasting its legendary history and architectural splendor with the sudden totality of its ruin. Aristides employs emotional intensity and vivid imagery to depict the collapse of temples and public spaces, framing the disaster within the city's storied past, from mythical foundations to its status as a celebrated center of Hellenic culture.
+
+Scholars interpret the monody as serving multiple civic and rhetorical functions: to honor the dead, console the survivors, memorialize Smyrna's historical significance, and implicitly exhort its citizens toward reconstruction. It is believed to have been delivered before the civic community and the wider Greek-speaking elite, exemplifying the role of the orator as a public intellectual and moral guide during the era known as the Second Sophistic. The complete text survives within Aristides’ corpus of orations, preserved through medieval manuscripts. It remains a valuable historical record of the disaster and a studied model of ancient rhetorical lament, demonstrating the enduring power of formal speech to shape collective memory and response to catastrophe.
+
 ## Text
 
 ### [5]

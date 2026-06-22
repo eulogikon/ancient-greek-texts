@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bm` · [HTML page](https://eulogikon.org/works/menander-athens-dyscolus-hps-bm)
 
+Menander's Dyscolus, the sole play by its author to survive in a nearly complete form, is a foundational work of ancient Greek New Comedy. First performed in Athens in 316 BCE, where it won first prize at the Lenaean festival, the comedy centers on the young Athenian Sostratos and his infatuation with the daughter of Knemon, a profoundly misanthropic farmer living in rural Attica. The plot unfolds over five acts, detailing Sostratos's comedic efforts, aided by his clever slave and the girl's stepbrother Gorgias, to overcome the old man's hostility. A pivotal moment occurs when Knemon falls into a well and is rescued by those he has consistently spurned, an accident that leads to his reluctant softening and permits the play's romantic resolution.
+
+The work exemplifies the shift in comic drama from the political satire of Old Comedy to the domestic, character-driven stories of New Comedy, focusing on themes of love, social tension, and personal reformation. It explores the conflict between corrosive misanthropy and the bonds of community, while also highlighting the role of chance in human affairs. Like most of Menander's prolific output, the play was lost after antiquity and known only through fragments and later references until its dramatic rediscovery on a papyrus codex in Egypt in 1957. This papyrus, despite some damaged sections, preserves the complete plot and structure, offering the most complete window into Menander's influential art and the conventions of Hellenistic comedy.
+
 ## Text
 
 ### 1.1

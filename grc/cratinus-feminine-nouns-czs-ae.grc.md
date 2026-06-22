@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `czs-ae` · [HTML page](https://eulogikon.org/works/cratinus-feminine-nouns-czs-ae)
 
+The work conventionally titled On Feminine Noun Endings is a fragment from the lost comedies of the Athenian poet Cratinus, preserved not as a complete play but as a quotation within a later grammatical or lexicographical discussion. Active during the height of Old Comedy in the 5th century BCE, Cratinus was renowned for his vigorous style and pointed satire. The fragment itself illustrates a linguistic observation regarding the Ionian dialect's preference for certain feminine noun endings, citing as an example the poetic use of "Marathōn" in the feminine form. The lines quoted, which include the phrase "well-horsed Marathon," demonstrate how comic poetry could serve as a source for philological study in antiquity. This excerpt, like most surviving remnants of Cratinus's work, was preserved by later authors such as Athenaeus for its lexical interest, offering a narrow but valuable window into the poet's language and the scholarly traditions that kept his memory alive.
+
 ## Text
 
 ### book 179.1

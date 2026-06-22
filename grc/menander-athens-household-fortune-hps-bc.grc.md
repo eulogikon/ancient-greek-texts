@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bc` · [HTML page](https://eulogikon.org/works/menander-athens-household-fortune-hps-bc)
 
+The work known as Fragments on Household and Fortune is attributed to the Athenian playwright Menander, the leading figure of New Comedy. No specific play by this exact title is recorded within the known Menandrian corpus, which originally comprised over one hundred plays. Of these, only the Dyskolos survives in its complete form; the remainder are known through fragments preserved in later quotations by other authors and, more substantially, from papyrus discoveries in Egypt. The title therefore likely represents a modern thematic compilation of excerpts centered on the two interconnected concepts that define Menander's dramatic world: the domestic sphere and the role of chance.
+
+The content implied by the title focuses on the core preoccupations of New Comedy. This includes the intricate dynamics of the Athenian household, or oikos, encompassing family relationships, inheritance, and social standing. Equally central is the pervasive power of Fortune, or Tychē, in determining the twists of human life, often resolving complex personal and romantic entanglements. The fragments would typically explore these themes through scenarios involving romantic love, mistaken identity, and the ethical portrayal of recognizable character types, from clever slaves to stern fathers and young lovers.
+
+The transmission of Menander's work to the modern era occurred through two primary channels: quotations in later Greek and Roman authors and, most importantly, papyrus manuscripts recovered from Egypt, beginning significantly with the Cairo codex discovered in 1907. The specific compilation titled Fragments on Household and Fortune does not represent an ancient collection but is a product of modern editorial scholarship that groups relevant excerpts thematically. Menander's significance is profound; he refined comedy into a realistic drama of everyday life and private emotions. His plays, adapted by the Roman dramatists Plautus and Terence, became the foundational model for European comedy, ensuring the enduring literary legacy of his exploration of domestic affairs and the caprices of fortune.
+
 ## Text
 
 ### book 1.1

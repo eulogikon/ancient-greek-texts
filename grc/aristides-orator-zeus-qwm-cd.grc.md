@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-cd` · [HTML page](https://eulogikon.org/works/aristides-orator-zeus-qwm-cd)
 
+To Zeus is a prose hymn or sacred oration composed in the mid-2nd century CE by the Greek orator Aelius Aristides. Written in refined Attic Greek, this formal speech of praise systematically celebrates the supreme god Zeus, extolling his power, his role as the benevolent orderer of the cosmos, and his providential care for humanity. Structured as a concise encomium, the work unfolds across eight distinct passages. Aristides, a leading figure of the Second Sophistic movement that revived Classical Greek rhetoric, crafted this oration for public performance, blending sophisticated literary artistry with traditional religious piety. The text reflects the intellectual climate of its era, where philosophical currents from Middle Platonism and Stoicism informed contemporary conceptions of the divine, resulting in a portrait of Zeus that harmonizes personal divinity with abstract cosmic principle. The oration survives in its entirety through medieval manuscript transmission, primarily within the 13th-century Codex Laurentianus 60.3, which has preserved the work without significant textual loss.
+
 ## Text
 
 ### 1

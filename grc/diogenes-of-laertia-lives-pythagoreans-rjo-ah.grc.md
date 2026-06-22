@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ah` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-pythagoreans-rjo-ah)
 
+Book VIII gathers Pythagorean materials where biography and legend coexist with doctrinal report. The text is especially useful for tracing later reconstructions of Pythagorean identity, including author lists, attributed practices, and retrospective framing of authority.
+
 ## Text
 
 ### Vit.8.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ugo-aa` · [HTML page](https://eulogikon.org/works/eustochius-cappadocia-pantikapaion-ugo-aa)
 
+The oration On the City of Pantikapaion, attributed to Eustochius of Cappadocia, is a lost work known only by its title. It was an encomium dedicated to Pantikapaion, a major Greek colony and the capital of the Bosporan Kingdom located on the Crimean peninsula. As a formal speech of praise, it would have celebrated the city’s foundation, its advantageous position on the Black Sea, and its historical role as a prosperous cultural and economic bridge between the Greek and Scythian worlds. The work is recorded in the Bibliotheca of the ninth-century patriarch Photius, who listed it among Eustochius’s writings without providing any summary or excerpt. Its mention attests to the geographical reach of Greek rhetorical culture, which produced formal orations celebrating significant urban centers even on the periphery of the Hellenic world.
+
 ## Text
 
 ### 1

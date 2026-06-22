@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mrq-aa` · [HTML page](https://eulogikon.org/works/diodorus-tyre-goal-of-life-mrq-aa)
 
+The ethical treatise On the Goal of Life by the Peripatetic philosopher Diodorus of Tyre survives only in fragmentary form. Its central argument concerns the definition of the telos, or ultimate goal of human life, which Diodorus articulated as the virtuous activity of a complete life lived in accordance with nature, equating this with the rational selection of things according to nature. This formulation represents a deliberate synthesis, merging the core Aristotelian emphasis on virtue and a complete life with the characteristically Stoic concepts of living in accordance with nature and the rational exercise of choice, or eklogē. The work systematically developed this definition, exploring the relationship between virtuous activity and a natural life, while detailing the role of reason in selecting preferred indifferents, such as health and friendship. No continuous text of the treatise remains; our knowledge of it derives entirely from testimonia, most importantly from the biographical compilation of Diogenes Laertius. As a key document of Hellenistic Peripateticism, Diodorus's work signifies a formal and influential attempt within his school to engage with contemporary Stoic doctrine, securing his place in the recorded debates among the leaders of the Peripatetic tradition.
+
 ## Text
 
 ### 4h

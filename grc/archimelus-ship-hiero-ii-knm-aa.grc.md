@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `knm-aa` · [HTML page](https://eulogikon.org/works/archimelus-ship-hiero-ii-knm-aa)
 
+The Ship of Hiero II is a fragmentary Greek epigram by the poet Archimelus, composed in the 3rd century BCE for the court of Hiero II, tyrant of Syracuse. The poem celebrates the ruler's extraordinarily lavish pleasure barge, presenting it as a floating palace of technological marvel and opulent leisure. In surviving passages, the speaker marvels at the vessel's colossal scale and construction, comparing its timbers to the peaks of Mount Etna and its towering sides to the walls built by Giants. The description meticulously details the use of rare materials and the ship's immense anchors, said to be like those used by Xerxes to bridge the Hellespont. An inscription on the ship's stout shoulder reveals its patron: Hiero, son of Hierocles, the Dorian ruler of Sicily, who bestows rich gifts upon all Greece and its islands.
+
+Only part of the text survives today, preserved not as a continuous poem but as twelve prose passages quoted by the later writer Athenaeus in his work The Deipnosophists; the original verse structure is lost in these quotations. Modern scholars interpret the epigram as a celebration of royal power and patronage, designed to glorify Hiero's wealth and sophisticated taste. It is also viewed as a prime example of ekphrasis—vivid descriptive poetry—and of the Hellenistic fascination with luxury, or tryphē. The poet Archimelus is otherwise unknown and is attested solely through this citation by Athenaeus.
+
 ## Text
 
 ### book 202.1

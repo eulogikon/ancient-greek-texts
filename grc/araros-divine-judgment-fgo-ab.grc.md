@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fgo-ab` · [HTML page](https://eulogikon.org/works/araros-divine-judgment-fgo-ab)
 
+The Fragments on Divine Judgment is a modern scholarly designation for a collection of thirteen passages attributed to the 4th-century BCE comic poet Araros, the son of Aristophanes. As with all of his work, his comedies are lost, and these fragments survive only through quotations by later ancient authors such as Athenaeus and Hesychius. The content of these fragments, while not constituting a single coherent play, reflects themes consistent with Araros’s known lost comedies like Kampylion and Hymenaios. They exhibit the mythological parody of gods and heroes, social and religious satire, and ritual themes pertinent to Athenian cult that characterized his period. Historically, Araros is significant primarily as the son and literary executor of Aristophanes, responsible for producing his father's final plays. His surviving fragments offer valuable evidence for the stylistic and thematic evolution of Athenian comedy during its transition from the Old Comedy of the 5th century to the Middle Comedy of the 4th century BCE.
+
 ## Text
 
 ### book 1.1

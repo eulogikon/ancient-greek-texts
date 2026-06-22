@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tre-aa` · [HTML page](https://eulogikon.org/works/fables-trees-birds-heidelberg-222-tre-aa)
 
+Fragments P. Heidelberg 222, attributed to a collection known as the Fables of Trees and Birds, consists of 26 fragmentary passages preserved on a single papyrus. The work presents didactic fables composed in verse, employing the allegorical device of anthropomorphized trees and birds to deliver moral instruction and social commentary. The surviving text, which references myrtle, pine, and poplar trees among other elements, illustrates this technique, depicting flora and fauna engaged in narratives that convey ethical lessons. The papyrus was discovered in Egypt and is now held at the University of Heidelberg. Its fragmentary condition is characteristic of ancient texts preserved solely through archaeological means rather than continuous manuscript tradition. While the direct literary influence of this specific collection cannot be traced, it serves as a significant testament to the diversity and circulation of fable literature in the ancient world, a genre most famously associated with Aesop and one that profoundly shaped subsequent literary traditions across cultures.
+
 ## Text
 
 ### book 1.1

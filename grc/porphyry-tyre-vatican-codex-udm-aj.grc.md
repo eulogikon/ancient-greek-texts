@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-aj` · [HTML page](https://eulogikon.org/works/porphyry-tyre-vatican-codex-udm-aj)
 
+On the Vatican Codex is a lost philosophical and textual commentary by the Neoplatonist Porphyry of Tyre. Structured as a series of 88 passages or questions, the work addresses problematic sections within a specific manuscript of Plato's dialogues owned by Porphyry, known as the Vatican Codex. It combines textual criticism with philosophical exegesis to resolve difficulties in Plato's text, with significant attention given to the dialogue Timaeus. The treatise engages in comparing manuscript variants to establish correct readings, provides philosophical exegesis of difficult Platonic concepts, and offers grammatical and stylistic analysis of Plato's diction, often harmonizing passages with Neoplatonic metaphysics. The work is lost and survives only fragmentarily. Its contents are known almost exclusively through extensive quotations and paraphrases in Proclus's fifth-century commentary on Plato's Timaeus, where Porphyry's solutions are frequently cited and critiqued. On the Vatican Codex was a key reference for later Neoplatonists; Proclus's detailed engagement demonstrates its importance, and through his work, Porphyry's textual and interpretive notes influenced subsequent readings of Plato. It stands as a prime example of the late antique scholarly commentary tradition.
+
 ## Text
 
 ### 281 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rmg-aa` · [HTML page](https://eulogikon.org/works/quadratus-parthica-fragments-rmg-aa)
 
+The Parthica was a historical work in Greek by the third-century CE Roman senator Gaius Asinius Quadratus, now lost and known only through approximately thirty fragments. Likely a history of Rome's conflicts with the Parthian Empire in nine books, it was distinguished by its deliberate use of an archaic, Herodotean literary style. The surviving fragments, preserved primarily by the sixth-century historian Agathias and the tenth-century Byzantine encyclopedia known as the Suda, indicate the work's central subject was the Roman-Parthian wars. Additional fragments appear in the works of John Tzetzes and the Etymologicum Magnum. The extant content includes geographical and ethnographic details, such as descriptions of peoples like the Mauri in Libya and the Otaeni in Armenia, as well as locations including a village named Tarsa on the Euphrates River. One notable fragment provides an etiological explanation for the name "Europe," derived from the mythological Europa. Cited by later historians, the Parthica is a key example of third-century Greek historiography composed by a Roman author. It illustrates the persistence of classicizing Greek historical writing during the Imperial period and provides fragmentary evidence for Roman perspectives on Eastern conflicts.
+
 ## Text
 
 ### t1-21

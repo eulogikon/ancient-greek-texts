@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ppu-ab` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-olympia-pythia-ppu-ab)
 
+The Scholia and Glosses on the Olympian and Pythian Odes constitutes a vast corpus of ancient and medieval explanatory notes on the victory odes of the poet Pindar. It is not a unified composition but a cumulative compilation, with layers of commentary accrued from the Hellenistic period beginning in the third century BCE through the Byzantine era. These annotations, written in Greek, encompass both extensive discursive comments, known as scholia, and brief lexical definitions, or glosses. They were transmitted in the margins and interlinear spaces of medieval manuscripts containing Pindar's text.
+
+The collection functions as an indispensable exegetical guide to Pindar's notoriously dense and allusive poetry. The scholia elucidate his complex syntax and Doric dialect, identify the mythological and historical figures he references, and explicate the contexts of the ancient athletic festivals his odes commemorate. The glosses concentrate specifically on parsing his archaic and specialized vocabulary. Modern scholarship views this body of work as a critical pedagogical instrument, likely assembled to aid students and scholars of the Byzantine period in navigating a formidable classical author. Furthermore, it preserves valuable fragments of otherwise lost ancient scholarship originating from major intellectual centers such as Alexandria.
+
+The scholia and glosses survive not as an independent work but embedded within the manuscript tradition of Pindar's odes themselves. The most significant witness is a tenth-century Byzantine manuscript. The notes extant today are considered heavily condensed epitomes of far more extensive, now-lost commentaries from antiquity, having been successively copied, abbreviated, and reorganized over many centuries.
+
 ## Text
 
 ### sch metr t

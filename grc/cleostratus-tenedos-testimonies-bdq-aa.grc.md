@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bdq-aa` · [HTML page](https://eulogikon.org/works/cleostratus-tenedos-testimonies-bdq-aa)
 
+The Testimonies of Cleostratus of Tenedos is a modern compilation of ancient reports concerning the doctrines of this early Greek astronomer. Cleostratus, active in the sixth century BCE, is a significant figure for his role in transmitting Mesopotamian astronomical knowledge into the Greek world. His principal contributions, as recorded by later authors, were the introduction of the eight-year calendrical cycle known as the octaeteris and the zodiacal constellations. The surviving testimonia, notably from writers such as Geminus, Aëtius, Pliny the Elder, and the Suda, credit him with establishing the octaeteris to harmonize lunar months with the solar year, a reform that influenced Greek civic and religious calendars for scheduling festivals. He is also cited for his work in determining solstices and for introducing specific zodiacal signs, including Aries and Sagittarius, into Greek astronomy. Although his original writings are lost, these fragments, collected in modern editions like Diels and Kranz’s Die Fragmente der Vorsokratiker, highlight his critical function in the cross-cultural adaptation of science. The octaeteris, though later supplanted by the more accurate Metonic cycle, remained in long-term use, and his transmission of the zodiac provided a foundational element for the subsequent development of Hellenistic astronomy and astrology.
+
 ## Text
 
 ### 1275 001.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-bh` · [HTML page](https://eulogikon.org/works/menander-athens-misumenus-hps-bh)
 
+Misumenus (The Hated Man) is a comedy by the Athenian playwright Menander, composed around 300 BCE. Written in verse and belonging to the Hellenistic genre of New Comedy, the play focuses on domestic and romantic entanglements. Its text survives only in part, reconstructed from 352 fragments preserved on ancient papyri. The plot revolves around the soldier Thrasonides, who is hopelessly in love with Crateia, a captive woman residing in his household. The central irony derives from Thrasonides’ belief that Crateia despises him, which gives the play its title, while in reality she returns his affection. Her feelings are constrained by an oath forbidding her to marry the man responsible for her brother’s death. This misunderstanding propels a narrative involving mistaken identity and culminates in a recognition scene that resolves the conflict, presumably leading to marriage. Modern scholarship has noted the ethical dimension of Thrasonides’ character; his refusal to compel Crateia’s affection, despite his power over her, presents a nuanced exploration within the conventional “lovesick soldier” archetype. The play was originally intended for performance at public festivals in Athens. Like most of Menander’s works, it was lost for centuries and is known today primarily through papyrus discoveries, most significantly a codex from the 4th or 5th century CE known as the Papyrus Didotiana. These fragments provide a substantial, though incomplete, window into the original comedy.
+
 ## Text
 
 ### a1

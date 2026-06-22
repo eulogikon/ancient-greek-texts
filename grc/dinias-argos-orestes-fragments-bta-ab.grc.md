@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bta-ab` · [HTML page](https://eulogikon.org/works/dinias-argos-orestes-fragments-bta-ab)
 
+Fragments on the Orestes Myth is a lost prose work by Dinias of Argos, a local historian or mythographer. The text is known only through two brief fragments preserved by later authors, which offer glimpses into Argive traditions concerning the hero Orestes. The first fragment, recorded by the travel writer Pausanias in his Description of Greece, recounts an Argive ritual. It states that after Orestes was purified of his matricide in Athens, he cut his hair as an offering at a spring in Argos known as Kallirrhoe or the Waters of Freedom. According to the tradition preserved by Dinias, a lock of this hair was subsequently kept in the temple of Hera Antheia. The second fragment survives in the grammatical treatise of Herodian, On Peculiar Diction. It provides an etymological explanation for an Argive epithet of Orestes, Aletes, interpreting it to mean Wanderer. These fragments indicate that Dinias compiled local Argive legends and etymologies connected to the myth of Orestes. As a work of Argive local history, it represents a regional variant within the broader Panhellenic Orestes cycle, asserting the city's own claims and prestige in the story. Though the original text is lost, its details entered wider antiquarian and grammatical scholarship through the quotations in Pausanias and Herodian, illustrating the rich diversity of Greek mythological tradition as maintained by local historians. The fragments are cataloged under number 306 in Felix Jacoby's definitive collection, Die Fragmente der griechischen Historiker.
+
 ## Text
 
 ### 3bis.(l1)

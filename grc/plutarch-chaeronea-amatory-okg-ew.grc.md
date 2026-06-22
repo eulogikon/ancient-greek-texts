@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ew` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-amatory-okg-ew)
 
+Plutarch’s Amatory is a philosophical dialogue composed in Attic Greek, likely in the late first or early second century CE. Presented as a recollection narrated by Plutarch to a friend, the work recounts a debate he witnessed in his youth during a festival at Thespiae. The dramatic catalyst is a love affair between a young widow, Ismenodora, and a youth named Bacchon. This situation provokes a contest of speeches between older male advocates of traditional Greek pederastic love and supporters of the heterosexual, marital union that Ismenodora desires. The dialogue proceeds through a series of rhetorical set pieces before culminating in an extensive discourse delivered by Plutarch’s teacher, Ammonius, who argues systematically for the superiority of married love. The complete text is preserved within Plutarch’s Moralia and has been transmitted through medieval manuscripts without major lacunae.
+
+Scholarly interpretation regards the Amatory as a conscious reworking of Platonic erotic philosophy for an educated Greco-Roman readership. The dialogue is seen to reflect the cultural values of the High Roman Empire, promoting married, heterosexual love as a divine force that cultivates virtue and philosophical friendship. This represents a notable evolution from classical Athenian models, advancing an ethical framework that integrates women into the sphere of philosophical life and elevates the conjugal bond as a path to moral excellence.
+
 ## Text
 
 ### 748 E

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-be` · [HTML page](https://eulogikon.org/works/isocrates-athens-philip-ffu-be)
 
+The Philip, also known as To Philip, is a political oration composed in 346 BCE by the Athenian rhetorician Isocrates. Though formally structured as a speech, it was written as an elaborate open letter intended for publication and broad dissemination. The work, comprising 100 sections in Attic Greek, is a direct address to Philip II, king of Macedon. In it, Isocrates presents an ambitious proposal for the king to reconcile the perpetually warring Greek city-states and assume leadership of a unified Panhellenic military expedition against the Persian Empire. The orator argues that such a campaign would secure Philip immortal glory, ensure lasting prosperity for Greece, and achieve the liberation of Greek cities in Asia Minor.
+
+The oration survives complete, transmitted through medieval manuscripts within the corpus of Isocrates' works. Its composition followed the Peace of Philocrates, which concluded hostilities between Athens and Macedon. Isocrates, then approximately ninety years old and disillusioned by the internal strife of Athenian politics, identified the powerful Macedonian monarch as the sole figure capable of achieving genuine Greek unity, or homonoia. Scholars regard the Philip as a seminal document of fourth-century political thought, illustrating a growing intellectual trend that favored strong monarchical leadership over the traditional, fractious polis system. While Philip himself never enacted the specific plan outlined by Isocrates, the core vision of a consolidated Greek campaign against Persia was later realized on a monumental scale by his son, Alexander the Great.
+
 ## Text
 
 ### Philip t

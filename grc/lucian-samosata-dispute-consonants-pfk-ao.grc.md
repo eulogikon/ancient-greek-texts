@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ao` · [HTML page](https://eulogikon.org/works/lucian-samosata-dispute-consonants-pfk-ao)
 
+The Dispute of the Consonants is a satirical oration by the 2nd-century CE author Lucian of Samosata. Presented as a mock-forensic speech, the work personifies the Greek letters Sigma and Tau, placing them in a legal dispute before a jury composed of the seven vowels. Sigma brings a formal indictment against Tau, accusing it of violent usurpation and theft, specifically for wrongfully appropriating and replacing Sigma in the spelling of numerous double-consonant words. The speech unfolds as Sigma’s plea to the court, detailing the grievances of being systematically displaced from its proper linguistic territory and arguing that Tau’s encroachments threaten to render Sigma obsolete.
+
+A product of the Second Sophistic, a period marked by sophisticated rhetorical play and Atticist revival, the piece functions as a witty parody of legal oratory. Lucian employs the elaborate conventions of Athenian courtroom procedure—the setting of a specific archonship, formal charges, and rhetorical appeals to the judges—for a purely fantastical and grammatical subject. The work showcases his characteristic blend of humor and intellectual critique, using the absurd premise to satirize both pedantic grammatical debates and the solemn pomposity of contemporary rhetorical exercises. While primarily a comic tour de force, the oration also reflects a deeper interest in language, its rules, and its potential for manipulation, themes consistent with Lucian’s broader literary project. The text survives in the manuscript tradition of Lucian’s complete works.
+
 ## Text
 
 ### Jud Voc t

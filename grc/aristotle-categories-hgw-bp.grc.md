@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bp` · [HTML page](https://eulogikon.org/works/aristotle-categories-hgw-bp)
 
+Aristotle's Categories is a foundational philosophical treatise from the 4th century BCE. As the first text in his logical collection known as the Organon, it systematically analyzes the basic ways in which language and reality correspond. The work begins by distinguishing between homonyms, synonyms, and paronyms—terms that share a name but differ in definition, share both name and definition, or are derived from a common root, respectively. It then establishes a fundamental distinction between things said with combination, such as propositions, and things said without combination, which are simple terms. The treatise's core is its presentation of ten ultimate classes or categories of being: Substance, Quantity, Quality, Relation, Place, Time, Position, State, Action, and Affection. Within this scheme, Aristotle argues that individual concrete entities, termed primary substances, are the fundamental realities upon which all other categories depend as predicates or attributes. The work concludes by examining related concepts such as opposition, priority, simultaneity, and change.
+
+Transmitted completely through a rich medieval manuscript tradition that included translations into Syriac, Arabic, and Latin, the Categories is generally accepted by scholars as a genuine work from Aristotle's teaching period at the Lyceum in Athens, likely intended as a pedagogical tool for training in precise logical analysis. Its framework, which grounds reality in particular substances rather than abstract universal forms, is often interpreted as a critical engagement with Platonic metaphysics. The treatise became the cornerstone of logical and metaphysical education for over a millennium, profoundly shaping the development of Neoplatonic, Islamic, and medieval Scholastic thought and establishing the basic vocabulary for Western philosophical discussions of predication, essence, and accident.
+
 ## Text
 
 ### Cat 1a (t)

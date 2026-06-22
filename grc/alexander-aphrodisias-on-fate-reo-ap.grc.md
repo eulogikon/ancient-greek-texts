@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-ap` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-on-fate-reo-ap)
 
+On Fate is a philosophical treatise composed in Greek by Alexander of Aphrodisias, the preeminent Aristotelian commentator of the late second and early third centuries CE. Dedicated to the Roman emperors Septimius Severus and Caracalla, the work presents a systematic, forty-nine-part critique of the Stoic doctrine of a deterministic and all-encompassing fate. Writing from his official position as the publicly appointed teacher of Aristotelian philosophy in Athens, Alexander seeks to defend and clarify the Peripatetic position on human agency. He argues that a coherent concept of moral responsibility, encapsulated in the principle that certain actions are "in our power," is compatible with a natural order of causes but is rendered impossible by the Stoic model of an unbreakable, unbreakable chain of predetermined events. For Alexander, the Stoic conception of fate would nullify the ethical foundations of praise and blame. The treatise, which survives complete in Greek primarily through a ninth-century manuscript, stands as Alexander's most significant original philosophical contribution. It serves as a vital source for reconstructing the intense debates between Stoics and Aristotelians during the Roman Imperial period. Its sophisticated analysis of causality, responsibility, and determinism later exerted considerable influence on Neoplatonic thought and medieval Islamic philosophy, and its arguments continue to resonate in contemporary philosophical discussions of free will.
+
 ## Text
 
 ### Fat.164.(1t)

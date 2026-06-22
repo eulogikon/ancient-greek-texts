@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-ao` · [HTML page](https://eulogikon.org/works/aesop-epigrams-aqo-ao)
 
+The Epigram is a brief verse composition traditionally ascribed to the semi-legendary fabulist Aesop. This attribution is part of a broader later tradition of attaching concise, moralizing poetic works to his name. The piece survives in six attested passages, and its thematic content is consistent with the wider Aesopic corpus. It presents a stark meditation on the human condition, contrasting the natural beauty of the earth, sea, stars, and celestial bodies with the pervasive sorrows, fears, and pains that define mortal existence. The poem questions how one might escape life without death, lamenting that its afflictions are both inescapable and unbearable, and observes that any good fortune is inevitably met with retaliatory misfortune.
+
+Transmitted orally before being incorporated into written collections such as the Aesopica, its preservation relies on its inclusion in these anthologies and citations by later authors. As a verse attributed to Aesop, it contributes to the tradition of Greek epigrammatic poetry and exemplifies the enduring influence of the Aesopic corpus, which played a foundational role in ancient education and later profoundly influenced fabulists including Phaedrus and Jean de La Fontaine.
+
 ## Text
 
 ### book 123.1.1

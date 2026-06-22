@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ami-aa` · [HTML page](https://eulogikon.org/works/mimnermus-colophon-envy-praise-ami-aa)
 
+The work conventionally titled On Human Envy and Praise comprises three fragmentary passages of elegiac poetry attributed to the archaic Greek poet Mimnermus of Colophon. Preserved through quotation by the later anthologist Stobaeus, these fragments explore the brevity of human life and the primacy of pleasure, themes central to Mimnermus's poetic oeuvre. The verses articulate a profound awareness of mortality, contrasting a long, painful existence with a short, joyful one and championing the consolations of youth, love, and Aphrodite against life's inherent suffering. This perspective implicitly challenges traditional heroic values by emphasizing the quality of life over its mere duration, with a particular focus on the inevitable decline of old age. The poetry survives only in these fragments, transmitted almost exclusively via Stobaeus's fifth-century CE anthology; like all of Mimnermus's extant work, it lacks an independent manuscript tradition and is standardly collected in modern critical editions. Mimnermus was highly regarded in antiquity as a master of elegiac verse, and his melancholic, erotic tone influenced later Greek lyric poets as well as Roman elegists such as Propertius. His treatment of life's transience, including the enduring simile comparing generations of humans to leaves, became a foundational literary trope.
+
 ## Text
 
 ### book 1.1

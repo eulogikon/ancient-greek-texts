@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-cc` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-washing-cadmia-tyc-cc)
 
+The Washing of Cadmia is a brief alchemical treatise composed in Koine Greek by Zosimus of Panopolis, an author active around 300 CE. It presents a focused, practical recipe detailing a laboratory procedure for purifying a substance known as cadmia. In ancient technical vocabulary, this term generally denoted a zinc-based ore or metallurgical byproduct. The text methodically outlines the steps of grinding, washing, and drying the material to prepare it for subsequent alchemical operations, such as metal dyeing or alloying. Functioning as a concise technical note, it emphasizes empirical process over theoretical exposition.
+
+Zosimus produced his works in Panopolis, Egypt, a significant hub for alchemical and hermetic thought during late antiquity. While his broader corpus often interweaves Greek philosophical concepts, Egyptian craft traditions, and spiritual symbolism, the Washing of Cadmia is distinctly practical in nature. It was intended for workshop practitioners already versed in the standard equipment and foundational processes of the craft. As such, the treatise exemplifies the material and experimental dimension of late antique alchemy, which sought to perfect natural processes like the coloration and transformation of metals.
+
+The work survives as an integral component of the larger Greek alchemical corpus preserved in Byzantine manuscripts, where it is transmitted alongside other writings attributed to Zosimus and later alchemists. Modern scholarship regards it as an authentic specimen of the procedural knowledge that formed the practical foundation for the more speculative and mystical strands of alchemical thought. It provides a clear window into the hands-on craft traditions that would significantly influence later medieval and Byzantine alchemical practice.
+
 ## Text
 
 ### 1

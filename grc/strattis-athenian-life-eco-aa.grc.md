@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eco-aa` · [HTML page](https://eulogikon.org/works/strattis-athenian-life-eco-aa)
 
+The Fragments on Athenian Life is a modern scholarly compilation of 131 passages from the lost comedies of Strattis, an Athenian poet of Old Comedy active in the late fifth and early fourth centuries BCE. These fragments, drawn from citations by later authors and from papyrus discoveries, constitute the surviving remnants of his dramatic output. They reveal a comic poet engaged in the characteristic modes of his genre, including mythological parody, as suggested by play titles like Anthroporestes and Medea, and pointed literary satire, particularly directed at tragedians such as Euripides. A significant portion of the fragments, often preserved because they were quoted by Athenaeus of Naucratis in his Deipnosophistae, consists of social commentary and vivid descriptions of Athenian daily life, food, and drink. No complete play by Strattis survives; the fragments are transmitted almost exclusively through quotation in later Greek authors, most prominently Athenaeus, who cites him over seventy times, and in the works of ancient lexicographers. They are collected in modern standard editions such as Poetae Comici Graeci. While Strattis’s direct literary influence is negligible, his fragments hold considerable value for the historical reconstruction of Athenian comedy. They illustrate the thematic breadth of Old Comedy beyond the corpus of complete surviving plays and provide evidence for tracing the genre’s evolution during a period of significant transition.
+
 ## Text
 
 ### book 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `slq-aa` · [HTML page](https://eulogikon.org/works/timaeus-sophist-lexicon-slq-aa)
 
+The Platonic Lexicon is a glossary of words and phrases drawn from the dialogues of Plato, attributed to the grammarian Timaeus the Sophist, a figure of uncertain date and biography. The work consists of ninety-nine alphabetically ordered entries, each providing definitions and citations to specific Platonic dialogues. It systematically explains Platonic vocabulary, encompassing both specialized philosophical terms and rare or archaic words, with a clear focus on educational utility for students seeking to interpret Plato’s complex language. The complete text survives primarily in the 10th- or 11th-century manuscript known as the Codex Coislinianus 345 and was first printed in the 1513 Aldine edition of Plato. Its authorship and precise date of composition remain subjects of scholarly debate, with proposed timelines ranging from the 1st century BCE to the 2nd century CE or later. As a key witness to the ancient scholarly reception of Plato, the lexicon highlights which terms required explanation for later readers and contributed significantly to the tradition of Platonic commentary. It remains an important source for understanding ancient interpretations of Plato’s thought and for noting variant textual readings in the manuscript tradition.
+
 ## Text
 
 ### epist 971a (t1)

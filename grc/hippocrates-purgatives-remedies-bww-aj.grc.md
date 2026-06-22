@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-aj` · [HTML page](https://eulogikon.org/works/hippocrates-purgatives-remedies-bww-aj)
 
+On Purgatives is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works attributed to Hippocrates and his followers. Composed in the Ionic Greek dialect typical of scientific writing, this practical handbook is devoted to the use of drugs to induce purging. Its content is structured around three principal passages that detail specific purgative remedies, their methods of preparation, and guidelines for their administration, embodying the empirical and treatment-oriented approach characteristic of much Hippocratic medicine.
+
+The treatise was likely written in the 5th or 4th century BCE, during a formative period when Greek medicine was increasingly seeking systematic, naturalistic explanations for disease. Its detailed focus on purging is understood by modern scholars as a practical application of humoral theory, the foundational concept that health depends on a proper balance of the body's key fluids. The text appears designed as a direct manual for practicing physicians or medical students. Preserved through medieval manuscript traditions after being gathered into the great library collections of Alexandria, On Purgatives survives in its entirety in modern critical editions.
+
 ## Text
 
 ### [45]

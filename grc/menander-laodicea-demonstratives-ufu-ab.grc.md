@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ufu-ab` · [HTML page](https://eulogikon.org/works/menander-laodicea-demonstratives-ufu-ab)
 
+On Demonstratives is a rhetorical treatise from the late 3rd century CE, attributed to the Greek teacher Menander of Laodicea, commonly known as Menander Rhetor. Composed in Attic Greek during the Roman Imperial period, this practical handbook systematically details the art of epideictic oratory, the formal branch of rhetoric concerned with speeches of praise and blame for public ceremonies. It provides model outlines and compositional rules for specific oratorical genres, including imperial panegyrics, wedding addresses, funeral orations, and speeches in honor of cities or harbors. Organized into 78 sections, the work offers schemas for arrangement and standard topics, reflecting the highly formalized rhetorical education of its era. Modern scholars interpret the handbook as an advanced textbook for students and professional orators, designed to aid in the production of effective speeches for the numerous civic and imperial rituals of late antiquity. It is believed to have been written for immediate practical use in the rhetorical schools of the Eastern Mediterranean. The text survives as part of a larger corpus attributed to Menander, transmitted through medieval manuscripts. While the treatise is extant, its precise form is that of a collection of precepts and models, and its relationship to other works ascribed to the same author remains a subject of scholarly discussion.
+
 ## Text
 
 ### 368 (1t)

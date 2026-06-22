@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fci-ad` · [HTML page](https://eulogikon.org/works/hypereides-athenogenes-fci-ad)
 
+Against Athenogenes is a forensic oration composed by the Athenian logographer Hypereides, likely between 330 and 324 BCE. Delivered in a private lawsuit, the speech was written for a client named Epicrates, who brought a case against a resident alien, Athenogenes. The dispute centered on the sale of a perfume business, which included three enslaved individuals. Epicrates alleged that Athenogenes had fraudulently concealed substantial debts attached to the enterprise, transferring crippling liabilities along with the assets. Hypereides constructs his argument by weaving together technical legal points regarding contractual fraud and misrepresentation with a compelling narrative and pointed emotional appeals. The orator strategically contrasts the character of the Athenian citizen plaintiff with that of the foreign defendant, a rhetorical technique designed to elicit sympathy and sway the jury.
+
+The text survives only in a fragmentary state, preserved on a papyrus roll from the second century CE discovered at Oxyrhynchus in Egypt. This source, comprising approximately thirty columns, lacks both its opening and concluding sections. Despite its incomplete condition, the speech is regarded by modern scholars as an invaluable document. It offers critical insight into the practical application of Athenian commercial law, particularly regarding the complexities of sale, contract, and financial liability. Furthermore, it serves as a prime example of professional logography, illustrating the sophisticated rhetorical strategies employed in Athenian courts, and provides a vivid glimpse into the social and economic relations of the period.
+
 ## Text
 
 ### Eux Ar t

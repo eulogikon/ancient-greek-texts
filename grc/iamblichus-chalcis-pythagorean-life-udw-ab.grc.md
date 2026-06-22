@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udw-ab` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-pythagorean-life-udw-ab)
 
+The Discourse on the Pythagorean Life is a philosophical biography composed in Greek circa 300 CE by Iamblichus of Chalcis, a seminal figure in the Neoplatonic tradition. It constitutes the initial and most extensive section of his ten-part compendium, On the Pythagorean School. Organized into 278 thematic chapters, the treatise transcends conventional historical biography to present the life and doctrines of Pythagoras as an exemplary and inspirational paradigm for philosophical living. It systematically narrates Pythagoras’s divine origin, his extensive education in the wisdom traditions of Egypt and Babylon, and his subsequent foundation of a secretive, ascetic community in the Italian city of Croton. The work meticulously details this community's rigorous code of conduct, its daily rituals, and its hierarchical organization, culminating in an account of its violent suppression, thereby casting the Pythagoreans in the role of philosophical martyrs.
+
+Scholarly analysis characterizes the text as a work of philosophical hagiography, akin to a saint's life. It is widely interpreted as a deliberate effort to defend and systematize pagan religious and philosophical tradition in response to the growing influence of Christianity, positioning Pythagoreanism as the divinely inspired source from which all genuine philosophy, particularly Platonism, ultimately derived. Its primary audience was presumably the students within Iamblichus's own school, whom he aimed to exhort toward a life of spiritual purification and intellectual discipline. The text survives in its complete form and is the best-preserved of Iamblichus's writings, transmitted through a tradition of medieval Greek manuscripts. It served as the principal source for the legendary and theological conception of Pythagoras, exerting a profound influence on subsequent Neoplatonic philosophers, Renaissance humanists, and various esoteric traditions for centuries thereafter.
+
 ## Text
 
 ### Vit Pyth Index t

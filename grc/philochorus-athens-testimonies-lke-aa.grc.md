@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lke-aa` · [HTML page](https://eulogikon.org/works/philochorus-athens-testimonies-lke-aa)
 
+The Testimonies is a fragmentary reference work by the Athenian historian Philochorus, composed in the early Hellenistic period. Unlike a narrative history, it functioned as a collection of individual reports and attested facts pertaining to Athenian institutions, religious practices, and historical events. Its entries, which covered subjects such as the sacred ship Paralos and the judicial appeal process known as ephesis, were compiled from documentary and literary sources to serve as an authoritative resource for scholars and orators. The work survives only in eight quotations preserved within later Roman lexicographical texts and scholia, rendering its original scope and full contents unknown. Modern scholarship interprets the Testimonies as part of Philochorus's systematic antiquarian project to record and elucidate the traditions, laws, and cultic life of Athens for a contemporary educated audience.
+
 ## Text
 
 ### 3b,328,T 1

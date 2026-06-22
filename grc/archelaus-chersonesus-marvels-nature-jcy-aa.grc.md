@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jcy-aa` · [HTML page](https://eulogikon.org/works/archelaus-chersonesus-marvels-nature-jcy-aa)
 
+The paradoxographical work On Marvels of Nature is attributed to Archelaus of Chersonesus in Egypt. Known only from fragments, it is a collection of remarkable natural and ethnographic phenomena. The 10th-century Suda lexicon lists Archelaus as the author of a work On Marvels in three books, which likely corresponds to this title. Based on the conventions of the paradoxography genre, the work’s content would have included descriptions of extraordinary natural phenomena and unusual animals, accounts of strange customs or physical traits of foreign peoples, and mentions of unique geographical locations with remarkable properties. The text is lost and survives only as testimonia, with its primary record being the entry in the Suda. Its fragmentary state means its full scope and exact sources are unknown. The work represents the Hellenistic and early Roman tradition of cataloging wonders for encyclopedic and rhetorical purposes. Such paradoxographical compilations contributed to a long literary tradition that influenced later Byzantine scholarship and medieval European books of marvels.
+
 ## Text
 
 ### 125

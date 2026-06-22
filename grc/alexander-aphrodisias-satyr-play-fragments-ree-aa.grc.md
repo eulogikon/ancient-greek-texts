@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ree-aa` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-satyr-play-fragments-ree-aa)
 
+Fragments on a Satyr Play is a philosophical treatise attributed to Alexander of Aphrodisias. The work survives only as a collection of four fragments preserved within the scholia on Aristotle’s Nicomachean Ethics in a single 10th-century manuscript, Parisinus Graecus 1854. These fragments comment on a satyr play to elucidate Aristotle’s ethical distinction between practical wisdom and mere cleverness. The content focuses on the application of literary criticism, specifically dramatic analysis, for philosophical exegesis, interpreting dramatic character and motivation as a model for ethical reasoning. The original treatise is lost, and the fragments survive only as incidental quotations within the scholia of an anonymous commentator on Aristotle’s text. Their significance lies in exemplifying Alexander’s interpretive method, demonstrating his use of literary examples to clarify Aristotelian doctrine. They provide a valuable glimpse into his lost commentaries and underscore his foundational role in the Peripatetic tradition, which later influenced Byzantine, Islamic, and Latin Aristotelianism.
+
 ## Text
 
 ### 3

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lsg-aa` · [HTML page](https://eulogikon.org/works/biton-war-machines-catapults-lsg-aa)
 
+Constructions of War Machines and Catapults is a Hellenistic technical treatise on military engineering, composed in Greek by Biton and dedicated to King Attalus I of Pergamon around the 2nd century BCE. The work catalogs seven advanced military devices: five stone-throwing catapults, a covered battering ram, and a large siege ladder. Each of the ten descriptive sections attributes an invention to a renowned historical engineer, such as Zopyrus of Tarentum or Diades, and connects it to a royal patron like Alexander the Great or Ptolemy II. The text provides meticulous specifications for dimensions, materials, and assembly. Modern scholarship generally interprets the treatise not as a practical construction manual but as a demonstration of technical erudition, compiled to illustrate the prestigious patronage relationship between engineers and Hellenistic monarchs; some descriptions are considered to contain theoretical or impractical elements. The work survives complete through a single known source, the 10th-century Byzantine Codex Parisinus graecus 2442. It remains a significant, though sometimes contested, source for the study of Hellenistic military technology and the culture of mechanical innovation.
+
 ## Text
 
 ## ΒΙΤΩΝΟΣ ΚΑΤΑΣΚΕΥΑΙ ΠΟΛΕΜΙΚΩΝ ΟΡΓΑΝΩΝ ΚΑΙ ΚΑΤΑΠΑΛΤΙΚΩΝ Λιθοβόλου ὀργάνου κατασκευὴν ἐπιβέβλημαι γράψαι, ὦ Ἄτταλε βασιλεῦ· καὶ μὴ σκώψῃς, εἴ τινα ἑτέραν αὐτοῦ εἰς ὑπόθεσιν πίπτοντα τυγχάνει ὄργανα, .

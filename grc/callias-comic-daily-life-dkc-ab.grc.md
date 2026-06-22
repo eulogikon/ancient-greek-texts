@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dkc-ab` · [HTML page](https://eulogikon.org/works/callias-comic-daily-life-dkc-ab)
 
+Fragments on Daily Life is a modern compilation of nineteen fragmentary passages attributed to the Athenian comic poet Callias, a rival of Cratinus active in the fifth century BCE. The fragments are not excerpts from a single, attested ancient work but are gleaned from his lost comedies, such as Cyclopes and Pedetae, preserved through quotation by later authors. They offer brief glimpses into the social and domestic realities of Classical Athens, consistent with the genre of Old Comedy’s focus on contemporary life. The content addresses themes characteristic of the form, including social satire of contemporary manners, fashions, and culinary habits, depictions of domestic life and household economics, and parody of intellectual trends. The latter is suggested by the playful use of language in fragments from his play Grammatike Theoria, or The Show of Letters. Callias’s works survive only in these fragments, cited by later grammarians, lexicographers, and authors such as Athenaeus in his Deipnosophistae and the Byzantine encyclopedia Suda; there is no continuous manuscript tradition for his plays. Though a minor figure, Callias’s fragments contribute to the understanding of the broader landscape of Old Comedy beyond its major exponents like Aristophanes. They provide valuable evidence for Athenian cultural history, linguistics, and the intensely competitive nature of fifth-century Athenian dramatic festivals.
+
 ## Text
 
 ### book 1

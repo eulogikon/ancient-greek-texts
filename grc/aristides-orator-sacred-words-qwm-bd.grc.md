@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bd` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bd)
 
+The Sacred Words Fourth is an autobiographical oration by the second-century CE Roman orator Aelius Aristides. It forms the fourth installment in a series of six prose works collectively known as the Sacred Tales, which blend personal memoir, religious devotion, and detailed medical history. Composed in Attic Greek, the text comprises twenty-six passages chronicling the author’s experiences during a widespread plague, most likely the Antonine Plague that began around 165 CE. A chronic invalid, Aristides narrates the dreams, visions, and precise therapeutic instructions he received from the god Asclepius. These divine prescriptions often involved unconventional treatments, such as cold baths or rigorous purges, which he meticulously followed.
+
+The complete work survives as part of the larger Sacred Tales corpus, preserved primarily in a thirteenth-century manuscript. Modern scholarship interprets the oration as a public testament of piety, crafted for an educated audience well-versed in the rhetorical conventions of the era. It provides a unique firsthand account of illness, divine healing, and the practice of dream interpretation within the cult of Asclepius during a major public health crisis. The narrative functions as an expression of profound gratitude to the god while offering invaluable insight into the personal intersection of ancient medicine and religious experience.
+
 ## Text
 
 ### 321

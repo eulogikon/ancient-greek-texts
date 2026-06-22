@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fmi-aa` · [HTML page](https://eulogikon.org/works/andron-ephesus-seven-sages-pythagoras-fmi-aa)
 
+The work On the Seven Sages and Pythagoras by the historian Andron of Ephesus is a lost prose text from the Hellenistic period. It was a doxographical collection, compiling anecdotes, sayings, and biographical material concerning the traditional Seven Sages of Greece and the philosopher Pythagoras. The text, which appears to have been structured in eight distinct passages, is known only through fragmentary citations by later authors. Its content included notable anecdotes, such as the story of a tripod offered as a prize for wisdom and awarded first to the Spartan Aristodemus, who then yielded it to Chilon. It also contained biographical notes on Pythagoras, including the claim that he was the first to call himself a philosopher and an account of his predicting an earthquake after drinking from a well in Metapontum. Andron’s compilation served as an important source for later biographers and doxographers like Diogenes Laërtius, helping to transmit and shape the traditional lore surrounding these foundational figures of Greek wisdom. The work exemplifies the Hellenistic antiquarian interest in preserving philosophical and cultural heritage through systematic collection.
+
 ## Text
 
 ### t1-7

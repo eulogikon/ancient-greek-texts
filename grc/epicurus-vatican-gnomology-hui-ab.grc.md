@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hui-ab` · [HTML page](https://eulogikon.org/works/epicurus-vatican-gnomology-hui-ab)
 
+The Vatican Epicurean Gnomology, commonly known as the Vatican Sayings, is a collection of 81 philosophical aphorisms attributed to the Greek philosopher Epicurus. Preserved in a single 14th-century manuscript, the Codex Vaticanus Graecus 1950, this compilation distills the core tenets of Epicurean thought into concise, epigrammatic statements. It functions as a practical guide, systematically addressing the central themes of the philosophy: the nature of the gods as blessed and unconcerned with human affairs, the mortality of the soul and the irrationality of fearing death, the classification of desires to achieve self-sufficiency, the supreme importance of friendship for a pleasant life, and the ultimate ethical goal of attaining ataraxia, or freedom from disturbance, and aponia, the absence of pain.
+
+The work is a later compilation, not a treatise authored as a single cohesive work by Epicurus himself. It belongs to a tradition of ethical summaries and shares a close relationship with the Principal Doctrines preserved by Diogenes Laertius, containing both unique maxims and sayings that parallel Epicurus’s other writings. Alongside the Principal Doctrines, the Vatican Sayings stands as a fundamental source for understanding Epicurean practical philosophy. Its transmission through medieval manuscripts and subsequent recovery during the Renaissance played a significant role in the revival of Epicurean thought, influencing early modern philosophers and later ethical theories.
+
 ## Text
 
 ## ΕΠΙΚΟΥΡΟΥ ΠΡΟΣΦΩΝΗΣΙΣ Πᾶσα ἀλγηδὼν εὐκαταφρόνητος· ἡ γὰρ σύντονον ἔχουσα τὸ πονοῦν σύντομον ἔχει τὸν χρόνον, ἡ δὲ χρονίζουσα περὶ τὴν σάρκα ἀβληχρὸν ἔχει τὸν πόνον.

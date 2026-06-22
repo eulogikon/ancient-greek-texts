@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqa-ae` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-signs-oqa-ae)
 
+_On Signs_ is a section from the _Encheiridion_, a comprehensive metrical handbook composed by the second-century CE grammarian Hephaestion of Alexandria. This treatise systematically catalogs the editorial symbols employed by Alexandrian scholars to annotate metrical irregularities or other textual issues in poetic manuscripts. The work survives intact as an integral part of the complete _Encheiridion_. Its content focuses on the apparatus of textual criticism, providing detailed explanations for the use of specific signs—such as the paragraphos, coronis, and asteriskos—in the metric analysis of lyric poetry. Hephaestion codifies earlier Alexandrian philological and metrical scholarship, offering practical, didactic instruction for students and scholars by illustrating how these signs demarcate structural units like strophes, antistrophes, and epodes within the works of poets such as Sappho, Anacreon, and Alcaeus.
+
+The _Encheiridion_ was preserved through extensive manuscript copying in the Byzantine and Renaissance periods, where it remained a standard textbook. Its transmission was further secured by translations into Armenian and Syriac, as well as a tenth-century epitome by Ioannes Geometres. The handbook as a whole became the definitive ancient manual on Greek meter, profoundly influencing subsequent scholarship by standardizing metrical terminology and pedagogical approaches for centuries and shaping Byzantine education. The _On Signs_ section is of particular significance for preserving a detailed record of the sophisticated Alexandrian system of critical annotation, which was fundamental to the scholarly editing and interpretation of classical poetic texts.
+
 ## Text
 
 ### [15]

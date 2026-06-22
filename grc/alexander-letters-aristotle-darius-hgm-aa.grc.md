@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgm-aa` · [HTML page](https://eulogikon.org/works/alexander-letters-aristotle-darius-hgm-aa)
 
+The Letters to Aristotle and Darius are pseudepigraphical epistles attributed to Alexander the Great, forming a significant component of the legendary Alexander Romance tradition. These literary creations, which developed in the centuries following Alexander’s death, are not authentic historical documents but rather dramatizations of his relationships, crafted for didactic and entertainment purposes. The Roman historian Plutarch attests to the wide circulation of such spurious correspondence in antiquity. The letters function to dramatize Alexander’s character as an ideal ruler, illustrate the cultural and military conflict with Persia through the exchange with Darius III, and explore the complex relationship between philosophy and power via correspondence with his tutor, Aristotle, often incorporating descriptions of Asian wonders. The texts are embedded within the manuscript tradition of the Greek Alexander Romance, pseudonymously attributed to Callisthenes, and its numerous translations. They survive fragmentarily across varying manuscript recensions, with no stable, independent version. This pseudepigraphical correspondence profoundly influenced medieval Alexander literature across Europe and the Middle East. It established Alexander as a literary letter-writer, shaped ethical concepts of kingship, and contributed significantly to the Western imagination of Asia through its vivid reports of marvels.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bd` · [HTML page](https://eulogikon.org/works/themistius-discourse-the-word-rye-bd)
 
+_The Discourse-the Word_, also known as _On the Soul_ or _Oratio 20_, is a philosophical oration by the fourth-century commentator Themistius. A central text in the tradition of Aristotelian exegesis, it presents Themistius's influential interpretation of Aristotle's difficult doctrine of the intellect, or nous, as outlined in the third book of _De Anima_. The oration argues systematically for the immortality and divinity of the soul's highest, active aspect. Its content focuses on the nature of the soul, elaborating Aristotle's distinction between the potential, or material, intellect and the active, or productive, intellect. Themistius explores the ethical implications of cultivating this supreme intellectual faculty and works to harmonize Aristotelian psychology with certain Platonic conceptions. The complete Greek text survives in medieval manuscripts, with a critical edition available in the Teubner series. Its influence was extended significantly by a ninth-century Arabic translation, also titled _On the Soul_, which became a profound source for Islamic philosophers such as Al-Farabi and Avicenna. Through this transmission, the oration served as a key reference for later Greek Neoplatonists and, via its Arabic version, for classical Islamic philosophy, with Avicenna's famous "Flying Man" argument developing ideas traceable to Themistius's paraphrase. This lineage ensured the work's indirect but substantial impact on medieval Latin scholastic thought.
+
 ## Text
 
 ### t 1

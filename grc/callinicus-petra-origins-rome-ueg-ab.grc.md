@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ueg-ab` · [HTML page](https://eulogikon.org/works/callinicus-petra-origins-rome-ueg-ab)
 
+On the Origins of Rome is a lost rhetorical treatise by the 3rd-century CE Greek sophist Callinicus of Petra. Composed in Attic Greek during the Roman Imperial period, the work explored the foundation myths of the city. No complete manuscript survives; knowledge of the text depends entirely on two later excerpts preserved under the title Apospásmata, or Extracts. These fragments present contrasting narratives of Rome's beginnings. One recounts the traditional Roman legend of the twins Romulus and Remus. The other offers a Hellenized alternative, attributing the city's foundation to a figure named Rhomos, described as a son of the Greek hero Odysseus and the enchantress Circe. This dual presentation is characteristic of the intellectual strategies of the Second Sophistic, a period during which Greek writers often sought to reconcile Roman history and power within a framework of Greek cultural heritage for an educated, bilingual audience. The work's transmission is indirect. It is cited by title in the 10th-century Byzantine encyclopedia known as the Suda, and its extant fragments were preserved within the vast Excerpta Constantiniana, a Byzantine compilation of historical texts commissioned by Emperor Constantine VII Porphyrogennetos.
+
 ## Text
 
 ### 3a,281,F 1

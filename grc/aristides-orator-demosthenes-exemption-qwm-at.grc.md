@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-at` · [HTML page](https://eulogikon.org/works/aristides-orator-demosthenes-exemption-qwm-at)
 
+To Demosthenes on Exemption is a judicial oration by the second-century CE orator Aelius Aristides. Composed in Attic Greek around 147–149 CE and also cataloged as Oration 50, it is a forensic speech crafted for a legal dispute concerning the special exemption from public financial duties granted to Aristides by various cities, most notably Smyrna. The work is structured as a defense against accusers who challenged his worthiness for this honor, framed as a series of 33 arguments addressed to an imagined Demosthenes, the great Athenian orator, whom Aristides invokes as an arbiter of the case. In it, Aristides systematically refutes charges of ingratitude, contending that his literary and oratorical contributions to Greek culture, coupled with his personal endurance of chronic illness, constitute a public service of greater value than monetary payments. The speech is a quintessential product of the Second Sophistic movement, blending meticulous legal argument with sophisticated self-promotion and a profound engagement with classical tradition. Preserved intact within the corpus of Aristides' works through medieval manuscripts, the oration is regarded by modern scholars as a significant historical source. It illuminates the social rivalries and status negotiations among Greek provincial elites under Roman rule, demonstrating how intellectuals of the period leveraged their cultural expertise to claim privileges and assert authority within their communities.
+
 ## Text
 
 ### 1

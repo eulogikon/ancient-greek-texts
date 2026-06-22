@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ax` · [HTML page](https://eulogikon.org/works/euripides-electra-cbm-ax)
 
+Euripides' Electra is a Greek tragedy composed circa 420–410 BCE that dramatizes the myth of Orestes and Electra avenging their father Agamemnon by murdering their mother Clytemnestra and her consort Aegisthus. Structured in conventional tragic form with a prologue, episodes, choral odes, and a concluding scene, the play distinguishes itself through its psychological realism and critical perspective. Departing from earlier treatments, Euripides relocates the action from a royal palace to a poor farmer's hut, thereby emphasizing Electra's degraded social condition and framing the revenge not as a heroic duty but as a sordid and morally ambiguous act. The climax features a divine epiphany in which the gods Castor and Polydeuces appear, openly condemning Apollo's command for the matricide. This conclusion is widely interpreted as Euripides' critique of traditional notions of divine justice and heroic ethics, reflecting the skeptical intellectual climate of Athens during the Peloponnesian War. The complete text of the play survives due to its inclusion in a select group of Euripides' works that were frequently copied in the Byzantine era, transmitted through medieval manuscripts such as a notable 10th- or 11th-century codex.
+
 ## Text
 
 ### 1

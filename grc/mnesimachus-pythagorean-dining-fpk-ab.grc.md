@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fpk-ab` · [HTML page](https://eulogikon.org/works/mnesimachus-pythagorean-dining-fpk-ab)
 
+The Fragments on Pythagorean Dining comprises a series of poetic excerpts from a lost comedy by the 4th-century BCE Athenian playwright Mnesimachus. These thirty-seven passages, preserved through later quotation by authors such as the philosopher Porphyry, represent a significant example of Middle Comedy, a genre known for its shift from direct political satire toward parody of contemporary social types, including philosophers. Written in Attic Greek verse, the fragments lampoon the strict asceticism of Pythagorean followers, with particular focus on their dietary prohibitions against meat, beans, and wine. The humor arises from the exaggerated portrayal of these rules and the perceived hypocrisy or absurdity of their adherents, as characters navigate a meal of bland, meager, and euphemistically renamed foods. As one of the few surviving literary treatments of Pythagoreanism from the classical period, these fragments provide valuable cultural evidence, illustrating how the sect's secretive and restrictive practices were viewed as eccentric and a fitting subject for popular satire in Athenian society.
+
 ## Text
 
 ### book 1.1

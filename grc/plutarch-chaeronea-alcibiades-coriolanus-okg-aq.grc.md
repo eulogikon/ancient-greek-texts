@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-aq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-alcibiades-coriolanus-okg-aq)
 
+The Comparison of Alcibiades and Coriolanus is a concise prose essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It functions as the concluding synkrisis, or comparative analysis, to the paired biographies of the Athenian statesman Alcibiades and the Roman general Gnaeus Marcius Coriolanus within Plutarch’s Parallel Lives. The essay methodically examines the two figures across a series of thematic passages, evaluating their inherent natures, upbringings, political and military conduct, fraught relationships with their native cities, and the blend of virtues and flaws that precipitated their exiles and tragic ends. Transmitted intact through the manuscript tradition of the Lives, the work is a prime illustration of Plutarch’s biographical technique, aimed at a literate Greco-Roman readership under the early Empire. Its purpose is fundamentally ethical, employing historical parallel to extract moral lessons concerning ambition, character, and the role of fortune in human affairs. The pairing intentionally juxtaposes the fluid democracy of classical Athens with the austere aristocracy of the early Roman Republic, probing perennial questions of leadership and civic duty across distinct political cultures. This particular comparison exerted significant later influence, notably providing essential source material for William Shakespeare’s Roman tragedy Coriolanus.
+
 ## Text
 
 ### 1 1

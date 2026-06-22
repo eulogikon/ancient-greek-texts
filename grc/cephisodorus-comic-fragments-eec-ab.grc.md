@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eec-ab` · [HTML page](https://eulogikon.org/works/cephisodorus-comic-fragments-eec-ab)
 
+The Fragments on Comedy attributed to Cephisodorus constitute a modern scholarly compilation of surviving quotations from the works of an Athenian poet of Middle Comedy, active circa 400–323 BCE. As his comedies are entirely lost, these fragments are preserved solely through citations in later authors, most notably Athenaeus in his Deipnosophistae and the lexicographer Hesychius. Modern editions, such as Poetae Comici Graeci, systematically collect and number these remnants. The extant material reveals Cephisodorus's engagement with the characteristic themes of his era, including detailed descriptions of gastronomy and symposium culture, mythological parody as suggested by play titles like Amazons and Trophonius, and humor derived from generalized social types and everyday situations. As a figure of Middle Comedy, Cephisodorus represents a transitional phase between the political satire of Old Comedy and the domestic focus of New Comedy. While his direct literary influence cannot be traced, his fragments provide valuable evidence for the thematic concerns and social history of fourth-century Athenian life, particularly as reflected in the convivial and material culture recorded by later antiquarians.
+
 ## Text
 
 ### book 1

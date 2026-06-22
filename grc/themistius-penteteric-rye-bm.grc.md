@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-bm` · [HTML page](https://eulogikon.org/works/themistius-penteteric-rye-bm)
 
+The Penteteric, also known as On the Love of Mankind, or Constantius, is a panegyric oration composed and delivered in Attic Greek by the philosopher and senator Themistius. It was presented to the Roman Emperor Constantius II in Constantinople, most likely on January 11, 355 CE, to mark the fifth anniversary of the emperor's reign. The complete prose speech is structured as a formal address of praise, often divided by modern editors into seventy-two sections for reference. The work employs classical rhetoric to articulate a political philosophy for the late Roman Empire, centering on the concept of philanthropia, or love for humanity. Themistius presents this as the emperor's paramount virtue, surpassing even military success. Scholars interpret the oration as an effort to portray Constantius as a Platonic philosopher-king, whose rule is defined by wisdom, justice, and piety. It is considered a key document illustrating how pagan intellectuals adapted Greek philosophical ideals to the rhetoric of imperial power during a period of Christianization. The speech is thought to have been crafted to legitimize the emperor's authority following a period of civil war and to strengthen the bond between the monarchy and the educated senatorial class in Constantinople. The full text survives within the manuscript tradition of Themistius's orations, primarily through copies such as the thirteenth-century Codex Parisinus Graecus 2951.
+
 ## Text
 
 ### t 1

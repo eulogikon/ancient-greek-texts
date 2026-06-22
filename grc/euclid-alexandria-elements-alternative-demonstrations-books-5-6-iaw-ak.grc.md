@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-ak` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-books-5-6-iaw-ak)
 
+This collection gathers alternative demonstrations — variant proofs of propositions from Books V and VI of Euclid's Elements. Book V sets out the general theory of proportion associated with Eudoxus, the rigorous account of ratio that underpins much of the work; Book VI applies that theory to plane geometry, treating similar rectilinear figures and the application of areas. The proofs preserved here belong to the supplementary tradition transmitted alongside the main text, supplying different demonstrations of results on proportion and similarity. They illustrate how the proportion theory — among the most demanding parts of the Elements — invited reworking by later editors and commentators.
+
 ## Text
 
 ### 229

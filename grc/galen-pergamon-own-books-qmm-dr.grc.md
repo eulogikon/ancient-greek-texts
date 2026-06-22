@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dr` · [HTML page](https://eulogikon.org/works/galen-pergamon-own-books-qmm-dr)
 
+On His Own Books is an autobiographical treatise by the Greek physician and philosopher Galen of Pergamon, composed in the late second or early third century CE. Written in Greek, the work serves as a personal bibliography, cataloging and describing the titles and contents of his extensive writings on medicine, philosophy, and other subjects. Its principal aim was to assist readers and students in distinguishing his authentic works from the numerous forgeries then circulating under his renowned name. The treatise is structured as a systematic guide, organized into approximately forty sections. Scholars generally agree that Galen was prompted to compile this list following a major fire in Rome in 192 CE, which consumed many of his manuscripts stored in the Temple of Peace. This catastrophe led him to methodically record his genuine intellectual legacy. The text survives in its entirety and stands as a vital historical source for comprehending the full breadth of his scholarship and the complexities of textual transmission in antiquity. It is frequently studied alongside his complementary guide, On the Order of My Own Books, which offers advice on the sequence for reading his corpus.
+
 ## Text
 
 ### 19 8 (t)

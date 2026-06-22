@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhq-ab` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-excerpts-rhq-ab)
 
+The Roman Histories is a fragmentary universal chronicle composed in Greek by the 7th-century Byzantine scholar John of Antioch. Originally spanning from the creation of the world to the author's own time around 610 CE, the work survives only in scattered passages preserved by later compilers. It was structured as a multi-book chronicle that integrated biblical, Hellenistic, and Roman history within a Christian framework, typical of the didactic historical writing of its era, which sought to draw moral and theological lessons from the past. A specific and significant collection of excerpts associated with the work consists of passages John derived from the Roman History of the 3rd-century historian Cassius Dio. These excerpts were themselves preserved centuries later within the 10th-century Byzantine compilation known as the Excerpta Constantiniana. Consequently, these fragments serve a dual historical purpose: they provide valuable insight into John of Antioch’s methods of source compilation and adaptation, and they act as a crucial textual vehicle for preserving sections of Cassius Dio’s important narrative of the Roman Republic and early Empire that would otherwise be lost.
+
 ## Text
 
 ### 750 (t1)

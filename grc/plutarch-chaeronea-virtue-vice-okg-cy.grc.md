@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-cy` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-virtue-vice-okg-cy)
 
+_On Virtue and Vice_ is a concise ethical treatise traditionally ascribed to Plutarch of Chaeronea. The work is structured as a series of nine brief passages that present pointed contrasts between specific virtues and vices, such as courage and cowardice, in a didactic and aphoristic style consistent with Plutarch’s broader project of popularizing philosophical ethics for a general audience. It defines and examines opposing pairs of moral qualities, analyzing their inherent characteristics, their effects on the soul, and their consequences for both personal and social life. Its ethical framework is broadly Platonic and Peripatetic, emphasizing virtue as a harmonious mean between extremes. Preserved within the medieval manuscript tradition of Plutarch’s collected _Moralia_, the complete text has been transmitted as an integral part of the Plutarchan corpus, though its authenticity has occasionally been questioned by modern scholars. As a component of the _Moralia_, this treatise contributed to the transmission of core Greek ethical philosophy. Its clear, antithetical structure provided a useful compendium of moral definitions, with its influence subsumed within the broader reception of Plutarch’s ethical writings, which were particularly admired during the Renaissance for their emphasis on practical morality.
+
 ## Text
 
 ### t 1

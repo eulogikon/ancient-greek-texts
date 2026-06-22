@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dck-aa` · [HTML page](https://eulogikon.org/works/aresas-lucania-human-nature-dck-aa)
 
+_On Human Nature_, also known by the title _Extract_, is a Neopythagorean philosophical treatise attributed to Aresas of Lucania. The work survives only in fragments, with three passages preserved within the _Anthology_ compiled by Stobaeus in the fifth century CE. These extant portions discuss the nature and immortality of the human soul, its relationship to the divine, and the ethical pursuit of virtue within a Pythagorean framework. The text is lost as an independent work and possesses no separate manuscript tradition; its alternative title indicates its fragmentary state was recognized even in antiquity. As a representative of Neopythagorean thought, the treatise contributed to the philosophical synthesis of late antiquity, blending Platonic and Pythagorean ideas that would influence Middle and Neoplatonism. Its preservation by Stobaeus marks it as a valued source for understanding these traditions, with its themes resonating in subsequent philosophical and theological developments.
+
 ## Text
 
 ### 48 (20t)

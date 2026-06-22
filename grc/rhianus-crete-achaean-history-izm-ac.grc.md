@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `izm-ac` · [HTML page](https://eulogikon.org/works/rhianus-crete-achaean-history-izm-ac)
 
+The Fragments of the Achaean History is a lost historical epic poem by the Hellenistic poet and scholar Rhianus of Crete, who was active in the third century BCE. Composed in the dactylic hexameter of Homeric epic, the work narrated the history, myths, and local traditions of the Achaean people of the Peloponnese. Its subject matter encompassed foundation stories for cities, regional genealogies tying populations to heroic ancestors, and descriptions of places and cultic practices. The complete poem does not survive and is known only through approximately sixty-two brief fragments preserved as quotations in the works of later grammarians, geographers, and commentators. The principal source for these fragments is the sixth-century CE geographical lexicon Ethnika by Stephanus of Byzantium, who cited Rhianus for etymologies and information on place names. Additional excerpts are found in the writings of the geographer Strabo and in ancient scholia.
+
+The work is considered a prime example of Hellenistic scholarly poetry, which employed traditional epic meter and diction to present erudite, antiquarian research into local histories and legends. It was likely composed for a sophisticated audience interested in the mytho-historical origins and distinctive identities of Greek regions. The surviving fragments, though meager, provide valuable insight into the processes of collecting, systematizing, and versifying local traditions during a period of intense literary and historical scholarship.
+
 ## Text
 
 ### 3a,265,F 1

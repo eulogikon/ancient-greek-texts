@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcm-aa` · [HTML page](https://eulogikon.org/works/apollodorus-athens-word-origins-lcm-aa)
 
+The Fragments on Word Origins is a lost etymological treatise by the 2nd-century BCE scholar Apollodorus of Athens, known only through excerpts preserved in later lexicons and grammatical works. These surviving fragments, which number around ten, represent a systematic prose investigation into the origins and meanings of Greek vocabulary, reflecting the advanced philological methods of Hellenistic Alexandria. The work analyzes a diverse set of terms, offering proposed derivations that often connect words to their perceived historical or morphological roots. Examples include explanations for words denoting occupations, animal names, and divine epithets, such as linking the name Pallas to a mythical narrative. The treatise exemplifies the period's scholarly approach to historical linguistics, using etymology as a tool to elucidate obscure terms and to explore connections between language, myth, and history. The complete text has not survived; its content is reconstructed from citations found in later compilations like the Etymologicum Genuinum and Etymologicum Orionis. Despite its fragmentary preservation, Apollodorus's work represents a significant contribution to the Alexandrian tradition of grammatical scholarship, and its citation by later Roman and Byzantine authors attests to its enduring authority as a reference for Greek word origins.
+
 ## Text
 
 ### 217bis.(l1)

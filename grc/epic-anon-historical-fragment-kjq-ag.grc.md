@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ag` · [HTML page](https://eulogikon.org/works/epic-anon-historical-fragment-kjq-ag)
 
+The Historical Epic Fragment is an anonymous work known only by its title and a notation that it consists of twenty-one passages in verse. No narrative content, historical subject, or specific lines from the fragment are preserved. The title identifies it as a portion of a larger epic poem on a historical theme, implying it narrated a specific event or series of events in the traditional hexameter form. Listed among epic remains, the fragment's manuscript tradition, physical source, and the precise extent of the surviving text beyond its descriptive title are undocumented. As a titled fragment without extant content, it serves as a placeholder indicating the broader, lost corpus of historical epic poetry in antiquity, a genre that adapted the conventions of heroic epic to the narration of historical events.
+
 ## Text
 
 ### book 1r.1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-am` · [HTML page](https://eulogikon.org/works/euripides-exile-lineage-cbm-am)
 
+The title "Fragments on Exile and Lineage" refers not to an ancient work by Euripides but to a modern scholarly compilation of passages from his lost dramas, thematically united by their exploration of displacement and ancestry. Euripides, the Athenian tragedian of the fifth century BCE, wrote numerous plays, of which only a fraction survive complete. The majority are known only through fragments, and the twin themes of exile and lineage recur with striking frequency across both his extant and fragmentary output. These fragments are preserved through quotations by later Greek and Roman authors, papyrus discoveries, and entries in ancient library catalogs. A modern collection organized under this title would constitute an editorial synthesis drawn from these disparate sources.
+
+The content of such a compilation would center on fundamental Euripidean preoccupations. Exile is portrayed as a profound psychological and political catastrophe, often explored through the plight of refugees, suppliants, and outcasts. Lineage, or the claims of noble birth, is frequently subjected to critical scrutiny, with dramatic situations emphasizing the conflict between inherited status and demonstrated personal virtue. Characters of disputed or obscured parentage are common, serving to question aristocratic privilege. These themes converge in a deeper exploration of identity, examining how the self is constructed or shattered when traditional ties of family and city are broken, and probing the tension between innate human nature and social convention.
+
+Euripides’ treatment of these subjects constituted a critical interrogation of the social and political foundations of Classical Athens. His psychologically complex portraits of displacement and his destabilization of traditional aristocratic values exerted a profound influence on later Hellenistic and Roman drama. Furthermore, his sententious and philosophically charged verses on these topics were extensively quoted and debated by subsequent philosophers, rhetoricians, and moralists, securing his legacy as a pivotal and provocative voice in the ancient literary tradition.
+
 ## Text
 
 ### book 1.1

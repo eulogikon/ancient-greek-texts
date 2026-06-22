@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `siy-ac` · [HTML page](https://eulogikon.org/works/himerius-declamations-orations-siy-ac)
 
+The Declamations and Orations is a collection of rhetorical works by Himerius, a prominent pagan sophist who taught in Athens during the fourth century CE. Comprising seventy-nine complete speeches and fifty-seven fragments, the corpus is written in an archaizing, highly polished Attic Greek. The contents are predominantly epideictic, or display, orations intended for public performance. These include wedding speeches, funeral laments, panegyrics addressed to emperors, and, most characteristically, rhetorical exercises known as meletai. These elaborate declamations, often on historical or fictional themes, were designed to demonstrate the orator's technical virtuosity and command of classical style.
+
+Himerius composed these works during a pivotal era of cultural and religious transition, shortly before Christianity achieved political dominance in the Roman Empire. As a leading figure in the sophistic movement, he used his oratory to champion traditional Greek education, or paideia, to honor patrons such as the Emperor Julian, to deliver encomia for cities like Athens, and to attract students to his school. The texts are densely allusive, drawing extensively on classical mythology and literature, and represent a late flowering of the stylistic traditions associated with the Second Sophistic. For modern scholarship, the collection serves as a valuable witness to the intellectual concerns and pagan cultural milieu of fourth-century Athens.
+
+The work survives in an incomplete state. Its transmission relies heavily on excerpts preserved in a single tenth-century manuscript and on the summaries provided by the ninth-century scholar Photius, who noted that many of the speeches were already lost in his own time. The modern edition of the collection was largely reconstructed by philologists in the nineteenth century. As a result, the present arrangement is not original, and the prose, which was admired in antiquity for its poetic qualities, is often regarded by contemporary readers as obscure and excessively artificial.
+
 ## Text
 
 ### 1 (1t)

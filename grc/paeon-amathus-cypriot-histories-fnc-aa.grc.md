@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fnc-aa` · [HTML page](https://eulogikon.org/works/paeon-amathus-cypriot-histories-fnc-aa)
 
+The Cypriot Histories and Myths is a lost prose work attributed to Paeon of Amathus, a local historian of Cyprus. Our knowledge of the text derives entirely from fragments preserved by later authors, which indicate it was a compilation focused on the foundation myths, local histories, and religious traditions of Cyprus, with particular attention to the city of Amathus. Its content included the foundation myths of Cypriot cities, details of local cults and religious practices such as the veneration of Aphrodite, ethnographic observations on the non-Greek Eteocypriot population, and narratives connecting Cypriot traditions to broader Panhellenic mythology. The work survives only in quotations or paraphrases found in later ancient authors like Strabo and Hesychius of Alexandria, with no independent manuscript tradition. Cited as an authority on Cypriot antiquities, the fragments of Paeon’s history provide valuable evidence for reconstructing the island’s cultural and religious history, offering insights into pre-Greek elements and their Hellenization within the genre of local history that informed larger Greco-Roman compilations.
+
 ## Text
 
 ### t1-2

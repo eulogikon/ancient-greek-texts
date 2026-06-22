@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-az` · [HTML page](https://eulogikon.org/works/euripides-phrixus-cbm-az)
 
+_Phrixus_ is a lost tragedy by Euripides, surviving only in fragments, which dramatizes the myth of Phrixus and his sister Helle. The children of Athamas, they are targeted for sacrifice by their stepmother, Ino, but escape on a golden-fleeced ram sent by their divine mother, Nephele. During the flight, Helle falls into the strait that bears her name, the Hellespont, while Phrixus reaches safety in Colchis. There he sacrifices the ram to Zeus and presents its golden fleece to King Aeëtes, an act that establishes the legendary object later sought by Jason and the Argonauts. The extant fragments, numbering approximately ninety-eight, suggest the play contained significant rhetorical debate, including a notable speech contrasting the merits of noble birth with those of personal virtue and a discussion on the nature of true friendship.
+
+The tragedy’s themes, as inferred from the fragments, encompass familial conflict, treachery, divine intervention, and the perils of exile. The text is preserved solely through quotations in later ancient authors, such as Stobaeus and Athenaeus, and through papyrus discoveries. Reconstruction is particularly challenging because Euripides composed two distinct plays titled _Phrixus_, often distinguished by scholars as _Phrixus A_ and _Phrixus B_, leading to the potential conflation of fragments from each. Despite its fragmentary state, the play was influential in antiquity, with its ethical debates being widely excerpted. Its treatment of the Golden Fleece myth provided an important narrative precursor for later epics, most notably Apollonius Rhodius’s _Argonautica_. The fragments remain valuable for the study of Euripides’ rhetorical style and his critical examination of traditional heroic and social values.
+
 ## Text
 
 ### unknown

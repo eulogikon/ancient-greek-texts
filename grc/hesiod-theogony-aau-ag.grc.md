@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aau-ag` · [HTML page](https://eulogikon.org/works/hesiod-theogony-aau-ag)
 
+The Theogony is an epic poem by the Greek poet Hesiod, composed around 700 BCE in the traditional dactylic hexameter of heroic verse. It presents a systematic genealogy and narrative of the origins of the gods, beginning with an invocation to the Muses of Mount Helicon, whom the poet credits with his inspiration. The work chronicles the development of the cosmos from primordial Chaos, detailing the successive generations of divine beings, including the rise of the Titans and their eventual overthrow by the Olympian gods led by Zeus. A substantial portion of the poem is devoted to cataloging these intricate divine lineages, thereby establishing the relationships, spheres of influence, and hierarchical order within the Greek pantheon. The narrative culminates in the affirmation of Zeus's sovereign and just rule, which brings stability to the universe.
+
+The poem survives almost in its entirety through medieval manuscripts, the oldest of which dates to the 10th century CE. Modern scholarship interprets the Theogony as a seminal work that synthesized diverse local mythological traditions into a coherent, panhellenic account. It served to instruct its audience on the nature of cosmic order and the principles of justice embodied by Zeus's reign. The personalized proem, in which Hesiod describes his direct encounter with the Muses, is regarded as a foundational and influential assertion of poetic authority. While the core text is largely stable, some scholars debate the authenticity of the final section, which transitions into a catalog of goddesses and mortal men, considering it a possible later addition to Hesiod's original composition.
+
 ## Text
 
 ### 1

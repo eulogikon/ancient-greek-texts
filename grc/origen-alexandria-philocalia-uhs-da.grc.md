@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-da` · [HTML page](https://eulogikon.org/works/origen-alexandria-philocalia-uhs-da)
 
+The Philocalia is a Greek theological anthology compiled around 360–365 CE by the Cappadocian fathers Basil of Caesarea and Gregory of Nazianzus. Its title, meaning "Love of the Beautiful," reflects its purpose as a curated collection of excerpts from the extensive writings of the earlier theologian Origen of Alexandria. The work comprises 27 chapters containing 285 selected passages, drawn primarily from Origen's biblical commentaries and his apologetic treatise Against Celsus. The compilers organized these excerpts to focus on core themes of Origen's thought, including biblical interpretation, divine providence, human free will, and the nature of Scripture. The anthology was intended to preserve and promote what Basil and Gregory considered Origen's most valuable and orthodox exegetical insights for the emerging Nicene church. Modern scholarship views this compilation as a strategic effort to salvage Origen's authoritative methods of scriptural analysis while implicitly distancing his legacy from later theological controversies associated with his name. The Philocalia survives in full within the Greek manuscript tradition, with copies dating from at least the 11th century. Its preservation was significantly aided by the authoritative status of its compilers. The work remains a crucial source for patristic scholars, as it contains extensive verbatim excerpts from Origen's corpus, some of which are otherwise lost or survive only in fragmentary form.
+
 ## Text
 
 ### p t

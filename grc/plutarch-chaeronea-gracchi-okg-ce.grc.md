@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ce` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-gracchi-okg-ce)
 
+Tiberius and Caius Gracchus is a biography by the philosopher Plutarch of Chaeronea, composed in Greek during the early 2nd century CE. It belongs to his celebrated series of Parallel Lives, which juxtapose eminent Greek and Roman figures; this particular life pairs the Roman tribunes Tiberius and Gaius Gracchus with the Spartan kings Agis IV and Cleomenes III. The narrative chronicles the political careers of the Gracchi brothers in the late 2nd century BCE, focusing on their advocacy for extensive land reform, known as the lex agraria, intended to benefit the impoverished Roman populace. Plutarch presents a continuous account of their efforts to enact this legislation, detailing their strategies to circumvent senatorial opposition, their potent oratory before the public assemblies, and the escalating political violence that culminated in the deaths of both brothers during street riots.
+
+Plutarch’s primary aim was not strict historiography but moral philosophy, employing biographical narrative to examine character, virtue, and the roots of political turmoil. The deliberate pairing with the Spartan reformers casts the Gracchi as revolutionary figures whose attempts to challenge a entrenched oligarchy, however motivated by principle, ultimately precipitated fatal civil discord. The complete text, preserved through medieval manuscript traditions, was intended for an educated, Greek-speaking audience within the Roman Empire, serving as a vehicle for lessons on statesmanship and the inherent dangers of radical political change.
+
+This biography has exercised profound influence, particularly from the Renaissance onward. Its nuanced, character-driven portrayal established Tiberius and Gaius Gracchus as enduring symbols of popular reform and tragic political conflict within the Western historical imagination.
+
 ## Text
 
 ### Gracch t 1

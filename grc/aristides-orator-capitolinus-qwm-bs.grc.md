@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bs` · [HTML page](https://eulogikon.org/works/aristides-orator-capitolinus-qwm-bs)
 
+To Capitolinus is a short oration by the Greek orator Aelius Aristides, composed in the 2nd century CE. Addressed to a Roman official named Capitolinus, likely a provincial governor, the speech functions as a detailed self-defense. In its sixteen sections, Aristides employs his characteristically refined Attic Greek style to counter unspecified accusations, which may have originated from political rivals in his hometown. His primary aim is to persuade the Roman authority of his innocence and upstanding character, skillfully weaving personal justification with broader appeals to justice. The work survives in its entirety within Aristides’ collected orations, preserved through medieval manuscript traditions. Modern scholarship regards the speech as a practical case study in how a Greek intellectual of the Imperial period deployed sophisticated rhetoric to navigate the Roman administrative system. It serves as a valuable illustration of the complex dynamics between local provincial elites and the overarching structures of imperial power.
+
 ## Text
 
 ### [20]

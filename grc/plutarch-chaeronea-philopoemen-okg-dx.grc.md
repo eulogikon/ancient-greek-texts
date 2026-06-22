@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dx` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-philopoemen-okg-dx)
 
+Plutarch’s Life of Philopoemen is a biography of the Achaean general and statesman Philopoemen, written in Greek during the early second century CE. It is one of Plutarch’s Parallel Lives, paired with the Life of Titus Flamininus. The work is structured as a character study, focusing on Philopoemen’s military reforms, political leadership, and lifelong dedication to strengthening the Achaean League during the Hellenistic period. Plutarch portrays his subject as a pragmatic man of action, emphasizing his personal courage and tactical innovations. The pairing with the Roman general Flamininus is often interpreted as a deliberate contrast between a Greek leader striving for regional autonomy and a Roman consul establishing hegemony over Greece. The biography draws on earlier sources, including the historian Polybius, who famously called Philopoemen “the last of the Greeks.” The text survives intact through medieval manuscripts and is considered a valuable source for both Philopoemen’s life and the political dynamics of his era.
+
 ## Text
 
 ### Phil t 1

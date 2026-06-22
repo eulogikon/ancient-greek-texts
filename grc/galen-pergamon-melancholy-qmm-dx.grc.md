@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dx` · [HTML page](https://eulogikon.org/works/galen-pergamon-melancholy-qmm-dx)
 
+On Melancholy is a medical treatise by the 2nd-century Roman physician Galen, originally composed in Greek. It addresses the condition of melancholy, which Galen defines as an illness arising from an excess of black bile, one of the four bodily humors central to ancient medical theory. The work systematically examines the etiology, symptoms, and therapeutic management of the disorder, distinguishing it from other forms of mental disturbance. Galen posits that when black bile inundates the seat of the rational soul, it induces a pervasive darkness analogous to physical gloom, thereby generating irrational fears, despondency, and a fixation on death. The treatise explores a range of psychological symptoms, from groundless anxieties to specific delusions, such as a patient believing himself to be made of pottery, which Galen attributes to the cold and dry qualities of the pathogenic humor.
+
+The text does not survive as an independent, unified book. What circulates under the title On Melancholy is a modern compilation of three significant excerpts, principally drawn from Galen’s larger works On the Affected Parts and On Black Bile. These passages were later grouped together by editors in the medieval and early modern periods to form a coherent, focused discussion on the subject. Written during the High Roman Empire, the treatise synthesizes foundational Hippocratic concepts with Galen’s own clinical observations and rigorous anatomical knowledge, representing a key component of his ambitious project to systematize all medical doctrine within a humoral framework. Intended for a professional medical audience, it became a canonical text that defined the pathological understanding of melancholy for more than a millennium, profoundly influencing subsequent medical traditions in the Byzantine, Islamic, and later European worlds.
+
 ## Text
 
 ### 6 9 (56)

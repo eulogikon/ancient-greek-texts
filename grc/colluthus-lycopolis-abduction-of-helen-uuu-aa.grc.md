@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uuu-aa` · [HTML page](https://eulogikon.org/works/colluthus-lycopolis-abduction-of-helen-uuu-aa)
 
+The Abduction of Helen is a short epic poem of 392 lines composed in dactylic hexameter by the late antique Greek poet Colluthus of Lycopolis, who wrote around 500 CE. Written in Homeric Greek, it recounts the mythological origins of the Trojan War. The narrative opens with the wedding of Peleus and Thetis, where the goddess Eris provokes discord by casting a golden apple inscribed "for the fairest" among the guests. This leads to the Judgement of Paris on Mount Ida, where the Trojan prince, acting as a shepherd, awards the apple to Aphrodite after she promises him the love of Helen, wife of the Spartan king Menelaus. The poem then follows Paris's voyage to Sparta, his reception by Menelaus and Helen, and culminates in their elopement, concluding just prior to the outbreak of the war itself.
+
+Composed during the early Byzantine period, the work is a characteristic product of an era in which poets continued to employ classical forms and mythological subject matter for a learned audience. Modern scholarship generally regards the poem as a sophisticated literary and rhetorical exercise, demonstrating the author's skill in condensing a well-known epic cycle into a polished, miniature epic. It is often compared to the longer and more expansive mythological poetry of Colluthus's near-contemporary, Nonnus of Panopolis. The complete text survives solely through a single manuscript, the Codex Matritensis gr. 4681, dating from the late 13th or early 14th century. This manuscript, rediscovered long after the poem had fallen into obscurity following late antiquity, remains an important witness to the continuation of the epic tradition in the Greek literary world of the fifth and sixth centuries.
+
 ## Text
 
 ### 1

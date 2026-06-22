@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ise-aa` · [HTML page](https://eulogikon.org/works/cineas-thessaly-antiquities-myths-ise-aa)
 
+_Thessalian Antiquities and Myths_, an oration attributed to Cineas of Thessaly, is an antiquarian work known only through a handful of fragmentary references. Its content, as preserved in later scholia and geographical lexicons, focused on the legendary history, local myths, and customs of Thessaly. The surviving excerpts demonstrate a particular interest in the etymologies and founding myths of Thessalian cities, such as the account of Cranon, originally called Ephyra, and its eponymous founder. The work also touched upon religious antiquities, including the origin of the Dodonaean oracle and the cult of Pelasgian Zeus. Presented as an oration, the composition belongs to the epideictic tradition, employing rhetorical skill to celebrate and codify regional identity and pride. The attribution to a Cineas of Thessaly remains problematic, as the name is historically associated with the famous advisor to King Pyrrhus of Epirus; whether this refers to the same figure, a later namesake, or involves a misattribution is unresolved. No continuous manuscript tradition for the work is attested, and its full scope and structure are unknown, its content surviving only in scattered citations used by later grammarians and commentators as authoritative sources on Thessalian lore.
+
 ## Text
 
 ### t1-4

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pqy-ac` · [HTML page](https://eulogikon.org/works/aesop-life-pqy-ac)
 
+The Life of Aesop, also known as the Aesop Romance, is an anonymous fictional biography of the legendary storyteller, composed in Koine Greek prose during the Roman Imperial period, most likely in the first or second century CE. It is a work of popular narrative rather than history, artfully blending elements of folklore, social satire, and moral instruction. The story chronicles Aesop’s remarkable journey from his origins as an ugly and mute slave to his transformation after receiving the gift of speech from the goddess Isis. Armed with newfound eloquence and cunning, he employs his cleverness and fables to navigate a complex world, serving the philosopher Xanthus, securing his freedom, offering counsel to King Croesus of Lydia, and ultimately meeting a tragic demise at Delphi.
+
+The complete text survives in multiple recensions, with the longest and most extensively studied version designated as the "G" recension. Modern scholarship interprets the work as a form of social critique emanating from a popular, non-elite perspective. It celebrates native intelligence and rhetorical skill over inherited social status while satirizing figures of authority such as philosophers, masters, and civic officials. Written for a broad audience, the narrative serves both to entertain and to provide a cohesive framework for numerous famous Aesopic fables, which are seamlessly integrated into the plot. The Life enjoyed wide readership in later antiquity and throughout the Byzantine era, playing a fundamental role in solidifying the enduring cultural image of Aesop as the archetypal wise underdog.
+
 ## Text
 
 ### 306 (5)

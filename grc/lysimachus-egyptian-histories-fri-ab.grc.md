@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fri-ab` · [HTML page](https://eulogikon.org/works/lysimachus-egyptian-histories-fri-ab)
 
+The Egyptian Histories Fragments is a lost Greek historical and ethnographic work attributed to Lysimachus the Historian. It survives only in fragmentary form, primarily through quotations preserved by the Jewish historian Flavius Josephus in his first-century polemical treatise Against Apion. The extant passages, numbering approximately thirty-two in modern collections, indicate the original text was a comprehensive account of Egyptian history, chronology, antiquities, and religious customs. Its most notorious and frequently cited element is a hostile version of the Exodus narrative, which Josephus quotes and refutes at length. In this account, Lysimachus portrays the Jews as a community of lepers and diseased individuals who were expelled from Egyptian temples by Pharaoh Bocchoris on the advice of an oracle, subsequently being cast into the wilderness. The work is transmitted entirely through indirect sources, with Josephus serving as the principal conduit. Its significance lies in its role within the polemical literature of the Hellenistic and early Roman periods, where it represents a strand of Egyptian-Greek historiography antagonistic to Jewish origins. Consequently, it is studied chiefly as a source for understanding the cultural and historiographic conflicts between Egyptian, Greek, and Jewish communities in antiquity.
+
 ## Text
 
 ### t1-3

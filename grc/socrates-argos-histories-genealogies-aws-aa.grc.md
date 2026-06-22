@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aws-aa` · [HTML page](https://eulogikon.org/works/socrates-argos-histories-genealogies-aws-aa)
 
+The Argolic Histories and Genealogies, attributed to Socrates of Argos, is a fragmentary local history and genealogy of the Argolid region. Classified as a work of horography, it represents a Hellenistic effort to systematically document regional myths, cults, and heroic lineages. The work is entirely lost and survives only through approximately fifteen fragments preserved in later sources, primarily the mythographic Bibliotheca of Pseudo-Apollodorus, the geographical lexicon of Stephanus of Byzantium, and various ancient scholia. The alternative title Apospásmata, meaning "Extracts," accurately reflects its fragmentary preservation within these later compilations, as it possesses no independent manuscript tradition.
+
+The extant fragments address characteristic themes of local history, focusing on the antiquities of the Argive plain. They include detailed genealogies of Argive heroes such as Perseus and the Danaids, foundation myths for major cities including Argos and Mycenae, and etiological stories explaining regional place names and topographical features. The fragments also record origins of local religious cults and temples, often preserving distinct local variants that differed from the standardized Panhellenic epic traditions. For instance, Socrates provided an account of the birth and education of the healing god Asclepius, attributing his lineage to Arsinoe and noting his tutelage under the centaur Chiron, while also recording alternative traditions about the hero Sarpedon.
+
+Socrates of Argos was cited as a reliable authority on Argive antiquities by later Roman-era scholars and mythographers. His primary significance lies in his contribution to the systematization of regional mythology during the Hellenistic period. By meticulously compiling local traditions, his work served as an important source that influenced subsequent mythographic handbooks and helped preserve a layer of regional history distinct from the dominant Athenian or epic narratives.
+
 ## Text
 
 ### t1-4

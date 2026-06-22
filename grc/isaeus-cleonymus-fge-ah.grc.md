@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-ah` · [HTML page](https://eulogikon.org/works/isaeus-cleonymus-fge-ah)
 
+On the Lot of Cleonymus is a forensic oration composed by the Athenian logographer Isaeus in the mid-4th century BCE. Written for delivery by a client in an Athenian court, the speech addresses a complex inheritance dispute following the death of a childless man named Cleonymus. The core of the case involves Cleonymus's will, which bequeathed his estate to his nephews. After his death, more distant relatives contested this disposition, challenging the will's validity on procedural grounds. They argued it was legally invalid because it had not been formally deposited with a public official, as they claimed Athenian law required. The speech, structured in 34 sections, constitutes a robust defense of the nephews' claim. Its argumentation hinges on establishing the clear and lawful intent of the testator, emphasizing the natural and close familial bonds between Cleonymus and his nephews, and vigorously attacking the character and opportunistic motives of the opposing claimants.
+
+The complete text survives within the transmitted corpus of Isaeus's speeches, preserved through medieval manuscripts and conventionally numbered as his first oration. It stands as a valuable document for the study of Athenian law and society, offering detailed insight into the statutes and social values governing inheritance, particularly the paramount concern for the continuity of the household. For modern scholars, the speech serves as a critical source for examining the practical application of legal principles in the Athenian courts, the sophisticated rhetorical strategies employed by professional speechwriters, and the intricate dynamics of family relations and property transmission in Classical Athens.
+
 ## Text
 
 ### Or1 1

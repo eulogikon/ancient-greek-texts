@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pjq-aa` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-lexicon-pjq-aa)
 
+The Homeric Lexicon is a lost grammatical treatise attributed to Apollonius the Grammarian. It was a specialized reference work that systematically compiled and defined the archaic and obscure vocabulary found in the Homeric epics, the Iliad and the Odyssey. As a scholarly lexicon, it provided detailed philological analysis, including notes on etymology and usage, to facilitate the interpretation of Homer's texts. Such works were fundamental tools for the study of Homer in antiquity. The treatise is not preserved in any direct manuscript tradition; our fragmentary knowledge of it derives solely from later references by other ancient grammarians and lexicographers who likely utilized it as a source. The lexicon represents a key genre within the Alexandrian tradition of Homeric scholarship. While its direct influence is untraceable due to its loss, it exemplifies the reference works that helped standardize Homeric interpretation and likely informed subsequent scholarship, including the surviving scholia and later lexica.
+
 ## Text
 
 ### 1 (t1)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nzc-ab` · [HTML page](https://eulogikon.org/works/erotianus-medical-lexicon-nzc-ab)
 
+The Medical Lexicon Fragments of Erotianus the Grammarian is a 1st-century CE lexicographical treatise dedicated to the physician Andromachus. Surviving only in fragments, the work is an alphabetically arranged glossary compiled to explain obscure and difficult terminology found within the Hippocratic Corpus, thereby making those foundational medical texts more accessible to later Greek and Roman readers. It represents a systematic effort within the ancient grammatical tradition to explicate authoritative texts, providing significant evidence for how Hippocratic writings were understood and interpreted in the imperial period. The lexicon is primarily preserved in the 11th-century Codex Laurentianus plut. 74, 7, which contains the prologue and part of the glossary up to the letter epsilon. Additional fragments survive through quotations by later Byzantine medical scholars, including Theophilus Protospatharius and John of Alexandria. As a crucial source for the history of medical terminology and the ancient reception of Hippocratic medicine, Erotianus’s work is frequently cited in modern textual and linguistic studies, offering valuable insight into the methods of imperial-era grammarians and scholarly engagement with classical Greek medicine under the Roman Empire.
+
 ## Text
 
 ### 1

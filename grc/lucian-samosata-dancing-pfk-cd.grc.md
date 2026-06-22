@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cd` · [HTML page](https://eulogikon.org/works/lucian-samosata-dancing-pfk-cd)
 
+On Dancing is a prose treatise by the Syrian-born satirist Lucian of Samosata, composed in Atticizing Greek around 162–165 CE. Structured as a 66-chapter dialogue addressed to a critic named Crato, the work is a sophisticated and systematic defense of pantomime, a popular Roman performance art in which a solo, masked dancer enacted complex mythological narratives through gesture and movement alone, accompanied by music and song. Lucian directly confronts elite prejudices that dismissed the art as frivolous, effeminate, or morally corrupt. He constructs an elaborate argument portraying the ideal pantomime dancer as a virtual polymath, requiring a profound knowledge of mythology, history, poetry, rhetoric, philosophy, and music to interpret stories physically with accuracy and emotional depth. The treatise asserts the art's high cultural, moral, and educational value, contending that its vivid depictions of heroic and divine tales can inspire virtue in its audience. A key document of the Second Sophistic, a period marked by revived Greek rhetorical and literary culture under the Roman Empire, the work provides vital insight into contemporary aesthetic debates and the social status of performance. It remains an essential historical source for understanding the practice and reception of pantomime in the imperial era. The text survives complete through medieval manuscripts preserving Lucian's collected works.
+
 ## Text
 
 ### Salt t

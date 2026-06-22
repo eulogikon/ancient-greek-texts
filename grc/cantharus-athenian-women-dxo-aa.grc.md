@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dxo-aa` · [HTML page](https://eulogikon.org/works/cantharus-athenian-women-dxo-aa)
 
+_Fragments on Athenian Women_ is a modern descriptive title for eleven fragmentary passages attributed to the Athenian Old Comic poet Cantharus. These verses survive not as a continuous play but as quotations preserved in the works of later lexicographers and grammarians, such as Athenaeus and Pollux, who cited them for their unusual vocabulary or references to social customs. The fragments indicate the original comedy featured female characters and themes related to women’s lives in classical Athens. The extant lines suggest the play engaged with typical subjects of Old Comedy, including satire of domestic life and gender roles, social commentary on Athenian customs, and details of material culture such as food and household objects; there are also indications of possible parody of mythological figures. The complete work is lost, with the fragments transmitted indirectly through the scholarly tradition and compiled in modern editions such as Kassel-Austin’s Poetae Comici Graeci. While the play’s direct influence is untraceable, Cantharus was a significant figure in Old Comedy, having defeated Aristophanes at the City Dionysia in 422 BCE. These fragments provide valuable evidence for the language, material culture, and thematic scope of Athenian comedy beyond the fully preserved plays of the major authors.
+
 ## Text
 
 ### book 1.1

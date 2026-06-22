@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brc-ad` · [HTML page](https://eulogikon.org/works/antiphon-athens-human-nature-barbarians-brc-ad)
 
+On Human Nature and Barbarians is a philosophical treatise from the late 5th century BCE, attributed to the Sophist Antiphon of Athens. The work, surviving only in fragments, is a collection of passages that interrogate the relationship between universal human nature and man-made convention. Its central and radical thesis posits an identical biological nature shared by all humans, Greeks and non-Greeks alike, arguing that distinctions between ethnic groups are artificial social constructs rather than reflections of innate difference. The text systematically contrasts the natural, physical capacities common to all people—such as breathing, sensory perception, and emotional expression—with the particular laws and customs that divide them. Interpreted by scholars as a direct engagement with core sophistic debates of the period, the treatise is considered a provocative critique of Athenian societal norms, particularly during the Peloponnesian War. It stands as one of the earliest explicit statements of philosophical universalism and human equality in the Western tradition, challenging the foundational Greek dichotomy between civilized Hellenes and barbarians. The extant fragments are known primarily through later quotations, most notably by the Christian writer Hermias, who preserved them for polemical purposes centuries after their composition.
+
 ## Text
 
 ### 1364 fr a,col 1

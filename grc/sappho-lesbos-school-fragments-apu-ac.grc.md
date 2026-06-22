@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `apu-ac` · [HTML page](https://eulogikon.org/works/sappho-lesbos-school-fragments-apu-ac)
 
+The work conventionally titled Fragments on Sappho's School is a modern scholarly compilation rather than an ancient, unified text. It gathers thirteen disparate passages from the lyric poetry of Sappho of Lesbos, selected for their thematic connection to her intimate female circle, or thiasos. Sappho's surviving corpus consists of fragments from poems originally composed for performance within this group, encompassing love lyrics, hymns, and wedding songs. The collected fragments touch upon several defining aspects of her poetic world. Central themes include the personal expression of erotic desire, often between women; the emotional bonds and rivalries among companions; laments occasioned by separation, frequently due to marriage; and depictions of the group's communal activities and ceremonies. The poetry is also notable for its vivid aesthetic appreciation of natural beauty and sensory experience. Sappho's works were originally organized by meter in Alexandrian editions but now survive only in fragments, preserved through quotations by later ancient authors and on papyri discovered in Egypt. These thirteen passages are drawn from such scattered sources, as no ancient manuscript transmits a work under this title. Sappho, celebrated in antiquity as the "Tenth Muse," is a foundational figure in the history of lyric poetry. Her fragments offer invaluable insight into the social and artistic life of an Archaic Greek female community and remain central to scholarly discussions of gender, sexuality, and women's voices in the ancient world.
+
 ## Text
 
 ### book S259

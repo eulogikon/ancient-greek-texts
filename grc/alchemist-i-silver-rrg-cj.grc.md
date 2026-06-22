@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-cj` · [HTML page](https://eulogikon.org/works/alchemist-i-silver-rrg-cj)
 
+The Making of Silver is a concise Greek alchemical treatise from the early centuries of the Common Era, traditionally but falsely attributed to the philosopher Democritus. Composed in Koine Greek, it is a practical, recipe-based manual focused on the process of argyropoeia, the artificial creation or coloration of silver. The text consists of several brief passages detailing specific laboratory procedures. These instructions involve treating base metals such as lead and tin with substances including vinegar, salt, oil, and mercury, subjecting them to processes of grinding, heating, and distillation with the stated goal of producing a material possessing the nature or appearance of silver. The work exemplifies the technical, workshop-oriented dimension of early Greco-Egyptian alchemy, which emerged from the fusion of craft knowledge in metallurgy and dyeing with philosophical speculation on the transformation of matter.
+
+The treatise survives as part of a larger corpus of works ascribed to "Pseudo-Democritus," preserved primarily in Byzantine manuscripts. The most significant witness is the 10th- or 11th-century codex Marcianus graecus 299. Like many ancient technical texts, its transmission over centuries likely involved scribal errors and modifications. Scholars believe it originated in Roman Egypt, a center for alchemical practice. Its pseudepigraphic authorship, a common convention intended to lend authority to craft knowledge, suggests it was designed for use by practitioners in either workshop or initiatory contexts, reflecting the intertwined practical and esoteric character of early alchemy.
+
 ## Text
 
 ### 2.390

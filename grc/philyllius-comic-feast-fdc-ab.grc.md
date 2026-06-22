@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fdc-ab` · [HTML page](https://eulogikon.org/works/philyllius-comic-feast-fdc-ab)
 
+The Fragments of a Comic Feast is a modern compilation of 33 surviving passages attributed to the Athenian comic poet Philyllius, who was active around 400 BCE. These remnants of his lost comedies, written in Attic Greek verse, are likely drawn from a specific play titled Symposion (Banquet), a common setting for comedies of the period. The fragments focus predominantly on themes of food, dining, and domestic life, providing a window into the social satire and everyday humor popular in Athenian theater. No complete play by Philyllius survives; the work is known exclusively through quotations preserved by later ancient authors, most notably Athenaeus in the 2nd–3rd century CE, who cited them in his discussions of food and customs. Modern scholarship often interprets Philyllius as a transitional figure between the political fantasy of Old Comedy and the more socially focused concerns of Middle Comedy. Consequently, his fragments are studied primarily to illuminate the stylistic evolution of Greek comedy during this formative era.
+
 ## Text
 
 ### book 1

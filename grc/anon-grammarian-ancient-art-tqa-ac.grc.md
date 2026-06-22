@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ac` · [HTML page](https://eulogikon.org/works/anon-grammarian-ancient-art-tqa-ac)
 
+The Supplements to the Ancient Art of Dionysius is an anonymous grammatical treatise consisting of forty-three discrete passages. It functions as a series of critical scholia, offering detailed commentary on the foundational Art of Grammar attributed to Dionysius Thrax. The work systematically critiques and corrects the standard Dionysian definitions of the eight parts of speech, engaging in methodological debates by presenting structured arguments and counter-arguments on points of grammatical theory. Its primary focus is the refinement of technical terminology and the clarification of conceptual boundaries within linguistic analysis. The text survives embedded within the manuscript tradition of grammatical corpora, preserved in Greek codices alongside other scholarly works, with the standard modern edition prepared by Alfred Hilgard in the Grammatici Graeci series. As a significant artifact of late antique scholarship, the treatise exemplifies the active and critical debate that surrounded the authoritative Dionysian text, providing valuable insight into the refinement of Hellenistic grammatical doctrines and the history of linguistic thought.
+
 ## Text
 
 ### 1 1 105 (2)

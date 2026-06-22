@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ojc-ab` · [HTML page](https://eulogikon.org/works/rufus-ephesus-human-body-terms-ojc-ab)
 
+On the Terms of the Human Body is a systematic anatomical lexicon composed in Greek by the physician Rufus of Ephesus around the late first or early second century CE. The treatise functions as a practical reference work, methodically defining and standardizing the nomenclature for parts of the human body to aid medical students and practitioners. Its pedagogical intent is established from the outset, where Rufus argues that mastery of any art, from music to geometry, must begin with the correct names for its fundamental elements; medicine, he insists, should be no different. The text proceeds through 198 concise entries, arranged in a logical head-to-toe sequence that encompasses both external features and internal structures, including bones, muscles, and organs. The complete work has survived from antiquity, preserved in Greek manuscripts such as the 14th-century Parisinus gr. 2163. Its enduring value is demonstrated by its translation into Latin, Syriac, and Arabic, through which it significantly influenced medical education in the Islamic world and medieval Europe. Modern scholarship regards the treatise as a crucial effort to clarify and synthesize the often inconsistent anatomical terminology found in earlier medical traditions, particularly the Hippocratic corpus, thereby reflecting Rufus’s empirical and didactic approach to the science of medicine.
+
 ## Text
 
 ## ΡΟΥΦΟΥ ΤΟΥ ΕΦΕΣΙΟΥ ΠΕΡΙ ΟΝΟΜΑΣΙΑΣ ΤΩΝ ΤΟΥ ΑΝΘΡΩΠΟΥ ΜΟΡΙΩΝ. Τί πρῶτον ἔμαθες ἐν κιθαριστικῇ; Κρούειν ἑκάστην τῶν χορδῶν καὶ ὀνομάζειν.

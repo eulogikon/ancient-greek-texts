@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dxy-ac` · [HTML page](https://eulogikon.org/works/pherecrates-human-affairs-dxy-ac)
 
+The Fragments on Human Affairs is a modern compilation of excerpts from the lost comedies of Pherecrates, an Athenian playwright of the late 5th century BCE. A contemporary of Aristophanes, Pherecrates was a practitioner of Old Comedy, a verse genre in Attic Greek characterized by fantastical plots, political satire, and robust humor directed at the Athenian public. The collection comprises 24 passages, which are not derived from a single play but are fragments preserved because later ancient authors quoted them for their notable language or content. These remnants reflect the thematic concerns of Pherecrates' era, including satire of new intellectual trends and cultural shifts. One celebrated fragment, from his play Cheiron, features a personified "Music" lamenting the innovations of modern musicians, exemplifying his critique of contemporary change. Other fragments mock sophists such as Hippias or allude to utopian plots that parody societal norms. No complete play by Pherecrates survives; his oeuvre is known entirely through these indirect quotations, primarily preserved in the works of later authors like Athenaeus, who compiled them centuries afterward in his expansive work on dining and culture. Modern scholars have systematically collected and numbered these fragments in authoritative editions such as Poetae Comici Graeci, which offer valuable insights into the language and social preoccupations of Classical Athens.
+
 ## Text
 
 ### book 1

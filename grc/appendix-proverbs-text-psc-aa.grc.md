@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `psc-aa` · [HTML page](https://eulogikon.org/works/appendix-proverbs-text-psc-aa)
 
+The Appendix of Proverbs is a paremiographical collection of 149 Greek maxims, representing a compilation of traditional proverbial wisdom. It consists of concise, often metaphorical statements offering guidance on practical and ethical conduct, exemplifying the scholarly activity of systematizing gnomic sayings common from the Hellenistic through the Byzantine periods. The content aligns with standard themes in Greek gnomic literature, including the cultivation of virtue, the avoidance of vice, the principles of ethical moderation, and practical advice concerning life, friendship, and the management of wealth. Further proverbs offer observations on the human condition, fate, and the often inscrutable ways of the divine.
+
+The manuscript tradition for this specific collection is not widely attested in standard scholarly references. Such minor compilations typically survive within larger medieval codices that contain multiple gnomological texts. The preservation of the full set of 149 passages suggests a complete transmission, though the specific editorial history and the identity of its compiler remain unclear. While the direct influence of this particular text is not documented, proverb collections as a genre functioned as significant repositories of cultural wisdom. They served important educational and rhetorical purposes, providing a common stock of source material for literary composition and moral instruction, thereby influencing Byzantine and later literary traditions.
+
 ## Text
 
 ### t 1

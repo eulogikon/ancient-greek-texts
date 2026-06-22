@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `smu-aa` · [HTML page](https://eulogikon.org/works/eutychianus-julian-campaign-smu-aa)
 
+The Fragments on Julian's Campaign by Eutychianus the Historian is a lost historical work known only from a single citation in the tenth-century Byzantine encyclopedia known as the Suda. That lexicon records the title and author but provides no direct quotation from the text itself. Based on its title, the work almost certainly treated the Persian campaign of the Roman emperor Julian, who reigned from 361 to 363 CE. This would have encompassed his ambitious invasion of the Sasanian Empire in 363, a campaign that culminated in his death in battle. As a presumably contemporary or near-contemporary account, the work would have functioned as both a military history of the expedition and a biographical narrative focused on the emperor's actions. Its sole preservation within the Suda confirms the existence of this otherwise unknown source for Julian's reign, placing Eutychianus among the fragmentary historians of the late Roman period, though the work's specific content and its potential influence on later historiography remain entirely unknown.
+
 ## Text
 
 ### 1

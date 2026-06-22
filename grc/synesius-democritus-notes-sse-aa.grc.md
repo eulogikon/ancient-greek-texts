@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sse-aa` · [HTML page](https://eulogikon.org/works/synesius-democritus-notes-sse-aa)
 
+Synesius the Philosopher to Dioscorus—the Book of Democritus is a late antique Greek alchemical treatise composed as an epistolary commentary. Purportedly written by Synesius the Philosopher, a figure traditionally identified with the 4th–5th century Neoplatonic bishop Synesius of Cyrene, the work is now considered pseudonymous, likely authored by a later alchemical writer adopting a venerable name to lend authority to the text. It functions as an exegesis on the core doctrines and recipes found in the foundational alchemical corpus known as the Physika kai Mystika, which was ascribed to the legendary sage Democritus. The treatise systematically addresses the technical processes of Greco-Egyptian alchemy, including the treatment, coloring, and purported transmutation of metals and stones, employing the symbolic and deliberately obscure terminology typical of the craft. Written for a community of initiates, its primary aim was to elucidate the cryptic instructions of the earlier pseudo-Democritean tradition. The work survives intact within the major medieval manuscripts preserving the Greek alchemical corpus, most notably the 13th-century Parisinus Graecus 2327. As a significant link in the chain of hermetic knowledge, it contributed to the transmission and interpretation of alchemical theory and practice into later Byzantine and, indirectly, Arabic scholarly traditions.
+
 ## Text
 
 ### 2.56.(20t)

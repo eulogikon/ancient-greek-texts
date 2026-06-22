@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bh` · [HTML page](https://eulogikon.org/works/galen-pergamon-human-body-parts-qmm-bh)
 
+On the Usefulness of the Parts of the Body is a foundational medical treatise by the Greek physician Galen of Pergamon, composed in Attic Greek around 170–180 CE. Spanning seventeen books, it presents a comprehensive and teleological exposition of human anatomy, arguing systematically that every component of the body is exquisitely fashioned by a divine Creator or Nature for a specific, purposeful function. The work proceeds methodically from an examination of bones and joints, through the systems of muscles and nerves, to a detailed analysis of the internal organs and the senses. Galen's anatomical descriptions, while remarkably detailed for their time, were derived principally from dissections of animals such as apes and pigs, as the practice of human dissection was culturally prohibited in the Roman world.
+
+The complete Greek text of the treatise survives, having been preserved and transmitted through Byzantine, Arabic, and later Latin scholarly traditions, where it remained a cornerstone of medical and philosophical education for over a millennium. Modern scholarship interprets the work not merely as a technical anatomical guide but as a sophisticated theological and philosophical argument, intended to demonstrate evidence of providential design in the natural world. Written for an audience of physicians and philosophers, the treatise was instrumental in cementing Galen's intellectual authority and profoundly shaped biological and medical thought throughout the medieval and early modern periods.
+
 ## Text
 
 ### 3 1 (t1)

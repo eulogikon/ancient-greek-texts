@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bl` · [HTML page](https://eulogikon.org/works/lucian-samosata-zeus-tragedian-pfk-bl)
 
+Zeus the Tragedian is a satirical dialogue by the second-century CE Syrian author Lucian of Samosata. Written in refined Attic Greek, the work stages a comic theological debate on Mount Olympus. The gods, led by a fretful Zeus, are alarmed that philosophers in Athens are publicly questioning their existence and providence. The central confrontation occurs between Zeus and a Cynic philosopher named Cyniscus, who is brought to Olympus for interrogation, with a Stoic philosopher, Timocles, also participating. Their exchange deconstructs traditional beliefs about divine oversight of human affairs and the efficacy of prayer, reducing lofty philosophical discourse to a petty, farcical quarrel. The dialogue’s title derives from Cyniscus’s taunt that Zeus’s vehement self-defense resembles the overwrought performance of a tragic actor.
+
+A product of the Second Sophistic, a period of Greek cultural revival under the Roman Empire, the work blends the philosophical dialogue form of Plato with the irreverent comic spirit of Old Comedy. Lucian employs sharp irony and parody to satirize both Stoic doctrines of divine order and the anthropomorphic conception of the Olympian gods, whom he portrays as vain, insecure, and preoccupied with their public reputation. The text survives intact through medieval manuscripts, preserved by Byzantine scholars who valued Lucian’s prose as a model of stylistic elegance. It remains a significant example of Lucian’s characteristic mockery of philosophical pretension and religious dogma.
+
 ## Text
 
 ### J Tr t

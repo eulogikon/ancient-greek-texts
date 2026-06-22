@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ae` · [HTML page](https://eulogikon.org/works/hippocrates-letters-decrees-orations-bww-ae)
 
+The Letters, Decree, and Orations is a collection of 42 prose passages traditionally ascribed to the physician Hippocrates but universally recognized by modern scholarship as pseudepigrapha. Composed in Attic and Ionic Greek, likely during the 4th or 3rd century BCE, the work comprises a series of fictional letters, a civic decree, and speeches. These documents construct a legendary narrative centered on Hippocrates, most famously dramatizing his refusal to accept lavish rewards from the Persian King Artaxerxes in exchange for treating a plague afflicting the Persian army. The collection functions as biographical fiction, blending historical figures with invented correspondence and oratory. Its primary aim is rhetorical and ethical, seeking to fashion Hippocrates into an idealized symbol of Greek civic virtue, wisdom, and patriotism, explicitly contrasted with Persian despotism. The narrative reinforces ethical precepts consistent with genuine Hippocratic texts, particularly the physician’s duty to his own community over foreign wealth and patronage. Preserved in full within the medieval manuscript tradition of the Hippocratic Corpus, its spurious nature was acknowledged even in antiquity by authorities such as Galen. The work is valued today not for medical content but for its illumination of the posthumous construction of Hippocrates’ legendary status and the cultural values of the Hellenistic era.
+
 ## Text
 
 ### 1

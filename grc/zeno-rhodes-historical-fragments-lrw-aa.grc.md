@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lrw-aa` · [HTML page](https://eulogikon.org/works/zeno-rhodes-historical-fragments-lrw-aa)
 
+The Rhodian Historical Fragments constitute the surviving excerpts from the lost historical work of Zeno of Rhodes, a Hellenistic historian of the 2nd century BCE. Preserved solely through later citation, the eleven extant fragments derive primarily from quotations in Athenaeus’s Deipnosophistae. This modern compilation provides the only evidence for Zeno’s original prose history, which was dedicated to the affairs of his Rhodian homeland. The fragments cover several aspects of Rhodian history and culture, including political and military events such as alliances and sieges, diplomatic relations with contemporary Hellenistic powers, descriptions of public customs and festivals, and accounts of notable figures and achievements like the construction of the Colossus. Zeno’s work survives entirely through this indirect transmission, having been quoted by Athenaeus around 200 CE for details on Rhodian life and later systematized by modern scholars into the current collection. Though fragmentary, Zeno’s history was employed as an authoritative source by later ancient writers. For modern scholarship, the fragments offer valuable evidence for reconstructing the history, society, and local historiography of Hellenistic Rhodes.
+
 ## Text
 
 ### t1-3

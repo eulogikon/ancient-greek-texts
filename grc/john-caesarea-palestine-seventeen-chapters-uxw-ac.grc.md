@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uxw-ac` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-seventeen-chapters-uxw-ac)
 
+The Seventeen Chapters Against the Monophysites is a theological treatise composed in Greek by John of Caesarea, a sixth-century theologian also known as John the Grammarian. Written circa 515–518 CE amid fierce Christological controversies in the Byzantine Empire, the work is a systematic polemic structured in seventeen chapters. Its primary aim is to refute Monophysite doctrine, which asserted that Christ had only a single, divine nature. John vigorously defends the dyophysite position established by the Council of Chalcedon in 451, affirming that Christ exists as one person in two distinct and complete natures, divine and human. His argumentation is characterized by rigorous grammatical analysis and Aristotelian logical precision, an analytical approach that inspired his epithet. Modern scholarship identifies the treatise as a cornerstone of the Neo-Chalcedonian movement, which sought to reconcile the Chalcedonian definition with the theological language of earlier church fathers, particularly Cyril of Alexandria. It was intended both to fortify adherents of Chalcedon and to persuade moderate Monophysite opponents. The complete original text is lost; knowledge of the work derives entirely from fragments preserved in later writings, most extensively in the refutation composed by the seventh-century Monophysite philosopher John Philoponus. Despite its fragmentary survival, the treatise is recognized for its significant influence on the development of subsequent Byzantine theology and Christological debate.
+
 ## Text
 
 ### [45]

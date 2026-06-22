@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-aa` · [HTML page](https://eulogikon.org/works/hippocrates-seed-nature-child-diseases-bww-aa)
 
+On Seed, the Nature of the Child, Diseases IV is a unified medical treatise from the Hippocratic Corpus, a collection of ancient Greek works attributed to the physician Hippocrates. Composed in Ionic Greek in the late fifth or early fourth century BCE, it presents a systematic investigation into human reproduction, embryology, and gynecological health. The work opens with a detailed physiological account of the origin of seed, advocating for the theory of pangenesis, which posits that reproductive material is drawn from all parts of both parents' bodies to explain hereditary traits. It proceeds to describe the stages of fetal development with meticulous, week-by-week observations, employing analogies to the growth of plants. The treatise then outlines the process of parturition before concluding with extensive discussions of women's diseases, with particular focus on postpartum ailments.
+
+The complete text survives as a coherent entity within the larger Hippocratic collection. Scholars regard it as a seminal document in the historical effort to establish medicine as a rational discipline grounded in natural philosophy and empirical observation, deliberately distancing itself from explanations involving divine intervention. Intended as a practical reference for physicians and students, it provided a theoretical and descriptive framework for managing reproduction and women's health. Its ambitious theories on heredity and embryonic development exerted a profound influence on subsequent natural philosophers, most notably Aristotle, and served as a foundational text for the Western gynecological tradition for centuries.
+
 ## Text
 
 ## ΠΕΡΙ ΓΟΝΗΣ. ΠΕΡΙ ΦΥΣΙΟΣ ΠΑΙΔΙΟΥ. ΠΕΡΙ ΝΟΥΣΩΝ ΤΟ ΤΕΤΑΡΤΟΝ. Νόμος μὲν πάντα κρατύνει· ἡ δὲ γονὴ τοῦ ἀνδρὸς ἔρχεται ἀπὸ παντὸς τοῦ ὑγροῦ τοῦ ἐν τῷ σώματι ἐόντος τὸ ἰσχυρότατον ἀποκριθέν· τούτου δὲ ἱστόριον τόδε, ὅτι ἀποκρίνεται τὸ ἰσχυρότατον, ὅτι ἐπὴν λαγνεύσωμεν σμικρὸν οὕτω μεθέντες, ἀσθενέες γινόμεθα.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gcc-aa` · [HTML page](https://eulogikon.org/works/simus-testimonies-gcc-aa)
 
+The philosophical work Testimonies is attributed to Simus the Philosopher. It is documented only as a collection consisting of three brief passages, unattested in major scholarly references and digital repositories of classical texts. No description of the work’s specific philosophical content or the nature of its testimonies survives in established academic sources. The transmission history is entirely undocumented, with the provenance and medium of the three cited passages remaining unspecified. Due to the absence of corroborating evidence from authoritative sources, the work and its author remain unverifiable and cannot be placed within any known philosophical tradition or historical context.
+
 ## Text
 
 ### 1

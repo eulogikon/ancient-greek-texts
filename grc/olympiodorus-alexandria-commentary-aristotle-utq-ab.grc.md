@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `utq-ab` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-commentary-aristotle-utq-ab)
 
+Olympiodorus the Younger of Alexandria’s Commentary on Aristotle’s Meteorology is a comprehensive sixth-century philosophical treatise composed as a series of 338 lectures. Delivered by Olympiodorus in his capacity as a Neoplatonist teacher in Alexandria, the work provides a detailed, line-by-line exegesis of all four books of Aristotle’s Meteorology. It addresses the wide range of phenomena classified under ancient meteorology, including weather patterns, comets, rivers, and metals, all understood as part of the systematic study of the sublunary world. The commentary’s structure and pedagogical tone reflect its origin in the formal Neoplatonic curriculum, where the study of Aristotle’s works served as a preparatory stage for the higher philosophy of Plato.
+
+Surviving in its entirety, the commentary exemplifies the scholarly practices of late antique philosophical schools. Modern interpretation identifies a dual purpose in Olympiodorus’s work: to elucidate the complexities of Aristotle’s natural philosophy and to integrate its principles within a harmonized Neoplatonic metaphysical framework. This synthesizing project was characteristic of the era’s intellectual milieu. Designed for advanced students, the lectures train them in exegetical methodology and natural philosophy while engaging critically with the interpretations of earlier commentators. Composed after the closure of the Platonic school in Athens in 529 CE, the work stands as a testament to the endurance of pagan philosophical instruction within a Christian empire. It subsequently served as a crucial conduit for the transmission of Aristotelian science to later Byzantine and Islamic scholarly traditions.
+
 ## Text
 
 ### 1 (1t)

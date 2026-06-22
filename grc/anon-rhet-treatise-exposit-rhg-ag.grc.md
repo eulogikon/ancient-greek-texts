@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-ag` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-exposit-rhg-ag)
 
+The Expositio of the Art of Rhetoric is an anonymous Greek rhetorical treatise from the late antique or early Byzantine period. Structured as a systematic, textbook-like manual, it comprises 23 passages designed for educational use within the tradition of classical rhetorical instruction. The work opens with a theological inquiry, questioning whether the art of rhetoric is a divine gift to humanity, contrasting pagan mythological explanations with Christian logical arguments before proceeding to its technical exposition. It systematically outlines core rhetorical doctrines, including the definition of rhetoric as an art, the three genres of oratory (deliberative, judicial, and epideictic), the canonical parts of a speech (proem, narration, proof, and epilogue), and the essential virtues of style. The treatise survives primarily in the 14th-century manuscript Codex Parisinus graecus 1983, an anthology of rhetorical texts, and is published in modern critical editions such as the Rhetores Graeci. As a concise pedagogical handbook, the Expositio exemplifies the texts that preserved and standardized classical rhetorical theory for centuries, serving as a key source for understanding the methods of rhetorical education and the continuity of the Greco-Roman rhetorical tradition in the Byzantine world.
+
 ## Text
 
 ### 3.725.(1t)

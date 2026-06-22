@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fci-ab` · [HTML page](https://eulogikon.org/works/hypereides-harpalus-fci-ab)
 
+Against Demosthenes, also known as Against Demosthenes concerning the Money of Harpalus, is a forensic oration composed by the Athenian logographer Hypereides in 323 BCE. The speech was delivered as part of the prosecution against the renowned statesman Demosthenes, who was accused of accepting a substantial bribe during the political scandal known as the Harpalus Affair. This crisis erupted when Harpalus, the absconding treasurer of Alexander the Great, fled to Athens with considerable wealth, ostensibly to secure Athenian support for a revolt against Macedonian hegemony. Once an ally of Demosthenes, Hypereides here levels the charge that Demosthenes betrayed the city for personal profit, framing the accusation as a fundamental violation of public trust and contrasting his earlier patriotic rhetoric with his alleged venality during a national emergency.
+
+The work survives only in a fragmentary state, principally recovered from a single papyrus roll found in Egypt during the nineteenth century. The eighteen extant passages, though damaged and incomplete, clearly convey the essence of Hypereides' rhetorical assault. The speech is regarded by modern scholars as a crucial historical source, providing a contemporary witness to the intense political strife and factional maneuvering in Athens in the period immediately following the death of Alexander the Great, as the city contemplated a final, ultimately futile, struggle to regain its independence.
+
 ## Text
 
 ### Athen t

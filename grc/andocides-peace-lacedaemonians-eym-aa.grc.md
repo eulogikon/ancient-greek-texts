@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eym-aa` · [HTML page](https://eulogikon.org/works/andocides-peace-lacedaemonians-eym-aa)
 
+On Peace with the Lacedaemonians is a political oration delivered by the Athenian statesman Andocides to the citizen assembly in 391 BCE. The speech presents a comprehensive and urgent argument for Athens to accept a specific set of peace terms offered by Sparta, aiming to end the ongoing Corinthian War. Andocides opens by asserting the universal preference for just peace over war, then directly confronts the central objection of his political opponents: the fear that making peace with Sparta would destabilize the Athenian democracy. He counters this by appealing to historical precedent, reminding the audience that the democracy had previously made treaties with Sparta without suffering internal collapse.
+
+The orator systematically outlines the severe dangers of continuing the costly and indecisive war, including the financial drain on the city and the constant threat to its commerce and security. In contrast, he highlights the tangible benefits of the proposed agreement, which would essentially freeze existing territorial holdings, providing Athens with a period of stability to recover its strength. The speech is grounded in the immediate context of a diplomatic stalemate, following Andocides' own participation in an embassy to Sparta. It reflects the pragmatic rhetoric of a seasoned politician advocating for a realistic, if unpopular, course of action. The assembly ultimately rejected his advice, choosing to prolong the conflict. Preserved in full through the medieval manuscript tradition of the Attic orators, the speech stands as an authentic and valuable document for understanding the intense diplomatic negotiations and contentious public debate in Athens during the later stages of the Corinthian War.
+
 ## Text
 
 ### De pac t

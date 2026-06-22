@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyg-ab` · [HTML page](https://eulogikon.org/works/damascius-damascus-isidore-uyg-ab)
 
+The Life of Isidore, a philosophical biography by the Neoplatonist Damascius, was composed in Attic Greek during the early sixth century CE. Dedicated to his teacher, Isidore of Alexandria, the work is structured not as a conventional linear narrative but as a collection of anecdotes, philosophical discussions, and character portraits. Later sources indicate it was organized into 365 distinct passages. It functions as a history of the Neoplatonic schools in Alexandria and Athens, presenting Isidore as the embodiment of the ideal philosopher and spiritual guide. The text was written during a period of profound crisis for pagan intellectual life, likely following the closure of the Athenian Neoplatonic school by the Christian emperor Justinian. Modern scholarship interprets it as a defense of pagan Hellenic culture and philosophy against the rising dominance of Christianity, contrasting the virtues of philosophers like Isidore with perceived shortcomings among some contemporaries. The original work is lost, surviving only in fragments preserved within later compilations, most notably the ninth-century Bibliotheca of Photius and the tenth-century Suda lexicon. These extant portions provide a crucial internal perspective on the final era of Athenian Platonism.
+
 ## Text
 
 ### ante

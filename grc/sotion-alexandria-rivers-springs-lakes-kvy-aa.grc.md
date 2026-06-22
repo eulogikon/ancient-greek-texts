@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kvy-aa` · [HTML page](https://eulogikon.org/works/sotion-alexandria-rivers-springs-lakes-kvy-aa)
 
+On Rivers, Springs, and Lakes is a paradoxographical work attributed to the Hellenistic scholar Sotion of Alexandria. The text, now lost and known only through fragmentary citations in later authors, was a compilation of marvels and curiosities associated with various bodies of water. Its alternative title, Apospasmata ("Extracts"), indicates its nature as an epitome, gathering and condensing pre-existing lore. The work systematically cataloged geographical wonders, blending descriptions of real locations with mythological and etiological narratives. Typical entries included springs whose waters could drive horses mad, rivers that altered the color of animals' wool, and lakes with seemingly miraculous properties, such as reviving drowned creatures. These accounts often served to explain the origins of place names or peculiar local phenomena. The work's transmission into late antiquity is evidenced by its citation in the sixth century by the philosopher John Philoponus in his commentary on Aristotle's Meteorology. As a representative of the Hellenistic paradoxographical tradition, Sotion's compilation illustrates the scholarly interest in systematizing the natural world's marvels, a genre that occupied a space between empirical geography and mythological storytelling, and its influence persisted in later encyclopedic and commentary traditions.
+
 ## Text
 
 ## SOTIONIS ΤΩΝ ΣΠΟΡΑΔΗΝ ΠΕΡΙ ΠΟΤΑΜΩΝ ΚΑΙ ΚΡΗΝΩΝ ΚΑΙ ΛΙΜΝΩΝ ΠΑΡΑΔΟΞΟΛΟΓΟΥΜΕΝΩΝ. Κρήνη ἐν Ποτνίαις περὶ Θήβας, ἐξ ἧς οἱ ἵπποι πίνοντες μαίνονται, ὡς ἱστορεῖ Ἰσίγονος ἐν δευτέρῳ ἀπίστων.

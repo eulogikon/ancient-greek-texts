@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-ag` · [HTML page](https://eulogikon.org/works/aesop-syntipas-fables-aqo-ag)
 
+The Fables of Syntipas the Philosopher is a collection of 61 prose fables attributed to Aesop. The work is structured by a frame narrative in which the philosopher Syntipas, also known as Sindbad, instructs a king, often named Cyrus, through a series of Aesopic tales. These fables, featuring animals and moral lessons, serve to counsel the ruler on matters of wisdom, justice, and governance, while also defending a prince from false accusations within the story. This narrative framework mirrors Eastern wisdom literature, particularly the Book of Sindbad from the Seven Sages cycle. The individual fables are classic in form, employing animal symbolism to impart lessons on virtues such as prudence and honesty and to warn against vices like greed and folly.
+
+The text survives in Greek manuscripts and represents a Byzantine-era adaptation and translation of the Oriental narrative cycle. It is a late derivative within a complex tradition that spans Syriac, Arabic, and Persian versions, transmitting its fables as part of the fluid medieval Aesopic corpus. As a Greek version of the Book of Sindbad, the work is a significant witness to the transmission of Eastern narrative material into Greek and subsequently European literature, where it influenced later Slavic versions of the cycle. Its primary importance lies in the history of comparative literature and the cross-cultural migration of tales.
+
 ## Text
 
 ### 1 (t)

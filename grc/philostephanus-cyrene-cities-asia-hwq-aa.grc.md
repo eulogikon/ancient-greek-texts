@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hwq-aa` · [HTML page](https://eulogikon.org/works/philostephanus-cyrene-cities-asia-hwq-aa)
 
+_On the Cities in Asia_ is a lost geographical treatise by the Hellenistic scholar Philostephanus of Cyrene, who flourished in the 3rd century BCE. The work is known only through approximately forty-two fragments preserved by later authors, primarily in the 6th-century CE geographical lexicon _Ethnica_ by Stephanus of Byzantium. These fragments indicate the work was a periegesis, a descriptive survey, focusing on the cities of Asia Minor. Its content centered on the foundation myths and historical origins of cities, detailing their legendary or historical founders, associated local cults, and connections to gods and heroes. The surviving excerpts also show an interest in ethnographic details, geographical features, and cultural inventions, reflecting the Hellenistic scholarly fascination with "first discoverers." The work was used as a source by later compilers including Pliny the Elder and Athenaeus, and it represents a notable example of the blend of mythography and systematic geography characteristic of Hellenistic scholarship.
+
 ## Text
 
 ### t1-8

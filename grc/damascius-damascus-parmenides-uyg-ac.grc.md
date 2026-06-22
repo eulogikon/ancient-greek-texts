@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyg-ac` · [HTML page](https://eulogikon.org/works/damascius-damascus-parmenides-uyg-ac)
 
+_On Parmenides_ is a philosophical commentary composed in Attic Greek by Damascius of Damascus, the final head of the Platonic Academy in Athens, around the sixth century CE. This extensive, line-by-line analysis of Plato’s dialogue _Parmenides_ focuses meticulously on its first part, which investigates the nature of the absolute and ineffable “One.” Intended for advanced students, the work serves as both a pedagogical guide and a critical engagement with the metaphysical frameworks of earlier Neoplatonists, particularly Proclus. The commentary survives in 318 passages within a single ninth-century manuscript, though the text is incomplete, breaking off during its analysis; it remains uncertain whether Damascius left the work unfinished or if the remainder has been lost. Modern scholarship regards the treatise as an essential source for understanding the sophisticated internal debates of late Athenian Neoplatonism, especially Damascius’s argument for a First Principle so transcendent that it exceeds even the notion of unity itself.
+
 ## Text
 
 ### 5

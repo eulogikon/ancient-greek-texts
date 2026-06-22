@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gmc-aa` · [HTML page](https://eulogikon.org/works/patrocles-thurii-vicissitudes-fate-gmc-aa)
 
+On the Vicissitudes of Fate, also known by the Greek title Apospasmata, is a work attributed to Patrocles of Thurii. The title Apospasmata translates as "Extracts" or "Fragments," and the composition is described as a verse drama. The work is unattested in standard scholarly sources and its manuscript tradition is unrecorded, leaving its status as a complete, fragmentary, or lost text unverified. The provided metadata indicates it consists of five passages, and its titular designation as a collection of excerpts suggests the content may derive from larger dramatic works. While the author's name and origin in the Greek colony of Thurii suggest a possible Hellenistic context, the work's specific content, character, and historical or literary significance remain entirely undocumented.
+
 ## Text
 
 ### book 1.1

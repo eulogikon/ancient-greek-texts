@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-ac` · [HTML page](https://eulogikon.org/works/libanius-antioch-demosthenic-orations-swk-ac)
 
+The Arguments of Demosthenic Orations is a rhetorical commentary by the fourth-century CE sophist Libanius of Antioch. Composed in Attic Greek, the work comprises 223 individual introductions, or hypotheseis, each prefacing a specific oration by the classical Athenian statesman Demosthenes. These concise passages were crafted as pedagogical aids for advanced students of rhetoric, providing summaries of the historical context, legal framework, and principal arguments contained within Demosthenes' complex speeches. By distilling the orations' core content and circumstances, Libanius aimed to render them more accessible for close study, analysis, and stylistic imitation within the late antique educational system.
+
+The complete text has been preserved through medieval manuscripts, frequently copied in conjunction with the Demosthenic corpus itself. Scholars regard the work as a significant artifact of late antique paideia, illustrating the enduring centrality of classical Athenian oratory as a model for elite education during a period of cultural transformation within the Roman Empire. It functions both as a practical handbook for rhetorical instruction and as a scholarly tribute, reinforcing the tradition of Greek learning. While secondary to the primary historical sources of the fourth century BCE, Libanius's summaries offer valuable later perspectives on the events and controversies that shaped Demosthenes' political career.
+
 ## Text
 
 ### ArgD t 1

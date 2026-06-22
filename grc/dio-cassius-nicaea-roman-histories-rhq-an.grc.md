@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhq-an` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-an)
 
+The Roman Histories is an extensive 80-book history of Rome, composed in Attic Greek by the senator and historian Cassius Dio in the early third century CE. It chronicles Roman history from its legendary foundations through to the author's own era. The complete text has not survived. While medieval manuscripts preserve a continuous narrative for certain periods, much of the work—including the critical history of Augustus's reign and later imperial events—is known only through fragments, epitomes, and excerpts compiled by Byzantine scholars. Among these are the so-called Salmasian Excerpts, a set of four fragments named for the seventeenth-century scholar who first published them from a now-lost Byzantine codex. These passages were originally extracted in the tenth century under the direction of Emperor Constantine VII Porphyrogennetos, whose editors systematically dismantled historical works and rearranged the material under thematic headings such as virtues or embassies. As a result, these excerpts exist divorced from their original narrative context within Dio's larger history. Modern scholarship regards Dio's history as a crucial, critical analysis of Rome's transition from republic to autocratic empire, written from a distinctive senatorial viewpoint. The Salmasian Excerpts, though fragmentary, form an integral part of the complex source material that enables the reconstruction of this major historical work.
+
 ## Text
 
 ### 763 (t1)

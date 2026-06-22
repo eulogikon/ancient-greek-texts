@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `coe-aa` · [HTML page](https://eulogikon.org/works/metrodorus-lampsacus-testimonies-coe-aa)
 
+The Testimonies is a lost philosophical work by Metrodorus of Lampsacus the Elder, a 5th-century BCE disciple of Anaxagoras. Written in Ionic Greek, the work survives only through a handful of fragmentary quotations preserved by later authors, including Plato, Diogenes Laertius, and Tatian. These testimonia indicate the work was a collection of doctrines, though its original structure and full scope are unrecoverable. The extant fragments suggest it engaged with core Anaxagorean themes, particularly cosmology and the ordering principle of mind. Metrodorus is historically significant as one of the earliest systematic allegorists of Homer, and the Testimonies is believed to have contained his interpretations that read figures and events in epic poetry as allegories for physical elements and philosophical truths. For instance, he interpreted the god Zeus as representing the mind, Hera as air, and the hero Agamemnon as the aether, thereby translating myth into a framework of natural philosophy. The work’s importance lies in its role as a bridge between Ionian speculative thought and the later traditions of allegorical exegesis that flourished in Hellenistic and Roman philosophy.
+
 ## Text
 
 ### 1

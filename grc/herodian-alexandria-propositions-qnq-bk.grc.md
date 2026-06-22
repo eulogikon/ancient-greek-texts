@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bk` · [HTML page](https://eulogikon.org/works/herodian-alexandria-propositions-qnq-bk)
 
+The Propositions is a grammatical treatise attributed to the second-century scholar Herodian of Alexandria. Herodian, the son of the grammarian Apollonius Dyscolus and a scholar active during the reign of Marcus Aurelius, is best known for his systematic work on Greek accentuation and prosody, most notably in his extensive but largely lost work, the General Prosody. While the title Propositions suggests a work dealing with grammatical or rhetorical premises, the treatise is not directly attested in major surviving sources, leaving its precise content and structure undocumented. Based on Herodian's established corpus, it would almost certainly have addressed core themes of his scholarship, including Greek grammar and linguistics, with a particular focus on accentuation, prosody, phonology, orthography, and the systematization of Attic Greek usage. Herodian's influence is transmitted almost entirely through fragments and quotations preserved in later grammatical compilations, such as the Epimerismoi and the works of Byzantine scholars like George Choeroboscus; the Propositions itself is not specifically mentioned in standard histories of textual transmission. Nevertheless, Herodian's grammatical works were foundational for Byzantine education, serving as standard textbooks for centuries. His systematic rules were instrumental in preserving the accepted pronunciation and metrical understanding of classical Greek texts, cementing his enduring authority among later grammarians and lexicographers.
+
 ## Text
 
 ### 3,2 907 (1t)

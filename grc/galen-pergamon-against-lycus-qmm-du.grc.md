@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-du` · [HTML page](https://eulogikon.org/works/galen-pergamon-against-lycus-qmm-du)
 
+Against Lycus is a lost polemical treatise by the Roman-era physician Galen, likely composed in the late second century CE. The work is a structured series of fifty critical passages aimed at refuting the physician Lycus of Macedon, a follower of the Empiricist school of medicine. Galen’s primary objective was to defend the anatomical doctrines of the Hellenistic doctor Marinus, whom he greatly admired, from Lycus’s criticisms. The treatise exemplifies the intense rivalry between medical schools of the period, as Galen, a Rationalist, argues for the necessity of theoretical understanding and dissection over the Empiricist reliance on observation and experience alone. The complete text does not survive and is known only through fragments preserved by later authors, primarily in the medical compilations of the fourth-century Byzantine writer Orthasius, with possible additional references in later Arabic medical traditions. Modern scholars interpret this work as part of Galen’s broader campaign to establish his authority and defend the rationalist medical tradition that would become foundational in later centuries. It is thought to have been written for an audience of fellow physicians and students, serving both as a technical correction and a public assertion of Galen’s scholarly lineage.
+
 ## Text
 
 ### 18a 196 (t1)

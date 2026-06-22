@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vhw-aa` · [HTML page](https://eulogikon.org/works/john-lydian-magistrates-roman-vhw-aa)
 
+On the Magistrates of the Roman People is a three-book antiquarian treatise composed in Greek during the 550s CE by John the Lydian, a retired senior bureaucrat of the Eastern Roman Empire. The work systematically details the history and development of Roman public offices from the regal period through to the author's contemporary era under Emperor Justinian I. The first book examines early magistracies, tracing their origins and religious foundations. The second book continues the historical progression through the Republican and early Imperial periods. The third book provides a uniquely valuable insider's perspective on the administration of the praetorian prefecture, the empire's central bureaucratic organ, in which the author himself served. Structured as a series of 127 discrete passages, the treatise combines historical narrative, personal memoir, and scholarly digressions on the etymology of official titles and the symbolism of regalia and insignia.
+
+John the Lydian composed this work with the explicit aim of preserving knowledge of traditional Roman civil institutions, which he perceived as being fundamentally altered by the administrative reforms of Justinian's reign. Modern scholarship interprets the text not only as a detailed historical record but also as a conservative critique, expressing a profound nostalgia for the older, educated senatorial bureaucracy and its established customs. The complete text survives largely intact due to its preservation in a single manuscript from the tenth or eleventh century, known as the Codex Caseolinus.
+
 ## Text
 
 ### Mag.2.(1t)

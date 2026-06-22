@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ad` · [HTML page](https://eulogikon.org/works/euripides-iphigenia-aulis-cbm-ad)
 
+Iphigenia at Aulis is a tragedy by the ancient Greek playwright Euripides, written in verse around 406 BCE and produced posthumously in Athens. The play dramatizes the myth of Agamemnon, the commander of the Greek expedition against Troy, who is compelled to sacrifice his daughter Iphigenia to appease the goddess Artemis and secure favorable winds for the fleet. Set in the Greek camp at Aulis, the drama centers on the profound psychological torment of Agamemnon as he wrestles with this horrific demand, the forceful intervention of his brother Menelaus, and the poignant evolution of Iphigenia herself. Initially a terrified young woman arriving under the false pretext of marriage to Achilles, she ultimately embraces her fate, transforming into a figure who willingly accepts death for the perceived glory of Greece. The transmitted conclusion features a divine intervention where Iphigenia is miraculously replaced by a deer at the altar, though scholars widely consider this ending a later addition.
+
+Comprising 1,573 lines, the work belongs to the final period of Euripides' career and was staged during the closing years of the Peloponnesian War. Its exploration of coerced sacrifice, the moral failings of political and military leadership, and the manipulation of patriotic rhetoric has led many modern interpreters to view the play as a critical reflection of its era's prolonged civic strife and violence. The text's transmission is notably complex, with scholarly debate surrounding the authenticity of both its prologue and its epilogue, the latter likely appended to connect the narrative to Euripides' earlier play Iphigenia among the Taurians. Despite these editorial uncertainties, the core drama remains a powerful and psychologically acute examination of duty, deception, and tragic choice, representing a quintessential example of the playwright's late style.
+
 ## Text
 
 ### 1

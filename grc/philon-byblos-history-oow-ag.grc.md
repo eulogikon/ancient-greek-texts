@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oow-ag` · [HTML page](https://eulogikon.org/works/philon-byblos-history-oow-ag)
 
+The Phoenician History is a historical and mythographical work composed in Greek by Philon of Byblos, a Hellenized Phoenician scholar active around 100 CE. The text survives only in fragmentary form, preserved through 62 quotations within the Praeparatio Evangelica of the early Christian historian Eusebius. Philon presented his work not as an original composition but as a translation into Greek of much older writings attributed to a legendary Phoenician sage named Sanchuniathon, whom tradition placed before the time of the Trojan War.
+
+The extant fragments offer a rationalized and euhemeristic account of Phoenician origins and theology. They describe a primordial cosmos emerging from wind and chaos, followed by a succession of divine figures who are interpreted not as supernatural beings but as deified natural elements, human inventors, or ancient kings. This approach systematically reduces myth to a form of exaggerated history, highlighting Phoenician claims to fundamental cultural innovations such as writing, agriculture, and urban construction. The narrative implicitly positions this Phoenician tradition as an older, more authentic wisdom that was later corrupted into the familiar pantheon of Greek mythology.
+
+The historical value of the work is complex and contested by modern scholars. While it represents a rare attempt to convey Phoenician tradition to a Greek-educated audience fascinated by ancient oriental wisdom, the material is heavily mediated through layers of Hellenistic philosophical thought and literary convention. The degree to which it preserves authentic pre-Hellenic Phoenician beliefs remains a subject of debate. Its survival is owed entirely to Eusebius, who quoted it extensively to support his polemical argument that pagan religion was itself a derivative and degenerate tradition. Consequently, Philon’s fragments constitute a crucial, if problematic, source for the study of ancient Phoenician culture and the practices of Hellenistic historiography and mythography.
+
 ## Text
 
 ### 3c,790,F 1

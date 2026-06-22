@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `omy-aa` · [HTML page](https://eulogikon.org/works/soranus-ephesus-life-of-hippocrates-omy-aa)
 
+The Life of Hippocrates According to Soranus is a biographical treatise on the renowned physician Hippocrates, composed in Koine Greek by the methodist doctor Soranus of Ephesus in the early second century CE. Structured in sixteen passages, the work is not a critical historical account but rather a systematic compilation of earlier legends and traditions. It details Hippocrates's divine lineage traced to Asclepius, his education under his father Heraclides and others, his ethical character, his professional travels, and the circumstances of his death. A significant portion is devoted to cataloging and authenticating the writings attributed to Hippocrates, distinguishing genuine works from spurious ones. Soranus frequently cites his sources, including figures like Eratosthenes and Apollodorus, and occasionally evaluates conflicting reports.
+
+The biography is interpreted by modern scholars as a deliberate effort by Soranus, a leading proponent of a rival medical school, to appropriate the authority of Hippocrates for his own methodological tradition. It was likely intended for an educated audience of medical students and practitioners, serving both as a model of the ideal physician and as a tool for defining the authentic Hippocratic canon. The original Greek text is lost but survives primarily through a later Latin translation dating from approximately the fifth or sixth century CE, which preserves the sixteen-chapter structure. Additional sections are transmitted in Greek through indirect sources, most notably in quotations found within the tenth-century Byzantine encyclopedia known as the Suda. This combined transmission established Soranus's biography as the principal source for all subsequent ancient accounts of Hippocrates's life.
+
 ## Text
 
 ## ΙΠΠΟΚΡΑΤΟΥΣ ΓΕΝΟΣ ΚΑΙ ΒΙΟΣ ΚΑΤΑ ΣΩΡΑΝΟΝ Ἱπποκράτης γένει μὲν ἦν Κῷος, υἱὸς Ἡρακλείδα καὶ Φαιναρέτης, εἰς Ἡρακλέα καὶ Ἀσκληπιὸν τὸ γένος ἀναφέρων, ἀφ’ οὗ μὲν εἰκοστός, ἀφ’ οὗ δὲ ἐννεακαιδέκατος.

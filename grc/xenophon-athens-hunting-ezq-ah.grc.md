@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ezq-ah` · [HTML page](https://eulogikon.org/works/xenophon-athens-hunting-ezq-ah)
 
+On Hunting is a prose treatise by the Athenian historian and soldier Xenophon, composed in the 4th century BCE. It serves as a practical manual on the pursuit of hares, systematically detailing the required equipment, the selection and training of hunting dogs, and effective methods for tracking and capturing game. The work is structured as a sequence of instructional passages that guide the reader from initial preparation through to the final stages of the hunt. Beyond its technical prescriptions, the treatise presents hunting as a virtuous and divinely sanctioned activity. Xenophon frames it as an ideal form of education, training young men in endurance, strategic thinking, piety, and justice, thereby preparing them for the responsibilities of citizenship and warfare. The text concludes with an ethical contrast, praising the noble hunter while censuring the dishonest sophist. Preserved in full through medieval manuscripts as part of Xenophon's collected works, its authenticity, though occasionally questioned, is generally accepted. Modern scholarship values the treatise as an important source for understanding ancient Greek aristocratic education, social customs, and the cultural ideals that connected physical sport, moral virtue, and civic duty.
+
 ## Text
 
 ΚΥΝΗΓΕΤΙΚΟΣ

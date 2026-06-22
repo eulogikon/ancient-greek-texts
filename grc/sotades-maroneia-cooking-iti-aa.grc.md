@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iti-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-cooking-iti-aa)
 
+Fragments on Cooking is a lost verse work attributed to the poet Sotades of Maroneia, known as the Elder. The composition is recorded only by its title and described in source material as consisting of thirty-six passages. No specific content from these culinary fragments survives in the extant record, and the work is known solely through later attestations. All of Sotades’s poetry exists in fragmentary form, preserved exclusively in quotations by subsequent ancient authors.
+
+Given Sotades’s established literary reputation, the character of the work can be reasonably inferred. He was the inventor of the Sotadean meter and was notorious for composing scurrilous, satirical, and often obscene verse. His known themes consistently involve biting satire, personal invective, scandalous content, and political criticism. Consequently, Fragments on Cooking was almost certainly not a serious culinary manual but rather a humorous or satirical treatment of its gastronomic subject matter. Sotades’s primary significance rests on his metrical innovation and his enduring persona in antiquity as a martyred satirist. While the direct influence of this particular work is unrecorded, its presumed comedic approach to an everyday topic aligns perfectly with his broader literary legacy.
+
 ## Text
 
 ### book 1.1

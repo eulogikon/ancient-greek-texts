@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cee-aa` · [HTML page](https://eulogikon.org/works/hermonax-poseidon-dominion-cee-aa)
 
+The Fragments on Poseidon's Dominion is a lost work of epic poetry attributed to Hermonax the Epic Poet. Known only by its title and a description noting it comprised eight passages, no direct quotations from the work survive. The title indicates it treated the domain and myths of the god Poseidon. Based on the deity's standard mythological attributes, the fragments likely addressed themes including his sovereignty over the sea, the creation of horses and association with horsemanship, rivalries with other deities such as Athena, his epithet "Earth-Shaker" and control of earthquakes, and possibly the myth of Atlantis. The work is completely lost, with its existence noted only indirectly. The notation of "eight passages" suggests it was preserved as fragments within a lost anthological or scholarly source, and it is absent from major modern references. While its direct influence is untraceable, the work represents the Hellenistic or later tradition of systematic, catalog-style epic poetry on divine mythology. The attribution to "Hermonax" is problematic, as known historical figures of that name were a vase painter and a writer of parodies, not an epic poet.
+
 ## Text
 
 ### book 1.1

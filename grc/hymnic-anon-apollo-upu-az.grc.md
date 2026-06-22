@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-az` · [HTML page](https://eulogikon.org/works/hymnic-anon-apollo-upu-az)
 
+The Hymn to Apollo, designated as Hymn 3 in the collection of Homeric Hymns, is a brief, forty-line invocation composed in dactylic hexameter. While ancient tradition ascribed these hymns to Homer, modern scholarship identifies them as the anonymous compositions of rhapsodes, likely dating from the seventh or sixth century BCE. The poem functions as a concise celebration of Apollo's essential divine powers. It addresses the god with his characteristic epithets, including lord of the silver bow, the far-shooter, and master of the golden-lyre, while also acknowledging his prophetic authority. Such hymns were typically performed as preludes, or prooimia, to longer recitations of epic poetry, serving both to honor the deity and to invoke his patronage for the ensuing performance. Preserved in full within the medieval manuscript tradition of the Homeric Hymns, this work stands as a complete and archetypal example of early Greek hymnic poetry, effectively distilling the primary spheres of influence associated with a major Olympian god.
+
 ## Text
 
 ### 1

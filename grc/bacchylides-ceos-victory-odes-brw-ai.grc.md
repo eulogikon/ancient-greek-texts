@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-ai` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-victory-odes-brw-ai)
 
+The Victory Odes are a collection of epinician poems by the 5th-century BCE Greek lyric poet Bacchylides of Ceos. Composed in a literary Doric dialect, these choral songs were commissioned to celebrate the achievements of victors at the major Panhellenic athletic festivals, such as the Olympic and Pythian Games. The typical structure of an ode progresses from an opening invocation and praise of the victor and his homeland to a central mythological narrative, culminating in gnomic reflections and a return to celebratory motifs. Functioning as public performances, they artfully wove together religious thanksgiving, civic encomium, and the immortalization of personal glory for aristocratic patrons, most notably Hieron I of Syracuse.
+
+The works of Bacchylides were almost entirely lost after antiquity. Their modern recovery stems primarily from papyrus scrolls discovered in Egypt in the late 19th century, which preserved a significant portion of his corpus. The surviving text includes 14 complete or largely complete victory odes, alongside fragments of others and examples from different genres such as dithyrambs and paeans. This body of work, though often fragmentary and reconstructed from the papyri, provides an essential counterpart to the more complex and allusive style of his contemporary, Pindar. Bacchylides’s poetry is characterized by its lucid narrative flow and vivid imagery, offering invaluable insight into the performance culture, social values, and interconnected aristocratic networks of the early Classical Greek world.
+
 ## Text
 
 ### book 1.1

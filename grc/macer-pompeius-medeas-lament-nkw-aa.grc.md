@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nkw-aa` · [HTML page](https://eulogikon.org/works/macer-pompeius-medeas-lament-nkw-aa)
 
+"Medea's Lament to Her Children" is a fragmentary tragic work attributed to Macer Pompeius, a Roman-era author of uncertain identity, with potential confusion arising from other historical figures bearing similar names. Preserved exclusively within the 5th-century anthology compiled by Stobaeus, the text consists of several excerpts that present a monologue in which Medea addresses her children. The lament powerfully engages the central conflict of the Medea myth, portraying the heroine's profound anguish as she is torn between overwhelming maternal love and a vengeful wrath ignited by Jason's betrayal. Characterized by its intense rhetorical pathos, the speech is crafted to evoke deep pity and emotional turmoil. As no complete play by this author survives in manuscript tradition, the fragment stands as a notable example of Roman imperial engagement with Greek tragic archetypes. Its preservation offers a valuable point of reference for understanding the continued reception and variation of the Medea narrative in later antiquity.
+
 ## Text
 
 ### book 1.1

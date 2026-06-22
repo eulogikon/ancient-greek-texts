@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qig-aa` · [HTML page](https://eulogikon.org/works/antyllus-work-enemas-three-reasons-qig-aa)
 
+This text is a surviving fragment from the lost medical treatise on clysters, or enemas, by Antyllus, a prominent Greek surgeon of the 2nd century CE. Preserved through later Byzantine medical compilations by figures such as Oribasius, Aëtius of Amida, and Paul of Aegina, the excerpt systematically outlines the three primary medical indications for administering the procedure. The first reason is for prolonged constipation, where the enema is intended to clear old fecal matter to prevent noxious vapors, make room for new food, and ensure proper digestion and nutrient absorption. The second is for fevers believed to be sustained or exacerbated by accumulated waste, which was thought to provide fuel for the fever through its own putrefaction. The third is when retained waste is considered the direct cause of specific symptoms. These symptoms, which often manifest during digestive delays, include head heaviness, dizziness, headaches, stomach upset, nausea, loss of appetite, bloody spasms, thirst, a dry and bitter mouth, foul breath, disturbed and unpleasant sleep, flatulence, and colic. The passage concludes with a practical note that strong purgative enemas should be used either to evacuate waste or to draw troubling humors from the body into the intestines. The fragment exemplifies the pragmatic and diagnostic approach of ancient surgery, illustrating how a common therapeutic procedure was rationally applied within the framework of humoral theory to address a range of systemic disorders.
+
 ## Text
 
 ### 43 (1t)

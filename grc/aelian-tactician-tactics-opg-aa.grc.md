@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `opg-aa` · [HTML page](https://eulogikon.org/works/aelian-tactician-tactics-opg-aa)
 
+Aelian's Tactics is a comprehensive Greek military treatise from the early second century CE. Authored by Aelian, a Roman citizen of Greek heritage, it was dedicated to the emperor Trajan, indicating a composition date between 106 and 113 CE. The work is a systematic and theoretical manual that compiles and explains the intricate drill formations and tactical evolutions of the classic Hellenistic Macedonian phalanx, including formations such as the square, the wedge, and the saw-tooth. Organized into 174 chapters, it proceeds from fundamental definitions to precise descriptions of complex maneuvers like the counter-march. The text focuses exclusively on Greek military methods, offering no discussion of contemporary Roman practice, historical example, or broader strategy.
+
+The purpose of the treatise remains a subject of scholarly discussion. Some interpret it as an academic exercise, composed for an educated Roman audience with an antiquarian interest in classical Greek military science. Others propose a more practical intent, suggesting it was designed to inform Roman military commanders about the tactical systems employed by eastern adversaries of the Hellenistic tradition. The complete text survives primarily through a tenth-century manuscript. It became a standard military textbook in the Byzantine Empire and, following its translation into Latin during the Renaissance, served as a foundational source for Western scholars reconstructing the principles of ancient warfare.
+
 ## Text
 
 ### T 1

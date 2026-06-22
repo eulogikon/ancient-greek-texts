@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ifc-aa` · [HTML page](https://eulogikon.org/works/praxagoras-cos-history-constantine-ifc-aa)
 
+The History of Constantine the Great is a lost prose history composed in Attic Greek by Praxagoras of Cos, a pagan Athenian orator. Written around 337 CE, shortly after the emperor's death, the two-book biography was dedicated to Constantine and chronicled his life from birth through his principal military campaigns. These included his victory at the Battle of the Milvian Bridge and his subsequent war against the co-emperor Licinius, concluding with Constantine's death and the succession of his sons. The original text has not survived and is known only through a summary and two brief fragments preserved by the 9th-century Byzantine scholar Photius. Based on this summary, modern scholars classify the work as intensely panegyrical, crafted to flatter the emperor and his court. It portrays Constantine in an unreservedly positive manner, highlighting his personal virtues, piety, and divine favor. As a pagan author writing in praise of the first Christian emperor, Praxagoras occupies a notable cultural position; his account is distinguished by its praise of Constantine's devotion to God while carefully avoiding explicit identification of the Christian deity, a rhetorical strategy that rendered the work acceptable to a religiously mixed contemporary audience.
+
 ## Text
 
 ### 1

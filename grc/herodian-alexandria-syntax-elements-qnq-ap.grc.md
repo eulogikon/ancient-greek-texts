@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ap` · [HTML page](https://eulogikon.org/works/herodian-alexandria-syntax-elements-qnq-ap)
 
+On the Syntax of Elements is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. Written in Greek during the Roman Imperial period, the work addresses the systematic rules governing the combination and arrangement of the most basic phonetic units of the language—its letters and syllables. In the ancient grammatical tradition, "syntax" here refers not to sentence structure but to the proper phonetic and orthographic relationships between elemental sounds. The treatise was likely intended for fellow grammarians and advanced students dedicated to precise pronunciation and spelling.
+
+The complete text of On the Syntax of Elements is lost; it survives only in fragmentary form. Modern editions have reconstructed the work from 17 distinct passages quoted in later Byzantine grammatical commentaries and lexicons. These fragments present highly technical discussions on permissible phonetic combinations and correct orthography, often engaging in detailed philological debate. One preserved excerpt, for instance, records a dispute between Herodian and his father, the grammarian Apollonius Dyscolus, over whether the short vowel epsilon or omicron is phonetically shorter, demonstrating the work's meticulous analytical nature. The treatise exemplifies the sophisticated efforts of Imperial-era scholars to systematize and preserve the norms of the Greek literary language, representing a key contribution to the field of ancient technical grammar.
+
 ## Text
 
 ### 3,2 390 (1t)

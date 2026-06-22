@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-aw` · [HTML page](https://eulogikon.org/works/origen-alexandria-john-gospel-commentary-uhs-aw)
 
+Origen of Alexandria's Commentaries on the Gospel of John stands as a foundational work of early Christian biblical scholarship. Composed in Koine Greek between approximately 228 and 248 CE, this extensive theological treatise offers a detailed, verse-by-verse analysis of the biblical text. Origen employs a dual method of interpretation, examining both the literal and the allegorical senses of scripture to uncover its deeper spiritual meanings. A central thematic concern is the nature of the divine Logos, or Word. The work also functions as a significant polemic, critically engaging with and refuting the earlier commentary on John by the Gnostic teacher Heracleon.
+
+Originally conceived as a project of 32 books, the commentary was left unfinished, and only a portion of the text survives. Approximately nine of the original books are preserved in the original Greek, with additional fragments extant only in later Latin translations. Modern scholarship interprets this massive undertaking as a key document in early theological debates, written to establish an orthodox and philosophically informed reading of John's Gospel against rival interpretations. Its sophisticated blend of meticulous scriptural analysis and speculative theology proved highly influential, decisively shaping the Alexandrian tradition of allegorical exegesis for centuries, despite the later controversies that surrounded some of Origen's doctrinal ideas.
+
 ## Text
 
 ### 1.1

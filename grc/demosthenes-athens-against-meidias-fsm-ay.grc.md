@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ay` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-meidias-fsm-ay)
 
+Against Meidias is a forensic oration composed by Demosthenes of Athens around 348 BCE. It represents a private lawsuit brought by Demosthenes against a wealthy political rival, Meidias, on the serious charge of hubris—a legal term denoting outrageous assault intended to dishonor the victim. The case originated in a public incident during the festival of the Dionysia, where Meidias struck Demosthenes in the face while the latter was serving as a chorus producer. One of the longest surviving Athenian courtroom speeches, it methodically narrates the assault, catalogues a history of Meidias’s alleged violent and arrogant behavior, and frames the personal insult as a profound threat to the democratic principle of equality before the law. The speech argues that allowing such acts by the powerful to go unpunished undermines the social order and the dignity of every citizen.
+
+Preserved in full through the medieval manuscript tradition of Demosthenes’ works, the oration is a masterful piece of Attic rhetoric. Modern scholarship interprets it not merely as a record of personal grievance but as a sophisticated political document crafted for a jury of Athenian citizens. Demosthenes strategically transforms a private rivalry into a public cause, appealing to shared civic values and the jury’s role as guardians of the democracy. The case is often cited as a prime example of how the Athenian legal system served as an arena for the conduct of political conflict. As such, the speech remains an indispensable source for understanding fourth-century Athenian law, social norms, and the practice of oratory.
+
 ## Text
 
 ### Or21 1

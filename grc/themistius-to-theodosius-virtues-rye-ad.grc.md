@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ad` · [HTML page](https://eulogikon.org/works/themistius-to-theodosius-virtues-rye-ad)
 
+To Theodosius, Which is the Most Royal of Virtues is a political oration by the late Roman philosopher and statesman Themistius, delivered before Emperor Theodosius I around 384 CE. Written in Attic Greek, the speech presents a philosophical inquiry into the essential character of good governance. Themistius methodically evaluates traditional imperial virtues such as courage, wisdom, and justice, ultimately concluding that the supreme and most regal quality is philanthropia, a concept encompassing love for humanity, benevolence, and clemency. He argues that this virtue alone enables a ruler to genuinely care for his diverse subjects and cultivate unity across the empire, thereby blending philosophical counsel with imperial panegyric.
+
+The complete oration, preserved in 55 sections within the medieval manuscript tradition of Themistius's works, is regarded by modern scholars as a significant document of its era. It was composed during a period when Theodosius was consolidating his power following a civil war. Through his advocacy for philanthropia, Themistius, himself a pagan, is interpreted as promoting a model of tolerant and inclusive leadership. This emphasis served as an implicit argument for religious moderation within a court increasingly influenced by Christian orthodoxy. The oration thus stands as a notable effort to synthesize classical Greek philosophical ideals with the practical exigencies of ruling the late Roman Empire.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `epq-ab` · [HTML page](https://eulogikon.org/works/deiochus-samothrace-fragments-epq-ab)
 
+Fragments on Samothrace by Deiochus the Historian is a lost prose work of local history, a periegesis concerning the island of Samothrace. The work survives only through three brief fragments preserved by later authors. The extant passages address the island's geography, describing its position opposite the Thracian mouth of the Hebrus River. They also record alternative names for the island, Melite and Dardania, and attribute its initial settlement to the hero Saon. The work is preserved solely in fragments cited by the geographer Strabo and the Byzantine lexicographer Stephanus of Byzantium, with no independent manuscript tradition. While its direct influence was minimal, Deiochus’s work contributed to the ancient scholarly record on Samothracian mythology and geography. Its primary value lies in its status as an example of the lost local histories that served as sources for more comprehensive surviving works, offering a glimpse into the raw materials of ancient antiquarian scholarship.
+
 ## Text
 
 ### 11.(l1)

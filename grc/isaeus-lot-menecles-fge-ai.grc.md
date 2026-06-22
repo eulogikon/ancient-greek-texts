@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-ai` · [HTML page](https://eulogikon.org/works/isaeus-lot-menecles-fge-ai)
 
+On the Lot of Menecles is a forensic oration composed by the Athenian logographer Isaeus around 354–353 BCE for delivery in an actual inheritance dispute. The speech is presented by the adopted son of the deceased Menecles, who defends his right to the estate against a claim brought by Menecles’s biological brother. The speaker opens by asserting the legality and propriety of his adoption, arguing it was conducted in full accordance with Athenian law and not the result of any impairment or undue influence on his adoptive father. He then narrates the history of the families involved, detailing the friendship between his natural father and Menecles, and proceeds to a meticulous legal defense of the adoption and the will that confirmed it. The argument systematically counters the brother’s challenge by questioning his motives and highlighting his prior acceptance of the arrangement, aiming to persuade the jury that the inheritance is not subject to adjudication and rightfully belongs to the adopted heir.
+
+As a complete work of 35 sections, the speech exemplifies Isaeus’s specialized practice in inheritance law, a common and contentious area of Athenian litigation where childless men could adopt heirs posthumously contested by kin. It functions as a sophisticated piece of persuasive rhetoric, moving from narrative exposition to detailed legal reasoning, and provides a direct window into Athenian social norms and familial obligations. The underlying tension between an individual’s testamentary freedom to choose an heir and the traditional claims of blood relatives is central to the case, reflecting broader societal concerns about household continuity and property transmission. Preserved within the medieval manuscript tradition of Isaeus’s works, the oration remains a vital primary source for the study of ancient Greek law, social history, and the development of forensic rhetoric.
+
 ## Text
 
 ### Or2 1

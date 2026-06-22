@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vcm-ab` · [HTML page](https://eulogikon.org/works/david-invincible-prolegomena-vcm-ab)
 
+The Prolegomena to Philosophy is an introductory philosophical textbook attributed to the sixth-century Armenian Neoplatonist David, known as "the Invincible." This concise treatise provides a systematic framework for students preparing to study Aristotle's Organon, following the standard late antique curriculum. It survives in its entirety through both Greek and Armenian manuscript traditions. The work is a pedagogical set of lectures addressing six foundational topics: the definition of philosophy as the knowledge of things human and divine; the division of philosophy into theoretical and practical branches; the subject matter and purpose of philosophy, identified as becoming like God; philosophy's order among the sciences; and the requisite qualities of a philosopher. The text is preserved in Greek manuscripts, sometimes attributed to the commentator Elias, though David is generally accepted as the author. An Armenian translation, made from the Greek original, is securely attributed to David and formed a cornerstone of the medieval Armenian educational curriculum. The Prolegomena was a highly influential textbook. It served as a model for later Byzantine introductions and, through its Armenian version, decisively shaped the vocabulary and conceptual framework of Armenian scholasticism for centuries, ensuring the transmission of Greek Neoplatonic and Aristotelian thought.
+
 ## Text
 
 ### 1 (1t)

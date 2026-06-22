@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-bf` · [HTML page](https://eulogikon.org/works/plato-timaeus-ffk-bf)
 
+Plato's Timaeus is a philosophical dialogue composed around 360 BCE. Presented as a conversation occurring the day after the discussion in Plato's Republic, it begins with a brief introductory exchange before the character Timaeus of Locri assumes the role of primary speaker. His extended monologue offers a "likely account" of the cosmos, detailing how a divine craftsman, the Demiurge, fashioned the universe as a single, living, and intelligent being. The narrative encompasses the creation of the World Soul, the celestial bodies, and time itself, while proposing a geometric theory for the constitution of the four fundamental elements. This synthesis of natural philosophy and myth concludes abruptly, leading scholars to conclude it was conceived as the initial part of an unfinished trilogy. The complete text endured as the most influential of Plato's works for over a millennium, particularly in the Latin West due to a fourth-century translation and commentary by Calcidius. Modern interpretation views the dialogue as Plato's principal endeavor to establish a teleological and mathematical foundation for the physical world, seeking to harmonize eternal philosophical principles with the mutable realm of sensory experience.
+
 ## Text
 
 ### Tim.17.a

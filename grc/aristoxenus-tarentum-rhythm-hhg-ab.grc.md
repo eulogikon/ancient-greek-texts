@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hhg-ab` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-rhythm-hhg-ab)
 
+The Elements of Rhythm is a fragmentary treatise on music theory by the philosopher Aristoxenus of Tarentum, written in Attic Greek during the late 4th century BCE. It constitutes the first known systematic effort to establish the study of rhythm as an independent scientific discipline, distinct from the study of musical pitch. The original work is lost, surviving only through excerpts and summaries preserved by later writers such as the theorist Aristides Quintilianus and the Byzantine encyclopedia known as the Suda. From these fragments, it is known that Aristoxenus defined the fundamental components of rhythm as the chronos, a fixed unit of time; the thesis, or downbeat marking the beginning of a rhythmic foot; and the arsis, or upbeat. He proceeded to classify various rhythmic feet and explained their combination into larger structures employed in poetry, song, and dance. As a student of Aristotle, Aristoxenus applied empirical and classificatory methods to his subject, analyzing rhythm primarily as a phenomenon perceived by the senses rather than as an abstract mathematical ratio. This approach is interpreted by modern scholars as an attempt to ground musical theory in direct human experience. Likely intended for a scholarly audience concerned with the philosophical foundations of the arts, the treatise, though incomplete, provided concepts and a technical vocabulary that became foundational for subsequent Greek and Roman music theory and poetic metrics.
+
 ## Text
 
 ### 17 (1t)

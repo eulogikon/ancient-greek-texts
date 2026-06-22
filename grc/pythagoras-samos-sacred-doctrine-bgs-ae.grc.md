@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bgs-ae` · [HTML page](https://eulogikon.org/works/pythagoras-samos-sacred-doctrine-bgs-ae)
 
+The Fragments on Sacred Doctrine is a pseudepigraphical collection of fifteen passages attributed to the philosopher Pythagoras of Samos. As the historical Pythagoras left no written works, this text belongs to the later tradition of pseudonymous writings produced by Hellenistic and Roman-era Pythagoreans, who composed doctrinal letters and compilations in the master's name to lend them authority. Described as an epistle, the collection synthesizes core Pythagorean teachings. Its content, as inferred from the broader tradition, would encompass the doctrines of metempsychosis and the immortality of the soul, the ritual and ethical practices of purification, the sacred cosmological principles of number and harmony, and the ritual taboos and ethical maxims known as the Akousmata that governed daily conduct. The fragments survive not through a dedicated manuscript tradition but are compiled from quotations found in the works of later biographers and doxographers such as Diogenes Laërtius, Porphyry, and Iamblichus. While this specific compilation is not independently attested in antiquity, the broader pseudepigraphical Pythagorean corpus was instrumental in the development of Neopythagorean philosophy, which subsequently exerted a profound influence on Middle Platonism and Neoplatonism, and was central to constructing the enduring image of Pythagoras as a mystic and mathematician.
+
 ## Text
 
 ### 157 (11t)

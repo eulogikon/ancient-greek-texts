@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-af` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-commentaries-aristotle-reo-af)
 
+The Commentaries on Aristotle by Alexander of Aphrodisias constitute a comprehensive body of philosophical exegesis composed around 200 CE. As the officially appointed professor of Aristotelian philosophy in Athens, Alexander produced detailed treatises analyzing core texts by Aristotle, including the Prior Analytics, Topics, Metaphysics, and Meteorology. His method combined meticulous textual analysis with a vigorous defense of Aristotelian doctrine, frequently engaging in polemics against rival interpretations from Stoic, Platonist, and earlier Peripatetic schools. This approach secured his reputation as the most authoritative ancient interpreter of Aristotle, a status later enshrined in the honorific title "the Commentator."
+
+The commentaries are not a single unified work but a collection transmitted in various forms through manuscript traditions. Several major commentaries, such as those on Aristotle's On the Soul and On Sense Perception, survive complete in Greek, while others exist only in fragments or are entirely lost. The corpus includes both expansive line-by-line expositions and more focused thematic discussions. Alexander's writings were preserved by Byzantine scholars and later translated into Arabic and Latin, where they exerted a profound influence on medieval Islamic and European philosophy. His rigorous analyses of central philosophical problems, including the nature of the intellect, causality, and determinism, remained pivotal to scholarly debate for centuries, shaping the reception and understanding of Aristotle's thought throughout the Middle Ages and into the Renaissance.
+
 ## Text
 
 ### in Sens.1.(1t)

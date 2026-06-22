@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fle-ab` · [HTML page](https://eulogikon.org/works/matron-pitane-banquet-fle-ab)
 
+The Attic Banquet is a mock-epic poem by the Hellenistic poet Matron of Pitane, composed around the late 4th century BCE. Written in dactylic hexameter, the poem applies the formal style and conventions of Homeric epic—including elaborate catalogs, extended similes, and lofty epithets—to the mundane subject of an extravagant Athenian feast. This deliberate incongruity creates a sophisticated parody, treating dishes, cooks, and culinary abundance with the solemn gravity traditionally reserved for gods and heroic combat. The work survives only in fragments, preserved entirely through quotations by the later author Athenaeus in his compendium The Learned Banqueters. These excerpts, numbering sixteen in modern reconstructions, depict a lavish procession of foods, from oysters and vegetables to roasted birds, described with epic grandeur. Interpreted as a playful literary exercise for an educated audience well-versed in Homeric tradition, the poem exemplifies the intellectual humor and parodic spirit of early Hellenistic poetry. Beyond its literary artifice, the Attic Banquet is also regarded as a valuable, if comically exaggerated, source of insight into ancient Greek dining customs and the culture of the symposium.
+
 ## Text
 
 ### book 1

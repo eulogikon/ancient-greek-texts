@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbc-aa` · [HTML page](https://eulogikon.org/works/euenus-paros-wisdom-moderation-cbc-aa)
 
+On Wisdom and Moderation is a collection of gnomic verses attributed to the sophist and poet Euenus of Paros, a late-5th-century BCE contemporary of Socrates. The work survives only in fragments, preserved through quotations by later authors such as Plato, Aristotle, and the anthologist Stobaeus. The surviving passages offer pithy sayings on ethics and practical life, composed in verse for didactic purposes. The fragments address core sophistic and ethical themes, including the cultivation of wisdom as the foundation of the good life, the central importance of moderation and self-control, and practical advice on daily conduct, friendship, and personal affairs. No independent manuscript tradition exists for the work; the text is reconstructed entirely from fragments cited by later philosophers and compilers, with modern standard editions found in the collections Poetae Melici Graeci and Iambi et Elegi Graeci. Euenus's verses were integrated into classical philosophical discourse, quoted by both Plato and Aristotle in their ethical discussions. This citation by major figures demonstrates the work's role in the pre-Socratic and sophistic tradition of using poetry for ethical instruction, before its influence was absorbed by systematic philosophy.
+
 ## Text
 
 ### book 1.1

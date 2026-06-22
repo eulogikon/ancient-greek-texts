@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-ad` · [HTML page](https://eulogikon.org/works/homer-proculea-jho-ad)
 
+The Life of Proculea is a brief, anonymous prose biography spuriously attributed to Homer. It belongs to the corpus of ancient Vitae Homeri, a collection of legendary accounts of the poet's life. The title refers not to a subject named Proculea but to a version of a Life of Homer associated with a figure named Proclus, as the Suda references a "Life of Homer by Proclus." The text is a compilation of traditional lore, organized into four passages. Its content follows the standard patterns of Homeric biography, detailing disputes over the poet's obscure origins and birthplace, with various cities such as Colophon, Chios, Smyrna, and Cyme laying claim to him. It recounts the legend of his blindness and the etymological tales associated with his name, and it includes a catalog of the foremost epic poets, ranking Homer above Hesiod, Peisander, Panyassis, and Antimachus. The work is preserved within the medieval manuscript tradition of Homeric biographies, surviving in a complete four-passage form. As part of the broader tradition of Homeric biography, this Life contributed to the medieval and Renaissance conception of Homer as a historical and mythic figure, and such texts were foundational for later biographical writing about literary authors.
+
 ## Text
 
 ### 99 (1t)

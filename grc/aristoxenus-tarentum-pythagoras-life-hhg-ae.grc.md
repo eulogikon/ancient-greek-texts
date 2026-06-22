@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hhg-ae` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-pythagoras-life-hhg-ae)
 
+The Fragments on Pythagoras's Life constitutes a modern compilation of 144 passages that preserve the biographical writings of Aristoxenus of Tarentum, a philosopher of the late fourth century BCE and a pupil of Aristotle. Aristoxenus authored detailed studies on the philosopher Pythagoras and his followers, works composed as part of the scholarly endeavors of Aristotle's Lyceum to document their doctrines and manner of living. His original treatises, which bore titles such as On the Pythagorean Life, are now lost. Their content survives only in excerpts and citations preserved by much later authors, including Diogenes Laërtius, Porphyry, and Iamblichus.
+
+The assembled fragments address the life of Pythagoras, his ethical and political activities in southern Italy, and the daily regimen of the early Pythagorean community. Scholars characterize Aristoxenus's methodology as distinctly rationalistic, frequently omitting or minimizing miraculous anecdotes about Pythagoras in favor of depicting him as a sagacious teacher and a civic reformer. Informed by Aristoxenus's own probable associations with later Pythagorean circles, this rationalized biography served as a fundamental source for all subsequent ancient accounts of the philosopher, providing an essential early counterpoint to the more legendary traditions that developed in later centuries.
+
 ## Text
 
 ### t,11-25

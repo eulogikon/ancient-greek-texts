@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iwa-aa` · [HTML page](https://eulogikon.org/works/lycon-alexandria-last-will-testament-iwa-aa)
 
+The Last Will and Testament of Lycon is a document detailing the final provisions of Lycon of Iasos, a third-century BCE Peripatetic philosopher and head of the Lyceum in Athens. Preserved not as an independent work but as a direct quotation within Diogenes Laertius’s Lives of the Eminent Philosophers, the text is presented as a model of meticulous and ethical planning. It systematically outlines the disposal of Lycon’s property, including bequests to his brothers, friends, and servants, with particular care given to an individual named Lycon who had served him faithfully. The will further specifies the management of his philosophical school, the Peripatos, appointing a committee of associates to ensure its continuity, and provides detailed instructions for his funeral and the settlement of his debts. Transmitted exclusively through Diogenes Laertius’s biographical compilation, the document offers invaluable insight into the practical responsibilities and social networks of a Hellenistic school head. It serves as a key historical source, illustrating how Peripatetic values such as practical wisdom and communal duty were applied to the administration of personal and institutional affairs, thereby informing studies on ancient philosophy, social history, and the economics of philosophical schools.
+
 ## Text
 
 ### 15

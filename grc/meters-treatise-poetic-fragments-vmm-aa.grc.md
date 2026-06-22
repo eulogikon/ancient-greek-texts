@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmm-aa` · [HTML page](https://eulogikon.org/works/meters-treatise-poetic-fragments-vmm-aa)
 
+Overview The work is known only by its title, Fragments on Poetic Meters (Ἀποσπάσματα περὶ Μέτρων Ποιητικῶν). No description, content, or quotations from this specific treatise survive. The title indicates it was a grammatical or metrical analysis of poetic meters, part of a common scholarly genre in Hellenistic and later antiquity.
+
+Content Based on its title and genre, the treatise would have addressed:
+
+The classification and definition of Greek poetic meters.
+
+The analysis of metrical patterns and cola.
+
+Illustrative examples from classical poets.
+
+Transmission The work is lost, with its existence attested solely by its title. No manuscript tradition or fragments were located in the sources consulted; the title may be preserved in a medieval catalogue.
+
+Significance While its direct influence cannot be traced, the work exemplifies the extensive body of ancient metrical scholarship that systematized the study of Greek poetry and influenced its transmission and teaching for centuries.
+
 ## Text
 
 ### 1

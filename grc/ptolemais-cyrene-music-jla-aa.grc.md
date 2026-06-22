@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jla-aa` · [HTML page](https://eulogikon.org/works/ptolemais-cyrene-music-jla-aa)
 
+The Fragments-Music of Ptolemais of Cyrene is a lost Pythagorean treatise on music theory, preserved solely in three fragmentary passages quoted by Porphyry in his 3rd-century commentary on Ptolemy’s Harmonics. These excerpts, presented in a dialogue format, constitute the only known source for Ptolemais’s work and thought. The surviving fragments present a technical discussion on the classification of musical expertise, systematically distinguishing between the cultivated musician, the harmonic theorist, and the critic or judge of music. This analysis is grounded in Pythagorean harmonic theory, which interprets musical intervals through mathematical ratios, and engages with epistemological questions concerning the acquisition and judgment of musical knowledge. The work’s transmission depends entirely on its utility to Porphyry, who excerpted it for his comparative analysis of earlier harmonic theories; no independent manuscript tradition exists for Ptolemais’s treatise. Though her direct influence is obscure due to the loss of her full work, Ptolemais’s ideas entered the stream of music theory via Porphyry’s commentary. The fragments provide valuable evidence for the history of Pythagorean harmonic science and represent a rare instance of a female author in ancient technical philosophy.
+
 ## Text
 
 ### 242.(10)

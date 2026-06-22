@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `otc-aa` · [HTML page](https://eulogikon.org/works/dictys-cretensis-testimonies-otc-aa)
 
+The Testimonies are a modern scholarly compilation of seven brief passages from later ancient authors that mention Dictys Cretensis or his work. These assembled references serve as external evidence for the existence and reception of his Ephemeris belli Troiani, a prose account of the Trojan War. The collection is typically presented as a preface in modern editions of the Ephemeris. The passages document the narrative of the Ephemeris’s discovery in a tin box during the reign of Nero, as well as Dictys’s reception as an alternative, eyewitness source to Homeric epic, cited by later writers and scholars. They also include skeptical or referential mentions by authors such as Lucian of Samosata. The testimonia survive indirectly through the manuscript traditions of the works that cite them, including a scholion to Euripides' Troades, the Bibliotheca of Photius, the Suda, and the works of Lucian; there is no independent manuscript tradition for this collection. These compiled references were crucial for authenticating the Ephemeris in antiquity and bolstered its credibility for later readers. The Latin version of the Ephemeris, supported by these testimonia, became a foundational Trojan War text for medieval Europe, profoundly influencing romance literature and historical thought.
+
 ## Text
 
 ### 1a,49,T 1

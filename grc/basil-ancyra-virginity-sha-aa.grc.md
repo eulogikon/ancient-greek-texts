@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sha-aa` · [HTML page](https://eulogikon.org/works/basil-ancyra-virginity-sha-aa)
 
+On Virginity is a 4th-century Christian ascetical treatise composed in Greek by Basil, the physician-bishop of Ancyra. Addressed to his fellow bishop Letoius of Melitene, the work presents itself not as a mere encomium of celibacy but as a practical and theological guide for those embracing the dedicated life of a virgin. Basil structures his argument across 103 chapters, systematically advancing the thesis that true virginity constitutes far more than physical abstinence. He defines it as a comprehensive "philosophical life" wholly consecrated to God, a spiritual discipline requiring the integrated cultivation of virtue, constant prayer, and rigorous detachment from worldly passions. Its ultimate goal is the soul’s mystical marriage to Christ.
+
+Composed during a period of burgeoning monastic enthusiasm and theological controversy in the Eastern Roman Empire, the treatise reflects its author’s medical training through its consistent emphasis on psychosomatic integrity. Basil frequently employs medical analogies, portraying ascetic discipline as a therapeutic regimen essential for the health and balance of both body and soul. Modern scholarship interprets the work as a deliberate effort to articulate a moderate and orthodox rule for ascetic communities, offering a reasoned alternative to the more extreme physical austerities practiced by some contemporary enthusiasts. The complete text survives within the Greek manuscript tradition, where it was long erroneously attributed to the more prominent theologian Basil of Caesarea. Its correct authorship, established by modern philological analysis, restores it as a significant early systematic exploration of Christian asceticism, one that exerted a notable influence on the subsequent development of Eastern monastic literature and spiritual thought.
+
 ## Text
 
 ### 669 (1t)

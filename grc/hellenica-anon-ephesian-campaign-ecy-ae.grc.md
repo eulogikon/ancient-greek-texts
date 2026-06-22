@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ecy-ae` · [HTML page](https://eulogikon.org/works/hellenica-anon-ephesian-campaign-ecy-ae)
 
+The Fragments on Ephesian Campaign are two brief prose passages detailing a military engagement at the Ionian city of Ephesus. Preserved only as quotations within a later, unidentified ancient work, these excerpts are conventionally attributed to a lost historical text titled Hellenica, a common designation for continuations of Thucydides' history. The fragments offer a concise narrative of the action, describing an immediate assault on the city's walls and the strategic positioning of a fleet, followed by the response of the Ephesians and their Spartan allies who confronted one Athenian force near the harbor called Koressos while missing another. The precise historical context of the campaign—whether it occurred during the Peloponnesian War, the Corinthian War, or the conflicts following Alexander the Great—cannot be determined from the extant text alone. The work survives exclusively through this indirect transmission, categorized among the fragmentary Greek historians, and possesses no independent manuscript tradition. Its significance lies primarily in the specialized fields of historiography and philology, where it serves as evidence for reconstructing lost historical narratives and the events of the classical period.
+
 ## Text
 
 ### 1

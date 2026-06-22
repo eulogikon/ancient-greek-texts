@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-praising-without-envy-okg-bq)
 
+On Praising Oneself Without Envy is an ethical essay by the Greek philosopher Plutarch, composed in the late first or early second century CE. It forms part of his extensive collection of practical and philosophical treatises known as the Moralia. The work addresses the delicate social and ethical problem of how an individual may legitimately speak of his own merits and achievements without incurring the resentment or envy of his peers. Plutarch approaches the topic not with blanket condemnation but as a nuanced aspect of public life, recognizing that self-praise is sometimes unavoidable for those engaged in civic affairs. He provides a systematic examination of the proper occasions, methods, and motivations for such discourse, arguing that its acceptability hinges on the speaker's intent and the social utility of the statement.
+
+The essay is structured in 53 concise chapters, blending philosophical maxims with illustrative historical anecdotes drawn from Greek and Roman history and literature. Plutarch advises that self-praise is most defensible when it serves a public purpose, such as inspiring confidence in a leader during a crisis, refuting slander, or encouraging emulation of virtue. He cautions that it must always be grounded in truth, offered with evident reluctance, and tempered by the acknowledgment of one's own faults or the contributions of others. The tone should avoid boastfulness and instead convey a sense of necessity. Figures like Pericles, Demosthenes, and Scipio Africanus are presented as models who knew how to speak of their accomplishments effectively and without giving offense.
+
+Written for the educated Greco-Roman elite of the early Roman Empire, the treatise functions as a practical guide for statesmen and public figures, synthesizing insights from Platonic and Peripatetic philosophy with acute social observation. It explores the psychology of reputation and the ethical dimensions of self-presentation within a competitive aristocratic society. The complete text has been preserved through the medieval manuscript tradition of Plutarch's works and is listed under number 84 in the ancient Lamprias catalogue.
+
 ## Text
 
 ### t 1

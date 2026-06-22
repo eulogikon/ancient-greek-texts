@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ams-aa` · [HTML page](https://eulogikon.org/works/stesichorus-metauros-geryoneis-ams-aa)
 
+The Geryoneis is a substantial lyric poem by the archaic Greek poet Stesichorus, composed in the sixth century BCE. It recounts the myth of Heracles’ tenth labor, his voyage to the distant western island of Erytheia to seize the cattle of the triple-bodied giant Geryon. Designed for choral performance and structured in triads of strophe, antistrophe, and epode, the work was celebrated in antiquity for its epic scope and Homeric diction, effectively merging the lyric and epic traditions.
+
+The poem survives only in fragments, with 112 pieces preserved through quotations by later authors such as the geographer Strabo and on papyri recovered from Egypt. These remnants present vivid episodes, including Heracles’ journey across the ocean in the golden cup of the sun-god Helios and his climactic battle with Geryon. A particularly notable fragment contains an emotionally charged speech from Geryon’s mother, pleading with her son to avoid the conflict. Modern interpretation often highlights this moment as characteristic of Stesichorus’s artistic depth, which imbues the monstrous Geryon with a measure of pathos and nobility, framing him as a defender of his rightful property.
+
+The Geryoneis was likely performed at public festivals in the Greek cities of Sicily or southern Italy, where Stesichorus was active. Its detailed evocation of western geography mirrors the expanding horizons of Greek colonization during the archaic period. The complete text was lost in antiquity, and contemporary understanding of the poem depends entirely on the meticulous reconstruction of these quoted and papyrus fragments.
+
 ## Text
 
 ### book 1.1

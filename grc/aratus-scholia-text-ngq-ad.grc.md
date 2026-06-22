@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ngq-ad` · [HTML page](https://eulogikon.org/works/aratus-scholia-text-ngq-ad)
 
+The Scholia-Aratus constitute a body of ancient and medieval marginal annotations composed to elucidate the astronomical poem Phaenomena by Aratus. Compiled by various anonymous commentators over several centuries, this composite work provides detailed exegesis on the poem's challenging vocabulary, complex astronomical references, and underlying mythological narratives. The scholia serve as a critical resource for tracing the reception and scholarly interpretation of Aratus's work from Hellenistic antiquity through the Byzantine era.
+
+The commentary encompasses several interrelated areas of explanation. It offers textual and grammatical analysis of Aratus's poetic diction, clarifies the celestial phenomena and constellations described in the poem, and provides notes on the mythological stories associated with the named star groups. Additionally, the scholia contain elements of literary analysis, discussing the poet's sources and stylistic choices. These annotations are preserved fragmentarily in the margins of medieval manuscripts of the Phaenomena, with important witnesses including the ninth-century Codex Vaticanus Graecus 1087 and the tenth-century Codex Laurentianus Plut. 32.16. The transmitted text exists in a layered state, representing multiple stages of the commentary tradition, which modern critical editions attempt to reconstruct from these manuscript families.
+
+Functioning as the primary interpretive guide to a standard educational text, the Scholia-Aratus were instrumental in pedagogical contexts for over a millennium. They facilitated the continuous study of the Phaenomena, helping to secure the poem's enduring place in the medieval curriculum. Beyond mere glossary, the scholia preserve valuable fragments of earlier astronomical and literary criticism, thereby playing a significant role in transmitting both poetic and scientific knowledge into the Renaissance.
+
 ## Text
 
 ### book 140

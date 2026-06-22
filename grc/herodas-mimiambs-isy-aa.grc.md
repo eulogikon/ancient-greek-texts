@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `isy-aa` · [HTML page](https://eulogikon.org/works/herodas-mimiambs-isy-aa)
 
+The Mimiambs are a collection of eight short dramatic poems by the Hellenistic poet Herodas, who flourished in the 3rd century BCE. Composed in a distinctive "limping" iambic meter, these works represent a literary form of mime, presenting vivid and often humorous vignettes of everyday life in verse. Each poem is a self-contained dialogue populated by ordinary, frequently lower or middle-class characters engaged in coarse and realistic scenarios. The subjects range from a procuress negotiating for a client and a woman prosecuting a cobbler for faulty shoes to a mother chastising a schoolmaster and temple devotees admiring votive offerings.
+
+The work survives only in a fragmentary state. Its primary source is a papyrus codex discovered in Egypt in 1890, which preserves eight complete poems alongside fragments of others. While the openings of the poems are generally well-preserved, the conclusions of many are damaged or lost, necessitating considerable scholarly reconstruction. Prior to this discovery, Herodas was known merely through passing references in later ancient literature.
+
+Modern interpretation views the Mimiambs as a sophisticated literary experiment characteristic of the Hellenistic age. They are believed to have been composed for an educated audience capable of appreciating the deliberate contrast between the refined, allusive poetic style—which draws on Homeric echoes and the tradition of earlier iambic poets—and the deliberately vulgar, realistic subject matter. As such, the collection offers a unique window into the social history, colloquial language, and material culture of the period.
+
 ## Text
 
 ### book 1

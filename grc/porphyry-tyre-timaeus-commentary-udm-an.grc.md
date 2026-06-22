@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-an` · [HTML page](https://eulogikon.org/works/porphyry-tyre-timaeus-commentary-udm-an)
 
+Porphyry of Tyre's Commentary on Plato's Timaeus is a lost philosophical treatise from the third century CE, composed in Greek during the author's period of study in Rome under Plotinus. The work provided a detailed exegesis of Plato's dialogue concerning cosmology and creation, engaging particularly with its complex mathematical and harmonic theories. A significant focus was the interpretation of Plato's description of the structure of the World-Soul. Porphyry's approach involved critiquing earlier interpretations and seeking to clarify Plato's dense philosophical ideas for an advanced readership of students and fellow philosophers.
+
+The original commentary does not survive in complete form. Its content is known only through fragments preserved in the works of later authors, such as the sixth-century commentator John Philoponus and the twelfth-century scholar John Tzetzes. These excerpts reveal that the commentary was an integral part of Porphyry's larger project to systematize Neoplatonic doctrine. The work is considered to have exerted influence on subsequent Neoplatonists who produced their own commentaries on the Timaeus, thereby securing its importance within the tradition of ancient philosophical exegesis despite its fragmentary state of transmission.
+
 ## Text
 
 ### 92

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ai` · [HTML page](https://eulogikon.org/works/themistius-attention-men-rye-ai)
 
+On Not Paying Attention to Places but to Men is a political oration delivered by the philosopher and senator Themistius to the Roman Emperor Theodosius I around 384 CE. Composed in Attic Greek, the speech presents a philosophical argument that the genuine power and resilience of a state derive from the moral character of its citizens and leaders, not from its geographical setting or architectural grandeur. Themistius directly applies this principle to contemporary politics by defending Theodosius's strategic decision to establish his imperial court in Thessalonica, a location chosen for its military utility during the aftermath of the Gothic wars, rather than in the traditional capital of Constantinople.
+
+The complete oration, structured in 33 sections, artfully combines philosophical discourse with historical exempla and panegyric. Themistius opens by critiquing a common societal error: while people sensibly seek the best possible teacher when learning a craft like metalworking or music, regardless of location, they foolishly prioritize prestige over quality when pursuing education, valuing the city of study above the instructor's merit. He extends this analogy to statecraft, arguing that just as a shoemaker can produce excellent work in an obscure town, so too can good governance and virtuous leadership flourish anywhere. The speech marshals examples from Greek history and mythology to illustrate that great deeds and wisdom have emerged from humble places, while renowned cities have declined when inhabited by corrupt men.
+
+Modern scholarship interprets the oration as a sophisticated piece of political counsel, serving multiple functions within the late Roman context. It aimed to reassure the senatorial aristocracy in Constantinople, who may have viewed the emperor's absence from the capital as a slight, by providing a philosophical justification for Theodosius's pragmatic military arrangements. Simultaneously, it sought to legitimize the emperor's authority by aligning his actions with timeless Neoplatonic ideals concerning virtue and leadership. The work stands as a prominent example of how late antique philosophers, employing classical rhetoric and ethical frameworks, engaged with and advised Christian Roman emperors, bridging the intellectual traditions of Hellenism and the practical demands of imperial rule.
+
 ## Text
 
 ### t 1

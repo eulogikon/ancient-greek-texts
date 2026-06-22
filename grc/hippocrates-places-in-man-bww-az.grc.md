@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-az` · [HTML page](https://eulogikon.org/works/hippocrates-places-in-man-bww-az)
 
+On Places in Man is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek works attributed to Hippocrates but composed by various authors. Written in Ionic Greek in the late fifth or early fourth century BCE, this concise work of forty chapters systematically describes the locations of organs, vessels, and structures within the human body. Its central theoretical premise holds that health is maintained by the balanced flow of bodily fluids, while disease arises from the displacement or blockage of these fluids, leading to harmful accumulations in specific anatomical sites. The treatise integrates this physiological model with practical therapeutic advice focused on restoring equilibrium through regimen, diet, and interventions like purging and bloodletting.
+
+Scholars identify the work as a product of the Coan medical tradition, which emphasized empirical observation and naturalistic explanation over supernatural causes. It appears to have been written for practicing physicians and students, reflecting the broader Hippocratic endeavor to establish medicine as a rational, systematic craft. The text survives intact through medieval manuscript transmission and is studied today for its insights into classical Greek anatomical knowledge, its humoral theory of disease, and its representation of early diagnostic and therapeutic practices.
+
 ## Text
 
 ## Ἐμοὶ δοκέει ἀρχὴ μὲν οὖν οὐδεμία εἶναι τοῦ σώματος, ἀλλὰ πάντα ὁμοίως ἀρχὴ καὶ πάντα τελευτή· κύκλου γὰρ γραφέντος ἀρχὴ οὐχ εὑρέθη· καὶ τῶν νοσημάτων ἀπὸ παντὸς ὁμοίως τοῦ σώματος· τὸ μὲν ξηρότερον, πεφυκὸς νόσους λάζεσθαι καὶ μᾶλλον πονέειν, τὸ δὲ ὑγρὸν ἧσσον· τὸ μὲν γὰρ ἐν τῷ ξηρῷ νόσημα πήγνυταί τε καὶ οὐ διαπαύει, τὸ δ’ ἐν τῷ ὑγρῷ διαῤῥεῖ, καὶ τοῦ σώματος ἄλλοτε ἄλλο μάλιστα ἔχει, καὶ αἰεὶ μεταλλάσσον ἀνάπαυσιν ποιέει, καὶ θᾶσσον παύεται, ὥστε οὐ πεπηγός.

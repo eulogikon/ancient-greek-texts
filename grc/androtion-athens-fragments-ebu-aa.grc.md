@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ebu-aa` · [HTML page](https://eulogikon.org/works/androtion-athens-fragments-ebu-aa)
 
+The Fragments on Athenian History constitutes the surviving portions of a local chronicle of Athens and the Attic region, authored in the fourth century BCE by the Athenian politician and orator Androtion. Preserved in 63 separate citations by later Greek and Roman writers, the work was originally organized as a year-by-year narrative using the succession of Athenian archons as its chronological framework, spanning from the city's mythical foundations to the author's own era. Its content encompassed political and constitutional developments, accounts of religious festivals such as the Panathenaia, and records of significant historical events. Modern scholarship interprets Androtion's history as a pragmatic work, informed by his direct political experience and likely composed in part during his exile. It emphasizes institutional and legal history over legendary narrative, providing crucial evidence for Athenian traditions, public offices, and chronology, particularly where it supplements the accounts of major historians like Thucydides. The work was highly influential, serving as a key source for the constitutional research of Aristotle's school and for later authors including Plutarch.
+
 ## Text
 
 ### t,ante1-59

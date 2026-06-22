@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bs` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-timocrates-fsm-bs)
 
+Against Timocrates is a forensic oration composed by the Athenian statesman Demosthenes around 353 BCE. Written in Attic Greek for delivery before a public court, the speech prosecutes a citizen named Timocrates for having proposed an illegal decree. The work presents a detailed legal argument that systematically attacks both the substance of the proposed law and the defendant's character, aiming to prove the decree was unconstitutional and enacted for corrupt motives.
+
+The case arose from a significant Athenian financial scandal. Timocrates had introduced a law designed to enable certain convicted politicians to avoid paying substantial fines owed to the state treasury. Demosthenes, writing the speech for the prosecutor Diodorus, contends that this law violated existing statutes, was proposed at an improper time, and served private interests to the detriment of public justice and fiscal responsibility. The complete text, preserved through the medieval manuscript tradition of Demosthenes's works and organized into 204 sections in modern editions, stands as a substantial example of Athenian legal oratory. While its authenticity was occasionally questioned in antiquity, modern scholarship generally accepts it as a genuine product of Demosthenes's early career as a logographer.
+
+Long studied as a masterclass in legal rhetoric, Against Timocrates offers a crucial window into the political conflicts, judicial procedures, and intense civic debates concerning public accountability in mid-fourth-century Athens.
+
 ## Text
 
 ### Or24 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vhc-ab` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-13-vhc-ab)
 
+_Medical Book XIII_ constitutes the thirteenth volume of the _Tetrabiblon_, a comprehensive medical encyclopedia compiled in Greek by the 6th-century Byzantine physician Aëtius of Amida. Written as a practical handbook for practitioners, this volume systematically addresses ailments and treatments related to the stomach, intestines, and the female reproductive system. Its thirty-one chapters cover specific conditions such as colic, dysentery, hemorrhoids, and menstrual disorders, providing diagnostic guidance, prognoses, and detailed therapeutic recipes. These treatments encompass complex pharmacological compounds, dietary advice, and minor surgical procedures, all framed within the traditional Galenic theory of bodily humors.
+
+The work is fundamentally a compilation, synthesizing knowledge from earlier authorities including Galen, Oribasius, and Soranus of Ephesus rather than presenting original research. It was created during the reign of Emperor Justinian I, a period characterized by efforts to systematize and preserve classical knowledge. The complete _Tetrabiblon_ survives in full through numerous Greek manuscripts and was later translated into Latin and Arabic, serving as an influential textbook that transmitted ancient medical knowledge into the medieval Islamic world and Renaissance Europe.
+
 ## Text
 
 ## ΑΕΤΙΟΥ ΛΟΓΟΣ ΤΡΙΣΚΑΙΔΕΚΑΤΟΣ Περὶ Ἀνθρωποδήκτων.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fpk-aa` · [HTML page](https://eulogikon.org/works/mnesimachus-pythagorean-sacrifice-fpk-aa)
 
+The Fragments on Pythagorean Sacrifice comprises a collection of thirty-eight short passages attributed to the Athenian comic poet Mnesimachus, who was active during the fourth century BCE. These excerpts, written in Attic Greek verse, are not from a complete surviving play but are remnants likely drawn from one or more of his lost comedies, representing the genre of Middle Comedy. The content centers on a parody of the rituals and stringent ascetic practices associated with the Pythagorean philosophical sect, humorously exaggerating their vegetarianism and distinctive approach to sacrifice. The complete work is lost; these fragments survive through quotation by later ancient authors such as Athenaeus, who valued them for their references to dietary customs and social practices. Scholars view the fragments as characteristic of Middle Comedy, which frequently turned its satire toward intellectual figures and philosophical schools, moving away from the overt political commentary of earlier Old Comedy toward a broader social parody. The work was intended for the Athenian theater-going public, reflecting contemporary popular amusement at the perceived eccentricity and austerity of philosophical lifestyles.
+
 ## Text
 
 ### book 1.1

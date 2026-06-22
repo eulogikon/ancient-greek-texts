@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mjo-aa` · [HTML page](https://eulogikon.org/works/isidorus-tragedian-nature-of-evil-mjo-aa)
 
+On the Nature of Evil is a lost tragic work attributed to the otherwise unknown author Isidorus the Tragedian. It survives only as nine fragmentary poetic passages preserved by the 5th-century Neoplatonist philosopher Proclus in his treatise De malorum subsistentia (On the Existence of Evils). The modern title is derived from the fragments' thematic content within Proclus's discussion, as they are cited simply as excerpts from Isidorus. The work has no independent manuscript tradition, and its fragments are known solely from their quotation in Proclus's text, where they are edited in modern collections of tragic fragments.
+
+Proclus employs these verses to support his philosophical arguments on the nature of evil, treating them as a form of authoritative poetic theology. The tragic fragments address the origin and dependent, non-substantial reality of evil, exploring questions of divine justice and cosmic order through mythological drama. They employ mythological exempla to illustrate abstract problems of suffering and evil, with one surviving line comparing the propagation of evil to a viper giving birth to a viper. Isidorus's significance lies entirely in this Neoplatonic reception. Proclus positions the tragedian alongside canonical figures like Homer and Hesiod, co-opting the poetry to validate the philosophical doctrine that evil is a parasitic absence of good and lacks substantial, independent existence.
+
 ## Text
 
 ### book 1.1

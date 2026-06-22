@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bo` · [HTML page](https://eulogikon.org/works/aristides-orator-letter-smyrna-qwm-bo)
 
+The Letter to the Smyrnaeans is a formal epistle composed by the orator Aelius Aristides in the late 170s CE, following a devastating earthquake that struck the city of Smyrna. Written in polished Attic Greek, the letter is addressed to the city's citizens and functions as both a consolatory oration and a panegyric. Aristides seeks to console the populace by shifting focus from the physical destruction to the city's enduring virtues. He extensively praises Smyrna's historical prestige, its unwavering loyalty to Rome, and the admirable character of its inhabitants, arguing that the city's true greatness resides in its intangible civic spirit and continued divine favor, particularly from the goddess Cybele and the emperor Marcus Aurelius. The work survives in its entirety within Aristides' collected orations, preserved primarily through a tenth-century manuscript and its subsequent copies. Modern scholarship regards the letter as a sophisticated artifact of civic rhetoric from the Second Sophistic period. It demonstrates how a leading Greek intellectual employed his eloquence not only to bolster local morale but also to artfully mediate between his stricken city and the Roman imperial authority, implicitly advocating for material aid and patronage in the reconstruction efforts.
+
 ## Text
 
 ### [20]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ehy-ac` · [HTML page](https://eulogikon.org/works/ctesias-cnidus-colaxaeans-ehy-ac)
 
+On the Colaxaeans is a lost treatise by the Greek physician and historian Ctesias of Cnidus, composed in Ionic Greek around 400 BCE. The work blended medical and ethnographic themes, focusing on peoples and lands at the eastern fringes of the Persian Empire. Only two fragmentary passages survive through quotation by later authors. One fragment describes a medicinal "Indian stone" used as an antidote and a treatment for eye ailments, while the other records a fantastical account of a people in India possessing backwards-turned feet. Scholars interpret this combination of practical pharmacology and marvels as characteristic of Ctesias's writings, which catered to contemporary Greek curiosity about the exotic East. The treatise was likely based on stories he collected during his service as a physician at the Persian court. No manuscript of the original survives, and its content is known solely through these later quotations.
+
 ## Text
 
 ### 66bis.(l1)

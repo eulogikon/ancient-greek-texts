@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-cn` · [HTML page](https://eulogikon.org/works/alchemist-i-orichalcum-rrg-cn)
 
+On Orichalcum is a brief Greek alchemical treatise attributed to an author known only as Alchemist I. The text consists of a single passage providing a recipe for creating orichalcum, a legendary metal often associated with brass or a gold-like alloy. The recipe describes a process of treating copper with cadmia, a zinc ore such as calamine, to produce a golden-colored metal. This places the work within the practical, metallurgical strand of Greco-Egyptian alchemy, which focused on metallic imitation and transmutation. The treatise is preserved within the corpus of Greek alchemical manuscripts and appears in the modern edition Catalogue des manuscrits alchimiques grecs. It survives as a self-contained recipe with no evidence of being part of a larger work. The work exemplifies the alchemical pursuit of replicating precious and legendary materials, orichalcum having been famously described by Plato. It provides a concrete example of ancient alloying techniques, offering historians of science insight into the practical methods of early alchemists.
+
 ## Text
 
 ### 1

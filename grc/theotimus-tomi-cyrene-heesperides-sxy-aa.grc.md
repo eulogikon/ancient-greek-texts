@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sxy-aa` · [HTML page](https://eulogikon.org/works/theotimus-tomi-cyrene-heesperides-sxy-aa)
 
+The work On Cyrene and the Hesperides, also known by the alternative title Apospasmata or "Extracts," is a fragmentary prose mythography by the Hellenistic author Theotimus of Tomi. It survives only through six brief passages quoted within the ancient scholia, or explanatory commentaries, on Apollonius of Rhodes's epic poem the Argonautica. The extant fragments focus on two primary mythological subjects: the origins and parentage of the nymph Cyrene, and detailed information concerning the Hesperides, including their number, names, location, and a description of their famed orchard of golden apples. The text is transmitted exclusively through this scholarly tradition on the Argonautica, which served as the sole conduit for these excerpts, and it is not cited in other major surviving bibliographies. Theotimus's compilation represents a characteristic product of Hellenistic mythographical scholarship, systematically collecting and presenting variant traditions and geographical details. Its preservation within the Argonautica scholia granted it an indirect but lasting influence, ensuring that his specific mythological versions were passed down to later Byzantine and Renaissance readers.
+
 ## Text
 
 ### t1-3

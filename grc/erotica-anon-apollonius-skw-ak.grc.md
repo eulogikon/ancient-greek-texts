@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ak` · [HTML page](https://eulogikon.org/works/erotica-anon-apollonius-skw-ak)
 
+_Apollonius_ is an anonymous Greek prose narrative classified within the tradition of erotic fiction. The work is known only from two brief, fragmentary passages, which provide insufficient evidence to reconstruct its plot, characters, or narrative scope. The extant text describes a scene at a royal banquet where a king, reclining with his queen, offers a libation to the gods Dionysus and Apollo. Based on its generic categorization, the narrative likely explored themes of romantic or erotic love, aligning it with the broader conventions of the ancient Greek novel. No details regarding its transmission, manuscript tradition, or survival beyond these fragments are documented. While this specific text remains unverifiable within the corpus of preserved ancient novels, the genre of Greek romantic fiction to which it belongs exerted a significant influence on the development of later Byzantine and early modern European literature.
+
 ## Text
 
 ### 1

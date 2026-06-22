@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jqk-aa` · [HTML page](https://eulogikon.org/works/nicomachus-comic-cooks-art-jqk-aa)
 
+_The Cook's Art_ is a lost Greek comedy by Nicomachus, preserved only in twenty-nine fragments quoted by later authors, most notably Athenaeus in his _Deipnosophistae_. The title, which translates to "Extracts," appears to be a later designation reflecting the play's fragmentary transmission rather than its original name. Based on its thematic focus on food, professional boasting, and social types, the play is generally classified within the tradition of Middle or New Comedy. The surviving passages center on the technical art and elevated self-presentation of the cook, or _mageiros_, who is depicted not merely as a tradesman but as a practitioner of a sophisticated discipline. The fragments emphasize food preparation, luxury, and consumption as central plot elements, employing these themes for social satire through the cook's interactions with other stock characters in domestic or festive settings typical of later Greek comedy. As there is no independent manuscript tradition for the complete work, its survival depends entirely on such quotations, primarily those of Athenaeus, who valued the play for its culinary and linguistic details. These fragments are historically significant for tracing the evolution of the cook as a stock character in ancient theatre, a type that would later influence Roman comedy and European dramatic traditions. Furthermore, they provide valuable evidence for the study of ancient gastronomy, social history, and specialized professional vocabulary.
+
 ## Text
 
 ### book 1.1

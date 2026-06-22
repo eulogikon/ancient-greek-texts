@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pdc-ae` · [HTML page](https://eulogikon.org/works/appian-alexandria-saunitic-pdc-ae)
 
+From the Saunitic is a section of the Roman History, the major historical work composed in Greek by Appian of Alexandria in the mid-2nd century CE. Appian, a Greek official within the Roman imperial administration, organized his history along ethnographic lines, with this particular book devoted to Rome's protracted and critical wars against the Samnites, a powerful confederation of Italic peoples. The conflicts it detailed, known collectively as the Samnite Wars, spanned much of the 4th and 3rd centuries BCE and were fundamental to Rome's eventual domination of the Italian peninsula.
+
+The book in its complete form has not survived antiquity. Its content is known only through 77 fragments excerpted and preserved in two 10th-century Byzantine compilations, the Excerpta de Legationibus and the Excerpta de Sententiis. As these collections were designed to provide material on embassies and notable sayings, the surviving passages do not constitute a continuous narrative. Instead, they offer isolated yet valuable thematic insights into military campaigns, diplomatic exchanges, and the conduct of commanders. Despite their fragmentary nature, these excerpts remain an important source for modern historians, providing a perspective on this formative era of Roman expansion as interpreted by a Greek historian writing during the zenith of the Roman Empire.
+
 ## Text
 
 ### Sam 1 1

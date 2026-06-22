@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ap` · [HTML page](https://eulogikon.org/works/alchemist-i-management-after-healing-rrg-ap)
 
+What is the Management After Healing is a brief Greek treatise attributed to an author known only as Alchemist I. The work exists only as a single fragment, and its manuscript tradition and historical context remain obscure. The title suggests a focus on post-therapeutic regimens, placing it within the intersecting domains of late antique medicine and alchemical practice. The extant passage provides a technical recipe, advising that a medicinal compound be exposed to the open air for five days after preparation. It offers instructions for creating both a dry and a wet preparation, involving the mixing of various components—specifically described as the putrid and the non-putrid, the moist and the dry—followed by processes of grinding, storage in a vessel, and heating for a prescribed duration. This fragmentary text represents a minor yet illustrative example of the practical, recipe-oriented literature that characterized much of Greco-Roman alchemy and iatrochemistry.
+
 ## Text
 
 ### 2.375.(1t)

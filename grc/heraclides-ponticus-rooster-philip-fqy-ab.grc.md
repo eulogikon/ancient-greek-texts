@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fqy-ab` · [HTML page](https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-ab)
 
+On the Rooster of Philip, also known by its alternative title Apospasma (Extract), is a philosophical dialogue in verse by the 4th-century BCE Academic philosopher Heraclides Ponticus. The work, which does not survive intact and is known only through later fragments and summaries, presents a conversation between the pre-Socratic philosopher Empedocles and his host, Pausanias. Their discussion is framed by a miraculous anecdote concerning a rooster that died and was resurrected after three days. Heraclides employs this narrative device to allow Empedocles to deliver a discourse arguing for the immortality of the soul and its transmigration between bodies. A member of Plato’s Academy, Heraclides was known for his engaging dialogues featuring historical figures. This work is interpreted as an exercise in philosophical mythmaking, utilizing a wondrous tale to explore and popularize Platonic and Pythagorean doctrines on the soul for an educated audience. The surviving context also suggests the dialogue may have incorporated the comedic or satirical elements characteristic of its author. Our primary knowledge of the text derives from quotations and commentary by the 6th-century CE Christian philosopher Philoponus, who engaged with it in theological debates concerning the soul and the eternity of the world. The title Apospasma implies that the version known in late antiquity was likely an excerpt from a longer original composition.
+
 ## Text
 
 ### book 1.1

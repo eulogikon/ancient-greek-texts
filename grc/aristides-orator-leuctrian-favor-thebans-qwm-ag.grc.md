@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-ag` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-favor-thebans-qwm-ag)
 
+The Leuctrian D (In Favor of Thebans Second) is a declamatory oration by the Greek orator Aelius Aristides, composed in Attic Greek around 155–161 CE. It forms the fourth and final speech in his Leuctrian Orations series. This rhetorical exercise is set in an imaginary Athenian courtroom following the Theban victory at the Battle of Leuctra in 371 BCE. The speaker assumes the role of an advocate defending the Thebans against Athenian hostility, specifically addressing the historical refusal of Athens to permit Thebes to inscribe a victory dedication on an Athenian monument at Delphi. In a full, nine-part argument, the orator contends that Athens owes Thebans gratitude for their past military services to Greece and criticizes Athenian foreign policy as both inconsistent and ungrateful.
+
+Created during the Second Sophistic, a period marked by a revival of classical Greek culture and rhetorical training, the oration was never intended for an actual legal proceeding. Instead, it functions as a display of rhetorical virtuosity for a sophisticated, educated audience. Modern scholarship regards it as an advanced example of meletē, or declamation, designed to demonstrate an orator's skill in arguing both sides of a historical controversy. The work engages with enduring themes of justice, interstate rivalry, and Panhellenic unity, reflecting the era's pedagogical practice of using classical historical scenarios to showcase mastery of argumentation, style, and ethical persuasion. The complete text survives through the medieval manuscript tradition of Aristides' collected works, most notably preserved in the 10th-century Codex Medicus.
+
 ## Text
 
 ### [5]

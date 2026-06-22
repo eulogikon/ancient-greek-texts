@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dam-ab` · [HTML page](https://eulogikon.org/works/diocles-domestic-comedy-dam-ab)
 
+The Domestic Comedy Fragments constitute a modern assemblage of fifteen surviving excerpts from the lost comedies of the Athenian poet Diocles. Active during the late fifth and early fourth centuries BCE, Diocles was a contemporary of Aristophanes whose career bridged the periods of Old and Middle Comedy. Ancient sources record that he achieved a victory at the City Dionysia. Preserved through quotation by later authors, these fragments provide limited but valuable insight into his theatrical subjects and comic style.
+
+The extant fragments and recorded play titles suggest Diocles engaged with several characteristic comic themes of his era. These include the parody of mythological stories, evidenced by plays titled Bacchae, Medea, and Cyclops. Other titles, such as The Treasure and The Runaway, point to humor derived from domestic and social situations, while a surviving fragment mentioning a dish of beet and mallow reflects a broader Middle Comedy interest in food and consumption. Another fragment contains a possible reference to the earlier poet Cratinus, hinting at a self-referential, metatheatrical humor. The fragments survive primarily through indirect quotation in Athenaeus’s Deipnosophistae, a work from the second or third century CE that cites them for their references to food and customs. Additional sources include later lexicographers such as Pollux and the Suda. The fragments are systematically collected and numbered in modern scholarly editions. While Diocles’s direct literary influence cannot be traced, his remains offer scholars important evidence for the thematic and linguistic development of Athenian comedy during its transition from the political satire of Old Comedy toward the more domestic and social focus of the Middle Comedy period.
+
 ## Text
 
 ### book 1.1

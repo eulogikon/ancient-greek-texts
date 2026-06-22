@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-aa` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-seven-sages-rjo-aa)
 
+Book I of Diogenes Laertius frames the Seven Sages and early figures through short biographical dossiers. The material combines sayings, reported actions, and succession links, preserving a doxographical bridge between archaic wisdom traditions and later philosophical historiography.
+
 ## Text
 
 ### Vit.1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-aj` · [HTML page](https://eulogikon.org/works/origen-alexandria-song-of-songs-uhs-aj)
 
+_On the Song of Songs, Two Books Written in Youth_ is an early exegetical treatise composed in Greek by the theologian Origen of Alexandria around 240 CE. As indicated by its title, the work was produced in two books during the author's younger years. It functions as a commentary on the biblical Song of Songs, interpreting its lyrical love poetry not in a literal sense but as an intricate allegory representing the soul's yearning for God or Christ, as well as the mystical union between Christ and the Church. This allegorical hermeneutic, central to the Alexandrian theological tradition, established a foundational framework for subsequent Christian exegesis of this scriptural book.
+
+The original two-book treatise is now almost completely lost. Only a prologue and scattered fragments of the Greek text survive, primarily preserved through their inclusion in later anthological works such as the Philokalia. Scholars regard this early work as a preparatory study in which Origen first articulated and refined the interpretive principles he would later expand and systematize in his more extensive homilies and commentary on the same biblical text. It was likely intended for an audience of Christian students and scholars, serving to defend the Song of Songs' canonical status by unveiling its concealed spiritual significance. The treatise stands as a characteristic example of the Alexandrian school's methodological commitment to discerning a deeper theological and doctrinal coherence beneath the surface of the literal words.
+
 ## Text
 
 ### 13.36.(1t)

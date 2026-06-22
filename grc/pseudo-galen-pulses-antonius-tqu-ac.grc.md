@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-ac` · [HTML page](https://eulogikon.org/works/pseudo-galen-pulses-antonius-tqu-ac)
 
+_On Pulses to Antonius, Student of Discipline and Philosopher_ is a concise, anonymous Greek medical treatise from the Hellenistic or Roman period. Structured as a dedicated text addressed to an individual named Antonius, it consists of thirteen passages focused on the diagnostic interpretation of the pulse. The work belongs to the specialized tradition of sphygmology, the study of the pulse, which was later systematized by the physician Galen. The treatise provides clear descriptions of various pulse qualities and their clinical correlations, classifying pulses by their speed, strength, and rhythm. It presents this theory as a practical guide for diagnosis and prognosis. The text survives within the broader corpus of ancient Greek medical writings, preserved in medieval Byzantine manuscripts alongside other technical works. While considered a minor text within the pulse literature, its primary significance lies in its role as an example of how complex medical theory was distilled for pedagogical or practical use. Its dedication to a "student and philosopher" suggests an intended audience of educated laypersons or medical students, illustrating the variety of instructional texts in circulation during late antiquity, before its specific teachings were largely absorbed into the dominant Galenic tradition.
+
 ## Text
 
 ### 19 629 (t1)

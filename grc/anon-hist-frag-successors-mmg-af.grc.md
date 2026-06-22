@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-af` · [HTML page](https://eulogikon.org/works/anon-hist-frag-successors-mmg-af)
 
+On the History of the Successors is a modern editorial title for a collection of four fragmentary passages attributed to a lost historical work concerning the wars of Alexander the Great's successors. These extremely brief passages, compiled under the designation FGrHist 155, offer anecdotal details rather than a continuous narrative. The sparse content suggests the original history covered events following Alexander's death in 323 BCE, touching upon court politics, dynastic struggles involving figures such as Cassander, and specific events related to the fate of Alexander's family. The work survives solely through these four fragments, which are quotations or paraphrases preserved within the texts of later ancient authors and are known exclusively from Felix Jacoby's scholarly compilation. While its direct influence is untraceable, the fragments represent one of the many lost sources that informed the later historiographical tradition on the Diadochi period. Their preservation indicates that some content was deemed noteworthy by later writers, though the work's overall impact was minimal compared to major surviving historical sources.
+
 ## Text
 
 ### 2b,155,F 1

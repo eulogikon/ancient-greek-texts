@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bb` · [HTML page](https://eulogikon.org/works/galen-pergamon-dissection-veins-arteries-qmm-bb)
 
+On the Dissection of Veins and Arteries is an anatomical treatise composed in Greek by the Roman physician Galen around 170–180 CE. Written as a specialized procedural guide, it details the precise methods for dissecting and exposing the vascular system in animals, a necessary substitute given the contemporary prohibition on human dissection. The work is structured in 51 concise passages that systematically guide the reader through the body, teaching the correct techniques for revealing veins and arteries with an emphasis on direct, hands-on observation. Galen composed the treatise during his service as a physician to the imperial court in Rome. Modern scholarship identifies a dual purpose: it functioned as a practical manual for instructing students and fellow physicians in anatomical technique, while simultaneously serving as a demonstration of Galen's own superior empirical methodology, intended to correct the errors of earlier medical authorities. The complete text was preserved through Byzantine Greek manuscripts and became profoundly influential following its translation into Arabic and later into Latin. For over a millennium, it remained a foundational textbook on the vascular system, until its anatomical models were revised by Renaissance anatomists.
+
 ## Text
 
 ### 2 779 (t1)

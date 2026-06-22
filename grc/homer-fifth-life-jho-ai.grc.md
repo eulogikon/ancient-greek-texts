@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-ai` · [HTML page](https://eulogikon.org/works/homer-fifth-life-jho-ai)
 
+The Fifth Life is a prose biography belonging to the ancient corpus known as the Lives of Homer, a collection of pseudepigraphical texts that compile legendary traditions about the poet. These works are not historical biographies but rather reflect competing claims about Homer's origins and life, often serving civic or scholarly agendas. The text engages with the core themes of this tradition, including the various and contradictory assertions regarding Homer's birthplace and parentage, anecdotal narratives concerning his travels, his purported blindness, and the circumstances of his death. A central function of such biographies was to establish the poet's authority and to use his legendary figure for civic promotion. Preserved within the medieval manuscript tradition of Homeric works, the Fifth Life survives as part of the prefatory scholarly material that accompanied the epic poems. It is typically edited in modern collections of Homeric scholia and pseudepigrapha. Though historically unreliable, the work is critical for understanding the ancient reception of Homer and the early construction of literary biography. These texts fundamentally shaped the Hellenistic and Roman conception of the poet for centuries and illustrate the powerful cultural imperative among Greek city-states to claim association with the foundational figure of Western literature.
+
 ## Text
 
 ### [45]

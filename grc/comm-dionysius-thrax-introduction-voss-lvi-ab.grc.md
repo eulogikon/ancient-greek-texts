@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lvi-ab` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-introduction-voss-lvi-ab)
 
+The Prolegomena Vossiana is an anonymous Greek grammatical treatise that functions as an introductory commentary to the Art of Grammar attributed to Dionysius Thrax. Preserved within the manuscript tradition of Greek grammatical prolegomena, it is classified as "Vossian" based on its inclusion in the manuscript Vossianus graecus Q 13. The work is structured as a complete, short treatise in ten sections, providing a systematic foundation for the study of grammar. It opens by establishing the necessity of defining the art itself before proceeding to a detailed exegesis. The text methodically addresses the definition, purpose, and practical utility of grammar in human life, often supporting its arguments with citations from earlier authors, such as the comic poet Hipparchus. It further explores the etymological origins of the word "art," the various subdivisions of the discipline, and the ideal qualifications and virtues of the grammarian, including the relationship of grammar to philosophy and rhetoric. This theoretical groundwork precedes a direct exegetical engagement with the opening portions of Dionysius Thrax's manual. As a representative example of a major exegetical genre, the Prolegomena Vossiana exemplifies the pedagogical approaches and theoretical frameworks of late antique and Byzantine grammatical education. These introductory texts played a crucial role in standardizing and transmitting core linguistic doctrine, thereby fundamentally shaping medieval Greek learning and contributing significantly to the history of linguistic thought.
+
 ## Text
 
 ### 1 (1t)

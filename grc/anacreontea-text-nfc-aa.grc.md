@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nfc-aa` · [HTML page](https://eulogikon.org/works/anacreontea-text-nfc-aa)
 
+The Anacreontea is a collection of approximately sixty short Greek lyric poems composed by various anonymous authors in imitation of the style of the archaic poet Anacreon. The poems were written over an extensive period, likely spanning from the 1st century BCE to the 6th century CE. They consistently celebrate the classic Anacreontic themes of wine, playful eroticism, and the carpe diem pursuit of pleasure in defiance of old age and mortality. The works are brief, typically between eight and twenty lines, and employ metrical forms associated with this imitative tradition, most notably the verse pattern that later became definitively known as "anacreontics."
+
+The entire corpus survives due to its inclusion in a single 10th-century Byzantine manuscript, the Palatine Anthology, which also preserves the bulk of the Greek Anthology. No earlier papyrus fragments of these specific poems are known, rendering this late manuscript the sole textual source. Modern scholarship regards the collection not as the genuine work of the historical Anacreon but as a sophisticated literary exercise by later poets writing for educated, elite audiences. The poems were likely composed for, or deliberately evoke, the context of the symposium, or aristocratic drinking party. Their preservation within a scholastic anthology indicates they were valued for centuries as exemplary models of a light and graceful style. The Renaissance publication of these poems, erroneously attributed to Anacreon himself, ignited a major European fashion for "Anacreontic" poetry, which centered on themes of refined and lighthearted hedonism.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqk-ad` · [HTML page](https://eulogikon.org/works/hermetica-nothing-perishes-oqk-ad)
 
+Nothing Perishes: Changes Mistaken for Loss and Death is the twelfth treatise of the Corpus Hermeticum, a collection of Greek philosophical texts attributed to the legendary sage Hermes Trismegistus. Composed in Koine Greek during the Roman Imperial period, likely between the first and third centuries CE, it is a concise dialogical work in which Hermes instructs his disciple Tat. The treatise presents a core argument that nothing in existence is ever truly destroyed, asserting that what humans perceive as death and loss are merely transformations in form or state. This theme is developed across six passages that explain the immortal nature of the cosmos and describe the journey of the human soul after its separation from the mortal body.
+
+As a representative example of the philosophical Hermetica, the work synthesizes Greek Platonic and Stoic concepts with elements of Egyptian religious thought. Modern scholarship interprets it as a guide for spiritual knowledge, designed to liberate the initiate from the fear of death by teaching the soul's inherent eternity and its ultimate return to the divine. The treatise survives as part of the standard seventeen-treatise Corpus Hermeticum, preserved primarily within a fourteenth-century Byzantine manuscript. Following its rediscovery during the Renaissance, its doctrines concerning cosmic immortality exerted a significant influence on the development of European esoteric and philosophical traditions.
+
 ## Text
 
 ## Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν Περὶ ψυχῆς καὶ σώματος, ὦ παῖ, νῦν λεκτέον, τρόπῳ μὲν ποίῳ ἀθάνατος ἡ ψυχή, ἐνέργεια δὲ ποταπή ἐστι συστάσεως σώματος καὶ διαλύσεως.

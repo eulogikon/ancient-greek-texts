@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gzo-ab` · [HTML page](https://eulogikon.org/works/autocrates-lydian-maidens-gzo-ab)
 
+The Fragments on Lydian Maidens is a modern descriptive title for seven brief excerpts preserved from comedies by Autocrates, an Athenian comic poet of the 5th century BCE. These fragments, quoted by later grammarians, are not from a single continuous play but reference Lydian maidens as characters or a chorus. They consist of short lines or phrases mentioning Lydian customs, clothing, or instruments like the magadis, a type of harp or lute, and their primary value is lexicographical. The fragments reflect Athenian comic engagement with Eastern stereotypes, depicting Lydians as embodiments of luxury and exoticism. They reference the magadis and the so-called Lydian harmony, and focus on maidens in a potential choral or ritual context. No complete play by Autocrates survives. The seven fragments are transmitted indirectly through the works of later scholars, primarily the Lexicon of Hesychius of Alexandria from the 5th or 6th century CE and the Deipnosophistae of Athenaeus from approximately the 3rd century CE. Autocrates is a minor figure, but these fragments help reconstruct the broader landscape of Attic Old Comedy beyond major authors like Aristophanes. They provide evidence for Athenian perceptions of foreign cultures and the technical vocabulary of ancient music.
+
 ## Text
 
 ### book 1.1

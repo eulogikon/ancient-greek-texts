@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ak` · [HTML page](https://eulogikon.org/works/lysias-eratones-funds-ejc-ak)
 
+On the Funds of Eratones, to the Public is a forensic oration composed by the Attic orator Lysias for a client involved in a financial dispute with the Athenian state treasury. The case centers on a claim made by the public treasury regarding money or property associated with an individual named Eratones. The surviving fragments indicate the speech was a defense against this public lawsuit, likely delivered by Eratones himself or a close associate. Such litigation was characteristic of the period following the restoration of Athenian democracy in 403 BCE, as the city worked to adjudicate a multitude of complex property and debt claims arising from the preceding political turmoil.
+
+The complete text of the speech has been lost, and it is known today only through partial fragments preserved in the works of later ancient authors. These excerpts reveal a detailed legal argument concerning debt, inheritance, and civic obligations. Modern scholarship, based on ancient testimony, indicates the original oration was structured into eleven sections. It stands as a representative example of Lysias's forensic style, which frequently focused on the pragmatic concerns of ordinary citizens within the Athenian legal framework, employing clear narrative and calculated appeals to the jurors' sense of fairness.
+
 ## Text
 
 ### Or17 t

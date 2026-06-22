@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iru-af` · [HTML page](https://eulogikon.org/works/aratus-preface-phenomena-iru-af)
 
+The Excerpt from the Preface on Phenomena is a prose adaptation of the introductory section of the Phaenomena, the renowned didactic poem by Aratus of Soli. Composed in the early third century BCE, the original poem systematically describes the constellations and weather lore. This excerpt isolates the poem's celebrated prefatory hymn, which invokes Zeus as the benevolent and omnipresent deity who orders the cosmos and provides providential care for humanity. This theological prologue establishes a framework of divine intelligence and cosmic harmony for the subsequent astronomical content. The prose form of the excerpt indicates it is a later paraphrase, not Aratus's original hexameter verse. The full Phaenomena, written for a Hellenistic court, reflects contemporary Stoic ideas concerning a rational universe. The preface is often interpreted as presenting the study of the heavens as a means of perceiving divine reason. The independent circulation of this prose excerpt, noted in later sources such as the Byzantine Suda, suggests the preface was later utilized separately for pedagogical or illustrative purposes. The original poem enjoyed exceptionally wide transmission through the medieval period and exerted profound influence on later literature, including an appearance in the New Testament.
+
 ## Text
 
 ### 1 (t1)

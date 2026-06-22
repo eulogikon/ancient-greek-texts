@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ayg-aa` · [HTML page](https://eulogikon.org/works/aegimius-text-ayg-aa)
 
+The Aegimius is a lost epic poem of uncertain authorship, traditionally ascribed either to a poet of the same name or, more commonly, to Hesiod. It takes its title from the legendary Dorian king Aegimius. The narrative, as reconstructed from fragmentary quotations preserved by later authors such as Strabo and Athenaeus, included episodes of Heracles aiding Aegimius in a war against the Lapiths and contained a catalog of the daughters of Danaus. As part of the early "Hesiodic" epic tradition, the poem expanded on mythological cycles outside the Homeric sphere, focusing on Dorian genealogy and the exploits of Heracles to connect heroic narrative with the foundational legends of specific Greek tribes. Its fragments are compiled in modern scholarly editions of Hesiodic works.
+
 ## Text
 
 ### book 3.1

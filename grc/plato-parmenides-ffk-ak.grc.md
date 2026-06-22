@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-ak` · [HTML page](https://eulogikon.org/works/plato-parmenides-ffk-ak)
 
+Plato's Parmenides is a philosophical dialogue set in Athens around 450 BCE, featuring a conversation between the young Socrates and the visiting Eleatic philosophers Parmenides and Zeno. The work is structurally complex, divided into two main parts. The first part subjects Plato's own theory of Forms to a series of profound criticisms, including the "Third Man" argument and problems of participation. The second, longer part is a logical exercise in which Parmenides explores the contradictory consequences of hypothesizing either that "the One is" or that "the One is not," generating a series of deductive arguments concerning the One and the Many. The dialogue thus contains both a critical examination of the theory of Forms and a demonstration of dialectical method through hypotheses about the One, engaging deeply with Eleatic philosophy concerning being, non-being, and change.
+
+Transmitted as part of the Platonic corpus, the dialogue survives complete in numerous medieval manuscripts. Its authenticity, while occasionally questioned in antiquity, is not seriously disputed by modern scholarship. The Parmenides has exerted enormous influence on the history of metaphysics and theology. Neoplatonists like Plotinus and Proclus interpreted it as a systematic revelation of reality emanating from the One, profoundly influencing medieval philosophical theology. Its logical puzzles and metaphysical critique remain a pivotal subject for analysis, from Hegel to contemporary philosophy.
+
 ## Text
 
 ### Parm.137.c

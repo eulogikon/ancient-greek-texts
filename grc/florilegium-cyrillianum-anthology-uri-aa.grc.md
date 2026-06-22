@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uri-aa` · [HTML page](https://eulogikon.org/works/florilegium-cyrillianum-anthology-uri-aa)
 
+The Cyrillian Anthology is a Byzantine gnomic anthology or florilegium, comprising 278 short poetic passages excerpted from earlier Greek authors. Transmitted pseudonymously under the name of Cyrillus, it is a thematic collection of maxims and verses addressing ethical and practical life, serving as a handbook for moral and rhetorical education. The anthology organizes its excerpts by theme, including ethical instruction on virtue and vice, practical wisdom concerning daily life, friendship, and speech, reflections on fate, human nature, and divinity, and attitudes toward wealth and poverty. The work survives in numerous Byzantine manuscripts, attesting to its medieval utility. The standard modern edition is found in the Corpus Paroemiographorum Graecorum edited by E. von Leutsch and F.G. Schneidewin. As a representative Byzantine gnomology, the anthology played a key role in preserving and transmitting classical poetic thought. Its wide manuscript dissemination and inclusion in scholarly corpora highlight its importance for studying the reception and rearrangement of ancient maxims in later periods.
+
 ## Text
 
 ### book 103

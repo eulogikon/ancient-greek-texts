@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `yfq-aa` · [HTML page](https://eulogikon.org/works/pomponius-laetus-phoenician-history-yfq-aa)
 
+Overview The Fragments on Phoenician History (Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας) is a lost work attributed to the Renaissance humanist Julius Pomponius Laetus. It is known only by its title, which indicates it consisted of three prose passages. No direct quotations or specific content from the fragments are recorded.
+
+Content The work’s thematic content is unrecoverable from extant sources. Its proposed subject, however, represents an extension of Laetus’s antiquarian interests beyond his primary focus on Roman history, possibly engaging with Greek sources on Phoenician culture or colonization.
+
+Transmission The work is entirely lost, with its existence noted solely by its title. There is no known manuscript tradition or record of later citations.
+
+Significance While the fragments themselves exert no direct influence, their attribution to Laetus reflects the expansive scope of Renaissance humanist scholarship. Laetus, as founder of the Roman Academy, was central to reviving classical studies through textual criticism and archaeology. The mere suggestion of this work underscores the encyclopedic desire to recover all facets of the ancient world that characterized the period.
+
 ## Text
 
 ### t1-2

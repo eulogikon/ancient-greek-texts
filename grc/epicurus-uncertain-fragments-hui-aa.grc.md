@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hui-aa` · [HTML page](https://eulogikon.org/works/epicurus-uncertain-fragments-hui-aa)
 
+The Fragments of Uncertain Position is a collection of four passages attributed to Epicurus, preserved exclusively within the anthology of Diogenes Laërtius. They are appended to his biography of the philosopher in Book X of the Lives of Eminent Philosophers, where he notes they are of uncertain position within the Epicurean corpus. The fragments outline key characteristics of the Epicurean sage. They state that the wise man’s credibility is nullified by insanity or intoxication, that he will neither engage in sexual intercourse nor beget children, and they detail his attitude toward legal punishment. Most notably, they declare that the wise man will not participate in political life. These fragments survive solely through the transmission of Diogenes Laërtius’s work and have no independent manuscript tradition. They are central to understanding Epicurean social ethics, particularly its advocacy of political quietism and personal asceticism. This stark rejection of public life became a defining feature of the school, often contrasted with the civic engagement promoted by Stoic and Aristotelian philosophy.
+
 ## Text
 
 ### 134 (1l)

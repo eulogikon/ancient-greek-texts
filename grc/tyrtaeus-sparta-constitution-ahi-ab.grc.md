@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ahi-ab` · [HTML page](https://eulogikon.org/works/tyrtaeus-sparta-constitution-ahi-ab)
 
+The Fragments on Spartan Constitution represent a modern scholarly grouping of elegiac poetry by the Spartan poet Tyrtaeus, who was active around the mid-7th century BCE. These eight surviving passages, composed in elegiac couplets, collectively address the origins and foundational structure of the Spartan state. Their themes encompass the division of the citizen body and the delineation of authority among kings, councils, and the assembly. They do not originate from a single, complete poem but are excerpts preserved through quotation by later ancient authors, primarily for their historical and constitutional content.
+
+The original context of these fragments within Tyrtaeus’s longer poetic works remains uncertain. Modern interpretation generally regards them as political poetry, crafted to foster social unity and legitimize the established order during a period marked by the Messenian Wars and Spartan state formation. The verses were likely intended for public recitation, serving to reinforce core civic values and martial discipline. One particularly significant fragment is thought by some scholars to contain a poetic allusion or reference to the "Great Rhetra," the foundational oracle that traditionally guided the development of the Spartan government.
+
+The work survives exclusively as quotations embedded within the prose of later authors, most notably Aristotle and Plutarch. These writers cited Tyrtaeus’s verses not as literary texts but as authoritative historical evidence for the early development of Sparta’s distinctive constitution and social organization.
+
 ## Text
 
 ### 3b,580,F 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iso-ao` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-to-zeus-iso-ao)
 
+"To Zeus" is a poetic hymn by the Hellenistic poet and scholar Callimachus of Cyrene, composed in the 3rd century BCE. As the first of his six surviving hymns, it is a sophisticated literary work written in the epic hexameter meter. The 96-line poem adheres to traditional hymnic structure, opening with an invocation that questions how best to praise the supreme god. It proceeds to narrate the mythological birth of Zeus on Crete, his concealed infancy in a cave to evade his father Cronus, and his eventual ascension as the sovereign king of gods and mortals. Callimachus engages with local Cretan traditions while simultaneously referencing and subtly critiquing earlier poetic accounts, notably employing the proverbial "Cretans are always liars" to question the location of the god's tomb.
+
+Transmitted through medieval manuscripts, primarily an 11th-century codex, the hymn is a complete and well-preserved text. Modern scholarship interprets it not as a piece for religious ritual but as a polished composition intended for recitation within the learned court of Ptolemaic Alexandria. The work is understood to honor Zeus while also offering a nuanced compliment to Callimachus's royal patron, Ptolemy II Philadelphus, whose kingship was often symbolically linked to the god's universal rule. The poem exemplifies Callimachus's characteristically erudite and refined style, which exercised a profound influence on subsequent Roman poets, including Virgil and Ovid.
+
 ## Text
 
 ### 1

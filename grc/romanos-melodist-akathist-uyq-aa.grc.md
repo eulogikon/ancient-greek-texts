@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyq-aa` · [HTML page](https://eulogikon.org/works/romanos-melodist-akathist-uyq-aa)
 
+The Akathist Hymn is a foundational Byzantine liturgical poem dedicated to the Virgin Mary, traditionally ascribed to the sixth-century poet Romanos the Melodist. Composed in Koine Greek, it stands as the preeminent example of the kontakion, a form of poetic sermon designed for public liturgical performance. The work is meticulously structured, comprising 24 main stanzas that each begin with a successive letter of the Greek alphabet, along with a prologue and epilogue, totaling 39 passages. Its content artfully blends narrative, recounting events from the Annunciation to Christ's early life, with profound theological praise. This is achieved through a series of repeated salutations addressed to the Virgin, creating a rhythmic and devotional cadence.
+
+While composed in Constantinople, the precise historical occasion for the hymn's creation remains a subject of scholarly discussion. A longstanding tradition associates it with celebrations marking the city's deliverance from a siege, possibly in the early seventh century. Modern scholarship notes that if the attribution to Romanos is accurate, the hymn would date from the mid-sixth century and could be connected to an earlier event or serve as a general hymn of thanksgiving. It is believed to have been intended for a vigil service, utilizing its dramatic and accessible style to instruct and inspire the congregation.
+
+The text itself is exceptionally well-preserved, owing to its continuous use in the Eastern Orthodox liturgical tradition. The traditional attribution to Romanos, however, is not definitively supported by manuscript evidence, as the hymn does not appear in the oldest collections of his works. Consequently, some scholars propose it may be the work of a later, anonymous poet writing in the style of Romanos. Despite these questions of authorship, the Akathist Hymn endures as a cornerstone of Byzantine hymnography and a central text of Marian devotion, its liturgical and artistic influence remaining profound.
+
 ## Text
 
 ### 1

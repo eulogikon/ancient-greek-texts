@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-as` · [HTML page](https://eulogikon.org/works/alchemist-i-pearls-excerpts-rrg-as)
 
+On Pearls is a pseudepigraphal alchemical treatise attributed to an author known only as Alchemist I. Preserved within the broader corpus of Greek alchemical texts, it is a short work comprising a collection of practical excerpts focused on the artificial creation, treatment, and imitation of pearls. The text provides specific technical recipes, detailing processes such as cleaning and polishing pearls with oil and pumice, dissolving them in acidic solutions like citron vinegar, and whitening them using various plant-based preparations. It also includes notes on creating medicinal or magical compounds from pearl substances, reflecting the broader Greco-Egyptian alchemical pursuit of perfecting and imitating precious materials.
+
+The work survives in a fragmentary state as part of an anthology of technical notes found in medieval manuscripts, most notably within the 10th- or 11th-century Marcianus graecus 299 held in Venice. Its anonymous authorship and practical, recipe-based format are characteristic of the esoteric, workshop-oriented tradition of late antique alchemy. As a minor technical text, its significance lies in demonstrating the wide scope of alchemical interest, which extended beyond the transmutation of metals to include the manipulation of gems, dyes, and other valuable substances. It is studied by historians of science as a representative piece of the practical knowledge that would later inform and be transmitted through Islamic and Western alchemical traditions.
+
 ## Text
 
 ### 2 368

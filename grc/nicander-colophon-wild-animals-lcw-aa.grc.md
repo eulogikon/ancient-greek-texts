@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lcw-aa` · [HTML page](https://eulogikon.org/works/nicander-colophon-wild-animals-lcw-aa)
 
+The Theriaca, also known as On Wild Animals, is a didactic poem by the Hellenistic poet Nicander of Colophon, composed in the 2nd century BCE. Written in Homeric Greek hexameter, this work of nearly one thousand lines provides a systematic catalogue of venomous creatures, including snakes, spiders, and scorpions, and offers detailed instructions for preparing antidotes to their bites and stings. It functions as a technical treatise, merging precise zoological description with pharmacological recipes. The poem is a companion to Nicander's Alexipharmaca, which addresses poisons derived from plants and minerals.
+
+The complete text survives through medieval manuscript transmission, often accompanied by ancient scholia that aid in interpreting its dense and specialized vocabulary. Modern scholarship situates the work within the intellectual milieu of the Attalid court at Pergamon, where poetic composition engaged with contemporary scientific inquiry. It was crafted for an educated audience, demonstrating erudition and literary artistry within the established didactic tradition, even as its practical medical advice was later supplanted by prose handbooks. Despite its archaic presentation, the Theriaca exerted a significant influence on Roman literature and remained a cited authority in the fields of toxicology and natural history for centuries.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ab` · [HTML page](https://eulogikon.org/works/anon-grammarian-herodian-declension-tqa-ab)
 
+The grammatical treatise known as the "Compendium of Herodian's Work-Declension of Nouns" is an anonymous Byzantine epitome that systematically condenses the noun morphology of the influential 2nd-century CE grammarian Aelius Herodianus. It functions as a focused excerpt from Herodian's comprehensive and largely lost work on accentuation, structured as a single, concise passage for instructional purposes. The text methodically addresses declensional patterns, discussing specific rules for nouns ending in certain letters, the formation of the genitive case, and particular exceptions, such as the irregular declension of the name Poseidon. Transmitted within the Byzantine manuscript tradition of grammatical texts, this compendium explicitly acknowledges its derivative nature. Its primary significance lies in its role as a pedagogical tool that preserved and disseminated Herodian's authoritative grammatical theories throughout the medieval period, ensuring their continued influence within the advanced educational curriculum.
+
 ## Text
 
 ### 1

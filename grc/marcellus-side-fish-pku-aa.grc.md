@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pku-aa` · [HTML page](https://eulogikon.org/works/marcellus-side-fish-pku-aa)
 
+On Fish is a didactic poem in epic Greek hexameter by the 2nd-century CE physician and poet Marcellus of Side. It belongs to the genre of pharmacological poetry, detailing the medicinal properties of various fish and marine creatures. The work formed part of Marcellus's broader corpus of medical verse, which also included treatments of herbal remedies. The complete poem is lost; its text survives only in fragments quoted by later medical compilers, principally Oribasius in the 4th century and Aëtius of Amida in the 6th century. From these sources, scholars have identified seven extant passages. The original structure presumably organized the hexameters into sections describing individual fish and their therapeutic applications, functioning as both a practical medical reference and a literary mnemonic device. Composed during the cultural revival of the Second Sophistic, a period marked by renewed engagement with classical forms, the poem reflects the era's synthesis of technical expertise and literary artistry. Marcellus, a contemporary of the physician Galen, addressed an educated audience of medical practitioners and the literate elite, embedding authoritative pharmacological knowledge within the prestigious tradition of Hellenistic didactic poetry. This approach ensured the work's preservation and citation within specialized medical circles for centuries.
+
 ## Text
 
 ### 1

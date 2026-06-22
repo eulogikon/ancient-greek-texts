@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `boa-ab` · [HTML page](https://eulogikon.org/works/pindar-victors-boa-ab)
 
+The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According to the 10th-century Byzantine encyclopedia known as the Suda, it was a comprehensive list of the victors of the Olympic Games, composed in elegiac couplets and spanning 1238 lines. This work is distinct from Pindar's surviving Epinician Odes, which are commissioned choral odes for individual athletes; the Olympic Victors was instead a systematic record. The poem served to commemorate the names and civic origins of the victors, celebrating this peak achievement within the shared Panhellenic athletic and religious tradition. By lending poetic prestige to the official history of the Games, it functioned as an early authoritative effort to systematize the Olympic record, a concept later influential for historical chronology. The work is now lost, with no surviving fragments, and knowledge of it derives entirely from later testimonia. Its disappearance aligns with the loss of most of Pindar's non-epinician poetry, yet it illustrates a different facet of his literary output, extending his craft into the realm of catalogic verse.
+
 ## Text
 
 ### book 1

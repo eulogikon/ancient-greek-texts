@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dio-aa` · [HTML page](https://eulogikon.org/works/pempelus-honor-parents-dio-aa)
 
+The ethical treatise On the Honor Due to Parents is a fragmentary work pseudonymously attributed to an otherwise unknown author named Pempelus. It survives only in two excerpted passages, indicating its transmission was likely indirect, perhaps preserved within an anthology or cited by another author. The work addresses the traditional Greek ethical duty of filial piety, a common theme in popular philosophical discussions of piety and social obligation. Its content would have engaged core concepts such as piety understood as both a religious and social duty, the reciprocal justice owed by children for their upbringing, and the role of the family as the foundational unit of civic harmony. While its direct influence is untraceable, the treatise belongs to the broad tradition of Hellenistic ethical writing on specific virtues, reflecting the enduring cultural emphasis on family and social duty.
+
 ## Text
 
 ### 141 (12t)

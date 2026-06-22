@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ee` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-agesilaus-okg-ee)
 
+Agesilaus is a biography of the Spartan king Agesilaus II, written in Greek by the philosopher and historian Plutarch of Chaeronea around 100–120 CE. It forms part of Plutarch's famous Parallel Lives, a series of paired biographies comparing Greek and Roman leaders, and is traditionally matched with the Life of Pompey. The work is a continuous prose narrative, divided by modern editors into 171 sections, which chronicles the king's life from his accession through his military campaigns in Asia Minor and Greece, his role in Sparta's period of dominance, and his death.
+
+Plutarch presents an encomiastic, or praising, portrait of Agesilaus, highlighting his traditional Spartan virtues of austerity, courage, and simplicity. Modern scholars interpret the biography as a moral and ethical study, using the king’s character to explore themes of leadership, the tensions between personal virtue and state politics, and the historical decline of Spartan power. While celebrating Agesilaus's qualities, Plutarch also acknowledges his flaws and the consequences of his relentless policies, particularly toward Thebes.
+
+The complete text survives through medieval manuscripts and has been a key source for the image of Sparta from the Renaissance onward. Plutarch relied on earlier historians like Xenophon, who was a contemporary admirer of the king, writing centuries after the events to provide moral exemplars for a Greco-Roman audience under Roman rule.
+
 ## Text
 
 ### Ages t 1

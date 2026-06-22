@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-as` · [HTML page](https://eulogikon.org/works/callimachus-scholia-iambos-vmw-as)
 
+Overview The Scholia-Iambos (Σχόλια εἰς Ἴαμβον) is a body of ancient scholarly commentary on Callimachus’s Iambi, a collection of thirteen poems employing iambic meter for literary critique and moralizing invective. As scholia, it comprises marginal or interlinear notes by later grammarians addressing textual, linguistic, and interpretive difficulties within the poems.
+
+Content The exegetical notes primarily elucidate:
+
+Literary Polemic: Callimachus’s critiques of contemporary poets and styles.
+
+Mythological and Historical References: Figures and allusions within the poems.
+
+Linguistic and Metrical Analysis: Explanations of rare vocabulary and complex iambic meters.
+
+Transmission These scholia are transmitted fragmentarily, preserved within the margins of papyrus fragments, such as those from Oxyrhynchus, and in later medieval manuscripts. Their compilation reflects centuries of Hellenistic and Greco-Roman scholarly activity, potentially originating with figures like Theon, who composed a commentary on Callimachus.
+
+Significance The scholia are crucial for reconstructing the interpretation of Callimachus’s allusive poetry. They provide essential evidence for ancient philological practices and have profoundly influenced modern editorial work and understanding of Hellenistic literary criticism following their 20th-century publication.
+
 ## Text
 
 ### 191

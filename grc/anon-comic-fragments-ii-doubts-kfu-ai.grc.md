@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfu-ai` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-doubts-kfu-ai)
 
+The title Amphiboliai, meaning "Doubts" or "Ambiguities," is primarily attested as a lost comedy by the Middle Comic poet Antiphanes, who was active in the fourth century BCE. The play is recorded only as a title in the ancient lexicon known as the Suda, and no fragments are explicitly identified under this name in modern standard editions of comic fragments. Consequently, its plot, characters, and thematic content remain entirely unknown, though the works of Antiphanes and Middle Comedy generally often engaged in mythological parody and scenarios of domestic and social life. Separately, the designation can refer to a modern scholarly compilation, a hypothetical or actual collection that groups together textually problematic or attributively uncertain fragments from various lost comedies under this editorial title for analytical purposes. Such a collection would derive from the standard indirect transmission of comic fragments, preserved through quotations in later Greek and Roman authors. While the ancient play itself has left no discernible literary influence, Antiphanes was a prolific and significant figure in the development of Middle Comedy. A modern compilation titled Amphiboliai would hold significance primarily for philological scholarship, serving to facilitate the study of ambiguous and fragmentary comic texts.
+
 ## Text
 
 ### book 345

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ega-ac` · [HTML page](https://eulogikon.org/works/speusippus-athens-letters-philip-ega-ac)
 
+The Letters to Philip is a collection of epistles composed in Attic Greek by the Athenian philosopher Speusippus, the successor to Plato as head of the Academy. Written between approximately 343 and 339 BCE and addressed to Philip II of Macedon, the work offered the king political counsel grounded in philosophical principles. Only a fragmentary record of the text survives today, preserved through six extant passages. The surviving content reveals Speusippus urging Philip to legitimize his leadership of the Greek world not solely through military might but by appealing to a shared cultural heritage. One significant fragment argues that Philip’s claimed descent from the mythical hero Heracles afforded him a legitimate, Panhellenic right to hegemony. Modern scholarship generally interprets the letters as an attempt by an Athenian intellectual to directly influence Macedonian policy, likely advocating for Greek unity under Philip’s leadership for a prospective war against the Persian Empire. The work thus reflects the intense political debates within Athens during Philip’s ascendancy. The letters do not survive as a complete, independent text but are known only as quotations within later works, most notably the histories of Theopompus of Chios, who cited them in order to criticize their arguments. These fragments were subsequently transmitted through authors such as Diogenes Laertius and the Byzantine scholar Photius.
+
 ## Text
 
 ### 31 1 (t)

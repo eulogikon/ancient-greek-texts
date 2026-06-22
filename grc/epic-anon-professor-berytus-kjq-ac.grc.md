@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ac` · [HTML page](https://eulogikon.org/works/epic-anon-professor-berytus-kjq-ac)
 
+The Praise of a Professor Teaching at Berytus University is an anonymous Greek verse encomium composed in honor of a distinguished professor at the University of Berytus, the Roman-era law school in modern Beirut. As a poetic work, it stands apart from the more common prose panegyrics of its era. The text itself is fragmentary, with surviving portions indicating it was structured in passages. The extant lines describe the students, unable to see their teacher in person, commissioning two portraits of him—one a physical painting by artists and the other a mental image held in their minds. The poet declares his intention to dedicate a third, living and speaking portrait through his verses. The professor is praised for his gentle, persuasive speech and his ability to dispel sorrow, while the setting is evocatively linked to the fertile plain of Berytus and the inspirational Muses of Helicon.
+
+Composed during the period when Berytus was a preeminent center for Roman legal studies from approximately the third to the sixth century CE, the encomium emerges from a unique bilingual context where Latin jurisprudence was taught within a predominantly Greek-speaking eastern province. While the full scope of the poem is lost, its genre and setting strongly suggest it celebrated the ideals of advanced education, the intellectual and moral virtues of the professor, and the institutional glory of the university, famed as the "nurse of the laws." Its significance lies in offering a rare glimpse into the academic culture and celebratory rhetoric surrounding higher education in Late Antiquity, illustrating the high social status of professors and the complex linguistic milieu of the Eastern Roman Empire, where Greek verse could be deployed to honor a master of Latin law.
+
 ## Text
 
 ### unit_1

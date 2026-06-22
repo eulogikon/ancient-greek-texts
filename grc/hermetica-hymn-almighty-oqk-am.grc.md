@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqk-am` · [HTML page](https://eulogikon.org/works/hermetica-hymn-almighty-oqk-am)
 
+"From the Hymn to the Almighty" is a devotional passage preserved within the Corpus Hermeticum, a collection of Greek philosophical and theological texts attributed to the legendary sage Hermes Trismegistus. Composed in Roman Egypt between the 1st and 3rd centuries CE, the hymn is embedded within a longer tractate titled "That God is Invisible and Yet Most Manifest." It functions as a liturgical culmination to a philosophical argument, presented as a divine revelation to be sung in praise of the supreme, transcendent God. The text celebrates divine unity, creative power, and immanent presence within the cosmos, articulating a theology of a father God who begets a son, the divine Logos, who bears the perfect and incorruptible image of the father. The hymn does not survive as an independent work but only as a cited passage within the larger Hermetic discourse, modeling a worshipful response to the divine. Modern scholarship interprets the Hermetic texts, including this hymn, as products of Greco-Roman syncretism, blending Platonic, Stoic, and Egyptian religious ideas intended for small, learned circles seeking spiritual knowledge and salvation. The entire Corpus Hermeticum, including this excerpt, was preserved in Byzantine manuscripts and later translated during the Renaissance, where it exerted a significant influence on European esoteric and philosophical thought.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nac-aa` · [HTML page](https://eulogikon.org/works/arius-didymus-alexandria-sects-philosophers-nac-aa)
 
+The Book on the Sects of Philosophers is a philosophical compendium by Arius Didymus, a Stoic philosopher and advisor to Emperor Augustus in the late first century BCE. Written in Greek, the work systematically summarizes the core doctrines of the major Hellenistic schools, with particular emphasis on the Stoics, Peripatetics, and Academics. Its focus lies predominantly in the areas of ethics and physics, presenting complex philosophical ideas in a series of concise, accessible passages aimed at a non-specialist readership. The original text has not survived independently but is known almost entirely through extensive quotations preserved by the fifth-century anthologist Stobaeus. Modern reconstructions of the work rely on these fragments, which constitute a vital source for understanding Hellenistic philosophy, especially Stoic and Peripatetic thought. It is believed to have been composed to distill Greek philosophical wisdom for the educated Roman elite, reflecting a broader contemporary trend of systematizing knowledge for practical application.
+
 ## Text
 
 ### 53,1 (21t)

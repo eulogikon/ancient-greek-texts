@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `spw-ad` · [HTML page](https://eulogikon.org/works/theon-alexandria-testimonies-spw-ad)
 
+The Testimonies is a concise astronomical report by the 4th-century Alexandrian scholar Theon, preserved within his commentary on Ptolemy's Handy Tables. Written in Koine Greek, this two-part document serves as a firsthand historical record of a specific celestial event. Its primary content is Theon's eyewitness account of a solar eclipse observed in Alexandria on June 16, 364 CE, during the consulship of Emperors Jovian and Varronianus. He records the timing of the eclipse and notes the visibility of the planet Mercury near the sun. The second part of the work quotes the earlier astronomer Ptolemy on the observation of Mercury, thereby situating Theon's own empirical work within the continuum of established scholarly tradition.
+
+Modern scholarship interprets the Testimonies not as a standalone treatise but as a precise astronomical record intended for fellow scholars and students. It provides a reliably dated event for chronological calculation and scientific study, reflecting the practical observational practices maintained in late antique Alexandria. The text survives in full within the manuscript tradition of Theon's commentary and was later utilized by Byzantine scholars, most notably John Philoponus in the 6th century, who cited it as a verified data point in his own astronomical writings.
+
 ## Text
 
 ### 3c,651,T 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `daw-ap` · [HTML page](https://eulogikon.org/works/aristophanes-athens-birds-daw-ap)
 
+Birds is a comedy by the Athenian playwright Aristophanes, first performed in 414 BCE at the City Dionysia, where it was awarded second prize. Written in Attic Greek verse and the longest of Aristophanes' surviving works, the play follows two disgruntled Athenians, Peisetairos and Euelpides, who seek to escape the litigiousness and troubles of their city. Guided by a hoopoe—the transformed mythical king Tereus—they persuade the birds to join them in founding a magnificent new city in the sky named Cloudcuckooland. The plot unfolds as they organize the avian population, construct their utopian polis, and ultimately challenge the authority of the Olympian gods themselves, successfully negotiating a new cosmic order that places the birds, and by extension the two Athenians, in a position of supreme power.
+
+Produced during the Peloponnesian War, shortly after the launch of Athens's ambitious Sicilian Expedition, the play's themes of grandiose foundation, imperial overreach, and rhetorical persuasion are widely interpreted as a pointed satire of contemporary Athenian politics and the hubris driving its military campaigns. The fantastical premise provided Aristophanes with a vehicle to critique Athenian society, intellectual trends, and utopian idealism while avoiding direct personal invective. The complete text has been preserved through medieval manuscript tradition, most significantly in a 10th-century codex known as the Ravennas manuscript. Birds endures as one of Aristophanes' most celebrated comedies, and the term "Cloudcuckooland" has entered common parlance as a proverbial label for impractical or fantastical schemes.
+
 ## Text
 
 **ΕΥΕΛΠΙΔΗΣ**

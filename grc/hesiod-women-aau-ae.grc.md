@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aau-ae` · [HTML page](https://eulogikon.org/works/hesiod-women-aau-ae)
 
+Fragments on Women is a modern scholarly designation for a collection of excerpts attributed to the early Greek poet Hesiod that concern mythological female figures. These twenty-eight fragments are not derived from a single, unified ancient poem but are preserved through quotations in later authors and on papyrus scraps. The majority are believed to originate from Hesiod’s lost genealogical epic, known as the Catalogue of Women or the Ehoiai, with others possibly stemming from related works such as the Great Ehoiai. The fragments primarily detail heroic genealogies, using women as the pivotal link between the divine and mortal realms. They present narratives and catalogues featuring figures such as Alcmene, the daughters of Proteus, and Atalanta, often structured around the repetitive ehoie formula, meaning "Or such as she who...". The complete poems from which these fragments derive were lost in late antiquity. Their survival depends on quotations in authors like Plutarch and Clement of Alexandria, on papyri dating from the third century BCE onward, and on citations found in ancient commentators and lexicographers. The standard modern critical edition is Fragmenta Hesiodea by Merkelbach and West, published in 1967. This Hesiodic tradition played a crucial role in systematizing Greek heroic genealogy, providing a canonical framework that was extensively used by later poets, tragedians, and mythographers. Its catalogic structure influenced subsequent poetic forms, and its content was fundamental in shaping the enduring canon of Greek mythology.
+
 ## Text
 
 ### 1 (n)

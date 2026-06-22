@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-co` · [HTML page](https://eulogikon.org/works/galen-pergamon-divination-pulses-qmm-co)
 
+On Divination from Pulses is a medical treatise by the 2nd-century CE physician Galen of Pergamon. The work systematically argues that a physician can use the pulse not only for diagnosing present conditions but also for predicting the future course and outcome of a disease. Galen frames prognosis as a rational skill based on causal theory and direct observation, treating the pulse as a window into the soul's faculties whose changes can foretell physiological states. The treatise applies his comprehensive pulse theory to the art of prognosis and directly criticizes rival medical sects, such as the Empiricists, for rejecting the theoretical and anatomical foundations he considered essential for advanced practice. It constitutes a defense of logical demonstration and causal reasoning in medicine.
+
+The treatise survives as part of the larger Galenic corpus, having been preserved and studied through Byzantine, Arabic, and Latin scholarly traditions. It is included in the modern critical edition, the Corpus Medicorum Graecorum. The work exemplifies the professional and intellectual rivalries of Roman imperial medicine, where accurate prognosis was a key demonstration of a physician's skill. As a component of Galen's authoritative writings on sphygmology, it influenced academic medical traditions for centuries, reinforcing the integral role of theory in medical prognosis.
+
 ## Text
 
 ### 9 205 (t1)

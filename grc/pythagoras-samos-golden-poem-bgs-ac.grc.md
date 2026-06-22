@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bgs-ac` · [HTML page](https://eulogikon.org/works/pythagoras-samos-golden-poem-bgs-ac)
 
+The Golden Poem, also known as the Golden Verses, is a concise didactic work composed in 71 lines of Greek hexameter. While traditionally ascribed to the philosopher Pythagoras, scholarly consensus places its composition much later, likely between the 3rd century BCE and the 2nd century CE. It functions as a compendium of essential Pythagorean ethical and religious doctrine, presented as a sequence of moral precepts for daily conduct. The text provides practical guidance on justice, moderation, and introspection, most famously prescribing a nightly review of one’s deeds. A substantial section addresses the destiny of the soul, echoing Pythagorean tenets concerning its immortality and the possibility of liberation from the cycle of rebirth. The poem survives intact through a robust manuscript tradition and is believed to have been crafted as an accessible manual for a general audience during a resurgence of Pythagoreanism. Its influence was considerable, particularly in late antiquity when it was embraced by Neoplatonist thinkers, and again during the Renaissance, when it was frequently translated and revered as a foundational text of ancient wisdom.
+
 ## Text
 
 ### 1

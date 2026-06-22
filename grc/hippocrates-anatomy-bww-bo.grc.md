@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bo` · [HTML page](https://eulogikon.org/works/hippocrates-anatomy-bww-bo)
 
+On Anatomy is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works associated with Hippocrates and his school. Dating likely to the 5th or 4th century BCE, its authorship remains anonymous. The work is exceptionally brief, comprising just two descriptive passages. The first details the structure of the male urethra, noting its length, course, and dual role in conveying urine and semen. The second provides a basic description of the eye, including the eyelids, eyelashes, and eyeball. The text is purely observational, devoid of the theoretical speculation or argumentation present in other Hippocratic writings.
+
+As a product of the empirical tradition in Hippocratic medicine, its anatomical knowledge was derived from sources such as surgery, the examination of wounds, and possibly animal dissection, given the general cultural prohibition against human dissection in classical Greece. Scholars generally interpret its succinct nature as indicating a pedagogical function, suggesting it may have served as concise instructional notes for students or practitioners. The treatise survives in full within the medieval manuscript tradition of the Hippocratic Corpus and is accepted as a genuine, albeit minor, component of the collection. Its principal historical value lies in exemplifying the range of textual formats within the Corpus and illustrating the early focus on direct anatomical description.
+
 ## Text
 
 ## Ἀρτηρίη ἐξ ἑκατέρου φαρυγγέθρου τὴν ἔκφυσιν ποιευμένη ἐς ἄκρον πνεύμονος τελευτᾷ, κρίκοις ξυγκειμένη ὁμορυσμοῖς, τῶν περιηγέων ἁπτομένη κατ’ ἐπίπεδον ἀλλήλων.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `avo-aa` · [HTML page](https://eulogikon.org/works/panteleius-warrior-of-unyielding-bronze-avo-aa)
 
+The Warrior of Unyielding Bronze is a lost epic poem attributed to the otherwise unknown poet Panteleius. No complete text of the work survives, and its content is inferred solely from its evocative title and a single, brief fragment. This fragment presents a first-person lament from a soldier or herald returning from a disastrous battle. The speaker addresses his king, despairing that their forces have been routed by a seemingly invincible foe. Their weapons prove useless; their missiles do not fell the enemy, and their wounds do not inspire fear. The catastrophe is attributed to a single warrior who has plundered the entire army, described as a bloody, unyielding image of the war god Ares. A simile compares this indomitable figure to a tree that stands firm against iron blasts and refuses to fall, ominously advancing toward the ships. The speaker concludes with a desperate plea to the helmsman to cast off and flee the dead man's threats. The title and this surviving passage suggest a narrative centered on a martial hero or entity characterized by metallic, perhaps bronze, invulnerability, a motif known in Greek mythology through figures like the automaton Talos. The poem's listing and this fragmentary evidence indicate the existence of a now-lost work within the epic tradition, though its author and full scope remain obscure.
+
 ## Text
 
 ### unit_1

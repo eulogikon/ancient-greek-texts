@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cwq-aa` · [HTML page](https://eulogikon.org/works/epilycus-comic-food-feasting-cwq-aa)
 
+The Comic Fragments on Food and Feasting is a modern compilation of eleven brief passages attributed to the fifth-century BCE Athenian poet Epilycus, a practitioner of Old Comedy. The collection does not represent a surviving play but rather a series of poetic excerpts whose original dramatic context—including plot, characters, and play titles—is almost entirely lost. These fragments uniformly center on culinary themes, addressing subjects such as gluttony, the customs of the symposium, and specific foods and dishes, thereby providing insight into the social satire and material culture of classical Athens. The text survives only in part, preserved not through manuscripts of Epilycus's comedies but through quotation by later authors, most notably the scholar Athenaeus, who incorporated these lines into his own expansive work on banqueting centuries later. The fragments themselves are concise, often comprising merely a line or two of Attic Greek verse, which precludes any comprehensive reconstruction of their original settings. Scholars regard these remnants as valuable evidence for the diversity of comic poetry beyond canonical figures like Aristophanes and as a source for details pertaining to ancient Greek daily life and humor.
+
 ## Text
 
 ### book 1.1

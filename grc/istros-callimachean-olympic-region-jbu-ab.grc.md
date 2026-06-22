@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jbu-ab` · [HTML page](https://eulogikon.org/works/istros-callimachean-olympic-region-jbu-ab)
 
+The Fragments on the Olympic Region is a lost Hellenistic prose work by the scholar Istros the Callimachean. Known only through later citations, it was a periegetic text compiling antiquarian notes on the topography, myths, cults, and history of Olympia in Elis. The title suggests it was a collection of excerpts, possibly drawn from earlier sources, focusing on the sanctuary of Zeus and the Olympic Games. The surviving fragments indicate the work covered the topography and sacred geography of the Olympic sanctuary and the surrounding region of Elis, including foundation myths and aetiologies for the Games and local cults. It also contained antiquarian details on customs, place names, and notable dedications. No continuous text of the work survives; it is preserved fragmentarily through quotations in later scholiasts, such as commentaries on Pindar, and in Byzantine lexicons like the Suda. The standard modern collection of these fragments is found in Felix Jacoby’s Die Fragmente der griechischen Historiker. As a source for later antiquarians, Istros’s compilation helped preserve specific local traditions about a major Panhellenic site. Its citations transmitted Olympic lore into the Byzantine scholarly tradition, exemplifying the Hellenistic practice of creating specialized reference works for scholars and poets.
+
 ## Text
 
 ### 41bis

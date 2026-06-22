@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `flo-aa` · [HTML page](https://eulogikon.org/works/phaenias-eresus-aristotelian-philosophy-flo-aa)
 
+The Fragments on Aristotelian Philosophy is a lost treatise by the Peripatetic philosopher Phaenias of Eresus, a direct student of Aristotle. Its existence and title are recorded solely in the tenth-century Byzantine encyclopedia known as the Suda, which notes it comprised forty-two passages. No quotations or summaries of its content survive in the extant literary tradition. Based on its title and the author’s close affiliation with the Lyceum, the work almost certainly represented an early systematic engagement with Aristotelian doctrine, likely serving as a compendium or explanatory commentary. It would have addressed core themes from Aristotle’s corpus, such as logic, physics, metaphysics, and ethics, and may have included interpretations of specific texts or concepts, potentially in dialogue with other philosophical schools like Platonism. The complete loss of the work means its direct intellectual influence is untraceable. Nevertheless, its attribution to Phaenias highlights his role as an important early figure in the Peripatetic school, exemplifying the efforts of Aristotle’s immediate students to consolidate, explain, and transmit his philosophical system, a crucial process in the formation and development of the Aristotelian tradition.
+
 ## Text
 
 ### 8

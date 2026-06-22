@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pim-ab` · [HTML page](https://eulogikon.org/works/theon-smyrna-testimonies-pim-ab)
 
+The Testimonies is a lost philosophical treatise written in Koine Greek by the Platonic philosopher and mathematician Theon of Smyrna, who was active in the early second century CE. The work is known only from a brief description by the sixth-century philosopher Olympiodorus, who reports that its purpose was to demonstrate the fundamental agreement between the core doctrines of Plato and Aristotle. Structured as a collection of eight passages, it likely presented paired quotations from each philosopher to illustrate their conceptual harmony on essential principles. This project is situated within the Middle Platonic tradition, which sought to systematize and reconcile classical philosophical thought. The treatise is interpreted by modern scholars as a pedagogical text, designed to provide students with a coherent framework that unified the two dominant schools. Theon's endeavor to establish the intellectual unity of Plato and Aristotle represents a significant early contribution to a harmonizing trend that would later be developed extensively by Neoplatonist thinkers. No fragments or manuscripts of the work survive.
+
 ## Text
 
 ### 1

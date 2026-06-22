@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-az` · [HTML page](https://eulogikon.org/works/anon-hist-frag-milesian-mmg-az)
 
+The Anonymous Milesian is a modern editorial designation for a fragment of historical writing attributed to an unknown author from the Ionian city of Miletus. It survives not as a standalone text but as a single passage quoted by the later Greek satirist Lucian in his essay "How to Write History." In this fragment, Lucian parodies the style of an overly patriotic historian who begins his work with an elaborate and self-aggrandizing preface. The historian invokes the Muses, compares his Roman commander to Achilles and the Persian king to the lowly Thersites, praises his own worthiness to record such glorious deeds, and extols his native Miletus, claiming superiority to Homer for having neglected to mention his own homeland. The fragment concludes with the historian's promise to magnify Roman achievements and utterly defeat the barbarians, followed by the opening line of his actual narrative, which names the Parthian king Vologeses as the instigator of the war. As a surviving piece of local Milesian historiography, the fragment provides a rare, albeit satirically filtered, glimpse into the conventions and civic pride characteristic of the largely lost genre of Greek local chronicles. Its primary significance lies in its contribution to the historiography of the Hellenistic and Roman periods, illustrating the sources and stylistic tendencies that later, more critical historians might have drawn upon or reacted against.
+
 ## Text
 
 ### 2b,205,F 1

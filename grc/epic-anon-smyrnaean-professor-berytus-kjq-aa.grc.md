@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-aa` · [HTML page](https://eulogikon.org/works/epic-anon-smyrnaean-professor-berytus-kjq-aa)
 
+The Praise of a Smyrnaean Professor Teaching at Berytus University is an anonymous Greek verse encomium celebrating an unnamed professor from Smyrna who taught at the University of Berytus. The text survives only in five fragmentary passages, indicating its transmission was likely indirect, possibly within an anthology or rhetorical handbook, with no known manuscript tradition or early editions. The work functions as both an encomium, praising the individual, and an ekphrasis, offering a detailed rhetorical description. The extant fragments suggest a structured praise of the professor’s intellectual virtues and eloquence, his teaching skill and professional merit as a law professor, the civic glory of Berytus as a premier center for Roman legal study, and the cultural prestige of Smyrna, reflecting the intellectual networks of the late Roman East. This encomium exemplifies the ceremonial literature surrounding late antique higher education, highlighting the social status of professors and the culture of advanced learning within the prestigious scholarly environment of Berytus, which flourished as a law school from the 3rd to the 6th centuries CE.
+
 ## Text
 
 ### unit_1

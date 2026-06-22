@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aau-af` · [HTML page](https://eulogikon.org/works/hesiod-genealogy-fragments-aau-af)
 
+The Fragments on Genealogy is a modern designation for a collection of ten fragmentary passages attributed to the epic poet Hesiod. These excerpts, which concern genealogical narratives, are preserved not as a continuous text but through citations embedded in the works of later prose authors, most notably the mythographer Pseudo-Apollodorus in his Bibliotheca and the travel writer Pausanias in his Description of Greece. They belong to the Hesiodic tradition of catalog poetry and are closely related in theme and style to the more extensive Catalogue of Women, representing surviving remnants of what was likely a larger, now-lost body of genealogical verse. The content of these fragments encompasses the lineages of heroes and gods, detailing unions between deities and mortal women, foundation myths for various cities and tribes, and the integration of local traditions into a broader Panhellenic narrative. As part of the expansive Hesiodic corpus, these fragments played a role in standardizing Greek mythological knowledge, serving as authoritative references for subsequent mythographers and poets. They helped shape the genealogical framework through which the Greeks conceptualized their heroic past and interregional connections. Today, these fragments, compiled in modern scholarly editions of Hesiod's fragmentary works, remain essential sources for reconstructing lost Hesiodic poetry and for understanding the development of the ancient mythographic tradition.
+
 ## Text
 
 ### 10(a) (n1)

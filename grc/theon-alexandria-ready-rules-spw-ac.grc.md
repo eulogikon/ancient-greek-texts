@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `spw-ac` · [HTML page](https://eulogikon.org/works/theon-alexandria-ready-rules-spw-ac)
 
+On the Ready Rules is a mathematical treatise by Theon of Alexandria, a prominent scholar of the fourth century CE. Written in Koine Greek, the work functions as a practical handbook, compiling ninety-nine distinct passages that offer clear rules and methods for solving mathematical problems. Theon explicitly states that he composed it for students who approached the study of astronomy without sufficient grounding in basic arithmetic operations or geometric proofs. His aim was to provide a more methodical and accessible exposition, stripping the explanations down to their essentials for greater clarity. The treatise begins by establishing the necessity of defining a starting point in both time and place for calculating planetary motions, anchoring its chronological system to the first year of Philip III Arrhidaeus's reign over Egypt.
+
+Theon was a central figure in the intellectual life of late Roman Alexandria, best known for producing the definitive commentary and edition of Euclid’s Elements that served as the standard text for centuries. On the Ready Rules aligns with his broader scholarly mission to preserve, systematize, and disseminate complex technical knowledge for pedagogical and practical application. While the precise manuscript history of this specific treatise is not extensively documented, Theon’s works were profoundly influential, playing a critical role in transmitting the legacy of Greek mathematics to Byzantine and later scholarly traditions.
+
 ## Text
 
 ### 199 (1t)

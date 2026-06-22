@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nlq-aa` · [HTML page](https://eulogikon.org/works/apion-alexandrinus-homeric-glosses-nlq-aa)
 
+The Fragments-Homeric Glosses is a lost philological treatise by the first-century CE grammarian Apion of Alexandria. Operating within the established Alexandrian tradition of textual and linguistic scholarship, the work provided detailed explanations of obscure, archaic, or dialectal vocabulary found in the Homeric epics, the Iliad and the Odyssey. As evidenced by surviving fragments, its methodology combined lexicography with grammatical and etymological analysis, clarifying word forms, origins, and meanings. The treatise also engaged in textual criticism, discussing variant readings within the Homeric textual tradition. The work itself does not survive intact but is preserved through quotations in later scholarly compilations, most notably the Homeric Lexicon of Apollonius Sophista and the Lexicon of Hesychius of Alexandria; modern editions have collected forty-eight identifiable fragments from these sources. Despite Apion's broader reputation being colored by contemporary polemics, this technical grammatical work remained a referenced resource for later lexicographers for centuries. Its contributions were instrumental in the systematic study and transmission of Homeric Greek into the Byzantine era.
+
 ## Text
 
 ### 74.209.(1t)

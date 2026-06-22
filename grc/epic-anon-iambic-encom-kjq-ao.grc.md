@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ao` · [HTML page](https://eulogikon.org/works/epic-anon-iambic-encom-kjq-ao)
 
+The Iambic Encomium is an anonymous Greek praise poem composed in iambic meter. Its title signifies a deliberate hybridization of the encomiastic genre, traditionally dedicated to formal praise, with the iambic meter, which was more conventionally linked to invective, satire, and personal attack. The work is known to be structured in twenty-two passages, but its specific subject matter, whether it honors an individual, a deity, a city, or an abstract concept, remains unattested. Consequently, the thematic content, while presumably extolling virtues and excellences in line with encomiastic tradition, cannot be detailed. The poem's transmission history is obscure; the recorded division into passages implies a known structural framework, yet the state of its manuscript tradition and whether the text is fully extant or survives only in fragments are unrecorded. The significance of the Iambic Encomium lies in its notable generic synthesis, demonstrating the adaptable use of the iambic form. By employing a meter traditionally associated with blame for the purpose of praise, the work suggests the meter's expanded rhetorical and literary potential, possibly for philosophical exposition or ironic discourse, beyond its archaic poetic conventions.
+
 ## Text
 
 ### book 1r.1

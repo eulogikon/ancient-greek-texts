@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ad` · [HTML page](https://eulogikon.org/works/hippocrates-nature-child-bww-ad)
 
+On the Nature of the Child is a gynecological and embryological treatise from the Hippocratic Corpus, the collection of ancient Greek medical works associated with Hippocrates and his school. Composed in Ionic Greek during the late fifth or fourth century BCE by an unknown author, it presents a systematic and naturalistic theory of human reproduction. The work details the processes from conception through childbirth, positing that both male and female contribute generative seed, whose mixture and subsequent heating within the womb initiate embryonic formation. It describes fetal development as a process of solidification and differentiation, famously illustrated by an analogy to the curdling of milk, and asserts that the growing embryo is nourished by the mother's blood. Structured as a coherent treatise of approximately twenty sections, the text survives through medieval manuscript tradition. It exemplifies the application of pre-Socratic philosophical inquiry to medicine, seeking physical explanations for biological phenomena and aiming to provide a rational foundation for the practices of gynecology and obstetrics. While its specific physiological models were later refined, the treatise stands as a crucial document for understanding the development of embryological thought in classical antiquity.
+
 ## Text
 
 ### 12.1

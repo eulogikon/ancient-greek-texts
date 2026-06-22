@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dpm-aa` · [HTML page](https://eulogikon.org/works/socrates-athens-gods-wisdom-dpm-aa)
 
+Fragments on Gods and Wisdom is a modern descriptive title for which there is no corresponding ancient work attributed to Socrates of Athens. Socrates himself, active in the late 5th century BCE, wrote nothing, and his philosophical ideas are known exclusively through the writings of others, chiefly his student Plato, the historian Xenophon, and the comic playwright Aristophanes. The themes suggested by the title, however, align with Socrates's enduring philosophical concerns as reported in these sources. These include the rigorous examination of concepts like piety and the nature of the divine, the proposition that virtue is a form of knowledge, and the primacy of the examined life and self-knowledge as the true aim of wisdom. His method of dialectical questioning, or elenchus, was central to these investigations. No independent compilation of Socratic sayings under this name exists; all fragments of his thought are testimonia embedded within the works of later authors. Socrates's historical significance is profound but entirely mediated through this literary tradition, particularly Plato's dialogues, which established the foundation for much of Western philosophy. His trial and execution on charges of impiety and corrupting the youth further cemented his legacy as a seminal figure in ethics and a symbol of the philosophical life in tension with civic authority.
+
 ## Text
 
 ### 2

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bcm-aa` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-testimonies-bcm-aa)
 
+The Testimonies attributed to Anaximenes of Miletus constitute a modern scholarly compilation of ancient reports concerning his philosophical doctrines. Anaximenes was a pre-Socratic philosopher of the sixth century BCE, belonging to the Ionian tradition that sought naturalistic explanations for the cosmos. As his original writings are entirely lost, our understanding of his thought depends wholly on these later quotations and summaries preserved by authors such as Aristotle, Simplicius, and Diogenes Laërtius. The collected testimonies center on his fundamental proposition that air is the primary substance, or arche, of the universe. He posited that all things derive from air through the physical processes of condensation and rarefaction. According to these accounts, condensed air forms wind, cloud, water, earth, and stone, while rarefied air becomes fire. The compilation also records his cosmological views, including that the Earth is flat and rests upon air, and that the celestial bodies are fixed within a solid, crystalline firmament. Scholars interpret Anaximenes' system as an advancement of earlier Milesian philosophy, providing a more tangible primary element and a clear mechanistic principle for cosmic change. His work represents a significant step in the development of early Greek scientific thought, influencing subsequent philosophers in their pursuit of a unified physical theory. The standard modern collection of these testimonial passages is found in the Diels-Kranz compilation of pre-Socratic philosophy.
+
 ## Text
 
 ### 1

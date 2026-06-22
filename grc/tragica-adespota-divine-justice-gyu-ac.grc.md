@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gyu-ac` · [HTML page](https://eulogikon.org/works/tragica-adespota-divine-justice-gyu-ac)
 
+Fragments on Divine Justice is a modern thematic compilation of unattributed tragic fragments from lost Greek plays, likely dating to the fifth and fourth centuries BCE. The collection consists of 1,658 short poetic passages, all addressing themes of divinity and justice, preserved through indirect transmission in the works of later authors and on papyri. The fragments collectively explore the nature and moral enforcement of divine justice, the problem of reconciling divine benevolence with human suffering, and the mechanisms of divine vengeance and retribution. They frequently examine the relationship between fate and divine law, while also emphasizing the inscrutability of the gods' will and the inherent ignorance of humanity. These fragments survive solely through quotation in later philosophical, rhetorical, and grammatical texts, as well as in anthologies such as that of Stobaeus. The standard critical edition is found within the Tragicorum Graecorum Fragmenta. The collection provides crucial insight into the common thematic and stylistic concerns of non-canonical Greek tragedy. In antiquity, such fragments often served as sources for ethical maxims; for modern scholarship, they are invaluable for reconstructing the broader intellectual landscape of tragic poetry beyond the preserved works of Aeschylus, Sophocles, and Euripides.
+
 ## Text
 
 ### book 1a

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vbs-ab` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-theodosius-vbs-ab)
 
+The Life of Theodosius is a sixth-century hagiographical work composed in Koine Greek by the monk Cyril of Scythopolis. It details the life of Saint Theodosius the Cenobiarch, a major monastic founder who lived from approximately 423 to 529 CE and established an influential communal monastery near Bethlehem in Palestine. The biography is organized into seven sections, tracing Theodosius's Cappadocian origins, his early religious education, his journey to Jerusalem, and his subsequent ascetic career. It emphasizes his role in organizing and promoting the coenobitic, or communal, model of monastic life, his renowned acts of charity, and the miracles attributed to him. A significant portion of the narrative is devoted to Theodosius's vigorous defense of the Chalcedonian doctrine of Christ's two natures against the Monophysite policies of Emperor Anastasius I, a conflict that resulted in the saint's temporary exile.
+
+The work functions simultaneously as a record of a pivotal monastic leader, a promotion of the cenobitic ideal, and a polemical text reinforcing orthodox theological identity following the intense Christological controversies of the fifth and sixth centuries. It was likely composed for a monastic readership, offering an edifying model of sanctity that combined severe asceticism, practical administration, charitable works, and steadfast doctrinal resistance. The Life of Theodosius survives as an integral part of Cyril's larger collection, The Lives of the Monks of Palestine, and is preserved in Greek manuscripts such as the tenth-century Codex Atheniensis 1015. It remains an essential primary source for the study of early Byzantine monasticism, providing invaluable insights into the religious, social, and institutional history of sixth-century Palestine.
+
 ## Text
 
 ### [5]

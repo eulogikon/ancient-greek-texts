@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `soi-ae` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-eunapius-soi-ae)
 
+The Books to Eunapius is a medical handbook composed in Greek by the physician Oribasius of Pergamon during the late Roman Empire, around 360–370 CE. Dedicated to his relative and student Eunapius, the work is a concise and practical compendium of medical knowledge, designed as a portable reference for travelers and practitioners operating without immediate access to a full physician's resources or instruments. It systematically covers essential topics including anatomy, disease classification, therapeutic treatments, pharmacology, and dietary regimen, distilling this material from Oribasius's own far more extensive, multi-volume medical encyclopedia.
+
+Organized for quick consultation, the text comprises numerous brief passages—traditionally counted as 1,851 entries distributed across 70 chapters. This structure reflects its intended use in mobile or remote settings, a practicality scholars often associate with Oribasius's service as the personal physician to Emperor Julian and the needs of the imperial court. The handbook exemplifies a broader late-antique intellectual trend toward creating condensed summaries of classical knowledge for direct application. Its complete survival is of particular historical importance, as Oribasius's major encyclopedia is largely lost. Transmitted through Byzantine manuscripts, the Books to Eunapius became a standard medical textbook for centuries. It was translated into Latin, studied within the Arabic scholarly tradition, and played a significant role in preserving and disseminating Greek medical learning into the Middle Ages.
+
 ## Text
 
 ### p 1 1

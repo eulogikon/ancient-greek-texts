@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nkc-aa` · [HTML page](https://eulogikon.org/works/philo-tarsus-medicinal-formulary-nkc-aa)
 
+The Medicinal Formulary is a short medical text attributed to Philo of Tarsus the Physician. Its title, meaning "Extract," indicates it was a compilation of pharmacological recipes. The work survives only in fragments, preserved within the eighth book of the sixth-century medical compilation by Aëtius of Amida. As an independent work it is lost, and its entire transmission depends on its inclusion as two excerpts in Aëtius's encyclopedic Tetrabiblos. The text consists of practical recipes for preparing compound medicines, reflecting the standard empirical and pharmacological knowledge of Greek medicine. Philo's formulary represents the practical, recipe-based tradition of Greek pharmacology. Its preservation within Aëtius's major compilation provided a conduit for its content into later Byzantine and Arabic medical traditions, though Philo's individual contribution is subsumed within that broader tradition.
+
 ## Text
 
 ### 690

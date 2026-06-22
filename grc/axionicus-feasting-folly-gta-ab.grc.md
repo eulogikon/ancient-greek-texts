@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gta-ab` · [HTML page](https://eulogikon.org/works/axionicus-feasting-folly-gta-ab)
 
+The Fragments on Feasting and Folly is a modern compilation of excerpts from the lost comedies of Axionicus, an Athenian poet of the Middle Comedy period active in the fourth century BCE. These fragments survive not as a continuous text but through quotations preserved by later authors, most notably the gastronomic writer Athenaeus in his expansive work, the Deipnosophistae, composed in the second or third century CE. The thematic title given to the collection accurately reflects its predominant concerns with convivial excess and human absurdity. The extant passages depict vivid scenes of banqueting, with detailed descriptions of food, drink, and the accompanying social rituals. They mock stock characters typical of the era, such as parasites, boastful soldiers, and courtesans, while also engaging in mythological parody and depicting domestic intrigues involving family disputes and romantic entanglements. As no complete play by Axionicus survives, these fragments, collected in modern scholarly editions like Poetae Comici Graeci, provide crucial evidence for the style and substance of Middle Comedy. They illustrate the genre's evolution away from the direct political satire of Old Comedy toward a more generalized humor focused on social types and everyday situations, a transition that would profoundly influence the subsequent development of New Comedy and, through it, Roman comedy and the wider Western theatrical tradition.
+
 ## Text
 
 ### book 1.1

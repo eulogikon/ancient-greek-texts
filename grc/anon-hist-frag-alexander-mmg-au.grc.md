@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-au` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-mmg-au)
 
+The History of Alexander is an anonymous Greek historical text concerning Alexander the Great, surviving only as a single fragment. Its specific narrative scope and original length remain undefined. Thematically, it belongs to the prolific tradition of histories produced in the centuries following Alexander's death in 323 BCE, a tradition encompassing both lost contemporary accounts and later, often more fictionalized, works. The fragment's precise transmission history is unrecorded, though such texts typically survive through quotations in later historians or via papyrus discoveries. While the influence of this particular fragment cannot be determined, the broader corpus of Alexander histories was foundational, providing the essential source material for all major subsequent ancient accounts, including those by Diodorus Siculus, Curtius Rufus, Plutarch, and Arrian, thereby fundamentally shaping the historical perception of Alexander the Great.
+
 ## Text
 
 ### 1

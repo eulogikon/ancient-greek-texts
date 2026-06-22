@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dt` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-idle-talk-okg-dt)
 
+On Idle Talk is a short ethical essay by the Greek philosopher Plutarch, composed around 100 CE as part of his collected practical philosophy, the Moralia. The work is a systematic examination of the vice of garrulousness, which Plutarch diagnoses as a significant moral and social failing. He argues that the primary evil of idle chatter is self-imposed deafness; the compulsive talker, always speaking, renders himself incapable of listening and thus of learning. Plutarch illustrates this point with a vivid adaptation of a line from Euripides, suggesting it is as futile to pour wise words into a garrulous man as into a leaking vessel. The chatterer not only fails to absorb wisdom but instantly multiplies and distorts any fragment he does hear, returning it as amplified gossip.
+
+Throughout the essay, Plutarch employs a blend of philosophical reasoning, historical anecdote, and observations from daily life to catalog the dangers of frivolous speech. He contrasts the unrestrained flow of idle talk with the philosophical ideal of measured, beneficial discourse. The work serves as a practical guide for self-cultivation, advising the educated elite on the importance of verbal restraint for maintaining personal reputation, social harmony, and civic peace. Reflecting broader Greco-Roman concerns about the ethics of communication, On Idle Talk connects the discipline of speech directly to the philosophical pursuit of virtue, positioning careful listening and purposeful speaking as essential components of the moral life.
+
 ## Text
 
 ### t 1

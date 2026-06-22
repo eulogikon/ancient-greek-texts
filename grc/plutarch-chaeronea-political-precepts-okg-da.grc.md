@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-da` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-political-precepts-okg-da)
 
+Political Precepts is a prose treatise by the Greek philosopher and biographer Plutarch, composed as an extended letter of advice to a young man named Menemachus of Sardis who was embarking on a political career in his Greek city under Roman rule. Likely written between 96 and 120 CE, the work is a practical guide to ethical statesmanship rather than a theoretical text. It covers a wide range of topics pertinent to civic life, including public speaking, managing municipal finances, avoiding factional strife, and cultivating a cooperative relationship with Roman authorities. Plutarch consistently grounds his advice in historical examples drawn from classical Greek history, using them as practical illustrations for his precepts.
+
+The treatise survives intact as part of Plutarch’s larger collection of ethical works known as the Moralia. Modern editions typically divide its continuous prose into approximately 150 numbered sections for easier reference. As a key source for understanding the political mindset of the local Greek elite during the Roman Empire, the work is viewed by scholars as a pragmatic manual for navigating dual loyalties. It provides a framework for maintaining Hellenic civic traditions and identity while operating effectively within the overarching Roman imperial system. Throughout the text, Plutarch places supreme emphasis on the moral character of the politician and the paramount importance of fostering civic harmony, or homonoia, within the city.
+
 ## Text
 
 ### t 1

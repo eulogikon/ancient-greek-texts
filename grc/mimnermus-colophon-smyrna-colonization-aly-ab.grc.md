@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aly-ab` · [HTML page](https://eulogikon.org/works/mimnermus-colophon-smyrna-colonization-aly-ab)
 
+The Fragments on Smyrna and Colonization is a modern editorial compilation of surviving verses by the early Greek elegiac poet Mimnermus of Colophon, who flourished in the late seventh century BCE. As with all his work, these fragments are preserved only through quotations by later authors, primarily the geographer Strabo, who valued Mimnermus as an authoritative early source on local history. The collection assembles approximately ten fragments in which the poet addresses the foundation and turbulent history of the city of Smyrna, a neighbor to his own Colophon in Asia Minor. Written in the Ionic dialect using the elegiac couplet, these verses likely celebrated or justified Colophon's contemporary political takeover of Smyrna, an event from the poet's own lifetime. They artfully connect the city's recent history to a mythological heroic past, tracing its origins to colonists from Pylos, thereby shaping civic identity and pride. Modern scholarship interprets these poems as compositions for public performance at gatherings or symposia, where they would have blended personal reflection with historical narrative to legitimize political power through an appeal to a venerable past.
+
 ## Text
 
 ### 3b,578,F 1

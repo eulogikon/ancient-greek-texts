@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vpo-aa` · [HTML page](https://eulogikon.org/works/christian-dialogue-astrology-anon-on-astrology-vpo-aa)
 
+Overview _On Astrology_ is an anonymous 71-passage Greek prose dialogue that argues against astrological practice from a Christian perspective. Structured as a conversation, it features one interlocutor defending astrology and another refuting it through philosophical reasoning and scriptural citation, aiming to show astrology’s incompatibility with divine providence and free will.
+
+Content The dialogue systematically critiques core astrological doctrines:
+
+The influence of celestial bodies on human fate.
+
+Genethlialogy (birth horoscopes) and zodiacal significance.
+
+The conflict between astral determinism and Christian free will and moral responsibility.
+
+Transmission The work survives in a single 16th-century manuscript, Parisinus Graecus 451, which spuriously attributes it to the 6th-century philosopher David the Invincible. It was first published by J. L. Ideler in 1841.
+
+Significance The dialogue is a structured example of early Christian polemic against pervasive Hellenistic astrological tradition. Its significance lies in illustrating the argumentative strategies used by Christian intellectuals to reject a rival system of thought, serving as a source for historians of early Christian theology and the conflict between religion and ancient science.
+
 ## Text
 
 ### 1 (1t)

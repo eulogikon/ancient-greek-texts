@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `taq-ab` · [HTML page](https://eulogikon.org/works/hesychius-alexandria-lexicon-taq-ab)
 
+The Lexicon of Hesychius of Alexandria is a comprehensive dictionary of rare and obscure vocabulary found in ancient Greek literature, compiled during the fifth or sixth century CE. Written in Greek, this specialized glossary was designed to aid students and scholars in understanding difficult words encountered in older poetic texts, particularly the works of Homer and the tragedians. It encompasses terms from various Greek dialects and occasionally from other languages, providing concise definitions and frequently citing the literary sources from which they are drawn. Only a portion of the original work survives, specifically the section covering the Greek letters Alpha through Omicron, which contains over 15,000 entries; the remainder, from Pi to Omega, is lost. Modern scholarship generally interprets the extant text as an abridged version of a larger original compilation, preserved in a single key manuscript from the fifteenth century. The lexicon was likely composed to serve the educational and scholarly needs of the Eastern Roman Empire, a period during which the classical Greek language was becoming increasingly distant from contemporary vernacular. It remains an indispensable resource for the study of ancient Greek dialects and for the reconstruction of lost literary works.
+
 ## Text
 
 ### alpha 1

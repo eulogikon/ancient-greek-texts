@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lze-aa` · [HTML page](https://eulogikon.org/works/andriscus-naxian-tales-of-polycrite-lze-aa)
 
+The Naxian Tales of Polycrite is a purported historical work attributed to Andriscus, the Macedonian pretender who led a revolt against Rome in the mid-second century BCE. No such work is attested in the surviving corpus of ancient Greek literature, and the historical Andriscus is not recorded as an author. The figure of Polycrite is known from other sources as a heroine of Naxos, but a literary work dedicated to her tales under this title is otherwise undocumented. No content, manuscript tradition, or ancient references to the work exist, indicating the attribution is likely a modern fabrication without basis in genuine classical sources.
+
 ## Text
 
 ### t1-3

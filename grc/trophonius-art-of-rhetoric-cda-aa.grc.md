@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cda-aa` · [HTML page](https://eulogikon.org/works/trophonius-art-of-rhetoric-cda-aa)
 
+The Introduction to the Art of Rhetoric, attributed to Trophonius the Oracle, is a work unattested in the historical or manuscript record. No rhetorical treatise of this title is known to have been authored by a figure named Trophonius, a name which in antiquity refers solely to a Boeotian mythological hero and chthonic oracular deity, not to a writer of technical prose. The themes and content of the purported work are entirely undocumented, and it possesses no known manuscript tradition or textual fragments. Although introductions to rhetoric were a common genre in later antiquity, the specific attribution of such a work to the oracular figure Trophonius finds no basis in any established literary or historical source.
+
 ## Text
 
 ### 1 (1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ab` · [HTML page](https://eulogikon.org/works/alchemist-i-whitening-arsenic-sandarac-rrg-ab)
 
+The Whitening of Water is a brief alchemical recipe attributed to the pseudonymous author Pseudo-Democritus, also known as Alchemist I. Composed in Koine Greek between the first and third centuries CE, it represents a foundational text from the earliest period of Greek alchemical writing. The work is purely practical, providing instructions for preparing a specialized liquid agent designed to whiten the minerals arsenic and sandarac, a form of arsenic sulfide. In early alchemical theory, such whitening constituted a vital purification process, often considered the initial step in the transmutation of metals. The recipe survives only as a single passage embedded within the larger Pseudo-Democritean corpus, preserved through later Byzantine manuscript traditions. Scholars regard the text as a utilitarian guide for practitioners, reflecting the fusion of Egyptian craft techniques and Hellenistic philosophical concepts that defined the nascent alchemical art. Its precise focus on material processes underscores the workshop origins of the discipline.
+
 ## Text
 
 ### 2.391.(1t)

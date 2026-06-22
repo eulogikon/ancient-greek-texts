@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lww-aa` · [HTML page](https://eulogikon.org/works/theodosius-bithynia-days-nights-lww-aa)
 
+On Days and Nights is a treatise on mathematical astronomy by the Hellenistic scholar Theodosius of Bithynia, who was active in the second or first century BCE. Written in Koine Greek, the work provides a systematic geometric explanation for the variation in the lengths of daylight and nighttime across the seasons and at different terrestrial latitudes. It proceeds through a series of fifty-one formal propositions, applying theorems of spherical geometry to the celestial sphere. Its aim is to demonstrate how the sun's position on the ecliptic and an observer's geographical location determine the arc of the sun's diurnal path, thereby calculating the duration of a day. The complete Greek text is extant. The treatise was one of a trio of works by Theodosius on spherical science and was later translated into Arabic and Latin. Modern scholarship interprets it as an advanced textbook from the ancient "Little Astronomy" curriculum, designed to equip students with the necessary geometric tools for understanding celestial phenomena before advancing to more complex works such as Ptolemy's Almagest. It was likely intended for mathematicians and astronomers, focusing on purely geometric models separate from physical cosmology while addressing practical problems in timekeeping and mathematical geography.
+
 ## Text
 
 ### 54 (1T)

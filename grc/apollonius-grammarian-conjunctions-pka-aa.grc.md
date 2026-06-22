@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pka-aa` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-conjunctions-pka-aa)
 
+On Conjunctions is a grammatical treatise by the 2nd-century CE Alexandrian scholar Apollonius Dyscolus. The work presents a systematic analysis of the Greek conjunction, a category Apollonius understood broadly to include various connecting adverbs and particles. Comprising 46 sections, the treatise moves beyond the mere cataloguing of terms to investigate their precise functions, meanings, and syntactic behavior, establishing logical rules for correct usage based on principles of analogy and the inherent structure of the language. Written as part of a larger project to define and preserve proper Greek for pedagogical use, it represents a specialized component of a comprehensive grammatical system. Unlike many of his other works, On Conjunctions survives in its entirety, preserved through Byzantine manuscripts dedicated to technical education. Its rationalist, systematic methodology, which Apollonius would further develop in his seminal work On Syntax, exerted a profound and lasting influence on subsequent grammatical tradition in both the Byzantine and Latin worlds.
+
 ## Text
 
 ### 2 1,1 213

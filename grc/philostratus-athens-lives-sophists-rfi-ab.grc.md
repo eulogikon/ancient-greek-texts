@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rfi-ab` · [HTML page](https://eulogikon.org/works/philostratus-athens-lives-sophists-rfi-ab)
 
+The Lives of the Sophists is a biographical work composed in Attic Greek prose by Philostratus the Athenian, likely between 230 and 238 CE. Dedicated to the Roman consul Antonius Gordianus, it chronicles the foremost orators and rhetoricians of the Greco-Roman world across two books. In the first book, Philostratus introduces and defines the term "Second Sophistic," which he coined to describe the influential rhetorical movement flourishing from the late first century CE onward. This section presents sketches of twenty-six philosophers celebrated for their eloquence, ranging from classical figures such as Gorgias to early imperial ones like Dio Chrysostom. The second and longer book contains detailed biographies of forty professional sophists active from the first to the early third centuries CE, including renowned performers such as Herodes Atticus and Aelius Aristides. The complete work comprises 152 short passages that artfully blend biography, anecdote, and literary criticism.
+
+Philostratus wrote as an insider during the zenith of the movement he documents. Modern scholars interpret the work as a concerted effort to record and legitimize the Second Sophistic, a period in which mastery of classical Greek rhetoric served as a primary source of cultural prestige and identity for the Greek elite under Roman rule. The text survives in its entirety through medieval manuscript transmission and remains the foundational source for understanding this major phenomenon in ancient intellectual and social history.
+
 ## Text
 
 ### VS t 1 [t2]

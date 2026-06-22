@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfu-ah` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-comedians-kfu-ah)
 
+The comedy Comedians survives only in three fragmentary passages attributed to an anonymous poet. Its title, a passive participle meaning "those being made fun of," clearly indicates a thematic focus on satire and ridicule. The work is transmitted indirectly through quotations by later grammarians and lexicographers, who preserved the fragments for their linguistic interest rather than from a continuous manuscript tradition. These citations are collected in modern scholarly editions such as Poetae Comici Graeci under the designation "Comic Fragments Anonymous II." Thematically, the work almost certainly engaged in the caricature of contemporary individuals or social types, offering social commentary on public figures, intellectual trends, or cultural norms in line with the broader Greek comic tradition. The very fact of its preservation by scholarly sources suggests the original text contained notable diction, rare words, or inventive puns. While its direct literary influence is untraceable, these fragments are significant for illustrating the vast breadth of Greek comic production beyond the canonical authors. They provide valuable evidence for philologists studying the development of comic vocabulary and offer a glimpse into how such works were received and utilized for scholarly purposes in later antiquity.
+
 ## Text
 
 ### book 344.1

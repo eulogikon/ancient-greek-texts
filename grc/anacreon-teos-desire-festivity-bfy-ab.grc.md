@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bfy-ab` · [HTML page](https://eulogikon.org/works/anacreon-teos-desire-festivity-bfy-ab)
 
+The Fragments on Desire and Festivity is a modern descriptive title for the collected surviving poetry of Anacreon of Teos, a major lyric poet of the Archaic period. His work survives only in fragments, quoted by later authors and ranging from single lines to short stanzas. Composed for musical performance at aristocratic symposia, these poems are characterized by themes of erotic desire, wine, and conviviality. The extant pieces focus on the pursuit and admiration of beloveds, detailing both the pleasures and pains of love, alongside celebrations of drinking and festivity as an escape from care. A recurring emphasis on seizing present pleasures in light of human mortality underpins a prevailing tone of playful wit and charm, often employing mythological parody. No complete poems survive; the fragments are preserved indirectly through quotations in later Greek authors, grammarians, and anthologists, as well as via papyrus discoveries. Anacreon was canonized as one of the nine lyric poets and admired for his technical skill. His poetry influenced later Hellenistic literature and inspired a long tradition of imitative verse. During the Renaissance, the recovery of his fragments helped shape the European Anacreontic tradition of lyric poetry centered on love and revelry.
+
 ## Text
 
 ### book 1,1.1

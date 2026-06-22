@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hqm-ab` · [HTML page](https://eulogikon.org/works/dinarchus-against-aristogeiton-hqm-ab)
 
+Against Aristogeiton is a forensic oration composed by the logographer Dinarchus around 323–322 BCE. Delivered by a prosecutor in a public action against the Athenian politician Aristogeiton, the speech survives complete in eighteen sections. Its argumentation largely eschews complex legal technicalities in favor of a sustained and virulent character attack. The defendant is portrayed as a malicious sykophant, a habitual perjurer, and an inveterate criminal whose actions constitute a profound threat to the state and an offense against divine law. Written in the volatile political climate following the death of Alexander the Great, during a brief resurgence of Athenian anti-Macedonian sentiment, the case reflects the intense factional strife of the period. The prosecution strategically presents Aristogeiton as the archetype of a corrupt informer who exploits the legal system for personal gain. As a specimen of Athenian courtroom rhetoric, the speech exemplifies the persuasive power of character assassination and appeals to civic duty and religious piety before a popular jury. It stands as one of only three extant speeches attributed to Dinarchus, a Corinthian who worked as a professional speechwriter in Athens, and thus serves as a crucial source for understanding the practice of a non-citizen logographer in classical Athenian society.
+
 ## Text
 
 ### Arist t

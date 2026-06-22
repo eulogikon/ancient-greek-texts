@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gqs-aa` · [HTML page](https://eulogikon.org/works/ecphantus-pythagorean-kingship-gqs-aa)
 
+_On Kingship_ is a political treatise attributed to the Pythagorean philosopher Ecphantus. The work is no longer extant as an independent text but survives solely through six fragments preserved within the fifth-century CE anthology compiled by John Stobaeus. These excerpts articulate a philosophical theory of ideal monarchy, depicting the ruler as a divine or god-like figure, an earthly god chosen by a higher power to govern. According to this conception, the king's legitimacy and authority derive from his role as an imitator of the divine monarchy that governs the universe itself. His rule is not based on mere force but is an embodiment of law, which is presented as the terrestrial expression of the rational principle and cosmic justice that order the cosmos. The ideal polity is thus a microcosm of this rationally ordered universe, and its ruler must be a wise philosopher who comprehends both its natural and moral architecture. Ecphantus's formulation, particularly the notion of the king as a living law, represents a significant contribution to the Hellenistic and later Roman philosophical justifications for autocratic rule, serving as a key source for understanding the development of monarchical ideology within the Pythagorean tradition.
+
 ## Text
 
 ### 79 (1t)

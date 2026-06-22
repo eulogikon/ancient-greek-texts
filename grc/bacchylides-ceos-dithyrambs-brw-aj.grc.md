@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-aj` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-dithyrambs-brw-aj)
 
+The Dithyrambs are a collection of choral lyric poems by the ancient Greek poet Bacchylides of Ceos, who flourished in the fifth century BCE. Composed in a literary Greek dialect with Doric elements, these works were originally performed by a circular chorus at major public festivals, most notably the Great Dionysia in Athens. While the dithyramb originated as a hymn to the god Dionysus, by the classical period it had evolved to encompass narratives drawn from heroic mythology. The surviving collection consists of seventeen fragmentary odes, identified by titles such as "Theseus," "Heracles," and "The Sons of Antenor." Their formal structure adheres to the traditional triadic pattern of strophe, antistrophe, and epode.
+
+These poems represent a vital example of competitive festival poetry, often commissioned by wealthy patrons such as the Sicilian tyrant Hieron I. They are characterized by their lucid and vivid storytelling, employing dramatic dialogue to considerable effect. The "Theseus" ode, in particular, with its extended conversational exchange, is frequently cited by scholars for its potential influence on the subsequent development of Athenian tragedy. The entire corpus was lost after antiquity and remained unknown until its dramatic rediscovery in the late nineteenth century from papyri found in Egypt. As a result, the text survives in a fragmentary condition, with substantial lacunae, and has been painstakingly reconstructed by modern editors from these ancient manuscripts.
+
 ## Text
 
 ### 1

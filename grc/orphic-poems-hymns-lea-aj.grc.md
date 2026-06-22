@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lea-aj` · [HTML page](https://eulogikon.org/works/orphic-poems-hymns-lea-aj)
 
+The Orphic Hymns are a collection of eighty-seven hexameter poems, pseudepigraphically ascribed to the mythical poet Orpheus and addressed to his disciple Musaeus. Functioning as a comprehensive ritual compendium, each hymn invokes a specific deity, cosmic principle, or abstract concept. The poems systematically describe the attributes, epithets, and mythological domains of these powers, concluding with a formal prayer for favor, purity, and divine blessing. The collection presents a sophisticated and syncretic theology, artfully integrating the traditional gods of the Greek pantheon with deities and concepts from Phrygian, Egyptian, and other religious traditions into a coherent liturgical system.
+
+The hymns reflect a distinct Orphic cosmological and theogonic narrative, frequently referencing primordial deities such as Protogonos (the First-Born) and Phanes. This underlying framework supports a polytheistic syncretism where figures like Greek Zeus, Phrygian Attis, and an Osiris-like Dionysus are harmonized within a single theological structure. The texts are fundamentally practical, designed for ritual performance. They emphasize the correct liturgical address, the precise use of divine epithets, and the practitioner's pursuit of ritual purity and communion with the divine order, implying a soteriological concern with the fate of the soul. The hymns survive primarily through a single medieval manuscript, the Codex Neapolitanus from the sixteenth century, which is a copy of a lost thirteenth- or fourteenth-century exemplar. This manuscript preserves the collection nearly in its entirety, making it the most complete surviving body of Orphic ritual literature.
+
+As a primary source, the hymns provide crucial insight into the ritual practices and systematic theology of Orphic communities during the late Hellenistic or early Roman Imperial period, likely composed between the second century BCE and the second century CE. Their influence extended beyond their original context, significantly impacting later Neoplatonist philosophers such as Proclus. Following their rediscovery in the Renaissance, the collection exerted a profound influence on the development of Western esoteric and theosophical traditions.
+
 ## Text
 
 ### P.(t1)

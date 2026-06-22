@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lli-aa` · [HTML page](https://eulogikon.org/works/xenarchus-fate-fragments-lli-aa)
 
+The Fragments on Fate is a modern designation for a collection of fifty-eight excerpts from the lost comedies of Xenarchus, a comic poet of the fourth century BCE. These passages do not constitute a single, coherent work but are rather individual lines and short segments compiled under the thematic heading "On Fate" by the fifth-century CE anthologist Stobaeus. Preserved within his vast Anthology, these fragments were selected for their sententious or philosophical content concerning destiny, fortune, and divine will, though they originally functioned within the dramatic and often ironic contexts of Middle or New Comedy. The excerpts explore the tension between predetermined fate and human agency, the capricious role of fortune in human affairs, and the influence of the gods, frequently employing these concepts to deliver social critique on topics such as wealth, status, and personal relationships. As the complete plays of Xenarchus are otherwise lost, these fragments survive solely through this indirect transmission. Their principal scholarly value lies in illustrating how philosophical discourse, including emerging Stoic ideas, permeated popular Athenian culture and in providing crucial, if fragmentary, evidence for reconstructing the themes and techniques of a comic poet whose work has not endured in its complete form. The standard modern edition for these texts is found in Poetae Comici Graeci.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-ap` · [HTML page](https://eulogikon.org/works/anon-hist-frag-chronicle-mmg-ap)
 
+The Chronicle of Archons is a work known only by its title, which suggests it was a chronological compilation organized by the years of archons, a principal method of dating in ancient Greek historiography. The title implies a list or historical record, but no specific content, chronological range, or scope—such as whether it pertained to Athenian archons or other officials—survives in the extant record. There is no documented transmission history, manuscript tradition, or information regarding its preservation. While the specific work remains unattested in major scholarly sources, chronicles of this type were fundamental tools for establishing timelines, employed by historians such as Thucydides and utilized by later chroniclers to synchronize events within the Greek historical tradition.
+
 ## Text
 
 ### 2b,258,F 1

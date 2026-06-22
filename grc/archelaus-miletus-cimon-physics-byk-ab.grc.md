@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `byk-ab` · [HTML page](https://eulogikon.org/works/archelaus-miletus-cimon-physics-byk-ab)
 
+The work conventionally titled Fragments on Cimon and Physics is unattested in the extant corpus of ancient Greek literature. No surviving source references a text by this name attributed to an Archelaus of Miletus. While a philosopher named Archelaus, a student of Anaxagoras and teacher of Socrates, was active in 5th-century BCE Athens, he is not associated with Miletus or with a work combining biographical and physical themes. The proposed content, as inferred from the title, suggests a poetic synthesis of historical material concerning the Athenian statesman Cimon with doctrines of pre-Socratic natural philosophy. This unusual conjunction of political history and physical speculation might indicate a later, possibly Hellenistic, poetic composition, but no such work is recorded. The fragments themselves lack any documented manuscript tradition and are absent from standard scholarly catalogs and digital repositories. Their complete omission from major reference works on Greek literature and philosophy implies either extreme obscurity, a modern misattribution, or an entry from a non-canonical tradition, rendering any assessment of its historical influence or philosophical significance impossible.
+
 ## Text
 
 ### book 1.1

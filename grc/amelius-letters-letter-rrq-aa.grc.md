@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrq-aa` · [HTML page](https://eulogikon.org/works/amelius-letters-letter-rrq-aa)
 
+The Letter of Amelius is a philosophical epistle composed in Greek by Amelius Gentilianus, a senior disciple of the Neoplatonist philosopher Plotinus. Only a single fragment of the letter survives, preserved within Porphyry’s biographical work Life of Plotinus. It was written around 268–270 CE, during the final illness of Plotinus, and is addressed to Porphyry, who was then in Sicily suffering from profound depression and contemplating suicide. The letter’s content is consolatory and urgent, blending personal concern with Neoplatonic principles. Amelius writes to dissuade Porphyry from suicide, reminding him of their shared duty to their teacher and to the philosophical life. Rather than presenting a systematic treatise, the passage emphasizes the bonds of the school community and the philosopher’s responsibility to pursue wisdom while embodied. Modern scholars interpret the letter as a practical application of Neoplatonic thought to a personal psychological crisis, illustrating how philosophical ideals were employed as a form of therapy. Its survival is entirely dependent on its inclusion in Porphyry’s biography, and it offers a rare glimpse into the personal dynamics and ethical concerns within the early Neoplatonic circle during a period of dispersal and crisis.
+
 ## Text
 
 ### [30]

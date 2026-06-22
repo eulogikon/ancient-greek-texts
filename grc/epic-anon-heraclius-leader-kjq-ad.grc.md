@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kjq-ad` · [HTML page](https://eulogikon.org/works/epic-anon-heraclius-leader-kjq-ad)
 
+The Encomium to Heraclius the Leader is an anonymous Greek verse panegyric of unknown length and meter, surviving only as a cited title and in a few fragmentary lines. The work’s subject is presumed to be the Byzantine Emperor Heraclius, who reigned from 610 to 641 CE, though this identification is not certain. Its content, consistent with the encomiastic genre, would have offered formal praise of the leader. The manuscript tradition and preservation status of the work are entirely undocumented; its survival as a title alone indicates it was once a discrete composition, but no details of its transmission history are known. As a potential example of Byzantine court poetry from the early seventh century, the encomium would illustrate the continuation of classical panegyric traditions into the late antique period. If indeed addressed to Emperor Heraclius, it would represent a literary artifact from a pivotal era marked by protracted war with the Sassanian Empire and significant religious transformation, though its specific historical and literary context remains unspecified.
+
 ## Text
 
 ### unit_1

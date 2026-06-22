@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ci` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-whitening-tyc-ci)
 
+On Whitening is a Greek alchemical treatise attributed to Zosimus of Panopolis, an author active in Egypt around 300 CE. The work is fragmentary, surviving not as an independent text but within later Byzantine compilations of alchemical writings. It focuses exclusively on the procedural stage known as leukōsis, or whitening, a purification or bleaching operation typically performed on a metallic substance as part of a larger transformative sequence. The extant portion reads as a concise, instructional manual, detailing the requisite materials and methods for this specific technique. The treatise exemplifies the syncretic intellectual environment of late Roman Egypt, blending Greek philosophical concepts with Egyptian craft traditions. Zosimus is regarded as one of the most systematic early alchemists, and his technical descriptions of operations like whitening helped establish the enduring alchemical framework of color-coded transformations. This framework subsequently exerted a profound influence on Byzantine, Islamic, and later medieval European alchemical thought and practice.
+
 ## Text
 
 ### 1

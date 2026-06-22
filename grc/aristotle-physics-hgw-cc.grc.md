@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-cc` · [HTML page](https://eulogikon.org/works/aristotle-physics-hgw-cc)
 
+Aristotle's Physics is a foundational philosophical treatise composed in the mid-fourth century BCE. It presents a systematic investigation into the principles of nature, change, and motion, establishing the conceptual framework for his entire scientific and philosophical project. The work is structured in eight books and proceeds from an analysis of general principles to the examination of specific natural phenomena. It opens by defining the proper method of inquiry into nature, arguing that knowledge requires understanding first causes and principles. Aristotle famously introduces his doctrine of the four causes—material, formal, efficient, and final—as the essential explanatory factors for any natural object or event.
+
+Subsequent books develop core concepts necessary for understanding the physical world. Aristotle analyzes change, distinguishing between different types such as generation, alteration, and locomotion. He provides extensive discussions of place, arguing against the existence of a void, and offers a definition of time as the measure of motion with respect to before and after. The treatise also explores concepts of continuity, infinity, and the structure of magnitudes. The final book builds a cosmological argument, concluding that all motion in the universe must ultimately depend on a first, eternal, and unmoved mover, a purely actual substance that is the final cause of all cosmic motion.
+
+The Physics was composed for use within Aristotle's school, the Lyceum, and represents a critical engagement with earlier thinkers, particularly Plato and the Presocratics. Modern scholars regard it as the groundwork for Aristotle's scientific writings, with its methodological principles and conceptual vocabulary underpinning his works on biology, meteorology, and metaphysics. The text survives complete through a medieval manuscript tradition, though some scholarly debate exists regarding the unity of certain sections, particularly Book VII. Its concepts dominated natural philosophy in both the Islamic world and medieval Europe for nearly two millennia, profoundly shaping intellectual history until the Scientific Revolution, and it remains an indispensable text for understanding the development of Western science and philosophy.
+
 ## Text
 
 ### Ph 184a (t)

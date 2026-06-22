@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jni-aa` · [HTML page](https://eulogikon.org/works/hexameter-papyri-miscellanea-jni-aa)
 
+The Miscellanea is an anonymous Greek poetic work preserved solely in fragmentary papyrus form. This collection comprises 45 discrete passages composed in hexameter verse, as indicated by its title, which suggests a compilation of varied poetic material. The extant fragments, however, provide insufficient evidence to delineate specific narratives or thematic unities within the collection. Surviving lines include invocations to deities like Helios and Demeter, a passage describing the division of cosmic realms among the gods, and extensive catalogues of compound epithets, often beginning with prefixes denoting darkness or horses. The work survives in the papyrological record, most likely originating from Greco-Roman Egypt. As an anonymous hexameter miscellany, it represents a fragment of the broader, less-canonical poetic tradition circulating in antiquity. Its preservation underscores the diversity of hexameter composition beyond the major epic cycles and contributes valuable evidence to the fields of papyrology and the transmission of minor Greek poetry.
+
 ## Text
 
 ### book 989.1

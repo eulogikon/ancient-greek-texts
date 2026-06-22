@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `anw-aa` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-letter-to-solon-anw-aa)
 
+The Letter to Solon is a brief, proverbial saying attributed to Cleobulus of Lindos, one of the legendary Seven Sages of archaic Greece. Preserved not as an independent document but within the biographical narrative of Diogenes Laertius's Lives of the Eminent Philosophers, it is less a literal letter than a piece of encapsulated wisdom. According to the account, Cleobulus invited the Athenian lawgiver Solon to Lindos, suggesting the city, being democratically governed and an island, presented an easy opportunity for Solon to seize power. The core of the message is the maxim "one ought to have measure," a single line that embodies the principle of moderation for which Cleobulus was renowned. Modern scholarship regards such epistolary exchanges among the Seven Sages as apocryphal, later literary constructs designed to illustrate their characteristic philosophies. Within this context, the saying functions as a piece of gnomic political advice, advocating for a measured, middle course in statecraft and implicitly warning against the extremes of tyranny or radical democracy. It stands as a characteristic example of the pithy, ethical style of archaic Greek wisdom literature.
+
 ## Text
 
 ### 1

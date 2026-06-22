@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oow-ad` · [HTML page](https://eulogikon.org/works/philon-byblos-meanings-words-oow-ad)
 
+On the Meanings of Words is a lost lexicographical work composed in Koine Greek prose by the grammarian and historian Philon of Byblos, who was active circa 64–141 CE. Written around 100 CE, the work belongs to the Early Imperial Period and reflects the scholarly currents of the Second Sophistic, a movement characterized by a revived interest in archaic Greek language and culture. Functioning as a glossary, it provided explanations for rare, archaic, and foreign terms encountered in earlier Greek literature, particularly the epic poetry of Homer. Philon is believed to have employed contemporary etymological methods and may have drawn upon his Phoenician background to propose linguistic connections between Greek and Semitic languages.
+
+The complete text of the lexicon has not survived and is known only through fragments and citations preserved by later authors. From these remnants, which are organized into 174 distinct entries in modern collections, the work’s structure can be inferred. The primary source for these fragments is the 6th-century geographical dictionary Ethnica by Stephanus of Byzantium, among other Byzantine compilations. The lexicon served as a reference tool for educated Greeks and Romans, aiding them in interpreting the complex vocabulary of their classical literary heritage.
+
 ## Text
 
 ### t 1

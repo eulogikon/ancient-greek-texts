@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tom-aa` · [HTML page](https://eulogikon.org/works/oppian-comm-anon-exegesis-halieutica-tom-aa)
 
+The Exegesis on Oppian's Halieutica is an anonymous prose commentary on the late second-century CE didactic epic by Oppian of Cilicia concerning fish and fishing. Structured as a series of fifteen distinct passages, the work provides a selective exegesis of specific sections of the poem rather than a continuous, line-by-line analysis. As is typical of such scholiastic works from late antiquity and the Byzantine period, it functions as an aid to readers engaged in Greek paideia, or advanced literary education. Its content focuses on explicating textual difficulties within Oppian's work, including the clarification of obscure vocabulary and poetic diction, the explanation of mythological references, and the identification and description of the various fish and marine creatures mentioned. The commentary also provides grammatical analysis of complex passages. Its relationship to the more common and extensive body of scholia on the Halieutica remains unclear. Listed in modern reference databases but not widely available in digital form, the work survives in a fragmentary state within the scholarly record. As part of the scholiastic tradition surrounding Oppian, this exegesis would have contributed to the medieval and Byzantine understanding and transmission of the Halieutica, preserving interpretations that shaped the later reception of the primary text.
+
 ## Text
 
 ### 364 b (t1)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lww-ac` · [HTML page](https://eulogikon.org/works/theodosius-bithynia-spherical-lww-ac)
 
+The Sphaerica is a three-book treatise on spherical geometry written by the Hellenistic mathematician Theodosius of Bithynia, likely in the 2nd or 1st century BCE. Composed in Koine Greek, it systematically develops the geometry of the sphere through 82 rigorous propositions presented in the deductive style of Euclid. The first book establishes fundamental properties of circles on a sphere, defining elements such as the sphere's center, diameter, poles, and the concept of a circle's pole on the sphere's surface. The second book applies these geometric principles to model the apparent diurnal motion of celestial bodies, treating the sphere as a representation of the heavens. The third book addresses more complex spherical configurations, laying the conceptual groundwork for spherical trigonometry. Intended as a foundational textbook for astronomers, the work provided the essential geometric tools for understanding the celestial sphere prior to the advanced mathematical astronomy of Claudius Ptolemy.
+
+The complete Greek text of the Sphaerica survives. It was translated into Arabic in the 9th century and later into Latin in the 12th and 13th centuries, becoming a standard university text in medieval Europe. Modern scholars regard the treatise as a masterful synthesis of earlier knowledge that served as a crucial bridge between Euclidean plane geometry and Ptolemaic astronomy, maintaining its influence for over a millennium.
+
 ## Text
 
 ### 1 P1

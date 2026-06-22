@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `urs-aa` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-ecclesiastical-hierarchy-urs-aa)
 
+On Ecclesiastical Hierarchy is a theological treatise composed in Greek, most likely in the late fifth or early sixth century. It is attributed pseudonymously to Dionysius the Areopagite, the Athenian convert mentioned in the Acts of the Apostles, a device intended to grant the work apostolic authority. Modern scholarship generally identifies the actual author as an anonymous Syrian monk deeply versed in Neoplatonic philosophy. The work presents a systematic exposition of the Christian Church as a divinely instituted order, structured in seven chapters comprising seventy distinct passages. It opens by defining hierarchy as a sacred system established for the purification, illumination, and ultimate union of humanity with God. The subsequent six chapters provide detailed exegesis of the three primary sacraments—Baptism, the Eucharist, and the Consecration of Chrism—and the three clerical orders of deacons, priests, and bishops who administer them. Throughout, the treatise interprets liturgical rites and ecclesiastical symbols as sensible manifestations of celestial realities, designed to elevate the believer's soul toward the divine. The text survives as a core component of the larger Corpus Dionysiacum. Its early translation into Syriac and, crucially, into Latin ensured its profound and enduring influence on mystical theology, liturgical understanding, and philosophical thought in both Eastern and Western Christianity throughout the medieval period and beyond.
+
 ## Text
 
 ### 63 (1t)

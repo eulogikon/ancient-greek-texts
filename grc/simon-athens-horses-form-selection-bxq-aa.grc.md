@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bxq-aa` · [HTML page](https://eulogikon.org/works/simon-athens-horses-form-selection-bxq-aa)
 
+On the Form and Selection of Horses is a short practical treatise on equine management by Simon of Athens. It provides instructions for selecting horses based on physical conformation and offers advice on their care, including feeding, grooming, and training. The text survives only in fragments, preserved as excerpts within later Byzantine anthologies such as the Hippiatrica corpus. The work details criteria for ideal equine conformation, focusing on the head, neck, legs, and hooves, and gives practical guidance on daily husbandry and conditioning for service. Simon, who identifies as a horse painter, applies an artisan’s observational skill to this military subject, dedicating his treatise to an Athenian cavalry commander. The treatise is transmitted not as an independent manuscript but through quotations in later compilations on horsemanship and veterinary medicine, primarily the Hippiatrica. Consequently, its original length and full content are unknown. Recognized as the oldest surviving Greek prose work on hippology, it established a genre of technical hippiatric literature. It served as a source for later authors, most notably Xenophon in his On Horsemanship, and its practical advice remained influential through the Byzantine period via the Hippiatrica.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `feq-ab` · [HTML page](https://eulogikon.org/works/eudoxus-cnidus-astronomical-fragments-feq-ab)
 
+The Astronomical Phenomena is a foundational treatise in Greek astronomy, composed by the mathematician Eudoxus of Cnidus around 350 BCE. The work is not preserved as a continuous text but is known through fragments, summaries, and critiques from later authors. Its primary objective was to provide a geometric explanation for the apparent motions of celestial bodies, with a particular focus on the irregular retrograde paths of the planets. Eudoxus’s innovative solution was a system of nested, rotating concentric spheres assigned to each planet; the combined uniform motions of these spheres aimed to replicate the observed planetary wanderings. The treatise also included a descriptive catalogue of the constellations.
+
+Our understanding of the work derives almost entirely from secondary sources, most notably the extensive quotations and commentary provided by the astronomer Hipparchus in the 2nd century BCE. Modern reconstructions, based on such references, often describe the treatise as a collection of 397 fragments. It is traditionally held that Eudoxus composed the work in response to a philosophical imperative, often attributed to Plato, to “save the phenomena” by accounting for complex planetary motions using only combinations of uniform circular motion. Eudoxus’s model of homocentric spheres proved profoundly influential, directly informing Aristotle’s cosmological system and serving as the astronomical basis for the popular didactic poem by Aratus. In this way, the Astronomical Phenomena established the fundamental paradigm for subsequent Greek mathematical astronomy.
+
 ## Text
 
 ## *F*R*A*G*M*E*N*T*A. ΦΑΙΝΟΜΕΝΑ.

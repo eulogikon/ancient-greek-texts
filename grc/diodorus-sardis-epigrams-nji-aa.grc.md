@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nji-aa` · [HTML page](https://eulogikon.org/works/diodorus-sardis-epigrams-nji-aa)
 
+The Epigrams of Diodorus of Sardis constitute a collection of six short poems preserved within the larger compilation of the Greek Anthology. Attributed to the Hellenistic poet Diodorus, these works are concise lyric or elegiac compositions, a form miscategorized in some records as oratory. The epigrams exemplify standard themes of the Hellenistic period, encompassing erotic sentiment, dedicatory and funerary inscriptions, sympotic reflections, artistic description, and brief philosophical observation. Their transmission is entirely dependent on the manuscript tradition of the Greek Anthology, primarily found in Books 6 and 7 of the Palatine Anthology compiled by Constantine Cephalas in the 10th century CE. As a minor contributor to that influential corpus, Diodorus of Sardis holds significance primarily for illustrating the stylistic conventions and thematic range of the epigrammatic form during his era, with the reception of his work being subsumed within the broader historical impact of the anthology on later European literature.
+
 ## Text
 
 ### 6.243.(p1)

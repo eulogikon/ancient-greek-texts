@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-aj` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-birds-mlw-aj)
 
+The Commentary on Aristophanes' Birds is an anonymous collection of ancient explanatory notes, or scholia, on the playwright's comedy. Transmitted within medieval manuscripts of Aristophanes' works, it consists of 467 discrete glosses on specific lines, offering linguistic, historical, and textual commentary. These notes represent a cumulative exegetical tradition compiled over centuries, from the Hellenistic period through Byzantine times, rather than the work of a single author. The scholia elucidate rare words, grammatical constructions, and puns; they clarify references to historical figures, mythology, and Athenian cultural practices; and they record textual variants and proposed emendations. The commentary also highlights instances of literary parody, particularly of contemporary tragedians like Euripides. The material preserves layers of scholarship from Hellenistic grammarians such as Didymus Chalcenterus, later condensed and expanded by Byzantine scribes. Its survival is intrinsically linked to the school curriculum tradition that preserved eleven Aristophanic comedies. These scholia are an indispensable tool for interpreting Old Comedy, as they preserve otherwise lost historical details and textual fragments. They were foundational for Byzantine lexicography and proved crucial for Renaissance scholars during their rediscovery of Aristophanes, continuing to inform modern critical editions and interpretations of the play's dense satirical content.
+
 ## Text
 
 ### arg av 1 1 (t)

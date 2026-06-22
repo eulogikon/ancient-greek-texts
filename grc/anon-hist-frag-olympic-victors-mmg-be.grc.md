@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-be` · [HTML page](https://eulogikon.org/works/anon-hist-frag-olympic-victors-mmg-be)
 
+Olympic Victors is a lost historical work, known only by its title. It represents a genre of ancient historiography consisting of catalogues listing the winners of events at the Olympic Games. Such lists served a crucial chronological function, providing a framework for dating other historical events. The most renowned example was compiled by Hippias of Elis in the late 5th century BCE and was later expanded upon by Aristotle and other scholars. The work is attested only through fragmentary citations within the writings of later ancient authors, a common fate for utilitarian lists that were often copied, summarized, and absorbed into larger historical compositions. These Olympic victor catalogues were foundational to the development of Greek historical chronology, forming the basis for dating by Olympiads. This method of reckoning was later systematized by historians such as Eratosthenes and employed by major figures including Polybius and Diodorus Siculus. The genre highlights the Panhellenic importance of the Olympic Games, which functioned not only as a major religious and athletic festival but also as a central point of chronological reference for the Greek world.
+
 ## Text
 
 ### 3

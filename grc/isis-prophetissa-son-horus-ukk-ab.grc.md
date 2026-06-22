@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ukk-ab` · [HTML page](https://eulogikon.org/works/isis-prophetissa-son-horus-ukk-ab)
 
+_Isis Prophetess to Her Son Horus_ is a pseudonymous Greek alchemical treatise composed as a series of six revelatory discourses from the goddess Isis to her son Horus. A representative work of Greco-Egyptian technical alchemy, it employs allegorical language and mythological narrative to encode descriptions of core metallurgical processes, including the whitening and yellowing of metals and the preparation of the crucial agent known as the divine water. The six sayings progress from establishing the alchemical art as a divinely revealed sacred secret to outlining practical procedures for metallic transmutation, particularly for creating silver and gold. These instructions are conveyed through symbolic descriptions and coded terminology that imply a philosophical unity of matter, suggesting all metals share a common fundamental basis. The work survives within the Byzantine manuscript tradition of Greek alchemical writings, preserved in full in major collections in Venice and Paris. It is frequently studied alongside other female-pseudonymous alchemical texts, such as those attributed to Cleopatra or Mary the Jewess. The treatise stands as a significant example of how craft knowledge was legitimized through religious and mythological frameworks in late antiquity. It contributed to the corpus of alchemical knowledge later transmitted to the Islamic world and medieval Latin Europe, and its enduring motif of Isis as a wisdom-bearing teacher persisted in later esoteric literature.
+
 ## Text
 
 ### 1

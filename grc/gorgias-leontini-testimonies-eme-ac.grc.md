@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eme-ac` · [HTML page](https://eulogikon.org/works/gorgias-leontini-testimonies-eme-ac)
 
+Testimonies 1 is a lost work attributed to the Sophist Gorgias of Leontini. Known only by its title from ancient catalogs, no fragments or direct content survive. The title suggests a collection of rhetorical proofs or evidence, aligning with Gorgias's expertise in argumentation and persuasion, and it may have formed a handbook or compiled exemplary arguments for pedagogical use. While its specific content is unrecoverable, the work’s themes likely reflected core Sophistic concerns, including the art of persuasion, the construction and use of evidence, the power of language to shape belief, and the technique of making the weaker argument appear stronger. The work is not preserved. Its existence is recorded solely in secondary sources, such as biographical accounts by Diogenes Laertius or the Suda, which list it among Gorgias’s writings. There is no manuscript tradition. Although the direct influence of Testimonies 1 is untraceable, Gorgias's overarching impact on Greek rhetoric was profound. He formalized rhetorical techniques, emphasizing style and psychological effect, which influenced figures like Isocrates and were critically examined in Plato's Gorgias. If this work was a practical handbook, it would have contributed to the systematization of rhetorical education in the Classical period.
+
 ## Text
 
 ### 3b,407,T 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ay` · [HTML page](https://eulogikon.org/works/euripides-orestes-cbm-ay)
 
+Orestes is a tragedy by the ancient Greek playwright Euripides, first performed in Athens in 408 BCE where it won first prize. The play dramatizes the immediate and chaotic aftermath of Orestes’ matricide, beginning with the protagonist and his sister Electra in Argos. Orestes is afflicted by madness and pursued by the Furies for killing his mother, Clytemnestra, to avenge his father Agamemnon. Their uncle Menelaus, newly returned from Troy with Helen, refuses them aid, and the citizens of Argos, convened in a democratic assembly, condemn the siblings to death by stoning. In a desperate response, Orestes, Electra, and their loyal friend Pylades conspire to murder Helen and take her daughter, Hermione, hostage. This violent scheme precipitates a climactic confrontation, which is abruptly resolved only by the divine intervention of Apollo, who delivers a prophecy to restore order.
+
+One of Euripides' best-preserved works, the complete text survives through a direct medieval manuscript tradition. The play is notable for its complex, often unsympathetic characters and its intricate, melodramatic plot, which subverts traditional notions of heroic tragedy. Modern scholarship frequently interprets the work as a pointed critique of Athenian political institutions, viewing its portrayal of a fickle assembly and manipulative rhetoric through the lens of the protracted Peloponnesian War. The play stands as a prime example of Euripides' late style, emphasizing psychological extremity and moral ambiguity over idealized heroism.
+
 ## Text
 
 ### 1

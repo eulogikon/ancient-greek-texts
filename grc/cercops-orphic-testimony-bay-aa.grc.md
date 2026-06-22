@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bay-aa` · [HTML page](https://eulogikon.org/works/cercops-orphic-testimony-bay-aa)
 
+The Testimony attributed to Cercops the Orphic represents a complex facet of pseudepigraphical Orphic literature. Ancient sources, including Clement of Alexandria and the Suda, identify Cercops, a Pythagorean figure, as a possible author of the core Orphic theogonic poem known as the Hieros Logos or Sacred Discourse. This lost hexameter work, which other traditions ascribe to different poets, narrated a distinctive cosmogony beginning with the primordial entities Chronos and Ananke. Its central narrative involved the emergence of the bisexual deity Phanes, or Protogonos, and a cycle of divine succession culminating in Zeus swallowing this primal god to assimilate his creative power and remake the cosmos. The title Testimony itself suggests a collection of authoritative doctrinal statements consistent with such Orphic mythological expositions. While no discrete text by that name survives, the theogonic material associated with Cercops encompassed an influential anthropogony describing humanity's origin from the ashes of the Titans, thereby explaining the soul's divine origin and mortal burden. These Orphic doctrines, transmitted only through fragmentary quotations by later philosophers, Neoplatonists, and Christian apologists, provided a major alternative to the Hesiodic tradition and profoundly impacted Pre-Socratic thought, Plato, and subsequent Gnostic and Neoplatonic systems concerning the nature of the soul and the divine.
+
 ## Text
 
 ### 1

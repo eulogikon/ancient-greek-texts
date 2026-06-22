@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-bl` · [HTML page](https://eulogikon.org/works/demosthenes-athens-letters-fsm-bl)
 
+The Letters of Demosthenes is a collection of six public epistles attributed to the Athenian orator Demosthenes. Composed in Attic Greek during his final exile from Athens, approximately between 324 and 322 BCE, the letters are formally addressed to the Athenian Council and Assembly. They serve as an extended rhetorical defense of his political career, vigorously justifying his lifelong opposition to the expansion of Macedonian power under Philip II and Alexander the Great. A central aim is to refute the charges of corruption and misconduct that precipitated his exile, presenting himself as a steadfast patriot unjustly punished. Scholarly consensus regards these texts not as private correspondence but as carefully crafted publications, designed to sway Athenian public opinion and rehabilitate the author's reputation from a distance.
+
+The collection survives within the larger medieval manuscript tradition of Demosthenes' works. While the manuscripts contain numerous excerpts, the traditional corpus consists of these six complete letters. The authenticity of the letters has been contested since antiquity, with many modern scholars deeming them spurious. Arguments against their genuineness often cite perceived stylistic divergences from Demosthenes' authenticated orations and potential anachronisms in historical detail. They are frequently considered the work of a later rhetorician skillfully imitating the orator's style and political stance. Despite the unresolved questions of authorship, the letters retain significant historical value. They provide a notable example of the political use of the epistolary form in the classical world and illustrate the potent posthumous legacy of Demosthenes as an enduring symbol of patriotic resistance to tyranny.
+
 ## Text
 
 ### 1

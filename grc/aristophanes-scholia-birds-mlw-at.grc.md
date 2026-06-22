@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-at` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-birds-mlw-at)
 
+The Scholia on the Birds is an extensive collection of 765 explanatory notes on Aristophanes' comedy The Birds. Compiled anonymously over many centuries, these brief prose commentaries were written in Greek and originally copied into the margins of manuscripts to aid readers. They elucidate difficult vocabulary, identify historical and mythological allusions, discuss textual variants, and comment on literary style and theatrical staging. The compilation originated with the work of Hellenistic scholars in Alexandria during the 3rd and 2nd centuries BCE, whose own detailed exegeses are now lost. Byzantine scholars and copyists, active up to around the 10th century CE and later, subsequently preserved, condensed, and augmented this material. Modern scholarship regards the scholia as a layered text that provides a crucial perspective on how ancient and medieval readers interpreted classical literature. It is an indispensable tool for the editing and study of Aristophanes, preserving fragments of lost scholarship and unique details about Athenian culture. The scholia survive not as an independent work but embedded within the medieval manuscript tradition of Aristophanes' plays. While the collection is complete in itself, it represents only a selective portion of the vast corpus of ancient scholarly commentary.
+
 ## Text
 
 ### arg av t

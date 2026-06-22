@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hye-aa` · [HTML page](https://eulogikon.org/works/alexis-samos-chronicles-customs-hye-aa)
 
+The Samian Chronicles and Customs, attributed to the Hellenistic historian Alexis of Samos, is a lost work of local history concerning the island of Samos. Its surviving fragments, preserved exclusively within the Deipnosophistae of Athenaeus of Naucratis, document distinctive Samian myths, customs, and traditions. The extant passages include an explanation for the local practice of calling the fig "the mother," a Samian variant of the legend in which the hero Arion is saved by a dolphin, and details regarding the island's adornment under the tyrant Polycrates. These fragments provide valuable evidence for Samian ethnography and preserve local mythic variants absent from mainstream literary sources, exemplifying the tradition of Hellenistic antiquarian scholarship and contributing to the modern understanding of regional Greek culture.
+
 ## Text
 
 ### t1-2

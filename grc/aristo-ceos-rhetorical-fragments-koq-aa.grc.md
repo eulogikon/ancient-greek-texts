@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `koq-aa` · [HTML page](https://eulogikon.org/works/aristo-ceos-rhetorical-fragments-koq-aa)
 
+The Rhetorical Fragments is a lost treatise attributed to the Peripatetic philosopher Aristo of Ceos, who led the Lyceum in the third century BCE. The work survives only in a handful of fragmentary passages preserved through quotation by later authors, including Sextus Empiricus and Philodemus. These excerpts indicate a focus on defining the art of rhetoric, with one fragment stating its aim is persuasion and its end is the attainment of persuasion. Another passage criticizes the work as being inadequately composed and derivative, accusing the author of having stolen much from Plato to worse effect. The original scope and structure of the complete treatise are unrecoverable. Its transmission relies entirely on such citations, as it possesses no independent manuscript tradition. While its direct influence is untraceable, the fragments confirm the continued engagement of the Peripatetic school with rhetorical theory in the centuries following Aristotle, situating Aristo’s work within the broader intellectual heritage of the Lyceum.
+
 ## Text
 
 ### 2

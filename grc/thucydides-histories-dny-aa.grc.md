@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dny-aa` · [HTML page](https://eulogikon.org/works/thucydides-histories-dny-aa)
 
+Thucydides' Histories is a foundational work of historical writing that chronicles the Peloponnesian War between the Athenian Empire and the Peloponnesian League led by Sparta. The Athenian author, who served as a military commander during the conflict, began his account at the war's outbreak and continued it until his death, leaving the narrative incomplete. The work is divided into eight books, a structure likely imposed by later editors, and proceeds with a rigorous chronological framework, organizing events by summers and winters.
+
+The narrative opens with a methodological introduction that argues for the superiority of contemporary, evidence-based history over poetic or mythical accounts of the past. It then details the major political and military events of the war's first two decades, including the devastating plague at Athens, Pericles' Funeral Oration, the Mytilenean debate concerning imperial punishment, and the catastrophic Athenian expedition to Sicily. A defining feature of the work is its inclusion of constructed speeches, which Thucydides explains are not verbatim transcripts but his own reasoned compositions, designed to articulate the essential arguments and political realities of the speakers. The text breaks off abruptly in the year 411 BCE, several years before the war's conclusion.
+
+Modern scholarship interprets the Histories not merely as a chronicle but as a profound analytical project. Thucydides intended his work to be a possession for all time, providing a tool for understanding enduring patterns of human behavior under the extreme pressures of war, political factionalism, and imperial ambition. The narrative emphasizes rational analysis, human agency, and the psychological and social disintegration caused by prolonged conflict, reflecting the sophisticated intellectual milieu of fifth-century Athens. The transmission of the text is relatively stable, surviving largely intact through important medieval manuscripts, though it remains an unfinished masterpiece.
+
 ## Text
 
 ### 1.1

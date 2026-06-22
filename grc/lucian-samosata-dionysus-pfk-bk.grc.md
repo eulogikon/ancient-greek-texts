@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bk` · [HTML page](https://eulogikon.org/works/lucian-samosata-dionysus-pfk-bk)
 
+Prologue, Dionysus is a short introductory oration, or prolalia, composed in Attic Greek by the second-century CE satirist Lucian of Samosata. Functioning as a prelude to a longer rhetorical performance, its purpose was to capture the attention of an audience. The text is a structured defense and encomium of the god Dionysus, directly addressing critics who dismiss the deity as weak or effeminate. Lucian counters this view by arguing for the god's martial strength, demonstrated in his mythical campaign against the Indians, and by celebrating the benefits of his greatest gift to humanity: wine. He presents wine as a fundamental source of joy, a reliever of sorrow, and an essential inspiration for poetry and social fellowship.
+
+The work survives in its entirety as a concise speech within Lucian's larger corpus and stands as a prime example of the rhetorical showmanship popular during the Second Sophistic, a period marked by a revival of classical Greek learning and public oratory. Modern scholars interpret the piece as a sophistic display, wherein Lucian takes a traditional mythological figure and offers a clever, paradoxical defense designed to showcase his wit and argumentative skill. It was likely performed for the educated, Greek-speaking elite of the Roman Empire, reflecting the enduring cultural power and adaptability of Hellenic literary tradition.
+
 ## Text
 
 ### Bacch t

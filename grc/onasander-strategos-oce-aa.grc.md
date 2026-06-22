@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oce-aa` · [HTML page](https://eulogikon.org/works/onasander-strategos-oce-aa)
 
+Onasander's Strategikos, also known as The General, is a mid-1st century CE military treatise composed in Attic Greek. Dedicated to the Roman consul Quintus Veranius, it was written explicitly for the educated Roman aristocracy who held high military command. The work is not a technical manual on drill or engineering but a systematic philosophical and practical guide to the art of generalship, concentrating on the commander's essential character and leadership principles. Its 42 chapters proceed methodically from outlining the requisite virtues of a general—including piety, intelligence, justice, and self-control—to offering concrete advice on logistics, morale, battlefield tactics, and the ethical treatment of both one's own troops and a conquered populace.
+
+The complete text survives from antiquity through medieval manuscript transmission. Written during the early Roman Empire, the treatise represents a deliberate fusion of Greek philosophical ideals with Roman practical and administrative needs. Modern scholarship interprets it as a seminal text on leadership theory, arguing that its core premise is that success in war depends more on the general's moral and intellectual qualities than on technical proficiency alone. This focus on the ethics and psychology of command ensured its enduring relevance, particularly during the Renaissance and early modern period, when it was widely translated, printed, and studied as a classic of military thought.
+
 ## Text
 
 ### T 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-ad` · [HTML page](https://eulogikon.org/works/erotica-anon-metiochus-parthenope-skw-ad)
 
+Metiochus and Parthenope is a fragmentary prose novel from the 1st or 2nd century CE, representing the ancient Greek genre of romantic fiction. The anonymous work blends historical figures with a fictional love story, centering on the romance between Metiochus, son of the Athenian general Miltiades, and Parthenope, daughter of Polycrates, the tyrant of Samos. The plot presumably followed the conventional narrative arc of the genre, involving the separation of the lovers through a series of adventures before their eventual reunion.
+
+The text survives only in fragments, the most substantial of which comes from a 2nd-century CE papyrus. This fragment preserves a symposium scene where the protagonists first meet and engage in a philosophical debate on the nature of love. The novel was originally a longer, multi-book work, but the remainder of the Greek text is lost. Knowledge of the story is supplemented by later Byzantine references and, most significantly, by an 11th-century Persian epic poem that adapts the narrative, demonstrating its transmission across cultures.
+
+The surviving symposium scene is of particular interest to scholars, as it illustrates the novel's engagement with contemporary philosophical discourse, embedding intellectual debate within popular entertainment. The author's use of historical personages from the 6th century BCE is a common novelistic technique to lend an epic backdrop to a fictional romance. The work's relationship to other complete novels, such as Chariton's Callirhoe, is acknowledged, though theories proposing common authorship remain speculative.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-bt` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-symposiastic-problems-okg-bt)
 
+The Symposiastic Problems, also known as Table Talk, is a nine-book prose work by the Greek philosopher Plutarch, composed around 100 CE. Written in Attic Greek, it presents itself as a record of 775 discrete conversations held during a series of intellectual dinner parties. The topics discussed are exceptionally wide-ranging, encompassing inquiries into natural science, such as the reason ice floats, alongside points of medicine, literary criticism, history, religious ritual, and proper social etiquette. Rather than a systematic treatise, the work is a miscellany designed to capture the learned yet convivial atmosphere of a Greco-Roman symposium. It survives nearly complete through medieval manuscripts, preserving all nine books and their full complement of problems. Modern scholarship regards the text as a quintessential product of the Second Sophistic, a cultural movement that prized the display of Greek erudition within the Roman Empire. The work functions both as a showcase of broad learning and as a model for ideal intellectual and social conduct among the educated elite. As such, it remains an invaluable source for understanding ancient scientific speculation, daily social life, and the cultivated art of philosophical conversation.
+
 ## Text
 
 ### 612 C (t1)

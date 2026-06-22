@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ax` · [HTML page](https://eulogikon.org/works/galen-pergamon-timaeus-commentary-qmm-ax)
 
+Galen of Pergamon’s Commentaries on Plato’s Timaeus Fragments is a lost philosophical and medical treatise that survives only in fragments. The work comprises Galen’s detailed exegesis on 21 discrete passages from Plato’s Timaeus, concentrating on its physiological and cosmological sections concerning the construction of the human body and the universe by the Demiurge. As a physician-philosopher, Galen analyzes Plato’s anatomical theories through the dual lens of Hippocratic medical tradition and his own empirical observations from dissection. The commentary seeks to reconcile Platonic and Hippocratic principles regarding the body and health, while subjecting Plato’s specific anatomical claims to critical scrutiny. It engages deeply with the teleological framework of the Timaeus, examining the theory of intelligent design and the bodily composition from the four primary elements. Significant portions of the work are preserved in quotations by the sixth-century Neoplatonist commentator John Philoponus in his writings on Aristotle’s De anima, with further fragments potentially extant within the medieval Arabic scholarly tradition. By treating the Timaeus as a serious text for scientific critique, Galen’s commentary reinforced its stature in later natural philosophy. These fragments were subsequently utilized by Neoplatonists in debates on the soul and influenced later Islamic and Scholastic traditions that sought to harmonize Greek philosophical doctrine with medical science.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eqa-aa` · [HTML page](https://eulogikon.org/works/ananius-pleasures-eqa-aa)
 
+The Fragments on Pleasures is a collection of thirteen short iambic poems attributed to the archaic Greek poet Ananius, who lived in the sixth century BCE. Written in Ionic Greek, these verses focus on the everyday themes of food, drink, and material enjoyment, often adopting a humorous or advisory tone. The work is believed to have been composed for performance at symposia, reflecting the social culture of Ionian Greece. No complete poem by Ananius survives; the work is known only through thirteen passages quoted by later authors, primarily the anthologist Stobaeus in the fifth century CE. These fragments suggest the original was a series of pointed sayings rather than a single long narrative. Modern scholars interpret the collection as an example of the iambic tradition’s interest in daily life and physical pleasure, offering a lighter counterpart to the genre’s more famous satirical works. The extant lines celebrate simple, seasonal delights, from figs and shellfish to the meat of various animals, while also offering wry commentary on the relative value of gold compared to life’s tangible comforts.
+
 ## Text
 
 ### book 1.1

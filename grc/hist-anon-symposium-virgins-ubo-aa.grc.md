@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ubo-aa` · [HTML page](https://eulogikon.org/works/hist-anon-symposium-virgins-ubo-aa)
 
+The Symposium or Banquet of Ten Virgins is a Christian theological dialogue composed in Koine Greek, likely in the late third or early fourth century CE. While traditionally ascribed to Methodius of Olympus, its authorship remains a matter of scholarly dispute. The work is a conscious imitation of Plato’s Symposium, adopting its format of a banquet, here hosted by the personification of Virtue, Arete. Ten virgins, including the prominent figure Thecla, each deliver a formal encomium in praise of virginity, with Thecla’s speech serving as the final and most comprehensive. The dialogue concludes with a collective hymn. The complete text, conventionally divided into ten sections comprising 460 passages, survives.
+
+The central theme is the exaltation of ascetic virginity as the supreme Christian vocation, envisioned as a spiritual marriage to Christ. The dialogue engages with contemporary theological controversies, notably offering a robust defense of the doctrine of bodily resurrection. This defense includes a famous analogy comparing the resurrected body to a statue perfectly reconstituted from its original material. The deliberate appropriation of the classical symposium genre represents a strategic effort to address an educated audience conversant with both Greek philosophical traditions and Christian doctrine. The work was influential in the development of early Christian ascetic thought. A significant portion of the text was later erroneously attributed to Gregory of Nyssa due to its sophisticated theological arguments before being correctly reassigned to the corpus of Pseudo-Methodius in modern critical editions.
+
 ## Text
 
 ### praef.1

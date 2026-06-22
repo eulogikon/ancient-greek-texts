@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sio-aa` · [HTML page](https://eulogikon.org/works/eusebius-myndus-ethical-maxims-sio-aa)
 
+The Fragments on Ethical Maxims is a modern editorial title given to the scant surviving ethical thought of Eusebius of Myndus, a 4th-century CE Neoplatonist philosopher. As a student of Aedesius and an early teacher of the future Emperor Julian, his life and ideas are known almost exclusively through the biographical account in Eunapius’s Lives of the Sophists. No independent writings or specific ethical maxims from Eusebius survive intact. The extant testimonia indicate his philosophical stance was defined by a noted critique of theurgical practices, the ritual methods favored by some contemporaries for uniting with the divine. Eusebius instead advocated for a path of pure intellectual contemplation and the rigorous study of Plato’s texts. This position implies an ethical framework grounded in rational self-perfection and the cultivation of intellectual virtue as the highest human aim. His historical significance lies in representing a rationalist, anti-theurgic strand within later Neoplatonism, highlighting a central doctrinal debate about the respective roles of philosophy and ritual in the late antique spiritual landscape.
+
 ## Text
 
 ### 1

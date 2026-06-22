@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gwm-aa` · [HTML page](https://eulogikon.org/works/choerilus-iasus-fragment-gwm-aa)
 
+The work known as Fragment and Title is attributed to the epic poet Choerilus of Iasus and survives only in fragments. Historically noted for composing the Persica, a historical epic on the Persian Wars, Choerilus produced this work, though no narrative details for it are preserved. Based on the poet’s known output, the fragments likely relate to themes of historical narrative and warfare, particularly the Greco-Persian conflicts, as well as panhellenic achievement and identity. The content may also reflect courtly praise and patronage, given the poet’s association with the court of the Carian dynast Mausolus. The works of Choerilus of Iasus are fragmentary, and the Byzantine encyclopedia Suda notes his poems were not widely read, indicating limited ancient circulation; the specific manuscript tradition for this particular work is not detailed. Choerilus had a minor and often criticized legacy, cited by ancient commentators such as Aristotle and Horace as an example of poor poetry. His primary significance lies in his early use of the epic form for near-contemporary history, a practice later adopted by other poets.
+
 ## Text
 
 ### book 335?.1

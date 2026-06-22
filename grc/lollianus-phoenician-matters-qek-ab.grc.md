@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qek-ab` · [HTML page](https://eulogikon.org/works/lollianus-phoenician-matters-qek-ab)
 
+_Phoenician Matters_ is a fragmentary ancient Greek novel attributed to an author named Lollianus, conventionally distinguished as Lollianus the Erotic Writer. Likely composed in the 2nd century CE, the work survives only in a single, damaged papyrus from the 2nd or 3rd century CE, which preserves four discontinuous passages. The narrative appears to follow a young man named Androtimus through a series of sensational adventures. The extant fragments depict graphic scenes involving bandits, including a violent initiation ritual and explicit sexual acts within a criminal hideout. Characterized by vivid and often crude realism, the novel’s content stands in sharp contrast to the idealized, chaste romantic plots typical of other surviving Greek prose fiction. Modern scholarship regards it as a significant example of a “low” or sensationalistic subgenre focused on the criminal underworld. While its title suggests a setting connected to the Phoenician region, this geographical link is not substantiated by the surviving text. No other ancient references to the work or its author are known.
+
 ## Text
 
 ### A,1 recto

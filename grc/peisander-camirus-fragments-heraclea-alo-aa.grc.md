@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `alo-aa` · [HTML page](https://eulogikon.org/works/peisander-camirus-fragments-heraclea-alo-aa)
 
+The Heraclea of Peisander of Camirus, dating to approximately 600 BCE, is an epic poem known only through fragments and later testimonia. Peisander is credited with compiling and systematizing the disparate myths of Heracles into a coherent narrative, creating a foundational early source for the hero’s myth cycle. He is also considered the first to have established Heracles’ canonical iconographic attributes of the lion-skin and club, a standard detail in subsequent art and literature. The poem’s content focused on the exploits and labors of Heracles, his complex relationship with the divine—particularly his servitude to Eurystheus and his status as a son of Zeus—and themes of strength, endurance, and the struggle against chaos. The work itself is lost, surviving only in fragments quoted by later grammarians, scholiasts, and compilers such as Athenaeus; no manuscript tradition exists. Its influence, however, is discernible in artistic representations from the early sixth century BCE, and it served as a source for later mythographers like Pherecydes of Athens. Peisander’s Heraclea was highly influential in standardizing the narrative and visual identity of Heracles during the archaic period, forming a crucial link between local traditions and the later Panhellenic heroic cycle.
+
 ## Text
 
 ### book 7.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-av` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-magnesia-economy-tyc-av)
 
+On the Body of Magnesia and Economy is an alchemical treatise composed in Greek by Zosimus of Panopolis in Egypt around 300 CE. The work offers practical instructions for laboratory processes and the treatment of substances, framed within the mystical and philosophical concepts characteristic of late Roman alchemy. Its title refers to a central material, known as "the Body of Magnesia," and the systematic procedure, or "Economy," for managing an alchemical operation. The text is organized into eight distinct passages. Zosimus operated within a tradition that synthesized craft knowledge from Egyptian temple practices with Greek philosophical thought. Modern scholarship interprets such works not merely as technical manuals but as components of a spiritual pursuit where the transformation of metals was understood to parallel the purification of the human soul. The treatise employs the symbolic and coded language common in the field, which served to conceal precise meanings from the uninitiated. The text survives as part of the larger corpus of Zosimus's writings, preserved in Byzantine Greek manuscripts dating from the 10th and 11th centuries onward. These manuscripts ensured the work's transmission and its subsequent influence on alchemical traditions in both the Islamic world and medieval Europe.
+
 ## Text
 
 ### [20t]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-cc` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cc)
 
+"On Flesh-Eating Discourse A" is a philosophical essay by the Greek writer Plutarch of Chaeronea, composed in Greek around 100 CE. It forms the first part of a two-part work advocating for vegetarianism and is included within his larger collection of ethical writings known as the Moralia. The essay is structured not as a systematic treatise but as a series of nineteen distinct rhetorical arguments, employing a combination of logical reasoning, emotional appeal, and references to philosophical tradition to persuade its audience. Plutarch’s central contention is that the consumption of meat is unnatural, cruel, and morally corrupting. He posits that animals share capacities for reason and social bonds with humans, rendering their slaughter unjust, and argues that the human anatomical constitution is naturally suited to a plant-based diet. Modern scholarship often interprets the work as a protreptic, or exhortation, directed at the educated Greek and Roman elites of the Imperial period, implicitly critiquing the prevalent social and religious customs surrounding animal sacrifice. The text survives in its complete form through the Byzantine manuscript tradition of Plutarch’s Moralia, with its structure of nineteen argumentative passages remaining consistent across the textual transmission.
+
 ## Text
 
 ### t 1

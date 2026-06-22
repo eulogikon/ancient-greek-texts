@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cx` · [HTML page](https://eulogikon.org/works/galen-pergamon-diseases-times-qmm-cx)
 
+On the Times of Diseases is a medical treatise by the physician Galen of Pergamon, composed in Greek during the Roman Imperial period, most likely between 170 and 180 CE. The work presents a systematic investigation into the temporal patterns of illness, centering on the classical doctrine of "critical days." This doctrine held that specific junctures in the progression of a disease, especially fevers, were decisive for a patient's outcome, marking a turn toward recovery, decline, or death. Galen structures his analysis around the natural periods of diseases, the intervals between their attacks, and their manifestations across different seasons.
+
+The complete text, organized into 65 sections, offers a methodical, point-by-point exposition. Scholars view the treatise as a significant component of Galen's broader endeavor to synthesize and defend Hippocratic medicine. It is considered a direct polemic against rival medical sects, such as the Methodists, who dismissed traditional prognostic theories. Galen advocates for a rational, humoral explanation of disease cycles, aiming to establish a scientific foundation for prognosis, which was a core competency for the ancient physician. The work proved highly influential, transmitted through Greek manuscripts and later Arabic translations, and remained a standard authority on medical forecasting for many centuries.
+
 ## Text
 
 ### 1 (t1)

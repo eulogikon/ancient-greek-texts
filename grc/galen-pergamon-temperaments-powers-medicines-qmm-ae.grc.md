@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ae` · [HTML page](https://eulogikon.org/works/galen-pergamon-temperaments-powers-medicines-qmm-ae)
 
+On the Temperaments and Powers of Simple Medicines is a comprehensive pharmacological treatise composed by the physician Galen of Pergamon in the late second century CE. Written in Greek, the work provides a systematic classification of simple drugs, defined as those derived from a single plant, animal, or mineral source. Its central aim is to explain the therapeutic actions of these substances through the framework of humoral theory, which posits that all medicinal effects arise from the four fundamental qualities of hot, cold, dry, and moist. The complete text, organized into eleven books, survives in its entirety. The first six books establish the theoretical foundations and catalog medicines derived from plants, while the subsequent volumes address substances from animal and mineral origins. In its modern edition, the treatise comprises 891 distinct entries, reflecting its encyclopedic scope. Galen composed this work during his tenure in Rome, intending it as a rational guide for practicing physicians and students. It represents a core component of his broader project to systematize medical knowledge, advocating for a theory-driven understanding of pharmacology over purely empirical methods. The treatise's structured, qualitative analysis of drug properties secured its status as one of the most influential medical texts in history. For over a millennium, it served as the definitive authority on materia medica, profoundly shaping pharmacological practice and theory in Byzantine, Arabic, and medieval Latin medicine until the Renaissance.
+
 ## Text
 
 ### 11 379 (t1)

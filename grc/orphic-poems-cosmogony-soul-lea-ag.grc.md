@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lea-ag` · [HTML page](https://eulogikon.org/works/orphic-poems-cosmogony-soul-lea-ag)
 
+The Orphic Cosmogony and Soul Fragments is a modern scholarly term for a body of fragmentary texts ascribed to the mythical poet Orpheus and the wider Orphic religious tradition. These fragments, preserved solely through quotations and discussions by later Greek, Roman, and early Christian authors such as Plato and the Neoplatonists, form a complex and influential corpus centered on two interconnected themes: the origin of the cosmos and the nature and fate of the soul. No complete Orphic poem survives; the oldest direct evidence is the Derveni Papyrus, a fourth-century BCE philosophical commentary on an Orphic theogony.
+
+The cosmogonic narratives describe a universe originating from a primordial cosmic egg, produced by Chronos, or Time, which then yields the first-born deity Protogonos, also known as Phanes. This divine genealogy is intricately linked to a distinctive anthropogony, which holds that humanity was fashioned from the ashes of the Titans after they were destroyed for murdering the infant god Dionysus Zagreus. This myth explains a fundamental Orphic doctrine of dual human nature: the physical body is Titanic and mortal, while the soul is a divine Dionysiac fragment. Consequently, the soul is viewed as a divine but fallen entity, imprisoned within the body, a concept encapsulated in the pun soma-sema, interpreting the body as a tomb or prison for the soul due to this primordial transgression.
+
+This theology of the soul carries profound implications for ethics and eschatology. The Orphic tradition taught metempsychosis, or the transmigration of the soul through cycles of reincarnation. Liberation from this cycle and reunion with the divine was believed to be possible through Orphic initiation and a life dedicated to ritual purity and ascetic practices. These ideas exerted a significant influence on Greek philosophy, most notably providing key concepts for Plato’s theories of the soul, immortality, and the body as a hindrance to the soul’s perfection. The tradition’s emphasis on personal salvation, ritual purity, and a dualistic view of human nature positioned it as a crucial forerunner to later Hellenistic mystery religions and various strands of esoteric and Gnostic thought.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jpg-aa` · [HTML page](https://eulogikon.org/works/menander-ephesus-chronicles-tyrian-jpg-aa)
 
+The Chronicles of Tyrian Kings by Menander of Ephesus is a lost Hellenistic historical work, preserved only in eleven fragments quoted by the Jewish historian Josephus in his texts Against Apion and Jewish Antiquities. Josephus presents the work as a Greek translation derived from official Tyrian archival records, and it provides a chronological list of the kings of Tyre, detailing their reign lengths and notable events. The surviving fragments cover a significant span of Tyrian history, beginning with Hiram I, a contemporary of the biblical Kings David and Solomon in the tenth century BCE, and continuing through the ninth-century king Pygmalion into the Persian and Hellenistic periods. The work exhibits an annalistic structure, sequentially listing monarchs alongside brief historical notes concerning their deeds, such as temple constructions and military campaigns.
+
+The text survives exclusively through Josephus's citations, with no independent manuscript tradition. Josephus preserved these excerpts specifically to corroborate biblical chronology by appealing to a non-Jewish, Phoenician source. Menander's chronicle exemplifies the broader Hellenistic historiographical practice of translating and adapting Near Eastern chronicles for a Greek-speaking audience. Its primary historical significance lies in its use by Josephus as external validation for the timeline presented in the Hebrew scriptures. Consequently, these fragments remain a crucial, though fragmentary, source for the reconstruction of Phoenician history and for studies of biblical chronology.
+
 ## Text
 
 ### t1-6

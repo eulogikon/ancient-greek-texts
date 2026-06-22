@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ex` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-crassus-okg-ex)
 
+The work titled Crassus is not a known dialogue by Plutarch of Chaeronea. Plutarch's extant corpus consists of the biographical series Parallel Lives, which includes a Life of Crassus, and the diverse essay collection known as the Moralia. No dialogue named Crassus is cataloged within the Moralia or among his lost works in standard scholarly references, suggesting the attribution may either refer to the biography or be spurious. The Life of Crassus itself is a biographical narrative, not a dialogue, chronicling the career of the Roman triumvir Marcus Licinius Crassus. Its central themes are avarice, political ambition, and military failure, culminating in Crassus's catastrophic defeat at the Battle of Carrhae. Plutarch's genuine works, including the Parallel Lives and most of the Moralia, survive through medieval manuscript traditions. While many works listed in ancient catalogs are now lost, a dialogue specifically titled Crassus is not attested among them. Plutarch's Life of Crassus remains a principal historical source for understanding the late Roman Republic and has profoundly shaped subsequent historical and literary portrayals of its subject, whereas a purported dialogue by this name lacks any scholarly verification.
+
 ## Text
 
 ### Crass.33.6

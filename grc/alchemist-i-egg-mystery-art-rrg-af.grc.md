@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-af` · [HTML page](https://eulogikon.org/works/alchemist-i-egg-mystery-art-rrg-af)
 
+_Onomatopoeia of the Egg, It Is the Mystery of the Art_ is a brief, pseudepigraphical Greek alchemical treatise attributed by modern scholarship to an anonymous figure designated as Alchemist I. The work survives exclusively within the corpus of Greek alchemical writings preserved in Byzantine manuscripts, most notably in the tenth- or eleventh-century codex Marcianus graecus 299. The text consists of four allegorical passages centered on the symbolic "egg," a common motif representing the sealed vessel of transformation, the primal matter, or the cosmos in microcosm. Its title indicates a focus on the mystical or true names inherent to the alchemical process, treating precise nomenclature as essential to the substance's power and the operational success of the art, which is itself presented as a guarded mystery. While the treatise's direct influence is unattested, it is a representative artifact of the late antique Greco-Egyptian alchemical tradition. This tradition's body of symbolic knowledge, including the enduring motif of the philosopher's egg, was later transmitted to Islamic and Latin European scholars, thereby influencing the development of Western esoteric thought.
+
 ## Text
 
 ### 1

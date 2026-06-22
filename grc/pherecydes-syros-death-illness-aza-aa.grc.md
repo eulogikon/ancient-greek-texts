@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aza-aa` · [HTML page](https://eulogikon.org/works/pherecydes-syros-death-illness-aza-aa)
 
+The text known as Fragments on Death and Illness and attributed to Pherecydes of Syros II is a work unattested in the established scholarly record. The historical Pherecydes of Syros was a sixth-century BCE prose writer and cosmologist, considered a significant forerunner to Presocratic philosophy. His sole known work is a cosmogony, traditionally referred to as the Heptamychos, which details the origin of the gods and the cosmos through mythological figures such as Zas, Chthonie, and Chronos. No epistle from him concerning the themes of death and illness is documented in the ancient sources. The authentic fragments of Pherecydes deal primarily with theogony and cosmogony, exploring the generation of divine beings and the establishment of world-order through rich mythological symbolism, including metaphors of divine marriage and weaving. A central theme is the generative role of primordial principles like Chronos, or Time. His works survive only indirectly through quotations preserved by later doxographers such as Diogenes Laertius and Damascius; the manuscript tradition contains no text bearing the title Fragments on Death and Illness. Pherecydes of Syros holds significance as an early pioneer of Greek prose who blended mythological narrative with speculative philosophy, thereby influencing later thinkers including the Pythagoreans. The unattested epistle on death and illness holds no established place within this intellectual legacy.
+
 ## Text
 
 ### 1

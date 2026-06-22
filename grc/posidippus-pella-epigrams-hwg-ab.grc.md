@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hwg-ab` · [HTML page](https://eulogikon.org/works/posidippus-pella-epigrams-hwg-ab)
 
+The Epigrams of Posidippus of Pella constitute a collection of 108 short poems by the Hellenistic Greek poet, who was active in the 3rd century BCE. Composed in a literary Greek with occasional dialectal flourishes, the poems encompass a diverse array of themes, including dedications, epitaphs, and verses on omens, horse races, statues, and gemstones. A significant portion of this corpus remained unknown until the 2001 publication of a papyrus roll from the late 3rd or early 2nd century BCE, known as the Milan Papyrus. This discovery more than tripled the number of epigrams securely attributed to the poet.
+
+The papyrus presents the poems in clearly demarcated thematic sections, indicating it was conceived as an organized poetry book. Scholars regard this structure as one of the earliest known examples of an authorially arranged collection of epigrams, marking a significant evolution of the genre from its traditional function as stone inscriptions to a recognized literary form. Posidippus wrote at the Ptolemaic court in Alexandria, and many poems reflect this milieu, celebrating royal figures, military achievements, and the sophisticated cultural life of the era. The collection is remarkably well-preserved on the papyrus, which stands as the primary source for this specific edition of his work, offering a direct insight into Hellenistic literary and courtly culture.
+
 ## Text
 
 ### book 134.1.1

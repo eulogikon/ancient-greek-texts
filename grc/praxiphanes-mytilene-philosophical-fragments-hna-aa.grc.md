@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hna-aa` · [HTML page](https://eulogikon.org/works/praxiphanes-mytilene-philosophical-fragments-hna-aa)
 
+The Fragments on Philosophical Discourse constitute the surviving evidence for a lost prose treatise by Praxiphanes of Mytilene, a Peripatetic philosopher of the late fourth and early third centuries BCE. The original work addressed the nature and proper style of philosophical writing, engaging with significant contemporary literary debates, including the comparative merits of poetry and prose as mediums for conveying truth. One notable fragment preserves a record of a discussion between Praxiphanes and the poet Theocritus on these very subjects. The treatise itself does not survive intact; modern understanding derives from approximately sixteen separate fragments, consisting of quotations and references preserved by later ancient authors such as Athenaeus and Diogenes Laertius. Scholars interpret this work as part of the broader Peripatetic project to systematize knowledge and to define the boundaries of philosophical expression against other literary forms. It was likely composed for an audience of students and fellow intellectuals within the scholarly circles of the early Hellenistic period.
+
 ## Text
 
 ### 7

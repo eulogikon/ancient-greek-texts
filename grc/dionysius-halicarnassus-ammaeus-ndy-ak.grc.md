@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ndy-ak` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-ammaeus-ndy-ak)
 
+The Letter to Ammaeus is a work of Attic Greek prose by the rhetorician and historian Dionysius of Halicarnassus, composed around 30 BCE. Structured as an open epistle, it is a pointed piece of literary criticism written to refute a contemporary philosophical claim. Dionysius addresses his friend Ammaeus to contest the assertion, made by an adherent of the Peripatetic school, that the orator Demosthenes derived his rhetorical art from Aristotle’s treatise on rhetoric. The author systematically juxtaposes the chronology of Demosthenes’ major political orations, such as the Philippics, with the publication date of Aristotle’s Rhetoric. He demonstrates that Demosthenes’ most celebrated speeches were delivered before Aristotle’s work was available, thereby proving the impossibility of direct influence.
+
+Beyond its immediate polemical purpose, the letter serves as a defense of Dionysius’s own critical methodology. Written after his move to Rome, where he was engaged in educating Roman audiences on classical Greek prose, the work champions the practical study and imitation of canonical orators like Demosthenes. It implicitly argues for the superiority of this empirical approach over abstract, philosophical systems of rhetoric. The complete text has been preserved through the medieval manuscript tradition alongside Dionysius’s other critical essays, remaining intact as a significant document in the history of rhetorical scholarship.
+
 ## Text
 
 ### Amm t

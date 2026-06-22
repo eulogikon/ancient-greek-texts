@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-ai` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-iaw-ai)
 
+Euclid's Elements is a foundational mathematical treatise composed in Alexandria around 300 BCE. Written in Attic Greek, it systematically compiled and organized the geometric and number theory knowledge of earlier Greek mathematicians into a single, coherent logical structure. The work is divided into thirteen books, which proceed from fundamental definitions, postulates, and common notions to increasingly complex propositions, all demonstrated through rigorous deductive proof. Its content encompasses plane geometry, including the properties of triangles, circles, and parallels; the theory of proportions and number theory, featuring discussions on prime numbers and the method for finding the greatest common divisor known as the Euclidean algorithm; and the geometry of three-dimensional solids.
+
+The text survives almost completely intact through a long tradition of manuscript copies, though no original autograph exists. Its primary purpose was likely pedagogical, designed for instruction within the intellectual milieu of Alexandria. The enduring significance of the Elements lies in its axiomatic method, which establishes mathematical truth by deduction from a set of explicitly stated, self-evident first principles. This model of logical rigor set the standard for mathematical exposition and scientific reasoning for over two millennia. Translated into Arabic during the Islamic Golden Age and later into Latin, it became the definitive textbook for geometry in both the medieval Islamic world and Europe, maintaining its central role in education well into the modern era.
+
 ## Text
 
 ### 1,HOR 1

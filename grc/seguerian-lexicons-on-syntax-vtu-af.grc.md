@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vtu-af` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-on-syntax-vtu-af)
 
+Overview On Syntax (Περὶ Συντάξεως) is an anonymous Greek grammatical treatise consisting of 81 discrete passages. It functions as a lexicographical work focused on syntactic issues, examining the correct construction and combination of words. The text typically presents a problematic word or phrase and illustrates its proper use with quotations from classical authorities such as Homer and the tragedians.
+
+Content
+
+The central concern is syntactic correctness (σύνταξις).
+
+It promotes Atticist ideals by using classical authors to prescribe usage.
+
+The format is that of a specialized lexicon addressing syntactic, rather than purely definitional, problems.
+
+Transmission The work is preserved in manuscript and survives in its entirety. The standard edition is that of I. Bekker in the Anecdota Graeca (Vol. 2, 1816), which provides the basis for the digitized version in the Perseus Digital Library.
+
+Significance The treatise is representative of the Hellenistic and later grammatical tradition that sought to systematize the Greek language and preserve classical Attic usage. Such technical manuals were integral to advanced education, shaping the teaching and standardization of Greek grammar in the Roman and Byzantine periods.
+
 ## Text
 
 ### t 117

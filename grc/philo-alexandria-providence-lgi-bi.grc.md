@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-bi` · [HTML page](https://eulogikon.org/works/philo-alexandria-providence-lgi-bi)
 
+On Providence is a philosophical treatise composed in Koine Greek by Philo of Alexandria in the first century CE. The work directly engages with contemporary Greco-Roman debates, offering a robust defense of the concept of a benevolent God who actively orders and cares for the cosmos, a position argued in opposition to skeptical schools such as the Epicureans. Its structure is partly dialogical, with the first section presented as a response to objections raised by Philo’s nephew, Alexander, followed by a more straightforward expository discourse. The treatise marshals evidence from the observed order and intricate design of the universe as central proof for divine providence, while also grappling with attendant philosophical problems, including the existence of evil and the apparent prosperity of the wicked.
+
+The original Greek text is almost entirely lost, surviving only in fragments preserved in the works of later authors such as Eusebius. The primary complete version of the work derives from an ancient Armenian translation, which is itself incomplete and divided into two books containing 67 distinct passages. Modern scholarship is therefore largely dependent on this translated textual tradition. Philo likely wrote for a mixed audience of educated Hellenistic Jews, Greeks, and Romans, with the aim of synthesizing Jewish scriptural tradition with the frameworks of Greek philosophy, particularly Platonic and Stoic thought, to articulate a coherent theological cosmology.
+
 ## Text
 
 ### Prov 1 t

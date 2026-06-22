@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ery-aa` · [HTML page](https://eulogikon.org/works/euphro-sicyon-seven-gastronomic-sages-ery-aa)
 
+_The Seven Gastronomic Sages_ is a lost comedic work attributed to the obscure poet Euphro of Sicyon. Its title parodies the canonical Seven Sages of ancient Greece, transposing their traditional wisdom into the realm of culinary expertise. The work is alternatively known as _Apospasmata_, meaning "fragments," and a notice in the tenth-century Byzantine encyclopedia, the _Suda_, describes it as consisting of seventy-four verses. This suggests it was likely a collection of short, epigrammatic pieces rather than a continuous narrative play. The content presumably revolved around the satire of philosophical wisdom through the lens of food, dining, and gluttony, employing physical comedy and parody to mock intellectual pretension by focusing on bodily concerns. It would have commented on symposium rituals and social hierarchies, a common vein of humor in Greek Old and Middle Comedy. The work's complete text does not survive; its existence is known solely from its entry in the _Suda_, and no other fragments are preserved. Its significance lies in exemplifying the comic tradition of satirizing revered cultural figures, using gastronomy as a vehicle for social critique and underscoring the thematic breadth of the genre.
+
 ## Text
 
 ### book 1.1

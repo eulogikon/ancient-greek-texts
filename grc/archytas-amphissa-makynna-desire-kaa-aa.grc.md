@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kaa-aa` · [HTML page](https://eulogikon.org/works/archytas-amphissa-makynna-desire-kaa-aa)
 
+Fragments on Makynna and Desire is a lost epic poem attributed to Archytas of Amphissa, an obscure figure distinct from the more famous philosopher Archytas of Tarentum. The work is known solely by its title, which indicates it consisted of poetic fragments concerning a figure named Makynna, who is otherwise unattested in surviving literature, and the theme of Eros, or desire. No direct quotations or descriptions of its content have been preserved. The poem is classified as fragmentary, with some metadata suggesting it originally comprised six poetic passages, though no source for these fragments is identified and no manuscript tradition is recorded. Due to its fragmentary state and the obscurity of its author, the work has no documented literary influence and survives only as a bibliographical attestation to a lost poetic tradition.
+
 ## Text
 
 ### book 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-ap` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ap)
 
+The Scholia on the Clouds constitutes an ancient and medieval commentary on Aristophanes' comedy Clouds. It is not a unified work by a single author but rather a compilation of approximately 225 explanatory notes, or scholia, produced by various scholars over many centuries, from the Hellenistic period onward through the Byzantine era. Written in Greek prose, these annotations are attached to specific lines of the play and serve to elucidate obscure vocabulary, identify historical figures and cultural references, clarify jokes and allusions, and discuss textual variations among different manuscript traditions. The scholia survive primarily because they were copied into the margins of medieval manuscripts preserving Aristophanes' plays, with the most significant source being the 10th-century Byzantine manuscript known as Codex Ravennas 429. Modern scholarship interprets this compilation as a layered text, preserving fragments of lost ancient scholarship from figures such as Didymus Chalcenterus. It is generally considered to have been assembled for educational purposes, aiding students and readers across generations in understanding the complex language and philosophical satire of Aristophanes' work. The commentary is not comprehensive for every section of the play, but its survival provides crucial insights into how ancient and medieval readers interpreted classical Athenian culture, literature, and the textual history of one of its most challenging comedies.
+
 ## Text
 
 ### book t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-aw` · [HTML page](https://eulogikon.org/works/galen-pergamon-hippocrates-prognostic-qmm-aw)
 
+Galen of Pergamon's Commentaries on Hippocrates' Prognostic I is a detailed, line-by-line exegesis of the first part of the foundational Hippocratic treatise on medical forecasting. Composed in Attic Greek around 170–180 CE, this work exemplifies the ancient genre of scholarly commentary. Galen employs a systematic method, first quoting a short passage, or lemma, from Hippocrates and then providing expansive notes to clarify its meaning, defend the text's authority, and argue for his specific interpretations. The commentary is organized into 352 discrete sections, offering a meticulous, scholastic analysis of the original work.
+
+Within this framework, Galen engages deeply with the practice of prognosis, the art of interpreting signs such as a patient's appearance or sleep patterns to predict the course of a disease. A central theme is his vigorous defense of rational, causal medicine against rival empirical approaches, positioning both himself and Hippocrates as champions of a logical, theory-based method. Modern scholarship views this commentary as a key component of Galen's broader project to establish medical orthodoxy and cement his own intellectual authority during his tenure as a physician in Roman imperial circles. The complete text survives through medieval Byzantine manuscripts and proved instrumental for centuries in shaping how later physicians understood both Hippocratic doctrine and the art of prognosis.
+
 ## Text
 
 ### 16 489 (t1)

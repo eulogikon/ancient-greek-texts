@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sei-aa` · [HTML page](https://eulogikon.org/works/pappus-oath-sei-aa)
 
+The Philosopher's Oath attributed to Pappus the Alchemist is a concise treatise from the corpus of Greco-Egyptian alchemical literature. Structured as a solemn vow of secrecy followed by technical instructions, the work frames alchemical knowledge as a sacred mystery, binding the initiate to ethical and ritual conduct. It opens with an invocation to a singular, formless deity, the creator of heaven, earth, the four elements, and rational human souls, establishing a theological foundation for the art. The subsequent practical passage describes a process involving the treatment of a substance with homogeneous liquids, heating, and purification to produce a dry material stored in glass vessels within a warm, well-lit room.
+
+The text’s core themes are the necessity of concealing the art from the unworthy, the treatment of alchemical practice as a divine mystery, the moral prerequisites for the practitioner, and the distinction of the true philosopher-alchemist from common operators. It is preserved within medieval Byzantine manuscripts that compile earlier alchemical writings, most notably in Marcianus graecus 299 from the 10th or 11th century CE. The attribution to Pappus the Philosopher is consistent in the manuscript tradition, though the figure is likely pseudepigraphical. The work exemplifies the initiatory and secretive framework central to late antique alchemy, a conceptual model that portrayed the craft as a sacred art requiring moral and spiritual qualification. This framework was transmitted through Arabic and later Latin traditions, profoundly influencing the esoteric and spiritual dimensions of alchemy in the medieval and early modern periods.
+
 ## Text
 
 ### 2.27.(18t)

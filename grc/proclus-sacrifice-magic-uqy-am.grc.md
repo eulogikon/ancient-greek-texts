@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqy-am` · [HTML page](https://eulogikon.org/works/proclus-sacrifice-magic-uqy-am)
 
+On Sacrifice and Magic is a philosophical treatise by Proclus Lycius, the fifth-century head of the Platonic Academy in Athens. Written in Attic Greek, the work systematically examines the theory and practice of theurgy, a ritual discipline intended to elevate the human soul toward union with the divine. Proclus argues that just as the lover ascends from visible beauty to its transcendent source, the theurgist proceeds from the observable sympathy among all things—between celestial and terrestrial realms, and between manifest phenomena and hidden powers—to establish a sacred science. This science employs material sacrifices, prayers, and potent symbols not as ends in themselves but as means to attune the practitioner to the divine order. The treatise carefully distinguishes these philosophically grounded rites from common magic, emphasizing their role within a comprehensive Neoplatonic cosmology where every entity, even a heliotropic plant turning toward the sun, participates in a universal hymn of praise to its governing principle.
+
+The complete text of the treatise is lost, surviving only in fragments preserved by later authors, most notably the Byzantine scholar Michael Psellus in the eleventh century. These fragments indicate that the work was a key part of Proclus’s effort to defend and rationalize traditional pagan ritual within a rigorous philosophical system during an era of increasing Christian dominance. Addressed primarily to philosophers and advanced students, it explains how material rituals, when understood through the doctrine of cosmic sympathy, can serve as legitimate instruments for connecting the soul with higher, incorporeal realities, thereby bridging the gap between physical practice and metaphysical contemplation.
+
 ## Text
 
 ### 148 (1t)

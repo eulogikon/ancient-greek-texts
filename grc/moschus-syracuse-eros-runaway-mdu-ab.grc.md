@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mdu-ab` · [HTML page](https://eulogikon.org/works/moschus-syracuse-eros-runaway-mdu-ab)
 
+"Eros the Runaway" is a brief bucolic poem, or epyllion, attributed to the Hellenistic poet Moschus of Syracuse, who was active in the mid-2nd century BCE. Composed in literary Greek with Doric coloring, the complete work spans a mere ten lines, structured in three strophes. It takes the form of a pastoral proclamation in which a shepherd urgently informs his fellow herdsmen that the god Eros has escaped, offering a vivid description to aid in his recapture. This portrait depicts Eros as a beautiful yet perilous winged boy, armed with a bow, whose speech is honeyed but whose mind is deceitful and malicious. A refined product of the Hellenistic age, crafted for a sophisticated literary audience, the poem's central conceit—a rustic search for the fugitive god of love—functions as a witty inversion of epic grandeur, underscoring love's elusive and tormenting nature. The work survives intact within the medieval manuscripts of the Greek Anthology under Moschus's name and is esteemed for its concise and influential depiction of the deity.
+
 ## Text
 
 ### 1

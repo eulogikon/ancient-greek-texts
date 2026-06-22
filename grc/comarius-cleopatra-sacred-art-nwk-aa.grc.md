@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nwk-aa` · [HTML page](https://eulogikon.org/works/comarius-cleopatra-sacred-art-nwk-aa)
 
+Komarios the Philosopher High Priest Instructing Cleopatra in the Sacred Art is a Greek alchemical treatise presented as a dialogue between the philosopher-priest Komarios and the legendary wise queen Cleopatra. The work employs the dense symbolic and allegorical language characteristic of early Greco-Egyptian alchemy, framing the secrets of metallic transmutation within a context of mystical and philosophical instruction. Its core themes include the transformation of base metals into silver and gold, the fundamental unity of all matter, and the processes of death, purification, and rebirth as applied to materials, all conveyed through deliberately coded terminology designed to protect its esoteric knowledge.
+
+The treatise survives as part of the principal corpus of Greek alchemical writings, preserved primarily in Byzantine manuscripts such as the tenth- or eleventh-century Marcianus graecus 299. Its influence extended beyond the Greek tradition through translations into Syriac and Arabic, which facilitated its entry into the broader stream of Islamic alchemy. As a representative example of early philosophical alchemy, the dialogue was highly influential for its format of a master instructing a royal disciple. The enduring figure of Cleopatra as an alchemical authority within this format helped solidify the conception of alchemy as a sacred and revelatory art within later hermetic traditions.
+
 ## Text
 
 ### 2.289.(13t)

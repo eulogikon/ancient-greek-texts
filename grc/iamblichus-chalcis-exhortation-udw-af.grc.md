@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udw-af` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-exhortation-udw-af)
 
+Iamblichus of Chalcis’s Exhortation to Philosophy is a late antique treatise composed in Greek around 300 CE. It belongs to the protreptic genre, a form of philosophical writing designed to persuade readers to adopt the philosophical life. The work is structured as a series of 124 concise passages that systematically argue for philosophy as the sole true path to happiness and virtue, explicitly contrasting it with inferior pursuits such as rhetoric, politics, and the accumulation of wealth. Its argument is largely doxographic, building its case through extensive quotations and paraphrases from earlier authorities, most notably Plato and Aristotle. This method reflects the late Neoplatonic scholasticism of the period, which sought to harmonize and systematize classical philosophical thought. The treatise is believed to have been composed as an introductory text for students in Iamblichus’s school, presenting philosophy not merely as an academic discipline but as a comprehensive way of life and a spiritual practice. The complete text survives intact through the medieval manuscript tradition, providing a clear view of Iamblichus’s early thought prior to his more complex works on ritual and theurgy.
+
 ## Text
 
 ### Protr 3

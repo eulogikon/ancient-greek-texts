@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-ag` · [HTML page](https://eulogikon.org/works/isaeus-astyphilus-lot-fge-ag)
 
+On the Lot of Astyphilus is a forensic oration by the Athenian logographer Isaeus, composed in the fourth century BCE for delivery in a dikasterion, or popular court. The speech presents the case of a man claiming the estate of his deceased maternal uncle, Astyphilus, who died while on military campaign in Mytilene. The claimant argues that he is the rightful heir by direct familial descent, as the son of Astyphilus's sister. His right is contested by Cleon, a paternal cousin of the deceased, who has produced a will purportedly showing that Astyphilus adopted Cleon's son, Thrasyllus, thereby making Thrasyllus the legal heir. The oration systematically seeks to invalidate this will and the alleged adoption.
+
+The speaker constructs his argument on two primary fronts: kinship and procedural fraud. He first establishes that, according to Athenian law, his own closer blood relationship to the deceased takes precedence over the claim of a more distant paternal cousin like Cleon. He then attempts to prove that the will presented by Cleon is a forgery, contending that Astyphilus never intended to adopt an heir. The speech alleges that the will was fabricated by Cleon in collusion with Astyphilus's mother and her second husband, who harbored a longstanding hostility toward the speaker's family. The narrative includes vivid details, such as Cleon's immediate seizure of Astyphilus's farm upon news of his death, to paint the opposition as opportunistic and dishonest.
+
+As a complete example of a diadikasia, a trial adjudicating between rival claims to an inheritance, the oration is a masterclass in Isaeus's specialized knowledge of Athenian inheritance law. It demonstrates his characteristic method of weaving complex family history, technical legal points, and appeals to social probability into a compelling narrative for a jury of ordinary citizens. The work survives as Oration 9 in the Isaean corpus and is a crucial document for historians, providing significant insight into Athenian familial structures, property law, and the practical application of rhetorical strategy in the forensic arena.
+
 ## Text
 
 ### Or9 1

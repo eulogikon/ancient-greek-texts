@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oyc-ab` · [HTML page](https://eulogikon.org/works/ptolemy-ascalon-difference-words-oyc-ab)
 
+_On the Difference of Words_ is a grammatical and lexicographical treatise attributed to Ptolemy of Ascalon, a scholar of the Roman imperial period, most likely active in the 2nd century CE. The work is a systematic study of synonymy, dedicated to drawing precise distinctions between words of similar meaning in the Greek language. It exemplifies the principles of the Atticist movement, which sought to standardize literary Greek based on the vocabulary and usage of classical Athenian authors. The treatise methodically analyzes pairs or groups of near-synonyms, clarifying their specific definitions, contextual applications, and subtle semantic differences. It also notes distinctions in grammatical features such as accentuation. The original work is lost and survives only in a fragmentary state, preserved through quotations in later Byzantine reference works, most notably the _Ethnica_ of Stephanus of Byzantium from the 6th century CE and the 12th-century _Etymologicum Magnum_. Approximately twenty-three distinct passages are recoverable from these sources. As a specialist work on lexical semantics, it contributed to the standardization of Greek philological knowledge in medieval scholarship, and its fragments remain valuable for the modern study of ancient grammatical theory, lexicography, and the history of the Atticist movement.
+
 ## Text
 
 ### 388 (1t)

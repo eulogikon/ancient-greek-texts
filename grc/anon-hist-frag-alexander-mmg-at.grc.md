@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-at` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-mmg-at)
 
+The History of Alexander is a lost historical work preserved only as a single fragment from an anonymous author. It belongs to the corpus of fragmentary Greek historians and concerns an episode from the campaigns of Alexander the Great. The work is known exclusively through indirect transmission, with its sole surviving fragment quoted by the later biographer Plutarch. It was subsequently collected in the 19th-century compilation Fragmenta Historicorum Graecorum by Karl Müller. While the complete scope of the anonymous history is irrecoverable, its citation by Plutarch demonstrates its role as a minor source within the Hellenistic historiographical tradition on Alexander. Its primary modern significance lies in its status as one of the many lost sources that informed the surviving ancient narratives of Alexander’s life.
+
 ## Text
 
 ### 55.(l1)

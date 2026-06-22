@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hlc-ab` · [HTML page](https://eulogikon.org/works/palaephatus-trojan-geography-hlc-ab)
 
+The Fragments on Trojan Geography is a collection of prose passages attributed to the mythographer Palaephatus. These fragments systematically identify and describe geographical locations from Homer's Iliad, applying a rationalizing approach to correlate epic descriptions with real-world topography. The extant passages focus on rationalizing Homeric place names and descriptions using contemporary geography, employing close philological analysis of the poem to extract topographical details and ground the epic narrative within a verifiable physical landscape. The work survives only as excerpts cited within later geographical or scholiastic works, such as those of Strabo and Stephanus of Byzantium. The traditional attribution to Palaephatus cannot be independently verified, and the original scope of the complete text remains unknown due to its fragmentary state. This minor work exemplifies a strand of Hellenistic and later Homeric scholarship that sought historical and geographical verification within myth. It contributed to the long tradition of Homeric commentary and provided source material for later compilers who engaged with the topography of the Trojan tales.
+
 ## Text
 
 ### t1-4

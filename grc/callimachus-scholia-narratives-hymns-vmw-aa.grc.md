@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-aa` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-hymns-vmw-aa)
 
+Overview This work comprises ancient prose scholia, or explanatory notes, providing narrative summaries and commentary on the first two hymns (to Zeus and Apollo) of the Hellenistic poet Callimachus. Labeled "Ancient," these scholia represent a compilation of earlier Hellenistic and Roman scholarly exegesis, preserved within the medieval manuscript tradition. They function as a discrete commentary, offering glosses on mythological references, rare vocabulary, and historical context for the poetic text.
+
+Content The scholia address several key areas:
+
+Exegesis of Myth: Explaining the mythological narratives and references within Callimachus's hymns.
+
+Linguistic Commentary: Glossing difficult, archaic, or rare words used by the poet.
+
+Literary and Historical Context: Providing background on cult practices, geographical locations, and historical figures.
+
+Textual Criticism: Noting variant readings or discussing the integrity of the text.
+
+Transmission The scholia survive within medieval codices (13th–15th centuries CE) transmitting Callimachus's works. They are themselves compilations of earlier material, potentially incorporating notes from Hellenistic scholars like Theon, and their selective preservation depended on scribal choices during copying.
+
+Significance These ancient scholia are foundational for the modern interpretation of Callimachus's poetry. They preserve otherwise lost information about Alexandrian scholarship and are a primary source for understanding the ancient reception and scholarly study of his work, shaping all subsequent commentary.
+
 ## Text
 
 ### Hymn1.col11.(8)

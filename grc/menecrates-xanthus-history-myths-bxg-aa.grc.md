@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bxg-aa` · [HTML page](https://eulogikon.org/works/menecrates-xanthus-history-myths-bxg-aa)
 
+The Lycian History and Myths, also known by the title Apospasmata or "Extracts," is a prose work attributed to the Hellenistic author Menecrates of Xanthus. It represents a genre of local history, or Lyciaca, dedicated to the region of Lycia in southwestern Anatolia. The work survives only in fragmentary form, transmitted through quotations in later authors such as Strabo, the compiler of the Ethnica, Stephanus of Byzantium, and the mythographer Antoninus Liberalis. The title Apospasmata suggests the work may have been an epitome or compilation drawn from earlier sources. Its content focused on the historical and mythological traditions of Lycia, serving to articulate a distinct regional identity within the broader Hellenistic world. The extant fragments deal primarily with foundation legends for Lycian cities, local etymologies, and ethnographic descriptions. One passage recounts the division of the population of Xanthus and the subsequent founding of the city of Pinara, while another narrates the myth of the goddess Leto's arrival in Lycia, connecting local geography to Panhellenic divine figures. These fragments illustrate the work's function in documenting local lore, establishing civic genealogies, and negotiating Lycia's cultural prestige within the Greek intellectual sphere. As a rare example of Anatolian local historiography, the fragments of Menecrates' work provide valuable, albeit limited, source material for modern understanding of Lycian mythology and historical self-representation.
+
 ## Text
 
 ### t1-2

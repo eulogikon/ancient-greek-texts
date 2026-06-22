@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dl` · [HTML page](https://eulogikon.org/works/galen-pergamon-logical-instruction-qmm-dl)
 
+The Logical Instruction is a treatise on logic by the physician-philosopher Galen of Pergamon, composed in the 2nd century CE. This introductory manual focuses on the theory of demonstration, which Galen considered the foundation of scientific knowledge, particularly in medicine. It serves as a propaedeutic to his lost major work, On Demonstration. The treatise systematically outlines the method of constructing scientific proofs as the basis for certain knowledge, applying logical principles directly to medical theory and practice. Its content includes the classification of premises, such as definitions and axioms, and the forms of syllogistic reasoning, while also presenting an implicit argument against sceptical challenges to certainty in the empirical sciences. The work survives intact within Galen’s logical corpus, preserved through Byzantine manuscript traditions. Its transmission provides crucial insight into Galen’s logical system, unlike his comprehensive On Demonstration, which is lost. Galen’s synthesis of Aristotelian and Stoic logic in this treatise exerted a significant influence on later antique, Byzantine, and Islamic philosophy and science. During the Renaissance, its recovery contributed substantially to contemporary debates on scientific methodology.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-ai` · [HTML page](https://eulogikon.org/works/menander-athens-sicyonian-fragments-hps-ai)
 
+The Sicyonios, also known as The Man from Sicyon, is a comedy by the Athenian playwright Menander, dating from the late fourth or early third century BCE. As a representative work of New Comedy, it is composed in verse and employs the genre's characteristic plot of mistaken identity and romantic complication. The narrative revolves around a young woman named Philoumene, whose true status as a freeborn citizen from the city of Sicyon is ultimately revealed, thereby removing the legal impediments to her marriage. The complete text of the play is lost, but its content is partially known through two fragmentary sources: a collection of twenty-two brief quotations preserved by later ancient grammarians and a more substantial papyrus fragment discovered in Egypt. This papyrus preserves over three hundred lines from the play's later acts, enabling scholars to reconstruct significant portions of its intricate plot. The drama is interpreted by modern scholarship as engaging with fundamental Athenian social concerns, where proof of citizen status was a legal necessity for marriage, and the device of chance recognition served as a pivotal dramatic mechanism.
+
 ## Text
 
 ### book 1.1

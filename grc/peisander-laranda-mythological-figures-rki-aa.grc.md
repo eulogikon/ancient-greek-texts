@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rki-aa` · [HTML page](https://eulogikon.org/works/peisander-laranda-mythological-figures-rki-aa)
 
+The Fragments on Mythological Figures is a modern designation for eleven surviving passages from the epic poetry of Peisander of Laranda, a Greek poet of the third century CE. Written in traditional epic verse, these excerpts depict various heroes and narratives from Greek mythology. They are not from an independent composition but are believed to be citations from Peisander's monumental sixty-book epic, the Heroic Marriages, which presented a comprehensive mythological history. The complete work is lost; these fragments are preserved solely through quotation by later scholars and grammarians, such as John Philoponus in the fifth century, who referenced them for linguistic or mythological illustration. Modern scholarship views Peisander's vast project as part of a broader cultural effort to systematically compile and celebrate Hellenic heritage for a Greek-speaking audience within the Roman Empire. His epic sought to trace heroic genealogies from the primordial gods to the age of Alexander the Great. The extant fragments provide a limited window into this encyclopedic treatment of myth, though the poet's overall influence remains circumscribed by the near-total disappearance of his work.
+
 ## Text
 
 ### book 7.1

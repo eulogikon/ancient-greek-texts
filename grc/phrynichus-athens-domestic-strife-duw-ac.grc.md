@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `duw-ac` · [HTML page](https://eulogikon.org/works/phrynichus-athens-domestic-strife-duw-ac)
 
+The Fragments on Domestic Strife is a modern editorial title for a collection of nine excerpts attributed to the Athenian comic poet Phrynichus. A contemporary and rival of Aristophanes active in the late 5th century BCE, Phrynichus was a significant figure in Old Comedy, renowned for his musicality and refined wit. While he authored several plays, no ancient work bearing this specific title is recorded; the fragments are instead thematically grouped from his lost oeuvre. The passages depict exaggerated household conflicts, a staple subject of the genre's social satire. They likely feature intra-familial disputes, such as those between husband and wife or master and slave, employing the witty, insult-laden verbal exchanges characteristic of Old Comedy to critique Athenian domestic norms and gender roles. Like most non-Aristophanic comedy, Phrynichus's works survive only in fragments preserved by later grammarians and lexicographers, such as Athenaeus and the Suda. These scattered quotations are crucial for scholars, offering insight into the diversity of Old Comedy beyond its most famous exponent and its engagement with Athenian society during the Peloponnesian War era.
+
 ## Text
 
 ### book 1

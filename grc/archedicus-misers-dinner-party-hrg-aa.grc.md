@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hrg-aa` · [HTML page](https://eulogikon.org/works/archedicus-misers-dinner-party-hrg-aa)
 
+_The Miser's Dinner Party_ is a lost Greek comedy by Archedicus, a poet of Middle or New Comedy active in the 4th century BCE. The work survives only in twenty-six fragmentary passages, primarily preserved by the lexicographer Athenaeus in his _Deipnosophistae_. The play's original title was likely _The Rich Men_. The extant fragments indicate the comedy centered on themes of wealth and miserliness, focusing on the behavior of stingy, wealthy characters. A prominent subject is food, dining, and gastronomy, with detailed discussions of ingredients, costs, and banquet etiquette, as seen in a fragment where a character meticulously describes preparing a meager fish dinner with minimal oil to save money. The work functions as social satire, critiquing character types defined by their relationship to money and consumption. The comedy has no independent manuscript tradition; its fragments are quoted by Athenaeus for their culinary and social references and are compiled in modern scholarly editions. These fragments provide valuable evidence for the thematic concerns of Middle and New Comedy, particularly the shift toward domestic and social satire centered on private life. They also serve as a source for ancient social history, offering insights into daily life, economic anxieties, gastronomy, and comic characterization in the 4th century BCE.
+
 ## Text
 
 ### book 1.1

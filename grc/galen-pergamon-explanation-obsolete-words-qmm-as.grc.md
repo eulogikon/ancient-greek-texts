@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-as` · [HTML page](https://eulogikon.org/works/galen-pergamon-explanation-obsolete-words-qmm-as)
 
+The Explanation of Obsolete Words of Hippocrates is a philological treatise by the physician and scholar Galen of Pergamon. In this work, Galen systematically explicates archaic, obscure, or obsolete terminology found within the Hippocratic Corpus. Addressed to an individual named Teuthras, the treatise is structured as a series of glosses arranged according to the alphabetical order of the words being explained. Galen distinguishes his project from a full commentary on Hippocratic language, focusing specifically on terms that were once common but had fallen out of contemporary usage, thereby providing definitions, etymologies, and contextual explanations to make the ancient medical texts accessible to a 2nd-century CE audience.
+
+The work establishes a foundational principle that correct medical practice is dependent upon accurate textual interpretation, which in turn requires specialized linguistic and historical knowledge. Galen employs etymological analysis to clarify obscure terms, often linking them to more familiar words or concepts. The treatise also functions as a vehicle for Galen’s scholarly polemics; he frequently corrects the interpretations of rival commentators and medical sects, thereby reinforcing his own authority as the definitive interpreter of Hippocrates. The text survives as part of Galen’s extensive exegetical output on the Hippocratic writings and was transmitted through Byzantine, Arabic, and Latin scholarly traditions, which ensured its preservation while introducing complexities regarding its textual integrity. It appears in modern critical editions such as the Corpus Medicorum Graecorum.
+
+This glossary profoundly shaped how subsequent physicians in the Greek, Arabic, and Latin traditions read and understood the Hippocratic Corpus. It cemented the notion that medical expertise required philological skill and played a crucial role in reinforcing the canonization of both Hippocrates as the foundational medical authority and Galen as his paramount interpreter. The treatise’s methodology influenced later Byzantine and Arabic scholarly commentaries on scientific and medical classics, underscoring the enduring interconnection between textual scholarship and medical practice in the ancient and medieval worlds.
+
 ## Text
 
 ### 19 62 (t1)

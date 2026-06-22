@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ptg-aa` · [HTML page](https://eulogikon.org/works/astrampsychus-oracles-ptg-aa)
 
+The Oracles is a Greek divination treatise attributed to Astrampsychus, a name associated with a legendary Persian magician. Composed in Koine Greek, most likely between the second and fourth centuries CE, it is a prominent example of the Roman-era genre of lot oracles. The work presents a complete and systematic method for obtaining answers to ninety-one common personal questions concerning matters such as marriage, business ventures, health, and travel. Its procedure requires the inquirer to select a numbered question and then follow an algorithmic process involving random numbers, often derived from the question number and the inquirer's name, to navigate a series of numerical tables. This structured randomization leads to one of ten predetermined answers for each query. Scholars view this elaborate design as an effort to rationalize and democratize divination, offering a form of divine guidance accessible to a literate public without the mediation of a priest or sanctuary. The pseudepigraphic attribution to an Eastern sage served to bolster the text's authority. The work survives in numerous Greek manuscripts, the oldest dating to the fourteenth century, and was also translated into Latin and Coptic, attesting to the enduring popularity of this form of book-based fortune-telling from late antiquity through the medieval period.
+
 ## Text
 
 ### epist t

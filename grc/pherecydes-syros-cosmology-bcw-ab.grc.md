@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bcw-ab` · [HTML page](https://eulogikon.org/works/pherecydes-syros-cosmology-bcw-ab)
 
+The Fragments on Cosmology is the modern designation for the surviving portions of a prose treatise written in the sixth century BCE by Pherecydes of Syros. Composed in the Ionic dialect, it represents one of the earliest known Greek works written in prose, marking a deliberate departure from the poetic epic tradition. In antiquity, the work was commonly known as the Heptamychos, or "Seven Recesses," and was also referred to as a theogony. It presented a systematic cosmogony, narrating the origin of the cosmos and the gods through a mythological framework. Its account featured primordial deities such as Zas, a variant of Zeus; Chthonie, the Earth; and Chronos, or Time, who is presented as a self-generated first principle.
+
+The text survives only in fragments, approximately sixteen in number, preserved through quotations by later authors such as Diogenes Laertius, Clement of Alexandria, and Damascius. These citations suggest the original work described the formation of the world, including the fashioning of a robe embroidered with cosmic imagery and the division of the cosmos, possibly into seven regions as implied by the title Heptamychos. Pherecydes is regarded as a transitional figure who bridged mythological narrative and early philosophical inquiry. His introduction of Chronos as an abstract, generative principle is considered an innovative step toward conceptual speculation, influencing later Orphic and Pythagorean thought. Although fragmentary, the work remains a crucial landmark in the development of Greek cosmological writing and the emergence of prose as a vehicle for speculative thought.
+
 ## Text
 
 ### 1

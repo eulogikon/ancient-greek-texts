@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mdu-ac` · [HTML page](https://eulogikon.org/works/moschus-syracuse-bucolic-fragments-mdu-ac)
 
+The Fragments of Bucolic Poetry consists of 26 passages attributed to the Hellenistic poet Moschus of Syracuse. Preserved through quotation by later ancient authors and grammarians, these fragments include short poetic excerpts and individual lines consistent with pastoral themes, dialogues, and descriptions of rural life. The standard modern collection appears in A.S.F. Gow’s Bucolici Graeci, offering glimpses into Moschus’s style beyond his three complete surviving idylls. The content encompasses traditional bucolic subjects, including pastoral life and landscapes, mythological narrative and allusion, erotic themes, and detailed descriptions of nature and rural settings. The fragments survive indirectly, collected from citations in the works of later authors, scholiasts, and lexicographers such as Athenaeus and Stobaeus. This method of preservation is typical for fragmentary Hellenistic poets, though the original context for each fragment is often lost. As a canonical bucolic poet, Moschus influenced the later pastoral tradition. While these specific fragments had less direct impact than his extant poems, they contributed to his reputation and were studied by ancient grammarians. The Hellenistic bucolic tradition he participated in, alongside poets like Theocritus and Bion, profoundly shaped Roman poets, most notably Virgil in his Eclogues.
+
 ## Text
 
 ### book 1.1

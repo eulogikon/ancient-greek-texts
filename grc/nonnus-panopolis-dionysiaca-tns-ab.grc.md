@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tns-ab` · [HTML page](https://eulogikon.org/works/nonnus-panopolis-dionysiaca-tns-ab)
 
+The Dionysiaca is a monumental Greek epic poem composed by Nonnus of Panopolis in the 5th century CE. Spanning 48 books and over 21,000 lines, it is the longest surviving poem from classical antiquity. The work presents a comprehensive narrative of the life of the god Dionysus, from his divine birth to his apotheosis. Its expansive scope details his invention of wine, his epic military campaign against India, his triumphant return to Greece, and his eventual marriage to Ariadne. Structured as an encyclopedic compilation of myth, the poem incorporates extensive digressions and elaborate descriptions of numerous other legendary tales and deities.
+
+Composed in late antique Egypt during a period of cultural transition, the Dionysiaca stands as a vast celebration of the Hellenic mythological tradition. Modern scholarship interprets it both as a deliberate preservation of pagan lore and as a virtuosic display of poetic technique intended for a sophisticated, educated audience. The poem survives in its entirety through medieval manuscripts, the oldest of which dates to the 13th or 14th century. Its preservation is largely attributed to its enduring value as a masterful model of versification and a comprehensive repository of mythological knowledge.
+
 ## Text
 
 ### book p1.1.1

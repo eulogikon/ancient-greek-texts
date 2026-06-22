@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eug-aa` · [HTML page](https://eulogikon.org/works/anaxandridas-delphic-oracle-eug-aa)
 
+_On the Delphic Oracle and Offerings_, also known by the title _Excerpts_, is a lost prose antiquarian work attributed to Anaxandridas the Historian. The work was structured in ten sections and focused on cataloging the votive offerings at the sanctuary of Delphi alongside the oracular lore associated with them. It represents the Hellenistic tradition of scholarly documentation concerning religious artifacts and local history. The surviving fragments indicate its content included detailed descriptions and histories of specific dedications, examinations of the role and responses of the Delphic Oracle connected to these offerings, and analyses of how such objects served as material records of historical events and acts of piety. The work survives only in fragments, transmitted primarily through citation by the later geographer Pausanias, who references its account of a bronze wolf dedication at Delphi. It is also recorded in the Byzantine encyclopedia known as the _Suda_, which notes its title and ten-part structure. Anaxandridas’s compilation served as a valuable source for later antiquarians like Pausanias, helping to preserve the local history and religious traditions of Delphi. It exemplifies the broader Hellenistic scholarly effort to systematize the material and historical patrimony of Greek sanctuaries, a tradition that subsequently informed Roman and Byzantine antiquarianism.
+
 ## Text
 
 ## ΠΕΡΙ ΤΟΥ ΕΝ ΔΕΛΦΟΙΣ ΧΡΗΣΤΗΡΙΟΥ. E LIBRO PRIMO. Stephan.

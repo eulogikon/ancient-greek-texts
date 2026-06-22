@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vbs-af` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-cyriacus-vbs-af)
 
+The Life of Cyriacus is a saint’s biography composed in Koine Greek prose by the sixth-century monk and hagiographer Cyril of Scythopolis. It is one of seven such lives he authored, which collectively constitute a foundational corpus for understanding the development and ideals of monasticism in the Judean Desert during late antiquity. The work adheres to the conventional structure of hagiography, chronicling the monk Cyriacus’s origins in Corinth, his withdrawal from society, his rigorous ascetic life in the wilderness, his spiritual struggles against demonic forces, and the miracles ascribed to his sanctity. The complete text has been preserved through medieval Greek manuscripts transmitted as part of Cyril’s collected biographical works.
+
+Modern scholarship situates Cyril’s biographies within the context of the consolidation of Chalcedonian Christian orthodoxy in Palestine. They are interpreted as documents intended to record, legitimize, and promote the spiritual authority and disciplined practices of the monastic communities, particularly those associated with the influential Lavra of Saint Sabas. While providing edifying models of virtue for a primarily monastic readership, Cyril’s accounts are notably valued by historians for their comparative sobriety and attention to topographic and institutional detail, offering a crucial window into the daily realities and theological concerns of sixth-century ascetic life.
+
 ## Text
 
 ### [5]

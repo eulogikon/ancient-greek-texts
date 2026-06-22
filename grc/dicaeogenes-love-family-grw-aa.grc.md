@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `grw-aa` · [HTML page](https://eulogikon.org/works/dicaeogenes-love-family-grw-aa)
 
+The Fragments on Love and Family is a modern descriptive title for quotations attributed to the tragic poet Dicaeogenes, not a single, coherent ancient work. Dicaeogenes was a tragedian of the late fifth or early fourth century BCE, known to have authored several plays, including one titled Cyprians. The surviving fragments, which address the themes of eros and the oikos, or household, reflect core concerns of Greek tragedy, such as the destructive power of desire and the conflicts inherent in familial obligations. His known play Cyprians suggests he drew upon mythological narratives from the epic cycle, likely those related to the Trojan War. No manuscripts of his plays survive; his legacy rests entirely on fragments and testimonia preserved by later authors such as Athenaeus and in Byzantine compilations like the Suda. These are collected in modern scholarly editions. Dicaeogenes represents the generation of tragedians who maintained the production of drama in Athens following the deaths of Sophocles and Euripides, and his historical significance lies in this continuity, though the fragmentary state of his work precludes any assessment of his direct literary influence.
+
 ## Text
 
 ### book 1b.1

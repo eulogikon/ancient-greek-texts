@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ay` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-evaporation-divine-water-tyc-ay)
 
+On the Evaporation of Divine Water is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. The work provides detailed instruction on practical laboratory techniques, centering on the distillation and sublimation processes required to produce a potent agent of transformation referred to as "divine water." Its content is organized into three primary sections, which are understood to delineate the necessary apparatus, the step-by-step physical operation, and the profound spiritual symbolism underlying the procedure. This structure exemplifies Zosimus's characteristic synthesis of precise technical manual with philosophical and gnostic allegory concerning the purification and ascent of the soul. The treatise survives fragmentarily within the author's collected works, preserved in later Byzantine manuscripts. As with much of the Zosimean corpus, it was translated into Syriac and Arabic, where it served as a cornerstone for the subsequent evolution of alchemical theory and practice in the Islamic world and later in medieval Latin Europe. The extant Greek text remains incomplete and is frequently accompanied in the manuscript tradition by later explanatory commentaries.
+
 ## Text
 
 ### [20]

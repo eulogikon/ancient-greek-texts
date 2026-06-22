@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nzw-aa` · [HTML page](https://eulogikon.org/works/pseudo-longinus-sublime-nzw-aa)
 
+On the Sublime is a foundational treatise of literary criticism from the 1st century CE, composed in Attic Greek by an unknown author traditionally, though incorrectly, referred to as Longinus. The work investigates the concept of the sublime, or hypsos, defined as the quality in language that evokes awe and transports the audience through grandeur of thought and passionate expression. Structured as an addressed text, it systematically outlines five principal sources of sublimity: grandeur of conception, vigorous emotion, the skillful employment of rhetorical figures, noble diction, and dignified composition. These principles are illustrated through extensive analysis and quotation from classical Greek authors, most notably Homer, Sappho, and Demosthenes, while also critiquing contemporary failures of style. Modern scholarship interprets the treatise as a sophisticated engagement with earlier rhetorical theory, likely intended for an educated audience conversant in both Greek and Roman literary culture. The author provides a famous critique of the perceived literary decline of their own era, attributing it not to political change but to a pervasive moral decay. The text survives incompletely in a single 10th-century manuscript, with significant portions lost. Despite its fragmentary state, the work became profoundly influential following its rediscovery during the Renaissance, fundamentally shaping the development of modern aesthetics and the philosophy of art.
+
 ## Text
 
 ### t 1

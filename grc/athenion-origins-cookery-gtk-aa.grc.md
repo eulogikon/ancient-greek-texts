@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gtk-aa` · [HTML page](https://eulogikon.org/works/athenion-origins-cookery-gtk-aa)
 
+_On the Origins of Cookery_ is a lost verse comedy attributed to Athenion, a poet of the Middle Comedy period active in the 4th century BCE. The work survives only in fragments, approximately thirty-five in number, which are preserved chiefly through quotations in later authors, most notably Athenaeus of Naucratis in his _Deipnosophistae_. An alternate title, _Extract_, underscores its incomplete transmission. As suggested by its title, the comedy presented a mock-heroic or pseudo-scholarly inquiry into the invention of cooking, a theme consistent with Athenion’s known focus on culinary subjects. The surviving text features a dialogue in which one character argues that the art of cookery was the fundamental civilizing force for humanity, liberating people from a bestial, cannibalistic existence and leading them to an ordered society through the discovery of roasting meat after sacrifice. The work parodies ethnographic and philosophical discourses on cultural origins while offering social satire aimed at chefs, gourmands, and contemporary dining habits. These fragments are valuable evidence for the thematic evolution of Middle Comedy, which moved away from direct political satire toward generalized treatments of daily life and social types. They also provide insight into 4th-century Athenian social history and literary conventions, influencing later developments in Hellenistic and Roman comedy.
+
 ## Text
 
 ### book 1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dz` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-artaxerxes-okg-dz)
 
+Plutarch’s Artaxerxes is a biography of the Persian King Artaxerxes II, who reigned from 404 to 358 BCE. Composed in Greek around the turn of the second century CE, it stands as a self-contained entry within the author’s celebrated series of Parallel Lives. The narrative chronicles the king’s lengthy rule, emphasizing dramatic episodes of court intrigue, familial betrayal, and Greco-Persian conflict. Central events include the fratricidal war with his brother Cyrus the Younger, culminating in the Battle of Cunaxa, and the influential, often lethal, roles played by royal women such as the queen mother Parysatis. Plutarch structures his account to illuminate the monarch’s character, depicting a ruler prone to flattery and palace manipulation who presides over an empire rife with treachery and assassination.
+
+The work survives intact, transmitted through medieval manuscripts alongside Plutarch’s other biographies. Modern scholarship interprets Artaxerxes as an integral part of Plutarch’s moral project, employing historical example to examine themes of absolute power, despotism, and the corrupting dynamics of an imperial court. It reflects a persistent Greek fascination with Persia as a sophisticated yet frequently exoticized counterpart. Relying on earlier Greek sources such as Ctesias and Xenophon, the biography remains a valuable, if distinctly Hellenocentric, source for understanding the Achaemenid Empire and Greco-Persian relations during the fourth century BCE.
+
 ## Text
 
 ### Art t 1

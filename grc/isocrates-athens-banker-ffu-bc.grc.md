@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-bc` · [HTML page](https://eulogikon.org/works/isocrates-athens-banker-ffu-bc)
 
+The Trapeziticus, also known as Against the Banker, is a forensic oration composed by the Athenian orator Isocrates around 393 BCE. Written for delivery by a client in an Athenian court, the speech concerns a private lawsuit over a financial deposit. The plaintiff, a young merchant from the Black Sea region, accuses the wealthy banker Pasion of wrongfully refusing to return a substantial sum of money entrusted to his care. The complete speech survives in forty-five sections and is structured as a direct, persuasive address to the jury, systematically arguing the plaintiff's case while attacking the credibility and character of the banker.
+
+The work offers a detailed and invaluable glimpse into the practices of Athenian banking, international trade, and private law in the early fourth century BCE. The defendant, Pasion, is a historically significant figure, a former slave who rose to become a powerful and wealthy metic, or resident alien, operating a major bank in the Piraeus. The case underscores the legal complexities involving non-citizens in Athenian commerce and the paramount importance of personal trust and reputation in financial relationships. Modern scholars regard the speech not only as a skilled example of early fourth-century oratory but also as a crucial primary source for understanding the mechanisms of ancient Greek commerce, the fluidity of social status, and the everyday operation of the Athenian legal system.
+
 ## Text
 
 ### Trapez t

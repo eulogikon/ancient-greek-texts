@@ -20,6 +20,18 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vtu-aa` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-rhetorical-philosophical-terms-vtu-aa)
 
+Overview The Lexicon of Rhetorical and Philosophical Terms (Συλλογὴ χρησίμων λέξεων ἐκ διαφόρων ῥητόρων καὶ) is an anonymous Greek glossary comprising 46 entries. Its incomplete title indicates it is a “Collection of Useful Words from Various Orators and…”, positioning it within the tradition of late antique and Byzantine lexicography. Such works functioned as scholarly tools to elucidate the technical or archaic vocabulary found in classical orators and philosophers.
+
+Content The lexicon’s entries focus on two primary domains:
+
+Rhetorical Terminology: Explanations of terms specific to the art of oratory.
+
+Philosophical Terminology: Definitions of technical language from various philosophical schools, reflecting an interest in Attic prose models.
+
+Transmission The work survives through manuscript transmission, likely preserved within larger Byzantine collections of grammatical and rhetorical texts. While its precise manuscript history is untraced, its format is consistent with many minor, often anonymous, lexica copied for pedagogical use.
+
+Significance Although the direct influence of this specific glossary is not documented, it exemplifies the essential, cumulative role of such compilations. These works sustained the study of classical Greek language and thought, feeding into larger scholarly projects and aiding the continuity of rhetorical and philosophical education from antiquity through the Byzantine era.
+
 ## Text
 
 ### 16a

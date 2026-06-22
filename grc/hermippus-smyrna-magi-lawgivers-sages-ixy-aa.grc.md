@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ixy-aa` · [HTML page](https://eulogikon.org/works/hermippus-smyrna-magi-lawgivers-sages-ixy-aa)
 
+_On the Magi, Lawgivers, and Sages_ is a lost biographical and doxographical compilation by the Hellenistic Peripatetic scholar Hermippus of Smyrna, who was active in the late third century BCE. Known only through fragments and later testimonia, the work was also referred to as Excerpts. It collected information on a diverse range of figures, including Persian Magi, Greek lawgivers such as Solon, and various sages, most notably the canonical Seven Sages of Greece. The structure of the treatise appears to have been a series of excerpts, and its content likely consisted of biographical notes, recorded sayings, and illustrative anecdotes about its subjects. This compilation represents a synthesis of Greek and Persian wisdom traditions, reflecting the broader cultural syncretism characteristic of the Hellenistic period.
+
+The work is preserved only in fragments cited by later authors such as Diogenes Laërtius, Plutarch, and the Byzantine encyclopedia known as the Suda. These later sources sometimes refer to separate treatises by Hermippus on the Magi and on the Seven Sages, which may have been constituent parts of this larger compilation or related works. Despite its fragmentary survival, Hermippus's compilation was a significant source for subsequent biographers, most notably Diogenes Laërtius, and thus exerted a considerable influence on the ancient biographical tradition, even as some later critics questioned its reliance on anecdotal material. The work stands as a prime example of the Hellenistic scholarly endeavor to systematically catalog and compare wisdom figures from both Greek and non-Greek cultures.
+
 ## Text
 
 ### 3

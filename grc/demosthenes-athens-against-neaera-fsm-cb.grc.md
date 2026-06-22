@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-cb` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-neaera-fsm-cb)
 
+Against Neaera is a forensic oration from classical Athens, dating to approximately 340 BCE and preserved within the corpus of Demosthenes. The speech was delivered in a public lawsuit by Apollodorus, who prosecuted a woman named Neaera on the charge of falsely posing as an Athenian citizen, a grave offense under Athenian law. In its systematic argument across 102 sections, the oration contends that Neaera was a foreigner and a former enslaved courtesan, and that her partner, the politician Stephanus, had fraudulently registered their children as citizens. A notable and extended digression offers a vivid, if polemical, narrative of Neaera’s earlier life and career.
+
+The case originated in a bitter personal and political feud between the prosecutor, Apollodorus, and the defendant’s protector, Stephanus. Modern scholarship generally interprets the speech as a tactical instrument within this rivalry, wielded to exploit the stringent citizenship laws to undermine an opponent’s social and political legitimacy. As such, the text provides invaluable, though intensely partisan, evidence concerning Athenian social history, particularly the legal mechanisms and cultural attitudes surrounding marriage, legitimacy, and citizen status. Transmitted in its entirety as Speech 59 in the Demosthenic corpus, the oration’s stylistic and substantive characteristics have led many scholars to conclude it was composed not by Demosthenes himself, but by Apollodorus.
+
 ## Text
 
 ### Or59 1

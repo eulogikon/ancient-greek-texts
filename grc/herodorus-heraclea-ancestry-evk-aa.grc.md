@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `evk-aa` · [HTML page](https://eulogikon.org/works/herodorus-heraclea-ancestry-evk-aa)
 
+The Fragments on Heracles' Ancestry is a collection of 63 prose excerpts attributed to the mythographer Herodorus of Heraclea. These fragments do not survive in an original manuscript but are preserved through citations in later authors, most notably the compiler Athenaeus of Naucratis and the Byzantine patriarch Photius. Herodorus, active in the fourth century BCE, was known for systematically collecting and rationalizing myths, with this work focusing specifically on the genealogy and early narratives surrounding the hero Heracles. The content details Heracles's divine and mortal lineage, offers rationalized explanations for fantastical elements within his myths, records alternative local traditions concerning his conception and early exploits, and explores connections between Heraclean myths and the foundation stories of various Greek colonies, particularly that of Herodorus's native Heraclea Pontica. The work survives entirely through this indirect transmission, with the fragments compiled by modern scholars, most authoritatively by Felix Jacoby. Herodorus represents a significant figure in the tradition of Greek mythography; his fragments provide crucial evidence for regional variants of myths and exemplify the Classical and Hellenistic practice of systematizing legendary history, which subsequently influenced later antiquarian and biographical writing.
+
 ## Text
 
 ### t1-34

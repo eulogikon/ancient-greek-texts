@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bp` · [HTML page](https://eulogikon.org/works/lucian-samosata-true-histories-pfk-bp)
 
+True Histories is a satirical prose fiction written in Greek by the Syrian-born author Lucian of Samosata during the 2nd century CE. Presented as a first-person travelogue, the narrator claims to recount a journey beyond the known world, though he explicitly frames the entire narrative as a parody, declaring at the outset that his one true statement is that he is lying. The fantastical tale includes episodes such as being swept to the Moon by a whirlwind, witnessing a war between the inhabitants of the Moon and the Sun, visiting the Isle of the Blessed, and encountering bizarre hybrid creatures. The work is a direct satire of the far-fetched travel tales and sensationalist histories popular in Lucian's era. Structured in two books comprising 89 passages, it was written for the educated, Greek-speaking elite of the Roman Empire, who would appreciate its rhetorical humor and critique of literary credulity. By pushing implausible stories to absurd extremes, Lucian playfully explores the boundaries between fiction and falsehood. Modern scholars view True Histories as a foundational work of science fiction and fantastical voyage literature, whose themes of imaginary travel and social satire directly influenced later authors such as Jonathan Swift.
+
 ## Text
 
 ### VH 1 t

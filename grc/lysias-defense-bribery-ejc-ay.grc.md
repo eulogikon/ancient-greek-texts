@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ay` · [HTML page](https://eulogikon.org/works/lysias-defense-bribery-ejc-ay)
 
+The Unmarked Defense of Bribery is a forensic oration attributed to the Attic orator Lysias. The work is lost, surviving only in twenty-three fragmentary passages preserved through quotations in later ancient grammatical and lexicographical sources. Its title indicates it was composed for a client defending against a formal charge of bribery, with the term "unmarked" likely denoting its lack of explicit identification within the manuscript tradition. It is not included among the canonical thirty-four complete speeches attributed to Lysias. Based on its forensic genre and title, the speech would have constituted a legal defense against charges of corruption, addressing definitions of bribery, matters of intent, and the interpretation of evidence. It would have employed standard Athenian rhetorical strategies, including appeals to the defendant's character and public services, alongside attacks on the credibility of the accuser. As a fragmentary text, its primary significance lies in philological studies of Lysias's language and style, and it contributes to a broader understanding of the range of legal cases, particularly those concerning Athenian laws on public corruption, for which the orator composed speeches.
+
 ## Text
 
 ### Or21 t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mjy-aa` · [HTML page](https://eulogikon.org/works/aeschylus-alexandria-testimony-mjy-aa)
 
+No record of a work titled Testimony attributed to an author named Aeschylus of Alexandria exists in standard scholarly sources. The name suggests a later author distinct from the classical tragedian Aeschylus, potentially active in Hellenistic Alexandria, but neither this author nor this specific work is attested. The subject matter and nature of the work are entirely unknown, with the provided metadata describing it only as a collection consisting of a single passage. Its manuscript tradition and preservation status are undocumented, and the description implies a minor or fragmentary text, though this cannot be verified. The work is historically obscure, with no known influence or reception history in the extant literary record.
+
 ## Text
 
 ### 3b,488,T 1

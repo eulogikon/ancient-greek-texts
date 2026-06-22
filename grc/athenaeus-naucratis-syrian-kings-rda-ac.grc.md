@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rda-ac` · [HTML page](https://eulogikon.org/works/athenaeus-naucratis-syrian-kings-rda-ac)
 
+"On the Syrian Kings" is a historical excerpt preserved within the Deipnosophistae, or "The Learned Banqueters," a comprehensive Greek work composed by the scholar Athenaeus of Naucratis around the late second or early third century CE. The Deipnosophistae is structured as a record of an elaborate fictional symposium, during which a group of learned guests engage in wide-ranging discussions and quote extensively from a vast array of earlier authors, many of whose works are now lost. The passage concerning the Syrian Kings represents one such quotation, embedded within this larger framework. It likely contains anecdotes or historical details pertaining to the Seleucid dynasty, the Hellenistic rulers who governed the Near East following the death of Alexander the Great.
+
+The text survives not as an independent treatise but solely through its transmission as part of the Deipnosophistae. The complete work of Athenaeus is not fully extant; while substantial portions remain, some books are known only through a later medieval abridgment. Consequently, the preservation of this specific excerpt is entirely dependent on its inclusion within the surviving manuscripts or this epitome. Modern scholarship regards the Deipnosophistae primarily as an invaluable repository of fragments from lost Greek literature and historiography. Excerpts such as that on the Syrian Kings are therefore valued for conserving historical information that might otherwise be unknown, having been filtered through Athenaeus's original source and his editorial decision to include it in his encyclopedic compilation, which was designed to showcase erudition for a sophisticated, Greek-speaking audience in the Roman Empire.
+
 ## Text
 
 ### 2b,166,F 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gea-aa` · [HTML page](https://eulogikon.org/works/protagorides-daphne-festivals-gea-aa)
 
+On the Daphne Festivals is a lost antiquarian treatise by the historian Protagorides of Cyzicus, known only through fragments preserved by later authors. The work, which may also have been titled Apospasmata or "Extracts," was a detailed account of the elaborate festivals held at the sanctuary of Apollo at Daphne, near Antioch. These celebrations were famously magnified under the Seleucid king Antiochus IV Epiphanes in the mid-2nd century BCE as a demonstration of royal wealth and Hellenistic cultural patronage. The surviving fragments, cited primarily by the grammarian Athenaeus in his Deipnosophistae, describe various aspects of the festivities, including specific types of banquets, musical performances featuring instruments like the pandoura and aulos, and the ingenious artificial chilling of water for royal banquets. The work represents a specialized monograph within the tradition of Hellenistic antiquarian scholarship, providing a valuable, if fragmentary, glimpse into Seleucid court ceremonial and religious spectacle. Its transmission through encyclopedic compilers like Athenaeus and a subsequent notice in the Byzantine Suda lexicon exemplifies the process by which such detailed historical studies were condensed and preserved for later antiquity.
+
 ## Text
 
 ### t1-3

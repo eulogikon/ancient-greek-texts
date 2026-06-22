@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ba` · [HTML page](https://eulogikon.org/works/alchemist-i-creation-whole-rrg-ba)
 
+The ancient Greek alchemical treatise Creation Rather of the Whole, also known as The Making of the All, is attributed to an author designated by modern scholars as Alchemist I, a figure belonging to the Pseudo-Democritus corpus. It constitutes a core component of the foundational Greco-Egyptian work Physical and Mystical Things. This practical manual is primarily concerned with processes for the imitation of precious metals and the production of dyes. Its content details recipes for the transmutation and imitation of metals, with a particular focus on creating gold and silver, alongside methods for preparing dyes such as the prized purple. These technical procedures are framed within a theoretical understanding of matter derived from pre-Socratic philosophical traditions. The text survives as part of the larger Pseudo-Democritean collection in later Byzantine manuscripts, notably the tenth- or eleventh-century Marcianus graecus 299. Its influence extended through translations into Syriac and Arabic, where it informed Islamic alchemical practice before its eventual transmission to medieval Latin Europe. As a principal element of Physical and Mystical Things, this treatise was instrumental in establishing the literary genre and technical vocabulary of Western alchemy. Its concepts concerning the manipulation of matter were later elaborated by significant figures such as Zosimos of Panopolis and provided a foundational basis for subsequent medieval alchemical traditions.
+
 ## Text
 
 ### 1

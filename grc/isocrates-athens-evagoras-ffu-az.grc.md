@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-az` · [HTML page](https://eulogikon.org/works/isocrates-athens-evagoras-ffu-az)
 
+_Evagoras_ is a prose encomium composed by the Athenian orator Isocrates around 370–365 BCE. Addressed to Nicocles, the son and successor of King Evagoras I of Salamis in Cyprus, the work serves as a formal panegyric honoring the deceased monarch as an exemplary ruler. Isocrates methodically extols Evagoras's distinguished ancestry, his virtuous personal character, and his significant political accomplishments, with particular emphasis on his liberation of Salamis from Phoenician domination and his subsequent efforts to Hellenize the city-state. The oration, structured in forty-seven sections, culminates in counsel for Nicocles to follow his father's model of leadership.
+
+Composed shortly after the king's death, the encomium solidified Isocrates's political connection with the Cypriot dynasty. The work is noted for its literary innovation, as Isocrates deliberately employed artistic prose rather than the conventional poetic forms for praising a contemporary political figure, thereby asserting the capacity of rhetoric to confer enduring fame. It functioned both as personal instruction for the young prince and as a public demonstration of how eloquence could immortalize virtue and articulate political ideals. The complete text of _Evagoras_ has been preserved intact through the medieval manuscript tradition of Isocrates's works, with reliable copies extant from the tenth century CE onward.
+
 ## Text
 
 ### Evag t

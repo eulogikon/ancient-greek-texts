@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vrc-aa` · [HTML page](https://eulogikon.org/works/aristaenetus-love-beauty-vrc-aa)
 
+The Epistles (Ἐπιστολαί) is a collection of 61 fictional love letters attributed to an author named Aristaenetus, who wrote in ancient Greek. The work is not a real correspondence but a series of short, self-contained stories presented as letters, primarily focused on romantic and erotic themes like seduction, jealousy, and intrigue. Written in an archaizing style that imitates Classical Athenian Greek, the letters feature characters and settings drawn from the Classical and Hellenistic past. The collection is divided into two books.
+
+The date of composition is uncertain, but it is traditionally placed in the 5th or 6th century CE, a period of late antique culture that highly valued the imitation of classical models. Modern scholars have interpreted the work as a display of rhetorical skill and literary entertainment, likely intended for an educated, elite audience familiar with earlier Greek literature. The author's identity remains unclear, and some view "Aristaenetus" as a possible pseudonym.
+
+The complete text of 61 letters survives, transmitted through a single manuscript from the 10th or 11th century CE. Its survival through one witness makes the text somewhat precarious, but it has been preserved in its entirety.
+
 ## Text
 
 ### 1 t [t2]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `chg-aa` · [HTML page](https://eulogikon.org/works/heliodorus-athens-italian-wonders-chg-aa)
 
+Italian Wonders is a lost poetic work attributed to Heliodorus the Tragedian of Athens. It is known only from a single surviving verse fragment, which describes a specific geographical marvel in Italy. The fragment depicts a snowy, silvery landscape where a bitter spring emerges. Local inhabitants use its waters for distinct medicinal purposes: one bathes in it with eyes tightly closed to avoid the harmful liquid, while another, suffering from eye pain and swelling, finds relief by opening his eyes directly within the stream, allowing the disease to be washed away. The title suggests the work was a poetic catalogue or treatment of various remarkable natural phenomena associated with Italy. The author remains obscure, as the epithet "the Tragedian of Athens" does not correspond securely to any known playwright; he is distinct from the more famous Heliodorus of Emesa, author of the novel Aethiopica. The work survives only as this isolated fragment, transmitted through an unidentified secondary source, and represents a minor, otherwise unattested piece within the broader tradition of Greek didactic or descriptive poetry.
+
 ## Text
 
 ### unit_1

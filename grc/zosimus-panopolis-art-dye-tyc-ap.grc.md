@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ap` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-art-dye-tyc-ap)
 
+On That the Art Has Spoken About One Dye is a Greek alchemical treatise composed by Zosimus of Panopolis around 300 CE. The work examines the central alchemical doctrine of a singular, universal agent of transformation, termed the "one dye" or tincture. This agent was conceived as a power capable of perfecting all materials, most famously in the transmutation of base metals into gold. The text presents two main passages arguing that the diverse processes, substances, and cryptic descriptions found throughout the alchemical tradition ultimately refer to this one fundamental principle.
+
+Zosimus addressed his work to fellow initiates of what he described as a divine and sacred art, synthesizing practical knowledge from metallurgy and dyeing crafts with philosophical and mystical speculation. This synthesis typifies the late antique Greco-Egyptian intellectual milieu, where technical craft lore was frequently framed within narratives of spiritual purification and revelation. The treatise survives as part of Zosimus's extensive corpus, preserved in medieval Greek manuscripts such as the 10th- or 11th-century Marcianus graecus 299. As with much ancient technical literature, the text shows signs of scribal errors and its original full context is partially obscured, yet it remains a crucial document of early alchemical theory. As a foundational work by a figure often regarded as the father of alchemy, its ideas concerning a unified transformative agent exerted a lasting influence on subsequent alchemical traditions in the Byzantine, Islamic, and medieval Latin worlds.
+
 ## Text
 
 ### 2.170

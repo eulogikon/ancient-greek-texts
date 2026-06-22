@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mvm-aa` · [HTML page](https://eulogikon.org/works/boethus-tarsus-epigram-mvm-aa)
 
+The epigram attributed to Boethus of Tarsus is a lost work. No text, specific subject matter, or individual lines from it are recorded in surviving sources. It is not attested in any manuscript tradition or anthology, such as the Greek Anthology. The work is considered lost, with its attribution and any reported structure relying on unverified secondary references. Boethus of Tarsus was a Greek poet from Cilicia who wrote both epic poetry and epigrams, but his floruit remains uncertain. The complete loss of his epigrammatic output limits his significance to that of a minor figure in Hellenistic poetry with no documented later influence.
+
 ## Text
 
 ### book 248.1.1

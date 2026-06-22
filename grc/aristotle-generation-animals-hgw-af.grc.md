@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-af` · [HTML page](https://eulogikon.org/works/aristotle-generation-animals-hgw-af)
 
+On the Generation of Animals is a scientific treatise by the ancient Greek philosopher Aristotle, composed around 350 BCE. It functions as the explanatory companion to his more descriptive work, the History of Animals, seeking to elucidate the underlying causes of animal reproduction. The treatise is organized into five books. It opens by establishing a fundamental principle of generation: the male contributes the active, formative principle, while the female provides the passive, material substrate. Aristotle proceeds to detail the processes of embryonic development across a wide spectrum of life, including humans, viviparous quadrupeds, birds, and insects. The later sections investigate the causes of inherited characteristics and the development of various physical features, integrating these phenomena into his broader philosophical framework.
+
+The work survives in its entirety and stands as the culmination of Aristotle's empirical biological research, systematically applying his theories of causation—particularly the final cause, or purpose—to the natural world. Modern scholarship regards it as a foundational teleological argument, positing that animal generation is intrinsically directed toward the realization of a specific adult form. Its explanations rely on core Aristotelian concepts such as vital heat and the dynamic interaction of form and matter. Profoundly influential, On the Generation of Animals dominated biological thought for nearly two millennia, its authority sustained through extensive Greek, Arabic, and Latin manuscript traditions.
+
 ## Text
 
 ### GA 715a (t1)

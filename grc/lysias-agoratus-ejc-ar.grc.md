@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ejc-ar` · [HTML page](https://eulogikon.org/works/lysias-agoratus-ejc-ar)
 
+Against Agoratus is a forensic oration composed by the Athenian speechwriter Lysias around 400–399 BCE. Written for a client named Theozotides, the speech was delivered in an Athenian court as part of a legal denunciation, known as an endeixis, against a man named Agoratus. The central accusation is that Agoratus caused the deaths of the speaker’s relatives, including his brother-in-law Dionysodorus, by denouncing them to the oligarchic regime of the Thirty Tyrants, which ruled Athens following the city’s defeat in the Peloponnesian War. The speech argues that these acts constituted murder rather than lawful political informing, a crucial distinction in the aftermath of the civil war. Athens had recently restored its democracy under a general amnesty designed to foster reconciliation by shielding most citizens from prosecution for acts committed during the oligarchy. The prosecution’s case deliberately tested the boundaries of this amnesty, contending that Agoratus’s crimes fell outside its protection due to their malicious and homicidal nature. As a historical source, the oration provides a vivid and detailed narrative of the events during the reign of the Thirty Tyrants and illuminates the complex legal and social tensions of the postwar period. Transmitted through medieval manuscripts as part of the Lysianic corpus, the speech’s authenticity is generally accepted by modern scholars.
+
 ## Text
 
 ### Or13 t

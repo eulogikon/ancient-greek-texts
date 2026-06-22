@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bi` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bi)
 
+The Sacred Words Sixth is the concluding and most extensive oration within a set of six autobiographical works by the second-century CE Greek orator Aelius Aristides. Composed approximately between 170 and 171 CE, this prose hymn in Attic Greek is a sustained narrative of gratitude directed toward the healing deity Asclepius. It chronicles the author's protracted illness and the numerous divine dreams he experienced over many years, which dictated specific and often rigorous medical treatments, including prescribed bathing, fasting, and bloodletting. The work functions simultaneously as a personal testament to divine intervention and a public justification for his dependence on the god's guidance for both his physical well-being and his successful career in rhetoric.
+
+Written after a grave illness during Aristides' residence at the Asclepieion sanctuary in Pergamum, the oration is interpreted by modern scholarship as a multifaceted document. It serves as a votive offering to the god, a form of sacred propaganda promoting the cult of Asclepius, and a reflection of the intensely personal religiosity emblematic of the Second Sophistic period. The complete text survives intact through medieval manuscript tradition and is considered to be in an excellent state of preservation. It offers a singular, first-person perspective on ancient therapeutic practices, the interpretation of dreams, and the intricate connection between private piety and public professional life in the Roman Empire.
+
 ## Text
 
 ### 362

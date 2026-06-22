@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eds-ab` · [HTML page](https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-ab)
 
+Fragments of a Naval Comedy is a fragmentary Greek comedy attributed to a poet named Demetrius. The work consists of eight passages preserved within Athenaeus of Naucratis's Deipnosophistae, where they are cited for their descriptions of food, drink, and dining customs. The fragments imply a maritime setting involving sailors or merchants, but the complete plot, characters, and precise identity of the author among several known comic poets named Demetrius remain unclear. The extant fragments, quoted for their antiquarian interest, indicate the comedy's themes included maritime life and culture, feasting, drinking, and culinary practices, as well as social interaction and potential satire of nautical characters. The text survives exclusively as quotations in Athenaeus's compendium, dating from the late second to early third century CE, and is cataloged in modern editions of comic fragments. While the play's direct influence is untraceable, its preservation contributes to understanding the thematic diversity of Greek comedy and serves as a valuable source for studies of ancient social and maritime material culture.
+
 ## Text
 
 ### book 1.1

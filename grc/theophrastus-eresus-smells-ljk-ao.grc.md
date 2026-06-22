@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-ao` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-smells-ljk-ao)
 
+On Smells is a scientific treatise by the philosopher Theophrastus of Eresus, composed around 300 BCE. As the successor to Aristotle and head of the Lyceum in Athens, Theophrastus produced this work as part of his systematic investigation of natural phenomena. It is a concise, complete study that methodically explores the nature of odors. The text examines why some materials produce a smell while others do not, proposing material causes for scents—often linking them to processes involving heat and moisture—and investigates the relationship between the senses of smell and taste. The work also classifies odors and includes practical observations on the scents of various substances such as spices, woods, and foods.
+
+Structurally, the treatise is presented as a series of inquiries and arguments, characteristic of the Peripatetic school's empirical approach. In modern editions, it is divided into 68 chapters. The text has survived in full through medieval Greek manuscripts, with a key source being the 13th-century Codex Vaticanus Graecus 1302. Modern scholars interpret this work as an effort to extend and refine Aristotelian natural philosophy through detailed observation. It was likely written for the scholarly community of the Lyceum and educated contemporaries interested in the study of nature. The treatise remains a valuable primary source for understanding ancient theories of sensation and the development of early scientific thought.
+
 ## Text
 
 ### 1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-at` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-extensive-edition-tyc-at)
 
+On the Extensive Edition of the Work is an alchemical treatise written in Greek by Zosimus of Panopolis around 300 CE. Structured as a series of nine passages, the text interweaves concrete laboratory instructions with mystical and allegorical interpretations. The "Work" of its title refers to the central objective of alchemy, such as the creation of the philosopher's stone or the transmutation of metals. Zosimus frequently frames these technical processes within symbolic narratives involving visions, sacrifices, and dialogues, imbuing the material operations with spiritual significance.
+
+The treatise survives as part of the oldest extant corpus of Greek alchemical writings preserved in its original form, though much of Zosimus's prolific output is lost. The remaining text is found primarily in later Byzantine manuscripts, most notably the 10th- or 11th-century codex Marcianus graecus 299. Its influence is further attested by ancient translations into Syriac and Arabic. Modern scholarship often interprets Zosimus's alchemy as a holistic spiritual discipline, wherein the purification and transformation of substances in the laboratory mirror the parallel purification and liberation of the practitioner's soul. This approach reflects the unique synthesis of Egyptian craft technology, Gnostic thought, and early Christian mysticism characteristic of his intellectual milieu in Panopolis.
+
 ## Text
 
 ### 2.159.(1t)

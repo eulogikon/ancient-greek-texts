@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-ac` · [HTML page](https://eulogikon.org/works/themistius-embassy-constantinople-rome-rye-ac)
 
+The Embassy-Behalf of Constantinople Delivered in Rome is a panegyric oration by the philosopher and statesman Themistius. Delivered before the Roman emperor and Senate, it functioned as an official diplomatic mission to advocate for the status and interests of Constantinople. The speech artfully blends philosophical argument with imperial propaganda, praising the reigning emperor and the broader imperial system while promoting the ideal of harmony and parity between the old Rome and the new capital founded by Constantine. Themistius applies the Platonic concept of the philosopher-king to the emperor, presenting him as a ruler guided by wisdom and virtue. A central aim of the oration is the direct promotion of Constantinople's specific civic prestige and material needs, framing the city itself as the emperor's greatest honor and monument. The speech survives within the collected corpus of Themistius's orations, preserved due to his enduring reputation, with the modern critical edition established by Heinrich Schenkl and later revised by Glanville Downey and Albert Francis Norman. As a key document of fourth-century political thought, the oration illuminates contemporary imperial ideology, the rising political stature of Constantinople, and the synthesis of philosophical rhetoric with statecraft. Themistius's model of the philosopher-orator in service to the state proved profoundly influential for later Byzantine political culture.
+
 ## Text
 
 ### t 1

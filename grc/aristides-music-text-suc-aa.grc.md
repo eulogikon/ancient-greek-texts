@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `suc-aa` · [HTML page](https://eulogikon.org/works/aristides-music-text-suc-aa)
 
+On Music is a comprehensive treatise on ancient Greek music theory written in Attic Greek by Aristides Quintilianus, most likely during the late third or early fourth century CE. The work is systematically organized into three books comprising 103 distinct passages. The first book establishes the philosophical and ethical foundations of music, arguing for its profound effect on character formation and its central role in a proper education. The second book forms the technical core of the treatise, covering the mathematical principles of harmonics, scales, and intervals. The third book returns to applied topics, discussing musical pedagogy and music's integral role in poetry and theatrical performance.
+
+The treatise represents a major synthesis of earlier Greek musical thought, composed during the late Roman Imperial period. It draws upon and attempts to harmonize diverse intellectual traditions, including the ethical frameworks of Plato and Aristotle, the mathematical doctrines of the Pythagoreans, and the empirical observations of theorists such as Aristoxenus. Modern scholars regard the work as a prime example of late antique encyclopedism, likely intended as a textbook for educated elites and students within the liberal arts curriculum. It reflects the prevailing Neoplatonic intellectual climate, emphasizing music's intrinsic connection to cosmic order and its power for moral development.
+
+The complete text survives, transmitted primarily through a single manuscript from the sixteenth century. While the treatise itself is intact, the identity and life of its author, Aristides Quintilianus, remain otherwise obscure. The work stands as a crucial source for the modern understanding of ancient Greek music theory, as it preserves extensive doctrines, systems, and references from many earlier works that are now lost.
+
 ## Text
 
 ### 1 t

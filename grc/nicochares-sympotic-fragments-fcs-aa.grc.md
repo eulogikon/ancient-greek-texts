@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fcs-aa` · [HTML page](https://eulogikon.org/works/nicochares-sympotic-fragments-fcs-aa)
 
+The Sympotic Fragments of Nicochares constitute a collection of twenty-six brief passages attributed to the Athenian comic poet Nicochares, active during the late fifth and early fourth centuries BCE. As a practitioner of Old Comedy, the genre of Aristophanes, Nicochares composed verse plays characterized by satire and fantastical plots. These fragments do not originate from a single work entitled "Sympotic" but are modern scholarly compilations of quotations from his lost comedies that reference drinking parties, or symposia. They provide glimpses into standard comic themes such as feasting, revelry, political mockery, and the parody of mythological tales. The original plays are entirely lost, and these fragments survive only because they were quoted by later ancient authors, most prominently Athenaeus in his Deipnosophistae, who cited them for their unusual vocabulary or descriptions of custom. Consequently, the excerpts are short and devoid of narrative context, rendering full reconstruction of their source comedies impossible. Scholars value these remnants as important evidence for the broader landscape of Old Comedy beyond its few complete surviving plays, illustrating the enduring popularity of sympotic scenes and mythological burlesque in the genre.
+
 ## Text
 
 ### book 1.1

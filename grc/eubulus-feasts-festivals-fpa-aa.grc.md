@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fpa-aa` · [HTML page](https://eulogikon.org/works/eubulus-feasts-festivals-fpa-aa)
 
+The Fragments on Feasts and Festivals is a modern compilation of excerpts from the lost comedies of Eubulus, a prolific Athenian playwright of the 4th century BCE. Active during the period of Middle Comedy, Eubulus wrote numerous plays known today only through secondary quotations, with 375 short passages preserved by later authors. These fragments, focusing on themes of food, drink, and public celebration, are drawn primarily from citations in the Deipnosophistae of Athenaeus, who recorded them for their detailed descriptions of ancient dining and festival customs. They offer humorous glimpses into Athenian social and religious life, parodying mythological figures, depicting gluttony and drunkenness, and referencing real Athenian festivals such as the Dionysia. Modern scholars regard these pieces as crucial evidence for the character of Middle Comedy, which shifted away from the direct political satire of earlier Old Comedy toward a more generalized humor concerning domestic life, social types, and culinary excess. The complete plays of Eubulus have not survived, and knowledge of his work depends entirely on these quoted passages, which collectively underscore the cultural centrality of feasting and ritual in classical Athens.
+
 ## Text
 
 ### book 1-2-3.1

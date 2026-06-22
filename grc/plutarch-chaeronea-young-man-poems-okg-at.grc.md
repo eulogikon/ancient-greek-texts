@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-at` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-young-man-poems-okg-at)
 
+How a Young Man Should Listen to Poems is a prose essay by the Greek philosopher Plutarch, composed in the late 1st or early 2nd century CE. Presented as a mentor’s guidance, it offers a systematic method for the young to read classical poetry, particularly the epics of Homer and the works of the tragedians, in a manner that is both safe and morally beneficial. Plutarch acknowledges the central role of poetry in Greek education but warns that it often contains problematic elements, including depictions of immoral deities, philosophically false ideas, and excessive emotional displays that could corrupt impressionable minds. His treatise provides a series of critical reading strategies designed to neutralize these dangers and extract positive ethical instruction. These techniques include allegorical interpretation to uncover deeper meanings, historical contextualization to explain archaic customs, and the direct correction of poetic statements with sound philosophical principles.
+
+The work survives intact within Plutarch’s extensive collection of ethical treatises known as the Moralia. Its structure is episodic, comprising a sequence of concise discussions that allow the author to address a wide catalog of illustrative examples from the poetic canon. Modern scholarship views the essay as a pragmatic defense of the traditional literary curriculum against the more severe philosophical criticisms leveled by figures such as Plato. It is generally considered to have been written for the cultivated Greek elite living under Roman rule, with the aim of subordinating poetry to the higher authority of philosophy, thereby transforming it into a reliable instrument for character formation. The essay stands as a significant document within the long Hellenistic tradition of interpreting poetry for moral edification and remains an important text in the history of literary criticism and educational theory.
+
 ## Text
 
 ### t 1

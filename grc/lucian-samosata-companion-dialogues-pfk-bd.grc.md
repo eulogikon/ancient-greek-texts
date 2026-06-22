@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bd` · [HTML page](https://eulogikon.org/works/lucian-samosata-companion-dialogues-pfk-bd)
 
+The Companion Dialogues is a collection of sixty short prose dialogues by the second-century CE author Lucian of Samosata. Written in a refined Attic Greek, the work presents a series of dramatic vignettes depicting conversations almost exclusively between hetairai, or courtesans, and their clients, mothers, or servants. These brief exchanges humorously expose the social and economic underpinnings of their world, focusing on themes of financial negotiation, professional rivalry, jealousy, and fleeting reconciliations. As a complete and well-preserved text transmitted through the medieval manuscript tradition of Lucian's works, the dialogues exemplify the literary sophistication of the Second Sophistic period. They function as a pointed satire, drawing on the character types and scenarios of New Comedy to contrast the mercenary realities of the courtesans' lives with the lofty rhetorical ideals of Lucian's educated, Greek-speaking audience, who would have appreciated both the stylistic precision and the layered irony of the portraits.
+
 ## Text
 
 ### D Meretr t 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `buo-ac` · [HTML page](https://eulogikon.org/works/sophocles-oedipus-colonus-buo-ac)
 
+Oedipus at Colonus is a tragedy by the ancient Greek playwright Sophocles, written near the end of his life around 406–405 BCE and produced posthumously. It forms the final chapter of his Theban cycle, chronicling the last hours of the blind, exiled king Oedipus. The aged Oedipus, guided by his daughter Antigone, arrives as a suppliant at the sacred grove of the Eumenides in Colonus, a deme of Athens. There he seeks purification and a final resting place, setting in motion a plot that involves conflict with his son Polyneices, a protective intervention by the Athenian king Theseus, and Oedipus's mysterious, divinely ordained death, which transforms him into a protective hero for Athens. The drama is structured in verse, alternating between episodes of dialogue and choral odes, including a celebrated lyrical passage in praise of the Attic countryside.
+
+Composed during the final, desperate years of the Peloponnesian War, the play is deeply infused with patriotic themes, presenting Athens as a land of piety, justice, and sanctuary. The specific setting in Colonus, which was Sophocles's own birthplace, lends the work a personal resonance. It stands as a profound meditation on themes of suffering, guilt, divine justice, and ultimate redemption through death. The complete text survives within the corpus of Sophocles's seven extant plays, transmitted through medieval manuscripts derived from ancient copies.
+
 ## Text
 
 ### 1

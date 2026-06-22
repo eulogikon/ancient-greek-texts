@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cnk-aa` · [HTML page](https://eulogikon.org/works/amometus-distant-lands-cnk-aa)
 
+The work Fragments on Distant Lands by Amometus the Historian is a lost prose compilation of geographical and ethnographical material. Its title indicates it consisted of excerpts concerning remote regions, suggesting it was a specialized collection rather than a continuous narrative. The work is known only from its title and a handful of indirect references in later authors, who cite Amometus on various marvels. These references describe a people called the Attacorae living in a sheltered, temperate region, a voyage from Memphis to a fountain of Isis, and a Libyan city where priests could summon crocodiles by incantation. No direct quotations or extensive content from the compilation itself survive, and it has no manuscript tradition. The work belongs to the broader tradition of Greek geographical writing, which often blended traveler reports, earlier sources, and myth. Its fragmentary state typifies the many minor, non-canonical works of ancient scholarship that have not endured.
+
 ## Text
 
 ### 1.(t)

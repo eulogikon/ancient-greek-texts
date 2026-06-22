@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `djs-ab` · [HTML page](https://eulogikon.org/works/hermippus-comic-dialogues-djs-ab)
 
+The Fragments of Comic Dialogues constitutes the extant remains of the lost comedies of Hermippus, an Athenian poet of Old Comedy active in the fifth century BCE. A contemporary and rival of Aristophanes, Hermippus was a prolific author of approximately forty plays performed at Athenian festivals. The 131 surviving fragments, composed in Attic Greek verse, preserve snippets of dialogue, choral lyrics, and monologues from known works such as The Female Bakers, Persians, and Fates. These plays typically blended mythological parody with pointed social and political satire. The fragments survive not as complete texts but as quotations embedded in the works of later Greek authors and scholars, most notably Athenaeus of Naucratis, who cited them for their lexical peculiarities or their illustrative details about food, customs, and contemporary life. Active during the Peloponnesian War, Hermippus was renowned for his aggressive personal invective, particularly directed at the statesman Pericles. Modern scholarship values these fragments as vital evidence for the thematic diversity and intense political engagement of Old Comedy, illuminating its function as a form of critical public discourse within the Athenian democracy beyond the limited corpus of complete plays that survive.
+
 ## Text
 
 ### book 1.1

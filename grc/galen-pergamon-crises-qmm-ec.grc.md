@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ec` · [HTML page](https://eulogikon.org/works/galen-pergamon-crises-qmm-ec)
 
+_On Crises_ is a medical treatise by the physician Galen of Pergamon, composed in Greek during the late second century CE. The work presents a systematic analysis of the pivotal moment in a disease known as a crisis, the decisive turning point at which a patient's condition shifts either toward recovery or toward death. Galen methodically details the signs that herald such an event, categorizes different types of crises based on critical days within a fever cycle, and instructs physicians on how to prognosticate outcomes through careful observation of bodily discharges, such as sweat or urine. Written during his tenure in Rome, the treatise forms part of Galen's broader intellectual campaign to synthesize and defend the principles of Hippocratic medicine against competing medical sects. It advances his project of establishing a rational, theory-based medical system grounded in humoral theory, wherein precise prognosis depends on understanding the body's internal balances. The complete text, organized into 219 passages, appears intended for fellow practitioners and advanced students, serving to standardize clinical methodology. Profoundly influential, _On Crises_ was preserved through Greek manuscripts, translated into Arabic and later Latin, and remained a cornerstone of medical education in both the Islamic world and medieval Europe for more than a millennium.
+
 ## Text
 
 ### 9 550 (t)

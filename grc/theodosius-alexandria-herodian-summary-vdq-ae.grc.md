@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vdq-ae` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-herodian-summary-vdq-ae)
 
+The Summary of Herodian's Catholic Work is a concise Greek grammatical treatise authored by Theodosius of Alexandria, most likely during the fifth or sixth century CE. It functions as an epitome, a condensed digest of the enormous and authoritative Catholic Prosody composed by the second-century grammarian Aelius Herodianus. Herodian's original twenty-volume work, a comprehensive systemization of Greek accentuation and pronunciation, is now lost. Theodosius's Summary extracts and distills its complex technical rules into a more manageable handbook format, organized for clarity and reference. The treatise opens by defining prosody as a qualitative pitch applied to an articulate, written sound when a word is uttered, a quality agreed upon either by customary usage or by analogical principle. It proceeds with methodical, definition-based analysis, classifying sounds and their accents.
+
+Produced within the educational milieu of the late antique Eastern Roman Empire, the work addresses a central scholarly concern of the period: the preservation of classical Greek linguistic standards. It is interpreted by modern scholarship as a practical pedagogical tool, designed for advanced students and scholars who required a reliable and accessible guide to correct Greek prosody. Its core themes are linguistic preservation and effective pedagogy, emblematic of a broader Byzantine tradition of creating epitomes from authoritative classical texts to ensure their continued utility. The text of Theodosius's Summary survives in medieval manuscripts and served as a vital conduit for transmitting the doctrines of Herodian through the Byzantine era and into later periods. Alongside his other grammatical works, Theodosius himself became a standard authority within the tradition, ensuring that these foundational rules of Greek accentuation remained central to education for centuries.
+
 ## Text
 
 ### 202 (1t)

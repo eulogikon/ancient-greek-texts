@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tdi-aa` · [HTML page](https://eulogikon.org/works/john-can-siege-constantinople-tdi-aa)
 
+On the Siege of Constantinople is a brief eyewitness chronicle composed in Greek prose by John Cananus around 1422. The work provides a detailed, first-hand account of the unsuccessful Ottoman siege of Constantinople that occurred in the same year, an assault which lasted from June to September. It narrates the military events of the attack led by Sultan Murad II, focusing on the assaults against the city's formidable land walls and the defensive efforts organized by Emperor Manuel II Palaiologos and his son, the future John VIII. A defining characteristic of the narrative is its pronounced emphasis on divine intervention, most notably in its report of the miraculous appearance of the Virgin Mary upon the ramparts to protect the city's defenders. The text is structured into twelve sections and survives in its complete form within a small number of manuscripts, often found in collections of documents pertaining to the final era of the Byzantine Empire. Modern scholarship regards the chronicle as a valuable historical record of the event and a contemporary piece of religious propaganda, intended to bolster morale by affirming divine favor for the besieged capital during its last decades. It remains a crucial primary source for understanding the military and religious history of the late Byzantine period.
+
 ## Text
 
 ### [45]

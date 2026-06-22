@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-ag` · [HTML page](https://eulogikon.org/works/euclid-alexandria-divisions-figures-iaw-ag)
 
+_On Divisions of Figures_ is a lost geometric treatise attributed to Euclid of Alexandria. The work addresses the division of plane figures—specifically triangles, quadrilaterals, and circles—into parts that possess specified areas or stand in a given ratio to one another, with the divisions being effected by straight lines. The original Greek text has not survived, but the treatise was preserved through its transmission into the Islamic scholarly tradition. It is known primarily from a tenth-century Arabic translation and commentary by the mathematician al-Māhānī, which was subsequently translated into Latin in the thirteenth century by Gerard of Cremona under the title _De divisionibus figurum_.
+
+The content of the treatise is a systematic series of geometric propositions dedicated to solving these division problems. It methodically covers the division of triangles by lines drawn from a given point on one of their sides, the division of various types of quadrilaterals including trapezoids and parallelograms, and the division of circles. Each proposition typically states a specific problem, provides a constructive solution using only a straightedge and compass in the classical Greek manner, and then offers a formal proof demonstrating the correctness of the construction. These proofs rely fundamentally on the principles and theorems established in Euclid's own _Elements_.
+
+Modern scholarly reconstructions of the work, which usually identify a sequence of thirty-six propositions, are based on the extant Arabic and Latin manuscript traditions. The treatise represents a sophisticated and specialized application of core Euclidean geometry to a distinct class of constructive problems. Its preservation across linguistic and cultural boundaries underscores the text's perceived value, illustrating both the continuity of advanced Greek geometric methods within Islamic mathematics and their subsequent reintroduction to medieval Europe.
+
 ## Text
 
 ### 227 (1t)

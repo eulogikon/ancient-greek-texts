@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ap` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ap)
 
+The Grammatical Fragment is a treatise on Greek grammar attributed to an anonymous grammarian and known only by its title. The work survives in a highly fragmentary state, with its original scope and length remaining unknown. The extant text consists of three brief passages. These passages likely survive through indirect transmission, such as quotation by another author or within a damaged manuscript fragment, as no direct manuscript tradition for the work is documented. As a representative of a common Hellenistic educational genre, the fragment's existence attests to the widespread proliferation of grammatical studies during the period, though its specific content and influence cannot be assessed due to the paucity of the surviving material.
+
 ## Text
 
 ### [45]

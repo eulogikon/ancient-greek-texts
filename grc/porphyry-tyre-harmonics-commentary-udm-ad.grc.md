@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ad` · [HTML page](https://eulogikon.org/works/porphyry-tyre-harmonics-commentary-udm-ad)
 
+Porphyry of Tyre's Commentary on Ptolemy's Harmonics is a systematic exegesis of Claudius Ptolemy's treatise on ancient Greek music theory, composed in the third century CE. The work proceeds through 172 lemmata, each presenting a segment of Ptolemy's original text followed by Porphyry's detailed analysis. It addresses fundamental topics in harmonics, including the physics of sound, the definition of musical intervals, the structure of scales, and the mathematical ratios underlying consonant harmony. A principal value of the commentary lies in its extensive preservation of fragments from earlier music theorists, such as Aristoxenus and Didymus, whose own works are largely lost, thereby providing crucial insight into the development of the discipline.
+
+Porphyry frames his analysis by acknowledging the two dominant schools in harmonic science, the Pythagorean and the Aristoxenian, and positions Ptolemy's work as a critical synthesis. The commentary exemplifies the late antique scholarly practice of close textual interpretation while reflecting Porphyry's Neoplatonic philosophical context. Modern scholarship views the work as an attempt to mediate between Ptolemy's rigorously mathematical approach and other theoretical traditions, as well as to serve an advanced pedagogical function. The complete text survives primarily through a thirteenth-century manuscript and remains an essential resource for the history of ancient music theory and the reception of Ptolemaic science.
+
 ## Text
 
 ### 3 (1t)

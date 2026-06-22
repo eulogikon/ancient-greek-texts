@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qpe-aa` · [HTML page](https://eulogikon.org/works/pausanias-periegete-attic-names-qpe-aa)
 
+The Collection of Attic Names is a lexicographical work attributed to Pausanias, the second-century CE author best known for his Description of Greece. Unlike his celebrated travelogue, this text is a specialized compilation explaining the etymology and significance of personal names used in the Attic dialect. The work does not survive as an independent manuscript but is preserved fragmentarily through extensive citation; its content is known primarily from over 550 excerpts incorporated into the tenth-century Byzantine encyclopedia known as the Suda. These fragments demonstrate the work's focus on elucidating the origins and meanings of Attic names, often connecting them to relevant mythological or historical figures. This scholarly interest in onomastics and linguistic heritage aligns with the broader intellectual currents of the Second Sophistic period, which prized Attic purity and antiquarian knowledge. The fragments constitute a valuable source for the study of ancient Greek naming conventions and the Attic dialect, while also illustrating a significant, lesser-known dimension of Pausanias's literary activity beyond his periegetical writings. The relationship between this collection and another lexicographical work sometimes attributed to him, the Attic Lexicon, remains ambiguous.
+
 ## Text
 
 ### T 1

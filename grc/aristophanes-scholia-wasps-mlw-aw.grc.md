@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mlw-aw` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-wasps-mlw-aw)
 
+The Scholia on the Wasps constitutes an extensive ancient and medieval commentary on Aristophanes' comedy The Wasps. It is not a unified work by a single author but a vast compilation of approximately 2,188 individual explanatory notes, or scholia, assembled over more than a millennium. Written in Greek prose, these notes were copied into the margins of manuscripts of the play to aid later readers. They elucidate difficult vocabulary, identify historical figures and political satire, clarify mythological references, and record observations on the play's poetic structure and performance.
+
+The collection represents a layered tradition of scholarship. Its earliest components originated with Hellenistic scholars in Alexandria during the 3rd century BCE, who produced detailed philological and critical analyses. Over subsequent centuries, through the Roman and Byzantine periods, these learned notes were condensed, interwoven with simpler classroom explanations, and continuously transmitted. The compilation as it survives today is primarily a product of Byzantine scholarship intended for educational purposes, preserved chiefly in two key manuscripts from the 10th and the 12th or 13th centuries.
+
+Modern scholarship regards this compilation as a crucial, albeit fragmentary, window into ancient literary criticism and Athenian society. The scholia preserve unique information about 5th-century BCE Athens that would otherwise be lost and remain indispensable for the textual criticism and interpretation of Aristophanes' play. Furthermore, they serve as a primary source for the history of classical scholarship itself, documenting the evolving efforts of generations of readers to preserve and explain their cultural heritage.
+
 ## Text
 
 ### book 1

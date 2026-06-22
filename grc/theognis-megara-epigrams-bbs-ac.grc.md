@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bbs-ac` · [HTML page](https://eulogikon.org/works/theognis-megara-epigrams-bbs-ac)
 
+The Epigrams attributed to Theognis of Megara form a concise collection distinct from the more extensive and composite anthology known as the Theognidea. These short, self-contained poems are composed in elegiac couplets, a form the Byzantine Suda encyclopedia notes Theognis employed for both elegies and epigrams. The four surviving epigrams encapsulate the principal concerns of Theognis's poetry, which arose from the aristocratic strife of sixth-century BCE Megara. Their themes include a staunch defense of traditional aristocratic values against ascendant commoners, gnomic advice often directed to his young companion Cyrnus, laments over political exile and betrayal, and reflections suited for performance at symposia, or drinking parties. The text of these epigrams has been preserved within the broader, complex manuscript tradition of the Theognidea, a Byzantine compilation derived from earlier collections. Key witnesses include the tenth-century Codex Mutinensis and a thirteenth- or fourteenth-century manuscript in Paris. Theognis's poetry was highly regarded in antiquity, cited by philosophers such as Plato and Aristotle for its sententious wisdom, and remains an invaluable source for understanding the social history, politics, and culture of the archaic Greek aristocracy.
+
 ## Text
 
 ### book 40.1

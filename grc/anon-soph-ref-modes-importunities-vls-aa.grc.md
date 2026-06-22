@@ -20,6 +20,20 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vls-aa` · [HTML page](https://eulogikon.org/works/anon-soph-ref-modes-importunities-vls-aa)
 
+Overview The Σύντομος Παράδοσις τῶν τρόπων τῶν σοφιστικῶν (Concise Tradition of Modes of Sophistic Importunities) is an unattested anonymous treatise. Its title indicates a concise handbook categorizing the methods used by sophists, likely concerning fallacious arguments or refutations. The work is not documented within standard catalogs of ancient Greek philosophy.
+
+Content Inferred solely from its title, the treatise’s content would pertain to:
+
+The classification of fallacious argument forms.
+
+The analysis of sophistic rhetorical techniques.
+
+Methods for identifying and refuting deceptive reasoning.
+
+Transmission No manuscript tradition or modern edition is recorded. The work is absent from extant lists of Aristotelian commentaries and anonymous philosophical treatises.
+
+Significance The title suggests a post-Aristotelian, pedagogical context, possibly as a summary within the tradition of Aristotelian logic systematized in the Sophistical Refutations. However, its lack of attestation precludes confirmation of its place in the logical tradition.
+
 ## Text
 
 ### [45]

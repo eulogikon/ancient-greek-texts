@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `chg-ab` · [HTML page](https://eulogikon.org/works/heliodorus-athens-poisonous-spring-chg-ab)
 
+The Fragments on the Poisonous Spring is a lost tragedy attributed to Heliodorus the Tragedian of Athens. The work survives only as a title and a record of twenty-five fragments, with no extant description of its plot or characters. The title indicates the play’s central motif was likely a toxic water source, a common tragic device for murder, suicide, or divine punishment. Inferred solely from the title, potential thematic elements include the concept of pollution and toxicity, representing both physical and moral corruption. The work is fragmentary, preserved through indirect transmission; the twenty-five passages were likely quotations in the works of other ancient authors, though the specific sources are unrecorded. The author may be identifiable with the Heliodorus who was a member of the Alexandrian Pleiad of tragic poets during the reign of Ptolemy II Philadelphus in the third century BCE. If so, these fragments represent a trace of the Hellenistic tragic tradition, though the work’s loss and the author’s obscurity have precluded any identifiable influence on later literature.
+
 ## Text
 
 ### book 471.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jco-aa` · [HTML page](https://eulogikon.org/works/antagoras-rhodes-epigrams-jco-aa)
 
+The Epigrams of Antagoras of Rhodes constitute a scant but illustrative survival of early Hellenistic poetry. Active in the early 3rd century BCE and associated with the Macedonian court, Antagoras composed these short Greek verse pieces, of which only three complete examples are extant. Preserved not in a continuous manuscript but through quotations by later authors such as Athenaeus and Diogenes Laertius, the poems exemplify conventional epigrammatic themes. One is a pederastic poem expressing desire for a boy, another a dedicatory verse for a lyre offered to Aphrodite, and the third an epitaph for the poet's father. Scholars generally interpret these works as occasional poetry, composed for specific social functions like symposia or for actual inscription. Though highly fragmentary as a corpus, these epigrams offer a glimpse into the personal and diverse poetic culture of their era, which would later inform more comprehensive anthologies.
+
 ## Text
 
 ### book 1

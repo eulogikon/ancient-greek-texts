@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-solon-okg-fn)
 
+Plutarch’s Life of Solon forms one of the paired biographies in his Parallel Lives, where the Athenian lawgiver is compared with the Roman figure Poplicola. The work is a prose narrative that chronicles Solon’s life in a generally chronological fashion, weaving together anecdotes, detailed accounts of his political reforms, and quotations from his own poetry, which Plutarch treats as direct historical testimony. It opens by addressing a scholarly dispute over Solon’s paternal lineage before establishing his noble descent from the ancient line of Codrus. Plutarch notes a familial connection and an early, affectionate friendship between Solon and the future tyrant Peisistratus, a relationship that, according to the biographer, tempered their later political disagreements.
+
+The biography details Solon’s major legislative achievements, including his economic measure known as the seisachtheia, which cancelled debts and freed those enslaved for debt, and his constitutional reforms that reorganized Athenian society into property-based classes. Key episodes illustrate his character and wisdom, most notably his visit to the wealthy King Croesus of Lydia, where Solon articulates his philosophy on happiness and the uncertainty of life, and his firm resistance to seizing tyrannical power in Athens. Throughout the narrative, Plutarch integrates Solon’s own elegiac and iambic poetry to articulate the lawgiver’s political intentions and ethical outlook. The biography concludes with Solon’s self-imposed exile, undertaken to ensure the preservation of his laws by compelling the Athenians to abide by them in his absence.
+
+The text survives complete within the manuscript tradition of the Parallel Lives, transmitted through major medieval codices such as the 10th-century Codex Laurentianus 69.2. It was preserved continuously through the Byzantine period and into the Renaissance. Plutarch’s biography became the definitive portrait of Solon for later Western tradition. Its depiction of Solon as a philosophical moderate and a wise lawgiver whose reforms resolved civil strife profoundly influenced Renaissance humanists, Enlightenment political thought, and figures like the American Founding Fathers, who saw in him an archetypal model for creating a stable constitutional order.
+
 ## Text
 
 ### Sol t 1

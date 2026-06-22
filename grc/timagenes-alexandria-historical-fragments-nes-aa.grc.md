@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nes-aa` · [HTML page](https://eulogikon.org/works/timagenes-alexandria-historical-fragments-nes-aa)
 
+The Historical Fragments attributed to Timagenes of Alexandria consist of excerpts preserved by later authors from his lost major historical work, often cited as On Kings. These fragments, composed in Rome during the latter half of the 1st century BCE, offer a Hellenistic perspective on history and ethnography. The surviving passages primarily contain ethnographic accounts of various peoples, including detailed descriptions of the Gauls and Celts, alongside anecdotes concerning prominent Roman figures. These anecdotes often carry a critical tone, particularly regarding Augustus, reflecting the author's own documented conflict with the emperor. The work survives entirely through indirect transmission, quoted by later Greek and Roman historians such as Strabo, Pompeius Trogus, and Plutarch. Modern collections of these fragments, notably in Die Fragmente der griechischen Historiker, compile these scattered references. Timagenes provided crucial source material on Celtic ethnography for subsequent historians like Strabo, and his remains represent a significant example of Hellenistic historiography produced within, and frequently offering a critical view of, the early Roman imperial milieu.
+
 ## Text
 
 ### 1

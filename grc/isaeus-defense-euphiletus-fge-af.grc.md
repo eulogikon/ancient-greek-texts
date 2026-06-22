@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-af` · [HTML page](https://eulogikon.org/works/isaeus-defense-euphiletus-fge-af)
 
+In Defense of Euphiletus is a forensic oration composed by the Athenian logographer Isaeus for a client of the same name who stood trial for homicide. The speech argues that the killing was a lawful act, as Euphiletus claimed to have discovered the victim, Eratosthenes, in the act of adultery with his wife. Athenian law, specifically that administered by the court of the Areopagus, permitted a husband to kill an adulterer caught in flagrante delicto within his own home. The oration meticulously constructs this narrative, cites the relevant statute, and calls upon witnesses to corroborate the defendant's account of events as a justifiable defense of his household's honor.
+
+Intended for delivery before an Athenian jury in the fourth century BCE, the speech exemplifies the period's legal rhetoric and the profound social significance attached to the integrity of the oikos, or household. The surviving text, which is fragmentary and breaks off abruptly after eleven sections, is preserved within the manuscript tradition of the Attic orators. Despite its incomplete state, it remains a vital source for historians, providing crucial insight into Athenian laws concerning homicide and adultery, as well as the sophisticated persuasive techniques employed in the city's democratic courts.
+
 ## Text
 
 ### Or12 1

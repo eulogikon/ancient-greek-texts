@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oss-aa` · [HTML page](https://eulogikon.org/works/pseudo-phocylides-sentences-oss-aa)
 
+The Sentences of Pseudo-Phocylides is a pseudepigraphic Greek didactic poem comprising 230 hexameter verses, traditionally organized into 41 ethical maxims. Though it bears the name of the archaic poet Phocylides of Miletus, modern scholarship attributes it to an anonymous author, most likely a Hellenistic Jew writing between the 1st century BCE and the 1st century CE. The work presents a comprehensive moral code, systematically addressing piety, justice, social and familial duties, sexual conduct, and economic fairness. Its content is fundamentally derived from Jewish wisdom tradition and the Septuagint, yet it conspicuously omits any explicit references to Jewish law, ritual, or sacred history. This deliberate universalism is interpreted as a strategic effort to render core Jewish ethical teachings palatable and respectable to a broader Greek-speaking audience, including both Diaspora Jews and interested Gentiles. Preserved in full through medieval manuscripts, the poem enjoyed wide circulation for centuries under its false attribution. It was frequently quoted by early Christian writers and employed as an educational text, its Jewish origins remaining unrecognized. Today it is studied as a significant artifact of cultural interchange in the ancient Mediterranean, exemplifying the literary adaptation of religious wisdom for a cosmopolitan Hellenistic milieu.
+
 ## Text
 
 ### 1

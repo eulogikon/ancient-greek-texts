@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ao` · [HTML page](https://eulogikon.org/works/porphyry-tyre-timaeus-commentary-udm-ao)
 
+Porphyry of Tyre’s Commentary on Plato’s Timaeus is a lost philosophical treatise from the late third century CE. Originally composed in Greek, the work provided a detailed exegesis of 73 selected passages from Plato’s cosmological dialogue. Its scope encompassed core themes of the Timaeus, including the nature of the soul, the function of the divine Demiurge, and the physical constitution of the cosmos. The commentary survives only in fragments, preserved through quotations by later philosophers such as Proclus and John Philoponus in their own fifth- and sixth-century commentaries on the same text. Modern scholarship interprets Porphyry’s work as a characteristically Neoplatonic project, seeking to harmonize Platonic doctrine with earlier Aristotelian and Middle Platonic thought. Written for an advanced philosophical readership engaged in the structured study of Plato, the commentary was highly influential despite its fragmentary state. It served as a major reference point and a subject of ongoing debate for subsequent Neoplatonists, significantly shaping the medieval and Renaissance understanding of Plato’s cosmology.
+
 ## Text
 
 ### 1 t

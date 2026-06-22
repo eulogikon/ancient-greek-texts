@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fza-aa` · [HTML page](https://eulogikon.org/works/aethlius-samos-seasons-fza-aa)
 
+_On the Seasons of Samos_ is a lost work of Samian local history, or horography, attributed to Aethlius of Samos. It is also known by the alternative title _Apospasmata_, meaning "Extracts." The work survives only through a handful of fragments preserved by later authors, primarily Clement of Alexandria and Athenaeus. These fragments indicate the text treated the island's mythological foundations, early history, and religious institutions. One passage, cited by Clement, discusses the cult statue of Hera on Samos, noting it was originally a simple plank of wood before being fashioned into an anthropomorphic figure during the archonship of Procles. Another fragment, preserved by Athenaeus, records a paradoxical claim about the island's fertility, stating that figs, grapes, medlars, apples, and roses were produced twice in a single year. The work's title likely refers to seasonal festivals or a chronological account of the Samian ritual year, encompassing themes such as the mythological origin of the island's ancient name Parthenia, the cult of Hera, and local festivals like the Tonaia. As a representative fragment of early Greek local historiography, its primary significance lies in preserving details of Samian myth and cultic practice, contributing to the pool of antiquarian knowledge utilized by later Greek and Roman authors.
+
 ## Text
 
 ### t1-4

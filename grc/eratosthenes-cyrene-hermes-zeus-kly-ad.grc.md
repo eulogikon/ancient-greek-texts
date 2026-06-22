@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kly-ad` · [HTML page](https://eulogikon.org/works/eratosthenes-cyrene-hermes-zeus-kly-ad)
 
+The Fragments on Hermes and Zeus is a modern designation for a collection of excerpts concerning the mythological and astronomical associations of the gods Hermes and Zeus. These fragments are attributed to the Hellenistic scholar Eratosthenes of Cyrene, who served as head of the Library of Alexandria. While no ancient source directly attests a standalone treatise by this title, the fragments are believed to derive from Eratosthenes’s broader scholarly output on mythology, chronology, and astronomy. His known works in these areas include the systematic chronology Chronographiai and an astronomical poem titled Hermes, which treated the planet Mercury. The content of these specific fragments likely involved the compilation and comparison of variant myths, their placement within a historical framework, and possibly rationalizing or allegorical interpretations, reflecting Eratosthenes’s characteristically encyclopedic and systematizing approach to knowledge. Like most of his corpus, these fragments survive only through indirect transmission, potentially preserved in the citations of later authors such as Strabo or compilers like John Stobaeus. Their significance lies in their representation of the Hellenistic scholarly endeavor to organize and analyze mythological tradition, an effort that profoundly influenced subsequent Greek and Roman scholarship.
+
 ## Text
 
 ### 399

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fcs-ac` · [HTML page](https://eulogikon.org/works/nicochares-nereids-fragments-fcs-ac)
 
+The Nereids is a lost comedy by the Athenian poet Nicochares, a contemporary of Aristophanes active in the late fifth and early fourth centuries BCE. As the title indicates, the chorus was composed of the sea-nymphs, suggesting a plot involving mythological parody or a maritime setting. The work survives only in six brief fragments preserved by later authors such as Athenaeus and the lexicographers Pollux and Herodian. These fragments, though scant, reveal characteristic comic themes. The mythological framework of the chorus points to the parody of stories involving sea deities. One fragment mentions a kollyrion, a type of cake or loaf, reflecting the genre's enduring interest in food and consumption. Other fragments contain rare or compound words, such as tragelaphos, meaning goat-stag, which were noted by ancient grammarians for their humorous linguistic play. A reference to an everyday object like a lekythion, or oil flask, suggests comic business with domestic items. The play has no independent manuscript tradition and exists solely as quotations within the prose works of later compilers, primarily Athenaeus’s Deipnosophistae and various lexicographical collections. As a fragmentary work of Old Comedy, The Nereids contributes to the understanding of the genre's scope beyond the fully preserved plays of Aristophanes. The fragments are valuable for philological study of Attic comic diction and for reconstructing the broader repertoire of the Athenian dramatic festivals.
+
 ## Text
 
 ### book 1

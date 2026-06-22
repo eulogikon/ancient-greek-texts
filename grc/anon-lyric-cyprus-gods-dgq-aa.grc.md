@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dgq-aa` · [HTML page](https://eulogikon.org/works/anon-lyric-cyprus-gods-dgq-aa)
 
+_Fragments on Cyprus and the Gods_ is a modern scholarly compilation of 281 fragmentary passages drawn from the corpus of ancient Greek lyric poetry. The collection is thematically unified by its focus on the island of Cyprus and the deities associated with it, particularly Aphrodite, who was venerated as Cypris and whose major cult center was at Paphos. The poetic excerpts are of anonymous authorship and do not constitute a single, original work; they are instead gathered from a variety of disparate sources where they have been preserved, such as quotations by later authors, scholia, and papyrus remains. The content of these fragments likely pertains to the myths, birth, and worship of Aphrodite, descriptions of Cypriot geography and sacred sites, and the rituals and cult practices for various gods connected to the island. Their present form as a numbered collection is entirely the product of contemporary editorial scholarship, which identifies and organizes such scattered references into a coherent thematic corpus. While the influence of this specific modern compilation is not historically documented, the individual fragments themselves are of significant value. They contribute to the ongoing scholarly reconstruction of Greek lyric poetry and regional religious practice, offering important evidence for the dissemination of myths and the poetic treatment of divine figures central to Cypriot culture.
+
 ## Text
 
 ### book 1.1

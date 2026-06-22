@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kau-ab` · [HTML page](https://eulogikon.org/works/dionysius-mytilene-argonautica-kau-ab)
 
+The Argonautic Genealogical Fragments is a reconstructed collection of thirty-six genealogical passages attributed to the Hellenistic mythographer Dionysius Scytobrachion of Mytilene. These fragments survive not as an independent work but exclusively as citations within the mythological compendium known as the Bibliotheca of Pseudo-Apollodorus, compiled in the first or second century CE. The later author quotes Dionysius specifically for alternative or supplementary genealogical information related to the heroes of the Argonautic expedition. The content consists of discrete notes offering variant parentage for figures within the cycle; one example identifies the Argonaut Aethalides as the son of Hermes and Eupolemeia, daughter of Myrmidon, diverging from more common traditions. There is no separate manuscript tradition for Dionysius's work. Its transmission is entirely dependent on its incorporation into Pseudo-Apollodorus's influential handbook, from which modern scholars have extracted and collected the fragments. These excerpts exemplify the Hellenistic scholarly impulse to systematize mythological variants, and their preservation in a major reference text ensured that these genealogical alternatives entered the mainstream of classical mythological knowledge, illustrating the period's encyclopedic approach to mythography.
+
 ## Text
 
 ### 1a,32,F 1a

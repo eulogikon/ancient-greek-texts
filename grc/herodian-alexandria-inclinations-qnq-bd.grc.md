@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bd` · [HTML page](https://eulogikon.org/works/herodian-alexandria-inclinations-qnq-bd)
 
+_On Inclinations_ is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work, now lost in its original form and surviving only in fragments quoted by later authors, provides a systematic analysis of Greek accentuation, specifically concerning enclitic words. Herodian defines and distinguishes between three key concepts: the "inclined" word, which carries an acute accent on its final syllable but shifts to a grave accent within a sentence; the "enclitic" word, which lacks its own accent and causes the acute accent of the preceding word to shift; and the "synenclitic" construction, involving a sequence of two or more such enclitic words. The treatise methodically catalogs these linguistic phenomena, illustrating its rules with examples drawn from Homeric verse. Its preservation solely through quotations in later grammatical compilations, such as the _Etymologicum Magnum_ and various Byzantine scholia, attests to its authoritative status. The work exemplifies Herodian's precise, rule-based approach to grammar, which formed the foundation for much subsequent Greek and Byzantine linguistic scholarship.
+
 ## Text
 
 ### 3,1 551 (1t)

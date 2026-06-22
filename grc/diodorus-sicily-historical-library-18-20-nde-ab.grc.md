@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nde-ab` · [HTML page](https://eulogikon.org/works/diodorus-sicily-historical-library-18-20-nde-ab)
 
+The Historical Library is a forty-book universal history composed in Koine Greek by the historian Diodorus Siculus, written between approximately 60 and 30 BCE. Books 18 through 20 form a critical section of the work, chronicling the tumultuous early Hellenistic period from the death of Alexander the Great in 323 BCE to around 302 BCE. This narrative details the complex and violent wars waged by Alexander's successors, the Diadochi, for control of his fragmented empire. Key events covered include the initial settlement at Babylon, the military campaigns of Eumenes of Cardia, the epic siege of Rhodes by Demetrius Poliorcetes, and the climactic Battle of Ipsus. True to Diodorus's broader design, these books also integrate concurrent historical events from Sicily and Italy, reflecting the author's own background.
+
+These three books are among the best-preserved portions of Diodorus's vast history for this era, though the text still contains significant lacunae. The surviving account is a composite, relying on a combination of continuous narrative and fragments preserved in later Byzantine excerpt collections. Diodorus's stated purpose was to compile a single, useful historical work for practical and moral instruction, a theme evident in his frequent reflections on the power of fortune in human affairs. For modern historians, his narrative is uniquely valuable as the only continuous ancient account to survive for the chaotic decades following Alexander's death. While his method was largely derivative, synthesizing earlier and now-lost sources, the Historical Library provides the indispensable chronological and factual framework for understanding the political and military struggles that shaped the Hellenistic world. Despite criticisms of its lack of originality, it remains an essential source for the period of the Diadochi.
+
 ## Text
 
 ### 1 p 1 (1t)

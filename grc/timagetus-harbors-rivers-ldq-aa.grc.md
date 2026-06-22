@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ldq-aa` · [HTML page](https://eulogikon.org/works/timagetus-harbors-rivers-ldq-aa)
 
+The geographical work On Harbors and Rivers, attributed to the historian Timagetus, survives only in fragments. Preserved under the title Excerpts, seven passages are collected in modern editions such as the Fragmenta Historicorum Graecorum. The content is descriptive, focusing on specific harbors and rivers, placing it within the periplous or circumnavigation genre of historical geography. The extant fragments indicate a systematic focus on descriptive geography, providing factual accounts of physical locations. These include details on nautical features such as harbor entrances, safety, and landmarks, as well as hydrographical descriptions of river courses and the agricultural fertility of their valleys. Local landmarks, such as a temple of Apollo overlooking the harbor of Chios, are also noted.
+
+The work is known exclusively through indirect transmission. The seven fragments are quoted by later authors, primarily the lexicographer Hesychius of Miletus in the sixth century CE and the Byzantine scholar Eustathius of Thessalonica in the twelfth century CE. The modern descriptive title is based on the fragment content, as the original title is lost. While its direct influence is untraceable, the fragments preserve specific geographical data valued by later Greek and Byzantine scholars. It represents a lost source within the tradition of ancient geographical writing and provides isolated data points for historical topography.
+
 ## Text
 
 ### t1a-6

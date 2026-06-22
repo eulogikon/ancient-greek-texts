@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ayq-ac` · [HTML page](https://eulogikon.org/works/seven-sages-testimonies-ayq-ac)
 
+The Testimonies of the Seven Sages of Greece constitute a collection of pithy, ethical pronouncements attributed to a legendary group of early Greek statesmen and thinkers from the seventh and sixth centuries BCE. The canonical membership of this group varied across ancient sources, but it traditionally included such renowned figures as Thales of Miletus, Solon of Athens, and Pittacus of Mytilene, who were celebrated less as systematic philosophers than as practical lawmakers and counselors. Their aphorisms, which include the famous Delphic maxims "Know thyself" and "Nothing in excess," provide concise guidance on moderation, self-awareness, and prudent statecraft.
+
+The work is not a unified text authored by the sages themselves but a later compilation of sayings that originated in an oral tradition. No original manuscript of their collected wisdom exists; the testimonies are preserved entirely through quotations and discussions in the works of later authors. The most significant source is Diogenes Laertius's Lives of Eminent Philosophers from the third century CE, which records both the sayings and the considerable ancient debate surrounding the sages' identities and the authenticity of their attributed wisdom. Modern scholarship regards these testimonies as a foundational element of early Greek ethical thought, representing a Panhellenic tradition of practical wisdom that exerted a profound influence on later philosophical development, notably on the moral inquiries of Socrates and Plato. The form and limited extent of the collection as known today are entirely dependent on these later anthologies and selective quotations.
+
 ## Text
 
 ### 1

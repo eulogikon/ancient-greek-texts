@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ci` · [HTML page](https://eulogikon.org/works/galen-pergamon-dissection-nerves-qmm-ci)
 
+On the Dissection of Nerves is an anatomical treatise by the Greek physician Galen of Pergamon, written in the 2nd century CE. The work provides a systematic and detailed guide to the dissection of nerves, tracing their pathways from their origins in the brain and spinal cord to their peripheral branches throughout the body. Galen opens by asserting the universal medical agreement that no part of an animal possesses voluntary motion or sensation without a nerve, and that severing a nerve immediately paralyzes and desensitizes the corresponding body part. He then proceeds to describe the anatomical evidence for the brain as the source of the nerves, meticulously detailing structures such as the anterior ventricles of the brain and the notable nerves emerging from it to serve the eyes.
+
+The treatise functions as a practical manual for anatomical demonstration, reinforcing the foundational role of anatomy in medical practice. A central theme is the distinction between sensory and motor nerves, which Galen attempts to base on physical characteristics like texture, though this specific criterion was later proven incorrect. The work methodically localizes function within specific nerve pathways and firmly establishes the brain as the command center of the nervous system. Furthermore, Galen uses these anatomical discoveries to provide empirical support for his physiological theories, including the doctrine of psychic pneuma, the vital spirit believed to travel through the nerves.
+
+The original Greek text was preserved through Byzantine and Arabic scholarly traditions. It was translated into Arabic in the 9th century, often attributed to Hunayn ibn Ishaq or his circle, and later into Latin. This transmission ensured the treatise's profound influence into the Renaissance. The work established the canonical Galenic model of neurology for over a millennium, significantly impacting major Islamic physicians such as al-Razi and Ibn Sina. It cemented the brain-centered understanding of the nervous system and, despite its errors, prefigured later correct discoveries about neural function. Its authority in anatomical teaching remained largely unchallenged until the fundamental revisions of the 16th century.
+
 ## Text
 
 ### 2 831 (t1)

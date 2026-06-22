@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vjk-ab` · [HTML page](https://eulogikon.org/works/hippiatric-anon-berlin-veterinary-vjk-ab)
 
+The Appendices to the Berlin Veterinary Texts is an anonymous Greek compilation of ten passages on equine medicine. It belongs to the corpus of late antique and Byzantine hippiatric literature, a practical and encyclopedic tradition that excerpted and reorganized material from earlier authorities to serve the needs of cavalry, veterinarians, and landowners. As a shorter collection, it is categorized among the minor works within this broader textual tradition. The content, typical of the genre, addresses the diagnosis and treatment of equine diseases and injuries, focusing on the practical care of horses as military, agricultural, and sporting assets. The text survives as part of the larger manuscript tradition of Greek hippiatric writings, preserved within major collections such as the Corpus Hippiatricorum Graecorum. Its transmission is characteristic of technical handbooks, involving copying and recombination in Byzantine and later manuscripts dedicated to agricultural knowledge. While its direct influence is subsumed within the broader hippiatric tradition, the work exemplifies the compilation practices that preserved ancient veterinary knowledge. Collectively, these texts shaped animal husbandry practices from the Byzantine and Arab worlds into early modern Europe.
+
 ## Text
 
 ### 1 (t1)

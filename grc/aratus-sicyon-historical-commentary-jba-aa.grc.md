@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jba-aa` · [HTML page](https://eulogikon.org/works/aratus-sicyon-historical-commentary-jba-aa)
 
+The Historical Commentary Fragments are a collection of seven prose passages in Koine Greek, believed to be excerpts from a larger historical work by Aratus of Sicyon, a leading statesman of the Achaean League in the third century BCE. These fragments, which constitute the only surviving remnants of Aratus's original text, focus on the political and military history of his era. They detail events such as the liberation of his hometown from tyranny and the complex rivalries between the Achaean League, Sparta, and Macedonia, offering a firsthand perspective on the careers of key figures including Aratus himself and his Spartan rival, King Cleomenes III. The complete work is lost, and its original title is unknown. The fragments are preserved not through an independent manuscript tradition but because they were quoted by later ancient historians, transmitted primarily through the biographer Plutarch, who used Aratus’s memoirs as a major source for his Life of Aratus, and through the historian Polybius. Modern scholars interpret the work as a form of political memoir, written to justify Aratus's own controversial policies and to advocate for the Achaean League as a model for Greek federalism. It is often viewed as a personal defense of his pragmatic, and sometimes criticized, political decisions, including his strategic alliance with Macedonia against Sparta.
+
 ## Text
 
 ### t1-6

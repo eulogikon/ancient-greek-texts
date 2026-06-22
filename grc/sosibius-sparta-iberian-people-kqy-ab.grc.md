@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kqy-ab` · [HTML page](https://eulogikon.org/works/sosibius-sparta-iberian-people-kqy-ab)
 
+On the Iberian People, attributed to the Spartan grammarian Sosibius, is not a standalone monograph but an excerpt, or apospasma. Its surviving content consists of two brief lexicographical passages preserved by later authors, focusing on the interpretation of obscure words. The fragments exhibit the grammatical and antiquarian interests typical of Hellenistic scholarship. One discusses the term ibides, a type of bird, and its possible connection to the Iberian people. The other provides a gloss on tragodema, explaining it as a type of Spartan cake. The work is entirely lost except for these fragments, which are quoted by Athenaeus of Naucratis in his Deipnosophistae. Sosibius’s writings survive solely through such indirect transmission in later grammatical compilations. While narrow in scope, the fragments exemplify the Hellenistic scholarly project of cataloging and explaining rare terms and customs. Sosibius is cited by later grammarians as an authority on Spartan language and culture, and his glosses provide minor but valuable data for understanding Spartan social practices and the history of ancient scholarship.
+
 ## Text
 
 ### 6bis.(l1)

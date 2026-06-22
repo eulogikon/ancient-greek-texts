@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-am` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-paeans-brw-am)
 
+The Paeans are a collection of choral hymns by the 5th-century BCE Greek poet Bacchylides, composed for public performance at religious festivals. Primarily addressed to Apollo, these works blend divine praise with mythological narrative and prayers for divine favor. The extant corpus survives only in fragments, preserved in twenty passages recovered from a single papyrus discovered in Egypt in 1896. Written in a literary Doric dialect intermixed with other Greek linguistic elements, their typical structure comprises an invocation, a central narrative section, and a concluding prayer. Scholars interpret the hymns as serving a dual function: honoring the gods while simultaneously celebrating the civic pride or military accomplishments of the commissioning communities. One substantial fragment, for instance, is believed to commemorate an Athenian cavalry victory, possibly associated with the Battle of Marathon. The survival of these texts is owed entirely to the papyrus discovery, as the works were lost after antiquity and do not belong to a continuous manuscript tradition. Their rediscovery has provided significant insight into the performance culture and religious poetry of classical Greece.
+
 ## Text
 
 ### book 1.1

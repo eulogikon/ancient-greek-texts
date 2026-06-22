@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gli-ab` · [HTML page](https://eulogikon.org/works/nicolaus-comic-parasites-tantalus-gli-ab)
 
+On Parasites and Tantalus, a comic work by the poet Nicolaus, survives only in a collection of thirty-one brief fragments. These excerpts, often comprising single words or short lines, were preserved not for their literary content but for their lexical or proverbial interest, being cited by later grammarians such as Hesychius of Alexandria and Herodian. The work’s title, which translates as "Extract," may indicate it was either a short farce or a section excised from a larger comedy. Its unusual subject matter, which pairs the mythological figure of Tantalus with the standard comic stock character of the parasite, suggests it was a form of mythological burlesque. The surviving fragments imply the play engaged with typical comic themes, including the social dynamics of the flatterer who lives at another's expense and a parodic treatment of the Tantalus myth, often employing wordplay and rare vocabulary. The work has no independent manuscript tradition and is transmitted solely through the citations of Imperial Roman scholars. Its fragments are authoritatively compiled in the modern edition Poetae Comici Graeci. While the play’s direct literary influence is untraceable, these fragments contribute to the study of the Attic comic lexicon and exemplify the enduring use of mythological parody in fourth-century BCE comedy, representing the vast number of non-extant plays known only through grammatical sources.
+
 ## Text
 
 ### book 1.1

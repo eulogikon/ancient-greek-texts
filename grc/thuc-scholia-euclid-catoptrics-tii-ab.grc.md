@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tii-ab` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-catoptrics-tii-ab)
 
+The Scholia on Euclid's Catoptrics is a verse commentary consisting of sixty-two passages that provide explanatory notes on Euclid's foundational treatise on the geometry of mirrors and reflection. Attributed to the grammarian Thucydides Scholia, the work elucidates the mathematical theories of vision, image formation, and the optical properties of plane, convex, and concave mirrors presented in the source text. It engages directly with Euclid's technical terminology and core propositions concerning the geometry of visual rays and the laws governing perceived images. The commentary's use of verse for explicating mathematical content represents an unusual didactic approach within the Greek scholarly tradition, likely intended to serve a mnemonic function for students. As with most scholia, these notes were presumably transmitted in the margins of manuscripts of Euclid's primary work, which itself survives in Greek codices, the oldest of which date from the tenth century. The survival of these passages as a coherent set indicates they were copied as a distinct unit of annotation. While the direct influence of this specific commentary is not documented, it forms part of the essential scholiastic tradition that preserved and mediated the interpretation of classical scientific texts within Byzantine education, where Euclid's Catoptrics was a standard component of the mathematical curriculum.
+
 ## Text
 
 ### book 1

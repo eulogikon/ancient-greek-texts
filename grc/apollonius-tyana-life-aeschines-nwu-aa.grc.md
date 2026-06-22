@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nwu-aa` · [HTML page](https://eulogikon.org/works/apollonius-tyana-life-aeschines-nwu-aa)
 
+The Life of Aeschines is a prose biography attributed to Apollonius of Tyana II, a figure distinct from the more famous first-century philosopher of the same name. The work is a biographical account of Aeschines, the Socratic philosopher and disciple of Socrates who lived from approximately 425 to 350 BCE. It survives only in a fragmentary state, with its complete text lost and its contents known from two extant passages. These fragments provide biographical details concerning Aeschines's Athenian origins, his family background, and his early professional life, which included working as a scribe and an actor before his association with Socrates. The work exemplifies the late antique scholarly interest in preserving the philosophical lineage and teachings of the lesser-known Socratic disciples. Its attribution to an otherwise obscure author underscores the continued engagement with the lives of Socrates's followers in later antiquity, serving as a potential, though limited, source for the biography and intellectual context of Aeschines. The manuscript tradition and the precise circumstances of the text's preservation remain undocumented.
+
 ## Text
 
 ### [45]

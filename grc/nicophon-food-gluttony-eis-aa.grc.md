@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eis-aa` · [HTML page](https://eulogikon.org/works/nicophon-food-gluttony-eis-aa)
 
+The Fragments on Food and Gluttony is a modern compilation of forty-one passages attributed to the Athenian comic poet Nicophon, who was active in the early fourth century BCE. As no complete play by Nicophon survives, these excerpts are preserved solely through quotation by later authors, most notably the scholar Athenaeus in his second- or third-century CE work The Learned Banqueters. The collected fragments, which range from single lines to brief dialogues, are drawn from Nicophon's lost comedies and unified by their thematic focus on culinary excess. They ridicule gluttony, catalog lavish and sometimes grotesque foods, and satirize food-obsessed stock characters such as the parasite and the boastful cook. While their original dramatic context is irrecoverable, these fragments are interpreted by scholars as significant evidence of the evolution of Athenian comedy away from direct political satire and toward the generalized social humor and stereotypical figures characteristic of Middle Comedy. As such, they provide valuable insight into ancient Greek dining culture, specialized vocabulary, and the stylistic preoccupations of comic poetry in the period.
+
 ## Text
 
 ### book 1.1

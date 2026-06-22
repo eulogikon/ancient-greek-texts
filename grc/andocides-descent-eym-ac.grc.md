@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eym-ac` · [HTML page](https://eulogikon.org/works/andocides-descent-eym-ac)
 
+On His Own Descent (also known as On His Return) is a forensic oration delivered by the Athenian orator Andocides around 410–409 BCE. The speech is a direct plea to an Athenian court or assembly, structured according to classical rhetorical form. Its central aim is to overturn a decree of atimia, a loss of civic rights that barred Andocides from public spaces and religious sites. He argues this punishment was both illegal and unjust. Andocides had been implicated in the major religious scandals of 415 BCE involving the mutilation of statues called Herms and the profanation of the Eleusinian Mysteries. Although he received immunity for turning informant, a later decree specifically targeted him for general religious impurity. In his oration, Andocides does not simply beg for mercy but insists on his legal right to restoration, highlighting that he was never formally tried for the acts in question. He also appeals to his family’s historical service to Athens, framing his return as a matter of justice for a loyal citizen. The speech was delivered soon after democracy was restored following a brief oligarchic coup. Andocides’ rhetorical strategy attempts to capitalize on this political reset, urging the new democracy to correct what he portrays as a wrongful decree from a turbulent time. The complete text survives through medieval manuscripts as part of the standard corpus of Attic orators and serves as an important historical source for Athenian law, politics, and the aftermath of the scandals of 415 BCE.
+
 ## Text
 
 ### De redit t

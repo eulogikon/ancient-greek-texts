@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `odi-am` · [HTML page](https://eulogikon.org/works/hero-alexandria-catoptrics-odi-am)
 
+The Catoptrics is an ancient Greek treatise on optics and mirrors, traditionally ascribed to the mathematician and engineer Hero of Alexandria, who lived in the 1st century CE. Written in Koine Greek, the work systematically applies geometric principles to analyze the behavior of light and the phenomenon of reflection. Its investigations include the reasons why mirrors reverse images laterally but not vertically, along with detailed examinations of the properties of plane, convex, and concave mirrors. The surviving text, however, is widely regarded by modern scholarship as a later compilation, likely from the 6th century CE, which may preserve some authentic Heroian material within a substantially revised framework. This composite nature has generated considerable debate regarding its precise authorship. Structured as a formal treatise, though the extant version appears fragmentary, it was composed for an audience of mathematicians, engineers, and educated patrons, characteristically blending theoretical geometry with practical application. Despite uncertainties surrounding its provenance, the Catoptrics proved to be a work of enduring influence. It was transmitted through Byzantine and Arabic scholarly traditions and engaged by later optical theorists such as Alhazen, securing its place as a significant text in the historical development of optics.
+
 ## Text
 
 ### 1

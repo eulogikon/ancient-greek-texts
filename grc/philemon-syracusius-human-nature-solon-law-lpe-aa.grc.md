@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lpe-aa` · [HTML page](https://eulogikon.org/works/philemon-syracusius-human-nature-solon-law-lpe-aa)
 
+"On Human Nature and Solon's Law" is a lost comedic verse work attributed to Philemon Syracusius. Known only by its title and described as a collection of 608 passages, no substantive content or specific poetic form survives. The title suggests its thematic scope likely encompassed philosophical and social critiques, examining human nature alongside the laws and legislative legacy of the Athenian statesman Solon. The attribution to a Syracusan author hints at a potential connection to Sicilian comic traditions, positioning the work as a piece of social and ethical commentary delivered in a satirical vein. Its complete absence from standard scholarly catalogs of ancient Greek literature indicates it is entirely lost, with no documented influence on the historical record.
+
 ## Text
 
 ### book 2-3.1

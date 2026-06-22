@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ras-aa` · [HTML page](https://eulogikon.org/works/hadrian-tyre-declamation-ras-aa)
 
+The Meletē is a lost declamation attributed to the sophist Hadrian of Tyre. Composed in Attic Greek during the late second century CE, it exemplifies the rhetorical exercises central to the Second Sophistic movement, in which orators delivered elaborate persuasive speeches on fictional or historical themes to demonstrate their eloquence and command of classical style. As a leading figure of his era, Hadrian would have used such declamations to showcase his argumentative skill and linguistic purity before educated audiences. He performed within a highly competitive intellectual milieu, having held the public chair of rhetoric in Athens before being summoned to Rome by Emperor Marcus Aurelius to occupy an imperial chair. These professional performances were designed to consolidate his reputation among peers and patrons. Modern scholarship interprets such works primarily as displays of technical virtuosity, often engaging with standard themes like historical hypotheticals or intricate legal cases. The transmission of this specific oration is exceptionally poor; although Hadrian was a prolific writer, later sources indicate that most of his works are lost. This particular declamation is not attested in any surviving fragments or manuscripts, and its former existence is inferred solely from his profession and the generic title. Consequently, the text is considered lost, and its direct influence cannot be traced, though Hadrian’s distinguished career remains a testament to the enduring prestige of Greek rhetoric within the Roman Empire.
+
 ## Text
 
 ### 44 (4t)

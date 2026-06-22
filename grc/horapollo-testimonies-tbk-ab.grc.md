@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tbk-ab` · [HTML page](https://eulogikon.org/works/horapollo-testimonies-tbk-ab)
 
+The Testimonies is a lost grammatical work attributed to Horapollo the Grammarian, a fifth-century Alexandrian scholar. It is known solely from a brief entry in the tenth-century Byzantine encyclopedia known as the Suda, which lists it among his writings alongside other philological treatises. According to this source, the work was a collection of three passages that compiled authoritative literary quotations, or testimonia, a standard genre in ancient scholarship used to illustrate points of Greek language, style, and usage. As no manuscripts or direct quotations from the Testimonies survive, its specific content and sources remain unknown. Its mention, however, confirms Horapollo’s active role in the late antique grammatical tradition and exemplifies the enduring scholarly practice of gathering illustrative excerpts from classical authors for pedagogical and exegetical purposes.
+
 ## Text
 
 ### 3c,630,T 1

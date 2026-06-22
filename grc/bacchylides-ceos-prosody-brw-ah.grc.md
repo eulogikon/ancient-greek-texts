@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-ah` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-prosody-brw-ah)
 
+The Prosody Fragments consist of four poetic passages attributed to the lyric poet Bacchylides of Ceos. Preserved not within his major odes but as citations in later grammatical treatises, these fragments were excerpted by ancient metricians for their illustrative value in demonstrating specific metrical patterns. Their primary significance is technical, serving as models of Bacchylidean versification rather than as coherent thematic units. As metrical exemplars, the fragments’ content is incidental, though it reflects the poet’s known genres. The lines may touch upon themes of victory and glory, potentially drawn from epinician odes celebrating athletic triumph, or they may contain mythological narrative possibly excerpted from dithyrambs. Some fragments feature ethical reflection, offering gnomic statements on human fortune, a recurring element in Bacchylides’ poetry. The fragments survive indirectly as quotations in the works of later scholars, such as the metrician Hephaestion of the second century CE, and were not part of the main manuscript tradition that preserved Bacchylides’ larger odes. The title is a modern descriptive label for these collectively cited lines. Their influence is confined to the history of metrical scholarship; in antiquity, they served as authoritative examples of poetic rhythm. For modern philology, they contribute to the corpus of Bacchylidean fragments and aid in reconstructing the technical aspects of Greek lyric composition.
+
 ## Text
 
 ### book 1a.1

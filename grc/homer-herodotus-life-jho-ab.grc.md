@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jho-ab` · [HTML page](https://eulogikon.org/works/homer-herodotus-life-jho-ab)
 
+The Life of Herodotus is a brief, anonymous prose biography of the historian Herodotus, structured in twelve sections. It belongs to the genre of ancient literary biography that was often prefaced to manuscripts of an author's works. While some manuscript traditions falsely attribute its authorship to Homer, this pseudepigraphic ascription is chronologically impossible and is rejected by modern scholarship. The text covers characteristic topics of ancient biography, including Herodotus's origins in Halicarnassus, his period of exile, his extensive travels undertaken for research, the composition and public reception of his work with mentions of recitations in Athens, and his death, traditionally located at Thurii. The biography survives exclusively as a prefatory text in medieval manuscripts of Herodotus's Histories, meaning its transmission is inextricably linked to the main textual tradition of Herodotus's own work; the false Homeric attribution appears within this manuscript history. Although it is not considered a reliable independent historical source, the Life is significant for the history of classical scholarship and reception. It serves as a clear example of how ancient and medieval readers framed the lives of canonical authors, preserving various elements of the biographical tradition that grew up around Herodotus.
+
 ## Text
 
 ### [45]

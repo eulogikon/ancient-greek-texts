@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lea-ai` · [HTML page](https://eulogikon.org/works/orphic-poems-stones-lea-ai)
 
+On Stones is a didactic hexameter poem pseudepigraphically attributed to the mythical singer Orpheus, forming part of the extensive body of late antique Orphic pseudepigrapha. The work presents itself as a divinely inspired revelation, framing its technical knowledge within a mythological narrative. It opens with an invocation describing how the gods, including Hermes, Apollo, Athena, Heracles, and the centaur Chiron, brought their ambrosial gifts to Olympus. The poem then instructs the pious mortal to enter the delightful cave of Hermes, where a host of every good thing is stored, promising to bestow many benefits and ward off sorrow, incurable disease, and the terrible might of enemies.
+
+The treatise is a systematic exploration of lithotherapy, detailing the magical and medicinal properties, or dynamis, of various stones. Its methodology relies heavily on principles of sympathetic magic, often linking a stone’s physical appearance or origin to its purported effect, and embeds this practical knowledge within stories of divine and heroic deeds. The text survives through its transmission in medieval manuscripts, where it was copied alongside other Orphic and magical works within the Byzantine scholarly tradition. As a product of late antique technical and esoteric literature, On Stones represents the practical application of Orphic authority to proto-scientific fields. It constitutes a significant link in the lapidary tradition, directly influencing subsequent Byzantine, Arabic, and Western European thought on the occult properties of natural objects.
+
 ## Text
 
 ### 1

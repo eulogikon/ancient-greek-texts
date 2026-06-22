@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `azu-aa` · [HTML page](https://eulogikon.org/works/brontinus-metapontum-testimonies-azu-aa)
 
+The Testimonies is a lost work attributed to the Pythagorean philosopher Brontinus of Metapontum. No direct fragments of the text survive, and knowledge of its existence comes solely from later references in ancient sources. The title is recorded in the Byzantine encyclopedia known as the Suda, while the biographer Diogenes Laertius also notes that Brontinus was an author. The Greek title, Marturiai, suggests the work was a collection of doctrinal statements, aphorisms, or authoritative testimonies concerning Pythagorean beliefs. Given Brontinus's affiliation with the early Pythagorean community, the lost compilation likely addressed core tenets of the school, including its distinctive akousmata or symbola—ritual rules and symbolic sayings—as well as theological, cosmological, and ethical principles governing the Pythagorean way of life. The work is preserved only by its title in these late sources, specifically Diogenes Laertius's Lives and Opinions of Eminent Philosophers from the third century CE and the tenth-century Suda; it possesses no independent manuscript tradition. Its attribution to an early disciple like Brontinus contributed to the later perception of Pythagoreanism as a philosophical movement with foundational texts composed by its first adherents. The nature of the title further indicates that the Testimonies may have served as a source for later doxographers and compilers seeking to document established Pythagorean doctrines.
+
 ## Text
 
 ### 1

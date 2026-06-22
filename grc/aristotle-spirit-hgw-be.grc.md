@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-be` · [HTML page](https://eulogikon.org/works/aristotle-spirit-hgw-be)
 
+On the Spirit is a brief philosophical and physiological treatise composed in Attic Greek and preserved within the medieval manuscript tradition of the Aristotelian corpus. Although traditionally ascribed to Aristotle, its authenticity was questioned even in antiquity, and modern scholarship widely rejects the attribution on grounds of an un-Aristotelian style and doctrinal content. It is generally considered a product of the early Hellenistic period, likely composed by a member of the Peripatetic school after Aristotle’s death.
+
+The work, comprising twelve concise passages, investigates the nature of pneuma, or spirit, conceptualizing it as a warm, air-like bodily substance essential to life. It argues that this innate spirit is distributed through the blood vessels and serves as the primary physical instrument of the soul, facilitating vital functions such as sensation and movement. A central and distinctive theme of the treatise is its proposed cosmological connection, positing a material continuity between the pneuma within living organisms and the substance of the celestial bodies. This theory of a corporeal, life-sustaining spirit proved historically influential, notably impacting the medical theories of Galen and contributing to subsequent Hellenistic and Roman debates concerning the material basis of life.
+
 ## Text
 
 ### Spir 481a (t)

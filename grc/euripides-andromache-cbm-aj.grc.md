@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-aj` · [HTML page](https://eulogikon.org/works/euripides-andromache-cbm-aj)
 
+Andromacha, a tragedy by Euripides written around 425 BCE, dramatizes the plight of the Trojan queen Andromache in the aftermath of the Trojan War. Enslaved and made the concubine of Neoptolemus, son of Achilles, she resides in Phthia, where she faces mortal danger from Neoptolemus's jealous Spartan wife, Hermione, and her father, King Menelaus. They conspire to kill Andromache and her young son by Neoptolemus, a child who represents a threat to Hermione's childless marriage. The domestic crisis of the play's first half is averted by the intervention of Neoptolemus's aged grandfather, Peleus. The action then shifts to Delphi, where Orestes, Hermione's former betrothed, orchestrates the murder of Neoptolemus. The drama concludes with a divine epiphany from the goddess Thetis, who delivers prophecies securing the future of the surviving characters, including the establishment of a royal lineage through Andromache's son.
+
+The complete play survives in 1,206 lines of verse, composed primarily in Attic Greek with choral passages in the Doric dialect. Scholarly interpretation often views its severe depiction of the Spartan characters Hermione and Menelaus as a form of political commentary, reflecting Athenian animosity toward Sparta during the Peloponnesian War. The tragedy is also considered a complex engagement with contemporary Athenian social anxieties, particularly laws concerning citizenship and inheritance, through its focus on the status of a foreign concubine and the contested legitimacy of her child.
+
 ## Text
 
 ### 1

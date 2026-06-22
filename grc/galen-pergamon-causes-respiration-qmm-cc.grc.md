@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cc` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-respiration-qmm-cc)
 
+On the Causes of Respiration is a medical treatise by Galen of Pergamon, composed in the second century CE. The work systematically investigates the physiological mechanisms and purposes of breathing, forming part of Galen’s broader project to synthesize Hippocratic medical principles with Aristotelian philosophy and his own anatomical observations. Galen opens by asserting that understanding the causes of respiration is essential for both confirming its physiological basis and for correcting any impairment of the function. He organizes his analysis around a tripartite causal framework, identifying the final cause, the instrumental cause, and the role of voluntary action.
+
+Galen argues that the primary and most authoritative cause of respiration is its purpose, or final cause. This purpose is twofold: to preserve the balanced temperature of the innate heat within the heart and to nourish the substance of the vital spirit, or pneuma. The voluntary faculty, meanwhile, directs and regulates the rhythmic activities of breathing. The instrumental causes are complex and varied, encompassing the organs dedicated to conveying air, those that receive it, and the muscular structures that set these parts in motion. The treatise provides a detailed mechanical description of these instruments, analyzing the coordinated actions of the intercostal muscles and the diaphragm during inhalation and exhalation. Throughout the work, Galen engages polemically with rival medical theories, particularly targeting the mechanistic explanations offered by the Erasistrateans and Asclepiadeans.
+
+The treatise is fully extant in its original Greek, transmitted through Byzantine manuscripts and available in modern critical editions. Galen’s model of respiration as a system for cooling the heart’s innate heat became a cornerstone of the humoral system, dominating Western and Islamic medical thought for nearly fifteen centuries. Its integration of teleological explanation with anatomical description ensured its lasting influence on medical education and physiological theory until the scientific revolutions of the seventeenth and eighteenth centuries.
+
 ## Text
 
 ### 4 465 (t1)

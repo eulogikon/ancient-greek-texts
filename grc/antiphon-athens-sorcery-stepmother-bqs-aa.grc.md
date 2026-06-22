@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bqs-aa` · [HTML page](https://eulogikon.org/works/antiphon-athens-sorcery-stepmother-bqs-aa)
 
+On Sorcery—The Stepmother is a forensic oration composed in Attic Greek by the Athenian logographer Antiphon in the late fifth century BCE. Written for a client prosecuting a case of deliberate homicide, the speech accuses a stepmother of murdering the speaker's father by poison. The text survives only in a fragmentary state, preserved as twenty-seven excerpts within the works of later ancient grammarians and commentators. These fragments indicate the speech originally adhered to the conventional structure of Athenian courtroom oratory, proceeding from a proem through a narrative of events to arguments and a final appeal to the jury.
+
+The work offers significant insight into the early professional practice of speechwriting and the procedures of the Athenian legal system, where poisoning was prosecuted as intentional murder. The extant portions demonstrate Antiphon's celebrated rhetorical technique, particularly his construction of arguments from probability and circumstantial evidence, a method that would become foundational for later orators. Engaging with a pervasive cultural motif of familial strife, the speech strategically portrays the stepmother as a archetypal malevolent figure to sway the citizen jurors. Composed for delivery before a dikastery, or popular court, the oration reflects the increasing complexity and strategic sophistication of legal rhetoric in classical Athens.
+
 ## Text
 
 ### In nov t

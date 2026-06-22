@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hks-aa` · [HTML page](https://eulogikon.org/works/bion-borysthenes-philosophical-autobiography-hks-aa)
 
+The work conventionally titled Bion's Philosophical Autobiography is not an extant, discrete text. The autobiographical material derives from the biographical and anecdotal account of Bion's life, teachings, and sayings preserved by Diogenes Laertius in his Lives of the Eminent Philosophers. In a famous passage, Bion responds to King Antigonus's inquiry about his origins with a defiantly frank narrative. He describes his father as a freedman and salt-fish seller whose face bore the branded marks of his former master's cruelty, and his mother as a woman from a brothel. After his father was sold into slavery for tax evasion, Bion himself was purchased as a slave by a rhetorician, who upon his death left Bion his estate. Bion then burned the rhetorician's books, liquidated the inheritance, and traveled to Athens to pursue philosophy, concluding his account with a sarcastic invocation of his noble lineage.
+
+This portrait emphasizes several themes from Bion's career as a popular philosopher. It highlights his Cynic-style mockery of social conventions and pretensions, his philosophical syncretism as he moved between Academic, Cynic, Cyrenaic, and Peripatetic schools, and the way his own dramatic life journey from slavery to renown served as a philosophical exemplum. His sermonic, diatribic style aimed to make philosophy broadly accessible. Bion's own writings are lost, and knowledge of him relies almost entirely on later reports, primarily the biography in Diogenes Laertius, with other fragments appearing in authors like Strabo and Teles. He was an influential model for the popular philosophical preacher, and the biographical tradition about him remains a key source for understanding Cynic-influenced popular philosophy in the Hellenistic age. Separately, a pastoral poem, the Epitaphios Adonidos, survives under his name within the bucolic tradition and influenced later pastoral poetry.
+
 ## Text
 
 ### 1a (n)

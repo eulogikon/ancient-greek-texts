@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `swk-aa` · [HTML page](https://eulogikon.org/works/libanius-antioch-embassy-menelaus-swk-aa)
 
+Declamation 3, Embassy of Menelaus is a rhetorical exercise composed in the fourth century CE by the Greek sophist and teacher Libanius of Antioch. Written in Attic Greek, it belongs to the genre of declamation, specifically a theoretical exercise, or theorem, which addresses a general mythological theme rather than a specific legal case. The work is a complete, continuous oration that imagines the speech delivered by the Homeric hero Menelaus when he and Odysseus traveled to Troy as ambassadors to demand Helen’s return, attempting to avert the Trojan War through persuasion. The declamation explores themes of diplomacy, justice, and the consequences of action, framing Helen’s abduction as a profound violation of sacred hospitality laws. As a pedagogical tool, it demonstrates the advanced rhetorical technique of ethopoeia, the creation of a speech suited to a known legendary character. Such exercises were central to elite education in the later Roman Empire, allowing orators like Libanius to display their mastery of classical style and argumentation for students and peers. The text has survived fully through medieval manuscript traditions, preserved due to Libanius’s enduring reputation as a model of Attic prose. It offers valuable insight into the literary culture and sophisticated rhetorical training that shaped the Greek-educated governing class of the period.
+
 ## Text
 
 ## Θεώρημα.

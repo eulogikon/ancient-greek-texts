@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bbi-aa` · [HTML page](https://eulogikon.org/works/minyas-fragments-bbi-aa)
 
+The Minyas is a lost archaic Greek epic poem, attributed to a poet named Minyas and composed in dactylic hexameter. It survives only in approximately eighteen fragments, preserved through quotations in later authors such as Pausanias and the scholiasts on Apollonius Rhodius. The poem narrated myths concerning the Minyan tribe of Boeotia and is often associated with the broader corpus of the Epic Cycle. The extant fragments indicate a broad narrative scope covering pre-Trojan War heroic myth. Key episodes included the katabasis of Theseus and Peirithous, who became trapped on the "Chairs of Forgetfulness" in the Underworld, an alternative account of the death of the giant Eurymedon touching on Gigantomachy themes, and references to Boeotian geography and figures such as Orchomenus and Ariadne. The text did not survive antiquity intact; its fragments were transmitted indirectly by Hellenistic and Roman-era scholars who cited it for mythological detail. The standard modern editions are found in the collections Poetae Epici Graeci and Fragmenta Hesiodea. The Minyas served as a foundational narrative for Minyan and Boeotian regional identity. While never achieving canonical status, it was consulted as an authoritative source for variant myths, demonstrating the diversity of the early Greek epic tradition and contributing to the ancient and modern understanding of the Epic Cycle.
+
 ## Text
 
 ### book 1.1

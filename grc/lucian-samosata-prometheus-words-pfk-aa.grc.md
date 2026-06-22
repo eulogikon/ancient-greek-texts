@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-aa` · [HTML page](https://eulogikon.org/works/lucian-samosata-prometheus-words-pfk-aa)
 
+To the One Who Said, "Prometheus If You Are in Words" is a brief declamation by the second-century CE satirist Lucian of Samosata. The work is a playful yet pointed rhetorical exercise, crafted as a retort to an unnamed detractor who sarcastically dubbed the author a "Prometheus in words." Lucian seizes upon this comparison to the mythological Titan, who fashioned humanity from clay, and ingeniously inverts the intended insult into a celebration of literary creation. He argues that, like Prometheus, a writer shapes new forms and characters—his own "men of clay"—from the raw material of language and ideas. The complete text, structured in eight sections, elaborates wittily on this central metaphor, exploring the nature of artistic invention.
+
+A product of the Second Sophistic revival of advanced Greek rhetoric, the speech showcases Lucian's mastery of the sophistic style, blending professional self-defense with a philosophical meditation on the writer's craft. Modern scholars view it as a sophisticated piece of self-promotion, wherein Lucian transforms criticism into a boast regarding his innovative literary synthesis of satire, dialogue, and philosophical discourse. The work survives intact within the accepted Lucianic corpus, transmitted through medieval manuscripts alongside his other rhetorical compositions.
+
 ## Text
 
 ### Prom Es t

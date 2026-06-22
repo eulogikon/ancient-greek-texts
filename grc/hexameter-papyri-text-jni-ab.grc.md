@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jni-ab` · [HTML page](https://eulogikon.org/works/hexameter-papyri-text-jni-ab)
 
+The Hexameters is a modern scholarly compilation of 218 anonymous Greek poetic passages, all composed in dactylic hexameter, preserved on fragmentary papyri. These fragments do not represent a single, continuous ancient literary work but are instead a collection of disparate excerpts, likely of varying dates and origins, assembled under a generic title for reference. The content of these brief fragments is thematically diverse, reflecting the hexameter's traditional use for epic narrative, didactic exposition, and oracular pronouncements. The compilation survives exclusively through papyrological sources, most originating from Egypt, and its editorial designation highlights its origin from multiple fragmentary documents. While the direct influence of these specific fragments is untraceable, such collections are of fundamental importance to philology, as they can recover otherwise lost texts, provide new textual variants for known works, and illuminate patterns of literary circulation and study in the ancient world.
+
 ## Text
 
 ### book 900.1

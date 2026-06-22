@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cd` · [HTML page](https://eulogikon.org/works/galen-pergamon-differences-fevers-qmm-cd)
 
+On the Differences of Fevers is a medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. In this systematic work, Galen classifies and analyzes various types of fevers to establish a comprehensive diagnostic framework for physicians. He organizes fevers into three principal categories—ephemeral, putrid, and hectic—and proceeds to subdivide these, detailing familiar periodic types such as quotidian, tertian, and quartan fevers. The explanations for these distinctions are grounded in Galen’s humoral theory, which links each fever to the putrefaction of a specific bodily humor—blood, yellow bile, or black bile—within a particular organ. The treatise further examines associated symptoms, duration, and the prognostic significance of critical days in the course of an illness.
+
+Structured as a methodical treatise comprising 131 passages, the work was written during Galen’s tenure as a court physician in Rome, a period marked by vigorous debate among competing medical schools. Modern scholarship interprets the text as part of Galen’s broader effort to defend his rationalist, cause-based methodology against rival sects, particularly the Methodists, who advocated for simpler, symptom-based classifications. It is considered an advanced textbook intended for fellow practitioners and students, synthesizing principles from Hippocratic medicine with Galen’s own theoretical innovations. The treatise survives complete in its original Greek and was transmitted through numerous manuscripts. It proved highly influential, translated into Arabic during the 8th and 9th centuries and later into Latin, subsequently serving as a cornerstone of medical education in both the Islamic world and medieval Europe for over a millennium.
+
 ## Text
 
 ### 7 273 (t1)

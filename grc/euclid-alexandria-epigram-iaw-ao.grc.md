@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-ao` · [HTML page](https://eulogikon.org/works/euclid-alexandria-epigram-iaw-ao)
 
+The Epigram is a brief three-line poem attributed to Euclid of Alexandria, preserved in the Byzantine-era Greek Anthology. It recounts an anecdotal episode in which a student of Euclid questions what financial profit can be derived from the study of geometry. In response, Euclid instructs his attendant to give the student a small coin, thereby satirically fulfilling the demand for material gain from intellectual pursuits. The poem serves as a concise and humorous commentary on the perceived conflict between the pure, theoretical pursuit of knowledge and motives of practical utility. Transmitted exclusively through the literary tradition of the Greek Anthology and separate from the manuscript tradition of Euclid's mathematical treatises, the epigram holds no mathematical significance. Its enduring importance lies in its contribution to the biographical and anecdotal tradition surrounding Euclid, where it has been frequently cited to crystallize his historical image as the archetypal geometer, devoted to knowledge for its own sake.
+
 ## Text
 
 ### 1

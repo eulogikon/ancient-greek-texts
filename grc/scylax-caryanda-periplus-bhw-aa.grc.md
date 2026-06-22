@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bhw-aa` · [HTML page](https://eulogikon.org/works/scylax-caryanda-periplus-bhw-aa)
 
+The Periplus of Scylax is a pseudepigraphical Greek geographical text from the 4th century BCE or later, attributed to the explorer Scylax of Caryanda. Structured as a sequential sailing guide, it describes a coastal voyage from the Indus River to the Strait of Gibraltar, detailing harbors, landmarks, sailing distances, and the peoples encountered along the way. The surviving work is a later compilation and not the authentic account of the historical Scylax, who explored the Indus River for the Persian king Darius I in the late 6th century BCE. The text systematically catalogs the coasts of the known world, incorporating geographical knowledge from the era of Alexander the Great. Its content focuses on practical navigation through sailing directions and distances, ethnography with descriptions of coastal populations such as the Ichthyophagi or "fish-eaters," and commercial and imperial geography, mapping regions within Persian and later Hellenistic spheres of influence. The work is preserved in a single 14th-century CE manuscript, the Codex Parisinus suppl. gr. 443, where it appears alongside other geographical texts. Its false attribution to the earlier Scylax exemplifies the common ancient practice of pseudepigraphy in geographical writing. The Periplus was influential in antiquity, cited by authors including Aristotle and Strabo. It helped standardize the periplous genre and shaped Greco-Roman understanding of the Indian Ocean and the Mediterranean periphery, though it also perpetuated certain errors, such as depicting the Caspian Sea as a gulf of the outer Ocean.
+
 ## Text
 
 ### T

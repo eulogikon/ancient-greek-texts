@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqk-at` · [HTML page](https://eulogikon.org/works/hermetica-fragments-oqk-at)
 
+The Hermetic Fragments constitute a collection of twenty-four philosophical and theological excerpts composed in Koine Greek. They belong to the broader corpus known as the Hermetica, a body of writings attributed to the mythical figure Hermes Trismegistus, a syncretic fusion of the Greek god Hermes and the Egyptian deity Thoth. These texts are not the work of a single author but emerged from a syncretic spiritual and intellectual milieu in Roman Egypt, likely between the second and fourth centuries CE. The fragments explore profound metaphysical themes, including the nature of a singular, transcendent, and ultimately ineffable God, the structure of the cosmos, and the concept that human salvation is attained through a specialized spiritual knowledge, or gnosis. Their curated nature suggests they are selections from longer, now-lost treatises.
+
+Only a portion of the original Hermetic tradition survives, with these fragments preserved chiefly through later anthologies, most significantly the compilation work of the fifth-century scholar John Stobaeus. Modern scholarship interprets the Hermetica as products of Hellenistic syncretism, blending elements of Platonic, Stoic, and later Neoplatonic philosophy with Egyptian religious motifs. They were likely used for instruction within private, esoteric circles rather than for public dissemination. The rediscovery and translation of these texts during the Renaissance exerted a profound and lasting influence on the development of Western esotericism, alchemy, and philosophical thought.
+
 ## Text
 
 ### 3A (5)

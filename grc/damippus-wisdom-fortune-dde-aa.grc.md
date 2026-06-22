@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dde-aa` · [HTML page](https://eulogikon.org/works/damippus-wisdom-fortune-dde-aa)
 
+On Wisdom and Fortune is a philosophical treatise attributed to Damippus, an obscure figure sometimes identified as a Pythagorean. The work survives only in fragmentary form, preserved as two brief excerpts in the anthology of Stobaeus. Its alternative title, Extracts, underscores its incomplete state. The text presents a structured comparison between wisdom, or rational understanding, and fortune. It defines wisdom as that which is expressible, rational, ordered, and definite, possessing a nature that governs and sets limits. Fortune, by contrast, is characterized as the inexpressible, irrational, disordered, and indefinite, possessing a nature that is governed and receives its limits. The argument posits a necessary hierarchical relationship between these principles, where wisdom is primary in authority and power, naturally suited to steer and define, while fortune is secondary, naturally suited to be steered and defined. The treatise concludes that for a harmonious union, the rational nature must always provide the ordering principle for the irrational. This framework applies universally, asserting that the infinite and indefinite aspects of reality are destined to be limited and ordered by those aspects possessing reason and wisdom, which themselves are intrinsically ordered and defined. The surviving fragments thus place the work within the enduring Hellenistic philosophical discourse concerning the competing roles of rational agency and chance in the cosmos and human life.
+
 ## Text
 
 ### 68 (2t)

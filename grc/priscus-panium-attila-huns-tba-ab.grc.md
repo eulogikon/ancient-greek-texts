@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tba-ab` · [HTML page](https://eulogikon.org/works/priscus-panium-attila-huns-tba-ab)
 
+The Fragments on Attila and the Huns constitute the extant portions of an eight-book history composed in Greek by the late Roman diplomat Priscus of Panium during the 470s CE. The original work provided a detailed political and military chronicle of the Eastern Roman Empire from approximately 434 to 474 CE, with a pronounced emphasis on diplomatic affairs and relations with neighboring peoples. Its most celebrated passages derive from Priscus’s own participation in a Roman embassy to the court of Attila the Hun around 448 or 449 CE. This eyewitness narrative offers an invaluable depiction of Hunnic customs, Attila’s royal compound, and the intricate negotiations between Roman and barbarian societies.
+
+The complete history is lost; the surviving text consists of 87 prose fragments. These are preserved chiefly within a 10th-century Byzantine compendium of excerpts concerning embassies, with additional passages found in later sources such as the Suda encyclopedia. Modern scholarship regards these fragments as the most significant contemporary source for the study of Attila and the Huns. They are indispensable for understanding late Roman diplomatic practice and the geopolitical dynamics of the migration period. The work appears to have been intended for an educated Roman audience, serving to document a profound threat to the empire shortly after Attila’s death and the subsequent dissolution of the Hunnic polity.
+
 ## Text
 
 ### t1-44

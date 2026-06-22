@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsm-ab` · [HTML page](https://eulogikon.org/works/demosthenes-athens-nicostratus-slaves-arethousa-fsm-ab)
 
+The oration Against Nicostratus concerning the Census of Slaves in Arethousa, numbered as Oration 53 in the Demosthenic corpus, is a private forensic speech attributed to Demosthenes. It presents the case of the plaintiff Apollodorus, who accuses his former friend Nicostratus of fraudulently registering sixteen of Apollodorus’s slaves for a special property tax, or eisphora, in the deme of Arethousa. The speech methodically details the prior close relationship between the two men, framing the accusation as a profound betrayal of friendship and social obligation, and builds a legal argument centered on financial malfeasance within the Athenian tax system. Its content explores the mechanics and potential for abuse in the emergency war tax procedures, while also highlighting the central economic role of slaves as taxable property essential to a citizen’s wealth.
+
+Transmitted within the larger body of Demosthenes’ works, the speech’s authenticity is widely doubted by modern scholars. It is frequently grouped among the spurious private orations due to perceived stylistic and historical inconsistencies that differentiate it from the orator’s genuine productions. Nonetheless, it survives in complete form through the medieval manuscript tradition. The oration’s principal significance lies in its value as a historical source, offering detailed evidence for Athenian legal and administrative procedures related to taxation, specifically the processes of declaration and confiscation known as apographe. It provides insight into the economic importance of slavery and illuminates the social tensions that could arise between citizens of differing financial means in mid-fourth-century BCE Athens.
+
 ## Text
 
 ### Or53 1

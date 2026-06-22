@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nrk-aa` · [HTML page](https://eulogikon.org/works/claudius-casilon-attic-orators-nrk-aa)
 
+The grammatical treatise Questions Among the Attic Orators is attributed to Claudius Casilon the Grammarian. Its title indicates a collection of specific linguistic or interpretive problems found within the texts of canonical Attic orators. The work is known only from limited metadata, which suggests it originally comprised two passages, though their precise nature and length remain unspecified. Based on its title and genre, the treatise's content likely addressed matters of textual criticism concerning variant readings or corruptions in the orators' manuscripts, along with linguistic analysis of rare Attic vocabulary, grammar, and idiom. It may also have included rhetorical interpretation of historical references, legal points, or argumentative strategies. The work and its author, Claudius Casilon, lack attestation in major scholarly sources, and its manuscript tradition and preservation status are unknown; the reference to two passages may signify that only two fragments survive. As a work of problemata, it would have participated in the ancient philological tradition of explicating classical texts, aimed at advanced students and scholars of rhetoric. Its existence underscores the detailed scholarly attention devoted to the Attic orators within the educational curriculum of the period.
+
 ## Text
 
 ### 243 (1t)

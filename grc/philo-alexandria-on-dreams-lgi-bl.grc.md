@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-bl` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-dreams-lgi-bl)
 
+On Dreams is a philosophical treatise by Philo of Alexandria, a Jewish philosopher of the first century CE. Written in Greek, it forms part of his extensive allegorical commentary on the Pentateuch, aiming to uncover deeper spiritual and philosophical truths within the biblical narrative. The work is structured in two books. The first book interprets the dreams of the patriarch Jacob as described in the Book of Genesis, while the second examines the dreams of Joseph and later those of Pharaoh’s servants and Pharaoh himself. Philo uses these scriptural accounts as a framework to explore complex themes of divine communication, the nature of the soul, and the mechanisms of prophecy. He systematically distinguishes between dreams he considers directly sent by God and those originating from the human psyche, treating the characters, objects, and events within the dreams as allegorical symbols. Through this exegesis, Philo discusses Platonic and Stoic concepts, such as the soul’s ascent toward the divine and the internal conflict between virtue and vice. The treatise represents a deliberate synthesis of Jewish religious tradition with Hellenistic philosophy, crafted for an educated audience in the cosmopolitan environment of Alexandria. The complete text has been preserved through centuries of copying by Christian scholars who valued Philo’s allegorical method, and it remains available in modern critical editions.
+
 ## Text
 
 ### Som 1 t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-as` · [HTML page](https://eulogikon.org/works/porphyry-tyre-life-pythagoras-udm-as)
 
+Porphyry of Tyre's Life of Pythagoras is a Greek biography from the late third century CE that assembles various traditions and doctrines concerning the semi-legendary philosopher. The work, structured as sixty-one concise passages, details Pythagoras's disputed parentage and origins, his extensive travels for education, and his establishment of a philosophical and religious community in Croton. It systematically presents core Pythagorean teachings, including the immortality and transmigration of the soul, strict rules for ritual and dietary purity, and the fundamental role of number and harmonic proportion in understanding the cosmos. Preserved in its entirety, the biography survives both as an independent text and as a section within Porphyry's more comprehensive, though fragmentary, Philosophical History.
+
+As a prominent Neoplatonist, Porphyry composed this work from within that philosophical tradition, yet modern analysis often characterizes it as a relatively neutral compilation drawing from a range of earlier, now-lost sources. It was likely intended as an introductory educational text, positioning Pythagorean thought as a significant precursor to Platonic philosophy. Despite its late date and composite nature, Porphyry's biography remains an indispensable resource for reconstructing the ancient narratives and intellectual legacy associated with Pythagoras and his followers.
+
 ## Text
 
 ## ΜΑΛΧΟΥ Η ΒΑΣΙΛΕΩΣ ΠΥΘΑΓΟΡΟΥ ΒΙΟ Σ . Συμφωνεῖται μὲν δὴ παρὰ τοῖς πλείστοις Μνησάρχου γεγενῆσθαι παῖς· περὶ δὲ τοῦ γένους τοῦ Μνησάρχου διαπεφώνηται.

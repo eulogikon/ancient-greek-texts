@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-bg` · [HTML page](https://eulogikon.org/works/alchemist-i-ancient-lime-rrg-bg)
 
+"What is the Ancient Lime" is a Greek alchemical treatise attributed to an anonymous author conventionally designated by modern scholars as Alchemist I, who wrote under the pseudonym of the pre-Socratic philosopher Democritus. The work forms part of the influential corpus known as the "Physika kai Mystika," a foundational collection of early technical and philosophical writings on material transformation. Composed during the Roman Imperial period, likely between the first and third centuries CE, the treatise exemplifies the synthesis of Egyptian craft traditions with Greek speculative thought that characterized the emergence of alchemy as a distinct discipline.
+
+The text is devoted to identifying and elucidating the properties of a specific substance termed "the ancient lime," a caustic material analogous to quicklime. Its primary concern is the substance's behavior and preparation, detailing a process where the material is calcined, turning black, before being reunited with its "proper moisture" and heated in a sealed furnace for a precise duration. The treatise notes that the resulting product, when purified of its soot, produces different outcomes—referred to as "that through lime" or "the untouchable"—depending on whether the sublimated matter is white or yellow. This procedural description, blending concrete recipe-like instruction with allegorical language, is characteristic of the Pseudo-Democritus corpus, which often encodes practical knowledge of dyeing or metallurgy within a framework of esoteric symbolism intended for initiated practitioners. The work survives within the Byzantine manuscript tradition that preserved the core texts of early Greek alchemy, transmitted in its original Koine Greek.
+
 ## Text
 
 ### 2.279.(1t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lue-aa` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-red-sea-lue-aa)
 
+The Excerpts from Agatharchides on the Red Sea is a tenth-century Byzantine compilation of eighty-nine passages that preserve substantial fragments of a major geographical work by Agatharchides of Cnidus, a Greek scholar and official in second-century BCE Ptolemaic Egypt. His original, multi-volume treatise, On the Erythraean Sea, was a comprehensive study of the Red Sea, Persian Gulf, and Indian Ocean regions. The excerpts, selected for the emperor Constantine VII Porphyrogennetos, cover a wide range of subjects including the customs of coastal peoples, local flora and fauna, and the mechanics of the monsoon winds vital for maritime trade. The work is particularly noted for its vivid and critical account of the brutal gold mining operations conducted by the Ptolemaic state in the Eastern Desert of Egypt, blending ethnography and natural history with moral commentary. The original treatise is lost, and our knowledge of it depends entirely on such excerpts and summaries; these eighty-nine passages survive in a single manuscript, while other significant fragments are found in the works of the historians Diodorus Siculus and Strabo. Modern scholars regard this text as a crucial source for understanding Hellenistic geography, Ptolemaic commercial interests, and early Greek knowledge of the Horn of Africa and Arabia. It is believed to have been composed for a scholarly audience in Alexandria, synthesizing firsthand reports from merchants, explorers, and state archives.
+
 ## Text
 
 ### T

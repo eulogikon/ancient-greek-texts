@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qke-aa` · [HTML page](https://eulogikon.org/works/arcadius-antioch-accents-qke-aa)
 
+_On Accents_ is a grammatical treatise by Arcadius of Antioch, also known as Arcadius the Grammarian. The work is an epitome of the larger, now largely lost work on Greek accents by the second-century CE grammarian Herodian. Organized into 227 sections, it systematically covers the rules of Greek accentuation and is a key source for ancient grammatical theory and post-classical Greek pronunciation. The treatise addresses the three Greek accents—acute, grave, and circumflex—and provides detailed rules for their placement on words of different syllable lengths and morphological categories, including nouns and verbs. The text survives in several manuscripts, most importantly Codex Parisinus graecus 2548. Arcadius’s epitome remains a crucial witness to Herodian’s theories, as the original comprehensive work is almost entirely lost. _On Accents_ served as a standard pedagogical handbook in the Byzantine educational tradition for centuries. For modern scholarship, it is a primary source for reconstructing ancient Greek accentuation rules and understanding the history of grammatical thought.
+
 ## Text
 
 ### 1

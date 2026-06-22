@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kqy-aa` · [HTML page](https://eulogikon.org/works/sosibius-sparta-chronology-kqy-aa)
 
+Fragments on Chronology is a lost chronographic and grammatical treatise by the Spartan scholar Sosibius, who was likely active during the Hellenistic period. The work survives only in fragments, primarily preserved within ancient commentaries on the poetry of Pindar and Theocritus. These excerpts represent an early application of Alexandrian-style scholarly chronography to Spartan and broader Greek history. The content addresses various chronological systems for dating poets, Olympic victors, and historical events. It also provides explanations of archaic Spartan institutions, festivals such as the Gymnopaediae and Hyacinthia, and specific rituals, alongside literary exegesis that clarifies references to Spartan customs in poets like Alcman and Pindar. Furthermore, the work attempts to date mythological figures and events within a historical framework. The complete treatise is lost, and its fragments were transmitted by later grammarians and commentators, with the Alexandrian scholar Aristarchus of Samothrace being a key conduit. Sosibius’s work served as an authoritative source for later Hellenistic and Roman scholars on Spartan chronology. The surviving fragments remain crucial for the modern understanding of Spartan religion, festivals, and social institutions, as they preserve unique information not found in other sources.
+
 ## Text
 
 ### t1-3

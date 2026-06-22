@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-az` · [HTML page](https://eulogikon.org/works/galen-pergamon-doctrines-hippocrates-plato-qmm-az)
 
+On the Doctrines of Hippocrates and Plato is a major treatise by the Roman-era physician and philosopher Galen of Pergamon, composed in Greek between approximately 162 and 176 CE. In this work, Galen advances the thesis that the medical theories of Hippocrates and the philosophical psychology of Plato are fundamentally in agreement. His central argument posits a tripartite soul, with each part residing in a distinct organ: the rational faculty in the brain, the spirited part in the heart, and the appetitive part in the liver. Structured as a detailed polemic, the treatise primarily targets the Stoic school and its leading exponent, Chrysippus, who maintained that the soul’s commanding faculty was unitary and located solely in the heart. Galen supports his case through logical argument, textual analysis of classical authorities, and, most significantly, anatomical demonstrations drawn from his own dissections and vivisections.
+
+The original work comprised nine books, but a substantial portion is lost. Only parts of the text survive, with Books 1–3 and 6 remaining largely incomplete. Modern scholarly editions organize the extant material into 70 discrete passages. The treatise is considered a key product of its intellectual milieu, crafted for the educated Roman elite to display Galen’s erudition and secure victory in professional debates. It was likely written to establish medicine as a necessary foundation for sound philosophy and to cement Galen’s own authority by synthesizing these two venerable traditions. The work’s transmission is fragmentary, relying on later Greek manuscripts and translations into Arabic and Latin, which preserved some content otherwise lost to the original Greek corpus.
+
 ## Text
 
 ### 1.5.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lmm-aa` · [HTML page](https://eulogikon.org/works/anon-iambic-fragments-lmm-aa)
 
+The Anonymous Iambic Fragments constitute a collection of sixty-six short passages of iambic poetry preserved within the medieval manuscript tradition. Transmitted without attribution, these pieces are distinct from the works of canonical iambic poets such as Archilochus or Hipponax. The collection features gnomic statements, concise narratives, and moralizing sentiments, all composed in iambic meters. Their themes align with the broader iambic tradition, encompassing pithy wisdom, ethical commentary on virtue and fortune, observations on social types and daily life, and a generally critical, observational tone, though one less aggressively invective than that found in early iambography. The fragments survive exclusively through their inclusion in later medieval codices, often within anthologies, grammatical treatises, or collections of maxims. Their fragmentary nature is a direct result of this process of scholarly excerpting and compilation over centuries. These pieces are significant for demonstrating the longevity and evolution of the iambic genre beyond the Archaic period, illustrating its enduring adaptability for concise, quotable poetry. They form a valuable component of the fragmentary Greek poetic corpus, offering insights for linguistic, metrical, and cultural historical study.
+
 ## Text
 
 ### book 1.1

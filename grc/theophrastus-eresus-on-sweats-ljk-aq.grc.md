@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-aq` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-on-sweats-ljk-aq)
 
+On Sweats is a lost treatise on natural science by the ancient Greek philosopher Theophrastus, successor to Aristotle as head of the Peripatetic school. Composed in Attic Greek during the late fourth or early third century BCE, the work constituted a systematic investigation into the physiological phenomenon of sweating. Reflecting the broad Peripatetic project of cataloging and explaining natural phenomena, it is believed to have methodically examined the causes, physical composition, and health implications of sweat. A significant aspect of its approach was the review and preservation of theories proposed by earlier philosophers and physicians, a doxographical method characteristic of Theophrastus’s scientific writings. The complete text has not survived; modern knowledge of the treatise derives entirely from later references, most notably its inclusion in the catalogue of Theophrastus’s works compiled by the biographer Diogenes Laertius. Scholars have identified approximately forty scattered quotations and allusions to the work in subsequent Greek and Roman authors, which collectively form the basis for its fragmentary reconstruction. While its direct influence is difficult to assess, Theophrastus’s approach in such works helped shape the later historical understanding of early scientific thought.
+
 ## Text
 
 ### 1.1

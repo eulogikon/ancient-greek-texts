@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dg` · [HTML page](https://eulogikon.org/works/galen-pergamon-natural-faculties-qmm-dg)
 
+On the Natural Faculties is a three-book medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. The work presents a systematic defense of the concept that the organs and tissues of living bodies possess innate, purposeful capacities, which Galen terms "faculties." He directs his argument against rival medical theories of his era, particularly those that explained physiological processes such as digestion, growth, and nutrition through purely mechanical means, like the movement of particles into void spaces. Galen contends that such passive, mechanistic explanations are inadequate. He asserts that careful observation reveals a goal-directed Nature endowing the body with specific, active powers to attract, retain, alter, and expel substances in order to maintain health and facilitate healing.
+
+Structured as an extended polemic, the treatise begins by establishing the logical and philosophical foundations for the existence of these faculties, distinguishing between the functions of the soul and those of nature. The subsequent books apply this conceptual framework to detailed analyses of specific bodily systems, including digestion, blood production, and the functions of the kidneys, bladder, and skin. Through these case studies, Galen aims to demonstrate the necessity of positing such inherent, teleological powers to account for observed physiological phenomena. Modern scholars regard the treatise as a pivotal text from Galen's mature period in Rome, encapsulating the intense doctrinal debates of second-century medicine. It exemplifies his characteristic methodology, which synthesizes logical deduction from Aristotelian and Stoic philosophy with empirical observation and anatomical knowledge.
+
+The text survives in full through medieval Greek manuscripts and exerted profound influence on subsequent medical thought. Translated into Arabic and later into Latin, it became a cornerstone of Galenic physiology, promoting a teleological understanding of the body that dominated Western and Islamic medicine for more than a millennium.
+
 ## Text
 
 ### 2 1 (t1)

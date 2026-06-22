@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-ao` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-succession-fragments-pcs-ao)
 
+The Succession Fragments after Alexander is a collection of 204 historical excerpts compiled by the second-century historian Arrian of Nicomedia. Preserved within the tenth-century Byzantine compendium known as the Excerpta historica, commissioned by Emperor Constantine VII Porphyrogennetos, these fragments are derived from various sources detailing the turbulent period of the Wars of the Diadochi that followed the death of Alexander the Great in 323 BCE. They provide anecdotal insights into the key figures, political maneuvers, and military conflicts that defined the early Hellenistic age. The excerpts, drawn from the sections of the Excerpta titled De virtutibus et vitiis and De sententiis, focus particularly on themes of political leadership, military strategy, and their consequences, often illustrating the virtues and vices of rulers and generals against a backdrop of profound instability and violence.
+
+The work survives exclusively as a component of the Byzantine encyclopedia, with no independent manuscript tradition. Its transmission is therefore entirely dependent on this later imperial project, which selected and organized historical material for its didactic and moral value. The standard modern scholarly edition is the Teubner text originally edited by A.G. Roos and later revised by G. Wirth. As a source, these fragments are of considerable importance, offering crucial evidence for Arrian’s lost historical writings on the Hellenistic period and supplying additional testimonia on the Diadochi beyond the narratives of other surviving historians. Their preservation within Constantine VII’s compilation further underscores their perceived utility as historical and moral exempla in the political culture of the Byzantine world.
+
 ## Text
 
 ### 2b,156,F 1

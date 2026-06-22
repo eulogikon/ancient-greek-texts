@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nde-aa` · [HTML page](https://eulogikon.org/works/diodorus-sicily-uncertain-fragments-nde-aa)
 
+The Fragments of Uncertain Placement constitute a collection of thirteen excerpts attributed to the 1st-century BCE Greek historian Diodorus Siculus. These passages originate from his monumental forty-book universal history, the Bibliotheca Historica, a work designed to chronicle the mythic and historical past of the known world. While portions of this history survive, the books covering later periods, particularly the Hellenistic age and Roman history, are largely lost. These fragments are remnants that cannot be confidently assigned to any specific lost book. Their content is varied, comprising disparate historical episodes that reflect Diodorus’s compilatory method of drawing upon earlier sources.
+
+The fragments owe their survival not to the direct transmission of Diodorus’s original text, which is completely lost for these later sections, but to their inclusion in medieval Byzantine anthologies. These later collections were compiled not for historical narrative but for thematic purposes, such as illustrating moral exempla or rhetorical points, a process that extracted the passages from their original context. Consequently, their precise location within Diodorus’s chronological framework is irrecoverable. Modern editions have assembled these excerpts from such Byzantine sources.
+
+For contemporary scholarship, these fragments are of specialized interest. They are treated as decontextualized pieces of a vast lost history. Historians use them with caution as potential, albeit limited, sources for events in the Hellenistic period, while philologists examine them to better understand Diodorus’s methodology and the complex processes of textual transmission through the medieval era.
+
 ## Text
 
 ## FRAGMENTA SEDIS INCERTAE [Περὶ δὲ τῶν συμπτωμάτων μεγάλης οὔσης ζητήσεως, οἱ μὲν φυσικοὶ πειρῶνται τὰς αἰτίας τῶν τοιούτων παθῶν οὐκ εἰς τὸ θεῖον ἀναφέρειν, ἀλλ’ εἰς φυσικάς τινας καὶ κατηναγκασμένας περιστάσεις, οἱ δ’ εὐσεβῶς διακείμενοι πρὸς τὸ θεῖον πιθανάς τινας αἰτίας ἀποδιδοῦσι τοῦ συμβάντος, ὡς διὰ θεῶν μῆνιν γεγενημένης τῆς συμφορᾶς τοῖς εἰς τὸ θεῖον ἀσεβήσασι· περὶ ὧν καὶ ἡμεῖς ἀκριβῶς ἀναγράψαι πειρασόμεθα τῇ κατὰ μέρος ἱστορίᾳ.

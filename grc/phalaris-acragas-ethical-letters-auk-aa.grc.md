@@ -19,6 +19,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `auk-aa` · [HTML page](https://eulogikon.org/works/phalaris-acragas-ethical-letters-auk-aa)
 
+The Ethical Letters is a collection of 148 short epistles in Greek, traditionally ascribed to Phalaris, the sixth-century BCE tyrant of Acragas in Sicily. The work purports to be his correspondence with various contemporaries, including the philosopher Pythagoras, and features content ranging from political counsel and philosophical meditation to literary criticism. Within the letters, Phalaris is portrayed as a cultivated and sagacious monarch, a depiction starkly at odds with his historical notoriety for exceptional brutality. Scholarly consensus holds the work to be pseudonymous, a product of the Roman Imperial era, most likely composed in the second century CE as an advanced rhetorical exercise. The attribution to the infamous tyrant creates a deliberate literary irony, designed to engage educated readers by contrasting the refined sentiments of the text with the cruel reputation of its supposed author. The collection survives intact in medieval manuscripts, but its spurious nature was conclusively demonstrated in a seminal 1697 critique by the classical scholar Richard Bentley, an episode that stands as a landmark in the history of textual and historical criticism.
+
 ## Text
 
 ### 1 1 (t)

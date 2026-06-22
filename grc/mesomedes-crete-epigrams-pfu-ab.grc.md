@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfu-ab` · [HTML page](https://eulogikon.org/works/mesomedes-crete-epigrams-pfu-ab)
 
+The Epigrams is a collection of twenty-four short lyric poems attributed to Mesomedes of Crete, a Greek poet and composer active during the second century CE. A freedman and court poet for Emperor Hadrian, Mesomedes composed within the sophisticated, Hellenizing culture of the Roman imperial court. The poems belong to the traditional Greek epigram genre, featuring concise verses on typical themes such as dedications to gods, funerary epitaphs, and occasional poetry for social or ceremonial events. The complete collection survives intact, preserved not in standalone manuscripts but within the larger Byzantine compilation known as the Greek Anthology, specifically in Book 16 of the Anthologia Palatina. While Mesomedes is also noted for hymns that survive with ancient musical notation, the epigrams are transmitted as text only. Modern scholars interpret these works as examples of skilled courtly poetry, intended for an educated elite who appreciated the revival of classical Greek literary forms during the period often called the Second Sophistic. Their preservation in the anthology ensured his epigrammatic work was rediscovered and studied during the Renaissance.
+
 ## Text
 
 ### book 63.1.1

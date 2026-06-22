@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ax` · [HTML page](https://eulogikon.org/works/aristotle-marvelous-tales-hgw-ax)
 
+On Marvelous Tales is a brief ancient Greek treatise preserved within the Aristotelian corpus but now considered spurious. It is a paradigmatic work of paradoxography, a genre dedicated to compiling wondrous and strange reports about the natural world. The text consists of 36 concise entries describing a wide array of marvels, including peculiar geological features, springs with extraordinary properties, animals exhibiting bizarre anatomical or behavioral traits, and unusual customs attributed to peoples in distant regions such as Libya, India, and Scythia. The accounts are presented as simple, uncritical records of these phenomena, devoid of the analytical or systematic investigation characteristic of Aristotle's genuine scientific works.
+
+Scholarly consensus firmly dates the composition of On Marvelous Tales to the Hellenistic period, likely the 3rd or 2nd century BCE, and attributes it to an unknown compiler, perhaps from the Peripatetic school. Its purpose was primarily to entertain and cater to an intellectual fascination with the boundaries of the known world, drawing upon earlier travel narratives and ethnographic reports. The work survives in full through the medieval manuscript tradition of Aristotle's writings. While it holds no authority as a product of Aristotle, it remains a valuable document for understanding the development of popular scientific literature and the ancient appetite for cataloging natural and ethnographic curiosities.
+
 ## Text
 
 ### Mir 830a (t)

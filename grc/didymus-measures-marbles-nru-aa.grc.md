@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nru-aa` · [HTML page](https://eulogikon.org/works/didymus-measures-marbles-nru-aa)
 
+The Measurements of Marbles is a lost metrological treatise attributed to the Hellenistic scholar Didymus Chalcenterus, who was active in the first century BCE. The work systematically detailed the precise dimensions, weights, and volumetric measures of marble objects, a category that likely encompassed architectural elements and statuary. Its primary function was to standardize the technical terminology used in describing such materials, serving as a reference for grammarians and students interpreting material descriptions found in classical literary texts. The original treatise does not survive intact and is known only through fragments and later citations. According to the ninth-century scholar Photius, the work was organized into twenty-eight discrete sections. Its fragmentary preservation is characteristic of Didymus’s vast scholarly output, most of which was transmitted only through quotations by later lexicographers and compilers. The treatise stands as a representative example of the Alexandrian encyclopedic tradition, which sought to methodically catalog all branches of knowledge, extending from philological commentary to the precise details of material culture.
+
 ## Text
 
 ## Διδύμου Ἀλεξανδρέως μέτρα μαρμάρων καὶ παντοίων ξύλων. Τῆς τῶν μαρμάρων τε καὶ ξύλων μετρήσεως ἀναγκαίας οὔσης πρῶτον ὑποθέμενοι τὴν τῶν πηχῶν διαφορὰν ἑξῆς καὶ τὴν μέτρησιν αὐτῶν ὑποτάξομεν· τὰ γὰρ γεγραμμένα ἡμῖν εἴτε ἐπὶ πηχῶν, εἴτε ἐπὶ ποδῶν, εἴτε καὶ δι’ ἑτέρων μέτρων, τριχῶς νοεῖται κατὰ τὸ εὐθυμετρικὸν καὶ ἐμβαδομετρικὸν καὶ στερεομετρικόν.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cpi-aa` · [HTML page](https://eulogikon.org/works/theodorus-cyrene-testimonies-cpi-aa)
 
+The Testimonies is a modern scholarly designation for a collection of five key passages extracted from Plato’s dialogue Theaetetus. These passages constitute the primary surviving evidence concerning the life and work of the mathematician Theodorus of Cyrene. Preserved in Attic Greek within Plato’s text, the excerpts portray Theodorus as an elderly geometer and teacher. He is shown demonstrating, through a sequential and particular method, that the square roots (or the sides of squares whose areas are) of the numbers three, five, and every non-square integer up to seventeen are incommensurable in length with a unit measure. The work is not an independent treatise but a fragmentary record embedded in a philosophical dialogue; no mathematical writings by Theodorus himself have survived.
+
+The dramatic date of Plato’s dialogue is 399 BCE, presenting Theodorus as a contemporary of Socrates and a respected intellectual figure in Athens. Scholars generally interpret his inclusion as a philosophical device, using the concrete example of mathematical discovery to explore broader epistemological themes about the nature of knowledge. Theodorus’s pedagogical approach, which proceeds empirically from one case to the next, stands in contrast to the generalized proofs for irrationality developed later, notably by his student Theaetetus. Consequently, Theodorus is regarded as a pivotal transitional figure who bridged earlier Pythagorean investigations and the subsequent formal advances in the theory of irrational magnitudes, directly influencing the next generation of Greek mathematicians.
+
 ## Text
 
 ### 1

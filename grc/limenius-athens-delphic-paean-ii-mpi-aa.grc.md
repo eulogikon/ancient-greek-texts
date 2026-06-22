@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mpi-aa` · [HTML page](https://eulogikon.org/works/limenius-athens-delphic-paean-ii-mpi-aa)
 
+The Delphic Paean II and Prosodion to Apollo is a two-part hymn composed by the Athenian musician Limenius around 128 or 127 BCE. Written in a literary Doric dialect, the work comprises a paean, or hymn of praise, followed by a prosodion, a processional hymn. It was performed at the sanctuary of Delphi during the Pythian Games and the Theoxenia festival, a ritual in which the gods were honored as divine guests. The hymn praises the god Apollo, recounting his mythic slaying of the serpent Python and his subsequent establishment of the famous Delphic oracle, themes that celebrate divine order and communal worship.
+
+The text survives not through medieval manuscript transmission but as an original inscription carved on a stone stele discovered at Delphi. This monument preserves both the lyrics and the accompanying ancient Greek musical notation, rendering it one of the most complete surviving examples of notated music from the ancient world. While the stone has suffered damage, the content of the hymn is largely reconstructable. Scholars interpret it as a professional, commissioned work for a major Panhellenic festival, likely performed by the Athenian guild known as the Artists of Dionysus. Its principal importance today lies in the field of musicology, where it provides invaluable evidence for understanding the scales, rhythm, and performance practices of Hellenistic Greek music.
+
 ## Text
 
 ### 1

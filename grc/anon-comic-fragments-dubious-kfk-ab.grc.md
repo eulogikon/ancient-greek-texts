@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfk-ab` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-dubious-kfk-ab)
 
+Dubious Anonymous Works is a modern scholarly designation for a collection of nine fragmentary passages from unattributed Greek comedies. These fragments, likely originating from various lost plays, are preserved not in their original form but through quotations by later grammarians, lexicographers, and other authors. The compilation groups this disparate material under a single conventional label for the purposes of study and analysis. The content of the fragments, while specific themes are unattested, reflects the broad repertoire of Greek comedy, which encompassed social satire, political commentary, domestic life, parody of mythology, and scenes centered on food, drink, and celebration, often featuring stock character types.
+
+The fragments survive indirectly, having been embedded as illustrative examples in the works of later ancient and Byzantine commentators and anthologists. They are recovered and collected in modern critical editions such as the Poetae Comici Graeci. Although these anonymous fragments exert no identifiable direct literary influence, they hold significant philological and historical value. They provide crucial evidence for understanding the full scope and evolution of Greek comic theater beyond the small corpus of complete surviving plays, offering glimpses into lost works, the development of comic language, and the perpetuation of generic conventions.
+
 ## Text
 
 ### book 54

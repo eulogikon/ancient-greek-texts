@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hvc-aa` · [HTML page](https://eulogikon.org/works/aeschrion-samos-fragments-hvc-aa)
 
+The Fragments and Titles designates the surviving iambic poetry attributed to Aeschrion of Samos. These brief passages, preserved through quotation by later authors, represent the remnants of his work. The primary source is Athenaeus’s Deipnosophistae from the second or third century CE, which cites fragments demonstrating the genre’s characteristic invective and personal satire. The fragments reveal standard iambic themes, including poetic invective, as seen in a polemical epigram attacking the courtesan Gnathaena, and literary polemic, suggesting engagement in disputes with contemporary poets or public figures. The work operates firmly within the iambic tradition of abuse and mockery established by poets like Archilochus.
+
+Aeschrion’s work survives only indirectly via quotation, with no continuous manuscript tradition. The fragments are primarily excerpted in Athenaeus’s Deipnosophistae, with possible additional attestations in the Greek Anthology and ancient scholia. As a minor Hellenistic iambic poet, Aeschrion’s direct literary influence appears minimal. His significance lies in exemplifying the genre’s continuation beyond its archaic pioneers. For scholars, the fragments contribute to understanding the scope of iambic poetry, and for ancient compilers like Athenaeus, they served as sources for historical and cultural details.
+
 ## Text
 
 ### book 4.1

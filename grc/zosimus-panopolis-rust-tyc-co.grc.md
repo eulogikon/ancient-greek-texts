@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-co` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-rust-tyc-co)
 
+On Rust is a fragmentary alchemical treatise by Zosimus of Panopolis, a Greco-Egyptian author active in the late third or early fourth century CE. Written in Koine Greek, the text is a practical guide focused on laboratory techniques for treating metals, specifically addressing a substance termed ios. This term denotes a corrosive product, variously interpreted as rust, verdigris, or a similar metallic tarnish. The surviving portion presents technical instructions that are frequently interwoven with symbolic and allegorical language, a hallmark of Zosimus's work which views physical processes as reflections of spiritual transformation. The treatise is preserved as a single incomplete passage within larger Byzantine compendia of alchemical recipes dating from the tenth to the thirteenth centuries. It was evidently composed for a community of practicing alchemists, blending hands-on chemical knowledge with the philosophical and mystical concerns characteristic of late antique Greco-Egyptian alchemy. Along with his other works, this practical treatise by Zosimus later served as a foundational text for the development of alchemical theory and practice in both the Byzantine and Islamic intellectual traditions.
+
 ## Text
 
 ### 1

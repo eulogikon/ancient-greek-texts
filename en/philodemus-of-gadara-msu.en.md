@@ -6,7 +6,7 @@ canonical: "https://eulogikon.org/authors/philodemus-of-gadara-msu"
 period: Hellenistic
 dialect: Koine
 affiliation: Epicurean
-works_count: 6
+works_count: 8
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
@@ -26,6 +26,8 @@ Philodemus was a Hellenistic Epicurean philosopher and poet from Gadara. Read hi
 - [On Rhetoric](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-rhetoric-msu-ab.grc.md) — *ΠΕΡΙ ΡΗΤΟΡΙΚΗΣ* · `msu-ab`
 - [On the Existing Books of Music](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-existing-music-books-msu-aa.grc.md) — *Περὶ τῶν ὑπαρχόντων βιβλίων μουσικῆς* · `msu-aa`
 - [On the Gods, Book III (On the Way of Life of the Gods)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara-on-the-gods-iii-msu-af.grc.md) — *Περὶ τῆς τῶν θεῶν διαγωγῆς (Γ)* · `msu-af`
+- [On the Stoics (PHerc. 155)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemos-of-gadara-on-the-stoics-pherc-155-msu-ag.grc.md) — *Περὶ τῶν Στωικῶν* · `msu-ag`
+- [On the Stoics (PHerc. 339)](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemos-of-gadara-on-the-stoics-pherc-339-msu-ah.grc.md) — *Περὶ τῶν Στωικῶν* · `msu-ah`
 
 ## License and provenance
 

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ave-ab` · [HTML page](https://eulogikon.org/works/asclepius-aristotle-metaphysics-commentary-ave-ab)
 
+Asclepius of Tralles’s Commentary on Aristotle's Metaphysics Books A-Z is a sixth-century philosophical exegesis composed in Koine Greek. Structured as a series of 452 lectures, the work systematically quotes and explicates the entire text of Aristotle’s Metaphysics. It is not an original treatise but a report based on the teachings of the Neoplatonist philosopher Ammonius Hermiae, under whom Asclepius studied in Alexandria. The commentary seeks to elucidate Aristotle’s complex doctrines concerning being, substance, potentiality, and the prime mover. It represents a principal example of the late antique Alexandrian school’s endeavor to harmonize Aristotelian and Platonic philosophy within a unified intellectual system. Likely intended for advanced students as part of a standard curriculum, the complete text survives in medieval manuscripts. It serves as a vital witness to the content of Ammonius’s otherwise lost lectures and to the transmission of Aristotelian thought into the medieval period.
+
 ## Text
 
 ### In met.1.(1t)

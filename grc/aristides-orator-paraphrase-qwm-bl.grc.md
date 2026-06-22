@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-bl` · [HTML page](https://eulogikon.org/works/aristides-orator-paraphrase-qwm-bl)
 
+On the Paraphrase is a declamatory oration composed in Attic Greek by the orator Aelius Aristides in the mid-2nd century CE. A characteristic product of the Second Sophistic movement, which prized the revival of Classical Greek language and rhetorical forms, the work is a fictional forensic defense. It imagines the Athenian general Miltiades addressing a court after his victory at the Battle of Marathon in 490 BCE, arguing against a capital charge brought by his prosecutor, Xanthippus. Structured as a continuous legal argument and conventionally divided into 37 sections, the oration was crafted for performative display before an educated audience capable of appreciating its sophisticated emulation of Classical Athenian style and its engagement with a pivotal historical episode. Scholars view the subject matter as a means for the Greek cultural elite under Roman dominion to assert a connection with their heroic past. The work explores themes of forensic defense, the complex relationship between a leader and the city-state he serves, and the recognition of public merit. The complete text survives through the principal manuscript tradition of Aristides' works, preserved chiefly in two 10th-century codices.
+
 ## Text
 
 ### 365

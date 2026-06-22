@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-ac` · [HTML page](https://eulogikon.org/works/hymnic-anon-muses-apollo-upu-ac)
 
+Hymn 25 To the Muses and Apollo is a brief, five-line hexameter poem from the collection of thirty-three Homeric Hymns. Though traditionally ascribed to Homer, these hymns are the anonymous work of various poets composed between roughly the 7th and 5th centuries BCE. The hymn opens with a direct invocation to the Muses and Apollo, asking them to sing of both the immortals and the race of men, thereby encompassing the traditional dual themes of epic poetry. Its core function is celebratory and supplicatory, aiming to honor the gods and secure their assistance for poetic performance by emphasizing the poet’s role as a vessel for divine inspiration. The hymn survives as part of the Homeric Hymns corpus transmitted through medieval manuscripts, primarily the 13th-century Laurentianus and the 15th-century Mosquensis. As with the other short hymns in the collection, its text is complete and stable within the manuscript tradition. While Hymn 25 itself is a minor, formulaic prelude, the Homeric Hymns collection was highly influential, providing important mythological narratives and models for later hymnody and remaining a crucial source for understanding Greek religion, poetic practice, and epic diction.
+
 ## Text
 
 ### 1

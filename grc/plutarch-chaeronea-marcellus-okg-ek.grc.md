@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ek` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-marcellus-okg-ek)
 
+Plutarch’s Life of Marcellus is a biography of the Roman general Marcus Claudius Marcellus, composed in Greek as part of the author’s Parallel Lives around the early second century CE. It is paired with the life of the Theban commander Pelopidas, a structural device Plutarch employs to draw comparative moral and characterological lessons from the careers of distinguished Greeks and Romans. The narrative chronicles Marcellus’s military exploits, particularly his significant role in the Second Punic War. Plutarch emphasizes his subject’s formidable physical strength, aggressive combativeness, and patriotic zeal, qualities that earned him the nickname "the Sword of Rome." The account details his most famous achievement, the protracted siege and eventual capture of the great Sicilian city of Syracuse, a episode that also serves to introduce the poignant story of the death of the mathematician Archimedes at the hands of a Roman soldier.
+
+Beyond a mere record of events, the biography is a philosophical exploration of character and leadership. Plutarch juxtaposes Marcellus’s martial ferocity and occasional recklessness with his reported cultivation, humanity, and admiration for Greek learning, presenting a complex figure whose virtues are intertwined with his flaws. The narrative structure is anecdotal, designed to reveal ethical truths through specific actions and decisions, culminating in the general’s death in a military ambush. Written for a literate, bilingual elite during the height of the Roman Empire, the work uses historical example to meditate on timeless themes of courage, fortune, and the responsibilities of power. As a component of the Parallel Lives, it has been instrumental in shaping subsequent historical and literary conceptions of Roman virtue and remains an essential source for the study of the Middle Roman Republic.
+
 ## Text
 
 ### Marc t 1

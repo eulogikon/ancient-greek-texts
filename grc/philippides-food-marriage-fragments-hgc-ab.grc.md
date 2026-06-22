@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgc-ab` · [HTML page](https://eulogikon.org/works/philippides-food-marriage-fragments-hgc-ab)
 
+The Comic Fragments on Food and Marriage is a modern compilation of 62 excerpts from the lost comedies of the Athenian poet Philippides, who was active in the late fourth and early third centuries BCE. Writing during the transitional period from Middle to New Comedy, Philippides worked within a genre that had largely moved away from political satire toward plots centered on domestic life, romance, and recognizable social types. The fragments are organized thematically, providing insights into his plays' treatment of dining, gluttony, marital arrangements, and familial strife. No complete play by Philippides survives; the text exists solely as quotations preserved by later ancient authors, primarily the encyclopedist Athenaeus of Naucratis. In his second- or third-century CE work The Learned Banqueters, Athenaeus cites over sixty passages from Philippides, often using them to illustrate discussions about food, drink, and social customs. Modern scholarship has assembled and numbered these scattered quotations to form the extant collection. The fragments were originally composed for the popular Athenian theater and reflect the standard concerns of New Comedy, a genre that would later exert a profound influence on Roman dramatists such as Plautus and Terence.
+
 ## Text
 
 ### book 1.1

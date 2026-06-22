@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsw-ac` · [HTML page](https://eulogikon.org/works/callisthenes-olynthus-historical-encomiastic-fsw-ac)
 
+The Historical and Encomiastic Fragments constitutes a modern assemblage of 68 passages attributed to the 4th-century BCE Greek historian Callisthenes of Olynthus, a nephew of Aristotle. As none of his original works survive, these fragments are preserved solely through quotation or paraphrase by later Greek and Roman authors. They derive principally from two of his major lost histories: the Hellenica, which chronicled Greek affairs in the early 4th century, and his most famous work, the Deeds of Alexander. Callisthenes was appointed the official court historian for Alexander the Great’s campaigns, and his account was designed to glorify the king’s achievements, promoting themes of a Panhellenic crusade and attributing divine favor to Alexander’s actions. His dramatic and encomiastic narrative style proved highly influential, though it was later criticized by ancient commentators for prioritizing sensational storytelling over strict factual accuracy. His association with Alexander ended tragically when he fell from favor, was arrested, and died in captivity in 327 BCE. The fragments, transmitted through writers such as Strabo, Plutarch, and Arrian, vary considerably in length and historical reliability. Despite their fragmentary nature, Callisthenes’ history of Alexander provided a foundational source for the later “vulgate” tradition of Alexander historiography, profoundly shaping the legendary image of the conqueror for subsequent centuries.
+
 ## Text
 
 ### 2b,124,F 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qao-ab` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-acute-diseases-qao-ab)
 
+On the Causes and Signs of Acute Diseases is a medical treatise by the physician Aretaeus of Cappadocia, composed in Ionic Greek and likely dating from the 1st century CE. As one of his two major surviving works, it offers a systematic examination of sudden and severe illnesses. The text is methodically arranged into 29 sections, proceeding through the body's systems to describe various afflictions. It details conditions of the head, such as phrenitis, disorders of the respiratory system including pneumonia and pleurisy, and abdominal ailments like cholera, consistently outlining their causes, characteristic symptoms, and typical progression.
+
+Aretaeus is renowned for the precision and vividness of his clinical descriptions, which were crafted for instructional purposes to aid fellow practitioners in diagnosis and prognosis. Modern scholarship associates him with the Pneumatist school of medical thought, which interpreted health and disease through the lens of pneuma, or vital spirit, and its equilibrium within the body. The treatise was preserved through Byzantine manuscript traditions and rediscovered during the Renaissance, where it was highly esteemed for its observational clarity. Among his many contributions, his description and naming of diabetes mellitus remains particularly celebrated. The work survives largely intact, providing a comprehensive view of his diagnostic methodology and medical philosophy.
+
 ## Text
 
 ### 1.1

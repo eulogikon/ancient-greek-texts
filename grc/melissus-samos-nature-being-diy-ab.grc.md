@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `diy-ab` · [HTML page](https://eulogikon.org/works/melissus-samos-nature-being-diy-ab)
 
+On Nature or On Being is a philosophical treatise composed in the fifth century BCE by Melissus of Samos, a later adherent of the Eleatic school founded by Parmenides. Written in clear, argumentative Ionic Greek prose, the work presents a systematic defense of Eleatic monism, contending that true reality—designated as "what is"—must be singular, eternal, unchanging, infinite in extent, and entirely uniform. The complete text has not survived independently; what remains are fragments preserved through quotation by later ancient commentators, most notably Simplicius. These fragments, traditionally organized into about a dozen passages, form a chain of logical deductions. Melissus begins from the premise that what exists is ungenerated and indestructible. He then argues that it must consequently be unlimited in both time and space, without internal division or void, and utterly motionless. This leads to the conclusion that the everyday world of plurality, change, and motion is illusory. Modern scholarship interprets the treatise as a rigorous consolidation of Parmenidean doctrine, stripping away its original poetic form to present a stark logical challenge to the emerging physical theories of the period, such as atomism.
+
 ## Text
 
 ### tit,1-10

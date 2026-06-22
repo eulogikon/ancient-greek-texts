@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-al` · [HTML page](https://eulogikon.org/works/hippocrates-internal-affections-bww-al)
 
+On Internal Affections is a systematic medical treatise from the Hippocratic Corpus, a body of ancient Greek medical works attributed to Hippocrates but composed by various authors. Written in Ionic Greek, likely in the late fifth or early fourth century BCE, it functions as a practical manual for the physician. The text methodically catalogs diseases believed to originate within the body, proceeding in a head-to-toe order before concluding with illnesses affecting the entire system. For each affliction, it details symptoms, offers a prognosis, and prescribes therapeutic regimens.
+
+The treatise is characterized by an aggressive therapeutic philosophy, heavily reliant on strong purgatives, emetics, and rigorous dietary restrictions aimed at expelling pathogenic substances from the body. Scholars regard it as a principal exemplar of the so-called Cnidian school of medicine, which emphasized the detailed classification and treatment of specific diseases over broader theoretical frameworks. While not explicitly articulating the theory of the four humors, its underlying pathology rests on the concept of harmful fluids accumulating internally. The complete text, comprising 59 sections, has been preserved through medieval manuscripts and served as an influential textbook, later cited and critically examined by physicians such as Galen.
+
 ## Text
 
 ## ΠΕΡΙ ΤΩΝ ΕΝΤΟΣ ΠΑΘΩΝ. Ἢν ἡ τοῦ πλεύμονος ἀρτηρίη ἑλκωθῇ ἤ τι ῥαγῇ τῶν φλεβίων τῶν λεπτῶν, τῶν κατακρεμαμένων ἐς τὸν πλεύμονα, ἢ τῶν συρίγγων τῶν διὰ τοῦ πλεύμονος τεταμένων, καὶ συῤῥαγέωσιν ἐς ἀλλήλας καὶ αἵματος πλησθῶσι, διασπῶνταί τε καὶ καταῤῥήγνυνται διὰ τάσδε τὰς αἰτίας μάλιστα· διὰ ταλαιπωρίην, διὰ δρόμους, διὰ πτώματα, διὰ πληγὰς, δι’ ἐμέτους βιαίους γινομένους, διὰ πυρετούς· τάδε οὖν πάσχει· τὸ μὲν πρῶτον βὴξ ἴσχει ξηρή· ἔπειτα ὀλίγῳ ὕστερον ἀποπτύει τὸ σίαλον ὕφαιμον, τοτὲ δὲ καθαρόν.

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-as` · [HTML page](https://eulogikon.org/works/med-writers-anon-lycanthropy-umi-as)
 
+On Lycanthropy is a concise, anonymous medical treatise preserved within the manuscript tradition of the Hippocratic Corpus. The work presents lycanthropy not as a supernatural affliction but as a specific form of mania with distinct physical and behavioral symptoms. It describes sufferers as having a pale complexion, dry and sunken eyes, a dry tongue, and an unquenchable thirst. Their characteristic behaviors include nocturnal wandering and a tendency to frequent tombs. The text attributes the condition to an imbalance of black bile, potentially triggered by factors such as anxiety, sleeplessness, poor diet, or the suppression of bodily fluxes. A brief therapeutic regimen is suggested, involving bloodletting, a diet of easily digestible foods, and soothing baths. This treatise is historically significant as an early rationalist attempt within Greek medicine to provide a naturalistic, clinical explanation for a phenomenon deeply embedded in myth and folklore, representing a precursor to later psychiatric thought.
+
 ## Text
 
 ### [25]

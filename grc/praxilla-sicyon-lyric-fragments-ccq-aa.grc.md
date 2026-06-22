@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ccq-aa` · [HTML page](https://eulogikon.org/works/praxilla-sicyon-lyric-fragments-ccq-aa)
 
+The lyric fragments attributed to Praxilla of Sicyon, a poet of the fifth century BCE, represent the scant surviving verses of one of the few known female voices from classical Greece. Written in Doric Greek, these poems were originally composed for performance at religious festivals and symposia, treating themes of mythology, love, and convivial life. The modern assemblage of these passages under the title Lyric Fragments on Life and Love comprises twelve excerpts preserved not through direct manuscript tradition but through quotations by later Greek authors and scholiasts. Among these, the most renowned fragment derives from a hymn to Adonis, in which the dying god enumerates the beautiful things he must leave behind: sunlight, the stars, the moon's face, and, strikingly, ripe cucumbers, apples, and pears. This juxtaposition of the cosmic with the mundane was a distinctive feature of her style, noted in antiquity both for its charm and for provoking criticism regarding its quotidian subject matter. Praxilla's inclusion in later Hellenistic lists of the canonical Nine Lyric Poets attests to her significant reputation. Her fragments, though brief, provide a precious, if partial, window into the diversity of poetic expression within the predominantly male literary landscape of ancient Greece.
+
 ## Text
 
 ### book 1.1

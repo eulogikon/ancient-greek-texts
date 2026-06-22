@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oym-aa` · [HTML page](https://eulogikon.org/works/stoic-frag-anon-criterion-oym-aa)
 
+On the Criterion is a fragmentary philosophical text preserved within the fifth-century CE anthology compiled by John Stobaeus. The excerpt is attributed simply to "the Stoics" by Stobaeus, and it addresses the Stoic epistemological doctrine concerning the criterion of truth. The passage defines this criterion as "that which is apprehended" and outlines the process of apprehension, which involves the interaction of a sense impression and intellectual assent to form secure knowledge. This concise fragment presents core Stoic positions, focusing on the reliable standard for judgment, the cognitive state of apprehension, and the roles of impression and assent in achieving it.
+
+The text survives exclusively as an excerpt in Stobaeus’s work Eclogae, specifically in its first book. The original, fuller treatise from which it was extracted is lost, with no other known copies, making Stobaeus’s compilation the sole source for this fragment. As a primary source for standard Stoic epistemology, the fragment articulates the school's argument for the existence of a reliable criterion of truth, a position developed in opposition to Academic Skepticism. Its definitions and concepts were later engaged by critics such as Sextus Empiricus and were transmitted to Byzantine and Renaissance scholars through the medium of Stobaeus's influential anthology.
+
 ## Text
 
 ### 631

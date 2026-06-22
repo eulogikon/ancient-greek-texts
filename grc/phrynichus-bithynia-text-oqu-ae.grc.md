@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqu-ae` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ae)
 
+The Selections is a lexicographical treatise composed in Greek by the grammarian Phrynichus of Bithynia around 180 CE. Functioning as a prescriptive handbook, it aims to guide users toward proper Attic Greek usage by systematically condemning words and phrases from the contemporary common language and prescribing their classical Athenian equivalents. The work comprises 87 entries, each typically identifying a non-Attic term, rejecting it, and offering the correct alternative, often with citations from authoritative classical authors such as Aristophanes or Plato for validation. A representative example is the rejection of the word basilissa (“queen”) in favor of the Attic form basilis.
+
+Compiled during the cultural movement known as the Second Sophistic, a period that prized the revival of classical Athenian language and values as markers of prestige, the Selections is interpreted by modern scholars as a practical manual for educated elites and aspiring rhetoricians. For these individuals, command of a refined, “pure” Attic dialect was essential for social distinction and professional success in oratory. The treatise is believed to be a shorter, preparatory extract from Phrynichus’s more comprehensive lexicon, which is now lost.
+
+The text survives incompletely, primarily through a single manuscript dating from the 13th or 14th century that breaks off abruptly. Later Byzantine scholars produced summaries and excerpts that aid in reconstructing the original work. Despite its polemical and often rigid approach to linguistic purity, the Selections remains a vital historical source, offering significant insight into the linguistic debates and cultural priorities of the Greek-speaking elite under the Roman Empire.
+
 ## Text
 
 ### 4

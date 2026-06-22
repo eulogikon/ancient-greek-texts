@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sno-ac` · [HTML page](https://eulogikon.org/works/julian-apostate-deeds-kingship-sno-ac)
 
+On the Emperor's Deeds or On Kingship is a political treatise composed in Attic Greek by the future Roman emperor Julian, commonly known as Julian the Apostate. Written during his tenure as a junior emperor, or Caesar, between approximately 358 and 361 CE, the work comprises 44 passages that merge the conventions of panegyric with those of philosophical advice literature, forming a "mirror for princes." It ostensibly praises his senior colleague and cousin, Emperor Constantius II, while using his reign as a framework to articulate Julian’s own philosophical ideals of governance. Deeply informed by Platonic and Neoplatonic thought, the treatise explores the concept of the philosopher-king, who rules through virtue and reason, the ruler as a "living law," and the sovereign’s fundamental duty to serve his subjects. Modern scholarship views the text as serving a dual function: as a public profession of loyalty to Constantius during a period of political uncertainty, and as a sophisticated declaration of Julian’s own Hellenic philosophical identity. Preserved in its entirety through medieval manuscripts, the treatise stands as a significant document illustrating the adaptation of classical Greek political philosophy to the ideological needs of the later Roman Empire.
+
 ## Text
 
 ### 1

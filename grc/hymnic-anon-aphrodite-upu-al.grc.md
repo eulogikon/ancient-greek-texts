@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-al` · [HTML page](https://eulogikon.org/works/hymnic-anon-aphrodite-upu-al)
 
+The Homeric Hymn to Aphrodite, designated as Hymn 6 in the collection, is a concise twenty-one line composition in epic hexameter verse. Dating to the Archaic period, likely the seventh or sixth century BCE, this anonymous work forms part of the corpus known as the Homeric Hymns. It opens with a celebration of the goddess's birth from the sea foam near Cyprus and her adornment by the Horai before being welcomed among the Olympians. The hymn then extols Aphrodite's universal dominion over love and desire, asserting her power to subdue gods, mortals, and beasts alike. A central mythological exemplum illustrates this authority, recounting how the goddess once compelled Zeus to experience desire for mortal women, which in turn led him to force other deities into similar unions. The poem notably identifies three virgin goddesses—Athena, Artemis, and Hestia—as the sole beings impervious to Aphrodite's influence. Structured as a brief narrative that moves from invocation to mythological proof before a concluding farewell, the hymn is believed to have functioned as a prelude, recited at religious festivals to honor the deity prior to the performance of longer epic poetry. Its themes explore the complex hierarchy of the Greek pantheon and the paradoxical power of love, which can master even the king of the gods. Transmitted through medieval manuscripts, the Homeric Hymns collectively provide invaluable insight into early Greek religious practice and poetic tradition.
+
 ## Text
 
 ### 1

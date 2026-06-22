@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bwc-aa` · [HTML page](https://eulogikon.org/works/zeno-elea-nature-plurality-bwc-aa)
 
+On the Nature of Plurality is a collection of philosophical arguments by the 5th-century BCE thinker Zeno of Elea, a student of Parmenides. The work survives only in fragmentary form, known through several key passages preserved by later ancient authors such as Aristotle and the commentator Simplicius. These fragments contain Zeno's famous paradoxes, which employ rigorous logical reasoning to challenge the commonsense belief in a world composed of many distinct entities. His method was to adopt the hypothesis that "there are many things" and then demonstrate that it leads to absurd or contradictory conclusions, such as things being simultaneously infinitely large and having no magnitude at all.
+
+The work is widely interpreted as a defensive polemic intended to support Parmenides' doctrine that reality is a single, unchanging unity by exposing the logical incoherence of the alternative belief in plurality. Zeno's paradoxes, including those concerning motion and divisibility, were aimed at a sophisticated philosophical audience engaged in early metaphysical debate. Despite its incomplete transmission, the logical puzzles presented in On the Nature of Plurality have exerted a profound and lasting influence, continuously shaping discussions in metaphysics, logic, and the foundations of mathematics.
+
 ## Text
 
 ### tit

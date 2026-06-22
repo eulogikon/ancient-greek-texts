@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `die-ac` · [HTML page](https://eulogikon.org/works/empedocles-acragas-epigrams-die-ac)
 
+The Epigram attributed to the pre-Socratic philosopher Empedocles of Acragas is a short funerary poem. According to the biographer Diogenes Laertius, it was inscribed on a statue dedicated to the philosopher in his hometown after his death. The poem summarizes Empedocles' life and famously declares his immortal, divine status, though its authenticity is debated by scholars. Its central theme is the philosopher's self-deification, a declaration of his transcendence of mortal death. This is framed by references to civic honor and a journey into exile, suggesting a narrative of homecoming. Functioning as a public record of the subject's achievements, it follows the conventions of commemorative funerary inscriptions. The epigram survives solely through literary transmission in Diogenes Laertius's Lives and Opinions of Eminent Philosophers from the third century CE, with no independent manuscript tradition. As part of the Empedoclean legend, it reinforced his later image as a divine figure and remains a key text in discussions of his biographical tradition and philosophical reception.
+
 ## Text
 
 ### unit_1

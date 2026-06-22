@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-ba` · [HTML page](https://eulogikon.org/works/herodian-alexandria-monosyllables-qnq-ba)
 
+On Monosyllables is a lost grammatical treatise by the second-century CE scholar Herodian of Alexandria. Structured as an oration in four parts, it provided a systematic analysis of single-syllable words in Attic Greek. The work focused on their classification, inflection, and the rules governing their accentuation, a subject in which Herodian was considered the preeminent authority. Written for an advanced audience of students, teachers, and fellow grammarians, it formed part of Herodian's broader project to catalog the intricacies of Greek grammar and preserve the standards of the classical dialect during the Roman era. The original text does not survive intact and is known only through fragments and references preserved by later Byzantine scholars, most notably within the tenth-century encyclopedia known as the Suda. Herodian's systematic approach in this and other works established the foundation for grammatical instruction in the Byzantine world and influenced Greek lexicography for centuries.
+
 ## Text
 
 ### 1

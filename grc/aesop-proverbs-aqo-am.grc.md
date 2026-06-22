@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-am` · [HTML page](https://eulogikon.org/works/aesop-proverbs-aqo-am)
 
+The Proverbs, a collection of fables attributed to the semi-legendary Aesop, represents a cornerstone of ancient Greek popular wisdom. No authentic writings by Aesop himself survive; the tales associated with his name circulated orally for centuries before being compiled into written prose collections. A fable is a concise, fictional narrative, frequently employing animals as characters, which culminates in an explicit moral lesson. The corpus is vast and evolved over time, with the reference to a specific number of passages often denoting a particular selection from this larger, fluid tradition.
+
+The content of the fables centers on imparting practical wisdom through succinct allegory. A dominant theme is the triumph of intelligence and cunning over mere physical strength. The narratives often serve as social critique, delivering lessons on justice, the dangers of hubris and greed, and the inescapability of consequences. Power dynamics, particularly the fraught relationship between the strong and the weak, are routinely explored. Beyond these broader themes, the fables offer guidance on everyday ethics, including the nature of true friendship, the importance of gratitude and preparation, and the perils of deceit.
+
+The transmission of the Aesopic tradition was multifaceted, relying on both oral retelling and successive written redactions. The first known Greek prose compilation, made by Demetrius of Phalerum in the late 4th century BCE, is now lost. The fables survive primarily through later sources, most notably the extensive prose collection known as the Augustana and through verse adaptations, such as those composed in Greek by Babrius and in Latin by Phaedrus.
+
+The significance of Aesop's fables in Western culture is profound. Originally utilized for ethical instruction and as rhetorical exempla, they became fundamental educational texts. Their pithy morals entered common parlance, giving rise to numerous proverbs. The genre's enduring appeal is evidenced by its continual adaptation, most famously in the verse fables of Jean de La Fontaine, securing Aesop's place as a perennial source of literary and cultural inspiration.
+
 ## Text
 
 ### 1

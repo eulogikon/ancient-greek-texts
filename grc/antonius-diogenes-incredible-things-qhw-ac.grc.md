@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qhw-ac` · [HTML page](https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-ac)
 
+_On Incredible Things_ is a lost paradoxographical work by the Imperial Roman author Antonius Diogenes, known only through fragments. Distinct from his novel _The Wonders Beyond Thule_, it belongs to the genre of paradoxography, which compiled marvelous and unbelievable phenomena. The two surviving fragments indicate a collection of incredible tales, including an account of a man named Cleodemus who was revived after being struck by lightning only to die later from a fever. The work’s themes, consistent with its genre, encompass the collection of marvelous and unbelievable events, miracles and divine intervention, natural wonders, the peculiar customs of distant peoples, and the exploration of the known world’s boundaries and the credibility of reported wonders.
+
+The text survives fragmentarily, with no continuous manuscript tradition, a fate typical of paradoxographical texts that were excerpted by later compilers. The primary source is a summary in the _Bibliotheca_ of the 9th-century scholar Photius. A second fragment, the story of Cleodemus, is preserved in the medieval _Excerpta Vaticana_. _On Incredible Things_ exemplifies Antonius Diogenes’s engagement with the popular paradoxographical genre, which aimed to entertain and display erudition for a literate elite. While its direct influence is untraceable, it participated in a long tradition of cataloging marvels that informed later Byzantine and medieval wonder-literature.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `phs-ah` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-appearances-phs-ah)
 
+The Phaenomena, or Appearances, is a treatise on mathematical astronomy composed by Claudius Ptolemy of Alexandria around 150 CE. It functions as a comprehensive star catalog and a practical observational guide, complementing the more abstract theoretical models presented in his foundational work, the Almagest. The text provides a systematic description of the constellations visible from the Hellenistic world, detailing the positions, rising and setting times, and relative brightness of fixed stars. Organized into 48 constellations across 65 sections, the work offers the precise celestial coordinates necessary for astronomical observation and for underpinning the planetary theories developed in Ptolemy's other writings. It was designed as an authoritative reference for scholars, updating and refining the earlier star catalog of Hipparchus. Transmitted intact through Byzantine and Arabic manuscript traditions, the Phaenomena established the definitive standard for star catalogs in both the Western and Islamic worlds for over a millennium. Its methodological rigor profoundly influenced Islamic astronomy and shaped all subsequent Western catalogs until the advancements of the Renaissance.
+
 ## Text
 
 ### 2 3

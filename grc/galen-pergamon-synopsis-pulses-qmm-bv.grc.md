@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-bv` · [HTML page](https://eulogikon.org/works/galen-pergamon-synopsis-pulses-qmm-bv)
 
+The Synopsis of His Books on Pulses is a concise medical handbook composed by the physician Galen of Pergamon around 170–180 CE. Written in Greek during his service in Rome, the work distills the essential doctrines from his own extensive writings on pulse theory into a practical summary intended for students and practitioners. Galen opens with a critique of those who seek only epitomes and summaries, arguing that true understanding requires the detailed explanations and refutations of opposing views found in comprehensive treatises. Nevertheless, he provides this synopsis as an organized guide, systematically covering the definition of the pulse, its physiological causes in the heart and arteries, and its critical role in diagnosis and prognosis. The text details Galen’s complex classification of pulses by their size, speed, strength, and rhythm. The complete treatise survives in 103 passages and is interpreted by modern scholars as part of Galen’s broader effort to systematize medical knowledge and advocate for the necessity of theoretical understanding in clinical practice. The work reflects his teleological view of the body, wherein the pulse serves as evidence of a purposeful natural design. As an authoritative summary of Galen’s system, this handbook was instrumental in transmitting his influential pulse theory through later Byzantine, Arabic, and medieval Latin medical traditions for over a millennium.
+
 ## Text
 
 ### 9 431 (t1)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uqo-ad` · [HTML page](https://eulogikon.org/works/ammonius-alexandria-porphyry-isagoge-uqo-ad)
 
+On Porphyry's Isagoge or Five Voices is a philosophical commentary by the Neoplatonist Ammonius of Alexandria on Porphyry's Isagoge, an introductory text to Aristotle's Categories. Structured as a systematic exegesis in 128 sections, the work served a pedagogical function, deriving from Ammonius's lectures in the Alexandrian school where he taught both pagan and Christian students. The commentary explicates Porphyry's focus on the five predicables: genus, species, difference, property, and accident. Its central themes include the ontological status of universals, engaging with Porphyry's abstention from deciding whether genera and species exist independently or only in concepts; the propaedeutic role of logic as an instrument for philosophical inquiry; and the demonstration of fundamental agreement between Plato and Aristotle, a hallmark of the Alexandrian commentary tradition. The complete text survives in its original Greek, and its manuscript tradition forms part of the broader transmission of Neoplatonic commentaries on Aristotle into the Byzantine era. Ammonius's commentary was a foundational textbook. Through his students and subsequent translations into Syriac and Arabic, it exerted a profound influence on Byzantine and Islamic philosophy, shaping pedagogical approaches to logic and metaphysics for centuries.
+
 ## Text
 
 ### 1 (1t)

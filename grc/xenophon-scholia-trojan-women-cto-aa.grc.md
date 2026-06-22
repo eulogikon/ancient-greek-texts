@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cto-aa` · [HTML page](https://eulogikon.org/works/xenophon-scholia-trojan-women-cto-aa)
 
+The Scholia on Euripides' Trojan Women is a collection of 493 ancient prose annotations attributed to the grammarian Xenophon. This standard scholarly commentary serves as an exegetical tool designed to elucidate Euripides' tragedy for advanced students and scholars. The notes address core philological themes, including textual criticism with discussions of variant readings or suspected corruptions, lexicographical glosses of rare or archaic vocabulary, and explanations of mythological and historical references. They also provide analysis of grammar, syntax, and metrical scansion, alongside occasional literary or rhetorical observations. The scholia survive within the medieval manuscript tradition of Euripides' plays, transmitted selectively in the margins of codices containing the Trojan Women. They derive from the condensation and copying of earlier, more comprehensive Hellenistic and Roman commentaries. As a primary witness to the ancient and Byzantine reception of Euripides, these annotations are invaluable for modern scholarship in reconstructing the text's history, understanding ancient interpretive methods, and occasionally preserving fragments of lost works or critical opinions.
+
 ## Text
 
 ### 1.1

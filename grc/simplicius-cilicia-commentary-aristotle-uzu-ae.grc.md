@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uzu-ae` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-commentary-aristotle-uzu-ae)
 
+Simplicius of Cilicia’s Commentary on Aristotle’s On the Soul is a major philosophical treatise composed in Greek during the late antique period, likely between 533 and 540 CE. It exemplifies the sophisticated line-by-line exegetical tradition, meticulously structured around 329 lemmata, or quoted passages, from Aristotle’s original text, each followed by Simplicius’s expansive analysis. The work provides a comprehensive examination of Aristotle’s foundational theories of psychology, delving into the definition of the soul, its various faculties including nutrition, perception, and intellect, and the complex nature of rational thought. While formally a commentary on Aristotle, the treatise is fundamentally shaped by Neoplatonic philosophy. Simplicius seeks to demonstrate the underlying harmony between Aristotelian and Platonic thought, an intellectual project aimed at advanced students and intended to uphold the coherence and vitality of the Hellenic philosophical tradition following the closure of the Platonic Academy in Athens. The commentary is also a vital historical source, as it preserves, critiques, and synthesizes the interpretations of numerous earlier scholars whose works are otherwise lost. The complete text has survived through medieval manuscripts dating from the thirteenth century, was first printed in the sixteenth century, and remains an indispensable resource for the study of late antique philosophy and the reception of Aristotle.
+
 ## Text
 
 ### in de An 11 1 (1T)

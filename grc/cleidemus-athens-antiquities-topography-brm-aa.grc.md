@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brm-aa` · [HTML page](https://eulogikon.org/works/cleidemus-athens-antiquities-topography-brm-aa)
 
+The Athenian Antiquities and Topography is a foundational work of local Athenian history, or Atthis, attributed to the 4th-century BCE author Cleidemus. Composed in Attic Greek prose, it stands as one of the earliest known examples of a genre dedicated to systematically documenting the Athenian past. The work traced the city's history from its mythical origins through to the author's own era, likely concluding around the end of the Peloponnesian War. Its scope encompassed detailed accounts of religious cults, festivals, and foundational myths, alongside antiquarian explanations for local topography, monuments, and place names, thereby blending historical narrative with meticulous local research.
+
+The original text is entirely lost, surviving only through fragments. These are preserved in 32 excerpts cited by later Greek authors such as Harpocration, Plutarch, and Athenaeus. The Greek title often linked to the work, meaning "Excerpts," is a modern convention reflecting its fragmentary transmission and was likely not the author's own. Modern scholarship interprets the work as a product of the post-war period, crafted for an Athenian audience seeking to explore and consolidate their civic identity and traditions. Cleidemus is consequently regarded as a pioneering figure who established a formative model for Athenian local history, influencing the methodology and content of later, more famous Atthidographers.
+
 ## Text
 
 ### t1-16

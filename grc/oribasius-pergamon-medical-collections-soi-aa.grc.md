@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `soi-aa` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-medical-collections-soi-aa)
 
+The Medical Collections is a comprehensive medical encyclopedia compiled in Greek by the physician Oribasius of Pergamon during the late fourth century CE. Commissioned by the Roman Emperor Julian as part of his broader project to revive classical learning, the work functions not as an original treatise but as a systematic compilation of excerpts from earlier medical authorities. Its primary source is the writings of Galen, supplemented by selections from Hippocrates, Dioscorides, and other significant figures. The encyclopedia was designed to encompass the entire scope of ancient medical knowledge, including anatomy, pharmacology, surgery, dietetics, and gynecology.
+
+Originally spanning seventy books, the complete text is now lost. Extant portions consist primarily of Books 1 through 16, along with fragments from several others such as Books 24–25 and 43–50, amounting to over seven thousand passages in modern reconstructions. Oribasius organized this vast material as a practical reference work intended to preserve and standardize Galenic medical orthodoxy for contemporary practitioners. Its creation during a period of significant religious and cultural transition underscores its role in safeguarding scientific knowledge.
+
+The text was transmitted in a fragmentary state, often preserved through abbreviated summaries authored by Oribasius himself and through later Byzantine medical handbooks. These surviving fragments proved instrumental in the transmission of Greek medical knowledge into the Arabic and medieval Latin traditions, establishing the Medical Collections as a crucial link in the historical continuity of medicine.
+
 ## Text
 
 ### 1 p 1

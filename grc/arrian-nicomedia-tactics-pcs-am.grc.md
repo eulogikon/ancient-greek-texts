@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-am` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-tactics-pcs-am)
 
+The Art of Tactics is a military manual composed in Greek by the Roman historian and administrator Arrian around 136–137 CE. Dedicated to the Emperor Hadrian, the work provides a systematic exposition of the cavalry drills, formations, and exercises employed by the contemporary Roman army. Structured in 202 passages, it features a significant comparative section that contrasts these Roman practices with the cavalry tactics of earlier Greek and Macedonian forces, with particular attention to the methods of Alexander the Great. The treatise survives complete, transmitted through medieval manuscripts dating from the 10th and 11th centuries. Modern scholarship views the work as serving a dual function: it operates as a practical training guide, informed by Arrian's own experience in military command, and as a literary artifact that demonstrates his erudition in classical Greek military theory, deliberately adapted for a Roman context. It stands as a vital primary source for understanding the professional drills and ceremonial evolutions of the Roman cavalry in the second century CE.
+
 ## Text
 
 ### t 1

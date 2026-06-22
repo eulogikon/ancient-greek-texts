@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `exs-ab` · [HTML page](https://eulogikon.org/works/hermodorus-ephesus-on-plato-exs-ab)
 
+The work On Plato by Hermodorus of Ephesus is a lost philosophical biography, surviving only in fragments quoted by later authors. Hermodorus, a member of Plato’s Academy, composed an early and influential account of Plato’s life and teachings that served as a foundational source for subsequent biographers such as Diogenes Laertius. Based on the extant quotations, the treatise provided biographical details including Plato’s travels to Sicily and Italy, his fraught interactions with Dionysius II of Syracuse, and the circumstances of his enslavement in Aegina. It also contained exposition of Platonic doctrines, likely covering metaphysical first principles debated in the early Academy, and included information regarding Plato’s will and the succession of leadership within the school. The work survives exclusively through citations, primarily in Diogenes Laertius’s Life of Plato and Simplicius’s commentary on Aristotle’s Physics, with no independent manuscript tradition. Despite its fragmentary state, Hermodorus’s biography holds significant historical value as a crucial source for understanding the early reception and institutional interpretation of Plato’s philosophy within his own intellectual circle.
+
 ## Text
 
 ### Frag A col X

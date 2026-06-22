@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rye-be` · [HTML page](https://eulogikon.org/works/themistius-whether-to-farm-rye-be)
 
+The oration Thesis-Whether to Farm by the fourth-century philosopher and statesman Themistius is a protreptic speech advocating for the agricultural life. Addressing a traditional philosophical thesis, it draws upon classical authorities such as Hesiod and Xenophon to elaborate on the moral and practical benefits of farming. The complete text, structured in fifteen passages, survives among Themistius’s extant works. Its argument centers on the ideal of self-sufficiency achieved through working the land, asserting the moral and physical superiority of agricultural labor over other livelihoods. The speech aligns farming with philosophical ideals of simplicity and virtue, employing classical literary and philosophical authority to support a contemporary ethical argument for an elite Roman audience. Preserved in Greek manuscripts, the standard modern edition appears in the critical volume by Schenkl, Downey, and Norman. The work exemplifies the continued practice of rhetorical exercises on traditional topics in late antique education. It illustrates the reception and adaptation of classical Greek philosophical themes, particularly from Socratic literature, within a fourth-century context, thereby contributing to the enduring transmission of Greek paideia.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-am` · [HTML page](https://eulogikon.org/works/alchemist-i-form-composite-rrg-am)
 
+The alchemical treatise That the Form Is Composite and Not Simple is attributed to an anonymous author designated as Alchemist I. It presents a theoretical argument, grounded in Aristotelian or Neoplatonic metaphysics, that the form of a substance is a composite entity rather than a simple one. The work consists of four passages and belongs to the corpus of Greco-Egyptian alchemical texts. Its argument examines the composite nature of material form, the relationship between form, matter, and qualities within alchemical theory, and the philosophical principles underlying transmutation and material change. The text is preserved within Byzantine manuscripts containing the Greek alchemical corpus, primarily the Parisinus Graecus 2327 from the 13th century and Laurentianus Graecus 86.16 from the 15th century. Its brief, four-passage structure suggests it survives as a fragment. The treatise is a significant specimen of the conceptual frameworks used in ancient alchemy, illustrating how practitioners engaged with philosophical discourse to explain material transformation. Its ideas contributed to the technical-philosophical tradition transmitted through Byzantine and Arabic sources to later periods.
+
 ## Text
 
 ### 2.272.(1t)

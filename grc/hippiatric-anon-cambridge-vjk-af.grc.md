@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vjk-af` · [HTML page](https://eulogikon.org/works/hippiatric-anon-cambridge-vjk-af)
 
+The Cambridge Veterinary Works is a Byzantine compilation of texts on equine care and medicine, forming part of the larger Hippiatrica corpus. This corpus is a practical collection of excerpts from earlier Greek and Roman veterinary authors rather than a single-authored treatise. The Cambridge manuscript, comprising 495 passages, serves as a key witness to this tradition, preserving a wide range of practical knowledge on the diagnosis, symptoms, and treatment of ailments in horses. Its content systematically covers practical veterinary medicine for diseases, wounds, and parasites; horse management, including feeding and breeding practices; pharmacology, detailing herbal and mineral remedies; and surgical procedures such as bloodletting and fracture treatment. The text is preserved in a 15th-century manuscript held at Cambridge University Library, a later copy that represents a specific, organized version of the fluid Hippiatrica compilation tradition. As part of the Hippiatrica, this compilation was instrumental in transmitting ancient veterinary science through the Byzantine and medieval periods. It remains a critical primary source for historians, offering valuable insight into pre-modern practical science, military logistics, and the daily realities of animal husbandry.
+
 ## Text
 
 ### 1 t

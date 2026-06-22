@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qtu-aa` · [HTML page](https://eulogikon.org/works/artemidorus-daldis-dreams-qtu-aa)
 
+The Oneirocritica, or Interpretation of Dreams, is a five-book treatise on dream divination composed in Koine Greek by Artemidorus of Daldis during the second century CE. A professional diviner, Artemidorus frames his work as a serious and empirical manual, grounding its interpretations in a collection of observed case studies. The treatise systematically classifies dreams, with its most fundamental distinction lying between ordinary dreams and those believed to possess prophetic significance. Its interpretive method is notably contextual, with the meaning of any given dream symbol varying according to the dreamer’s personal circumstances, profession, health, and social status.
+
+The complete work, preserved through medieval manuscripts and organized into 429 discrete passages across its five books, functions as both a practical guide and a theoretical defense of the art. The first three books provide a comprehensive catalog of dream interpretations intended for private clients, while the final two books constitute a technical handbook for aspiring professional interpreters. Modern scholarship regards the Oneirocritica as an invaluable source for understanding ancient popular belief, divinatory practices, and the minutiae of daily social life within the Roman Empire. Artemidorus likely composed the treatise to instruct his son in the family profession, and he explicitly positions its reasoned, experience-based approach against what he considered the superstitious and unreliable dream manuals of his time.
+
 ## Text
 
 ### 1 t

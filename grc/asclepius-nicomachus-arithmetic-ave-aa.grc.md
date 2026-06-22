@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ave-aa` · [HTML page](https://eulogikon.org/works/asclepius-nicomachus-arithmetic-ave-aa)
 
+Asclepius of Tralles, a sixth-century philosopher, authored a philosophical commentary on the Introduction to Arithmetic by the earlier Neopythagorean thinker Nicomachus of Gerasa. This work is not a straightforward explication but a systematic interpretation of the mathematical textbook through a Neoplatonic framework. It presents arithmetic as a foundational theological science, examining how numerical properties—such as being even, odd, or prime—illuminate the structure of reality as it emanates from a divine, unitary source. The commentary is organized as a series of 226 explanatory notes on specific passages from Nicomachus's original text. It survives in its entirety within a single manuscript from the tenth or eleventh century, where Asclepius's observations are preserved as scholia surrounding the core text. Modern scholarship views the work as a characteristic product of late antique Neoplatonic education, in which the intensive study of authoritative texts accompanied by deep philosophical commentary formed the core of the curriculum. It was likely composed for students of philosophy, positioning the study of arithmetic as an essential preparatory discipline for higher theological and metaphysical inquiry.
+
 ## Text
 
 ### 1 t

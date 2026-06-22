@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-gaius-marcius-okg-dq)
 
+The biography of Gaius Marcius, known as Coriolanus, forms one of the paired narratives in Plutarch’s Parallel Lives, a series of comparative biographies composed in Greek during the early second century CE. Plutarch recounts the legendary career of this early Roman patrician, who earned his cognomen through exceptional valor during the capture of the Volscian town of Corioli. The narrative traces his distinguished military service, his subsequent political conflicts with the Roman plebeians over grain distribution and consular authority, his eventual exile, and his fateful decision to join Rome’s enemies, the Volsci. The account culminates in his march on Rome and his ultimate withdrawal, persuaded by the entreaties of his mother and wife, an act that leads to his death. The text is fully preserved and is conventionally organized into 211 sections in modern scholarly editions.
+
+As a moral philosopher rather than a strict historian, Plutarch employs these biographical portraits to examine questions of character and virtue. The life of Coriolanus is explicitly paired with that of the Athenian statesman Alcibiades, a juxtaposition that underscores the recurring theme of naturally gifted individuals whose immense talents are undermined by personal arrogance and political intransigence, leading to their tragic downfalls. The biography serves as a nuanced exploration of the tensions between martial courage and a lack of self-restraint, as well as between aristocratic pride and the evolving demands of civic life in a republic. It stands as the principal ancient source for the legend of Coriolanus, a story later immortalized in William Shakespeare’s Roman tragedy.
+
 ## Text
 
 ### Cor t 1

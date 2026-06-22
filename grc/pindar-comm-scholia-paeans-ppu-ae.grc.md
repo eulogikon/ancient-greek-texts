@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ppu-ae` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-paeans-ppu-ae)
 
+The Scholia to the Paeans are a body of ancient and Byzantine marginal annotations that comment upon the choral hymns composed by Pindar. These scholia represent a multi-layered compilation of grammatical, historical, and mythological explanations, accumulated by scholars over many centuries and transmitted alongside the poetic texts in manuscripts. They serve to elucidate Pindar's paeans, which were hymns composed primarily for Apollo in the early fifth century BCE. The exegetical notes address matters of textual criticism, including variant readings and proposed emendations, while also elaborating on the poet's dense mythological and historical references. They provide analysis of Pindar's complex Doric dialect and syntax and offer valuable context concerning the original performance circumstances of the hymns. The scholia survive within the medieval manuscript tradition of Pindar's works, notably in codices such as the thirteenth-century Laurentianus 32.52, and are also preserved on papyri fragments. This scholiastic material is a fundamental resource for modern Pindaric scholarship, providing direct access to ancient interpretive traditions. It forms the essential basis for the textual and explanatory notes found in contemporary critical editions, thereby shaping all modern understanding of the poet's allusive and intricate style.
+
 ## Text
 
 ### book 3

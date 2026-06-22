@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-ap` · [HTML page](https://eulogikon.org/works/hippocrates-liquids-bww-ap)
 
+On the Use of Liquids is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works attributed to Hippocrates of Cos and his followers. Composed in Ionic Greek during the 5th or 4th century BCE, this practical manual details the therapeutic applications of various fluids, primarily water, in the treatment of disease. Its prescriptions are grounded in the core Hippocratic principle of humoral theory, which posited that health depended on maintaining a proper balance among the body's four fundamental fluids, or humors.
+
+The text is organized into six brief sections, each offering specific instructions on methods of administration, such as drinking, sponging, or bathing, and the conditions for which different temperatures and types of liquid are indicated. It exemplifies the empirical, observation-based approach to medicine that characterized much of the Hippocratic Corpus, emphasizing practical intervention over supernatural explanations for illness. Scholars regard the treatise as a component of the broader Hippocratic concern with regimen, the systematic management of health through diet, exercise, and the controlled intake of substances. While a minor work within the corpus, it illustrates the granular, technical focus on everyday therapeutic practice.
+
+Transmitted through medieval manuscripts alongside the rest of the Hippocratic Corpus, On the Use of Liquids survives in its entirety. It is included in modern critical editions and, as part of the foundational Hippocratic tradition, contributed to the development of Western medical theory and clinical practice for centuries.
+
 ## Text
 
 ## Ὕδωρ ποτὸν, ἁλμυρὸν, θάλασσα.

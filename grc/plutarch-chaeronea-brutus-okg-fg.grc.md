@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-fg` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-brutus-okg-fg)
 
+Brutus is a biography by the Greek philosopher and historian Plutarch, composed in the early second century CE as part of his Parallel Lives. In this series, Plutarch pairs notable Greek and Roman figures for moral and characterological comparison; Brutus is paired with Dion of Syracuse, as both were regarded as liberators who opposed tyrannical rule. The work presents the life of the Roman senator Marcus Junius Brutus, with particular emphasis on his central role in the conspiracy to assassinate Julius Caesar in 44 BCE and his eventual defeat and death at the Battle of Philippi two years later.
+
+Plutarch’s approach is not that of a chronicler but of a moral psychologist. He structures his narrative as a character study, employing anecdotes, reported speeches, and personal details to construct a nuanced portrait. He contrasts the stern, unyielding nature of Brutus’s legendary ancestor, Lucius Junius Brutus, with the more complex character of his subject, whose natural gravity and mildness were tempered by philosophical education and practical ambition. Plutarch examines Brutus’s austere virtues, his Stoic principles, and the political dilemmas that led him to tyrannicide, while also noting how contemporary opinion often attributed the nobler aspects of the conspiracy to Brutus and the more unsavory elements to his associate Cassius. The complete text survives, organized into 285 discrete passages.
+
+Written during the stability of the Roman Empire, the biography reflects on the violent dissolution of the Republic. Modern scholarship generally views Plutarch’s purpose as didactic, using historical exempla to explore perennial themes such as the tension between liberty and autocracy, the moral ambiguities of political violence, and the application of philosophical ideals to public action. As the most detailed ancient account of Brutus’s life, the work has exerted immense influence on later Western tradition, most famously providing the essential source material for William Shakespeare’s tragedy Julius Caesar.
+
 ## Text
 
 ### Brut t 1

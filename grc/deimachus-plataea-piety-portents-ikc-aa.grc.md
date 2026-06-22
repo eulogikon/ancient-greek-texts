@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ikc-aa` · [HTML page](https://eulogikon.org/works/deimachus-plataea-piety-portents-ikc-aa)
 
+On Piety and Celestial Portents is a prose treatise attributed to Deimachus of Plataea II, an otherwise unattested author. The work is structured in six passages and analyzes celestial phenomena as divine signs within a framework of religious piety. Based on its title, the treatise likely addressed the nature and causes of astronomical events such as comets or eclipses, their interpretation as divine portents, the proper pious response to such signs, and the relationship between divine providence and observable nature. No direct quotations or descriptions of the work exist in extant sources. It is not recorded in surviving ancient catalogues or fragments, and its structure suggests it may be known only through excerpts preserved by a later, unknown compiler. The treatise is effectively lost, and its existence relies on unverified metadata. If genuine, this work would represent a minor contribution to the extensive Hellenistic literature on prodigies, divination, and religious duty, reflecting the period's interest in interpreting celestial events as divine communications.
+
 ## Text
 
 ### 5 (t)

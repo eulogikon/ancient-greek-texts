@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gzy-aa` · [HTML page](https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-aa)
 
+The Boeotian Banquet is a fragmentary Greek comedy attributed to the obscure poet Demonicus. Its title, meaning "Fragment" or "Extract," indicates it survives only as two brief passages, with no plot, characters, or specific content detailed in extant sources. While the work's precise themes are unrecorded, its conventional English title suggests a possible connection to the region of Boeotia, a locale often stereotyped in Athenian comedy for rustic or gluttonous behavior. Potential subjects may therefore include regional satire and sympotic culture. The fragment is likely preserved through quotation by a later author, such as the grammarian Athenaeus in his Deipnosophistae, a common fate for lost works of Middle or New Comedy. It is cataloged among standard collections of comic fragments. The work's importance lies solely in its value as a philological fragment, offering potential insights into comic language, regional caricature, and the social history of its period.
+
 ## Text
 
 ### book 1.1

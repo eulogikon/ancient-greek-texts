@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jlk-aa` · [HTML page](https://eulogikon.org/works/semus-delos-antiquities-customs-jlk-aa)
 
+The Delian Antiquities and Customs is an antiquarian treatise attributed to the Hellenistic grammarian Semus of Delos. This work, now lost, was a detailed study of the rituals, customs, and religious antiquities of the sanctuary island of Delos. It survives only in fragments preserved through quotations by later authors, primarily the scholar Athenaeus and the lexicographer Hesychius of Alexandria. The extant passages reveal a work rich in descriptive detail, covering specific Delian religious rituals such as sacrifices, hymns, and processions. It also documented the functions of various cult officials, including the Hieropoioi, or sacred officials, and the Phyllophoroi, or leaf-bearers, while providing explanations for obscure ritual terminology and the mythological origins of local practices. As a specialist local history, or horography, Semus's treatise served as an important source for later lexicographers and antiquarians. Its fragments, collected in modern editions such as Felix Jacoby's Die Fragmente der griechischen Historiker, remain a valuable resource for understanding the intricate cultic life and religious administration of the major Panhellenic sanctuary at Delos.
+
 ## Text
 
 ### t1-18a

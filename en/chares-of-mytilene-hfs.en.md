@@ -19,8 +19,8 @@ Chares of Mytilene was a 4th century BCE philosopher. Two fragmentary philosophi
 
 ## Works
 
-- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-mytilene-text-hfs-ab.grc.md) — *Γνῶμαι* · `hfs-ab`
 - [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-mytilene-sentences-hfs-aa.grc.md) — *Γνῶμαι* · `hfs-aa`
+- [Sentences](https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-mytilene-text-hfs-ab.grc.md) — *Γνῶμαι* · `hfs-ab`
 
 ## License and provenance
 

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lue-ac` · [HTML page](https://eulogikon.org/works/agatharchides-cnidus-testimonies-lue-ac)
 
+The Testimonies is a modern scholarly compilation of five fragmentary passages attributed to Agatharchides of Cnidus, a Greek geographer and historian of the second century BCE. The work is not an ancient text but a collection of references and quotations preserved by later authors, reflecting Agatharchides' geographical and ethnographical interests. These fragments provide details concerning regions such as the Red Sea, Arabia, and Ethiopia, including observations on local peoples, customs, and natural phenomena. Active in Ptolemaic Alexandria, Agatharchides wrote within the Hellenistic tradition of synthesizing firsthand exploratory reports with critical analysis. Scholars generally interpret these testimonia as excerpts from his major, though now fragmentary, works, most notably his treatise On the Erythraean Sea. The passages survive solely through their citation by later historians and geographers, including Diodorus Siculus, Strabo, and the Byzantine scholar Photius. They are now standardly assembled in modern collections of Greek historical fragments.
+
 ## Text
 
 ### 2a,86,T 1

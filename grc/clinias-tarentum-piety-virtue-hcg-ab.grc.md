@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hcg-ab` · [HTML page](https://eulogikon.org/works/clinias-tarentum-piety-virtue-hcg-ab)
 
+On Piety and Virtue is a lost or fragmentary philosophical work attributed to the Pythagorean thinker Clinias of Tarentum, a friend of Plato noted in biographical sources for his exceptional piety. The treatise, also referenced under the title Extracts, would have addressed the core Pythagorean ethical concerns of proper religious observance toward the divine and the cultivation of moral excellence. No direct attestation of the text exists in major reference sources or manuscript catalogs, and its transmission history is entirely obscure. The alternative title suggests it may have been known in antiquity not as an original, continuous treatise but as a later compilation of sayings. While the work itself is untraceable, Clinias remained an influential exemplar of Pythagorean ethics, with later authors like Iamblichus preserving anecdotes of his virtuous character and actions.
+
 ## Text
 
 ### 108 (1t)

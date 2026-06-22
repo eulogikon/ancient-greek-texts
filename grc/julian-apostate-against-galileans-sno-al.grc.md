@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `sno-al` · [HTML page](https://eulogikon.org/works/julian-apostate-against-galileans-sno-al)
 
+Against the Galileans is a polemical treatise composed in Attic Greek by the Roman emperor Julian, commonly known as Julian the Apostate. Written around 362–363 CE, the work constitutes a systematic philosophical and theological attack on Christianity, a faith the emperor dismissively termed "Galileanism." The original text does not survive in full; its content is known only through 71 fragments preserved within a detailed refutation written a century later by the Christian bishop Cyril of Alexandria. From these quotations, scholars deduce that the treatise was originally structured in three books.
+
+Julian's argument centers on a critique of core Christian doctrines and biblical scripture, which he portrays as irrational and derivative. He contrasts them unfavorably with the coherence and antiquity of traditional Greco-Roman polytheism and Platonic philosophy. A central thrust of his polemic is the accusation that Christianity represents a corrupt and illogical departure from its own Jewish roots, having improperly abandoned Mosaic law while failing to attain the philosophical sophistication of Hellenic thought. The treatise is widely regarded by modern historians as a cornerstone of Julian's short-lived imperial program to revitalize pagan religious practice and reassert Hellenic cultural identity. Its transmission is entirely mediated through the hostile lens of Cyril's rebuttal, as the original work was almost certainly suppressed following Julian's death in 363. It remains the most extensive and intellectually substantive pagan literary critique of Christianity to survive from antiquity.
+
 ## Text
 
 ### 163 (1t)

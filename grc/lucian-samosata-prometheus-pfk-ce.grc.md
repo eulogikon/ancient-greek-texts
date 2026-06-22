@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-ce` · [HTML page](https://eulogikon.org/works/lucian-samosata-prometheus-pfk-ce)
 
+Lucian of Samosata’s Prometheus is a second-century CE rhetorical declamation composed in Attic Greek. The work is an exercise in prosōpopoeia, adopting the voice of the Titan Prometheus as he delivers a defense from the rock in the Caucasus where he is chained by Zeus for stealing fire for humanity. The complete speech, structured in twenty-one parts, is addressed to Zeus and an assembly of gods, weaving mythological narrative with the sophisticated legal and philosophical argumentation characteristic of the Second Sophistic period. Prometheus frames his act as a necessary philanthropy that enabled human arts and civilization, presenting Zeus’s punishment as the harsh edict of a tyrant. The piece functions simultaneously as a display of rhetorical virtuosity and as a satire, critically engaging with earlier treatments of the myth by Hesiod and Aeschylus while offering a meta-commentary on the nature of persuasive speech itself. Composed to entertain and impress a culturally literate audience steeped in classical tradition, the text survives intact within the Lucianic corpus, preserved in medieval manuscripts such as the 14th-century Codex Vaticanus Graecus 90. Generally accepted as genuine, it stands as a vivid example of the Second Sophistic’s creative and witty reinvention of classical mythology through rhetorical flair.
+
 ## Text
 
 ### Prom t

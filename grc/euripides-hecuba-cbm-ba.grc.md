@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-ba` · [HTML page](https://eulogikon.org/works/euripides-hecuba-cbm-ba)
 
+Hecuba is a tragedy by the ancient Greek playwright Euripides, written in verse and first performed around 424 BCE. The play dramatizes the suffering of the former queen of Troy, Hecuba, who has been enslaved by the Greeks following the city's fall. The action unfolds in two harrowing episodes. First, Hecuba endures the sacrificial killing of her daughter Polyxena, demanded by the ghost of Achilles. Subsequently, she discovers the corpse of her son Polydorus, who had been sent for safekeeping to Polymestor, the Thracian king, but was murdered by him for his gold. Consumed by grief and rage, Hecuba orchestrates a brutal revenge, luring Polymestor into her tent where she and other captive Trojan women blind him and kill his sons. The play concludes with Polymestor delivering a prophecy of Hecuba's metamorphosis into a dog and her eventual death, a transformation that underscores the play's central themes of extreme suffering and moral dissolution.
+
+The complete text of Hecuba survives due to its inclusion in a select group of Euripides' plays that were widely used for educational purposes in the Byzantine era, ensuring its transmission through medieval manuscripts. Modern scholarship frequently interprets the tragedy as a dark reflection of the protracted Peloponnesian War, which was contemporary with its production. Its unflinching portrayal of betrayal, the corruption of traditional values, and the violent transformation of a victim into a vengeful perpetrator is seen as a commentary on the psychological and ethical costs of prolonged conflict. The character of Hecuba herself, embodying catastrophic loss and spiraling despair, became a seminal figure of profound grief in the Western literary tradition.
+
 ## Text
 
 ### 1

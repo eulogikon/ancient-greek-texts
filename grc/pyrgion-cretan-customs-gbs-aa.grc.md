@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gbs-aa` · [HTML page](https://eulogikon.org/works/pyrgion-cretan-customs-gbs-aa)
 
+On Cretan Customs is a lost Greek ethnographic treatise attributed to the historian Pyrgion. The work survives only in two brief fragments preserved by later grammarians and commentators. One citation, recorded by Herodian, notes a distinctive feature of the Cretan dialect, specifically the pronunciation of the word for "fig" as tykon rather than the more common sykon. The second fragment, preserved by Eustathius of Thessalonica in his commentary on Homer, documents a Cretan metaphorical usage, whereby the term askos, meaning a wineskin, was applied to human skin. These scant remains suggest the original text addressed distinctive Cretan vocabulary, pronunciation, and unique local customs. The work has no independent manuscript tradition and is transmitted solely through these indirect citations within the scholarly traditions of grammatical and Homeric exegesis. As a fragmentary example of Hellenistic local historiography, its primary significance lies in providing incidental evidence for reconstructing features of the Cretan dialect and for understanding the scope of ancient Greek ethnographic writing focused on regional peculiarities.
+
 ## Text
 
 ## ΚΡΗΤΙΚΑ ΝΟΜΙΜΑ. E LIBRO TERTIO.

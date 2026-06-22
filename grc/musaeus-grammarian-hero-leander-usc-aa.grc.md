@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `usc-aa` · [HTML page](https://eulogikon.org/works/musaeus-grammarian-hero-leander-usc-aa)
 
+Hero and Leander is a short epic poem by the late antique poet Musaeus, often called Musaeus Grammaticus. Composed around 500 CE in literary Greek hexameters, the 343-line poem recounts the tragic love story of Hero, a priestess of Aphrodite in Sestos, and Leander, a youth from Abydos across the Hellespont. Each night, guided by a lamp Hero lights in her tower, Leander swims the dangerous strait for their secret meetings. The narrative builds through their passionate encounters to its catastrophic conclusion: a storm extinguishes the guiding lamp, Leander drowns in the dark sea, and Hero, discovering his body on the shore, leaps from her tower to her death. Celebrated for its emotional intensity and polished, rhetorical style, the work represents a complete, late revival of classical epic form from the early Byzantine period.
+
+Its author was likely a grammatikos, a teacher of literature and rhetoric, and modern scholarship interprets the poem primarily as a sophisticated demonstration of poetic skill intended for educated entertainment. It reworks a myth known from earlier poets such as Ovid, focusing on themes of overwhelming passion, the struggle against natural forces, and fateful misfortune. The poem was widely copied in the Byzantine world, where it served as a standard school text valued for its exemplary grammar and meter. Its survival is direct and complete through medieval manuscripts. The poem’s popularity soared during the Renaissance, securing its status as a highly influential model for later European poetry on classical themes.
+
 ## Text
 
 ### 1

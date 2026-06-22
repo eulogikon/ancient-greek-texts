@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dmk-aa` · [HTML page](https://eulogikon.org/works/metrodorus-chios-testimonies-dmk-aa)
 
+The Testimonies is a lost philosophical work by Metrodorus of Chios, a fourth-century BCE thinker who was a student of Democritus and a teacher of Anaxarchus, thereby forming a link between classical atomism and later Hellenistic philosophy. The work survives only in fragments, approximately twenty-six passages preserved by later doxographers and skeptics such as Sextus Empiricus and Aëtius. These quotations indicate the text was likely a collection of pithy sayings or core doctrines rather than a sustained treatise, possibly compiled as a summary for students. Written in Ionic Greek, the fragments reveal a philosophy combining Democritean physical theories with a pronounced skeptical turn. Metrodorus upheld the atomist principles of the indivisible void and the plenum as the fundamental realities, corresponding to being and non-being, and endorsed the existence of innumerable worlds. Alongside these physical doctrines, the work contained famously radical epistemological claims, such as the assertion that "None of us knows anything" and the relativistic position that "Everything is to each person as it appears to him." While his physical theories were later supplanted by Epicureanism, the skeptical elements of the Testimonies contributed to the development of Hellenistic skeptical thought.
+
 ## Text
 
 ### 1

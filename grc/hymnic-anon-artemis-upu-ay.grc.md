@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `upu-ay` · [HTML page](https://eulogikon.org/works/hymnic-anon-artemis-upu-ay)
 
+The Homeric Hymn to Artemis is a brief, nine-line invocation composed in dactylic hexameter. It forms part of the anonymous collection of poetic preludes known as the Homeric Hymns. The hymn opens by calling upon the Muse to sing of Artemis, identifying her as the sister of Apollo and a maiden archer. It depicts the goddess harnessing her horses by the deep-eddying river Meletus and swiftly driving her golden chariot through Smyrna to vine-clad Claros, where Apollo of the silver bow waits for his far-shooting sister. The poem celebrates her archetypal role as a virgin huntress who delights in the chase, then concludes with a salutation to Artemis and all the goddesses before the poet announces his transition to another song. The hymn survives in its complete form within the principal manuscripts of the Homeric Hymns collection, including the 13th-century Codex Mosquensis and the 15th-century Codex Laurentianus. As a concise literary portrait, it reinforces the core attributes of Artemis’s archaic cult identity—her connection to wilderness, the hunt, and her close kinship with Apollo—thereby contributing to the standardized poetic portrayal of the Greek pantheon.
+
 ## Text
 
 ### 1

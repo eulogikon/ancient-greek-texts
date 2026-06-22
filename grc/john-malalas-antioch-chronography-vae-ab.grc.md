@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vae-ab` · [HTML page](https://eulogikon.org/works/john-malalas-antioch-chronography-vae-ab)
 
+The Chronography of John Malalas is a world chronicle composed in Koine Greek around 565 CE. This prose work traces history from the biblical Creation to the reign of the Byzantine Emperor Justinian I. Originally structured in 18 books, the full text is now lost, surviving only in a fragmentary state; the commonly studied selections represent 12 key passages extracted from the damaged whole. Malalas wrote in a simple, accessible style, synthesizing biblical narrative, Hellenistic mythology, and Roman imperial history into a single, continuous story designed for a popular audience. The chronicle displays a particular focus on the author's native city of Antioch and, in its later sections, on Constantinople.
+
+Modern scholarship regards the work as an essential source for sixth-century cultural and religious history, especially for events in the eastern Roman Empire. It is generally understood to have been written to provide a Christian, providential framework for world history, one that celebrated and legitimized Byzantine rule under Justinian. The chronicle's transmission is complex and incomplete, relying on a single, defective manuscript and later translations, which presents a significant challenge for reconstructing the original text.
+
 ## Text
 
 ### 231 (2t)

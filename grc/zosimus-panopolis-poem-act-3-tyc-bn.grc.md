@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bn` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-poem-act-3-tyc-bn)
 
+The Poem of Zosimus, Act 3 is a section of a core alchemical treatise composed in Greek by Zosimus of Panopolis in Egypt around 300 CE. This work is a seminal text in the history of alchemy, seamlessly integrating practical laboratory instructions for the transmutation of metals with profound mystical and theological speculation. It presents the alchemical art not merely as a technical craft but as a spiritual discipline aimed at the purification and redemption of the soul. The literary style is a distinctive blend of prose and visionary verse, heavily infused with the Hermetic and Gnostic philosophies prevalent in late antique Egypt.
+
+The text survives as part of a larger, fragmentary corpus attributed to Zosimus. The original architecture of the complete Poem, including the total number of its constituent "acts," remains unclear due to the incomplete and often indirect nature of the manuscript tradition. It is preserved chiefly through later Greek and Syriac copies contained within Byzantine anthologies. For modern scholarship, this act and the wider Zosimean corpus serve as an indispensable source for comprehending the intricate fusion of ancient technology, natural philosophy, and esoteric religion in the late Roman world. The work was intended for a closed community of initiates who viewed the physical processes of the laboratory and the spiritual journey of the soul as intimately parallel and mutually illuminating pursuits.
+
 ## Text
 
 ### [20]

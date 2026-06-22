@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ao` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ao)
 
+The Grammatical Fragment is a treatise known only by its title, attributed to an anonymous Greek grammarian. The title indicates it addressed grammatical subjects, but its precise scope and content remain unspecified, as no rules, examples, or substantive passages from the work are preserved in the extant record. Identified as a fragment, the available sources provide no details on its manuscript tradition or means of preservation. While grammatical treatises were central to education in the Hellenistic and Roman periods, the influence and historical context of this specific anonymous work cannot be assessed due to the complete absence of its content and any references to it in later literature.
+
 ## Text
 
 ### 1

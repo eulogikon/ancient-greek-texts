@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ngq-ac` · [HTML page](https://eulogikon.org/works/aratus-scholia-text-ngq-ac)
 
+The Scholia-Aratus are a corpus of ancient and medieval explanatory annotations on the Phaenomena, the influential astronomical poem by Aratus of Soli. Compiled by later scribes from the work of multiple commentators across many centuries, these scholia form a layered exegetical tradition designed to elucidate the poem's challenging vocabulary, complex mythological allusions, and technical astronomical content for students and scholars. Their creation and preservation underscore the poem's enduring status as a fundamental educational text in the Greco-Roman world and beyond. The notes primarily engage in textual exegesis, clarifying Aratus's archaic diction and grammatical constructions. They also provide detailed astronomical commentary, identifying celestial bodies and explaining phenomena, alongside mythological etiology that expands on the constellation myths referenced in the poem. Further annotations offer literary analysis, often tracing Aratus's descriptions back to his chief prose source, the work of the astronomer Eudoxus of Cnidus. Transmitted fragmentarily within the margins of numerous medieval manuscripts of the Phaenomena, the scholia were critically consolidated in the modern era by Ernst Maass in his edition Commentariorum in Aratum reliquiae. As a critical resource for understanding the reception of Aratus's work, the scholia offer essential insight into ancient pedagogical methods, the literary treatment of scientific material, and the state of astronomical and mythological knowledge in antiquity.
+
 ## Text
 
 ### book 9.1

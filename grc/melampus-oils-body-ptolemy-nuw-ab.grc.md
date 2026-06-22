@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nuw-ab` · [HTML page](https://eulogikon.org/works/melampus-oils-body-ptolemy-nuw-ab)
 
+_On the Oils of the Body to King Ptolemy_ is a brief technical treatise pseudepigraphically ascribed to the legendary seer Melampus. Presented as advisory court literature directed to a Hellenistic monarch, likely Ptolemy I or II of Egypt, the work consists of eight passages detailing the medicinal and cosmetic applications of various plant-based oils. It systematically catalogues oils derived from sources such as myrtle, roses, lilies, and bitter almonds, describing their preparation and purported benefits for the body. These applications range from treating ailments like headaches and skin conditions to serving as general cleansers, blending practical pharmaceutical knowledge with cosmetic and hygienic advice.
+
+The treatise survives within the larger medieval manuscript corpus of works attributed to Melampus, which includes texts on divination, physiognomy, and medicine. It remains a minor and fragmentary text within this pseudepigraphic tradition and has not been the subject of extensive critical study. Its primary significance lies in its value as an example of Hellenistic technical writing that circulated practical recipes under the authoritative name of a mythical figure. The text reflects the period’s drive to systematize practical knowledge and illustrates the interconnected realms of therapy, personal hygiene, and royal patronage in ancient scientific literature.
+
 ## Text
 
 ### 501 (1t)

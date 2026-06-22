@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tow-aa` · [HTML page](https://eulogikon.org/works/salmanas-spherical-hail-method-tow-aa)
 
+The Method by Which Spherical Hail is Made is a concise Greek alchemical treatise attributed to Salmanas the Alchemist. Its full title references the "renowned craftsman Arabus Salmanas," presenting the text as the recorded technique of a master artisan. The work provides a detailed procedural recipe for the laboratory production of a substance termed "spherical hail," a phrase common in alchemical literature to denote a specific crystalline or granular product. The instructions are strictly practical, describing the treatment of fine hailstones within a sealed glass vessel using a broth of egg yolk and a prepared powder of roasted and ground bryony root. The process involves repeated cycles of solar heating, agitation, and the replacement of the liquid medium over three days, culminating in the complete absorption of the broth by the treated material. The treatise is preserved not as an independent work but within the extensive corpus of Greek alchemical manuscripts, most notably the 15th-century Parisinus Graecus 2327. Its significance lies in its contribution to the aggregate of procedural, craft-based chemical knowledge transmitted from late antiquity through the Byzantine era. This larger corpus of Greek technical texts later served as a critical foundation for the development of alchemical and early chemical practices in Renaissance Europe.
+
 ## Text
 
 ### 2.364.(5t)

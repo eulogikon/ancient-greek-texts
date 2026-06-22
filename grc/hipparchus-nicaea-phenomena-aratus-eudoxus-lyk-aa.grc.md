@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lyk-aa` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-phenomena-aratus-eudoxus-lyk-aa)
 
+On the Phenomena of Aratus and Eudoxus is a three-book astronomical commentary composed by the pioneering scientist Hipparchus of Nicaea around 140–120 BCE. The work constitutes a detailed, systematic critique of two earlier and widely known texts on the constellations: the didactic poem Phaenomena by Aratus and a now-lost prose treatise by the mathematician Eudoxus. Hipparchus meticulously compared their descriptions of stellar risings, settings, and positions against his own extensive observations, methodically cataloguing their inaccuracies. His primary aim was to establish empirical verification as the paramount authority in astronomy, superseding the poetic license of Aratus or the traditional models of Eudoxus.
+
+Only a portion of the original text survives. Books II and III are preserved in a single Byzantine manuscript, while Book I is lost. The extant books are organized as a series of examinations of specific constellations, frequently presenting technical data such as stellar coordinates. Modern scholarship regards this treatise as a foundational document of Hellenistic scientific methodology, written for a specialist audience to correct the astronomical record. Its rigorous, observation-based analysis of celestial positions not only exemplified a new critical standard but also provided the essential data that later enabled Hipparchus to discover the precession of the equinoxes. Although Aratus's poem remained the more popular work for centuries, Hipparchus's commentary embodied the critical and empirical practices that elevated astronomy into a precise mathematical science.
+
 ## Text
 
 ### 1.1

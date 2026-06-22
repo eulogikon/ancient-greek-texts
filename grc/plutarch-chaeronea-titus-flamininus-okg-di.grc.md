@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-di` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-titus-flamininus-okg-di)
 
+The Life of Titus Flamininus is a biography by the philosopher and historian Plutarch, composed in Greek around the turn of the second century CE. It belongs to his celebrated series of Parallel Lives, which pairs eminent Greek and Roman figures for comparative moral and historical analysis; in this case, the Roman general and statesman Titus Quinctius Flamininus is paired with the Achaean strategos Philopoemen. The work chronicles the career of Flamininus, who served as consul in 198 BCE, with its central focus on his command in the Second Macedonian War. Plutarch details his decisive victory over King Philip V of Macedon at the Battle of Cynoscephalae in 197 BCE and, most famously, his subsequent proclamation of the freedom of the Greek states at the Isthmian Games in 196 BCE. The narrative, structured into 109 concise sections, interweaves accounts of major political and military events with illustrative anecdotes, constructing a nuanced portrait of Flamininus's character. Plutarch presents him as a figure of considerable diplomatic skill and driven ambition, capable of magnanimous statesmanship, yet also notes traits of vanity and a keen desire for personal glory.
+
+As with all his biographies, Plutarch’s primary aim is ethical instruction rather than strict historical chronicle. He uses the lives of great men to explore virtues, vices, and the role of character in shaping destiny. The specific pairing with Philopoemen, the "last of the Greeks" who fiercely defended local autonomy, invites a deeper contemplation on the complex relationship between Roman hegemony and Greek liberty in the aftermath of the Macedonian wars. The biography has survived intact through medieval manuscript tradition and remains an indispensable primary source for the study of Roman policy in the Hellenistic East and for the enigmatic figure of Flamininus himself, the Roman consul who styled himself a liberator of Greece.
+
 ## Text
 
 ### Flam t 1

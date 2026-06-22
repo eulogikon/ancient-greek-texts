@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fsw-aa` · [HTML page](https://eulogikon.org/works/callisthenes-olynthus-testimonies-fsw-aa)
 
+"Testimonies 2" is a fragmentary work attributed to the historian Callisthenes of Olynthus. The title suggests it was a collection of cited documents or authoritative statements, likely compiled as source material to support his larger historical narratives, such as his history of the Sacred War or his Hellenica. The work is now lost and survives only through quotations in later authors, including Strabo. The extant fragments indicate it presented evidentiary material for fourth-century BCE Greek political history, presumably involving official documents, treaties, or accounts related to major events. This compilation exemplifies the Hellenistic historiographical practice of source citation. While its direct influence is difficult to trace, Callisthenes' methodological approach to gathering and citing primary material contributed to the development of historical writing in the period, and his body of work provided important source material for later historians of Alexander the Great.
+
 ## Text
 
 ### 37,t

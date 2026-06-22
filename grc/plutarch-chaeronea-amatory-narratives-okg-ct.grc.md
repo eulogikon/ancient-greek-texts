@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-ct` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-amatory-narratives-okg-ct)
 
+The Amatory Narratives, also known as the Erotikos or Amatorius, is a prose dialogue by Plutarch of Chaeronea. Framed as a conversation recounted from a festival of Eros in Thespiae, the work presents a series of interlocutors engaged in a philosophical debate on the nature of love. The dialogue culminates in a significant speech that argues for the philosophical and ethical superiority of married, heterosexual love over the traditional pederastic model celebrated in earlier Greek literature. This complete work has been preserved within the corpus of Plutarch's Moralia.
+
+Central to the dialogue is an examination of Eros, debating whether this force should be understood as a god or an intermediate daimon. The most distinctive and influential argument developed within the text is a direct comparison that favors conjugal love, presenting it as a more complete vehicle for virtue and philosophical growth than homosexual love. Marriage is reconceived not merely as a social institution but as a divine union that fosters mutual friendship, or philia, and facilitates the intellectual and ethical development of both partners. This ideal connects the erotic experience directly to the philosophical pursuit of the good and the beautiful. The text has been transmitted through the medieval manuscript tradition of the Moralia and appears to be preserved in its entirety without major lacunae.
+
+The work represents a pivotal shift in the philosophical ideals of love, consciously redirecting elements of the Platonic and sympotic traditions toward a new model that elevates heterosexual marriage as a comprehensive spiritual and intellectual partnership. It provides critical insight into evolving gender relations and philosophical thought during the early Imperial period and exerted a considerable influence on later philosophical and theological considerations of marriage.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dwu-aa` · [HTML page](https://eulogikon.org/works/hippys-rhegium-chronicles-myths-dwu-aa)
 
+The Chronicles of Peoples and Myths is a lost prose work traditionally ascribed to Hippys of Rhegium, a figure placed in the fifth century BCE. It belongs to the genre of local history, merging mythological narratives, genealogical records, and early accounts of various Greek cities and ethnic groups. The extant evidence for the work consists solely of twelve fragments, which indicate its coverage of foundation stories for cities such as Rhegium in Italy, the histories of Spartan kings, and the origins of groups like the Heracleidae. The original structure of the text remains obscure, though its title, which can be translated as "Excerpts," suggests it may have been a compilation of notes rather than a continuous historical narrative. The work survives only through quotations preserved by later authors, most significantly the sixth-century CE Byzantine scholar Stephanus of Byzantium. Modern scholarship regards the traditional attribution and dating with considerable skepticism. Many analysts contend that "Hippys of Rhegium" is likely a pseudonym from the Hellenistic era, and the fragments contain anachronisms pointing to a later compilation, possibly drawing upon sources from the fourth century BCE. The principal historical value of the work today lies in its demonstration of how later periods constructed and attributed foundational myths about the Greek past.
+
 ## Text
 
 ### t1-6

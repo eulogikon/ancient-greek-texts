@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-cp` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-soot-tyc-cp)
 
+On Soot is a practical alchemical treatise written in Greek by Zosimus of Panopolis around 300 CE. The work provides technical instructions on the properties, preparation, and uses of a substance termed "soot." In the specialized lexicon of Greco-Egyptian alchemy, this word likely denotes not common residue but specific sublimated or deposited materials created through laboratory processes. The text is structured as a series of instructional passages focusing on operations such as sublimation and condensation, describing the treatment of residues and the collection of volatile essences. It interprets these physical processes through an allegorical lens, where soot and ashes symbolize the ascent and transformation of substances, often framed in the spiritual language of the liberation and reunion of souls with bodies. The treatise is preserved within medieval Byzantine compilations of alchemical texts, most notably the 10th- or 11th-century manuscript Marcianus graecus 299. As part of Zosimus's foundational corpus, which merges Egyptian craft traditions with Greek philosophical concepts, On Soot helped transmit both practical laboratory knowledge and its symbolic interpretations to later Islamic and European alchemical traditions.
+
 ## Text
 
 ### [15]

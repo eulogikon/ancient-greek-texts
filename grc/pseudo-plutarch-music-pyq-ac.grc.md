@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pyq-ac` · [HTML page](https://eulogikon.org/works/pseudo-plutarch-music-pyq-ac)
 
+On Music is a philosophical treatise on music from the Imperial Roman era, composed in Attic Greek. Though traditionally included among the works of Plutarch, modern scholarship attributes it to an unknown author, conventionally termed Pseudo-Plutarch, and dates it likely to the second or third century CE. Structured as a dialogue set during a symposium, the work largely consists of an extended, continuous lecture on its subject. It serves as a major source for understanding ancient Greek music theory and history, divided into two principal sections. The first offers a historical survey of music's origins and development, recounting legends about early musicians, while the second analyzes music's ethical and educational effects, engaging with philosophical ideas from figures such as Plato and Aristotle. The treatise extensively quotes earlier poets and theorists, thereby preserving valuable fragments from otherwise lost sources. It is considered a product of the Second Sophistic, a period marked by the compilation of classical knowledge by Greek intellectuals, functioning both as a scholarly compilation and a defense of music's role in moral education. The complete text survives within the manuscript tradition of Plutarch's Moralia. Its spurious attribution was identified in the nineteenth century based on stylistic divergences from Plutarch's authentic works. As a repository of ancient musical thought, it remains a primary text for modern scholarship.
+
 ## Text
 
 ### 1141 D

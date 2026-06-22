@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tmo-aa` · [HTML page](https://eulogikon.org/works/oros-alexandria-unpronounced-iota-tmo-aa)
 
+The grammatical treatise On the Unpronounced Iota, attributed to Oros of Alexandria, is a concise technical examination of the orthographic convention known as the iota subscript. This written feature, appearing as a small iota beneath the vowels alpha, eta, and omega, represented a vestigial element of ancient diphthongs that had ceased to be pronounced in later Greek. The work systematically prescribes the correct written application of this silent letter, thereby implicitly documenting a significant shift in the historical phonology of the language. Structured in seven passages, it exemplifies the detailed, analytical approach characteristic of Alexandrian grammatical scholarship, focusing on the standardization of written forms. The treatise survives as part of a corpus of grammatical writings transmitted through medieval manuscripts and is cataloged among Oros's works in later scholarly collections. As a specialized text, it contributed to the broader Alexandrian project of linguistic standardization, which was fundamental to textual criticism and education. Its preservation highlights the enduring importance of such technical literature in the transmission of Greek linguistic knowledge.
+
 ## Text
 
 ### 280v

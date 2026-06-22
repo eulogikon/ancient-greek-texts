@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gwc-aa` · [HTML page](https://eulogikon.org/works/crates-thebes-letters-philosophy-gwc-aa)
 
+The Cynic Letters on Philosophy is a collection of 43 short epistles attributed to the ancient Greek philosopher Crates of Thebes. Modern scholarship regards these letters as pseudepigraphal, composed not by the historical Crates but by later authors, most likely between the 1st century BCE and the 2nd century CE. They belong to a larger body of pseudonymous writings known as the Cynic Epistles, which employ the voices of famous philosophers to disseminate Cynic doctrines. Written in a straightforward Attic Greek style, the letters adopt the persona of Crates to offer moral advice, parody social conventions, and exhort various correspondents, including his wife Hipparchia and his student Metrocles, to embrace a life of virtue.
+
+The collection illustrates core Cynic principles through anecdote and maxim rather than systematic philosophical argument. Central themes include the pursuit of self-sufficiency, the practice of frank and critical speech, and the necessity of rigorous mental and physical training. The letters extol voluntary poverty and ridicule conventional social norms, advocating instead for a simple life lived in accordance with nature. They are considered protreptic literature, designed to convert a broad, educated Greco-Roman audience to the Cynic way of life by dramatizing the philosopher's distinctive character and ethical stance.
+
+No authentic writings by the historical Crates survive. These letters are preserved in medieval manuscripts, such as the Codex Vaticanus Graecus 96, and their primary value lies in demonstrating how later generations idealized and transmitted early Cynic thought. Their themes significantly influenced subsequent biographical traditions and found resonance among early Christian ascetics as well as Stoic thinkers.
+
 ## Text
 
 ### 1 1 (t)

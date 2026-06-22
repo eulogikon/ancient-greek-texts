@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hpi-aa` · [HTML page](https://eulogikon.org/works/rhinthon-tarentum-dionysus-fragments-hpi-aa)
 
+The Comic Fragments on Dionysus is a modern designation for excerpts from the lost comedies of Rhinthon of Tarentum, a playwright active around 300 BCE. Credited with inventing the "phlyax" play, a form of short, farcical comedy known as hilarotragedy, Rhinthon specialized in parodying mythological stories. These plays enjoyed particular popularity in the Greek communities of southern Italy. The nine surviving fragments concerning the god Dionysus do not originate from a single work but are collected from various lost plays. They are composed in verse using a literary Doric Greek dialect. The text survives only in part, preserved through quotations by later authors such as Athenaeus. Although Rhinthon was said to have written 38 plays, none survive intact. The extant fragments indicate a comedic style that portrayed deities like Dionysus in an undignified, humorous light, often emphasizing drunkenness and bodily humor. Scholars interpret these works as a significant cultural synthesis, blending Attic Greek comedic traditions with local Italian performance practices and thereby influencing the subsequent development of Roman comic theater.
+
 ## Text
 
 ### book 2

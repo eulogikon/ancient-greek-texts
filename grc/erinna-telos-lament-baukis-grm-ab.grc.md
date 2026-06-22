@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `grm-ab` · [HTML page](https://eulogikon.org/works/erinna-telos-lament-baukis-grm-ab)
 
+The Lament for Baukis is a fragmentary epicedium, or funeral song, composed in the fourth century BCE by the poet Erinna of Telos. Written in dactylic hexameter, the meter of epic poetry, the work is a personal lament mourning the untimely death of the poet’s childhood friend Baukis shortly after her marriage. The poem’s language is a literary blend, primarily employing the Doric dialect with admixtures of Aeolic and Homeric Greek. Its text survives only in fragments, approximately thirty-four in number, preserved through later ancient quotations and on papyrus. These fragments indicate a poem that intertwined vivid, tactile recollections of shared childhood—such as games with dolls and play at the seaside—with expressions of profound, immediate grief, creating a poignant contrast between the warmth of memory and the finality of loss.
+
+Erinna’s composition is regarded by modern scholarship as a significant innovation within the Hellenistic literary landscape. By adopting the stately hexameter, traditionally reserved for epic and didactic poetry, for an intimate, female-authored lament focused on private emotion and domestic life, she created a novel bridge between public literary tradition and personal experience. The work provides a rare and valuable window into the spheres of female friendship and socialization in the ancient Greek world, as well as the emotional impact of marriage and mortality. Highly esteemed in antiquity, Erinna was compared by contemporaries such as Asclepiades to Sappho. However, the poem did not survive intact through the medieval manuscript tradition, and its modern appreciation depends on the careful reconstruction of its evocative fragments.
+
 ## Text
 
 ### book 1a

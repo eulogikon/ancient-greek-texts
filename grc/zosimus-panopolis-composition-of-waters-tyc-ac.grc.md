@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-ac` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-composition-of-waters-tyc-ac)
 
+Zosimus the Divine, On Virtue; On the Composition of Waters, Practice A is an alchemical treatise composed in Greek by Zosimus of Panopolis, likely around 300 CE. Written as a technical manual, the work provides detailed, step-by-step instructions for the creation and application of various liquid reagents, typically corrosive acids or solvents, which were fundamental to alchemical processes such as metal dyeing and transmutation. The text is structured around specific recipes and laboratory procedures, reflecting the practical, craft-oriented dimension of early alchemy. Zosimus produced this work in Panopolis, Egypt, a significant hub for artisanal and intellectual activity, intending it as a guide for fellow practitioners. Modern scholarship views the treatise as a key example of the integration of laboratory technique with symbolic thought, where the preparation of these transformative "waters" was often allegorically framed within concepts of purification, death, and rebirth. The treatise survives within the larger corpus of Zosimus's writings preserved in Greek manuscripts, most notably in the 10th- or 11th-century Codex Marcianus graecus 299. While the text is complete, it has undergone the typical scribal modifications and corruptions common to ancient technical literature over centuries of transmission.
+
 ## Text
 
 ### [45]

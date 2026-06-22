@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vrm-aa` · [HTML page](https://eulogikon.org/works/archelaus-divine-art-iambic-vrm-aa)
 
+Overview Archelaus the Philosopher—the Divine Art in Iambic Verses (Ἀρχελάου φιλοσόφου περὶ τῆς θείας τέχνης διὰ) is a Greek alchemical poem attributed to Archelaus, distinguished as "the Alchemist" or "the Philosopher" to separate him from namesakes. Written in iambic verse, a common didactic meter, its title refers to alchemy as the "divine art." The work comprises 21 passages, indicating a short, segmented structure.
+
+Content The poem’s themes, consistent with its genre, include:
+
+The transmutation of metals.
+
+The philosophical and mystical principles underlying alchemical processes.
+
+The role of divine knowledge in mastering the art.
+
+Descriptions of substances and procedures encoded in poetic language.
+
+Transmission The poem survives within the corpus of Greek alchemical texts, transmitted through Byzantine manuscripts like the key compilation Marcianus graecus 299 (10th/11th century CE). Such texts are frequently pseudepigraphical, with authorship attributed to authoritative ancient figures.
+
+Significance As part of the late antique tradition of alchemical poetry, this work contributed to preserving and teaching alchemical doctrines within Egyptian, particularly Alexandrian, intellectual circles. It formed part of the foundation of knowledge transmitted into Byzantine, Arabic, and later Latin scholarly traditions.
+
 ## Text
 
 ### 1

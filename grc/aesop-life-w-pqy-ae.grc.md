@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pqy-ae` · [HTML page](https://eulogikon.org/works/aesop-life-w-pqy-ae)
 
+The Life of Aesop is an anonymous fictional biography of the legendary fabulist, composed in Koine Greek prose during the Roman Imperial period, most likely in the 1st or 2nd century CE. This novelistic narrative, traditionally divided into approximately 138 chapters, chronicles the life of Aesop from his origins as an ugly and mute slave to his rise as a famously witty sage. After gaining his freedom through his cleverness, he serves King Croesus of Lydia and ultimately meets a tragic demise at Delphi, falsely accused of theft and thrown from a cliff. The plot is interspersed with many of the fables attributed to him, which he deploys as strategic tools to solve dilemmas and offer pointed critiques of his social superiors.
+
+Scholarly interpretation views the work not as historical biography but as a form of popular social satire and entertainment from the ancient world. Written for a broad audience, it functions as a comic anti-history, celebrating cunning intelligence over conventional attributes like social status and physical beauty. The narrative consistently inverts social hierarchies, portraying the enslaved Aesop as intellectually superior to his masters, to pretentious philosophers, and even to kings, thereby delivering a sharp critique of elite hypocrisy and pretension. The text survives in full through several manuscript traditions, the most widespread being the recension known as Vita W. It remained widely read and was frequently translated from the Byzantine period through the Renaissance, securing its place as a significant work of ancient popular fiction.
+
 ## Text
 
 ## ΒΙΟΣ ΑΙΣΩΠΟΥ ΤΟΥ ΦΙΛΟΣΟΦΟΥ Ὁ κατὰ πάντα τὸν βίον γενόμενος βιωφελέστατος Αἴσωπος, ὁ λογομυθοποιός, τῇ μὲν τύχῃ γέγονε δοῦλος τῷ δὲ γένει Φρὺξ ἐξ Ἀμορίου τῆς Φρυγίας, κακοειδὴς μὲν εἰς ὑπερβολήν, προκέφαλος, κοντοδείρης, σιμός, μέλας, μυστάκων, προγάστωρ, γαλιάγκων, στρεβλός, ὑπόκυρτος, ἡμερινὸν ἁμάρτημα.

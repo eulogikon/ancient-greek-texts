@@ -20,6 +20,22 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ao` · [HTML page](https://eulogikon.org/works/callimachus-scholia-aetia-vmw-ao)
 
+Overview The Scholia-Aetia I are ancient explanatory notes on the first book of Callimachus’s Aetia. These scholia provide glosses on words, identify mythological references, explain allusions, and offer interpretive notes for Callimachus’s dense elegiac poem. The two extant passages represent a composite text preserving the work of multiple scholars from the Hellenistic, Roman, and possibly Byzantine periods who contributed to the exegetical tradition on Callimachus.
+
+Content
+
+Textual Criticism: Notes on variant readings and manuscript issues.
+
+Mythological Exegesis: Explanation of referenced myths and legends.
+
+Lexicography: Definitions of rare, archaic, or dialectal words.
+
+Literary Interpretation: Clarification of historical, geographical, and cultural allusions.
+
+Transmission The scholia are preserved in the margins of medieval manuscripts, primarily the Laurentianus Conventi Soppressi 627 (11th century CE). The text is fragmentary and often corrupt, having been copied and compiled over centuries. Modern critical editions, such as those by Rudolf Pfeiffer, reconstruct these scholia from the manuscript evidence.
+
+Significance These scholia are crucial for the modern study of Hellenistic poetry, preserving otherwise lost information about myths, local histories, and ancient literary interpretation. They provide essential insight for reconstructing the fragmentary Aetia and for understanding the history of classical scholarship and Callimachus’s reception.
+
 ## Text
 
 ### 3-7.(21)

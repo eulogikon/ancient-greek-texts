@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `emo-aa` · [HTML page](https://eulogikon.org/works/aeschylus-seven-thebes-emo-aa)
 
+Seven Against Thebes is a tragedy by Aeschylus, first performed at the City Dionysia in Athens in 467 BCE, where it won first prize. It formed the final part of a connected trilogy, following the lost plays Laius and Oedipus, collectively telling the story of the cursed house of Cadmus. The play dramatizes the climax of the Theban saga: the war for the throne between the sons of Oedipus, Eteocles and Polyneices. Eteocles defends the city of Thebes from an army led by his brother and six other Argive champions.
+
+The action unfolds with a strong architectural symmetry. Following a prologue in which King Eteocles rallies the citizens, a panicked Chorus of Theban women enters, fearing the imminent assault. A Scout then delivers seven sequential reports, each describing an Argive champion and the device on his shield at one of the city's seven gates. In response, Eteocles assigns a matching Theban defender to each. This formal, ritualistic exchange builds toward the central crisis. When the Scout reveals that Polyneices himself is attacking the seventh gate, Eteocles recognizes the fulfillment of his father Oedipus's curse that the brothers would divide their inheritance by the sword. He resolves to confront his brother personally. The play concludes with a messenger announcing the mutual fratricide and a lament from the Chorus. A substantial portion of the final scene, featuring an antiphonal lament and a debate over burying Polyneices, is widely considered by scholars to be a later fourth-century BCE addition, likely influenced by Sophocles' Antigone.
+
+As the earliest surviving dramatic treatment of the myth, the play established the canonical story of the "Seven" against Thebes. Composed in the aftermath of the Persian Wars, its themes of civic duty, steadfast leadership, and the horrors of civil war resonated deeply with contemporary Athenian audiences. The text survives through medieval manuscripts, though its ending is not entirely Aeschylean. As the concluding piece of the only complete Aeschylean trilogy known, it remains a crucial work for understanding the structure of early tragic cycles and the poet's exploration of fate, familial curses, and the defense of the city-state.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bok-ab` · [HTML page](https://eulogikon.org/works/panyassis-halicarnassus-epic-fragments-bok-ab)
 
+The Epic Fragments constitute the extant remains of the poetry of Panyassis of Halicarnassus, a Greek epic poet of the early fifth century BCE and a reported uncle of the historian Herodotus. His principal work was the Heraclea, a lengthy epic composed in the Homeric style that sought to systematize the myths surrounding the labors and adventures of the hero Heracles. A secondary work, the Ionika, narrated the story of Ionian colonization. Neither poem survived the medieval manuscript tradition intact. Their preservation is entirely indirect, relying on quotations by later ancient authors and commentators such as Athenaeus and Strabo. The fragments from the Heraclea, numbering fifty-nine separate passages, range from single lines to short excerpts. They provide glimpses into the poem's episodes, composed in the traditional epic dialect blending Ionic and Homeric Greek. Though ancient critics ranked Panyassis among the major epic poets, his works are now known only through these fragmentary citations, which reflect an ambitious attempt to create a canonical epic cycle for a Classical Greek audience deeply versed in heroic poetry.
+
 ## Text
 
 ### book 1.1

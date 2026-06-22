@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `eyw-ab` · [HTML page](https://eulogikon.org/works/eurytus-pythagorean-chance-spontaneous-events-eyw-ab)
 
+On Chance and Spontaneous Events is a lost Pythagorean treatise attributed to Eurytus, a student of Philolaus. The work survives only as a single fragmentary passage quoted by later authors, an indication underscored by its alternative title, Extract. In this text, Eurytus engages with fundamental Presocratic questions concerning causality. He argues that chance and spontaneous events are not primary causes with defined natures of their own, but rather incidental occurrences that supervene upon other causes. The fragment posits the existence of two opposing natures within the cosmos: one that is orderly, rational, and governed by law, and another that is irrational, disordered, and without arrangement. According to Eurytus, phenomena attributed to chance or spontaneity arise when this irrational nature intrudes into affairs. The treatise thus represents an attempt within the Pythagorean tradition to account for apparent randomness and disorder within a framework that also upheld a fundamental cosmic order. While the work's direct influence is obscure, Eurytus himself was a significant figure for later philosophical critique, most notably by Aristotle, who referenced his literalist application of Pythagorean number theory. Consequently, Eurytus's ideas, including his thoughts on causality and chance, served as an important point of contrast in the subsequent development of Aristotelian concepts of causation.
+
 ## Text
 
 ### 88 (4t)

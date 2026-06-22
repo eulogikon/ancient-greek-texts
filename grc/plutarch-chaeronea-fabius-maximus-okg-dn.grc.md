@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-fabius-maximus-okg-dn)
 
+The Life of Fabius Maximus is a biography by Plutarch, composed in Greek circa 100–120 CE as part of his Parallel Lives. This work pairs the Roman general Quintus Fabius Maximus Verrucosus, known as Cunctator (the Delayer), with the Athenian statesman Pericles. A complete prose narrative divided into 134 sections, it chronicles Fabius's distinguished lineage, his political and military career, his defining character traits, and his death. The biography concentrates on his command during the Second Punic War, particularly his strategy of attrition and tactical avoidance of direct engagement with Hannibal's forces, a policy that proved crucial to Rome's ultimate victory. Plutarch's purpose is principally ethical rather than strictly historiographical; he employs the narrative to illustrate virtues such as patience, prudent deliberation, and resilience in the face of public criticism and adversity. The deliberate pairing with Pericles invites a comparative analysis of two leaders who guided their respective states through protracted conflicts via strategic caution. The work was intended for an educated Greco-Roman readership, serving both to exemplify shared aristocratic virtues and to provide models of leadership during the zenith of the Roman Empire. The text survives intact through medieval manuscript traditions. While Plutarch drew upon earlier Roman historical sources, he adapted their accounts to suit his overarching aim of moral instruction and character study.
+
 ## Text
 
 ### Fab t 1

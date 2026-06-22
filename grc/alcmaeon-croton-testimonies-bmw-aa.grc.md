@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bmw-aa` · [HTML page](https://eulogikon.org/works/alcmaeon-croton-testimonies-bmw-aa)
 
+The work known as the Testimonies is a modern scholarly compilation representing the doctrines of the Pre-Socratic philosopher and physician Alcmaeon of Croton, who was active in southern Italy during the late sixth and early fifth centuries BCE. No complete treatise by Alcmaeon survives; his ideas are reconstructed from approximately eighteen fragments and doxographical reports preserved by later ancient authors, including Aristotle, Theophrastus, and Galen. These passages, originally composed in Doric Greek, collectively outline his pioneering contributions to medicine and natural philosophy.
+
+Alcmaeon’s central tenet defines health as a state of equilibrium, or isonomia, among the body’s opposing qualities—such as hot and cold, wet and dry, and bitter and sweet. He posited that disease results from the monarchy, or singular dominance, of any one of these qualities. His investigations extended to human anatomy, where he is credited with identifying the brain as the central organ of sensation and cognition, a conclusion he reportedly reached through dissection. He also provided an early description of the optic nerves. Scholars interpret his application of the term isonomia, a concept drawn from contemporary political discourse meaning “equality of rights,” as an attempt to establish a naturalistic, rather than theological, foundation for physiology. Although he is frequently associated with the Pythagorean intellectual milieu of Croton, ancient sources also note substantive differences between his views and those of the Pythagoreans.
+
+The transmission of Alcmaeon’s work is entirely indirect. All extant knowledge derives from quotations, paraphrases, and critiques embedded within the texts of later philosophers and medical writers. These scattered references were first systematically assembled in modern collections of Pre-Socratic fragments. Consequently, contemporary understanding of his thought remains inherently fragmentary and is inevitably filtered through the interpretive lenses of the authors who preserved it.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fge-ab` · [HTML page](https://eulogikon.org/works/isaeus-nicostratus-lot-fge-ab)
 
+On the Lot of Nicostratus is a forensic oration composed by the Attic speechwriter Isaeus in the mid-fourth century BCE. Delivered before an Athenian jury, the speech argues a complex case of inheritance law concerning the estate of a childless man named Nicostratus. The speaker, who identifies himself as a cousin of the deceased, represents the claims of himself and his brother against a rival claimant named Chariades. The core of the argument rests upon establishing the legitimate familial relationship of the speaker to Nicostratus while portraying Chariades as an unrelated outsider who orchestrated a fraudulent posthumous adoption to seize the property.
+
+The speech is a meticulous exercise in legal reasoning and rhetorical strategy, offering a detailed view of Athenian inheritance statutes and courtroom practice. The speaker systematically cites the laws governing succession to demonstrate his closer kinship tie, contrasting his straightforward claim with the convoluted and suspicious narrative presented by his opponent. A significant portion of the argument is devoted to attacking the character and motives of Chariades, suggesting that social reputation and perceived integrity were as vital to a successful case as strict legal merit. Scholars regard the oration as a practical exemplar of classical forensic rhetoric, likely written for an actual trial but preserved as a model of precise argumentation. The text survives intact within the corpus of Isaeus’s speeches and serves as a valuable primary source for the study of Athenian law, social history, and the development of legal oratory.
+
 ## Text
 
 ### Or4 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kws-aa` · [HTML page](https://eulogikon.org/works/bato-sinope-tyrants-ephesus-kws-aa)
 
+On the Tyrants of Ephesus is a lost historical work by the Hellenistic historian Bato of Sinope, who likely wrote in the third or second century BCE. Surviving only in nine fragments, the work provides anecdotal accounts of Ephesian tyrants, representing a sub-genre of historical biography focused on the moralizing depiction of autocratic abuses. The surviving passages present brief, illustrative narratives concerning rulers of Ephesus such as Pythagoras, Athenagoras, and Melas, emphasizing themes of hubris, the nature of tyrannical power, and its specific manifestations within the political context of Ephesus. The work is transmitted exclusively through quotations in later compilers, primarily Athenaeus’s Deipnosophistae and Clement of Alexandria’s Stromata from the second and third centuries CE; the fragments are collected in the modern scholarly corpus Fragmente der griechischen Historiker under the number 268. Cited by later authors for its illustrative anecdotes, the work served as a source of exempla on tyrannical behavior. It exemplifies the Hellenistic interest in local history and political biography, contributing to the understanding of Ephesus’s political history despite its fragmentary state.
+
 ## Text
 
 ### t1-2

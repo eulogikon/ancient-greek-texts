@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-bi` · [HTML page](https://eulogikon.org/works/aristotle-exhortation-hgw-bi)
 
+The Exhortation, also known as the Protrepticus, is a lost philosophical treatise by Aristotle, addressed to a Cypriot prince named Themison. Its primary purpose was to persuade its recipient of the supreme value of the philosophical life. The work survives only in fragments, the most substantial of which are preserved through extensive quotation or paraphrase in a later work of the same name by the Neoplatonist philosopher Iamblichus. Additional references and fragments are found in the writings of Cicero, Olympiodorus, and other ancient authors.
+
+Reconstructed from these sources, the treatise's central argument is that the cultivation of the intellect constitutes the true function and highest good of a human being, and is therefore the sole source of genuine happiness. It champions the life of theoretical contemplation as the most excellent, most pleasant, and most self-sufficient activity. The work further contends that philosophy is indispensable not only for personal fulfillment but also for practical success, particularly in the realm of legislation and effective governance.
+
+In antiquity, Aristotle's Exhortation was a highly influential text. It served as a direct model for Cicero's own lost protreptic dialogue, the Hortensius, which in turn played a pivotal role in the intellectual development of Augustine. For modern scholarship, the reconstruction of the Exhortation is of critical importance, offering vital insights into Aristotle's early ethical thought and its foundational connections to Platonic philosophy.
+
 ## Text
 
 ### Protr t

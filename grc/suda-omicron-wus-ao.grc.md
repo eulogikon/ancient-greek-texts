@@ -19,6 +19,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `wus-ao` · [HTML page](https://eulogikon.org/works/suda-omicron-wus-ao)
 
+The omicron section of the Suda (Σοῦδα, Στοιχεῖον Ο) contains 1,288 entries spanning rare vocabulary, proper names, and proverbial expressions. Early entries define agricultural and domestic terms such as ὄα (a small apple-like fruit) and ὀβελός (a spit or skewer), the latter accompanied by a Xenophon quotation and the proverb Τὸ θερμὸν τοῦ ὀβελοῦ, applied to those who choose worse over better.
+
+The section also preserves literary citations that would otherwise be obscure. The entry οἰχνῶ quotes a line from a character identified as Electra, while οἴχωκ', ὄλωλα, διαπεπόρθημαι φίλοι is attributed to Tecmessa lamenting the death of Ajax, preserving tragic diction with lexicographic commentary. Mid-section entries such as ὅροι and ὀροιτύπος (woodcutter) illustrate the Suda's range from philosophical terminology to technical vocabulary.
+
+This letter is useful for studying Byzantine reception of Attic prose and tragedy, for tracking rare omicron-initial glosses not well attested elsewhere, and for reconstructing lost or fragmentary texts through the Suda's quotation practice.
+
 ## Text
 
 ### ο 1

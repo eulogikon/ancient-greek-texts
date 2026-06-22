@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gmm-aa` · [HTML page](https://eulogikon.org/works/laon-comic-boeotia-character-gmm-aa)
 
+The comic work On Boeotia and Character by Laon the Comic Poet is known only by its title and a report that it consisted of five passages or extracts. No direct quotations from the text survive. Its existence is recorded solely in a single entry of the 10th-century Byzantine encyclopedia, the Suda, which notes Laon as a comic poet and cites this title; the work is absent from major modern collections of comic fragments. The title indicates it treated the region of Boeotia and its inhabitants, a common subject for comic stereotyping in antiquity where Boeotians were typically portrayed as rustic and dull. Based on its title and genre, the work likely addressed regional stereotyping and ethnic humor, contrasting urban sophistication with Boeotian rusticity and satirizing local customs or behavior. Its significance lies as a minor datum in the study of fragmentary Greek comedy and the literary perpetuation of regional stereotypes, though no direct influence on later literature can be documented.
+
 ## Text
 
 ### book 1.1

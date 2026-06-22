@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fgo-aa` · [HTML page](https://eulogikon.org/works/araros-comic-daily-life-fgo-aa)
 
+Comic Fragments on Daily Life is a modern scholarly compilation of 27 surviving passages attributed to the Athenian comic poet Araros, son of the celebrated playwright Aristophanes. Active in the fourth century BCE, Araros worked during the period of Middle Comedy, a transitional phase between the political Old Comedy of his father and the more domestic New Comedy of Menander. The fragments, written in Attic Greek verse, are not from a single play but are thematically grouped excerpts from his lost works, preserved through later quotation by authors such as Athenaeus of Naucratis. They provide vivid, humorous snapshots of daily Athenian life, focusing on subjects like food, dining customs, social characters, and domestic scenarios. The content illustrates the genre's shift from direct political satire toward generalized social observation and comedy of manners. As the producer of his father's final plays, Araros occupies a significant place in theatrical history, and these fragments serve as valuable evidence for the evolution of comic style and subject matter in classical Athens.
+
 ## Text
 
 ### book 1.1

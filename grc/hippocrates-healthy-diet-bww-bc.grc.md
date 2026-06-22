@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bc` · [HTML page](https://eulogikon.org/works/hippocrates-healthy-diet-bww-bc)
 
+On Healthy Diet is a concise medical treatise from ancient Greece, preserved within the extensive body of writings known as the Hippocratic Corpus. Although traditionally attributed to the physician Hippocrates, the work, like most of the corpus, was likely composed by another author or authors in the fifth or fourth century BCE. Written in Ionic Greek, the text is devoted exclusively to the principles of regimen, providing detailed instructions for preserving health through the careful management of daily life. Its guidance is systematically organized around the core components of a balanced lifestyle, including food and drink, physical exercise, sleep, and bathing, all interpreted through the lens of humoral theory, which posits health as a state of equilibrium among the body's fundamental fluids.
+
+The treatise is structured into nine distinct passages and survives intact through the medieval manuscript tradition of the Hippocratic works. It emerged during a formative period when Greek medicine was increasingly defining itself as a rational discipline separate from religious or magical practices. The practical, methodical nature of its advice suggests it was intended for use by practicing physicians and advanced medical students. Modern scholarship regards the work as a seminal document in the history of preventive and personalized medicine. Its recommendations are notably tailored to an individual's age, inherent constitution, and the changing seasons, advocating for moderation and a keen awareness of environmental factors. This emphasis on a holistic, adaptable regimen exerted a profound and lasting influence on the development of Western medical thought.
+
 ## Text
 
 ## Τοὺς ἰδιώτας ὧδε χρὴ διαιτᾶσθαι· τοῦ μὲν χειμῶνος ἐσθίειν ὡς πλεῖστα, πίνειν δ’ ὡς ἐλάχιστα, εἶναι δὲ τὸ πόμα οἶνον ὡς ἀκρητέστατον, τὰ δὲ σιτία ἄρτον καὶ τὰ ὄψα ὀπτὰ πάντα, λαχάνοισι δὲ ὡς ἐλαχίστοισι χρέεσθαι κατὰ ταύτην τὴν ὥρην· οὕτω γὰρ ἂν μάλιστα τὸ σῶμα ξηρόν τε εἴη καὶ θερμόν.

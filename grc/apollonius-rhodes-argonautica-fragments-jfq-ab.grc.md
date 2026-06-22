@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jfq-ab` · [HTML page](https://eulogikon.org/works/apollonius-rhodes-argonautica-fragments-jfq-ab)
 
+The Fragments on the Argonautic Voyage consist of forty-two passages attributed to the Hellenistic poet Apollonius of Rhodes. Preserved solely within the ancient commentaries, or scholia, on his epic Argonautica and in various grammatical treatises, these fragments present alternative mythological narratives and etiological details not found in the final version of his celebrated poem. They are believed to originate from earlier drafts, sections excised during revision, or auxiliary compositions on Argonautic themes. The content reflects the poet's scholarly compositional process, providing variant stories such as a different account of the death of Apsyrtus, offering precise geographical and cultic explanations, and potentially engaging in the contemporary literary debates of the era, including his noted rivalry with Callimachus. These fragments survive exclusively through this indirect transmission, having no independent manuscript tradition; modern editions reconstruct them from quotations scattered across ancient scholarly works. While not influential as a coherent separate work, the fragments are of significant scholarly value for understanding Hellenistic poetic practice. They illuminate Apollonius's methods, his critical engagement with prior mythological sources, and the editorial choices that shaped the definitive Argonautica, thus embodying the erudite and experimental ethos of the Library of Alexandria.
+
 ## Text
 
 ### unit_1

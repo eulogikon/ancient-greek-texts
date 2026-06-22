@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lay-aa` · [HTML page](https://eulogikon.org/works/parmeniscus-testimonies-lay-aa)
 
+The Testimonies is a lost philosophical work attributed to Parmeniscus the Philosopher, known only from a single entry in the 10th-century Byzantine encyclopedia known as the Suda. The title suggests a prose collection of philosophical sayings, arguments, or evidence, potentially functioning as a doxographical compilation of doctrines or proofs. No fragments, quotations, or descriptions of its specific content survive in extant ancient literature. The work is entirely lost, with its existence attested solely by the Suda; there is no known manuscript tradition. While the work itself had no discernible influence on the philosophical tradition, its attribution remains ambiguous. The Suda notes two possible authors: a Parmeniscus from Metapontum, identified as a pupil of Anaxarchus, and another from Rhodes, a pupil of Zenodotus. The Metapontine is labeled a philosopher, but neither is explicitly connected to the Testimonies in the surviving record.
+
 ## Text
 
 ### 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-ae` · [HTML page](https://eulogikon.org/works/hippolytus-rome-resurrection-incorruption-qsg-ae)
 
+The Fragment-Resurrection and Incorruption is a brief, fragmentary theological treatise attributed to Hippolytus of Rome, a presbyter and theologian active in the early third century. The work, composed in Koine Greek, defends the Christian doctrine of the bodily resurrection against philosophical objections, particularly those arising from Greco-Roman thought. It argues that God, as the creator of matter, possesses the inherent power to resurrect the same physical body, thereby affirming the goodness and redeemability of the material creation. The text contrasts this Christian eschatological hope with the Greek philosophical concept of an immortal soul, emphasizing a future state of incorruption and immortality where resurrected humans will be like the angels, free from physical needs and suffering.
+
+The treatise does not survive as a complete, independent work. Our knowledge of it derives entirely from two passages quoted within a much later medieval anthology known as the Sacra Parallela. Consequently, the original scope and full argument of the text are lost, with only these excerpts remaining. Modern scholars regard this fragment as a significant artifact of early Christian apologetics, illustrating how theologians like Hippolytus actively engaged with and countered prevailing philosophical paradigms to defend core doctrines. It is generally understood to have been composed to address both external pagan critiques of bodily resurrection and internal, spiritualizing interpretations that sought to allegorize or diminish its physical reality.
+
 ## Text
 
 ### 1

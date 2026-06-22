@@ -20,6 +20,16 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vmw-ab` · [HTML page](https://eulogikon.org/works/callimachus-scholia-uncertain-placement-vmw-ab)
 
+Overview The work Fragments of Scholia of Uncertain Placement (Ἀποσπάσματα Σχολίων ἀδήλου θέσεως) is known only by its title. Scholia are explanatory notes or commentaries on classical texts, and the descriptor “of Uncertain Placement” indicates these fragments could not be assigned a definitive location within the manuscript they were meant to annotate. The attribution to “Callimachus Scholia” links them to the scholarly tradition surrounding the Hellenistic poet Callimachus.
+
+Content
+
+The content of the single recorded passage is unspecified in the sources.
+
+Transmission The title identifies the work as a collection of scholiastic material excerpted or preserved separately from the main commentary tradition. The sources provide no details on the specific manuscripts or means of preservation.
+
+Significance While the influence of this specific collection is undocumented, scholia in general are crucial for modern scholarship. They preserve lost interpretive traditions, textual variants, and historical context, and fragments of uncertain placement aid in reconstructing ancient commentaries.
+
 ## Text
 
 ### 725c.ver

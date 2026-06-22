@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `omy-ab` · [HTML page](https://eulogikon.org/works/soranus-ephesus-fractures-omy-ab)
 
+On Signs of Fractures is a medical treatise by the Greek physician Soranus of Ephesus, composed in the first or second century CE. The work is a concise, practical manual dedicated to the diagnosis of bone fractures. It systematically catalogues the observable symptoms indicative of a fracture, such as swelling, deformity, crepitus, and loss of function, providing a method to distinguish fractures from similar injuries like dislocations. The treatise is known to have been organized into twenty-four brief sections, each detailing specific diagnostic signs.
+
+The original text is lost and survives only in fragmentary form, preserved through quotations in later medical compendia, most notably the Medical Collections of the fourth-century Byzantine physician Orthasius. Soranus was a principal authority of the Methodic school of medicine, and this work exemplifies its approach, prioritizing clear empirical observation and the systematic classification of disease states based on evident symptoms over elaborate theoretical speculation. Written in the common Greek of the Roman Empire, the treatise functioned as a handbook for practicing surgeons and students, offering a direct and actionable diagnostic methodology. Its content continued to influence medical writers and encyclopedists for centuries.
+
 ## Text
 
 ### t 1

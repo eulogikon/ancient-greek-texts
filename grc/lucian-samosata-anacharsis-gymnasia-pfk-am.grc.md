@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-am` · [HTML page](https://eulogikon.org/works/lucian-samosata-anacharsis-gymnasia-pfk-am)
 
+Anacharsis, or On Athletics is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. It presents a fictional conversation between the Athenian lawgiver Solon and the Scythian prince and philosopher Anacharsis. The work centers on Anacharsis’s bewildered observation of Greek athletic training in the gymnasium, which he views as a bizarre and painful spectacle of young men wrestling, grappling, and covering themselves in mud and oil. He questions the utility and rationality of such strenuous and seemingly violent exercise. Solon responds with a systematic defense of the practice, arguing that physical training develops strength, health, and endurance crucial for military service, fosters discipline and competitive spirit, and constitutes a fundamental component of Greek education and civic virtue. The dialogue functions as a sophisticated rhetorical exercise, employing the outsider’s perspective to humorously critique and examine cultural norms. Written during the period of the Second Sophistic, a revival of Greek literary culture under Roman rule, it explores themes of tradition versus utility, the nature of education, and the social function of athletics, offering its educated audience an ironic debate on the foundations of Hellenic identity.
+
 ## Text
 
 ### Anach t

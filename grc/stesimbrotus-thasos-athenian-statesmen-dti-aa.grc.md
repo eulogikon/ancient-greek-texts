@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dti-aa` · [HTML page](https://eulogikon.org/works/stesimbrotus-thasos-athenian-statesmen-dti-aa)
 
+On Athenian Statesmen was a biographical work by the 5th-century BCE sophist and historian Stesimbrotus of Thasos. Composed in Greek prose, the now-lost text provided critical sketches of major Athenian political figures, most notably Themistocles, Thucydides son of Melesias, and Pericles. It blended historical narrative with personal anecdote and moralizing judgment, offering a pointed evaluation of their characters and political rivalries. The original work survives only in approximately twenty-two fragments, preserved chiefly through quotations in later authors such as Plutarch, who cited it for its revealing and often unflattering stories. Modern scholarship regards it as a pioneering example of political biography, likely composed for a Panhellenic audience keenly interested in the nature of Athenian power. Its consistently critical tone suggests it functioned in part as a rhetorical exercise in assessing democratic leadership. Despite ancient and modern questions regarding its historical reliability, the fragments of Stesimbrotus’s work remained an influential source for subsequent biographers and historians of the classical Athenian era.
+
 ## Text
 
 ### t1-12

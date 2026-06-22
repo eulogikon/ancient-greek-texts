@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ab` · [HTML page](https://eulogikon.org/works/galen-pergamon-thrasybulus-hygiene-qmm-ab)
 
+_Thrasybulus or Whether Hygiene Belongs to Medicine or Gymnastics_ is a treatise by the physician Galen of Pergamon, structured as a dialogue. It addresses the question of whether the art of hygiene, meaning the preservation of health, properly falls within the domain of medicine or that of gymnastics, the ancient discipline of athletic training. The dialogue features Galen himself in conversation with a gymnastic trainer named Thrasybulus and a philosopher named Philostratus. The work forms part of Galen's extensive writings on preventive health, a field he carefully distinguished from the therapeutic treatment of established disease.
+
+The text systematically examines the definitions and proper scopes of medicine and gymnastics as scientific arts. It explores the nature of hygiene itself, the specific qualifications necessary for the competent management of health, and the critical relationship between theoretical knowledge and practical application in bodily care. Underpinning this inquiry is a philosophical investigation into the foundations of true medical expertise, arguing for medicine as a comprehensive, rational art grounded in logical demonstration. The complete Greek text of the treatise is preserved in medieval manuscripts and is available in the modern critical edition of Galen's works within the Corpus Medicorum Graecorum.
+
+As a component of Galen's foundational medical corpus, this work significantly shaped the historical understanding of dietetics and preventive care. Its vigorous defense of medicine as a broad, philosophical discipline encompassing hygiene was influential in defining the professional identity and authority of physicians for centuries. The treatise's arguments concerning professional boundaries and specialization continued to resonate in later medical debates.
+
 ## Text
 
 ### 5 806 (t1)

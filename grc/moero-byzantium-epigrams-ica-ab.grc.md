@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ica-ab` · [HTML page](https://eulogikon.org/works/moero-byzantium-epigrams-ica-ab)
 
+Moero of Byzantium was a Hellenistic Greek poet of the 3rd century BCE, known for her epigrams composed in the Epic dialect. Her surviving work, preserved only through later anthological transmission, consists primarily of two complete dedicatory epigrams found in the Greek Anthology. These brief, elegant poems depict fishermen offering their nets and rods to rustic deities such as Priapus and Pan, exemplifying the epigram's conventional use as a vehicle for personal piety. Beyond these short pieces, fragments of her longer poetry survive through quotations by later authors. She is credited with a hexameter poem titled Mnemosyne, which treated mythological narratives, and another work known as Arae. Her small but varied corpus, characterized by polished craftsmanship and scholarly engagement with myth, is representative of Hellenistic literary tastes. Moero was connected to a literary circle associated with the poet Philitas of Cos. Her work owes its preservation entirely to its inclusion in the Greek Anthology and to citations by the scholar Athenaeus; no independent manuscripts of her poetry exist.
+
 ## Text
 
 ### book 119.1.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `avy-aa` · [HTML page](https://eulogikon.org/works/paron-miletus-testimony-avy-aa)
 
+Paron of Miletus is a figure known only through a single anecdote preserved in later philosophical commentary. No work titled Testimony is attributed to him in any extant ancient source, and he is not otherwise recorded as an author. The name appears in Aristotle's Physics and in the subsequent commentary by Simplicius, where Paron is identified as a Pythagorean. According to these sources, he famously objected to the poet Simonides's praise of time as the wisest of things, countering that time must instead be the most forgetful, since it is in time that we forget. This philosophical riposte constitutes the sole surviving testimony concerning Paron. The idea of a collected work under the title Testimony appears to be a modern construct, likely arising from the categorization of this isolated fragment. No fragments of any substantive text by Paron are recorded in standard collections of Greek philosophical fragments, and he remains a minor, enigmatic figure in the anecdotal tradition of early Greek thought.
+
 ## Text
 
 ### 1

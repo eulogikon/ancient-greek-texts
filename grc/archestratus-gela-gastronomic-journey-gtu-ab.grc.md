@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gtu-ab` · [HTML page](https://eulogikon.org/works/archestratus-gela-gastronomic-journey-gtu-ab)
 
+The Gastronomic Journey, also known as Hedypatheia or "Life of Luxury," is a didactic poem composed in epic hexameter verse by Archestratus of Gela during the mid-4th century BCE. Surviving only in fragments quoted by later authors, the work presents itself as a culinary tour of the Mediterranean world. It offers practical guidance on procuring the finest regional delicacies, detailing where to find the best fish, wines, breads, and meats. Modern scholarship often interprets the poem as a sophisticated parody, applying the elevated diction and meter of heroic epic to the subject of gourmet dining. The work reflects the interconnected Hellenistic culture that emerged following the conquests of Alexander the Great, mapping a geography of luxury and trade routes. Approximately 310 fragments of the poem are preserved, primarily within the Deipnosophistae of the 2nd- and 3rd-century CE writer Athenaeus. This secondary transmission means the original, complete poem is lost, and contemporary understanding of it is filtered through the interests of these later compilers. The work was likely composed for a cosmopolitan audience well-versed in literary conventions and attuned to the social significance of refined dining in the Hellenistic era.
+
 ## Text
 
 ### book 1.1

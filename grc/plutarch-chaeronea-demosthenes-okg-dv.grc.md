@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-dv` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-demosthenes-okg-dv)
 
+Plutarch's Life of Demosthenes is a biography within his Parallel Lives, which pairs the Athenian orator with the Roman statesman Cicero. The work adheres to Plutarch's biographical method, emphasizing the development of character and the impact of significant actions over a simple chronological narrative. It traces Demosthenes's life from his early challenges with a speech impediment and his rigorous self-training in oratory to his defining political career as the leading voice opposing the expansionist policies of Philip II of Macedon. The account continues through his period of exile and culminates in his suicide, drawing upon earlier historical sources such as Demetrius of Phalerum as well as Demosthenes's own orations.
+
+Central themes explored in the biography include the formation of character through perseverance, exemplified by Demosthenes overcoming physical and rhetorical limitations. It examines the conflict between political idealism and overwhelming external force, embodied in Athens's struggle against Macedonian hegemony. The narrative also considers the interplay between innate talent and disciplined practice in the cultivation of excellence, and it reflects on the relationship between personal virtue and the vicissitudes of political fortune, a theme amplified by the comparative structure with Cicero's life. The text survives intact through the medieval manuscript tradition of the Parallel Lives, with a key witness being the 11th-century Codex Seitenstettensis. This biography has been profoundly influential in shaping the Western biographical tradition and the historical image of Demosthenes. As part of the Lives, it served as a major source for later historians and, from the Renaissance onward, established Demosthenes as a canonical model of eloquence and patriotic resistance.
+
 ## Text
 
 ### Dem.9.5

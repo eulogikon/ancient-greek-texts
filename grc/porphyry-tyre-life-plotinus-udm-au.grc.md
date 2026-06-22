@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-au` · [HTML page](https://eulogikon.org/works/porphyry-tyre-life-plotinus-udm-au)
 
+The Life of Plotinus is a philosophical biography composed in Greek by Porphyry of Tyre around 301 CE. It functions as the introductory text to Porphyry’s editorial compilation of his teacher’s writings, known as the Enneads. Structured into 34 chapters, the work provides the foundational narrative of Plotinus’s life, detailing his ascetic character, his daily practices within his Roman school, his unsuccessful endeavor to establish a philosophical community called Platonopolis under imperial patronage, and his interactions with students and contemporaries. A significant portion of the text is also devoted to explaining the editorial methodology Porphyry employed to organize Plotinus’s originally disparate treatises into the systematic, thematic order of the six Enneads.
+
+Modern scholarship recognizes the biography as serving several interconnected purposes. It operates simultaneously as a historical record, a piece of philosophical hagiography that portrays Plotinus as a contemplative sage whose life embodied his doctrines, and a scholarly prolegomenon designed to legitimize Porphyry’s editorial decisions and establish the textual authority of the Enneads. The work is generally understood to have been composed for a community of practicing philosophers, aiming to secure the doctrinal and institutional authority of the emerging Neoplatonic school. The text survives in its complete form and has been transmitted almost exclusively as the preface to manuscripts of the Enneads; the oldest substantial copies originate from the Byzantine period. The Life of Plotinus subsequently became an influential model for later biographies of philosophers within the Neoplatonic tradition.
+
 ## Text
 
 ## ΠΟΡΦΥΡΙΟΥ ΠΕΡΙ ΤΟΥ ΠΛΩΤΙΝΟΥ ΒΙΟΥ ΚΑΙ ΤΗΣ ΤΑΞΕΩΣ ΤΩΝ ΒΙΒΛΙΩΝ ΑΥΤΟΥ Πλωτῖνος ὁ καθ’ ἡμᾶς γεγονὼς φιλόσοφος ἐῴκει μὲν αἰσχυνομένῳ ὅτι ἐν σώματι εἴη.

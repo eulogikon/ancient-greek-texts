@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uyg-af` · [HTML page](https://eulogikon.org/works/damascius-damascus-phaedo-uyg-af)
 
+On Phaedo is a philosophical commentary by Damascius of Damascus, the final head of the Neoplatonic Academy in Athens, composed in the sixth century CE. The work offers a detailed scholarly analysis of Plato’s Phaedo, a dialogue concerning the immortality of the soul. It is structured not as a continuous narrative but as a series of 563 individual notes, a format that likely derives from lecture notes used in advanced philosophical instruction, providing insight into pedagogical practices of the late Academy.
+
+Through these notes, Damascius engages with central Platonic doctrines, including the nature of the soul, the theory of Forms, and the conception of philosophy as a preparation for death. His interpretation is framed by the sophisticated metaphysical framework of late Neoplatonism, the dominant philosophical school of his era. The commentary represents a significant product of the final period of pagan scholarship in Athens, produced during increasing tension with Christian imperial authority shortly before the Academy’s closure by Emperor Justinian in 529 CE.
+
+The complete text of On Phaedo survives in a single manuscript dating from the ninth or tenth century. While its format as a collection of notes means it is not a systematic, chapter-by-chapter exposition, the transmission is considered intact. The work remains an essential source for understanding the intricate metaphysics of late Athenian Neoplatonism and the exegetical methods of its last practitioners.
+
 ## Text
 
 ### 1

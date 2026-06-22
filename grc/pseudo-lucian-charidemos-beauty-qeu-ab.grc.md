@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qeu-ab` · [HTML page](https://eulogikon.org/works/pseudo-lucian-charidemos-beauty-qeu-ab)
 
+_Charidemos or On Beauty_ is a short epideictic oration from the Imperial Roman period, traditionally but spuriously attributed to Lucian of Samosata. The work takes the form of a rhetorical exercise in which the speaker, Lycinus, delivers an elaborate encomium on the physical perfection of a youth named Charidemos. Following the conventions of the head-to-toe description, or ekphrasis, it systematically catalogs ideal male beauty through a series of aesthetic comparisons to materials like ivory and roses. This detailed praise culminates in a philosophical reflection on the transient nature of physical beauty, contrasting its inevitable decay with the enduring qualities of virtue or divine beauty. Transmitted intact within the manuscript tradition of Lucian’s works, the oration is a characteristic product of the Second Sophistic, exemplifying the period’s fascination with rhetorical virtuosity, erotic description, and conventional moral themes. It stands as a notable example of the persistent literary form of the beauty encomium and its role in the ancient rhetoric of desire.
+
 ## Text
 
 ### Charid t

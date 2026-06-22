@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cai-aa` · [HTML page](https://eulogikon.org/works/herodicus-selymbria-fragments-desire-cai-aa)
 
+Herodicus of Selymbria, a fifth-century BCE Greek sophist and grammarian, is known primarily through secondary references in the works of Plato and later authors. He is frequently cited as a teacher of the sophist Prodicus and is often portrayed as an archetype of pedantic scholarship, with interests spanning music, gymnastics, and literary criticism. While a work titled Fragments on Socrates and Desire is attributed to him in some modern contexts, no such text is attested in the ancient historical or manuscript record. Herodicus himself is not cited as an author of Socratic literature, and any writings he may have produced are entirely lost. His significance lies instead in his foundational role in the early development of grammatical and philological theory. Later technical writers, such as Sextus Empiricus, reference him alongside figures like Protagoras as a pioneer in the field. His reputation endured primarily through anecdotal tradition, where his name became synonymous with meticulous and overly precise scholarship.
+
 ## Text
 
 ### 494.(t)

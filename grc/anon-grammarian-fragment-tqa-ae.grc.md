@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ae` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ae)
 
+The Grammatical Fragment is an anonymous, fragmentary treatise on Greek grammar. The surviving text consists of two discrete passages identified and excerpted by modern editors from a larger source, likely preserved within later manuscripts, scholia, or Byzantine anthologies. The work belongs to the broad corpus of ancient Greek technical writings on language. Its content is dedicated to grammatical theory and the systematic description of the Greek language, as evidenced by its discussion defining a sentence and enumerating the nine parts of speech: noun, appellative, participle, pronoun, article, verb, preposition, adverb, and conjunction. While the direct influence of this specific fragment is untraceable, such anonymous works collectively illustrate the diversity and development of grammatical thought in antiquity. They form part of the foundational corpus that informed later Byzantine and Renaissance linguistic scholarship.
+
 ## Text
 
 ### [45]

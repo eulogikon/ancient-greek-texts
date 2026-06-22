@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `afu-ac` · [HTML page](https://eulogikon.org/works/archilochus-paros-epigrams-afu-ac)
 
+The Epigrams constitute a small collection of short, inscribed poems attributed to the seventh-century BCE Greek poet Archilochus of Paros. Composed in Ionic Greek, they represent a distinct facet of this influential poet, who was more renowned for his personal and critical iambic verse. The four surviving passages belong to the earliest form of the epigram, which originated as a verse inscription carved on objects such as tombstones, votive offerings, or public monuments. Their structure employs the elegiac couplet, the standard meter for such commemorative poetry. These poems served a public, communal function, aiming to preserve the memory and glory of an individual, often a warrior, or to record a dedication to a deity, a purpose that contrasts with the subjective voice characteristic of Archilochus's other work. Modern scholars interpret these epigrams as examples of how early Greek poetry engaged with themes of mortality, fame, and piety within a civic context, their concise and crafted style showcasing the poet's skill within a formal, traditional genre. Like all of Archilochus's work, which survives in no complete manuscripts, these epigrams are fragmentary, known only through quotations by later ancient authors and references in scholarly works; the four extant examples have been identified and compiled by modern editors from these scattered sources.
+
 ## Text
 
 ### book 133.1

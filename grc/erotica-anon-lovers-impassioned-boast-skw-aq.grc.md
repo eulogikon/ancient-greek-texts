@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-aq` · [HTML page](https://eulogikon.org/works/erotica-anon-lovers-impassioned-boast-skw-aq)
 
+The Lover's Impassioned Boast is a lost work of ancient Greek prose, known only by its title from a catalog entry where it is listed under the generic heading Apostasma, meaning "Extract" or "Fragment." Classified as an erotic narrative, this reference suggests it was either a brief, self-contained composition or a surviving excerpt from a longer, otherwise unpreserved text. The work itself does not survive in any direct manuscript tradition, existing only as an attestation within source lists. Its cataloged presence, however, signifies the recognized scope of ancient Greek literary production, illustrating how the tradition encompassed a diverse range of genres, including erotic fiction, beyond the canonical works that have come down to us more completely.
+
 ## Text
 
 ### [24]

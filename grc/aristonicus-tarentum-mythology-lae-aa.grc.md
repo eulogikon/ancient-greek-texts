@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lae-aa` · [HTML page](https://eulogikon.org/works/aristonicus-tarentum-mythology-lae-aa)
 
+The Fragments on Mythology is a lost work by the Alexandrian grammarian Aristonicus of Tarentum. Its existence is recorded solely in the Byzantine encyclopedia the Suda, which lists it among the author's writings and describes it as consisting of at least three passages on mythological subjects. The title suggests a collection of excerpts or notes, likely compiled for scholarly exegesis. No direct quotations or descriptions of its specific content survive, but based on Aristonicus's known profession as a Homeric textual critic, the work probably contained explanations of mythological stories and analyses of mythological references within poetic texts, particularly Homeric epic. The work is considered fragmentary, with no surviving manuscript tradition or direct attestations beyond the Suda. While the treatise itself exerted no traceable direct influence, its existence illustrates the range of Alexandrian scholarly activity, which integrated detailed mythography with textual criticism. Aristonicus's broader and more influential scholarship focused on Homeric critical signs, which was cited by later grammarians and preserved in the Homeric scholia.
+
 ## Text
 
 ### 1

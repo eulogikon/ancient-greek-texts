@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pza-ab` · [HTML page](https://eulogikon.org/works/pythagoreans-sentences-pza-ab)
 
+The Sentences of the Pythagoreans is an anonymous collection of sixty-four ethical maxims composed in Doric Greek prose. Compiled during the Hellenistic period, likely in the fourth or third century BCE, it assembles traditional sayings attributed to the earlier Pythagorean school. As a work of gnomic literature, it provides concise directives on piety, justice, self-control, friendship, and the proper conduct of life, emphasizing practical moral guidance over extended philosophical discourse. The collection is believed to have functioned as a handbook for personal edification, intended for members of Pythagorean communities or adherents to its principles. Its content reflects the school's characteristic focus on ritual purity, social harmony, and the cultivation of the soul. While a later compilation not originating with Pythagoras himself, the text remains a significant source for understanding the popular ethical traditions of Pythagoreanism. Preserved complete in medieval manuscripts alongside other Neopythagorean writings, its concise and memorable format helped to standardize and disseminate core Pythagorean ideals, influencing later popular philosophy and attracting the notice of some early Christian authors.
+
 ## Text
 
 ## ΑΙ ΓΝΩΜΑΙ ΤΩΝ ΠΥΘΑΓΟΡΕΙΩΝ Ἀνανεούσθω σοι ὁ περὶ τῶν ἀγαθῶν λόγος καθ’ ἡμέραν μᾶλλον ἢ τὸ σῶμα τοῖς σιτίοις.

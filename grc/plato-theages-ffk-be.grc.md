@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-be` · [HTML page](https://eulogikon.org/works/plato-theages-ffk-be)
 
+Theages is a short Socratic dialogue traditionally included in the Platonic corpus. It presents a conversation between Socrates, a young man named Theages, and Theages’s father, Demodocus, who is seeking advice on his son’s education and political ambitions. The dialogue centers on the question of whether wisdom and political virtue can be taught, directly challenging the claims of contemporary Sophists to provide such instruction. In exploring this theme, it contrasts the Socratic method of dialectical inquiry with the formal training offered by the Sophists. The discussion culminates in Socrates’s detailed description of his personal divine sign, an inner voice or deterrent that guides his actions. This account of the daimonion became one of the most famous and frequently cited passages from the dialogue in later tradition.
+
+The authenticity of Theages has been a subject of scholarly dispute since antiquity. While it was accepted as genuine by many ancient readers and is preserved within the complete medieval manuscript tradition of Plato’s works, most modern scholars consider it spurious. It is generally thought to be the work of a later writer within the Platonic or Academic school, composed perhaps in the fourth century BCE. Despite questions regarding its authorship, the dialogue survives as a complete text and offers a vivid, if not philosophically central, portrait of Socratic teaching. Its significance lies particularly in its influential depiction of Socrates’s divine sign, which was later referenced by Neoplatonist philosophers such as Proclus and by early Christian authors interested in Socrates as a moral and religious figure.
+
 ## Text
 
 ### Theag.121.a

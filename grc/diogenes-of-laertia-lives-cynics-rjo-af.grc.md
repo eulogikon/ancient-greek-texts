@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-af` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-cynics-rjo-af)
 
+Book VI develops a strong Cynic profile through vivid anecdotes, ethical statements, and confrontational public scenes. Diogenes preserves both lineage and style, making this book a key source for how Cynic practice was remembered and rhetorically staged.
+
 ## Text
 
 ### Vit.6.t1-19

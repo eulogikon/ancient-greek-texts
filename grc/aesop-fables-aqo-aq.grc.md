@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aqo-aq` · [HTML page](https://eulogikon.org/works/aesop-fables-aqo-aq)
 
+The Fables attributed to Aesop constitute a foundational collection of concise, didactic narratives, typically employing animals with human traits to convey lessons of practical wisdom. Each tale concludes with an explicit moral, known as an epimythium or promythium. Although traditionally associated with the semi-legendary Aesop, a Thracian or Phrygian slave said to have lived in the 6th century BCE, the fables represent a fluid oral tradition that was later systematized into written compilations. They are primarily preserved in prose form, though they were subsequently adapted into verse by authors such as Babrius in Greek and Phaedrus in Latin.
+
+The narratives explore enduring themes of human and social conduct. They frequently champion practical wisdom and the consequences of action, as seen in the tale of the industrious ant and the improvident grasshopper. A common motif is the triumph of cunning over brute strength, exemplified by the story of a mouse freeing a lion from a net. The fables also offer sharp critiques of human frailty, including hypocrisy and self-deception, illustrated by the fox who dismisses unreachable grapes as sour. Warnings concerning social ethics and the breakdown of trust are equally prominent, most famously in the parable of the shepherd who falsely cried wolf.
+
+No original writings by Aesop survive. The fables circulated widely in oral tradition for centuries before being assembled into prose collections, the most important of which is the Augustana compilation dating from the first or second century CE. The standard corpus largely derives from later redactions, particularly the Greek verse versions of Babrius and the Latin verse adaptations of Phaedrus. The significance of Aesop's Fables in Western literature and thought is profound. They were essential tools in ancient rhetoric and education, were adapted by Roman authors and medieval beast epics, and were revitalized in the 17th century by Jean de La Fontaine. Their legacy endures as a cornerstone of global children's literature and a ubiquitous source of metaphorical language.
+
 ## Text
 
 ### [1]

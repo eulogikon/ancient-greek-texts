@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-af` · [HTML page](https://eulogikon.org/works/euripides-phoenician-women-cbm-af)
 
+Phoenician Women is a tragedy by Euripides, produced around 409 BCE. The play dramatizes the myth of the struggle between Oedipus's sons, Eteocles and Polyneices, for the throne of Thebes. Its title derives from the chorus, a group of Phoenician women who are passing through Thebes and become witnesses to the royal family's destruction. The plot is notably expansive, weaving together numerous figures from the Theban saga, including Oedipus, Jocasta, Antigone, and the seer Teiresias. The action culminates in the fatal duel of the two brothers, the suicide of their mother Jocasta, and the final exile of the blind Oedipus.
+
+Written during the later stages of the Peloponnesian War, a period of profound civil strife in Greece, the play's depiction of fraternal conflict has often been interpreted as a powerful commentary on the catastrophic consequences of political division and ambition for contemporary Athens. The text survives nearly complete because it was included in a select group of Euripides' works used for educational purposes in later antiquity and the Byzantine era, which ensured its transmission through medieval manuscripts. It stands as one of Euripides' most comprehensive treatments of the Theban myth and remained a widely read and influential work for centuries.
+
 ## Text
 
 ### 1

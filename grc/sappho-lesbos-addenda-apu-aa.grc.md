@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `apu-aa` · [HTML page](https://eulogikon.org/works/sappho-lesbos-addenda-apu-aa)
 
+The work conventionally titled Addenda to Fragments represents not an ancient collection but the modern scholarly process of augmenting the extant corpus of Sappho’s poetry with newly discovered verses. Sappho, the lyric poet from Lesbos active in the late 7th and early 6th centuries BCE, composed songs for solo performance accompanied by the lyre. Her work was originally organized into nine books in the Hellenistic period but now survives almost exclusively in a fragmentary state. The concept of "addenda" pertains directly to the ongoing recovery of papyrus and parchment fragments, which continue to add verses to the known body of her poetry, such as those found in the so-called "Tithonus poem" or "Brothers poem."
+
+These fragments reveal the core themes of Sappho’s artistry: the intense personal expression of erotic desire and longing, the dynamics of community and relationship within a female circle, the poignant lament over separation and the passage of time, direct invocations to deities like Aphrodite, and the use of mythological exempla, such as the figure of Helen, to refract personal experience. The transmission of her work is entirely fragmentary, relying on quotations preserved in later ancient authors, papyrus scrolls recovered from Egyptian sites like Oxyrhynchus, and parchment fragments reused in medieval book bindings. Modern critical editions continually integrate these new papyrological discoveries into the standard scholarly collections.
+
+Sappho’s literary significance has been profound since antiquity, where she was celebrated by figures such as Plato. Her distinctive metrical invention, the Sapphic stanza, exerted a notable influence on later Latin poetry. The modern recovery and study of her fragments are indispensable for the understanding of Archaic Greek lyric poetry and have fundamentally shaped contemporary perspectives on female homoeroticism in the ancient world.
+
 ## Text
 
 ### book 214(1)

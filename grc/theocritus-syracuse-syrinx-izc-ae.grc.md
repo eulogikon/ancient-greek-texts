@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `izc-ae` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-syrinx-izc-ae)
 
+"Syrinx" is a fragmentary bucolic poem by the third-century BCE Greek poet Theocritus of Syracuse. Composed in the Doric dialect, it is not an independent work but a song embedded within his longer poem, Idyll 1. In that idyll, a goatherd offers to perform "the song of the Syrinx," and the surviving fragment presents this mythological narrative. It recounts how the god Pan, after losing a musical contest to Eros, binds the nymph Syrinx and fashions the first panpipe from her reeds, thereby providing an etiological myth for the shepherd's signature instrument. Only this single passage survives, preserved because it is quoted within the larger work. As a piece of pastoral poetry, it reflects the Hellenistic era's interest in refined, artistic depictions of rural life and myth. Scholars interpret it as a foundational etiological myth for the pastoral genre, explaining the origin of its most important musical symbol. Its survival is entirely dependent on the manuscript tradition of Theocritus's collected Idylls. As part of Theocritus's influential oeuvre, this fragment helped establish the panpipe and the figure of Pan as enduring symbols of the pastoral tradition, profoundly influencing later Roman poets like Virgil and the subsequent course of European pastoral literature.
+
 ## Text
 
 ### 1

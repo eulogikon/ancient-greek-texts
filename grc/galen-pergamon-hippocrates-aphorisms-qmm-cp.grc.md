@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-cp` · [HTML page](https://eulogikon.org/works/galen-pergamon-hippocrates-aphorisms-qmm-cp)
 
+On Hippocrates' Aphorisms is a seven-book medical commentary composed in Greek by the physician Galen of Pergamon around 170–180 CE. The treatise offers a detailed, sequential exegesis of the roughly 737 concise medical maxims that constitute the Hippocratic Aphorisms, a foundational text for ancient medical practitioners. Galen systematically quotes each Hippocratic saying and provides an extensive interpretation, elucidating ambiguous terminology, addressing textual inconsistencies, and illustrating the application of its general principles to specific clinical scenarios. Organized into seven books that mirror the structure of the original collection, the commentary serves as a vehicle for Galen to advance his own medical doctrines, especially those concerning humoral theory and bodily qualities, while frequently critiquing the interpretations of rival medical sects. Composed during his residence in Rome, the work is regarded by scholars as a strategic effort by Galen to cement his authority by presenting himself as the preeminent interpreter of the venerated Hippocratic corpus for both students and professional contemporaries. The complete Greek text survives through medieval manuscripts and exerted profound influence for over a millennium. Translated into Syriac and Arabic, it became a cornerstone of Islamic medicine and later entered the medieval Latin West, where it fundamentally shaped medical education and practice for centuries.
+
 ## Text
 
 ### 17b 345 (t1)

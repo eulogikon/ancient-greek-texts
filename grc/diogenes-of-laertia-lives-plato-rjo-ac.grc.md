@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ac` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-plato-rjo-ac)
 
+Book III focuses on Plato and preserves a layered dossier: life narrative, cataloging of writings, and testimony concerning philosophical positions. The book is central for later reception because it joins biography, bibliography, and doctrinal framing in one continuous witness.
+
 ## Text
 
 ### Vit.3.1

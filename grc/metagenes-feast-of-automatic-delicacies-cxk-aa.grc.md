@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cxk-aa` · [HTML page](https://eulogikon.org/works/metagenes-feast-of-automatic-delicacies-cxk-aa)
 
+_The Feast of Automatic Delicacies_ is a lost work of Old Comedy by the Athenian poet Metagenes, surviving only in fragments quoted by later authors. The play’s title suggests a plot centered on a fantastical, self-serving banquet, a recurring motif of comic extravagance. Of the thirty-two surviving fragments, the majority are preserved by Athenaeus in his _Deipnosophistae_, who cites the play primarily for its elaborate descriptions of food and dining. The fragments depict a utopian world of effortless luxury, where rivers automatically carry cooked dishes such as rolls, meats, and baked fish directly to the guests, and where pastries fly into the diners’ mouths. This automation of hospitality likely served as social satire, mocking contemporary Athenian desires for wealth and a life free from manual labor. Beyond Athenaeus, the play is also referenced by grammatical writers such as Pollux. While the fragments reveal no direct literary influence, they contribute to a broader understanding of Old Comedy’s thematic range beyond the works of major authors like Aristophanes. The play stands as an early example of a lasting literary tradition that imagines magical feasts and labor-saving devices.
+
 ## Text
 
 ### book 1.1

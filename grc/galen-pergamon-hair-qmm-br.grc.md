@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-br` · [HTML page](https://eulogikon.org/works/galen-pergamon-hair-qmm-br)
 
+On Hair According to Hippocrates is a concise exegetical treatise by the physician Galen of Pergamon. This focused commentary examines a specific aphorism from the Hippocratic corpus concerning hair, particularly the claim that hair does not turn white as a direct result of disease. The work systematically analyzes this proposition, using it as a vehicle to illustrate and reinforce Galen's own physiological principles. After presenting the original Hippocratic lemma, Galen provides a detailed explanation grounded in humoral theory and the concept of innate heat, discussing the processes of hair growth and pigmentation. The treatise engages with broader medical debates of the period, exploring distinctions between local pathology and systemic illness. As part of Galen's extensive project to systematize and legitimize Hippocratic medicine in alignment with his own theories, this minor work exemplifies the scholastic commentary tradition that dominated medical education for centuries. It survives in Greek manuscripts within larger collections of Galen's Hippocratic commentaries and is included in the standard critical editions of his works.
+
 ## Text
 
 ### 7 643 (t)

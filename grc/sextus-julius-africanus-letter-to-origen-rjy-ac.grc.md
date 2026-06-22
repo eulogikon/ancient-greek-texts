@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjy-ac` · [HTML page](https://eulogikon.org/works/sextus-julius-africanus-letter-to-origen-rjy-ac)
 
+The Letter to Origen is an epistle composed in Greek around 240 CE by the Christian historian and chronographer Sextus Julius Africanus, addressed to the eminent theologian Origen of Alexandria. It constitutes a seminal work of early biblical criticism, presenting a detailed argument against the authenticity of the story of Susanna, which appears as a preface to the Book of Daniel in the Greek Septuagint version of the Old Testament. Africanus contends that the narrative is a later, spurious addition, advancing his case on philological and historical grounds. He notes, for instance, that the story hinges on a Greek pun involving the names of trees, a literary device that could not have existed in a putative Hebrew original. Furthermore, he identifies inconsistencies with the historical and prophetic context of the Book of Daniel, observing that the Daniel of the canonical text prophesies through visions and dreams, not through the kind of direct, inspired intervention depicted in the Susanna tale.
+
+The letter survives in its entirety, preserved alongside Origen’s extensive and point-by-point reply within collections of the theologian’s correspondence, most notably in a tenth-century Greek manuscript. This preservation provides a rare, complete record of a sophisticated scholarly debate from the third century. Modern scholarship regards this exchange as a crucial document in the history of Christian thought, illustrating the application of Greco-Roman philological and historical methods to questions of scriptural authority and canon formation. It exemplifies the early development of textual criticism within the Christian tradition, demonstrating how learned figures scrutinized the origins and integrity of sacred texts.
+
 ## Text
 
 ### 78 (1t)

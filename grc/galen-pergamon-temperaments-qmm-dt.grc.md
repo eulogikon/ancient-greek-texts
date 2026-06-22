@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dt` · [HTML page](https://eulogikon.org/works/galen-pergamon-temperaments-qmm-dt)
 
+On Temperaments is a foundational medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek around 170–180 CE. The work presents a systematic exposition of Galen’s doctrine of the four humors—blood, phlegm, yellow bile, and black bile—and their corresponding temperaments. Building upon earlier philosophical and medical thought, Galen posits that all living bodies are composed of mixtures of the four primary qualities: hot, cold, wet, and dry. He argues that perfect health, or eucrasia, is a state of ideal equilibrium among these qualities and their associated humors. The treatise meticulously details the nine possible temperaments that arise from various imbalances, exploring how these constitutional blends manifest in different organs, ages, sexes, and geographical regions, thereby linking physical constitution to psychological character and susceptibility to disease.
+
+Written in Rome, the treatise represents a key component of Galen’s broader project to synthesize Hippocratic medical principles with Aristotelian and Stoic natural philosophy, aiming to establish a logical and comprehensive theoretical foundation for medical practice. The complete text has survived from antiquity and is often organized in modern editions into 186 distinct passages. Its intended audience was fellow physicians and educated laypersons, serving to demonstrate the explanatory power and coherence of humoral theory against competing medical doctrines. The influence of On Temperaments was profound and enduring. Translated into Arabic and later into Latin, its framework became central to both Islamic and medieval European medicine for over a millennium. The text permanently embedded the terms for the four classic temperaments—sanguine, choleric, melancholic, and phlegmatic—into the common lexicon of Western thought.
+
 ## Text
 
 ### 1 509 (t1)

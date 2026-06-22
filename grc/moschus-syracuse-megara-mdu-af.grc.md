@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mdu-af` · [HTML page](https://eulogikon.org/works/moschus-syracuse-megara-mdu-af)
 
+Megara is a fragmentary Greek poem attributed to the Hellenistic bucolic poet Moschus of Syracuse and dated to approximately the mid-second century BCE. Composed in a literary Doric dialect, the work is a short epic, or epyllion, surviving only in nine separate passages totaling about 130 lines. These fragments are preserved almost exclusively within the anthology of the fifth-century CE grammarian Stobaeus, who selected them for their rhetorical and sententious qualities. Consequently, the overall narrative must be reconstructed from these excerpts.
+
+The poem presents a dramatic dialogue set in Thebes between Heracles' wife, Megara, and his mother, Alcmene. In the surviving portions, dominated by their speeches, the women lament the hero's prolonged absence and live in terror of the usurper Lycus, who threatens their lives. Their expressions of grief, anxiety, and longing shift the traditional focus of heroic myth away from the hero's deeds and toward the domestic suffering and emotional perspective of the women left behind. This reframing is characteristic of Hellenistic poetic innovation. While the traditional attribution to Moschus is generally accepted by scholars, some uncertainty regarding authorship persists due to the fragmentary nature of the evidence.
+
 ## Text
 
 ### 1

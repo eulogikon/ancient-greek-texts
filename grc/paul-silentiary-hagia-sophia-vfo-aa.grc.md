@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vfo-aa` · [HTML page](https://eulogikon.org/works/paul-silentiary-hagia-sophia-vfo-aa)
 
+The Description of Hagia Sophia is a ceremonial poem by Paul the Silentiary, a court official and poet in the sixth-century Byzantine Empire. Composed in Greek around 562 or 563 CE, it was written to celebrate the rededication of the Great Church in Constantinople following the repair of its dome after an earthquake. The work is structured in two distinct metrical parts: a lengthy main section composed in epic hexameter verse offers a detailed account of the church's architecture, its lavish marble decorations, and its luminous interior, while a shorter section in iambic meter focuses on the intricately carved ambo, or pulpit.
+
+Intended for performance before Emperor Justinian I, the poem artfully blends precise architectural description with panegyric imperial praise. It stands as a crucial historical record of the building's original appearance and decorative program, consistently emphasizing themes of divine light, imperial piety, and the harmonious union of artistic splendor and Christian faith. Modern scholars regard it as a masterpiece of ekphrastic literature, a verbal tour designed to render the sacred space vividly present for its audience. The complete text survives, transmitted primarily through a single tenth-century manuscript, and remains an indispensable source for understanding the art, ideology, and court culture of the age of Justinian.
+
 ## Text
 
 ### 1

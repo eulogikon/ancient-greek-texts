@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ak` · [HTML page](https://eulogikon.org/works/isocrates-athens-antipater-ffu-ak)
 
+The letter To Antipater is one of twenty-one epistolary orations attributed to Isocrates of Athens, composed with the rhetorical artistry of a formal speech intended for circulation. Addressed to Antipater, the regent of Macedonia and father of Cassander, this brief work functions as a personal defense. Isocrates refutes accusations against him by asserting his consistent friendship toward Macedonia, attributing any perceived hostility to the malicious slander of others. The letter argues for the orator’s unwavering political alliance with the Macedonian state and exemplifies the rhetorician’s conceived role as an advisor to powerful rulers. Preserved within the medieval manuscript tradition of Isocrates’ works, the letter is generally accepted as authentic by modern editors and survives as a complete text alongside his major orations. While a minor work, it provides valuable illumination of Isocrates’ personal and political engagements with Macedonian power brokers during the rise of Philip II, contributing to the understanding of his later political thought and serving as a subsequent model of epistolary rhetoric.
+
 ## Text
 
 ### Epist 4 t

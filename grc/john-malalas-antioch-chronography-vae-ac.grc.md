@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vae-ac` · [HTML page](https://eulogikon.org/works/john-malalas-antioch-chronography-vae-ac)
 
+The Chronography is a world chronicle composed in Koine Greek by John Malalas, a rhetorician from Antioch, during the mid-6th century CE. Spanning eighteen books, the work presents a continuous historical narrative from the Biblical Creation to the reign of the Byzantine Emperor Justinian I. It synthesizes material from diverse traditions, weaving together Biblical accounts, Hellenistic myths, and Roman imperial history into a single, accessible prose narrative aimed at a broad, popular audience. As a historical source, it is particularly valuable for its detailed information on the city of Antioch and for contemporary events under Justinian, including the Nika Riots and the construction of the Hagia Sophia.
+
+The complete original text of the Chronography is lost. The work is known primarily through a later Byzantine abridgment, with additional material preserved in fragments from a medieval Slavic translation and quotations found in other chronicles. Modern scholarship regards the chronicle as a seminal example of early Byzantine "mythistory," a genre in which pagan legends and mythological figures are treated as factual historical events within an overarching Christian chronological framework. The narrative is interpreted as an ideological project designed to portray the reign of Justinian as the divinely ordained culmination of world history. The Chronography proved highly influential, establishing a stylistic model for subsequent Byzantine popular histories and enjoying a wide circulation that extended into the Slavic cultural sphere.
+
 ## Text
 
 ### Chron 23 (t1)

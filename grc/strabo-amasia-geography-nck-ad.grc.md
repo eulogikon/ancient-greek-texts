@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nck-ad` · [HTML page](https://eulogikon.org/works/strabo-amasia-geography-nck-ad)
 
+Strabo's Geography is a comprehensive 17-book descriptive treatise composed in Koine Greek during the early Roman Empire, likely between 7 BCE and 23 CE. Conceived as a systematic companion to his earlier historical work, it opens with two introductory books that critique prior geographers and establish Strabo's foundational view of geography as a branch of philosophy. The core of the work methodically surveys the known world: Books 3 through 10 cover Europe, Books 11 through 16 cover Asia, and Book 17 covers Africa. These sections provide detailed descriptions of lands, cities, natural resources, and local customs.
+
+The complete text of the Geography has survived through a relatively robust manuscript tradition dating from the 10th century CE, with only a small portion of Book 7 considered lost or incomplete. Written during the Augustan and Tiberian periods, the work reflects the political unity of the early Roman Empire. It was intended for an educated audience of Greeks and Romans, particularly administrators and statesmen, and serves both to celebrate Rome's civilizing mission and to supply practical knowledge for governance. Strabo's method synthesizes mathematical geography, cultural ethnography, and historical digression, drawing upon a wide range of earlier sources as well as his own extensive travels.
+
 ## Text
 
 ### 1.1

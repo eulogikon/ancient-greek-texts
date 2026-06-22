@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-ai` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-problems-3-4-reo-ai)
 
+The Problems is a philosophical treatise by Alexander of Aphrodisias, the preeminent commentator on Aristotle who taught in Athens around 200 CE. Written in Attic Greek, the work belongs to the established genre of problem literature. It is structured as a series of puzzles, or aporiai, drawn from the Aristotelian corpus, each followed by Alexander's proposed resolution. The textual tradition is complex, with two distinct collections transmitted under the same title. The books designated as 3 and 4, containing 183 question-and-answer passages, form part of the larger and more securely attributed collection of philosophical problems. The content systematically clarifies and defends Aristotelian doctrine across natural philosophy, cosmology, psychology, and metaphysics. Scholars interpret it as an advanced pedagogical instrument, likely intended for students and fellow Peripatetics, designed to resolve apparent contradictions within Aristotle's own works and to defend the tradition against rival schools such as Stoicism and Platonism. The original full extent of the work is unknown, and its survival depends on medieval Greek manuscripts, which have facilitated its continuous availability and formed the basis for modern critical editions. Alexander's methodological approach of posing and solving doctrinal problems proved highly influential, shaping later Greek and Arabic commentary traditions and contributing to the development of the scholastic quaestiones format in medieval Europe.
+
 ## Text
 
 ### 3 t

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uwi-aa` · [HTML page](https://eulogikon.org/works/callinicus-rufinianus-life-hypatius-uwi-aa)
 
+The Life of Saint Hypatius is a fifth-century Greek hagiography composed by the monk Callinicus, who is also identified by the epithet Rufinianus. Written shortly after the death of its subject, around 447 to 450 CE, the work is a detailed prose biography of Hypatius, the influential abbot of the monastery at Rufinianae near Constantinople. The text is organized into 456 concise chapters that systematically chronicle the saint's ascetic discipline, his foundational role in establishing and leading a monastic community, and the numerous miracles and exorcisms attributed to him.
+
+Beyond its function as a spiritual exemplar, the biography serves as a historical document of its era. It presents Hypatius as a staunch defender of orthodox Christian doctrine amid contemporary theological conflicts, depicting his confrontations with heretical movements such as Nestorianism. For modern scholarship, the work provides significant insight into the practical and social dimensions of early Byzantine monasticism. It illustrates the role of a holy man as a pivotal community leader and a mediator within the broader social and religious landscape. The complete text of the Life of Saint Hypatius survives, transmitted primarily through a tenth-century manuscript.
+
 ## Text
 
 ### t 1

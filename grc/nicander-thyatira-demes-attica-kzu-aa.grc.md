@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kzu-aa` · [HTML page](https://eulogikon.org/works/nicander-thyatira-demes-attica-kzu-aa)
 
+The work On the Demes of Attica is a lost antiquarian treatise attributed to the Imperial-era grammarian Nicander of Thyatira. It survives only in fragments, preserved under the Greek title Apospasmata, or "Extracts," which describes its current state. These fragments represent a scholarly effort within the Hellenistic and Roman grammatical tradition to catalog and explain the administrative districts of ancient Attica. The treatise addressed the topography and civic organization of Athenian demes, along with associated local histories, mythological foundations, and etymologies. It also included lexicographical notes on terms specific to the Attic dialect. The work is known exclusively through quotations in later lexicographical compilations, most notably the 6th-century CE Ethnica of Stephanus of Byzantium, with no independent manuscript tradition. Nicander’s fragments were utilized by later ancient scholars and compilers, contributing to the enduring study of Athenian topography and the deme system. The work remains a source for modern reconstructions of Attic local history and institutions.
+
 ## Text
 
 ### t1-2

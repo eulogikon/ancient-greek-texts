@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `reo-ao` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-questions-reo-ao)
 
+The Questions is a philosophical work by Alexander of Aphrodisias, composed in Attic Greek around 200 CE. It belongs to the problemata genre, comprising 41 concise and self-contained discussions. Each section identifies a specific puzzle or difficulty concerning the interpretation of Aristotle's doctrines and then provides a reasoned solution. The topics are wide-ranging, covering natural philosophy, metaphysics, psychology, and ethics, reflecting the broad scope of the Aristotelian tradition. The work is structured dialogically, referring to its dialectical format of posing and resolving arguments rather than to a conversation between characters. Alexander wrote this text while serving as the publicly appointed professor of Aristotelian philosophy in Athens. Scholars believe it served an educational purpose for advanced students, modeling how to engage with and harmonize apparent contradictions within Aristotle's complex body of work. It forms part of Alexander's larger project to defend and systematize Aristotelian thought against rival schools like the Stoics. The complete text of the Questions survives through the medieval manuscript tradition. It is a key source for understanding the scholarly methods of later ancient Aristotelianism and was highly influential on subsequent Greek, Islamic, and medieval Latin commentators.
+
 ## Text
 
 ### 8

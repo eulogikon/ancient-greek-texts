@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jug-aa` · [HTML page](https://eulogikon.org/works/hedylus-samos-fragments-jug-aa)
 
+The surviving poetry of Hedylus of Samos, a Hellenistic epigrammatist of the early 3rd century BCE, is known collectively under the modern descriptive title "Fragment and Title." His work, composed in Greek elegiac couplets, consists of sympotic and dedicatory epigrams, a genre of short, polished poems intended for a sophisticated audience. Only three of his epigrams are extant, preserved within later anthologies. Their themes encompass the celebration of wine and conviviality, expressions of erotic desire, and depictions of humble votive offerings to the gods. The text survives solely in fragments, transmitted through two principal sources: the Byzantine-era Greek Anthology and Athenaeus’ Deipnosophistae, a 2nd/3rd century CE work concerning dining and literature. No independent manuscript of a collected edition exists. Modern scholarship interprets Hedylus’s work as a prime example of early Alexandrian poetry, characterized by learned allusion, precise imagery, and a playful tone. It is believed to have been composed for the courtly literary circle associated with Ptolemy II Philadelphus in Alexandria, reflecting the refined culture of the Hellenistic symposium where such witty, concise poems were highly valued.
+
 ## Text
 
 ### book 459.1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-av` · [HTML page](https://eulogikon.org/works/anon-grammarian-aeolis-tqa-av)
 
+On Aeolis is a concise grammatical treatise by an anonymous Greek grammarian, focusing on the features of the Aeolic dialect, which was employed by notable poets such as Sappho and Alcaeus. The work is structured in three brief passages, suggesting it may be a schematic outline or an excerpt from a more comprehensive, now-lost systematic description of the dialect. This format aligns with the methods of Hellenistic and Roman grammatical scholarship. The content addresses core dialectological topics, including characteristic Aeolic phonology, such as the retention of the long alpha vowel where Attic-Ionic uses eta, and distinctive morphological inflections for nouns and verbs. It also considers the application of these dialectal features within the Lesbian poetic tradition. The treatise's transmission history is obscure; it is not directly attested in major sources and may survive only as a fragment or as an entry within a later anthology or lexicon. While its specific influence remains unknown, the work exemplifies the grammatical tradition that systematically analyzed Greek literary dialects. This scholarship was fundamental to ancient textual criticism and helped preserve the understanding of non-Attic poetic traditions, thereby forming a basis for modern philological study.
+
 ## Text
 
 ### [48]

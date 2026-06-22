@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mcg-aa` · [HTML page](https://eulogikon.org/works/marcus-lepidus-historical-epitome-mcg-aa)
 
+The Historical Epitome Fragments is a lost historical work attributed to Marcus Lepidus the Historian, an author distinct from the Roman triumvir of the same name. It is known exclusively from a bibliographic entry in the 10th-century Byzantine encyclopedia known as the Suda, which records that the work consisted of seven prose passages. The Greek title indicates it was likely a collection of excerpts from a larger, now-vanished historical composition. No substantive information regarding its specific historical content, chronological scope, or thematic focus survives, as the Suda provides no quotations or summaries of the text. This absence confirms the work was already lost by the Byzantine era, and its transmission history prior to this single citation is entirely undocumented. The fragments hold significance primarily as a bibliographical record of a lost historiographical work, illustrating the considerable gaps in the surviving corpus of Greek historical writing and suggesting the original text had limited circulation and no discernible later influence.
+
 ## Text
 
 ### t1-3

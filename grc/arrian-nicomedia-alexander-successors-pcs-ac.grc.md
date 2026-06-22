@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-ac` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-alexander-successors-pcs-ac)
 
+The History of Alexander's Successors is a lost prose history composed in Attic Greek by the second-century CE Roman author Arrian of Nicomedia. Conceived as a direct sequel to his celebrated Anabasis of Alexander, the work chronicled the complex wars and political struggles among Alexander the Great’s generals, known as the Diadochi, following the king’s death in 323 BCE. The narrative is believed to have spanned several decades, extending into the early third century BCE and detailing the fragmentation of Alexander’s vast empire. The original text does not survive; our knowledge of it derives entirely from 106 fragments and references preserved by later Byzantine scholars, most notably in the Bibliotheca of Patriarch Photius and the Suda lexicon. These excerpts indicate that Arrian’s history began with the immediate crisis of succession, including the army’s discord and the proclamation of Alexander’s half-brother, Arrhidaeus, as King Philip III, alongside the unborn child of Alexander and Roxane. The fragments also name key figures in the ensuing conflicts, such as Perdiccas, Ptolemy, and Seleucus. Modern scholarship interprets Arrian’s project as an attempt to provide a clear and authoritative narrative of this chaotic period for an educated Greco-Roman audience, critically synthesizing earlier Hellenistic histories that are now themselves lost. Despite its fragmentary state, the work remains a vital source for understanding the formative decades of the Hellenistic world.
+
 ## Text
 
 ## ΤΑ ΜΕΤΑ ΑΛΕΞΑΝΔΡΟΝ Photiu s , Bib l .

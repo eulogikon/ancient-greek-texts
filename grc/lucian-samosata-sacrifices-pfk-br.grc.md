@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-br` · [HTML page](https://eulogikon.org/works/lucian-samosata-sacrifices-pfk-br)
 
+On Sacrifices is a satirical oration by the second-century CE Syrian author Lucian of Samosata. Written in Greek during the period of the Second Sophistic, the work mounts a systematic and witty critique of the traditional Greco-Roman practice of animal sacrifice. Lucian structures his argument as a rhetorical exercise, employing logic and irony to expose the inherent absurdities in the ritual. He posits a dilemma: if the gods truly desire and require the smoke and aroma of burnt offerings, then they possess base, human-like appetites and are therefore unworthy of worship; if they have no need for such sacrifices, then the entire practice is a futile waste. The essay further lampoons the common supplicant's attempt to bribe or appease the gods with gifts, questioning the piety of those who believe divinities would be swayed by such petty offerings or would punish mortals for minor slights, as in the myth of Artemis plaguing Calydon after being omitted from a sacrifice. The complete text, comprising fifteen sections, is preserved within the Lucianic corpus. It functions not as a philosophical treatise advocating atheism but as a piece of sophisticated intellectual satire, using humor and reason to challenge conventional religious practices for a cultured, Hellenized audience.
+
 ## Text
 
 ### Sacr t

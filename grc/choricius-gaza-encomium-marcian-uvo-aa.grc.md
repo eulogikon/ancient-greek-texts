@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uvo-aa` · [HTML page](https://eulogikon.org/works/choricius-gaza-encomium-marcian-uvo-aa)
 
+The Encomium for Bishop Marcian is a formal prose oration composed in Attic Greek by the sixth-century sophist and teacher Choricius of Gaza. Written between approximately 527 and 537 CE, the work honors Marcian, the Orthodox bishop of Gaza, following his death. It stands as a prominent example of late antique rhetoric, skillfully adapting the classical genre of the encomium to celebrate a Christian leader. The oration systematically praises Marcian’s life, character, and achievements, with particular emphasis on his personal piety, extensive charitable works, and his pivotal role in constructing major churches within the city.
+
+The complete text of the oration survives, comprising 1413 sections that reflect the elaborate and detailed stylistic conventions taught in Gaza’s renowned schools of rhetoric. Modern scholarship regards the work as a key document illustrating the synthesis of classical Greek paideia and Christian culture in the early Byzantine period. It is believed to have been intended for public delivery, serving the dual purpose of commemorating the bishop and demonstrating the continued social utility of advanced rhetorical skill within a Christian society. Furthermore, its detailed descriptions of now-lost buildings in Gaza provide valuable historical and archaeological information about the urban landscape and material culture of the city during the sixth century.
+
 ## Text
 
 ### 1 T 1

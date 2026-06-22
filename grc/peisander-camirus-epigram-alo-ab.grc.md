@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `alo-ab` · [HTML page](https://eulogikon.org/works/peisander-camirus-epigram-alo-ab)
 
+The Epigram attributed to Peisander of Camirus is a short poetic work known only by its title and a structural note indicating it originally comprised four passages. Peisander is primarily recognized as an epic poet, author of the lost Heraclea, which narrated the labors of Heracles. No details regarding the epigram's content, meter, or occasion are recorded in standard references, and his activity as an epigrammatist remains obscure. The specific themes and topics of the work are undocumented. Its manuscript tradition and preservation status are similarly not detailed; it is likely fragmentary or known only through indirect testimony, though this is not confirmed by existing sources. While the epigram itself lacks any attested literary influence, Peisander's epic Heraclea was an important early treatment of the Heracles myth and influenced later accounts.
+
 ## Text
 
 ### book 304.1.1

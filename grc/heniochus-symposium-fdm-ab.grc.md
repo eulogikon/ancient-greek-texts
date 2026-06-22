@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fdm-ab` · [HTML page](https://eulogikon.org/works/heniochus-symposium-fdm-ab)
 
+The Symposium and Philosophical Banter is a fragmentary comedy attributed to the 4th-century BCE Athenian poet Heniochus, a representative figure of the Middle Comedy period. Its Greek title, Apospasmata, meaning "Extracts," accurately describes its surviving form: a collection of 29 fragments preserving humorous dialogue. These excerpts suggest the play was set at a symposium, a Greek drinking party that served as a frequent venue for social and philosophical satire during this era. While the plot is entirely lost, the title and genre indicate a thematic focus on the rituals and excesses of the symposium, likely involving parody of contemporary philosophical ideas and a generalized satire of manners and intellectual pretensions.
+
+The work survives exclusively through quotations preserved by later ancient authors, most notably the grammarian Athenaeus, who cited the fragments in his Deipnosophistai for their lexical or thematic interest. These excerpts are compiled in modern scholarly editions. As with many fragmentary works of Middle Comedy, Heniochus's Symposium and Philosophical Banter provides valuable evidence for the genre's evolution away from the direct political satire of Old Comedy toward a greater interest in social types, domestic situations, and intellectual fashions. The fragments offer scholars insights into 4th-century BCE language, social history, and the comic treatment of philosophical discourse in Athenian popular culture.
+
 ## Text
 
 ### book 1.1

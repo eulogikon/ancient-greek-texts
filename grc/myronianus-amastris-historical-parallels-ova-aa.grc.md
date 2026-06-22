@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ova-aa` · [HTML page](https://eulogikon.org/works/myronianus-amastris-historical-parallels-ova-aa)
 
+The Historical Parallels and Anecdotes is a lost prose compilation attributed to the Hellenistic historian Myronianus of Amastris. According to the tenth-century Byzantine encyclopedia Suda, the work comprised nine books. No continuous text survives; it is known solely through fragments preserved by later authors, most prominently Athenaeus in his Deipnosophistae. Based on these citations, the compilation collected historical anecdotes and cultural parallels concerning notable figures, alongside antiquarian details on objects, foods, and social customs. The fragments also include etiological lore, such as an anecdote explaining the origin of the name for the month of June. A later reference appears in the sixth-century scholar John the Lydian. The work exemplifies the Hellenistic interest in anecdotal and antiquarian scholarship. Its fragments, preserved primarily by encyclopedists like Athenaeus, offer valuable, if indirect, glimpses into historical storytelling and social history, forming part of the source material for later Greco-Roman learning.
+
 ## Text
 
 ### t1-6

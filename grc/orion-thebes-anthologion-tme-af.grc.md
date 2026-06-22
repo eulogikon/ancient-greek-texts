@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tme-af` · [HTML page](https://eulogikon.org/works/orion-thebes-anthologion-tme-af)
 
+The Anthologion is a fifth-century CE lexicographical treatise by the grammarian Orion of Thebes. It is an alphabetical collection of seventy-six entries that function as a selective glossary, explaining rare, poetic, and dialectal Greek words drawn primarily from earlier Attic writers, poets, and historians. The work provides definitions, etymologies, and illustrative citations from canonical authors including Homer, the tragedians, Aristophanes, Thucydides, and Plato. In content and purpose, it represents a scholarly epitome, compressing and transmitting material from larger, earlier reference works such as those by Aelius Dionysius and Pausanias the Atticist. As a pedagogical tool for students of classical Greek literature, its selection of vocabulary reflects the Atticist movement’s enduring preference for the classical Athenian literary standard.
+
+The text survives primarily in a single thirteenth-century manuscript, Codex Vaticanus Graecus 1456, which is incomplete and disordered. A critical edition was produced by Friedrich Wilhelm Sturz in 1820. The work is also preserved indirectly through its extensive use by later Byzantine lexicographers, most notably the Etymologicum Magnum and the Suda. Orion’s Anthologion was a significant source for subsequent Byzantine lexicography. Through its incorporation into these major reference works, it acted as a crucial conduit, preserving knowledge of classical Greek vocabulary and literary citations for the medieval and modern eras.
+
 ## Text
 
 ### t 1

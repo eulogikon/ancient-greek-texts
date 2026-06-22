@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qwm-am` · [HTML page](https://eulogikon.org/works/aristides-orator-accusing-not-practicing-qwm-am)
 
+To Those Accusing of Not Practicing is an apologetic oration by the Greek orator Aelius Aristides, composed approximately between 147 and 149 CE. Written in refined Attic Greek, the speech constitutes a direct rebuttal to professional rivals who charged Aristides with neglecting the disciplined practice, or meletē, essential to the rhetorical profession. In his defense, Aristides cites the severe and chronic illnesses that dominated much of his adult life, arguing that the divine prescriptions he received from the god Asclepius—which mandated a strict regimen of rest and specific activities—represented a superior and divinely sanctioned form of preparation. He systematically redefines the concept of rhetorical exercise, expanding it to encompass intellectual contemplation, the interpretation of dreams, and religious devotion, thereby framing his prolonged residence at the Asclepieion in Pergamum as a legitimate and even elevated alternative to conventional public training and declamation.
+
+The complete text of the oration, structured in nine distinct passages, has been preserved securely within the medieval manuscript tradition of Aristides’ collected works. For modern scholarship, the speech serves as a crucial biographical document, offering a vivid window into the intensely competitive intellectual milieu of the Second Sophistic period. It stands as a compelling case study in how a leading public figure of the era navigated the intersecting demands of professional reputation, personal religious piety, and debilitating physical disability within the social landscape of the Roman Empire.
+
 ## Text
 
 ### [25]

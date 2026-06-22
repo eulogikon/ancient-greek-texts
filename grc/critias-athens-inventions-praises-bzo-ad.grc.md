@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bzo-ad` · [HTML page](https://eulogikon.org/works/critias-athens-inventions-praises-bzo-ad)
 
+Inventions and Praises is a collection of philosophical prose passages attributed to Critias of Athens, a prominent figure of the late 5th century BCE. The work survives not as a complete text but as a series of seven fragments preserved by later authors, most notably the anthologist John Stobaeus in the 5th century CE. It presents a rationalist history of human culture, systematically arguing that civilization was built not by divine intervention but through a series of human inventions and discoveries. The fragments catalogue various cultural and technological advancements, attributing them to specific peoples or cities, and include a notable passage praising the deliberate discovery of wine and drunkenness for their benefits of pleasure and relief from sorrow.
+
+Reflecting the sophistic intellectual movement of its time, which sought naturalistic explanations for social customs and religious beliefs, the work proposes a proto-euhemerist theory. Critias suggests that the gods were originally mortal inventors or benefactors who were later deified by a grateful populace. Modern scholars interpret Inventions and Praises as a secular, anthropological account aimed at an educated audience engaged in contemporary debates concerning the human origins of law, religion, and technology. These quoted fragments, though limited, offer a significant glimpse into sophistic theories on cultural progress and the deliberate human agency behind societal development.
+
 ## Text
 
 ### B2

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ayq-ad` · [HTML page](https://eulogikon.org/works/seven-sages-sentences-ayq-ad)
 
+The Sentences of the Seven Sages is a collection of concise, ethical maxims attributed to the semi-legendary wise men of Archaic Greece, a group traditionally including figures such as Thales, Solon, and Pittacus. It represents a body of traditional, gnomic wisdom focused on practical conduct rather than a single, fixed text, surviving through later compilation and citation. The sayings offer imperative advice on moderation and self-control, exemplified by the maxim "Nothing in excess," on self-knowledge, as in the famous dictum "Know thyself," and on broader social duties, justice, and prudent deliberation. No authoritative manuscript of a complete collection exists; the sayings are preserved fragmentarily through citation in later authors such as Herodotus, Diogenes Laërtius, and Plutarch, as well as in anthologies. This transmission reveals variant attributions and wording, reflecting a long tradition of oral and written recensions. These maxims were foundational to Greek ethical thought and civic education. They directly influenced later philosophical traditions, particularly Stoicism, and remained proverbial throughout antiquity, with their most famous aphorisms having an enduring impact on Western philosophy and culture.
+
 ## Text
 
 ### 215 (1t)

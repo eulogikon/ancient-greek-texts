@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cjo-aa` · [HTML page](https://eulogikon.org/works/xeniades-corinth-testimony-cjo-aa)
 
+The work Testimony, attributed to the obscure figure Xeniades of Corinth, is known only by its title. No fragments or direct quotations survive. The title indicates it was a piece of oratory, likely a forensic speech or declamation involving witness testimony, but its specific subject and arguments are lost. The work is completely lost, listed solely by title in catalogues of orators' works, surviving in no manuscripts and uncited by later authors in the extant sources. As a lost work, its significance lies primarily in its attestation, indicating the breadth of oratorical production in the Greek tradition. Its title provides a specific example of the genre of martyria within rhetorical practice.
+
 ## Text
 
 ### 1

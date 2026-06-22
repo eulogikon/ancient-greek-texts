@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hsu-aa` · [HTML page](https://eulogikon.org/works/nicostratus-aristophanes-food-feasting-hsu-aa)
 
+The Fragments on Food and Feasting is a modern scholarly compilation of 87 excerpts from the lost comedies of Nicostratus, an Athenian comic poet of the 4th century BCE and son of the celebrated playwright Aristophanes. These passages, originally composed in Attic Greek verse for performance at Athenian dramatic festivals, are united by their thematic focus on dining, cookery, and gluttony. They exemplify the characteristics of Middle Comedy, a genre that moved away from the direct political satire of earlier periods toward social parody, domestic scenarios, and the humorous treatment of mythological characters. The work itself is not an ancient text but an editorial assemblage; the complete plays of Nicostratus have not survived. These fragments are preserved solely through quotation by later authors, most extensively by the encyclopedist Athenaeus in his Deipnosophistae, who cited them to illustrate lexical and cultural details. Modern interpretation regards these collected fragments as significant evidence for understanding daily life, the mechanics of social satire, and the stylistic evolution of Greek comedy, with particular emphasis on themes such as culinary extravagance, the stock character of the parasite, and the rituals of Athenian conviviality.
+
 ## Text
 
 ### book 1

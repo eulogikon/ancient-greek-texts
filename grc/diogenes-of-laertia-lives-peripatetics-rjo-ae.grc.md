@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rjo-ae` · [HTML page](https://eulogikon.org/works/diogenes-of-laertia-lives-peripatetics-rjo-ae)
 
+Book V treats Peripatetic philosophers and associates through concise life notices and work lists. The compilation highlights intellectual networks around Aristotle and his heirs, documenting transmission of arguments and reputational memory across several generations.
+
 ## Text
 
 ### Vit.5.1

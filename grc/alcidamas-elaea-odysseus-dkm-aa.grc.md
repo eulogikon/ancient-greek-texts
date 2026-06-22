@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dkm-aa` · [HTML page](https://eulogikon.org/works/alcidamas-elaea-odysseus-dkm-aa)
 
+The Odysseus is a model prosecution speech composed in Attic Greek prose by the fourth-century BCE sophist and rhetorician Alcidamas of Elaea. It is a fictional oration attributed to the Homeric hero Odysseus, who accuses the Greek warrior Palamedes of treason during the Trojan War. As a prime example of epideictic oratory, the work was crafted to demonstrate rhetorical skill for educational purposes. It is structured as a continuous argument, though modern editions often divide the surviving text into sections for reference. The speech belongs to the sophistic tradition of arguing opposing sides of a case and employs mythological themes for rhetorical training, serving primarily as a pedagogical tool for students of rhetoric. Its argument showcases characteristic techniques of the contemporary Sicilian school, including reasoning from probability and character assassination. Modern scholars have interpreted the work as an ironic display of persuasive injustice, using Odysseus's cunning rhetoric to condemn the innocent Palamedes. Only a portion of the text survives today, preserved in a fragmentary state on a second-century CE papyrus that contains the speech's conclusion. A shorter version also exists in medieval manuscripts, but the papyrus is considered the more reliable source for the extant portion. The speech offers valuable insight into the methods and stylistic debates of classical rhetorical education, particularly in illustrating the contrast between Alcidamas's ideals and those of his rival, Isocrates.
+
 ## Text
 
 ### 15 t

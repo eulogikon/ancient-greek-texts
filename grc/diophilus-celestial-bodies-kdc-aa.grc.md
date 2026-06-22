@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kdc-aa` · [HTML page](https://eulogikon.org/works/diophilus-celestial-bodies-kdc-aa)
 
+The work known as Fragments on Celestial Bodies is attributed to an otherwise unknown author named Diophilus or Diophila. No extant ancient sources confirm the existence of this work, leaving its authenticity and precise nature unverified. The title suggests a collection of poetic excerpts focused on astronomical themes. The scant surviving text, as evidenced by the provided Greek fragment, describes celestial observations, including references to the constellation of the Wain, the Virgin, the Lion, and the figure of Boötes. This content indicates a work concerned with the description and mythology of celestial bodies and broader cosmological themes. Described only as fragments, the work’s manuscript tradition and the extent of its preservation are entirely undocumented. While the combination of verse form with astronomical subject matter aligns with the ancient tradition of didactic poetry, this specific text cannot be situated within that literary lineage due to the complete absence of corroborating historical or philological evidence.
+
 ## Text
 
 ### book 391.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hgw-ae` · [HTML page](https://eulogikon.org/works/aristotle-generation-corruption-hgw-ae)
 
+On Generation and Corruption is a philosophical treatise by Aristotle, composed around 350 BCE. It constitutes a core investigation within his natural philosophy, systematically analyzing the fundamental processes of change in the physical world. The work is divided into two books. The first critically examines the theories of earlier philosophers, including Empedocles, Anaxagoras, and the Atomists Leucippus and Democritus, regarding the principles of matter and change. It then establishes Aristotle’s own framework, introducing his theory of the four elements—earth, water, air, and fire—and his nuanced concept of mixture, where components are potentially present rather than merely juxtaposed. The second book explains how these elements transform into one another through the interaction of primary qualities like hot, cold, wet, and dry. It culminates in a cosmological argument that all cyclical generation and corruption on Earth is ultimately driven by the eternal, circular motion of the sun.
+
+The treatise is considered a complete and authentic work, preserved through the medieval manuscript tradition of Aristotle’s corpus. It functions as a pivotal bridge within his philosophical system, connecting the general theory of change and causation outlined in the Physics with the more specific, empirical studies of living and non-living nature that follow. Its central achievement is the rigorous distinction between substantial change, where a new substance comes into being or passes away, and other types of change such as alteration in quality or growth in quantity. The Aristotelian concepts of elements, qualities, and mixture developed within this text became foundational for subsequent scientific and philosophical thought, profoundly influencing medieval scholarship in the Islamic, Jewish, and Christian traditions for centuries.
+
 ## Text
 
 ### GC 314a (t1)

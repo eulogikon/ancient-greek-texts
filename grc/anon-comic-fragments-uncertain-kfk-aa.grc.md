@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfk-aa` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-uncertain-kfk-aa)
 
+Fragments of Uncertain Comedy is a modern scholarly designation for a collection of twenty-seven fragmentary passages attributed to an unknown comic author or authors, cataloged under the identifier Comic Fragments Anonymous I. These excerpts, preserved through indirect tradition, are quoted by later grammarians, lexicographers, and anthologists such as Athenaeus and Stobaeus. Ranging from single words to a few lines, they represent the vast, lost corpus of Greek comedy that existed beyond the canonical works of Aristophanes or Menander, though their original dramatic contexts are now irrecoverable. The content of the fragments reflects the common preoccupations of the genre, including observations on daily life and social customs, playful or proverbial uses of language, allusions to familiar character types, and possible parodic treatments of mythology. As a scholarly construct compiled from disparate ancient sources and cataloged among the Adespota in modern reference works, these fragments are crucial for the academic reconstruction of Greek comedy's history. They provide valuable evidence for the genre's linguistic range, social perspectives, and formal evolution, offering essential material for philologists, historians, and theater scholars.
+
 ## Text
 
 ### 27

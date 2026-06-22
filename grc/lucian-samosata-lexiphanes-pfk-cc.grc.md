@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-cc` · [HTML page](https://eulogikon.org/works/lucian-samosata-lexiphanes-pfk-cc)
 
+_Lexiphanes_ is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. It parodies the excessively ornate and archaic rhetorical style favored by orators of the Second Sophistic period. The work takes the form of a conversation between two characters: Lexiphanes, whose name means "word-displayer," and Lycinus, a figure who often represents the author's own critical perspective. In the first half of the dialogue, Lexiphanes delivers a deliberately obscure and pretentious speech laden with rare and obsolete vocabulary. The second half features Lycinus systematically critiquing this performance, offering a line-by-line translation of Lexiphanes' nonsense into clear and sensible language. Surviving intact within the Lucianic corpus through Byzantine manuscripts, the work is a direct satire of the pedantic extremes of the Atticist movement, which advocated strict imitation of classical Athenian prose. Written for a contemporary educated audience, _Lexiphanes_ champions clarity and effective communication while mocking the intellectual vanity and obscurantism Lucian perceived in the professional rhetoricians of his day.
+
 ## Text
 
 ### Lex t

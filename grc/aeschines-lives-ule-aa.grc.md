@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ule-aa` · [HTML page](https://eulogikon.org/works/aeschines-lives-ule-aa)
 
+The Lives of Aeschines is a biographical work concerning the Athenian orator Aeschines, who lived from approximately 390 to 322 BCE. While the title suggests an autobiographical composition, no ancient source attributes such a work to Aeschines himself. The principal ancient accounts of his life are found in the anonymous Lives of the Ten Orators and in the writings of Philostratus. Standard reference works, including the Byzantine encyclopedia known as the Suda, list only his three surviving courtroom speeches—Against Timarchus, On the Embassy, and Against Ctesiphon—with no mention of a biographical text from his own hand. Consequently, the specific content, structure, and transmission history of the Lives of Aeschines remain undocumented and obscure. If such a work did exist, its subject matter would logically have encompassed Aeschines' notable political rivalry with Demosthenes over Athenian foreign policy toward Philip II of Macedon, his career as a practicing rhetorician, and likely a defense of his public actions and diplomatic missions. Despite the uncertainty surrounding this particular text, the historical figure of Aeschines retains significant importance. His three extant orations are invaluable primary sources for the study of Athenian law, political history, and the development of rhetoric in the fourth century BCE. His lifelong conflict with Demosthenes became a standard topic in later biographical and rhetorical traditions, ensuring his enduring place in the historical record.
+
 ## Text
 
 ### 1 (t1)

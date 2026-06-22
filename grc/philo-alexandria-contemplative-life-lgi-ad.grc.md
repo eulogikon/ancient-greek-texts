@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lgi-ad` · [HTML page](https://eulogikon.org/works/philo-alexandria-contemplative-life-lgi-ad)
 
+On the Contemplative Life is a philosophical treatise by the Hellenistic Jewish philosopher Philo of Alexandria, composed in Koine Greek during the early 1st century CE. This work provides a detailed and unique account of a Jewish ascetic community known as the Therapeutae, who resided near Lake Mareotis in Egypt. Philo portrays their existence as one dedicated to study, communal worship, and philosophical contemplation, presenting them as an exemplary model of piety and intellectual pursuit. The treatise is fully extant and belongs to a group of approximately fifty surviving works by Philo, categorized among his historical and apologetic writings. It is considered part of a larger project, possibly a trilogy, aimed at defending Judaism to a Greco-Roman audience. Scholars interpret the text as an argument for the philosophical validity of Jewish practice, explicitly contrasting the purely contemplative life of the Therapeutae with the more active, practical life espoused by other Jewish groups such as the Essenes. This aligns with Philo's overarching intellectual endeavor to synthesize Mosaic law with Greek philosophical traditions, particularly Platonism and Stoicism. Philo's entire corpus, including this treatise, was preserved almost solely through Christian scribal transmission, as his allegorical method of biblical interpretation proved profoundly influential on early Christian theologians. His description of the Therapeutae's communal and ascetic lifestyle was subsequently adopted by Christian authors as a prototype for later monastic ideals.
+
 ## Text
 
 ### Cont t

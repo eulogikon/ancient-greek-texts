@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-cs` · [HTML page](https://eulogikon.org/works/origen-alexandria-against-celsus-uhs-cs)
 
+Against Celsus is an eight-book apologetic treatise composed in Greek by the theologian Origen of Alexandria around 248 CE. Written at the request of his patron Ambrose, the work is a comprehensive refutation of The True Doctrine, a polemical attack on Christianity authored decades earlier by the pagan philosopher Celsus. Origen’s method is systematic: he quotes extensive passages from Celsus’s text before offering detailed counterarguments. This approach has preserved approximately seventy to eighty percent of Celsus’s original arguments, which otherwise would have been lost, providing modern scholars with invaluable insight into sophisticated pagan critiques of early Christianity. The treatise defends core Christian doctrines, including the rationality of faith, monotheism, the person of Jesus Christ, and the authority of scripture. It represents a major intellectual effort to engage Hellenistic philosophy on its own terms, aiming to demonstrate the philosophical coherence of Christian teaching to an educated pagan audience. Composed during a period of growing tension between the Roman state and the Christian community, the work survives in full through medieval manuscripts and stands as a landmark of early Christian apologetics and a crucial historical source for understanding the dialogue and conflict between emerging Christian thought and classical culture.
+
 ## Text
 
 ### P t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lmc-aa` · [HTML page](https://eulogikon.org/works/crito-argos-wisdom-fragments-lmc-aa)
 
+Fragments on Wisdom is a lost philosophical treatise attributed to Crito of Argos, a minor disciple of Socrates mentioned by Diogenes Laertius among the philosopher's less eminent followers. The work is known solely by its title in Diogenes Laertius's Lives of the Eminent Philosophers, which provides no description or excerpts, and there is no known manuscript tradition. The title indicates the treatise addressed the concept of wisdom, a central topic in Greek philosophy, but as no substantive fragments survive, its specific arguments and structure remain entirely unknown. Its attribution to a Socratic follower places it within the broader context of early Socratic literature, though its complete loss and absence from other ancient sources suggest its philosophical influence was negligible.
+
 ## Text
 
 ### 109 (3t)

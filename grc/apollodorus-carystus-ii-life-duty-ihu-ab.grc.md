@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ihu-ab` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-ii-life-duty-ihu-ab)
 
+_Fragments on Life and Duty_ is a modern descriptive title for a collection of excerpts attributed to the New Comedy poet Apollodorus of Carystus. The title is somewhat misleading, as it does not denote a single philosophical treatise but rather a scholarly assemblage of forty-five fragments, likely drawn from one or more of his lost comedies. These plays conventionally explored themes of everyday life and social obligation, which aligns with the collection's thematic title. No complete play by Apollodorus survives. The preserved fragments reflect the standard concerns of New Comedy, including social and familial duties, romantic love, generational conflict, and the role of fortune in human affairs, often illustrated through the genre's typical stock characters such as clever slaves and parasites. These excerpts are preserved indirectly through quotation by later ancient authors, including lexicographers and anthologists like Athenaeus and Stobaeus, who cited them for their linguistic interest or sententious value. Apollodorus was a significant figure in the transition of Greek New Comedy to Roman literature; his plays, including Hecyra and Phormio, were later adapted by the Roman playwright Terence. Although limited in scope, these fragments remain valuable to philologists for reconstructing the language and dramatic conventions of post-Menandrian comedy.
+
 ## Text
 
 ### book 1

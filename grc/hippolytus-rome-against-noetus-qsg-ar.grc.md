@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qsg-ar` · [HTML page](https://eulogikon.org/works/hippolytus-rome-against-noetus-qsg-ar)
 
+Against the Heresy of Noetus is a concise theological treatise composed in Greek by Hippolytus of Rome, likely between 200 and 220 CE. This polemical work directly confronts the teachings of Noetus of Smyrna, whose followers propagated a form of Monarchianism, also known as Modalism. This doctrine rigorously identified God the Father with Jesus Christ the Son, resulting in the controversial belief that the Father himself was born, suffered, and died on the cross—a view later termed Patripassianism. Hippolytus organizes his systematic refutation across 80 brief chapters, methodically employing New Testament scripture, with particular emphasis on the Gospel of John and the Pauline epistles, to argue for the distinct personhood of the Son while simultaneously upholding the fundamental unity of the Godhead.
+
+The treatise emerged from a period of intense doctrinal controversy within early Christianity concerning the relationship between the Father and the Son. Hippolytus, a presbyter and prominent theologian, wrote to defend what he regarded as orthodox Logos theology against this significant challenge. Modern scholarship recognizes the work as a vital primary source for understanding the theological disputes that preceded the more formalized creedal statements of the fourth century. The complete text survives in a single 14th-century Greek manuscript, and its authenticity is generally undisputed. As such, it offers a direct window into the scriptural arguments and interpretative strategies that helped shape early Christian doctrine on the Trinity.
+
 ## Text
 
 ### t 1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `umi-ab` · [HTML page](https://eulogikon.org/works/med-writers-anon-blood-color-phlebotomy-umi-ab)
 
+On the Color of Blood from Phlebotomy in Persian Medicine is a concise Greek medical treatise preserved within a larger compendium of ancient and medieval medical writings. It consists of nine passages detailing a diagnostic system for assessing internal diseases and humoral imbalances based on the color and consistency of blood drawn during therapeutic phlebotomy. The text explicitly credits this system to Persian medicine, illustrating a documented transfer of medical knowledge across cultures. It systematically correlates specific observed blood hues—such as black, livid, greenish, or pale—with prognostic outcomes for the patient, ranging from recovery to imminent death. These correlations are firmly grounded in the principles of Greco-Roman humoral theory, demonstrating the application of empirical observation within a established theoretical framework for diagnostic prognostication.
+
+The treatise survives in a single witness, the 16th-century manuscript Parisinus graecus 2316, where it appears on folios 304 verso to 305 recto. This manuscript is a medical collection copied by the scribe Nikolaos Sophianos, and the text is found among other anonymous diagnostic works without an independent manuscript tradition. As a historical document, it provides evidence for the enduring practice of humoral-based phlebotomy into the Byzantine period and reflects the Greek reception of Persian medical lore. It stands as an example of practical iatrosophia, a genre of medical handbook, and represents a strand of knowledge that would later be transmitted and adapted within Arabic and medieval Latin medical traditions.
+
 ## Text
 
 ## * ΠΕΡΙ ΧΡΟΙΑΣ ΑΙΜΑΤΟΣ ΤΟΥ ΑΠΟ ΦΛΕΒΟΤΟΜΙΑΣ ΕΚ ΤΗΣ ΙΑΤΡΙΚΗΣ ΤΩΝ ΠΕΡΣΩΝ.

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iaw-aq` · [HTML page](https://eulogikon.org/works/euclid-alexandria-data-iaw-aq)
 
+The Data is a mathematical treatise by Euclid of Alexandria, composed around 300 BCE. It functions as a companion work to his foundational Elements. The title refers to geometric properties that are considered "given" in a problem. The treatise systematically demonstrates how, when certain elements—such as points, lines, angles, ratios, or areas—are initially provided, other related properties become logically determined or "given" as a consequence. Its structure comprises definitions followed by 95 propositions, which progress from simple concepts to complex results concerning magnitudes, ratios, and geometric figures. Modern scholarship interprets the Data as a practical handbook for the method of geometrical analysis, a problem-solving technique where one reasons backward from an assumed solution to the known conditions. It was likely intended for advanced students and scholars at institutions such as the Library of Alexandria.
+
+The complete text of the Data has survived from antiquity. It was preserved through medieval Greek manuscript traditions, most notably in a 9th-century codex. Subsequent translations into Arabic and later into Latin secured its influence on both Islamic and Renaissance European mathematics. Although the treatise is generally accepted as authentic, some scholars have raised questions regarding the authorship of its final few propositions.
+
 ## Text
 
 ### 1,HOR

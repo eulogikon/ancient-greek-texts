@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-aw` · [HTML page](https://eulogikon.org/works/lucian-samosata-reviving-fisherman-pfk-aw)
 
+Lucian of Samosata’s Reviving or Fisherman is a satirical dialogue composed in Attic Greek around 180 CE. Functioning as a sequel to his earlier work Philosophies for Sale, the piece opens with the author placed on trial before a resurrected assembly of venerable philosophers, including Plato, Aristotle, and representatives of the Stoic, Epicurean, and Cynic schools. These figures collectively accuse Lucian of slandering the entire philosophical tradition through his writings. In his defense, Lucian argues that his satire targets only contemporary hypocrites and false teachers who disgrace philosophy by pursuing wealth and fame, not the discipline itself or its genuine practitioners. Following his acquittal, the dialogue transitions into the "Fisherman" episode, where Lucian baits a hook with figs and gold to fish from the waters near Athens, symbolically catching the greedy pretenders who are lured by material gain rather than wisdom.
+
+Structured in 52 sections, the work moves from a formal courtroom debate to this allegorical satirical expedition, blending judicial oratory with inventive narrative. Composed during the era known as the Second Sophistic, a period marked by a revival of Greek rhetorical and literary culture under the Roman Empire, the dialogue engages critically with the intellectual and moral landscape of its time. Modern scholarship interprets it not only as Lucian's personal defense of his satirical method but also as a pointed critique of philosophers who had compromised their ideals for social status and financial reward. The complete text has been preserved in full through the medieval manuscript tradition of Lucian's corpus and stands as a significant example of ancient philosophical satire, illustrating the enduring use of humor to interrogate professional integrity and intellectual authenticity.
+
 ## Text
 
 ### Pisc t

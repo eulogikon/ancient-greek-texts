@@ -20,6 +20,14 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bnq-aa` · [HTML page](https://eulogikon.org/works/corinna-tanagra-birth-of-zeus-bnq-aa)
 
+The Fragments on the Birth of Zeus constitute a modern scholarly assemblage of lyric poetry attributed to Corinna of Tanagra. Preserved in approximately 120 fragmentary passages, the work survives indirectly through later sources, most notably the mythographer Pausanias. The collection centers on the birth and early childhood of Zeus, treating these foundational myths from a distinctly Boeotian perspective. Corinna employs a lyric meter often described as a Boeotian hexameter and a clear, narrative style that privileges local traditions. Her versions of Panhellenic myths frequently present alternative, less violent narratives rooted in Boeotian geography and cult practice.
+
+The content of the fragments weaves together several interconnected themes, primarily focusing on local variants of the Zeus myth cycle. These include accounts of his birth, his concealment from Cronus in a cave, and his nurturing by nymphs, all set within the Boeotian landscape, particularly Mount Cithaeron. The poetry also elaborates genealogical and foundation myths that link the story of Zeus to specific Boeotian places, tribes, and religious rites. This focus functions as a conscious poetic celebration of Boeotian identity, often presented in contrast to the more grandiose Panhellenic style of poets like Pindar.
+
+The transmission of Corinna's work is entirely fragmentary. The verses are quoted primarily by Pausanias in his Description of Greece and in various ancient grammatical commentaries. The most substantial physical evidence comes from two papyri recovered from Egypt, known as P.Berol. 284 and P.Oxy. 2370, which preserve continuous lyric portions. These papyri have been instrumental in confirming Corinna's use of the Boeotian dialect and her characteristic meter.
+
+The significance of these fragments is multifaceted. They provide crucial evidence for the diversity and vitality of local Greek mythic traditions, demonstrating how Panhellenic stories were adapted and claimed by specific regions. The work stands as a deliberate assertion of Boeotian cultural identity within the wider Greek world. Furthermore, as a substantial body of work by a woman poet from the classical tradition, the fragments offer invaluable insight into the role of women as poets and cultural authorities in antiquity.
+
 ## Text
 
 ### book col1.1

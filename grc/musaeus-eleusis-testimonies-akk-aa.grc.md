@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `akk-aa` · [HTML page](https://eulogikon.org/works/musaeus-eleusis-testimonies-akk-aa)
 
+The Testimonies is a collection of thirteen passages concerning the myth of Hero and Leander, pseudepigraphically attributed to the legendary poet Musaeus of Eleusis. This attribution is anachronistic, as the semi-legendary Musaeus belongs to a prehistoric, oracular tradition far predating this Hellenistic-era love story. The collection likely represents a later scholarly compilation of fragments and references to Musaeus drawn from other authors, which were mistakenly or conventionally linked to this myth. The gathered testimonia presumably assemble ancient reports on the common themes of the myth, which include star-crossed love and tragic separation, the perilous journey of swimming the Hellespont, and the conflict between sacred duty and personal passion. The specific transmission of these thirteen passages is undocumented. Works attributed to the ancient Musaeus survive only through quotations in later philosophers, historians, and compilers. This collection would thus be a pseudepigraphical work, possibly assembled in late antiquity or the Renaissance from such secondary sources. While Musaeus of Eleusis was an influential figure in ancient thought as a symbol of primal wisdom, this particular collection holds no attested independent influence. Its significance lies primarily as an example of the later attribution of popular myths to venerable but shadowy archaic authorities.
+
 ## Text
 
 ### 1

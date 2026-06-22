@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-bu` · [HTML page](https://eulogikon.org/works/lucian-samosata-twice-accused-pfk-bu)
 
+Twice Accused is a satirical dialogue by Lucian of Samosata, composed in Attic Greek around 170–180 CE. The work is structured as a courtroom drama set on Mount Olympus, where the author puts his own literary career on trial. The personified figures of Rhetoric and Dialogue bring simultaneous lawsuits against Lucian, identified as "the Syrian." Rhetoric accuses him of abandoning her after his early training, while Dialogue charges him with mistreatment for introducing comic and satirical elements into a traditionally serious philosophical form. In his defense, Lucian argues that his innovative fusion of dialogue with comedy and satire revitalizes both traditions rather than betraying them, creating a new and effective literary mode. The text unfolds over 37 sections, presenting the speeches of the accusers and the defendant, and concludes with a verdict delivered by Zeus.
+
+Composed during the period known as the Second Sophistic, which was characterized by a revival of classical Greek rhetoric, the dialogue functions both as a satire of contemporary professional orators and as a literary manifesto. It is widely interpreted by modern scholars as Lucian's defense of his unique hybrid style and a critique of the hollow pretensions he perceived in the rhetorical culture of his time. The work survives in full through the standard manuscript tradition of Lucian's writings, preserved primarily in Byzantine copies dating from the 10th to the 14th centuries.
+
 ## Text
 
 ### Bis Acc t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qnq-bh` · [HTML page](https://eulogikon.org/works/herodian-alexandria-mi-qnq-bh)
 
+On Those to Mi is a lost grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. The work constitutes a focused philological examination of a specific class of Greek verbs characterized by their ending in the syllable "-mi," such as tithēmi (I put) or didōmi (I give). Structured as an oration or lecture series, it systematically analyzed the forms, accents, and proper usage of these often irregular and archaic verbs. Herodian, a leading grammarian of the Roman Imperial period, operated within a cultural context that prized the precise use of classical Attic Greek. The treatise served as a technical reference for teachers and advanced students, aiming to master a complex area of Greek morphology. It belongs to the Alexandrian tradition of prescriptive grammar, which sought to catalog linguistic anomalies and establish authoritative rules. The original text has not survived and is known only through its title and brief references or fragmentary quotations preserved in later Byzantine grammatical compilations and scholia. Our knowledge of Herodian's arguments and methodology on this topic is therefore entirely dependent on these indirect and secondary sources.
+
 ## Text
 
 ### 3,2 825 (1t)

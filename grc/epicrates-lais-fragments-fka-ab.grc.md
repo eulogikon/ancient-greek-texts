@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fka-ab` · [HTML page](https://eulogikon.org/works/epicrates-lais-fragments-fka-ab)
 
+The Fragments on Lais the Courtesan comprises a collection of brief passages attributed to the Athenian comic poet Epicrates, who was active during the 4th century BCE. These fragments do not constitute a surviving play but are quotations preserved by later ancient authors, most notably the encyclopedist Athenaeus. Written in Attic Greek verse, the excerpts are believed to originate from one or more of Epicrates' comedies that featured the legendary Corinthian courtesan Lais as a character. As a poet of Middle Comedy, Epicrates worked during a transitional period when the genre shifted its focus from direct political satire toward the exploration of social types, domestic situations, and mythological parody.
+
+The surviving text consists solely of isolated lines and short exchanges; the original plot and full dramatic context are lost. Based on the extant fragments and the conventions of Middle Comedy, scholars interpret the work as a social satire that likely mocked the extravagant spending of Lais's clients and examined the interplay of desire and commerce in Athenian society. The comedy was almost certainly composed for public performance at one of Athens's dramatic festivals. The fragments' transmission is entirely indirect, relying on citations found in later grammatical and scholarly works, and they are now assembled in modern critical editions of comic fragments. These pieces offer valuable insight into the evolution of Greek comedy, illustrating the movement toward the style of domestic intrigue and character-driven humor that would later define New Comedy.
+
 ## Text
 
 ### book 1

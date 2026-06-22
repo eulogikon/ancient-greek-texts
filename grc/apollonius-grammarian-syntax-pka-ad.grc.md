@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pka-ad` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-syntax-pka-ad)
 
+On Syntax is a foundational work on grammar composed in Greek by the Alexandrian scholar Apollonius Dyscolus during the 2nd century CE. It stands as the earliest surviving systematic treatise dedicated to the syntax, or sentence structure, of any language. The work was originally organized into four books, though the full text is now lost. Modern editions reconstruct it from summaries and quotations preserved in much later Byzantine commentaries and grammatical works, organizing the material into 583 distinct passages.
+
+The treatise methodically analyzes how different parts of speech combine to form coherent and meaningful sentences. It begins with the article and pronoun, proceeds to examine the core relationship between verbs and nouns, and advances to the syntax of prepositions, adverbs, and more complex constructions. Apollonius adopts a rationalist approach, seeking logical principles to explain grammatical rules. He frequently employs constructed examples and argues against the notion that language is too irregular to be systematized. Scholars interpret the work as both a theoretical project and a pedagogical guide, likely intended for advanced students and teachers of Greek to aid in the proper interpretation of literary texts and the correct use of the language.
+
+Its transmission is indirect, preserved primarily through later adapters such as the 6th-century Latin grammarian Priscian. Despite its fragmentary survival, On Syntax exerted a profound and lasting influence. It fundamentally shaped grammatical theory in the medieval Latin West through Priscian's adaptations and remained a key reference within the Byzantine scholarly tradition for centuries.
+
 ## Text
 
 ### 1.1

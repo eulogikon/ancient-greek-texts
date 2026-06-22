@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pfk-al` · [HTML page](https://eulogikon.org/works/lucian-samosata-living-misthos-pfk-al)
 
+On Those Living in Misthos is a satirical oration by the 2nd-century CE writer Lucian of Samosata. Composed in Attic Greek during the Roman Imperial period, the work is structured as a rhetorical speech that directly advises educated Greeks against accepting salaried positions as intellectual retainers in wealthy Roman households. Lucian vividly catalogs the degradations of such a life, portraying it as a form of servitude masquerading as friendship. He describes the constant necessity for flattery, the humiliation of being subject to a patron's whims, and the profound loss of personal and philosophical autonomy. The author claims his authority not from personal experience, which he disavows, but from the detailed testimonies of those who have endured or escaped such positions, comparing their stories to survivors recounting a shipwreck.
+
+The essay is a definitive product of the Second Sophistic, a cultural movement characterized by the revival and performance of classical Greek paideia under Roman political dominion. It functions as a sharp critique of the patronage system, laying bare the tension between Greek intellectual pride and the economic necessity of serving a Roman elite. Lucian frames the central conflict as a stark choice between dignified poverty and a comfortable but spiritually corrosive existence, arguing forcefully for the preservation of one's freedom over material security. Transmitted through medieval manuscripts as part of the Lucianic corpus and generally accepted as genuine, the oration stands as a crucial document for understanding the social and professional pressures that defined the lives of intellectuals in the ancient world.
+
 ## Text
 
 ### Merc Cond t

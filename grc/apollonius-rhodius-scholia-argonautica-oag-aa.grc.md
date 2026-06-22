@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oag-aa` · [HTML page](https://eulogikon.org/works/apollonius-rhodius-scholia-argonautica-oag-aa)
 
+The Scholia on Apollonius Rhodius's Argonautica constitute a body of ancient and medieval commentary on the Hellenistic epic poem. These annotations are not the work of a single author but a cumulative compilation of notes from numerous scholars, with contributions spanning from the 3rd century BCE to the Byzantine period. Written in Greek prose, the scholia are preserved as marginal and interlinear glosses in medieval manuscripts of the poem. They function as an exegetical guide, providing explanations of rare vocabulary, mythological allusions, geographical references, and textual variants, alongside literary criticism concerning the poet's style and his emulation of Homeric epic. The modern standard edition organizes this material into 328 discrete comment passages.
+
+The earliest strata of these notes are believed to have originated among scholars at the Library of Alexandria, an institution with which Apollonius of Rhodes was himself associated. For contemporary scholars, the compilation represents a vital pedagogical tool, illustrating how ancient students and readers navigated the poem's complex diction and erudite content. Its transmission is fragmentary, preserved unevenly across a range of manuscripts dating from the 9th to the 15th centuries CE. Beyond their utility for understanding the Argonautica, the scholia offer a crucial window into the ancient critical reception of Apollonius's epic and serve as an important repository for the otherwise lost work of Hellenistic grammarians and philologists.
+
 ## Text
 
 ### 1 (1t)

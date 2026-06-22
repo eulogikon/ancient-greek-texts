@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-aa` · [HTML page](https://eulogikon.org/works/isocrates-athens-counterplea-ffu-aa)
 
+The Counterplea to Callimachus is a forensic oration composed by the Athenian orator Isocrates around 402–400 BCE. Written for a client involved in a private lawsuit, the speech is a formal legal plea, known as a paragraphe, which sought to have the plaintiff’s case dismissed on procedural grounds before the substantive issues could be tried. The plaintiff, Callimachus, had brought a suit concerning financial matters dating to the period of civil strife in Athens. Isocrates’s client argues that this lawsuit violates the terms of the general amnesty and reconciliation agreement sworn by the Athenian citizen body in 403 BCE following the overthrow of the Thirty Tyrants. That agreement expressly forbade the revival of legal claims arising from events prior to the restoration of the democracy, with the crucial exception of homicide cases.
+
+The speech, structured in 48 sections, is a meticulously constructed technical argument designed for an Athenian jury. It opens by justifying the unusual procedure wherein the defendant speaks first, explaining that this is the specific provision of the law governing paragraphe cases. The core of the argument is a detailed exposition of the relevant laws and decrees, particularly the measure proposed by Archinus that established the paragraphe process for lawsuits deemed to contravene the amnesty oaths. Isocrates methodically asserts that his client’s case falls squarely under this protective legislation, portraying Callimachus as a sycophant attempting to exploit past grievances for personal gain. The overarching theme is the paramount importance of upholding the rule of law and the civic oath of reconciliation to preserve social stability, contrasting the public good of forgiveness with the private vice of vengeful litigation.
+
+Surviving complete through medieval manuscripts of Isocrates’s works, the Counterplea to Callimachus is a valuable historical document. It provides direct insight into the sophisticated workings of Athenian legal procedure in the early fourth century BCE and illustrates the practical challenges of enforcing a political amnesty in the fragile postwar period. The speech stands as a concrete example of the application of forensic rhetoric to a pressing issue of civic order and the transition from conflict to restored governance.
+
 ## Text
 
 ### In Call t

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffk-bk` · [HTML page](https://eulogikon.org/works/plato-lysis-ffk-bk)
 
+The Lysis is a philosophical dialogue by Plato, composed in the early fourth century BCE. It is narrated by Socrates, who recounts a conversation with two Athenian adolescents, Lysis and Menexenus, in a newly built wrestling school near the Lyceum. The dramatic pretext for the discussion is a request that Socrates demonstrate how one might converse with a beloved youth, but the dialogue swiftly turns to a sustained philosophical inquiry into the nature of friendship, or philia. Through a series of questions and proposed definitions, Socrates examines whether friendship arises between those who are similar or those who are opposite, whether it is rooted in a desire for the good, and what fundamentally constitutes a friend. The dialogue systematically refutes several conventional understandings, concluding in a state of aporia—perplexity without a definitive resolution. This unresolved ending is characteristic of Plato’s early Socratic works, which prioritize the critical examination of everyday assumptions over the presentation of settled doctrine. The setting in a palaestra grounds the abstract inquiry in the social and educational world of Athenian youth, where the formation of friendship was a central concern. The Lysis is preserved complete within the medieval manuscript tradition of Plato’s corpus and is regarded as a foundational exploration of the motives and metaphysics of affection, influencing subsequent philosophical treatments of the subject, most notably Aristotle’s analysis of friendship in the Nicomachean Ethics.
+
 ## Text
 
 ### Lys.207.d

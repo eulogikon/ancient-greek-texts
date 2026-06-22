@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cbm-an` · [HTML page](https://eulogikon.org/works/euripides-cassandra-apollo-cbm-an)
 
+The Cassandra and Apollo Fragments are a collection of 171 fragmentary passages attributed to the Athenian tragedian Euripides. These verses do not originate from a single, unified play but are excerpts believed to derive from lost Euripidean works, potentially including plays such as Alexandros and other dramas dealing with the Trojan prophetess Cassandra. The fragments are preserved through quotation by later authors and on papyri. The collected texts, which include dramatic speeches and choral odes, relate to the mythological figures of Cassandra and the god Apollo. Their subjects encompass the Trojan War cycle and characteristically Euripidean themes, including the conflict between divine will and human agency, the tragedy of true prophecy being ignored, the suffering of women in war, and the futility of human knowledge against fate. These fragments survive indirectly, having been excerpted for their rhetorical or philosophical value by later Greek and Roman authors like Stobaeus, as well as through papyrus discoveries. The standard modern scholarly edition is the Tragicorum Graecorum Fragmenta. Even in fragmentary form, these lines demonstrate the enduring influence of Euripides. His treatment of Trojan myths informed Roman authors like Seneca and later traditions, while the figure of Cassandra became a lasting archetype in Western art and literature.
+
 ## Text
 
 ### book 11a

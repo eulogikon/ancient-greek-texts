@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cte-aa` · [HTML page](https://eulogikon.org/works/andron-halicarnassus-ii-geography-fragments-cte-aa)
 
+The Fragments on Geography by Andron of Halicarnassus II is a lost geographical treatise known only through a handful of prose passages preserved by later authors. The extant fragments, transmitted by the grammarian Herodian and the Byzantine scholar Eustathius of Thessalonica, focus on providing mythographical and etymological explanations for specific place names. They offer derivations for the island of Thera from its mythical founder Theras, an alternative name for the river Aesepus in the Troad, and an explanation for the name of Mount Tmolus in Lydia. This content aligns with the traditions of Hellenistic geographical scholarship, which frequently connected physical landscapes to heroic mythology. Though fragmentary, the work exemplifies the practice of using myth to explain toponymy and served as a source for later grammatical and exegetical writing. Its primary value for modern scholarship lies in its contribution to our understanding of Hellenistic geographical methods and mythographical traditions.
+
 ## Text
 
 ### t1-2

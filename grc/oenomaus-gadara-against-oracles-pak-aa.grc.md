@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pak-aa` · [HTML page](https://eulogikon.org/works/oenomaus-gadara-against-oracles-pak-aa)
 
+Fragments Against Oracles is a philosophical treatise by the second-century Cynic philosopher Oenomaus of Gadara. Composed in Koine Greek, the work constitutes a systematic and satirical polemic aimed at discrediting the ancient oracular institutions, with particular focus on the renowned Oracle of Apollo at Delphi. Oenomaus meticulously critiques specific prophetic pronouncements, arguing that they are characteristically ambiguous, demonstrably false, or morally trivial. His intent was to expose the fundamental fraudulence of divination as a practice and to undermine public faith in these established religious authorities. The complete text is lost; knowledge of the treatise depends entirely on twenty-nine fragments preserved by the sixth-century Christian writer Eusebius, who quoted them within his own work. Scholars interpret Oenomaus's rigorous attack as consistent with the broader Cynic project of challenging conventional beliefs and advocating for individual self-reliance over dependence on supernatural guidance. Ironically, Eusebius preserved these fragments not for their philosophical merit but to deploy a pagan philosopher's arguments against pagan oracles in service of early Christian apologetics. This historical circumstance has ensured the survival of Oenomaus's critique, making it a valuable source for understanding the contours of philosophical and religious debate during the Imperial era.
+
 ## Text
 
 ### 1

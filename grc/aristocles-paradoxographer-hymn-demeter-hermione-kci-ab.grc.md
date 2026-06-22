@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kci-ab` · [HTML page](https://eulogikon.org/works/aristocles-paradoxographer-hymn-demeter-hermione-kci-ab)
 
+The Hymn to Demeter of Hermione is a prose fragment attributed to Aristocles the Paradoxographer. It survives as a single excerpt quoted by the later compiler Phlegon of Tralles in his second-century CE work On Marvels. The fragment describes a unique sacrificial ritual at the sanctuary of Demeter Chthonia in the city of Hermione. It recounts a local custom in which four aged cows are released into a sacred grove; a priestess designated as "the butcher" then sacrifices whichever cow approaches the altar to eat fodder placed upon it. This ritual, which notably lacks the standard elements of communal participation and voluntary procession found in normative Greek sacrifice, is presented explicitly as a marvel. The fragment is a prime example of the paradoxographical genre, which specialized in cataloging wondrous natural phenomena and unusual regional customs. It provides valuable evidence for local religious variation within the Greek world, offering a detailed account that is later corroborated by the traveler Pausanias in his description of the same Hermionean rite. As such, the hymn contributes significantly to the study of Demeter's chthonic cults and their diverse ritual expressions.
+
 ## Text
 
 ### 206

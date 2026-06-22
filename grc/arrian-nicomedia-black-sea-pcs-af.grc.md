@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pcs-af` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-black-sea-pcs-af)
 
+The Periplus of the Black Sea is a detailed coastal survey written in Greek by the Roman historian and provincial governor Arrian of Nicomedia. Composed around 131–132 CE and addressed to Emperor Hadrian, the work takes the form of a practical, clockwise voyage around the Black Sea, commencing from the Thracian Bosporus. Across 99 concise passages, Arrian systematically records sailing distances between ports, describes the features of harbors and river mouths, notes the identities of local inhabitants, and documents the locations of Roman military garrisons. Arrian compiled this report while serving as governor of Cappadocia, a critical frontier province. Modern scholarship interprets the text as an official administrative document, likely based on a personal inspection tour, intended to furnish the emperor with precise logistical and strategic intelligence about the coastline. It represents a fusion of the Greek literary tradition of the periplus, a form of navigational guide, with the practical demands of Roman military administration. The text survives in its complete form and is well-preserved, transmitted primarily through a single 10th-century manuscript. It remains an indispensable source for the historical geography and the extent of Roman military presence in the Black Sea region during the second century CE.
+
 ## Text
 
 ### t 1

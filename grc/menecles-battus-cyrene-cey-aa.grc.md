@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cey-aa` · [HTML page](https://eulogikon.org/works/menecles-battus-cyrene-cey-aa)
 
+The Fragments on Battus and Cyrene by Menecles the Historian is a lost local history preserved in fourteen prose excerpts. These fragments survive almost exclusively within the ancient scholia, or commentaries, on Pindar’s Pythian Odes 4 and 5, which celebrate the foundation of the Greek colony of Cyrene in Libya. The work provides the historical and mythological context for Pindar’s poetry, detailing the colonization led by the city’s founder, Battus I. The fragments address several core topics, including the foundation narrative, which emphasizes the commanding role of the Delphic oracle in directing the expedition. They also trace the heroic genealogy of Battus, connecting his lineage to the Minyans and the myth of the Argonauts, and provide ethnographic and geographic descriptions of Libya and its indigenous peoples, alongside accounts of conflicts between the Greek settlers and native Libyans. The work is known only through quotations by later scholars, particularly Alexandrian grammarians compiling commentaries on Pindar, and its fragments are collected in modern editions such as Die Fragmente der griechischen Historiker. Menecles’s fragments serve as a crucial prose counterpart to Pindar’s poetic celebration, illuminating the historical traditions surrounding Cyrene’s colonization. They significantly influenced the ancient scholarly reception of Pindar and remain a primary source for modern studies on Cyrenaican history and Greek colonial narratives.
+
 ## Text
 
 ### t1a-1b

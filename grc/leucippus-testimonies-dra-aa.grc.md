@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dra-aa` · [HTML page](https://eulogikon.org/works/leucippus-testimonies-dra-aa)
 
+The Testimonies attributed to Leucippus is a modern scholarly compilation rather than an original ancient text. It assembles 37 passages from later Greek authors, including Aristotle, Theophrastus, and Diogenes Laertius, which constitute the sole surviving record of the ideas of the 5th-century BCE pre-Socratic philosopher, none of whose own writings have been preserved. The collection outlines the foundational principles of atomic theory developed by Leucippus, a system posited in response to earlier philosophical debates on change and being. His doctrine proposed that reality consists of two fundamental principles: indivisible particles called atoms and the void, or empty space. The testimonia describe a cosmogony wherein a vortex motion of atoms in the void leads to the formation of worlds, all governed by deterministic necessity. Modern scholarship interprets this theory as an attempt to reconcile sensory experience with logical argument. However, because the sources are late and frequently blend his doctrines with those of his more famous student, Democritus, attributing specific tenets to Leucippus himself remains a subject of scholarly caution and uncertainty.
+
 ## Text
 
 ### 1

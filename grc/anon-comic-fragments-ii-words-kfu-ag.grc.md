@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kfu-ag` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-words-kfu-ag)
 
+Comic Words is an anonymous ancient Greek lexicographical work consisting of sixteen brief metrical passages or glosses. It functions as a glossary dedicated to the vocabulary and usages found in Attic comedy, drawing its examples from playwrights such as Aristophanes and Menander. Such compilations were characteristic products of Hellenistic or later scholarship, created to elucidate obscure, colloquial, or technical terms encountered in older comic texts for educational and exegetical purposes. The work’s primary aim is the explanation of comic language, addressing the specialized, often informal lexicon that typifies Athenian comedy and thereby representing the broader philological tradition of annotating and interpreting classical literature. It survives only in fragmentary form, embedded within a larger medieval corpus of anonymous comic fragments and grammatical materials; its preservation is owed to its inclusion in manuscripts containing collections of scholiastic or lexicographical notes. While its direct influence is difficult to trace, the glossary collectively contributed to the Byzantine and medieval understanding of Attic comedy, informing later dictionaries and commentaries. Its principal modern value lies in its utility for studying the history of classical scholarship and the long-term reception of comic vocabulary.
+
 ## Text
 
 ### book 342.1

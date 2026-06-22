@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dfc-aa` · [HTML page](https://eulogikon.org/works/cleidemus-athens-testimonies-dfc-aa)
 
+The Testimonies is a lost work by the early Atthidographer Cleidemus of Athens, preserved only through a handful of citations in later authors. These fragments indicate it was a systematic collection focused on Athenian constitutional history, religious antiquities, and mythological traditions. The extant passages illustrate this antiquarian focus, including an explanation of the ten eponymous heroes of the Cleisthenic tribes and a related sacrifice, as well as the myth of Cecrops’s daughters and the birth of Erichthonius, complete with a ritual detail about the infant’s cradle on the Acropolis. The work survives solely in fragments quoted by later grammarians and lexicographers, such as Harpocration and Helladius. As an early local history of Athens, Cleidemus’s collection served as a source for later Atthidographers. Its fragments provide crucial evidence for the development of early Athenian historiography and for the Classical period’s construction of civic identity through myth and ritual.
+
 ## Text
 
 ### 1

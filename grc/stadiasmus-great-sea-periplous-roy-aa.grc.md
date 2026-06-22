@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `roy-aa` · [HTML page](https://eulogikon.org/works/stadiasmus-great-sea-periplous-roy-aa)
 
+The Stadiasmus of the Great Sea is an anonymous ancient Greek navigational guide, or periplus, dating from the mid-1st century CE. Written in utilitarian Koine Greek prose, it functioned as a practical handbook for sailors and merchants during the early Roman Empire. The work systematically catalogs the entire Mediterranean coastline through 207 concise entries, providing essential maritime information. This includes sailing distances measured in stades, the locations of safe harbors and anchorages, sources of fresh water, and prominent coastal landmarks visible from the sea. The text is a complete and purely functional document, prioritizing empirical geographical knowledge over any literary embellishment. It survives based on a single 10th-century manuscript, meaning some details concerning distances or toponyms may reflect later copyist errors. Modern scholarship interprets the Stadiasmus as a direct product of the vibrant maritime trade and connectivity fostered by the Pax Romana. It stands as an invaluable historical source, offering a detailed window into the practical realities of ancient seafaring, commerce, and coastal geography.
+
 ## Text
 
 ### T

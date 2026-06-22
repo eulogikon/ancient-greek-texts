@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qya-ad` · [HTML page](https://eulogikon.org/works/clement-alexandria-hymn-christ-savior-qya-ad)
 
+The Hymn of Christ the Savior is a short Christian poem composed in Greek by Clement of Alexandria around 200 CE. It serves as the concluding hymn to Clement’s major prose treatise, the Paedagogus (Christ the Educator). The hymn is a direct address to Christ, celebrating him through a series of vivid metaphors as the divine Logos, Savior, and guide. Structured in three stanzas using poetic meter, it invokes Christ as the bridle of untamed colts, the shepherd of royal lambs, and the fisher of men, weaving together pastoral, nautical, and educational imagery. Written in Alexandria during a formative period for Christian thought, the hymn functions as a poetic summary of the Paedagogus’s core argument: that Christ is the ultimate Educator who guides humanity from ignorance to spiritual maturity. It reflects Clement’s project of harmonizing Christian faith with Greek philosophy and culture, offering a valuable glimpse into the lyrical theology used in early Christian worship. The intended audience was likely the educated Christians and seekers addressed by the larger work. The hymn survives completely, transmitted as an integral part of the Paedagogus through medieval Greek manuscripts. As one of the earliest Christian hymns with a known author, it is a significant text for understanding the development of early Christian poetry, liturgy, and Alexandrian theology.
+
 ## Text
 
 ### 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jss-ab` · [HTML page](https://eulogikon.org/works/polystratus-pursuit-good-jss-ab)
 
+The Fragments on the Pursuit of the Good is a lost philosophical treatise attributed to Polystratus, the third scholarch of the Epicurean school in Athens. Known only from a single mention in a list of the author’s writings, no direct quotations from its twenty-five passages survive. As an Epicurean text, its subject was the practical attainment of the highest good, defined within that tradition as pleasure—specifically the state of tranquility and freedom from bodily pain. Inferred from its title and the author’s affiliation, the treatise would have addressed core Epicurean ethical themes, including the definition of the good as pleasure and the absence of pain, the pursuit of tranquility and freedom from disturbance, the calculus for choosing between pleasures and pains, and the instrumental role of philosophy, friendship, and prudence in achieving the good life. The work did not survive the general decline of the Epicurean textual tradition in late antiquity, a fate common to most works by the school’s later leaders. While its direct influence is untraceable, the treatise represents the continued scholarly elaboration and reinforcement of orthodox Epicurean doctrine in the 3rd century BCE, serving to instruct the Epicurean community and ensure doctrinal stability following the death of the school’s founder.
+
 ## Text
 
 ### f3 col1a

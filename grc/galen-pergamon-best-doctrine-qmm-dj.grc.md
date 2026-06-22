@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-dj` · [HTML page](https://eulogikon.org/works/galen-pergamon-best-doctrine-qmm-dj)
 
+On the Best Doctrine is a lost medical-philosophical treatise by Galen of Pergamon, known only through fragments preserved by later authors. The work was a polemical text advocating for a rationalist and dogmatic approach to medicine, which Galen identified with the Hippocratic tradition. It criticized rival sects, particularly the Empiricists and Methodists, and argued for a methodology combining logical deduction from first principles with empirical observation. The surviving fragments indicate the treatise addressed the epistemological foundations of medicine, including the criteria for truth and the proper roles of reason and experience. It also contained refutations of skeptical positions that denied the possibility of comprehending the causes of disease, and it emphasized the necessity of philosophical training, derived from Plato and Aristotle, for the competent physician.
+
+The text is preserved indirectly through quotations in later Greek, Arabic, and Latin sources, with the Byzantine compiler John Actuarius providing the most significant fragments in the 13th century. The treatise did not survive into the medieval canonical collections of Galen’s works. While the treatise itself is lost, its arguments are consistent with Galen’s major surviving works. His successful defense of this rationalist, teleological approach fundamentally shaped Western medical theory, marginalizing rival schools and establishing the Galenic paradigm as dominant in Byzantine, Arabic, and Latin traditions for over a millennium.
+
 ## Text
 
 ### 1 t

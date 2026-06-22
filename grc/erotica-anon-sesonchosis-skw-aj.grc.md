@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `skw-aj` · [HTML page](https://eulogikon.org/works/erotica-anon-sesonchosis-skw-aj)
 
+_Sesonchosis_ is an anonymous Greek prose narrative belonging to the genre of erotic fiction. The work takes its title from Sesonchosis, a legendary Egyptian pharaoh who was a popular figure in Greek romance and historiography, often depicted as a world-conquering hero. While fragmentary Greek texts feature a protagonist of this name, the specific content of this particular narrative remains uncertain due to its extremely fragmentary preservation. Based on the established legend and the conventions of its genre, the plot likely involved themes of love and desire intertwined with military conquest and adventure, representing a characteristically Greco-Roman literary reinterpretation of Egyptian history and myth. The transmission history of this specific work is undocumented, though had it survived more fully, it would likely be known only through papyrus fragments or indirect references in other ancient texts. It stands as an example of the intersection of historical legend and popular fiction in antiquity, illustrating how the developing ancient novel genre employed exotic, pseudo-historical settings for romantic and adventurous plots, thereby contributing to the literary perception of Egypt in the Greco-Roman world.
+
 ## Text
 
 ### col1

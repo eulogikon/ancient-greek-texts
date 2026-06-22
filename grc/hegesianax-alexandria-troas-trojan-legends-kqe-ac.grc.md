@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kqe-ac` · [HTML page](https://eulogikon.org/works/hegesianax-alexandria-troas-trojan-legends-kqe-ac)
 
+The Trojan Legends by Hegesianax of Alexandria Troas is a lost Hellenistic treatise, surviving only in fragments quoted by later authors such as the geographer Strabo and the encyclopedist Athenaeus. These citations reveal it to have been a systematic compilation of mythological and historical narratives centered on the Trojan War and its associated heroic cycles. The work's scope extended beyond the core events at Troy to encompass broader epic traditions, including the voyage of the Argonauts, as well as local lore and foundation myths for various cities and cults. Hegesianax engaged critically with the earlier poetic tradition, referencing figures like the lyric poet Alcman. As a product of Hellenistic scholarship, the treatise represents an effort to catalog and analyze myth, serving as an important source for later antiquarians and geographers who sought to connect the epic past with contemporary historical and cultural understanding.
+
 ## Text
 
 ### t1-10

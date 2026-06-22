@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `lxq-aa` · [HTML page](https://eulogikon.org/works/diogenes-babylon-testimonies-lxq-aa)
 
+The Testimonies and Fragments is a modern scholarly compilation that reconstitutes the philosophical thought of Diogenes of Babylon, a Stoic scholarch who led the school in Athens during the mid-2nd century BCE. As no complete treatise from his hand survives, the collection is built from 126 discrete passages extracted from later Greek and Roman authors who quoted or paraphrased his arguments. These sources include figures such as Cicero, Plutarch, and Sextus Empiricus, who cited Diogenes’s positions within their own philosophical debates. The assembled fragments reveal his contributions to fundamental Stoic doctrines, particularly in theology, where he advanced arguments for a rational and providential cosmos, and in ethics, where he defined the ultimate aim of life as living in accordance with right reason and nature. He also produced notable work on the philosophy of music, contending that musical harmony could influence and educate moral character. The fragments collectively portray a philosopher actively systematizing and defending Stoicism against contemporary challenges, most notably from the Academic skeptic Carneades. While the transmission is indirect and filtered through the agendas of later writers, the collection preserves the intellectual profile of a pivotal figure in the development of Hellenistic philosophy.
+
 ## Text
 
 ### 1

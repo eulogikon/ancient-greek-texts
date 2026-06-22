@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `uhs-ah` · [HTML page](https://eulogikon.org/works/origen-alexandria-matthew-10-11-uhs-ah)
 
+Origen of Alexandria's Commentary on the Gospel of Matthew is a foundational work of early Christian biblical exegesis, composed in Greek between approximately 244 and 249 CE. This extensive scholarly treatise provides a meticulous verse-by-verse analysis of the Gospel, exemplifying Origen's pioneering hermeneutical method of discerning multiple layers of meaning—literal, moral, and spiritual—within the scriptural text. Originally spanning twenty-five books, the complete commentary is now only partially extant. The segment designated as Books 10–11 forms part of a larger surviving block comprising Books 10 through 17, which collectively cover the Gospel narrative from Matthew 13:36 to 22:33.
+
+Written during Origen's mature period in Caesarea, the commentary was intended for an audience of advanced students and fellow scholars. Its purpose was to establish a profound and intellectually rigorous Christian interpretation of scripture, skillfully synthesizing insights from Greek philosophical tradition with theological inquiry. The work stands as a critical resource for understanding the development of early Christian exegesis and the specific interpretive techniques that made Origen's thought so influential. The transmission of the text is fragmentary; Books 10–17 survive in the original Greek largely through a single eleventh-century manuscript, while other portions of the commentary are lost or preserved only in later abbreviated translations. Consequently, this surviving Greek section remains an indispensable primary source for the study of Origen's theological and exegetical legacy.
+
 ## Text
 
 ### 10 t

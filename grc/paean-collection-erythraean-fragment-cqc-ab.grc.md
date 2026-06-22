@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `cqc-ab` · [HTML page](https://eulogikon.org/works/paean-collection-erythraean-fragment-cqc-ab)
 
+The Erythraean Fragment of a Paean to Apollo is a brief, fragmentary cult hymn preserved as an inscription, originating from or associated with the Ionian city of Erythrae, a major cult center for Apollo on the coast of Asia Minor. As a paean, it belongs to the genre of choral lyric hymn performed in ritual contexts such as processions and festivals, characterized by its distinctive refrains. The surviving text, though damaged, includes invocatory cries to Apollo and references to choruses, the goddess Hera, and the Horai, suggesting a composition that wove together divine praise with elements of natural fertility and order. The fragment concludes with an apparent narrative of Apollo's epiphany at Delphi. Transmitted solely through epigraphy on a damaged stone rather than literary manuscript tradition, the work survives incompletely. Its significance lies not in direct literary influence but in its value as evidence for localized ritual practice and the worship of Apollo within Ionia, contributing to the epigraphic record of the widespread paean genre which itself informed the broader development of Greek lyric poetry.
+
 ## Text
 
 ### unit_1

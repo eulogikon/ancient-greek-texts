@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bs` · [HTML page](https://eulogikon.org/works/hippocrates-crises-bww-bs)
 
+On Crises is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek works attributed to Hippocrates and his followers but composed by multiple authors. Written in the Ionic dialect during the 5th or 4th century BCE, the work is structured as a series of 35 concise, instructional passages. It focuses entirely on the concept of a crisis, the critical turning point in an illness that determines whether a patient will recover or die. The text systematically outlines the critical days, arguing that these decisive turns tend to occur on specific, often odd-numbered days after the onset of disease. It instructs physicians to observe signs in symptoms and bodily discharges, such as sweat, urine, and stool, to predict the timing and outcome of a crisis. Modern scholars interpret the treatise as a practical handbook for prognosis, intended to help working physicians judge when to intervene or allow the body's natural healing process to take its course. It reflects the core Hippocratic belief in careful observation and working with nature. The complete text has survived through the medieval manuscript tradition of the Hippocratic Corpus, preserved in copies such as 10th- and 12th-century codices. As a foundational part of the Corpus, its ideas on prognosis and critical periods influenced later medical writers for centuries.
+
 ## Text
 
 ## Περὶ κρισίων ξυντόμων ἐπὶ τὸ ἄμεινον τὰ μὲν πλεῖστα ταὐτὰ ἐστὶν, ἅπερ ἐς ὑγίην σημεῖα.

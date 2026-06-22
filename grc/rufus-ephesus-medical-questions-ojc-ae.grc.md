@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ojc-ae` · [HTML page](https://eulogikon.org/works/rufus-ephesus-medical-questions-ojc-ae)
 
+Medical Questions is a medical treatise composed around 100 CE by the physician Rufus of Ephesus. Written as a practical handbook in Koine Greek, the work consists of 58 concise chapters, each dedicated to a specific line of diagnostic inquiry. Its primary purpose is to instruct physicians in the systematic method of questioning a patient to obtain a clinical history, a process known as anamnesis. The text guides the practitioner through a logical sequence of interrogations concerning symptoms such as fever and pain, while also exploring the patient's lifestyle, habits, and environment. This detailed approach aims to enable accurate differentiation between diseases that may present with similar signs.
+
+The complete text has been preserved through Byzantine manuscript transmission, though it circulated less widely than some of Rufus's other writings. Scholars regard the treatise as a significant document from the Roman Imperial period that exemplifies the increasing professionalization and rationalization of medical practice. It emphasizes empirical diagnosis based on patient testimony and observable phenomena, deliberately distancing itself from supernatural explanations of disease. Likely intended for the instruction of medical students and practitioners, the work sought to standardize clinical method. Rufus's structured framework for patient interrogation exerted a notable influence on later Arabic medical traditions and established principles that remain foundational to modern diagnostic procedure.
+
 ## Text
 
 ## ΡΟΥΦΟΥ ΤΟΥ ΙΑΤΡΟΥ ΙΑΤΡΙΚΑ ΕΡΩΤΗΜΑΤΑ Ἐρωτήματα χρὴ τὸν νοσοῦντα ἐρωτᾶν, ἐξ ὧν ἂν καὶ διαγνωσθείη τι τῶν περὶ τὴν νόσον ἀκριβέστερον καὶ θεραπευθείη κάλλιον.

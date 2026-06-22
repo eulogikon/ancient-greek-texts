@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `gzy-ab` · [HTML page](https://eulogikon.org/works/demonicus-boeotian-banquet-gzy-ab)
 
+_The Boeotian Banquet_ is a lost Greek comedy attributed to Demonicus. Known only through excerpts in antiquity, as suggested by its title meaning "a piece torn off" or "fragment," the work survives solely in two brief passages cited by the grammarian Athenaeus in his _Deipnosophistae_. These fragments reference specific foods: a bread called _kribanitai_ and a dish of chickpeas and beans. The extant citations, focusing on comestibles, indicate that food and gluttony served as primary comic motifs. The title further implies the comedy exploited common Athenian stereotypes of Boeotians as rustic and gluttonous, with the setting likely being a _symposion_, or banquet, a frequent scene for social satire in Greek comedy. The play has no independent manuscript tradition; its preservation depends entirely on its utility to Athenaeus in the 2nd or 3rd century CE as a source for ancient dining customs and lexicon. While no direct literary influence is traceable, the fragments are valuable for understanding the lost corpus of Greek comedy beyond the major playwrights. They provide evidence for comic tropes involving regional ridicule and banquet humor, and serve as a minor source for the study of ancient Greek foodways.
+
 ## Text
 
 ### book 1.1

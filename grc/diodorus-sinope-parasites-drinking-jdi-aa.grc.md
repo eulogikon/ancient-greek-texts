@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jdi-aa` · [HTML page](https://eulogikon.org/works/diodorus-sinope-parasites-drinking-jdi-aa)
 
+"On Parasites and Drinking," also known by the alternative title "Apospasmata" or "Extracts," is a fragmentary comic work attributed to the poet Diodorus of Sinope, a figure associated with the period of Middle Comedy. The play survives only in 49 brief passages, likely preserved through quotations in later lexicographical and scholarly works, such as the Byzantine encyclopedia known as the Suda and Athenaeus’s "Deipnosophistae." As its title suggests, the comedy centered on the stock character of the parasite and the social rituals of the symposium, or drinking party. The extant fragments depict the parasite justifying his lifestyle through a humorous, pseudo-philosophical discourse, even claiming divine precedent by asserting that the practice was invented by Zeus himself, who would enter hospitable homes, dine well, and depart without paying. This material engages with standard Middle Comedy themes, including the dynamics of flattery and social climbing, the excesses of convivial culture, and the satire of gluttony and deception. The work is a representative example of the Middle Comedy’s shift away from direct political satire toward comedies of manners built around established character types. Its treatment of the cunning, freeloading parasite contributed significantly to a comic tradition that was refined in New Comedy and later adapted by Roman dramatists, thereby helping to solidify a persistent archetype in European theatrical history.
+
 ## Text
 
 ### book 1.1

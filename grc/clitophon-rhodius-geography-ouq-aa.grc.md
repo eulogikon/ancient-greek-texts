@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ouq-aa` · [HTML page](https://eulogikon.org/works/clitophon-rhodius-geography-ouq-aa)
 
+The Fragments on Geography by Clitophon Rhodius is a lost Hellenistic geographical treatise known only through a handful of excerpts preserved by later authors. The work survives solely as quotations, primarily within the Geographica of Strabo and the Ethnica of Stephanus of Byzantium, and has no independent manuscript tradition. The extant passages offer brief descriptions of specific locations, such as the city of Lindus on Rhodes and its sanctuary of Athena Lindia, and include associated mythological or historical notes, such as the foundation of that sanctuary by Danaus. Other fragments reference regional geography, including the Cilician and Pamphylian seas and the city of Phaselis. These remnants exemplify the Hellenistic genre of geographical compilation, which focused on cataloging local lore, city foundations, and ethnographic detail. The work's significance lies in its indirect influence, having served as a source for later geographers and lexicographers, and it stands as a representative example of the many specialized treatises that were absorbed into the broader Greco-Roman geographical tradition.
+
 ## Text
 
 ## ΙΝΔΙΚΑ. E LIBRO DECIMO. Plutarch.

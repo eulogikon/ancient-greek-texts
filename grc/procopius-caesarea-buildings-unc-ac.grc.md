@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `unc-ac` · [HTML page](https://eulogikon.org/works/procopius-caesarea-buildings-unc-ac)
 
+On Buildings is a six-book prose work by the sixth-century historian Procopius of Caesarea. Composed in Atticizing Greek, it is a detailed panegyric celebrating the extensive construction projects of the Byzantine Emperor Justinian I. Likely written between 554 and 560 CE, the work is structured as a geographical survey of the empire. It begins with Constantinople and its crowning achievement, the Hagia Sophia, before cataloging churches, fortifications, aqueducts, and public buildings across the eastern frontier, the Balkans, Palestine, and North Africa. The text survives complete through a medieval manuscript tradition, though some technical terms and place names have suffered from textual corruption. Its stated purpose was to glorify Justinian as a divinely inspired restorer of the Roman world, emphasizing his piety through church building and his commitment to security and public utility through military and civil infrastructure. Modern scholars note the stark contrast between this official, flattering portrait and the scathing critique of the same emperor in Procopius’s secret, personal work, the Secret History. Some interpret On Buildings as a piece of expected court propaganda, while the other represented his private views. Despite its encomiastic nature, the work remains an indispensable primary source for archaeologists and historians studying the architecture and urban landscape of the early Byzantine Empire.
+
 ## Text
 
 ### Aed t 1 1

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bww-bt` · [HTML page](https://eulogikon.org/works/hippocrates-glands-bww-bt)
 
+On Glands is a concise medical treatise from the Hippocratic Corpus, the body of works attributed to Hippocrates of Cos and his school, composed in Ionic Greek during the fifth or fourth century BCE. The text offers a systematic anatomical survey, describing the glands found throughout the human body from the head to the lower torso. It identifies structures such as the tonsils as glands and further classifies spongy organs, including the lungs and spleen, within the same glandular category. The treatise propounds a unified physiological theory, positing that the essential function of all glands is to attract and absorb excess moisture from the surrounding tissues. This process is presented as a crucial mechanism for maintaining a healthy equilibrium of the body's fluids. Preserved in its entirety through the medieval manuscript tradition of the Hippocratic Corpus, the work's moisture-attraction theory is interpreted by modern scholars as an early explanatory model for humoral balance, a central tenet of Hippocratic medicine wherein health depends on the proper proportion and interaction of bodily fluids. Written for fellow practitioners and students, the treatise represents a characteristic effort within classical Greek medicine to develop a naturalistic and systematic understanding of human anatomy and physiology, distinct from supernatural accounts of disease.
+
 ## Text
 
 ## Περὶ δὲ ἀδένων οὐλομελίης ὧδε ἔχει.

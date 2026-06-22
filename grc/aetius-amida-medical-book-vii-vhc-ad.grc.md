@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vhc-ad` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-vii-vhc-ad)
 
+Medical Book VII is the seventh volume of the sixteen-book medical compendium known as the Tetrabiblos, compiled by the sixth-century physician Aëtius of Amida. Written in Greek during the reign of Emperor Justinian I in Constantinople, this practical work systematically synthesizes therapeutic knowledge from earlier Greek and Roman authorities, most notably Galen and Dioscorides. As indicated by its table of contents, this book is devoted exclusively to diseases of the eye. It methodically details the nature of the eyes, classifies their various ailments, and provides extensive treatments for conditions including inflammation, swelling, ulcers, and injuries from foreign bodies or burns. The therapies, which encompass regimens involving baths, wine, bloodletting, purges, and a wide array of compounded ointments and plasters, are grounded in the humoral theory of medicine.
+
+The complete text survives through a robust manuscript tradition, having been meticulously preserved and copied for centuries in the Byzantine world. Modern scholars regard Aëtius’s encyclopedia as a crucial bridge between classical medical knowledge and later Byzantine, Arabic, and medieval European medicine. It was composed primarily as a reference for practicing physicians, blending empirical observation with a structured reverence for established medical tradition. The work’s enduring influence is attested by its subsequent translations into Arabic and Latin, which were instrumental in transmitting classical ophthalmological, pharmacological, and surgical knowledge to subsequent generations.
+
 ## Text
 
 ## 〈ΑΕΤΙΟΥ ΛΟΓΟΣ ΕΒΔΟΜΟΣ〉 Πίναξ τῶν κεφαλαίων τοῦ ἑβδόμου λόγου.

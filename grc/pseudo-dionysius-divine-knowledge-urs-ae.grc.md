@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `urs-ae` · [HTML page](https://eulogikon.org/works/pseudo-dionysius-divine-knowledge-urs-ae)
 
+The Fragments on Divine Knowledge is a collection of twenty-seven passages presented as an epistle and attributed to Dionysius the Areopagite, the disciple of Saint Paul mentioned in the Acts of the Apostles. Modern scholarship attributes the work to an anonymous Christian theologian, conventionally termed Pseudo-Dionysius, who wrote in Greek, most likely in Syria during the late fifth or early sixth century. This compilation is distinct from the author’s traditional surviving corpus, which consists of four treatises and ten letters. It is considered a later assemblage of excerpts centered on the theme of divine knowledge, possibly drawn from his larger body of work for purposes of study or contemplative meditation.
+
+The content is emblematic of core Dionysian theology, which synthesizes Christian scripture with Neoplatonic philosophical concepts. Its principal themes include apophatic or negative theology, which posits that God transcends all human categories of understanding and description, and the soul’s mystical journey toward union with the divine. The work was likely intended for an audience of educated monks and clergy engaged in advanced contemplative practice. Regarding its transmission, while the main corpus of Pseudo-Dionysius enjoys an extensive manuscript tradition and was profoundly influential in both Eastern and Western Christian mysticism through Syriac and Latin translations, the Fragments on Divine Knowledge does not appear as an independent, canonical text. It survives not as an original treatise but as a later compilation, preserved within manuscripts containing excerpts or commentaries on the Dionysian corpus.
+
 ## Text
 
 ### t 1

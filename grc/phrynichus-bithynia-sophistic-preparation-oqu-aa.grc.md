@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqu-aa` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-sophistic-preparation-oqu-aa)
 
+The Sophistic Preparation is a lexicographical treatise composed in Greek by the grammarian Phrynichus of Bithynia around 180 CE. A product of the Second Sophistic cultural movement, the work functions as a prescriptive manual for linguistic purification. Its central aim is to instruct readers in the exclusive use of vocabulary drawn from Classical Attic prose of the fifth and fourth centuries BCE while systematically rejecting later, non-classical terms deemed corrupt or inelegant. The text is organized as a series of 374 entries, each typically juxtaposing an approved Attic word with one or more disapproved synonyms, often accompanied by brief explanations or citations from authoritative classical authors such as Plato and the Athenian orators. Modern scholarship interprets the handbook as a practical tool for orators and advanced students, designed to equip them for elite public speaking and to reinforce the social distinction conferred by mastery of pure Attic Greek. The complete original work is lost; what survives is an abridged epitome preserved in a single manuscript from the fourteenth century. This epitome remains a vital source for understanding the intense linguistic polemics of the Roman Imperial period and the Atticist movement's project of defining elite cultural identity through language.
+
 ## Text
 
 ### 1*

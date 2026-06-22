@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `bli-ac` · [HTML page](https://eulogikon.org/works/hecataeus-miletus-geographical-europe-bli-ac)
 
+The Geographical Fragments on Europe constitute the surviving remnants of the Periodos Ges or "Journey Round the Earth," a foundational geographical treatise composed in Ionic Greek prose by Hecataeus of Miletus around 500 BCE. This work represented one of the earliest systematic endeavors to catalog and describe the known world, which it organized into the divisions of Europe and Asia, the latter category encompassing Africa. Its structure followed the convention of a periegesis, a form of descriptive literature that charted a coastal itinerary around the Mediterranean and Black Seas while also incorporating details about inland regions.
+
+The original text is entirely lost, surviving only as brief citations, often merely place names accompanied by terse descriptions or etymological notes, which were preserved in the works of much later authors such as Stephanus of Byzantium. Modern scholarship interprets Hecataeus's project as serving a dual purpose: it functioned as a practical navigational aid while also acting as an encyclopedic compendium of the world for a Greek audience. The fragments exhibit a blend of empirical observation and mythological narrative used to explain origins, a synthesis characteristic of the critical intellectual spirit emerging in Ionia during this period. Through its methodical approach to describing the inhabited world, Hecataeus's work established a crucial framework for the subsequent development of Greek geography and historiography, exerting a direct influence on later writers, most notably Herodotus.
+
 ## Text
 
 ### 145 bis a.(l1)

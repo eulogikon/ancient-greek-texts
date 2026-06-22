@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-el` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-flight-okg-el)
 
+On Flight is a philosophical essay by Plutarch of Chaeronea, composed around 100 CE as part of his extensive ethical collection known as the Moralia. Written in Attic Greek prose and comprising 51 sections, the work addresses the experience of exile, offering consolation and philosophical guidance. It argues that genuine happiness is derived from virtue and inner character rather than from external circumstances such as one's homeland or material possessions. The essay systematically counters the perceived hardships of exile, including the loss of reputation and property, by promoting a cosmopolitan perspective in which the entire world is considered the true home of the wise individual. Plutarch blends philosophical argument with a wealth of historical and mythological examples, drawing significantly upon Stoic and Platonic thought. Modern scholars often interpret the essay as a form of philosophical therapy, reflecting the tangible political risks faced by the educated elite in the early Roman Empire. It seeks to reframe exile not as a catastrophe but as an opportunity for introspection and moral fortitude. The text has been transmitted in its entirety through medieval manuscripts of the Moralia, with the oldest surviving copies dating from the 10th century CE onward, and it remains preserved without significant lacunae as a component of Plutarch's enduring ethical corpus.
+
 ## Text
 
 ### t 1

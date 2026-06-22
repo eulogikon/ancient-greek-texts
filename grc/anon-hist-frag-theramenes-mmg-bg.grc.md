@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `mmg-bg` · [HTML page](https://eulogikon.org/works/anon-hist-frag-theramenes-mmg-bg)
 
+The work On Theramenes is a fragmentary Greek prose treatise known from a single excerpt preserved in the lexicon of Harpocration. It functions as an apologia for the Athenian politician Theramenes, who was executed in 404/3 BCE during the rule of the Thirty Tyrants. The text directly rebuts accusations made by his enemy Critias, a leading member of the oligarchic regime, and argues for the injustice of Theramenes's execution. It seeks to rehabilitate him as a political moderate unjustly killed by an extremist government, thereby engaging with the contemporary controversy over the conflict between moderation and oligarchic violence in late fifth-century Athens. The original treatise is lost and survives only as an anonymous citation; no independent manuscript tradition exists. Despite its fragmentary state, the work is a crucial piece of the immediate historiographical debate about Theramenes. It exemplifies the pro-Theramenean perspective attested in other historical sources and confirms the enduring polemical interest in his character and political fate in later antiquity.
+
 ## Text
 
 ### 1

@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ofq-ab` · [HTML page](https://eulogikon.org/works/josephus-antiquity-jews-ofq-ab)
 
+On the Antiquity of the Jews, traditionally known by its Latin title Contra Apionem (Against Apion), is a two-book apologetic treatise composed in Greek by the Jewish historian Flavius Josephus around 93–94 CE. Written in Rome, the work is a direct polemical defense of Judaism against its detractors in the Greco-Roman world, with a particular focus on refuting the accusations of the Alexandrian grammarian Apion. Its central argument is to establish the exceptional antiquity, moral nobility, and philosophical rationality of the Jewish people and their Mosaic constitution, which Josephus presents as a divinely inspired and superior legal code.
+
+The treatise is systematically structured to dismantle opposing claims. The first book confronts general Hellenistic criticisms regarding the recent origin of the Jews. Josephus marshals citations from numerous non-Jewish historians and chroniclers—including Manetho, Berossus, and Phoenician records—to demonstrate the Jews' presence in ancient historical sources and thus prove their venerable heritage. The second book offers a point-by-point refutation of the specific slanders advanced by Apion, which ranged from allegations of misanthropy and sedition to ridicule of Jewish temple practices. Here, Josephus mounts a robust defense of the Mosaic law, extolling its unity, its provision for social welfare, and its high ethical standards. He pointedly contrasts Jewish monotheism and stable customs with what he portrays as the contradictory and often immoral tales of Greek mythology.
+
+The complete text has survived through medieval Greek manuscript traditions and remains a well-preserved and critically important work. Modern scholarship values it not only as a vital document of Jewish self-definition and intellectual engagement with the Roman Empire but also for its extraordinary utility as a historical source. Josephus’s method of quoting his opponents at length has preserved extensive fragments from several otherwise lost anti-Jewish polemics, making the treatise an indispensable resource for the study of ancient historiography and intercultural conflict.
+
 ## Text
 
 ### Ap 1 t

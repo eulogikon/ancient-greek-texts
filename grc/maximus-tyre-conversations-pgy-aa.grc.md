@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pgy-aa` · [HTML page](https://eulogikon.org/works/maximus-tyre-conversations-pgy-aa)
 
+The Conversations, also known as the Orations, is a collection of forty-one philosophical lectures composed by Maximus of Tyre, a peripatetic philosopher of the late second century CE. Originally delivered as public orations in Rome during the reign of Emperor Commodus, these speeches were subsequently revised and published as a unified work. Written in an elegant Attic Greek, each oration is a self-contained discourse addressing a singular topic for an educated, general audience, skillfully blending moral exhortation with polished rhetorical technique. The subjects are eclectic but center on core Platonic themes, including the nature of God and daimones, the exemplary life of Socrates, the concept of Platonic love, and practical inquiries into happiness, political engagement, and the proper use of wealth. The work is not a rigorous philosophical treatise but rather a popularizing synthesis of Platonic thought, frequently invoking the authority of Homer and Plato to bolster its ethical arguments.
+
+The complete text of the Conversations survives through medieval manuscript transmission, with the oldest extant copies dating from the tenth or eleventh century. Modern scholarship regards the work as a characteristic product of the Second Sophistic, a cultural movement marked by a revival of classical Greek language and identity under Roman rule. It is interpreted as an attempt to provide the Roman elite with an accessible and stylistically refined model for a philosophical life. While lacking in doctrinal originality, Maximus’s lectures were historically valued as a lucid compendium of Platonic ideas, appreciated in later Byzantine and Renaissance periods for their literary merit and practical ethical content.
+
 ## Text
 
 ### 1.1.a.(1t)

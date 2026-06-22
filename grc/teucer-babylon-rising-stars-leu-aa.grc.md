@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `leu-aa` · [HTML page](https://eulogikon.org/works/teucer-babylon-rising-stars-leu-aa)
 
+On the Rising Stars is an astrological treatise attributed to Teucer of Babylon. The work details the system of paramatellonta, stars or constellations rising simultaneously with the zodiacal signs, which are used to elaborate the characteristics and influences of the zodiac. The text survives only in fragments and summaries within later compilations. Its core topic is the association of specific extra-zodiacal stars with each sign, attributing character traits and destinies to these stellar influences. The treatise represents a syncretism of Babylonian star lore with Greek astrological frameworks and functioned as a practical manual for horoscopic interpretation. It is preserved fragmentarily through quotations, most significantly in the Anthology of the second-century astrologer Vettius Valens. Its material was further transmitted and adapted through Byzantine and Arabic astrological traditions. Teucer’s systematization of paramatellonta was influential in Hellenistic astrology, contributing technical vocabulary and interpretive methods. The citation by Vettius Valens establishes Teucer as an authoritative source on fixed stars in the second century, aiding the preservation of Babylonian astronomical concepts within Greco-Roman and later medieval astrology.
+
 ## Text
 
 ### 9.2.181.(1t)

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ifw-aa` · [HTML page](https://eulogikon.org/works/lycophron-chalcis-alexandra-ifw-aa)
 
+The Alexandra is a dramatic monologue in verse composed by Lycophron of Chalcis in the early 3rd century BCE. Written in 1,474 lines of iambic trimeter, the poem is structured as a messenger’s report to King Priam of Troy, who has confined his prophetic daughter Cassandra, also known as Alexandra. The speech recounts her frenzied and opaque prophecy, which begins with the origins of the Trojan War and traverses the fraught homecomings of the Greek heroes, including the extended wanderings of Odysseus and the destined journey of Aeneas. The vision extends far beyond the epic cycle, culminating in the rise of Macedonian power under Alexander the Great and foreshadowing the future ascendancy of Rome.
+
+Renowned for its extreme difficulty, the work is densely packed with rare vocabulary, intricate syntax, and abstruse mythological allusions, a style that secured its reputation for obscurity even in antiquity. Modern scholarship generally views the poem as a product of the erudite, courtly culture of early Ptolemaic Alexandria, crafted for an audience of sophisticated literati. It functions both as a virtuosic display of recondite learning and as a political artifact, weaving mythological prophecy to comment on contemporary Hellenistic geopolitics, particularly in the context of Roman expansion. The complete text of the Alexandra survives via Byzantine manuscript tradition and was studied in later antiquity primarily for its encyclopedic mythological content.
+
 ## Text
 
 ### 1

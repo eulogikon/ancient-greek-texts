@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-br` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-br)
 
+The Alchemical Fragment is a lost treatise attributed to an otherwise unidentified author conventionally designated "Alchemist I" by modern scholars. The title indicates it was a short excerpt from a larger alchemical work, but no description of its specific content or arguments survives. As the text is lost, its precise topics are unknown. Based on the general characteristics of the Greek alchemical corpus, it likely addressed theories of matter and metallic transmutation, practical laboratory procedures for creating dyes, medicines, or alloys, and symbolic or allegorical descriptions of alchemical processes informed by Greco-Egyptian craft traditions and Hellenistic philosophy. The work exists only as a cited title within the Greek alchemical corpus, with no surviving text or detailed manuscript tradition recorded. While the specific fragment's influence is unrecorded, its classification within the corpus underscores the pseudonymous and fragmentary nature of much alchemical literature. These texts, transmitted through Byzantine and Islamic scholars, formed the foundational tradition for later medieval alchemy.
+
 ## Text
 
 ### 1

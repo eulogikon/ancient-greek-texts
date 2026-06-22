@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jew-ab` · [HTML page](https://eulogikon.org/works/cleanthes-assos-hymn-zeus-jew-ab)
 
+The Hymn to Zeus is a philosophical poem by the Stoic philosopher Cleanthes of Assos, who led the school in the third century BCE. Surviving not as a continuous work but as a collection of fragments, its most substantial passage of 39 lines is preserved by the later anthologist Stobaeus. Composed in a literary Greek style with Homeric influences appropriate to its devotional form, the hymn addresses Zeus not as the traditional Olympian deity but as the supreme embodiment of the cosmic logos—the rational, active principle, often described as fiery, that governs the universe through law. The work functions dually as a religious hymn and a vehicle for Stoic doctrine, representing an attempt to reconcile traditional Greek piety with a pantheistic philosophical cosmology in which divine reason is identical with the natural order. A central theme explored is the problem of why evil and disorder exist in a world directed by a benevolent and rational divinity. Highly regarded within the Stoic tradition, the hymn was later recommended for recitation by the teacher Epictetus. The text survives only in fragments quoted by later authors such as Stobaeus and Epictetus, and was not transmitted as a complete independent manuscript. While its original length and structure remain unknown, modern editors have assembled the excerpts into roughly ten passages. Its conception of a cosmos governed by divine law exerted an influence on later natural law theory and was noted by early Christian writers.
+
 ## Text
 
 ### 1

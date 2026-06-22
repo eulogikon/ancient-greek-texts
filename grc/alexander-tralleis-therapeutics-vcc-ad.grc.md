@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `vcc-ad` · [HTML page](https://eulogikon.org/works/alexander-tralleis-therapeutics-vcc-ad)
 
+Therapeutics is a comprehensive medical handbook composed in Greek by the 6th-century physician Alexander of Tralles. Organized systematically from head to toe, this practical guide to disease treatment comprises 381 sections addressing a wide spectrum of ailments, with notable detailed discussions on conditions such as epilepsy and gout. The work is distinguished by its extensive collection of recipes for complex pharmaceutical preparations, including plasters and purgatives. Alexander synthesizes the authoritative medical knowledge of predecessors like Galen while integrating observations from his own clinical practice across the late Roman Empire. Modern scholarship regards the treatise as a prime example of late antique medical eclecticism, compiled for the use of practicing physicians and students. Its therapeutic approach is characteristically pragmatic, combining rational drug-based treatments with the occasional prescription of amulets and charms.
+
+The complete text survives through numerous Greek manuscripts, the oldest of which dates from the 10th century, attesting to its enduring utility within Byzantine medicine. Its influence was extended significantly through translations into Latin, Arabic, Syriac, and Hebrew. These translated versions, some of which adapted the original content, were instrumental in transmitting Alexander's practical synthesis of Greek medical learning to the Islamic world and later to medieval Europe, where it remained a standard reference work for centuries.
+
 ## Text
 
 ### 1 441 (t)

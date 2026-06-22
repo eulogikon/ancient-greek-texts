@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rfi-ae` · [HTML page](https://eulogikon.org/works/philostratus-athens-heroicus-rfi-ae)
 
+The Heroicus is a prose dialogue by the Athenian sophist Philostratus, composed in the early third century CE. Written in Attic Greek, it takes the form of an extended conversation between a Phoenician merchant, initially skeptical of traditional Greek beliefs, and a Thracian vinedresser who is a devout attendant of the hero Protesilaus. Through their exchange, the vinedresser systematically argues for the continued, active presence of the Homeric heroes in the contemporary world, presenting detailed accounts of their deeds, appearances, and cultic practices that purport to correct the poetic license of Homer's epics. The work functions as a sophisticated rhetorical exercise, blending philosophical inquiry into the nature of the soul and divine beings with rich antiquarian lore about heroic mythology. A product of the Second Sophistic, it reflects the period's intense engagement with classical Greek heritage, serving both as a display of erudition and as a serious theological argument for the vitality of traditional Greek religion within the Roman Empire. The text is preserved in full through medieval manuscript tradition.
+
 ## Text
 
 ### Her 660 (t1)

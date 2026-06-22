@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `pqo-ab` · [HTML page](https://eulogikon.org/works/leo-constantinople-overview-medicine-pqo-ab)
 
+The Overview of Medicine is a Byzantine medical treatise attributed to Leo of Constantinople. Structured as a synoptic handbook, the work comprises 185 passages designed as a concise compendium of medical knowledge. Its systematic organization is evident from the surviving chapter headings, which methodically catalogue a wide range of ailments. The first section is devoted to fevers, detailing various types including continuous, tertian, quartan, and ephemeral fevers, as well as conditions like lethargy and marasmus. The second section addresses afflictions of the head and neurological disorders, covering headaches, apoplexy, epilepsy, coma, frenzy, melancholy, mania, and loss of memory. This format indicates the text served as a practical reference, condensing and systematizing earlier Greco-Roman medical theory and practice for pedagogical or clinical use. While the precise details of its content are not fully elaborated in extant sources, the work's title and structure are characteristic of the Byzantine encyclopedic tradition, which focused on preserving and organizing classical scholarship. The treatise is cataloged within the Perseus Digital Library, confirming its existence, though specific details regarding its manuscript transmission and preservation remain less documented. As a synopsis, the text exemplifies the continuity of medical learning in Constantinople, representing a key scholarly effort to maintain and disseminate medical knowledge during the Byzantine era.
+
 ## Text
 
 ### p t

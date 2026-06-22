@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `brw-ab` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-victory-odes-brw-ab)
 
+The Fragments of Victory Odes comprise the extant portions of choral lyric poetry by Bacchylides of Ceos, a major Greek poet of the fifth century BCE. These works are examples of the epinikion, or victory ode, a genre commissioned to honor athletic victories at the great Panhellenic festivals such as the Olympic and Pythian Games. A Bacchylidean ode typically begins with praise for the victor and his homeland, proceeds to narrate a mythological episode drawn from the heroic past—often involving figures like Heracles, Theseus, or the Argonauts—and culminates in gnomic reflections on the nature of human success, the favor of the gods, and the transience of fortune. The poet’s style is characterized by its lucid storytelling and capacity for evocative, pictorial description.
+
+The complete works of Bacchylides were lost after antiquity and survived only in fragmentary citations by other authors until a remarkable archaeological discovery in 1896. A papyrus roll unearthed in Egypt contained substantial remains of fourteen victory odes and several other poems, fundamentally transforming modern understanding of his art. This papyrus, though damaged and lacunose, remains the principal source for his poetry. The fragments thus represent excerpts from this partially preserved corpus. Scholars regard these odes as sophisticated cultural productions that served to eternalize individual athletic glory while simultaneously affirming aristocratic ideals and civic identity in the competitive world of the Greek city-states.
+
 ## Text
 
 ### book 1.1

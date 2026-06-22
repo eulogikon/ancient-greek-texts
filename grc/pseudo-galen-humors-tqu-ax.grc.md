@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqu-ax` · [HTML page](https://eulogikon.org/works/pseudo-galen-humors-tqu-ax)
 
+On Humors is a concise medical treatise from ancient Greece, traditionally but erroneously attributed to Hippocrates. Modern scholarship identifies it as an anonymous work, likely composed by a physician in the late fifth or early fourth century BCE, and it is preserved as a core text of the Hippocratic Corpus. Written in Ionic Greek, the work systematically expounds the theory of the four bodily humors: blood, phlegm, yellow bile, and black bile. It posits that health is a state of equilibrium among these humors, while disease arises from their imbalance. The treatise elaborates a comprehensive correspondence between each humor, a fundamental element (air, fire, water, earth), a season of the year, and a pair of primary qualities (hot, cold, wet, dry). This framework provides the rationale for its practical guidance, which offers dietary and lifestyle advice tailored to the seasons to maintain humoral balance and prevent illness. Structured in twelve succinct passages, the text served as a practical manual for physicians and students, emphasizing natural causation and preventive care. Its formulation of humoral theory proved profoundly influential, providing the foundational concepts that were later expanded by Galen and which dominated Western medical thought for nearly two millennia.
+
 ## Text
 
 ### 19 485 (t)

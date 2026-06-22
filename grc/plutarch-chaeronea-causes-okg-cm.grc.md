@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `okg-cm` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-causes-okg-cm)
 
+Plutarch’s Roman and Greek Causes, also known by its Greek title Aitia Hellenika and often referred to as Greek Questions, is a collection of 210 concise inquiries that investigate the origins of various Greek customs, rituals, and local practices. It forms part of Plutarch’s corpus of "problemata" literature, a genre dedicated to explaining curious phenomena, and is a companion to his similar work Roman Questions. Each entry follows a consistent format, posing a specific question—such as why a particular ritual is performed or how a local tradition began—and then presenting one or more potential answers. These explanations are drawn from a wide range of sources, including mythology, historical anecdote, philosophical reasoning, and naturalistic observation.
+
+The work systematically explores the causes behind diverse aspects of Greek life, with a particular focus on religious festivals, sacrificial rites, and votive practices. It also delves into local historical and geographical peculiarities of various Greek city-states, offering rationalizations for myths and traditions. A notable feature is its method of providing multiple, sometimes conflicting, explanations for a single custom, reflecting an antiquarian and comparative approach rather than a dogmatic one. The text is preserved within the manuscript tradition of Plutarch’s Moralia and is considered complete, though scholars note that the transmitted version may itself be a compilation, and its exact relationship to similarly titled works in the Plutarchan corpus can be ambiguous.
+
+Composed during the period of cultural synthesis under the Roman Empire, the work served both an antiquarian and a pedagogical purpose, aiming to preserve and explain Hellenic heritage for a contemporary Greco-Roman audience. It remains a valuable source for historians of ancient religion, anthropology, and local Greek history, exemplifying an early form of comparative cultural study that sought to understand the rationale behind traditional practices.
+
 ## Text
 
 ### 263 D (t)

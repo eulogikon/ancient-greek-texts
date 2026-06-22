@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-by` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-practice-b-tyc-by)
 
+Zosimus' Practice B is an instructional alchemical treatise composed in Greek around 300 CE by Zosimus of Panopolis, a seminal figure from Roman Egypt. It forms part of his larger corpus, the Authentic Memoirs, and exemplifies the Greco-Egyptian tradition of chemeia, which integrated practical craft knowledge with philosophical and religious speculation. The text provides detailed technical descriptions of laboratory apparatus, including distillation stills and furnaces, and outlines specific operations for the transformation of metals. This concrete, procedural instruction is consistently interwoven with allegorical and spiritual interpretation, framing the physical processes of purification and combination as symbols for the practitioner's own inner rebirth and psychic ascent.
+
+Surviving only in fragments preserved within later Byzantine manuscript compilations, the work opens with a vivid dream narrative. The author describes ascending through seven stages and witnessing seven punishments, becoming lost upon his return until a guide in royal red robes appears. This guide, subsequently consumed by fire, serves as a cryptic emblem for the alchemical process itself. This allegorical framework transforms the treatise from a mere technical manual into a spiritual itinerary, where the manipulation of matter becomes a sacred art aimed at the liberation of the soul. Through Greek, Syriac, Arabic, and later Latin translations, Zosimus's writings, including Practice B, transmitted a foundational synthesis of theory and practice that profoundly shaped the development of alchemy in both the Islamic world and medieval Europe.
+
 ## Text
 
 ### 1

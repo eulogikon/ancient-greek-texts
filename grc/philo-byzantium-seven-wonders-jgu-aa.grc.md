@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jgu-aa` · [HTML page](https://eulogikon.org/works/philo-byzantium-seven-wonders-jgu-aa)
 
+On the Seven Wonders of the World is a concise Greek treatise traditionally ascribed to Philo of Byzantium, a noted Hellenistic engineer and writer on mechanics. The work belongs to the genre of paradoxography, dedicated to cataloguing marvels and extraordinary phenomena. It systematically enumerates and describes the seven canonical monuments of the ancient world: the Walls of Babylon, the Hanging Gardens of Babylon, the Statue of Zeus at Olympia, the Temple of Artemis at Ephesus, the Mausoleum at Halicarnassus, the Colossus of Rhodes, and the Lighthouse of Alexandria. Comprising nine brief passages, the text offers focused, technical descriptions that emphasize the immense scale, luxurious materials, and innovative engineering that made each structure remarkable.
+
+The treatise survives in its entirety within a single manuscript dating from the 9th century CE. Scholarly consensus, however, contests the traditional attribution to Philo of Byzantium. Modern analysis points to anachronisms and factual errors within the text, such as the author's claim to have personally witnessed the Hanging Gardens long after their presumed destruction. These inconsistencies suggest the work was likely composed several centuries later, between the 4th and 6th centuries CE, and was subsequently attributed to the famous engineer to lend it greater authority. Despite these questions of provenance, the treatise remains a vital historical source as one of only two complete ancient lists that describe all seven wonders. It encapsulates the Hellenistic and later Roman fascination with monumental human achievement and played a definitive role in standardizing the iconic list that has endured in Western cultural memory for two millennia.
+
 ## Text
 
 ### 20 (t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kyg-aa` · [HTML page](https://eulogikon.org/works/critolaus-phaselis-prophecy-kyg-aa)
 
+The Fragments on Prophecy is a lost historical work attributed to Critolaus of Phaselis. No direct quotations or substantive descriptions of its content survive, and it is known only by its title and the report that it comprised at least four passages concerning prophetic themes. The author, identified as a historian from Phaselis, is otherwise unattested in the extant record and is distinct from the more famous Peripatetic philosopher of the same name from the second century BCE. The work is absent from standard catalogs of fragmentary Greek historians, and its existence is noted only in modern bibliographical metadata. Consequently, its content, scope, and historical significance remain entirely unknown, rendering it a bibliographical ghost within the corpus of ancient Greek literature.
+
 ## Text
 
 ## ΗΠΕΙΡΩΤΙΚΑ. E LIBRO TERTIO. Plutarchus Par.

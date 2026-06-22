@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `myy-aa` · [HTML page](https://eulogikon.org/works/asclepiodotus-tacticus-art-myy-aa)
 
+The Art of Tactics is a Hellenistic military treatise composed in the 1st century BCE by Asclepiodotus Tacticus, a philosopher and student of the Stoic thinker Posidonius. Written in Koine Greek, it is a concise and systematic textbook detailing the organization, equipment, and drill procedures of a Macedonian-style army. The work is structured into 73 brief chapters, methodically covering the classification of troop types, unit sizes, officer roles, and command signals. A primary focus is the complex geometric maneuvers of the pike-armed infantry phalanx, with detailed descriptions of formations such as the square and the wedge.
+
+The complete text survives as a purely theoretical manual, devoid of historical examples or narrative, and is written in a clear, technical style. Modern scholarship interprets it not as a practical field guide for active commanders but as a school text intended for students of military theory or philosophy, reflecting the Stoic intellectual pursuit of systematizing all branches of knowledge. Its precise descriptions of Hellenistic military drill proved highly influential, serving as a direct source for later Roman and Byzantine tactical writers and, through them, for Renaissance military thought.
+
 ## Text
 
 ### C T

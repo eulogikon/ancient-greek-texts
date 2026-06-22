@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rrg-ch` · [HTML page](https://eulogikon.org/works/alchemist-i-gold-creation-rrg-ch)
 
+Creation of Gold is a pseudonymous Greek alchemical treatise attributed by modern scholarship to the conventional author designation "Alchemist I." It is a concise work belonging to the Greco-Egyptian alchemical tradition, which combined practical laboratory techniques with philosophical and mystical speculation. The text presents a recipe for the artificial production of gold, instructing the practitioner to take natural copper and subject it to seven successive meltings. With each fusion, a different prepared substance is to be added: first dissolved tartar, then powdered alum, then powdered ammonia salt, then powdered natron, then similarly powdered arsenic, then aphroselenum, and finally a prepared green substance from Spain, treated with abundant urine and dried in the sun. The work concludes with an attribution to the legendary female alchemist Maria and a promise that, God willing, gold will be seen. A second passage reiterates the use of these materials, processed with urine and levigated seven times, stating they will tint copper so that it appears silver, a substance here called "our vinegar."
+
+The treatise engages with core alchemical themes of metallic transmutation, detailing practical procedures and employing the specialized terminology and symbolic cover names characteristic of the craft. It survives as part of the larger corpus of Greek alchemical writings preserved primarily in Byzantine manuscripts, such as Marcianus graecus 299, where such texts are often found in fragmentary and corrupted states. As a representative artifact of late antique alchemy, this work forms a link in the transmission of alchemical knowledge from the Hellenistic world into Byzantine, Islamic, and later Latin medieval traditions, where its concepts were elaborated and eventually contributed to the foundations of early chemistry.
+
 ## Text
 
 ### 2.383

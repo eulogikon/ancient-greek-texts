@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `aiw-aa` · [HTML page](https://eulogikon.org/works/aristaeus-harmony-cosmos-aiw-aa)
 
+Attributed to the semi-mythical figure Aristaeus, On Harmony and the Cosmos is not a unitary treatise but a later compilation of Pythagorean excerpts. Its content systematically presents Pythagorean musical theory and cosmology, forming a conceptual bridge between early Pythagorean numerology and the Platonic cosmology of the Timaeus. The work details the derivation of musical concords—the fourth, fifth, and octave—from simple numerical ratios of 4:3, 3:2, and 2:1, respectively. It then applies these same harmonic ratios to explain the perceived order and relative distances of the celestial bodies, articulating the concept of an inaudible "harmony of the spheres" produced by their motion. The text is not preserved as an independent manuscript but survives primarily through quotations within the 6th-century CE Neoplatonist philosopher Porphyry’s commentary on Ptolemy’s Harmonics. Preserved in this form, the compilation’s ideas were instrumental in transmitting Pythagorean harmonic theory, representing a key link between early Pythagorean thought and later Platonic, Hellenistic, and medieval speculations on a mathematically ordered universe.
+
 ## Text
 
 ### 52 (9t)

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `iwk-aa` · [HTML page](https://eulogikon.org/works/demetrius-callatis-geography-iwk-aa)
 
+The Fragments on Geography comprises a series of excerpts from a comprehensive geographical treatise composed by the Hellenistic author Demetrius of Callatis. The original work, now lost, was written in Greek prose around 200 BCE. The eleven surviving passages, preserved primarily through citations in the later geographer Strabo, concentrate on the topography and peoples of the Black Sea region, with particular attention to the coast of Thrace and the Danube delta. The text offers detailed descriptions of coastlines and river systems, records distances in stadia, and includes ethnographic observations on local tribes such as the Getae. As a citizen of the Greek colony of Callatis on the western Black Sea coast, Demetrius wrote with the advantage of local familiarity combined with scholarly inquiry. His work represents a significant, albeit fragmentary, source for the historical geography and ethnography of southeastern Europe during the Hellenistic period, compiled to inform a Greek readership about this strategically and economically vital area.
+
 ## Text
 
 ### t1a-5

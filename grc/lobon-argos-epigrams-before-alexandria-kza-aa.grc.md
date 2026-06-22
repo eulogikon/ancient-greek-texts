@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `kza-aa` · [HTML page](https://eulogikon.org/works/lobon-argos-epigrams-before-alexandria-kza-aa)
 
+Lobon of Argos’s Epigrams on Poets Before the Alexandrian Age is a lost collection of six commemorative verses dedicated to poets active prior to the Hellenistic period. Known only through secondary references, the work is not extant and no direct quotations survive. The epigrams functioned as concise biographical and critical sketches, memorializing early poetic figures and offering a systematic assessment of their place in literary history. This project reflects a Hellenistic or later scholarly impulse to categorize and evaluate the Greek poetic tradition, using the epigram form for a purpose that blends homage with historical taxonomy. While Lobon himself remains an obscure figure, the work represents a notable attempt to construct a verse chronicle of literary ancestry and achievement.
+
 ## Text
 
 ### book 142

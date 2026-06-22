@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `udm-ay` · [HTML page](https://eulogikon.org/works/porphyry-tyre-chronicles-udm-ay)
 
+The Chronicles is a chronological treatise composed in Koine Greek by the Neoplatonist philosopher Porphyry of Tyre during the late third century CE. Departing from his metaphysical writings, this work represents a scholarly endeavor to construct a synchronized timeline of ancient history. It commenced with the Trojan War, which Porphyry dated to approximately 1208/7 BCE, and concluded with the reign of the Roman emperor Claudius Gothicus, spanning the years 268 to 270 CE. The narrative encompassed the histories of Greek and various Near Eastern kingdoms.
+
+The complete text is lost, surviving only in approximately fifty-three fragments preserved through quotation and engagement by later historians, most notably the Christian scholar Eusebius of Caesarea. Modern interpretation positions the Chronicles as a technical reference work within the established tradition of Hellenistic chronography. It was likely compiled to provide a reliable historical framework, potentially for use within philosophical schools, and reflects Porphyry's ancillary interests in philology and historical scholarship. Through its incorporation into the work of Eusebius, the chronological data assembled by Porphyry exerted a significant, albeit indirect, influence on medieval Christian and Byzantine conceptions of world history.
+
 ## Text
 
 ### 1 t

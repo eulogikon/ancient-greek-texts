@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ljk-ah` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ah)
 
+On Causes of Plants is a scientific treatise on botany written by Theophrastus of Eresus, the successor to Aristotle, around the late fourth or early third century BCE. It serves as the theoretical companion to his more descriptive work, Enquiry into Plants. Structured in six books, the treatise systematically investigates the reasons, or causes, behind plant life, covering topics that include plant generation, growth, reproduction, the effects of climate and soil, diseases, and even flavors and odors. The work applies Aristotelian philosophical principles to the natural world, seeking to explain why plants behave and develop as they do rather than merely describing their characteristics. Modern scholars interpret it as a central part of the Peripatetic school's project to extend empirical research and causal theory into specialized natural sciences. The complete text has survived through medieval manuscripts, though some passages appear disordered due to centuries of copying. It was not widely translated until the Renaissance, but alongside its companion volume, it established botany as a formal discipline and remained a foundational text in the field for nearly two millennia.
+
 ## Text
 
 ### 1.1

@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `agy-aa` · [HTML page](https://eulogikon.org/works/semonides-amorgos-testimonies-agy-aa)
 
+The Testimonies is a modern designation for the two surviving fragments of iambic poetry by the 7th-century BCE Greek poet Semonides of Amorgos. Composed in Ionic Greek and the iambic trimeter characteristic of archaic satire, these works offer a pointed critique of human nature. The first, briefer fragment is a moralizing reflection on human folly, likening the ignorance and transience of human life to leaves. The second and more substantial fragment is a famous satire that systematically categorizes women by comparing their inherent natures to various animals and elements, such as a slovenly pig, a cunning fox, or a chaotic sea, each type fashioned by a different Olympian deity. The catalog concludes by presenting the industrious and virtuous "bee-woman" as the domestic ideal.
+
+These two passages constitute the sole remnants of Semonides' literary output, preserved almost exclusively within the 5th-century CE anthology of Stobaeus. The poems were likely intended for performance at symposia, or aristocratic drinking gatherings, where they functioned as both entertainment and a vehicle for social commentary. Scholarly interpretation of the notorious catalog of women varies, viewing it alternately as a humorous exercise within the iambic tradition of invective and as a serious, albeit misogynistic, articulation of archaic Greek gender ideology. Despite the scant survival of his work, Semonides occupies a significant place in the development of early Greek iambic poetry, and his typological satire on women remains one of the most extensively analyzed texts from the period.
+
 ## Text
 
 ### 3b,534,T 1a

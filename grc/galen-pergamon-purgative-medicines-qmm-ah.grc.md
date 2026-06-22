@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `qmm-ah` · [HTML page](https://eulogikon.org/works/galen-pergamon-purgative-medicines-qmm-ah)
 
+The treatise Whom to Purge with Which Purgative Medicines and When is a concise, practical medical work by Galen of Pergamon. It systematically addresses the selection of patients, the choice of purgative drugs, and the timing for evacuative treatments, reflecting core Galenic principles of individualized therapy. This pharmacological text focuses on the reasoned application of purgation, a fundamental procedure in humoral medicine. Its central themes include tailoring the purge to the patient’s specific humoral imbalance and vitality, matching purgatives of particular qualities and strengths to specific conditions, determining the correct moment for administration based on disease stage, patient age, and season, and promoting a diagnostic approach over routine empirical practice. The treatise survives intact within the Galenic corpus, transmitted through Greek manuscripts of Galen’s collected works and included in both the standard Kühn edition and the modern Corpus Medicorum Graecorum. The work exemplifies Galen’s effort to synthesize Hippocratic principles with pharmacology into a coherent, rational system for practicing physicians. Its structured approach to a common therapeutic question contributed significantly to the Galenic tradition that dominated Western and Islamic medicine until the early modern period.
+
 ## Text
 
 ### 7.23

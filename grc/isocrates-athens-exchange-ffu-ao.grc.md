@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ffu-ao` · [HTML page](https://eulogikon.org/works/isocrates-athens-exchange-ffu-ao)
 
+On the Antidosis is a major prose oration by the Athenian rhetorician Isocrates, composed around 354–353 BCE. Though structured as a fictional courtroom speech responding to a legal challenge known as an antidosis, whereby one citizen could demand another assume a costly public duty, the work transcends its nominal pretext. Isocrates, then in his eighties, uses this invented scenario to mount a comprehensive defense of his life’s work and educational philosophy. The text blends autobiography with polemic, serving as a manifesto for his conception of true philosophy as practical training in political discourse, civic virtue, and wise judgment. He argues that his career teaching rhetoric and composing political discourses constituted a genuine and superior form of public service to Athens, contrasting it with the pursuits of ordinary litigants and the abstract speculations of other intellectuals. Modern scholars interpret the work as a direct response to contemporary critics, possibly including rivals such as Plato, who dismissed his pedagogical approach. Intended for the broader Greek public, the oration seeks to secure his intellectual legacy. Transmitted complete through numerous medieval manuscripts, On the Antidosis remains a crucial source for understanding fourth-century BCE intellectual rivalries and ancient theories of education.
+
 ## Text
 
 ### Antid t

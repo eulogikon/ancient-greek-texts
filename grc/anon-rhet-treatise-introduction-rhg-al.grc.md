@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `rhg-al` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-introduction-rhg-al)
 
+The Introduction to Invention is an anonymous Greek rhetorical treatise that serves as a primer on heuresis, or invention, the foundational stage of rhetoric concerned with the discovery of arguments. The work is catalogued as comprising two passages, indicating it is either a brief instructional text or a fragmentary survival. Its content systematically addresses the methods for discovering persuasive material and the logical construction of a speech beginning with this argumentative groundwork. Attested within the manuscript tradition, its anonymous status and concise format complicate a detailed textual history. The treatise is a representative example of the widespread genre of rhetorical prolegomena, or introductory manuals, used for teaching within Hellenistic, Roman, and Byzantine educational contexts, illustrating the formalized pedagogy of rhetorical fundamentals in the Greek tradition.
+
 ## Text
 
 ### 7.52.(1t)

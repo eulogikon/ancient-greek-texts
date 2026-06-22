@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nie-aa` · [HTML page](https://eulogikon.org/works/aristodemus-battle-salamis-nie-aa)
 
+The Fragments on the Battle of Salamis is a lost historical work attributed to the historian Aristodemus. It survives only as a title, recorded in a secondary source as a collection of nine passages concerning the pivotal naval battle of 480 BCE. No continuous text or specific content from these fragments is detailed in extant sources. While Aristodemus appears as an author in standard references, this particular compilation receives no dedicated analysis. Based on its title and genre, the fragments presumably addressed the events, strategy, and outcome of the Battle of Salamis, serving as a repository of historical testimony and source material related to the engagement. The work is completely lost, with no manuscript tradition; its existence is known solely from a secondary reference, likely an ancient or Byzantine catalog or commentary, which recorded its title and the number of its constituent passages. The work’s existence indicates a specialized antiquarian or historical interest in the Battle of Salamis beyond the major surviving narratives, representing one of the many more focused Hellenistic historical treatises that have not survived intact.
+
 ## Text
 
 ### 2a,104,F 1

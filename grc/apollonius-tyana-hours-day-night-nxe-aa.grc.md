@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nxe-aa` · [HTML page](https://eulogikon.org/works/apollonius-tyana-hours-day-night-nxe-aa)
 
+The treatise On the Hours of Day and Night is attributed to the Neopythagorean philosopher Apollonius of Tyana, who lived in the first century CE. This work must be considered lost, as it is not directly attested in the primary biographical source by Philostratus or in other major surviving catalogs of ancient literature. No fragments or substantive descriptions of its content are recorded in the extant historical record. The sole structural detail sometimes associated with it, that it consisted of seven passages, derives from modern metadata rather than an attested manuscript tradition. Consequently, its existence is not verified by standard scholarly reference works or digital text repositories. Given the known interests of Neopythagorean thought, a work by Apollonius on this subject would likely have engaged with themes of numerology, cosmological cycles, and the symbolic significance inherent in the divisions of time. While the treatise itself is unavailable, its purported subject reflects the broader philosophical context of Apollonius, a figure renowned for his asceticism, theological focus, and wonder-working, who was often presented in later antiquity as a pagan counterpart to Jesus of Nazareth.
+
 ## Text
 
 ### 7.175.(1t)

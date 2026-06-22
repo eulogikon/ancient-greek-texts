@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hps-ad` · [HTML page](https://eulogikon.org/works/menander-athens-perinthia-fragments-hps-ad)
 
+Perinthia (The Girl from Perinthos) is a lost comedy by the Athenian playwright Menander, composed in verse during the late fourth or early third century BCE. As a representative work of New Comedy, it eschewed the political satire of earlier Athenian comedy in favor of domestic narratives centered on family, romance, and social standing. The play survives only in seventeen short fragments preserved through quotation by later ancient authors such as Athenaeus and Stobaeus, who excerpted them for their linguistic interest or proverbial content. No manuscript or papyrus copy of the complete work has been discovered. The title indicates the plot likely involved a young woman from the city of Perinthos, a typical Menandrian scenario where a character’s origin or social status generates romantic and social complications. Although the full narrative remains unrecoverable, scholars infer from the extant fragments and the conventions of Menander’s better-preserved comedies that the play probably explored themes of mistaken identity, the role of fortune, and featured a recognition scene that resolved the central conflict. As part of Menander’s influential corpus, the comic situations and character types in Perinthia would have contributed to the model of New Comedy later adapted by Roman dramatists including Plautus and Terence.
+
 ## Text
 
 ### book 1.1

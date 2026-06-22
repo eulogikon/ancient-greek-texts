@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tqa-ad` · [HTML page](https://eulogikon.org/works/anon-grammarian-compendium-herodian-tqa-ad)
 
+The Compendium of Catholic Herodian is an anonymous Byzantine grammatical treatise that functions as an abridged summary of the General Prosody, the systematic work on Greek accentuation by the second-century grammarian Aelius Herodianus. As a compendium, it belongs to a tradition of epitomes that condensed Herodian's complex and authoritative rules into a more accessible format for pedagogical use within Byzantine education. The treatise focuses exclusively on the rules of Greek prosody, systematically codifying and simplifying the doctrinal content of its source material for instructional or reference purposes. Its transmission is tied to the medieval manuscript tradition of grammatical texts, commonly copied in monastic and scholarly contexts. The extant evidence suggests the work is either brief or fragmentary, as it is noted to comprise a single passage. By serving as a vehicle for transmitting Herodian's foundational doctrines, this compendium played a significant role in perpetuating the standardized rules of Attic Greek prosody throughout the Byzantine era and influenced subsequent grammatical scholarship.
+
 ## Text
 
 ### [38]

@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `hui-ac` · [HTML page](https://eulogikon.org/works/epicurus-letter-pythocles-hui-ac)
 
+The Second Letter to Pythocles is a philosophical epistle composed by Epicurus around 300 BCE. Addressed to a young disciple of that name, the letter functions as a concise manual on Epicurean physics, with particular emphasis on celestial and meteorological phenomena. Its purpose is explicitly pedagogical, crafted in response to Pythocles's request for a clear and memorable summary of the subject. The text systematically details the motions of the sun, moon, and stars, and provides natural explanations for events such as eclipses, thunder, lightning, and earthquakes. A defining methodological feature is its presentation of multiple possible atomic explanations for each phenomenon. This approach is not intended to determine a single truth but to demonstrate that all such events have natural, non-divine causes, thereby liberating the mind from the superstitious fear of celestial portents or divine wrath. The letter survives in its entirety not as an independent manuscript but as one of three core doctrinal letters preserved within the tenth book of Diogenes Laertius's Lives and Opinions of Eminent Philosophers. Alongside the Letter to Herodotus, which outlines fundamental atomic theory, and the Letter to Menoeceus, which details Epicurean ethics, it forms an essential trilogy summarizing the school's philosophy. Modern scholarship views the work as instructional material for members of the Epicurean community, designed for memorization and study, particularly by those newly engaged with the physical doctrines of the system.
+
 ## Text
 
 ### 84 (t)

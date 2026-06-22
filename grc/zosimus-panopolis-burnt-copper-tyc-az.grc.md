@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-az` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-burnt-copper-tyc-az)
 
+On the Difference of Burnt Copper is a concise Greek alchemical treatise authored by Zosimus of Panopolis around 300 CE. The work provides detailed technical instructions for the calcination of copper, a process of controlled burning intended to produce various reactive substances for subsequent alchemical operations. The text, structured in three passages, methodically describes the procedure, which involves treating the metal with sulfur and other materials like iron and arsenic to achieve different compounds, thereby explaining the "difference" indicated by its title. As part of Zosimus's extensive surviving corpus, the treatise was preserved in later Byzantine compilations such as the 10th-century Codex Marcianus graecus 299. Written for initiates of the sacred art, it operates on dual levels: it offers precise laboratory guidance while simultaneously framing the physical transmutation of copper as an allegory for the purification and spiritual ascent of the soul. This synthesis of practical craft with Gnostic and Hermetic philosophy is emblematic of Greco-Egyptian alchemy. Through works like this, Zosimus transmitted both a body of technical knowledge and a profound spiritual paradigm, establishing a foundation that would significantly influence later Byzantine, Islamic, and Latin alchemical traditions.
+
 ## Text
 
 ### 2.154

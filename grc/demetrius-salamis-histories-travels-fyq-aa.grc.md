@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `fyq-aa` · [HTML page](https://eulogikon.org/works/demetrius-salamis-histories-travels-fyq-aa)
 
+The Pamphylian Histories and Travels is a lost prose work attributed to Demetrius of Salamis, surviving only in fragmentary form through excerpts preserved by later authors. Its Greek title, Apospásmata, meaning "Excerpts," directly signals its fragmentary transmission through quotations in subsequent geographical and historical compilations. The work focused on the history and geography of the Pamphylia region in Asia Minor. Its content, typical of the genre of local history and travelogue, would have encompassed regional history, including the foundation myths of Pamphylian cities such as Megarsus, geographical descriptions and itineraries, and accounts of local customs and notable landmarks. One preserved fragment also records an unusual anecdote from Demetrius’s own travels, describing a storm and atmospheric disturbances witnessed near a sacred, sparsely inhabited island off Britain, which the local inhabitants interpreted as the passing of a great soul. The work exemplifies the Hellenistic and Roman tradition of local history, or horography, and its significance lies in its contribution to the broader geographical and historical knowledge of the ancient world, where it likely served as a source for later compilers like Strabo.
+
 ## Text
 
 ### t1a-1b

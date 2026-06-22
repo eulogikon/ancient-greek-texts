@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `czs-ac` · [HTML page](https://eulogikon.org/works/cratinus-language-poetry-czs-ac)
 
+The Fragments on Language and Poetry is a modern scholarly collection of 32 excerpts from the lost comedies of Cratinus, a major figure of Athenian Old Comedy in the fifth century BCE. Written in Attic Greek verse, these passages are thematically linked by their preoccupation with diction, poetic style, and literary critique. They illustrate Cratinus's characteristic linguistic inventiveness, featuring extravagant compound formations and parodies of tragic idiom, devices originally employed for satirical and comic purposes within his complete plays. No full work by Cratinus survives; these fragments are preserved through citation by later authors such as Athenaeus and various grammarians, who valued them as illustrations of rare vocabulary or authentic Attic usage. The assemblage into a collection of 32 items is thus an editorial construct of modern scholarship. These fragments are interpreted as vital evidence for the intensely competitive literary environment of classical Athens, revealing how comic poets like Cratinus engaged in poetic rivalry and metatheatrical commentary. Designed for the diverse audiences of Athenian festivals, the original works blended linguistic humor with satire directed at contemporary personalities and cultural trends.
+
 ## Text
 
 ### book 1

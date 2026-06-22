@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `dei-aa` · [HTML page](https://eulogikon.org/works/apollodorus-cyzicus-testimonies-dei-aa)
 
+The Testimonies by Apollodorus of Cyzicus is a lost work known only by its title and the indication that it comprised at least three distinct passages. No direct quotations or substantive descriptions of its content survive, though the title suggests it was a collection of statements or evidence, likely pertaining to philosophical doctrines or historical events, compiled as discrete items rather than a continuous narrative. The author remains an obscure figure without definitive identification in major historical or philosophical sources. The work is considered fragmentary, preserved solely through a secondary mention of its title and structure; it is not represented among extant fragments in major digital collections of classical texts. While its specific content and influence are irrecoverable, its recorded existence contributes to the broader understanding of the variety of scholarly compilations produced in the Hellenistic period, many of which survive only as titles.
+
 ## Text
 
 ### 1

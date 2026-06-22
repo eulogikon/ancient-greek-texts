@@ -20,6 +20,10 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `oqa-ad` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-on-poems-oqa-ad)
 
+_On Poems_ is a metrical treatise from the 2nd century CE by the Alexandrian grammarian Hephaestion. Its most significant and widely transmitted component is the _Encheiridion_, or "Handbook," a systematic manual of Greek poetic meter. The work functions as a comprehensive taxonomic catalog, defining and classifying the full range of Greek meters, from the dactylic hexameter and iambic trimeter to the complex lyric systems. It provides precise definitions for technical metrical terms, analyzes the structure of metrical units known as cola, and explains their combination into larger systems. Hephaestion synthesizes earlier Hellenistic scholarship into a practical descriptive reference, illustrating his analysis with a wealth of examples drawn from epic, lyric, and dramatic poetry, thereby preserving numerous fragments of otherwise lost works.
+
+The _Encheiridion_ itself survives nearly intact, having been copied extensively throughout antiquity and the Byzantine period as a standard educational textbook. The larger, more comprehensive treatise _On Poems_ is less completely preserved, existing in portions and through later commentaries. The manuscript tradition is complex and includes valuable Byzantine scholia that expand upon the original text. Hephaestion's _Encheiridion_ served as the fundamental authority on Greek meter for over a millennium, central to Byzantine education and later rediscovered in the Renaissance. It remains an indispensable source for understanding ancient metrical theory and for the many quotations of lost poetry it contains.
+
 ## Text
 
 ### [17]

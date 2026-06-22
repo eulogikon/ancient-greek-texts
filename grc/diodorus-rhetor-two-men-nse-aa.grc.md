@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `nse-aa` · [HTML page](https://eulogikon.org/works/diodorus-rhetor-two-men-nse-aa)
 
+The oration known as Fragment-Two Men, attributed to the obscure figure Diodorus the Rhetorician, is a lost work of which only the title survives. The title suggests a rhetorical exercise comparing two individuals, a common theme in the progymnasmata and later declamatory practice. No content from the oration is extant, and its specific arguments, subjects, and themes remain entirely unknown. The work is preserved solely as a bibliographic entry, likely transmitted as an excerpt in a lost anthology or commentary, with no recorded manuscript tradition. As a lost work, its direct influence on later literature cannot be traced, and its significance lies only in its attestation as an example of a rhetorical genre.
+
 ## Text
 
 ### 51 (23t)

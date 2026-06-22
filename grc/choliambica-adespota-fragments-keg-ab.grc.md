@@ -20,6 +20,12 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `keg-ab` · [HTML page](https://eulogikon.org/works/choliambica-adespota-fragments-keg-ab)
 
+The Choliambic Fragments are three anonymous passages of poetry composed in choliambic meter, a form also known as scazon or the "limping iambic." This distinctive meter, characterized by a deliberate substitution of a spondee or trochee in the final foot of an iambic trimeter, creates a halting, dissonant rhythm traditionally associated with satire, invective, and moralizing verse. The form was pioneered by the archaic poet Hipponax for abusive personal attack and was later adapted by Hellenistic poets like Callimachus for more mimetic and gnomic purposes. The work is classified as adespota, meaning "without an owner" or anonymous, and is preserved within the extensive 5th-century CE Anthology compiled by Stobaeus.
+
+The fragments' content, while not extensively detailed in general sources, aligns with the thematic tendencies of the choliambic tradition as suggested by their inclusion in a gnomic collection. They likely feature moral critique, satirical observations on human behavior, and expressions of cynical or pessimistic wisdom. The text itself includes disparate, proverbial lines, such as a remark on the two happiest days for a woman being her marriage and her funeral, a comment on a dog's bark, and a gnomic statement about a fig-wood ship. Their transmission is entirely dependent on Stobaeus’s Anthology, a vast compendium of quotations organized by ethical and philosophical topics; they possess no independent manuscript tradition.
+
+These fragments hold significance as a modest but tangible link to the corpus of post-classical choliambic poetry. They illustrate the continued curation and reception of iambic genres into late antiquity, demonstrating how such verses were valued primarily for their sententious content by later compilers. As such, they are studied not for their literary originality but as representative examples of Greek anonymous verse and the enduring anthological practice of preserving poetic fragments for their moral utility.
+
 ## Text
 
 ### 1 (2)

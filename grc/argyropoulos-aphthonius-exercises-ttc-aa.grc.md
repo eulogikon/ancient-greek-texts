@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `ttc-aa` · [HTML page](https://eulogikon.org/works/argyropoulos-aphthonius-exercises-ttc-aa)
 
+John Argyropoulos’s Introduction to Aphthonius' Preliminary Exercises is a 15th-century Byzantine treatise that functions as a pedagogical commentary on the Progymnasmata of Aphthonius of Antioch, a foundational textbook of rhetorical exercises. The work was composed as an introductory guide for students, systematically explicating the standard sequence of preliminary rhetorical drills. Its opening passages establish the lineage of the textbook, identifying Aphthonius as its author and a student of the rhetorician Libanius, and trace the genesis of Aphthonius’s work to a request from the sophist Hermogenes for a comprehensive rhetorical art for the emperor Marcus. The treatise proceeds to outline the structure and educational purpose of the progymnasmata system, offering practical guidance on their implementation alongside scholarly commentary on Aphthonius’s authoritative text. The work survives in a 15th-century manuscript, and its transmission is closely linked to the teaching materials used by Argyropoulos and his students. Composed after Argyropoulos emigrated to Italy, the treatise exemplifies the direct transfer of Byzantine pedagogical tradition to the West. As a teacher of prominent Italian humanists, Argyropoulos employed such commentaries to integrate core Greek rhetorical training into the Renaissance curriculum, thereby influencing the development of Renaissance rhetoric and literary composition.
+
 ## Text
 
 ### 14.156.(1t)

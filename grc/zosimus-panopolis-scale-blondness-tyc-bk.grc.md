@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `tyc-bk` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-scale-blondness-tyc-bk)
 
+On the Scale of Blondness is a Greek alchemical treatise composed around 300 CE by Zosimus of Panopolis. The work addresses the process of xanthosis, or "yellowing," a critical stage in the ancient practice of metallic transmutation aimed at imparting a gold-like color or quality to base materials. Presented in three passages, the text outlines practical procedures and theoretical principles for achieving this transformation, functioning as both a technical manual and a philosophical reflection for practitioners. Written during a formative period of Greco-Egyptian alchemy, where craft traditions in metallurgy increasingly intersected with mystical and spiritual concepts, the treatise is interpreted by modern scholars as intended for a community of initiates who viewed laboratory processes as metaphors for spiritual purification. The work survives within the larger corpus of Zosimus’s writings, preserved in medieval Byzantine manuscripts that compiled alchemical knowledge. While the full text is extant, its meaning is often obscured by the specialized and occasionally esoteric terminology characteristic of ancient alchemical literature.
+
 ## Text
 
 ### 2.182

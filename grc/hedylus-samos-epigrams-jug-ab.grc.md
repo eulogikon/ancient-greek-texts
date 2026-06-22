@@ -20,6 +20,8 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 **eul_wid:** `jug-ab` · [HTML page](https://eulogikon.org/works/hedylus-samos-epigrams-jug-ab)
 
+The Epigrams of Hedylus of Samos constitute a collection of twenty-four short poems by the Hellenistic poet, who was active in the early third century BCE. Composed in a literary Greek dialect, these verses exemplify the sophisticated, bookish form the epigram had attained, having evolved from its origins as simple stone inscriptions into a refined literary genre. The poems engage with characteristic Hellenistic themes, including symposiastic celebrations of wine and banquets, light-hearted erotic subjects, and dedicatory verses. A notable epigram praises a large ceremonial cup belonging to Ptolemy II Philadelphus, a detail that firmly links Hedylus to the intellectual and artistic milieu of Alexandria. No independent manuscript of his work survives; the extant collection is fragmentary and known exclusively through later quotations. These twenty-four epigrams have been recovered by modern scholars from major ancient anthologies, principally the Greek Anthology. This mode of transmission means his poetry is mediated through the selective filters of later editors. Scholars interpret his work as a product of Alexandrian court culture, reflecting the learned, polished, and often playful aesthetic championed by contemporary poets such as Callimachus, with whom Hedylus was associated.
+
 ## Text
 
 ### book 161.1.1
