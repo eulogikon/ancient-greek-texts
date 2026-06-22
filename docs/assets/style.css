@@ -324,6 +324,19 @@ code {
 .link-title { display: block; font-weight: 600; color: var(--ink); }
 .link-desc { display: block; font-size: 0.9em; color: var(--muted); margin-top: 0.2rem; }
 
+/* ---------- FAQ ---------- */
+.faq { margin-top: 0.5rem; }
+.faq dt {
+  font-weight: 600;
+  color: var(--ink);
+  margin-top: 1.25rem;
+}
+.faq dt:first-child { margin-top: 0; }
+.faq dd {
+  margin: 0.35rem 0 0;
+  color: var(--dark-2);
+}
+
 /* ---------- Citation ---------- */
 .doi { font-size: 0.97em; }
 .citation {
