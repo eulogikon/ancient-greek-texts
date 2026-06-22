@@ -9,13 +9,13 @@
   "sameAs": [
     "https://eulogikon.org",
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335422",
-    "https://zenodo.org/records/20335422",
+    "https://doi.org/10.5281/zenodo.20335421",
+    "https://zenodo.org/records/20335421",
     "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335422"
+    "https://doi.org/10.5281/zenodo.20335421"
   ],
   "version": "v2026.06.08",
   "license": "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -116,7 +116,7 @@
       "name": "Zenodo archival snapshot",
       "description": "Versioned archival distribution with DOI.",
       "encodingFormat": "application/zip",
-      "contentUrl": "https://zenodo.org/records/20335422"
+      "contentUrl": "https://zenodo.org/records/20335421"
     },
     {
       "@type": "DataDownload",

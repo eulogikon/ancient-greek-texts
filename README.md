@@ -139,13 +139,13 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "sameAs": [
     "https://eulogikon.org",
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335422",
-    "https://zenodo.org/records/20335422",
+    "https://doi.org/10.5281/zenodo.20335421",
+    "https://zenodo.org/records/20335421",
     "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
   ],
   "identifier": [
     "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335422"
+    "https://doi.org/10.5281/zenodo.20335421"
   ],
   "version": "v2026.06.08",
   "license": "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -185,7 +185,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
       "@type": "DataDownload",
       "name": "Zenodo archival snapshot",
       "encodingFormat": "application/zip",
-      "contentUrl": "https://zenodo.org/records/20335422"
+      "contentUrl": "https://zenodo.org/records/20335421"
     },
     {
       "@type": "DataDownload",
@@ -220,7 +220,7 @@ Corrections and issues with scaffolding, metadata structure, or file naming can 
 | Reading site | [eulogikon.org](https://eulogikon.org) |
 | Organisation | [github.com/eulogikon](https://github.com/eulogikon) |
 | GitHub data store | [github.com/eulogikon/ancient-greek-texts](https://github.com/eulogikon/ancient-greek-texts) |
-| Zenodo archive | [zenodo.org/records/20335422](https://zenodo.org/records/20335422) |
-| Zenodo DOI | [doi.org/10.5281/zenodo.20335422](https://doi.org/10.5281/zenodo.20335422) |
+| Zenodo archive | [zenodo.org/records/20335421](https://zenodo.org/records/20335421) |
+| Zenodo DOI | [doi.org/10.5281/zenodo.20335421](https://doi.org/10.5281/zenodo.20335421) |
 | Hugging Face dataset | [huggingface.co/datasets/eulogikon/ancient-greek-texts](https://huggingface.co/datasets/eulogikon/ancient-greek-texts) |
 | Licence | [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/) |
