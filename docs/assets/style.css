@@ -1,0 +1,248 @@
+/* Eulogikon — Ancient Greek Texts · discovery landing site
+   Generated chrome is hand-authored CSS (no interpolated values).
+   Palette and wordmark mirror the Eulogikon brand: navy serif on a light ground. */
+
+:root {
+  --ink:        #1f2b47;  /* navy — headings, wordmark */
+  --body:       #2c3142;  /* near-black body text */
+  --muted:      #5b6478;  /* secondary text */
+  --rule:       #d9dee8;  /* hairline */
+  --bg:         #ffffff;
+  --bg-soft:    #f7f8fa;  /* tables, code, cards */
+  --link:       #2d4a8a;
+  --link-hover: #1f2b47;
+  --maxw:       46rem;
+
+  --serif: Georgia, "Times New Roman", "Noto Serif", serif;
+  /* Body stack carries explicit CJK / Devanagari / Greek fallbacks — the audience
+     is non-Western, so we don't trust bare system defaults to avoid tofu. */
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+          Arial, "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK JP",
+          "Hiragino Sans", "Microsoft YaHei", "Noto Sans Devanagari",
+          "Noto Sans Greek", sans-serif;
+  --mono: "SFMono-Regular", "Noto Sans Mono", Menlo, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--body);
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+}
+
+main, .site-header, .site-footer {
+  max-width: var(--maxw);
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+/* Skip link — visible on focus only */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: var(--ink);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+/* ---- Header & wordmark ---- */
+.site-header { padding-top: 3rem; text-align: center; }
+
+.wordmark { line-height: 1; }
+.wordmark-mark {
+  display: block;
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: clamp(2.75rem, 9vw, 4.5rem);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  padding-left: 0.12em; /* optical balance for letter-spacing */
+}
+.wordmark-name {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: var(--serif);
+  color: var(--muted);
+  font-size: clamp(0.85rem, 2.4vw, 1.05rem);
+  letter-spacing: 0.42em;
+  padding-left: 0.42em;
+}
+
+.rule {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  width: min(18rem, 70%);
+  margin: 1.75rem auto;
+}
+
+/* ---- Language switcher ---- */
+.lang-switcher { margin: 1rem 0 0; }
+.lang-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem 0.9rem;
+  font-size: 0.92rem;
+}
+.lang-list a { color: var(--muted); text-decoration: none; }
+.lang-list a:hover { color: var(--link-hover); text-decoration: underline; }
+.lang-list [aria-current="page"] {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* ---- Hero ---- */
+.hero { text-align: center; padding: 1.5rem 0 1rem; }
+.hero h1 {
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: clamp(1.9rem, 6vw, 2.8rem);
+  font-weight: 700;
+  margin: 0.5rem 0 0.75rem;
+}
+.tagline {
+  color: var(--muted);
+  font-size: 1.1rem;
+  max-width: 34rem;
+  margin: 0 auto 1.25rem;
+}
+.stats {
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  color: var(--ink);
+  margin: 0.5rem 0;
+}
+.stats strong { font-weight: 700; }
+.stats .dot { color: var(--muted); margin: 0 0.6rem; }
+.badge {
+  display: inline-block;
+  margin: 0.5rem 0 1.5rem;
+  padding: 0.25rem 0.85rem;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.lead {
+  max-width: 38rem;
+  margin: 0 auto;
+  text-align: start;
+}
+
+/* ---- Sections ---- */
+main section { margin: 3rem 0; }
+h2 {
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: 1.55rem;
+  margin: 0 0 0.75rem;
+}
+h3 {
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: 1.15rem;
+  margin: 1.75rem 0 0.5rem;
+}
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+
+/* ---- Tables ---- */
+.table-wrap { overflow-x: auto; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.97rem;
+}
+th, td {
+  text-align: start;
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+thead th {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  border-bottom: 1.5px solid var(--rule);
+}
+td code, .naming code { white-space: nowrap; }
+
+code {
+  font-family: var(--mono);
+  font-size: 0.88em;
+  background: var(--bg-soft);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+
+.naming {
+  background: var(--bg-soft);
+  border-left: 3px solid var(--rule);
+  padding: 0.9rem 1.1rem;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.97rem;
+}
+
+/* ---- Link cards ---- */
+.links { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.75rem; }
+@media (min-width: 33rem) { .links { grid-template-columns: 1fr 1fr; } }
+.links a {
+  display: block;
+  height: 100%;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+.links a:hover { border-color: var(--ink); background: var(--bg-soft); }
+.link-title { display: block; font-weight: 600; color: var(--ink); }
+.link-desc { display: block; font-size: 0.9rem; color: var(--muted); margin-top: 0.2rem; }
+
+/* ---- Citation ---- */
+.doi { font-size: 0.97rem; }
+.citation {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  line-height: 1.55;
+  background: var(--bg-soft);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* ---- Footer ---- */
+.site-footer { text-align: center; padding: 1rem 1.5rem 4rem; color: var(--muted); }
+.footer-tagline { font-family: var(--serif); color: var(--ink); font-size: 1.05rem; margin: 0.5rem 0 0.25rem; }
+.footer-meta { font-size: 0.9rem; margin: 0 0 1.25rem; }
+.footer-langs { font-size: 0.88rem; }
+.footer-langs-label { color: var(--muted); }
+.footer-langs .lang-list { display: inline-flex; }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e8ecf5; --body: #d2d7e2; --muted: #97a0b5; --rule: #2c3346;
+    --bg: #11151f; --bg-soft: #1a1f2b; --link: #9db4e8; --link-hover: #c7d4f2;
+  }
+}
