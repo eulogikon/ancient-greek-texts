@@ -20,13 +20,20 @@
 <link rel="alternate" hreflang="tr" href="https://eulogikon.github.io/ancient-greek-texts/tr/">
 <link rel="alternate" hreflang="x-default" href="https://eulogikon.github.io/ancient-greek-texts/">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="Eulogikon">
 <meta property="og:title" content="Eski Yunanca metinler — 1.353 yazar ve 4.055 eserden oluşan kamuya açık bir derlem">
 <meta property="og:description" content="Eski Yunan edebiyatının ücretsiz, kamuya açık derlemi: Homeros’tan geç antik çağa 1.353 yazar ve 4.055 eser; PDF, Markdown ve düz metin biçiminde.">
 <meta property="og:url" content="https://eulogikon.github.io/ancient-greek-texts/tr/">
 <meta property="og:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:locale" content="tr_TR">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
 <link rel="stylesheet" href="../assets/style.css">
 <script type="application/ld+json">
 {
@@ -169,12 +176,22 @@
 <body>
 <a class="skip-link" href="#main">İçeriğe geç</a>
 
-<header class="site-header">
-  <div class="wordmark">
-    <span class="wordmark-mark" lang="grc">ΕΥΛ</span>
-    <span class="wordmark-name">EULOGIKON</span>
+<nav class="navbar">
+  <div class="navbar-content">
+    <a href="https://eulogikon.org" class="home-link">Eulogikon</a>
+    <div class="navbar-subtitle">Eski Yunanca metinler</div>
+    <div class="nav-tabs">
+      <a href="https://eulogikon.org/" class="nav-tab">Ana sayfa</a>
+      <a href="https://eulogikon.org/index_alphabetic" class="nav-tab">Yazarlar</a>
+      <a href="https://eulogikon.org/affiliations" class="nav-tab">Ekoller</a>
+      <a href="https://eulogikon.org/domains" class="nav-tab">Alanlar</a>
+      <a href="https://eulogikon.org/periods" class="nav-tab">Dönemler</a>
+      <a href="https://eulogikon.org/contact" class="nav-tab">İletişim</a>
+    </div>
   </div>
-  <hr class="rule">
+</nav>
+
+<div class="lang-bar">
   <nav class="lang-switcher" aria-label="Dil seçin">
     <ul class="lang-list">
       <li><a href="../" hreflang="en" lang="en">English</a></li>
@@ -191,100 +208,103 @@
       <li><a href="../tr/" hreflang="tr" lang="tr" aria-current="page">Türkçe</a></li>
     </ul>
   </nav>
-</header>
+</div>
 
-<main id="main">
-  <section class="hero">
-    <h1>Eski Yunanca metinler</h1>
-    <p class="tagline">Antik Yunan’ın günümüze ulaşan edebî eserleri — Homeros’tan geç antik çağa, temiz Unicode Yunancasıyla. Özgür, açık ve kamuya açık.</p>
-    <p class="stats">
-      <span class="stat"><strong>1.353</strong> yazar</span>
-      <span class="dot" aria-hidden="true">·</span>
-      <span class="stat"><strong>4.055</strong> eser</span>
-    </p>
-    <p class="badge">Kamuya açık</p>
-    <p class="lead">Burası Eulogikon’un veri deposudur: okuma, arama ve gezinme deneyimi eulogikon.org adresindedir. Bu depo, derlemin kendisini indirilebilir dosyalar olarak barındırır. Giriş yok. Ücret yok. Ödeme duvarı yok.</p>
-  </section>
+<div class="container">
+  <div class="content-wrapper">
+    <main id="main">
+      <section class="hero">
+        <h1>Eski Yunanca metinler</h1>
+        <p class="tagline">Antik Yunan’ın günümüze ulaşan edebî eserleri — Homeros’tan geç antik çağa, temiz Unicode Yunancasıyla. Özgür, açık ve kamuya açık.</p>
+        <p class="stats">
+          <span class="stat"><strong>1.353</strong> yazar</span>
+          <span class="dot" aria-hidden="true">·</span>
+          <span class="stat"><strong>4.055</strong> eser</span>
+        </p>
+        <p class="badge">Kamuya açık</p>
+        <p class="lead">Burası Eulogikon’un veri deposudur: okuma, arama ve gezinme deneyimi eulogikon.org adresindedir. Bu depo, derlemin kendisini indirilebilir dosyalar olarak barındırır. Giriş yok. Ücret yok. Ödeme duvarı yok.</p>
+      </section>
 
-  <section>
-    <h2>Derlem hakkında</h2>
-    <p>Derlem, eski Yunan yazınının tüm yelpazesini kapsar: Sokrates öncesi parçalar, Attikalı tarihçiler, Platon’un diyalogları, Aristoteles’in incelemeleri, Helenistik şiir, Stoacı ve Epikürcü metinler, tıp yazarları, matematikçiler, coğrafyacılar, hatipler, oyun yazarları ve geç antik çağ filozofları. Yalnızca parçaların kaldığı yerlerde, bu parçalar da dâhildir.</p>
-    <p>Her eser üç biçimde yayımlanır — PDF, Markdown ve düz metin. Markdown dosyaları, temiz Unicode Yunancası ve korunmuş yapısıyla en zengin okuma biçimini sunar.</p>
-  </section>
+      <section>
+        <h2>Derlem hakkında</h2>
+        <p>Derlem, eski Yunan yazınının tüm yelpazesini kapsar: Sokrates öncesi parçalar, Attikalı tarihçiler, Platon’un diyalogları, Aristoteles’in incelemeleri, Helenistik şiir, Stoacı ve Epikürcü metinler, tıp yazarları, matematikçiler, coğrafyacılar, hatipler, oyun yazarları ve geç antik çağ filozofları. Yalnızca parçaların kaldığı yerlerde, bu parçalar da dâhildir.</p>
+        <p>Her eser üç biçimde yayımlanır — PDF, Markdown ve düz metin. Markdown dosyaları, temiz Unicode Yunancası ve korunmuş yapısıyla en zengin okuma biçimini sunar.</p>
+      </section>
 
-  <section>
-    <h2>Bu depo nasıl düzenlenmiştir</h2>
-    <p>Her dosyanın adı öngörülebilirdir ve düz bir klasörde bulunur. İçeriği keşfetmek için metin klasörlerini taramayın; her yazarı ve eseri listeleyen dizin dosyalarını kullanın.</p>
+      <section>
+        <h2>Bu depo nasıl düzenlenmiştir</h2>
+        <p>Her dosyanın adı öngörülebilirdir ve düz bir klasörde bulunur. İçeriği keşfetmek için metin klasörlerini taramayın; her yazarı ve eseri listeleyen dizin dosyalarını kullanın.</p>
 
-    <h3>Klasörler</h3>
-    <div class="table-wrap">
-      <table>
-        <thead><tr><th scope="col">Yol</th><th scope="col">İçerik</th></tr></thead>
-        <tbody>
-          <tr><td><code lang="en">grc/</code></td><td>Yunanca kaynak metinler — eser başına bir dosya (PDF, Markdown, düz metin).</td></tr>
-          <tr><td><code lang="en">en/</code></td><td>İngilizce yazar sayfaları — biyografi, dönem, lehçe, alan ve ekol.</td></tr>
-          <tr><td><code lang="en">domains/</code></td><td>Konu alanına (felsefe, tarih, tiyatro…) göre gruplanmış metinler, PDF olarak.</td></tr>
-          <tr><td><code lang="en">affiliations/</code></td><td>Felsefe ekolüne (Stoacı, Platoncu…) göre gruplanmış metinler, PDF olarak.</td></tr>
-        </tbody>
-      </table>
-    </div>
+        <h3>Klasörler</h3>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th scope="col">Yol</th><th scope="col">İçerik</th></tr></thead>
+            <tbody>
+              <tr><td><code lang="en">grc/</code></td><td>Yunanca kaynak metinler — eser başına bir dosya (PDF, Markdown, düz metin).</td></tr>
+              <tr><td><code lang="en">en/</code></td><td>İngilizce yazar sayfaları — biyografi, dönem, lehçe, alan ve ekol.</td></tr>
+              <tr><td><code lang="en">domains/</code></td><td>Konu alanına (felsefe, tarih, tiyatro…) göre gruplanmış metinler, PDF olarak.</td></tr>
+              <tr><td><code lang="en">affiliations/</code></td><td>Felsefe ekolüne (Stoacı, Platoncu…) göre gruplanmış metinler, PDF olarak.</td></tr>
+            </tbody>
+          </table>
+        </div>
 
-    <h3>Dizinler ve üst veriler — buradan başlayın</h3>
-    <div class="table-wrap">
-      <table>
-        <thead><tr><th scope="col">Yol</th><th scope="col">İçerik</th></tr></thead>
-        <tbody>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/llms.txt"><code>llms.txt</code></a></td><td>Yapay zekâ yardımcıları için derlenmiş giriş noktası; kompakt arama dosyalarına yönlendirir.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.authors.json"><code>manifest.authors.json</code></a></td><td>Her yazarın kompakt dizini.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.works.min.csv"><code>manifest.works.min.csv</code></a></td><td>Her eserin kompakt dizini (her biri tek satır, grep’e uygun).</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/MANIFEST.md"><code>MANIFEST.md</code></a></td><td>Alan ve ekole göre gruplanmış, okunabilir tüm yazar ve eser dizini.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.json"><code>manifest.json</code></a></td><td>Tam makine tarafından okunabilir manifest.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.csv"><code>manifest.csv</code></a></td><td>Eser başına tek satırlık manifest, dosya yollarıyla.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/dataset.jsonld"><code>dataset.jsonld</code></a></td><td>Google Veri Kümesi Arama için schema.org üst verileri.</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/CITATION.cff"><code>CITATION.cff</code></a></td><td>Atıf üst verisi (CFF).</td></tr>
-          <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/README.md"><code>README.md</code></a></td><td>Tam genel bakış ve kullanım kılavuzu.</td></tr>
-        </tbody>
-      </table>
-    </div>
+        <h3>Dizinler ve üst veriler — buradan başlayın</h3>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th scope="col">Yol</th><th scope="col">İçerik</th></tr></thead>
+            <tbody>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/llms.txt"><code>llms.txt</code></a></td><td>Yapay zekâ yardımcıları için derlenmiş giriş noktası; kompakt arama dosyalarına yönlendirir.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.authors.json"><code>manifest.authors.json</code></a></td><td>Her yazarın kompakt dizini.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.works.min.csv"><code>manifest.works.min.csv</code></a></td><td>Her eserin kompakt dizini (her biri tek satır, grep’e uygun).</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/MANIFEST.md"><code>MANIFEST.md</code></a></td><td>Alan ve ekole göre gruplanmış, okunabilir tüm yazar ve eser dizini.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.json"><code>manifest.json</code></a></td><td>Tam makine tarafından okunabilir manifest.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.csv"><code>manifest.csv</code></a></td><td>Eser başına tek satırlık manifest, dosya yollarıyla.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/dataset.jsonld"><code>dataset.jsonld</code></a></td><td>Google Veri Kümesi Arama için schema.org üst verileri.</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/CITATION.cff"><code>CITATION.cff</code></a></td><td>Atıf üst verisi (CFF).</td></tr>
+              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/README.md"><code>README.md</code></a></td><td>Tam genel bakış ve kullanım kılavuzu.</td></tr>
+            </tbody>
+          </table>
+        </div>
 
-    <p class="naming"><strong>Dosya adlandırma.</strong> Adlar, okunabilir bir görünen dizeyi kararlı bir tanımlayıcıyla birleştirir. Bir eser dosyası {work}-{eul_wid} biçimindedir (örn. plato-republic-ffk-ag); bir yazar dosyası {author}-{eul_aid} biçimindedir (örn. plato-ffk). Görünen dize bir kolaylıktır; tanımlayıcı (eul_wid / eul_aid) bir metne atıf yapmak için kararlı dayanaktır. Her ikisi de manifest dosyaları aracılığıyla çözümlenir.</p>
-  </section>
+        <p class="naming"><strong>Dosya adlandırma.</strong> Adlar, okunabilir bir görünen dizeyi kararlı bir tanımlayıcıyla birleştirir. Bir eser dosyası {work}-{eul_wid} biçimindedir (örn. plato-republic-ffk-ag); bir yazar dosyası {author}-{eul_aid} biçimindedir (örn. plato-ffk). Görünen dize bir kolaylıktır; tanımlayıcı (eul_wid / eul_aid) bir metne atıf yapmak için kararlı dayanaktır. Her ikisi de manifest dosyaları aracılığıyla çözümlenir.</p>
+      </section>
 
-  <section>
-    <h2>Verileri edinin</h2>
-    <p>Çevrimiçi okuyun, derlemin tamamını klonlayın ya da arşiv ve makine öğrenmesi dağıtımlarını indirin.</p>
-    <ul class="links">
-      <li><a href="https://eulogikon.org">
-        <span class="link-title">Çevrimiçi okuyun</span>
-        <span class="link-desc">Tam metin arama ve yazar, dönem, alan ve ekole göre gezinme.</span></a></li>
-      <li><a href="https://github.com/eulogikon/ancient-greek-texts">
-        <span class="link-title">GitHub deposu</span>
-        <span class="link-desc">Her dosyayı klonlayın veya indirin. Derleme adımı gerekmez.</span></a></li>
-      <li><a href="https://zenodo.org/records/20335422">
-        <span class="link-title">Zenodo arşivi</span>
-        <span class="link-desc">DOI içeren, atıf yapılabilir ve sürümlenmiş arşiv anlık görüntüsü.</span></a></li>
-      <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">
-        <span class="link-title">Hugging Face</span>
-        <span class="link-desc">Makine öğrenmesi işlem hatları için Parquet biçiminde veri kümesi.</span></a></li>
-    </ul>
-  </section>
+      <section>
+        <h2>Verileri edinin</h2>
+        <p>Çevrimiçi okuyun, derlemin tamamını klonlayın ya da arşiv ve makine öğrenmesi dağıtımlarını indirin.</p>
+        <ul class="links">
+          <li><a href="https://eulogikon.org">
+            <span class="link-title">Çevrimiçi okuyun</span>
+            <span class="link-desc">Tam metin arama ve yazar, dönem, alan ve ekole göre gezinme.</span></a></li>
+          <li><a href="https://github.com/eulogikon/ancient-greek-texts">
+            <span class="link-title">GitHub deposu</span>
+            <span class="link-desc">Her dosyayı klonlayın veya indirin. Derleme adımı gerekmez.</span></a></li>
+          <li><a href="https://zenodo.org/records/20335422">
+            <span class="link-title">Zenodo arşivi</span>
+            <span class="link-desc">DOI içeren, atıf yapılabilir ve sürümlenmiş arşiv anlık görüntüsü.</span></a></li>
+          <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">
+            <span class="link-title">Hugging Face</span>
+            <span class="link-desc">Makine öğrenmesi işlem hatları için Parquet biçiminde veri kümesi.</span></a></li>
+        </ul>
+      </section>
 
-  <section>
-    <h2>Nasıl atıf yapılır</h2>
-    <p>Derleme DOI’si ile atıf yapın ya da depodaki CITATION.cff dosyasını kullanın.</p>
-    <p class="doi">DOI: <a lang="en" href="https://doi.org/10.5281/zenodo.20335422">10.5281/zenodo.20335422</a></p>
-    <pre class="citation" lang="en">Eulogikon (2026). Eulogikon: Ancient Greek Texts Corpus (v2026.06.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20335422</pre>
-  </section>
+      <section>
+        <h2>Nasıl atıf yapılır</h2>
+        <p>Derleme DOI’si ile atıf yapın ya da depodaki CITATION.cff dosyasını kullanın.</p>
+        <p class="doi">DOI: <a lang="en" href="https://doi.org/10.5281/zenodo.20335422">10.5281/zenodo.20335422</a></p>
+        <pre class="citation" lang="en">Eulogikon (2026). Eulogikon: Ancient Greek Texts Corpus (v2026.06.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20335422</pre>
+      </section>
 
-  <section>
-    <h2>Lisans</h2>
-    <p>Eski Yunanca metinler: Public Domain Mark 1.0. Eulogikon’un yapısı ve üst verileri: CC0 1.0. Yapay zekâ eğitimi, ince ayar, değerlendirme ve erişim açıkça izinlidir; vazgeçme seçeneği ve atıf zorunluluğu yoktur.</p>
-  </section>
-</main>
+      <section>
+        <h2>Lisans</h2>
+        <p>Eski Yunanca metinler: Public Domain Mark 1.0. Eulogikon’un yapısı ve üst verileri: CC0 1.0. Yapay zekâ eğitimi, ince ayar, değerlendirme ve erişim açıkça izinlidir; vazgeçme seçeneği ve atıf zorunluluğu yoktur.</p>
+      </section>
+    </main>
+  </div>
+</div>
 
 <footer class="site-footer">
-  <hr class="rule">
-  <p class="footer-tagline">Eulogikon’un veri deposu.</p>
+  <p class="footer-tagline"><strong>Eulogikon</strong> — Eulogikon’un veri deposu.</p>
   <p class="footer-meta">Kamuya açık derlem · Homeros’tan geç antik çağa</p>
   <nav class="footer-langs" aria-label="Diğer diller">
     <span class="footer-langs-label">Diğer diller:</span>
