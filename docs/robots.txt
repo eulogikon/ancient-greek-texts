@@ -1,4 +1,3 @@
-Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml
-
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml

@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Altgriechische Texte — Eulogikons gemeinfreies Korpus von 1.353 Autoren und 4.055 Werken</title>
-<meta name="description" content="Eulogikons gemeinfreies Archiv altgriechischer Literatur — 1.353 Autoren und 4.055 Werke, von Homer bis in die Spätantike, in den Formaten PDF, Markdown und reiner Text.">
+<title>Ancient Greek Texts — Eulogikon’s public-domain corpus of 1.353 authors and 4.055 works</title>
+<meta name="description" content="Eulogikon’s public-domain archive of ancient Greek literature — 1.353 authors and 4.055 works, Homer to late antiquity, as PDF, Markdown, and plain text.">
 <link rel="canonical" href="https://eulogikon.github.io/ancient-greek-texts/de/">
 <link rel="sitemap" type="application/xml" href="https://eulogikon.github.io/ancient-greek-texts/sitemap.xml">
 <link rel="alternate" hreflang="en" href="https://eulogikon.github.io/ancient-greek-texts/">
@@ -22,323 +22,53 @@
 <link rel="alternate" hreflang="x-default" href="https://eulogikon.github.io/ancient-greek-texts/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Eulogikon">
-<meta property="og:title" content="Altgriechische Texte — Eulogikons gemeinfreies Korpus von 1.353 Autoren und 4.055 Werken">
-<meta property="og:description" content="Eulogikons gemeinfreies Archiv altgriechischer Literatur — 1.353 Autoren und 4.055 Werke, von Homer bis in die Spätantike, in den Formaten PDF, Markdown und reiner Text.">
+<meta property="og:title" content="Ancient Greek Texts — Eulogikon’s public-domain corpus of 1.353 authors and 4.055 works">
+<meta property="og:description" content="Eulogikon’s public-domain archive of ancient Greek literature — 1.353 authors and 4.055 works, Homer to late antiquity, as PDF, Markdown, and plain text.">
 <meta property="og:url" content="https://eulogikon.github.io/ancient-greek-texts/de/">
 <meta property="og:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Eulogikon — Altgriechische Texte: ein gemeinfreies Korpus von 1.353 Autoren und 4.055 Werken.">
-<meta property="og:locale" content="de_DE">
+<meta property="og:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1.353 authors and 4.055 works.">
+<meta property="og:locale" content="de">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
-<meta name="twitter:image:alt" content="Eulogikon — Altgriechische Texte: ein gemeinfreies Korpus von 1.353 Autoren und 4.055 Werken.">
+<meta name="twitter:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1.353 authors and 4.055 works.">
 <meta name="author" content="Eulogikon">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
+
 <link rel="stylesheet" href="../assets/style.css">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Dataset",
-  "@id": "https://github.com/eulogikon/ancient-greek-texts",
-  "name": "Ancient Greek Texts",
-  "alternateName": "Eulogikon Ancient Greek Texts Corpus",
-  "description": "The surviving literary works of ancient Greece: 1,353 authors and 4,055 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
-  "url": "https://github.com/eulogikon/ancient-greek-texts",
-  "sameAs": [
-    "https://eulogikon.org",
-    "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421",
-    "https://zenodo.org/records/20335421",
-    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-  ],
-  "identifier": [
-    "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421"
-  ],
-  "version": "v2026.06.08",
-  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "isAccessibleForFree": true,
-  "inLanguage": [
-    "grc"
-  ],
-  "temporalCoverage": "-0800/0600",
-  "keywords": [
-    "ancient Greek",
-    "classics",
-    "classical philology",
-    "digital humanities",
-    "text corpus",
-    "Homer",
-    "Plato",
-    "Aristotle",
-    "Stoicism",
-    "Pre-Socratics",
-    "Hellenistic literature",
-    "late antiquity",
-    "Koine Greek",
-    "NLP dataset"
-  ],
-  "creator": {
-    "@type": "Organization",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org",
-    "sameAs": "https://github.com/eulogikon"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org"
-  },
-  "size": {
-    "@type": "QuantitativeValue",
-    "unitText": "works",
-    "value": 4055
-  },
-  "variableMeasured": [
-    {
-      "@type": "PropertyValue",
-      "name": "authors",
-      "value": 1353
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "works",
-      "value": 4055
-    }
-  ],
-  "distribution": [
-    {
-      "@type": "DataDownload",
-      "name": "Machine-readable manifest (JSON)",
-      "description": "Full nested index of every author and work with metadata and per-format file paths.",
-      "encodingFormat": "application/json",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Manifest (CSV)",
-      "description": "One row per work; convenient for spreadsheet and grep workflows.",
-      "encodingFormat": "text/csv",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Compact author index (JSON)",
-      "description": "Compact one-row-per-author index, sized for LLM context windows.",
-      "encodingFormat": "application/json",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Compact work index (CSV)",
-      "description": "Compact one-row-per-work index, sized for LLM context windows.",
-      "encodingFormat": "text/csv",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Manifest (Markdown)",
-      "description": "Human-readable index grouped by domain and affiliation, with a full author and work listing.",
-      "encodingFormat": "text/markdown",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "LLM entry point",
-      "description": "llms.txt entry point and lookup guide for AI assistants.",
-      "encodingFormat": "text/plain",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Zenodo archival snapshot",
-      "description": "Versioned archival distribution with DOI.",
-      "encodingFormat": "application/zip",
-      "contentUrl": "https://zenodo.org/records/20335421"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Hugging Face dataset",
-      "description": "Parquet distribution for machine learning and data processing workflows.",
-      "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-    }
-  ],
-  "citation": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff",
-  "includedInDataCatalog": {
-    "@type": "DataCatalog",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://eulogikon.org/#organization",
-      "name": "Eulogikon",
-      "url": "https://eulogikon.org",
-      "description": "Eulogikon ist eine digitale Bibliothek, die der Literatur des antiken Griechenlands gewidmet ist. Sie pflegt das griechische Literaturerbe — von Homer bis zum Ende der Antike — und veröffentlicht es frei: als Lese- und Suchplattform auf eulogikon.org und als diesen offenen, zitierfähigen Datenspeicher. Alles wird gemeinfrei freigegeben, sodass Forschende, Studierende, Entwicklerinnen und Entwickler sowie KI-Systeme es uneingeschränkt nutzen können.",
-      "sameAs": [
-        "https://github.com/eulogikon",
-        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-      ]
-    },
-    {
-      "@type": "CollectionPage",
-      "@id": "https://eulogikon.github.io/ancient-greek-texts/de/#webpage",
-      "url": "https://eulogikon.github.io/ancient-greek-texts/de/",
-      "name": "Altgriechische Texte — Eulogikons gemeinfreies Korpus von 1.353 Autoren und 4.055 Werken",
-      "description": "Eulogikons gemeinfreies Archiv altgriechischer Literatur — 1.353 Autoren und 4.055 Werke, von Homer bis in die Spätantike, in den Formaten PDF, Markdown und reiner Text.",
-      "inLanguage": "de",
-      "isPartOf": {
-        "@type": "WebSite",
-        "name": "Eulogikon",
-        "url": "https://eulogikon.org"
-      },
-      "about": {
-        "@id": "https://github.com/eulogikon/ancient-greek-texts"
-      },
-      "publisher": {
-        "@id": "https://eulogikon.org/#organization"
-      },
-      "primaryImageOfPage": "https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png"
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://eulogikon.github.io/ancient-greek-texts/de/#faq",
-      "inLanguage": "de",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Was ist das Korpus „Altgriechische Texte“ von Eulogikon?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Es ist ein offenes, gemeinfreies Archiv altgriechischer Literatur — 1.353 Autoren und 4.055 Werke von Homer bis in die Spätantike — veröffentlicht als PDF-, Markdown- und Klartextdateien mit maschinenlesbaren Indizes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Was ist Eulogikon?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Eulogikon ist eine digitale Bibliothek altgriechischer Literatur. Sie betreibt die Lese- und Suchplattform auf eulogikon.org und veröffentlicht dieses Korpus als ihren offenen Datenspeicher."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Was enthält das Korpus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Die erhaltenen Werke des altgriechischen Schrifttums: vorsokratische Fragmente, die attischen Historiker, die platonischen Dialoge, die aristotelischen Abhandlungen, hellenistische Dichtung, stoische und epikureische Texte, medizinische Autoren, Mathematiker, Geographen, Redner, Dramatiker und spätantike Philosophen — in sauberem Unicode-Griechisch, einschließlich der erhaltenen Fragmente."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Welche Lizenz gilt für die Texte?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Die griechischen Texte tragen die Public Domain Mark 1.0, und Eulogikons Metadaten und Gerüst werden unter CC0 1.0 freigegeben. Sie dürfen das Korpus zu jedem Zweck lesen, kopieren, weiterverbreiten und darauf aufbauen."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Darf ich das Korpus zum Training von KI-Modellen verwenden?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ja. KI-Training, Feinabstimmung, Evaluierung und Retrieval sind ausdrücklich gestattet, ohne Opt-out und ohne Namensnennungspflicht. Für KI-Assistenten steht ein Einstiegspunkt über llms.txt bereit."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Wie zitiere ich das Korpus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Zitieren Sie es über seine DOI oder mit der Datei CITATION.cff im Repository. Eine gebrauchsfertige Zitierangabe finden Sie im Zitationsabschnitt dieser Seite."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
+
 </head>
 <body>
-<a class="skip-link" href="#main">Zum Inhalt springen</a>
+<a class="skip-link" href="#main">Skip to content</a>
 
 <nav class="navbar">
   <div class="navbar-content">
-    <button class="hamburger-menu-toggle" onclick="toggleHamburgerMenu()" aria-label="Navigation" aria-expanded="false" aria-controls="hamburger-menu-panel">
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-    </button>
-    <a href="https://eulogikon.org" class="home-link">Eulogikon</a>
-    <div class="navbar-subtitle">Altgriechische Texte</div>
+    <a href="https://eulogikon.github.io/ancient-greek-texts/" class="home-link">Eulogikon</a>
+    <div class="navbar-subtitle">Ancient Greek Texts — public-domain corpus</div>
     <div class="nav-tabs desktop-only">
-      <a href="https://eulogikon.org/" class="nav-tab">Start</a>
-      <a href="https://eulogikon.org/index_alphabetic" class="nav-tab">Autoren</a>
-      <a href="https://eulogikon.org/affiliations" class="nav-tab">Schulen</a>
-      <a href="https://eulogikon.org/domains" class="nav-tab">Gebiete</a>
-      <a href="https://eulogikon.org/periods" class="nav-tab">Epochen</a>
-      <a href="https://eulogikon.org/contact" class="nav-tab">Kontakt</a>
-    </div>
-
-    <div class="hamburger-menu-overlay" onclick="toggleHamburgerMenu()"></div>
-    <div class="hamburger-menu-panel" id="hamburger-menu-panel" role="navigation" aria-label="Navigation">
-      <div class="menu-section">
-        <h3 class="menu-section-title">Navigation</h3>
-        <a href="https://eulogikon.org/" class="menu-link">Start</a>
-        <a href="https://eulogikon.org/index_alphabetic" class="menu-link">Autoren</a>
-        <a href="https://eulogikon.org/affiliations" class="menu-link">Schulen</a>
-        <a href="https://eulogikon.org/domains" class="menu-link">Gebiete</a>
-        <a href="https://eulogikon.org/periods" class="menu-link">Epochen</a>
-        <a href="https://eulogikon.org/contact" class="menu-link">Kontakt</a>
-      </div>
-      <div class="menu-section">
-        <h3 class="menu-section-title">Andere Sprachen</h3>
-        <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de" aria-current="page">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
-    </ul>
-      </div>
+      <a href="https://eulogikon.github.io/ancient-greek-texts/" class="nav-tab">Home</a>
+      <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/" class="nav-tab">Catalog</a>
+      <a href="https://eulogikon.org" class="nav-tab">Reading site</a>
     </div>
   </div>
 </nav>
 
 <div class="lang-bar">
-  <nav class="lang-switcher" aria-label="Sprache wählen">
+  <nav class="lang-switcher" aria-label="Languages">
     <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de" aria-current="page">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/" hreflang="en" lang="en">English</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/es/" hreflang="es" lang="es">Español</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/fr/" hreflang="fr" lang="fr">Français</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/de/" hreflang="de" lang="de" aria-current="page">Deutsch</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/ja/" hreflang="ja" lang="ja">日本語</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/pt/" hreflang="pt" lang="pt">Português</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/ru/" hreflang="ru" lang="ru">Русский</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/it/" hreflang="it" lang="it">Italiano</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
     </ul>
   </nav>
 </div>
@@ -346,159 +76,64 @@
 <div class="container">
   <div class="content-wrapper">
     <main id="main">
-      <section class="hero">
-        <h1>Altgriechische Texte</h1>
-        <p class="tagline">Die erhaltenen literarischen Werke des antiken Griechenlands, von Homer bis in die Spätantike — ein offenes, gemeinfreies Korpus in sauberem Unicode-Griechisch.</p>
-        <p class="stats">
-          <span class="stat"><strong>1.353</strong> Autoren</span>
-          <span class="dot" aria-hidden="true">·</span>
-          <span class="stat"><strong>4.055</strong> Werke</span>
-        </p>
-        <p class="badge">Gemeinfrei</p>
-        <p class="lead">Dies ist der offene Datenspeicher von Eulogikon, einer digitalen Bibliothek altgriechischer Literatur. Lesen, Suchen und Stöbern finden auf eulogikon.org statt; dieses Repository ist das Archiv selbst, mit jedem Text als herunterladbarer Datei. Keine Anmeldung, keine Gebühren, keine Bezahlschranken.</p>
-      </section>
+      
+<section class="hero">
+  <h1>Ancient Greek Texts — public-domain corpus</h1>
+  <p class="tagline">A public-domain digital library of ancient Greek literature.</p>
+  <p class="stats">
+    <span class="stat"><strong>1.353</strong> authors</span>
+    <span aria-hidden="true">·</span>
+    <span class="stat"><strong>4.055</strong> works</span>
+  </p>
+  <p class="badge">Public Domain Mark 1.0</p>
+  <p class="lead">The surviving literary works of ancient Greece, cleaned and structured for readers, researchers, and machine learning.</p>
+</section>
 
-      <section>
-        <h2>Über Eulogikon</h2>
-        <p>Eulogikon ist eine digitale Bibliothek, die der Literatur des antiken Griechenlands gewidmet ist. Sie pflegt das griechische Literaturerbe — von Homer bis zum Ende der Antike — und veröffentlicht es frei: als Lese- und Suchplattform auf eulogikon.org und als diesen offenen, zitierfähigen Datenspeicher. Alles wird gemeinfrei freigegeben, sodass Forschende, Studierende, Entwicklerinnen und Entwickler sowie KI-Systeme es uneingeschränkt nutzen können.</p>
-      </section>
+<section>
+  <h2>Catalog</h2>
+  <p>Browse the corpus by author, domain, period, or school.</p>
+  <div class="browse-grid">
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/de/">
+      <strong>Browse by author</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/de/domains/">
+      <strong>Browse by domain</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/de/periods/">
+      <strong>Browse by period</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/de/affiliations/">
+      <strong>Browse by affiliation</strong>
+    </a>
+  </div>
+</section>
 
-      <section>
-        <h2>Über das Korpus</h2>
-        <p>Das Korpus umfasst den gesamten Bogen des altgriechischen Schrifttums: vorsokratische Fragmente, die attischen Historiker, die platonischen Dialoge, die aristotelischen Abhandlungen, hellenistische Dichtung, stoische und epikureische Texte, medizinische Autoren, Mathematiker, Geographen, Redner, Dramatiker und spätantike Philosophen. Wo nur Fragmente erhalten sind, sind diese Fragmente enthalten.</p>
-        <p>Jedes Werk erscheint in drei Formaten — PDF, Markdown und reinem Text. Die Markdown-Dateien bieten die reichste Lesefassung, mit sauberem Unicode-Griechisch und erhaltener Struktur.</p>
-      </section>
+<section>
+  <h2>Download formats</h2>
+  <p>Every work is available in three formats:</p>
+  <ul>
+    <li>PDF</li>
+    <li>Markdown</li>
+    <li>Plain text</li>
+  </ul>
+</section>
 
-      <section>
-        <h2>Wie dieses Repository aufgebaut ist</h2>
-        <p>Jede Datei trägt einen vorhersehbaren Namen und liegt in einem flachen Ordner. Durchsuchen Sie nicht die Textordner, um deren Inhalt zu entdecken — nutzen Sie die Indexdateien, die jeden Autor und jedes Werk auflisten.</p>
+<section>
+  <h2>Dataset</h2>
+  <p>The corpus is released as a structured dataset with machine-readable manifests.</p>
+  <ul>
+    <li><a href="https://github.com/eulogikon/ancient-greek-texts">GitHub repository</a></li>
+    <li><a href="https://doi.org/10.5281/zenodo.20335421">Zenodo / DOI</a></li>
+    <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">Hugging Face dataset</a></li>
+  </ul>
+</section>
 
-        <h3>Ordner</h3>
-        <div class="table-wrap">
-          <table>
-            <thead><tr><th scope="col">Pfad</th><th scope="col">Inhalt</th></tr></thead>
-            <tbody>
-              <tr><td><code lang="en">grc/</code></td><td>Griechische Quelltexte — eine Datei je Werk (PDF, Markdown, reiner Text).</td></tr>
-              <tr><td><code lang="en">en/</code></td><td>Englische Autorenseiten — Biografie, Epoche, Dialekt, Fachgebiet und Zugehörigkeit.</td></tr>
-              <tr><td><code lang="en">domains/</code></td><td>Nach Sachgebiet (Philosophie, Geschichte, Drama …) gruppierte Texte als PDF.</td></tr>
-              <tr><td><code lang="en">affiliations/</code></td><td>Nach philosophischer Schule (Stoa, Platoniker …) gruppierte Texte als PDF.</td></tr>
-            </tbody>
-          </table>
-        </div>
-
-        <h3>Indizes und Metadaten — hier beginnen</h3>
-        <div class="table-wrap">
-          <table>
-            <thead><tr><th scope="col">Pfad</th><th scope="col">Inhalt</th></tr></thead>
-            <tbody>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/llms.txt"><code>llms.txt</code></a></td><td>Kuratierter Einstiegspunkt für KI-Assistenten; verweist auf die kompakten Nachschlagedateien.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.authors.json"><code>manifest.authors.json</code></a></td><td>Kompakter Index aller Autoren.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.works.min.csv"><code>manifest.works.min.csv</code></a></td><td>Kompakter Index aller Werke (je eine Zeile, grep-freundlich).</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/MANIFEST.md"><code>MANIFEST.md</code></a></td><td>Menschenlesbarer Index aller Autoren und Werke, nach Gebiet und Schule gruppiert.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.json"><code>manifest.json</code></a></td><td>Vollständiges maschinenlesbares Manifest.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.csv"><code>manifest.csv</code></a></td><td>Manifest mit einer Zeile je Werk, samt Dateipfaden.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/dataset.jsonld"><code>dataset.jsonld</code></a></td><td>schema.org-Metadaten für die Google-Datensatzsuche.</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/CITATION.cff"><code>CITATION.cff</code></a></td><td>Zitations-Metadaten (CFF).</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/README.md"><code>README.md</code></a></td><td>Vollständiger Überblick und Nutzungsleitfaden.</td></tr>
-            </tbody>
-          </table>
-        </div>
-
-        <p class="naming"><strong>Dateibenennung.</strong> Namen verbinden einen menschenlesbaren Anzeigenamen mit einer stabilen Kennung. Eine Werkdatei lautet {work}-{eul_wid} (z. B. plato-republic-ffk-ag); eine Autorendatei lautet {author}-{eul_aid} (z. B. plato-ffk). Der Anzeigename dient der besseren Lesbarkeit; die Kennung (eul_wid / eul_aid) ist der stabile Bezug zum Zitieren eines Textes. Beide lassen sich über die Manifest-Dateien auflösen.</p>
-      </section>
-
-      <section>
-        <h2>Die Daten beziehen</h2>
-        <p>Online lesen, das gesamte Korpus klonen oder die Archiv- und Machine-Learning-Distributionen abrufen.</p>
-        <ul class="links">
-          <li><a href="https://eulogikon.org">
-            <span class="link-title">Online lesen</span>
-            <span class="link-desc">Volltextsuche und Stöbern nach Autor, Epoche, Gebiet und Schule.</span></a></li>
-          <li><a href="https://github.com/eulogikon/ancient-greek-texts">
-            <span class="link-title">GitHub-Repository</span>
-            <span class="link-desc">Jede Datei klonen oder herunterladen. Kein Build-Schritt nötig.</span></a></li>
-          <li><a href="https://zenodo.org/records/20335421">
-            <span class="link-title">Zenodo-Archiv</span>
-            <span class="link-desc">Zitierfähiger, versionierter Archiv-Snapshot mit DOI.</span></a></li>
-          <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">
-            <span class="link-title">Hugging Face</span>
-            <span class="link-desc">Der Datensatz als Parquet, für Machine-Learning-Pipelines.</span></a></li>
-        </ul>
-      </section>
-
-      <section>
-        <h2>Häufig gestellte Fragen</h2>
-        <dl class="faq">
-          <dt>Was ist das Korpus „Altgriechische Texte“ von Eulogikon?</dt>
-          <dd>Es ist ein offenes, gemeinfreies Archiv altgriechischer Literatur — 1.353 Autoren und 4.055 Werke von Homer bis in die Spätantike — veröffentlicht als PDF-, Markdown- und Klartextdateien mit maschinenlesbaren Indizes.</dd>
-          <dt>Was ist Eulogikon?</dt>
-          <dd>Eulogikon ist eine digitale Bibliothek altgriechischer Literatur. Sie betreibt die Lese- und Suchplattform auf eulogikon.org und veröffentlicht dieses Korpus als ihren offenen Datenspeicher.</dd>
-          <dt>Was enthält das Korpus?</dt>
-          <dd>Die erhaltenen Werke des altgriechischen Schrifttums: vorsokratische Fragmente, die attischen Historiker, die platonischen Dialoge, die aristotelischen Abhandlungen, hellenistische Dichtung, stoische und epikureische Texte, medizinische Autoren, Mathematiker, Geographen, Redner, Dramatiker und spätantike Philosophen — in sauberem Unicode-Griechisch, einschließlich der erhaltenen Fragmente.</dd>
-          <dt>Welche Lizenz gilt für die Texte?</dt>
-          <dd>Die griechischen Texte tragen die Public Domain Mark 1.0, und Eulogikons Metadaten und Gerüst werden unter CC0 1.0 freigegeben. Sie dürfen das Korpus zu jedem Zweck lesen, kopieren, weiterverbreiten und darauf aufbauen.</dd>
-          <dt>Darf ich das Korpus zum Training von KI-Modellen verwenden?</dt>
-          <dd>Ja. KI-Training, Feinabstimmung, Evaluierung und Retrieval sind ausdrücklich gestattet, ohne Opt-out und ohne Namensnennungspflicht. Für KI-Assistenten steht ein Einstiegspunkt über llms.txt bereit.</dd>
-          <dt>Wie zitiere ich das Korpus?</dt>
-          <dd>Zitieren Sie es über seine DOI oder mit der Datei CITATION.cff im Repository. Eine gebrauchsfertige Zitierangabe finden Sie im Zitationsabschnitt dieser Seite.</dd>
-        </dl>
-      </section>
-
-      <section>
-        <h2>Zitierweise</h2>
-        <p>Zitieren Sie das Korpus über seine DOI oder verwenden Sie die Datei CITATION.cff im Repository.</p>
-        <p class="doi">DOI: <a lang="en" href="https://doi.org/10.5281/zenodo.20335421">10.5281/zenodo.20335421</a></p>
-        <pre class="citation" lang="en">Eulogikon (2026). Eulogikon: Ancient Greek Texts Corpus (v2026.06.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20335421</pre>
-      </section>
-
-      <section>
-        <h2>Lizenz</h2>
-        <p>Altgriechische Texte: Public Domain Mark 1.0. Eulogikons Gerüst und Metadaten: CC0 1.0. KI-Training, Feinabstimmung, Evaluierung und Retrieval sind ausdrücklich gestattet, ohne Opt-out und ohne Namensnennungspflicht.</p>
-      </section>
     </main>
+
+    <footer class="site-footer">
+      <p>Public-domain texts from Homer to late antiquity. Generated by Eulogikon.</p>
+    </footer>
   </div>
 </div>
-
-<footer class="site-footer">
-  <p class="footer-tagline"><strong>Eulogikon</strong> — Der offene Datenspeicher.</p>
-  <p class="footer-meta">Gemeinfreies Korpus · von Homer bis in die Spätantike</p>
-  <nav class="footer-langs" aria-label="Andere Sprachen">
-    <span class="footer-langs-label">Andere Sprachen:</span>
-    <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de" aria-current="page">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
-    </ul>
-  </nav>
-</footer>
-
-<script>
-  function toggleHamburgerMenu() {
-    const toggle = document.querySelector('.hamburger-menu-toggle');
-    const panel = document.querySelector('.hamburger-menu-panel');
-    const overlay = document.querySelector('.hamburger-menu-overlay');
-    if (!toggle || !panel || !overlay) return;
-    const isOpen = panel.classList.contains('open');
-    toggle.classList.toggle('active');
-    panel.classList.toggle('open');
-    overlay.classList.toggle('visible');
-    toggle.setAttribute('aria-expanded', String(!isOpen));
-    document.body.style.overflow = isOpen ? '' : 'hidden';
-  }
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && document.querySelector('.hamburger-menu-panel.open')) {
-      toggleHamburgerMenu();
-    }
-  });
-</script>
 </body>
 </html>
