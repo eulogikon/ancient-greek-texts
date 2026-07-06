@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>古希腊文献：Eulogikon 收录 1,353 位作者、4,055 部作品的公共领域语料库</title>
-<meta name="description" content="Eulogikon 收藏的古希腊文学公共领域档案：1,353 位作者、4,055 部作品，自荷马至古代晚期，提供 PDF、Markdown 和纯文本格式。">
+<title>Ancient Greek Texts — Eulogikon’s public-domain corpus of 1,353 authors and 4,055 works</title>
+<meta name="description" content="Eulogikon’s public-domain archive of ancient Greek literature — 1,353 authors and 4,055 works, Homer to late antiquity, as PDF, Markdown, and plain text.">
 <link rel="canonical" href="https://eulogikon.github.io/ancient-greek-texts/zh/">
 <link rel="sitemap" type="application/xml" href="https://eulogikon.github.io/ancient-greek-texts/sitemap.xml">
 <link rel="alternate" hreflang="en" href="https://eulogikon.github.io/ancient-greek-texts/">
@@ -22,323 +22,57 @@
 <link rel="alternate" hreflang="x-default" href="https://eulogikon.github.io/ancient-greek-texts/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Eulogikon">
-<meta property="og:title" content="古希腊文献：Eulogikon 收录 1,353 位作者、4,055 部作品的公共领域语料库">
-<meta property="og:description" content="Eulogikon 收藏的古希腊文学公共领域档案：1,353 位作者、4,055 部作品，自荷马至古代晚期，提供 PDF、Markdown 和纯文本格式。">
+<meta property="og:title" content="Ancient Greek Texts — Eulogikon’s public-domain corpus of 1,353 authors and 4,055 works">
+<meta property="og:description" content="Eulogikon’s public-domain archive of ancient Greek literature — 1,353 authors and 4,055 works, Homer to late antiquity, as PDF, Markdown, and plain text.">
 <meta property="og:url" content="https://eulogikon.github.io/ancient-greek-texts/zh/">
 <meta property="og:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Eulogikon —— 古希腊文献：包含 1,353 位作者、4,055 部作品的公共领域语料库。">
-<meta property="og:locale" content="zh_CN">
+<meta property="og:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1,353 authors and 4,055 works.">
+<meta property="og:locale" content="zh_Hans">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
-<meta name="twitter:image:alt" content="Eulogikon —— 古希腊文献：包含 1,353 位作者、4,055 部作品的公共领域语料库。">
+<meta name="twitter:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1,353 authors and 4,055 works.">
 <meta name="author" content="Eulogikon">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
+
 <link rel="stylesheet" href="../assets/style.css">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Dataset",
-  "@id": "https://github.com/eulogikon/ancient-greek-texts",
-  "name": "Ancient Greek Texts",
-  "alternateName": "Eulogikon Ancient Greek Texts Corpus",
-  "description": "The surviving literary works of ancient Greece: 1,353 authors and 4,055 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
-  "url": "https://github.com/eulogikon/ancient-greek-texts",
-  "sameAs": [
-    "https://eulogikon.org",
-    "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421",
-    "https://zenodo.org/records/20335421",
-    "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-  ],
-  "identifier": [
-    "https://github.com/eulogikon/ancient-greek-texts",
-    "https://doi.org/10.5281/zenodo.20335421"
-  ],
-  "version": "v2026.06.08",
-  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "isAccessibleForFree": true,
-  "inLanguage": [
-    "grc"
-  ],
-  "temporalCoverage": "-0800/0600",
-  "keywords": [
-    "ancient Greek",
-    "classics",
-    "classical philology",
-    "digital humanities",
-    "text corpus",
-    "Homer",
-    "Plato",
-    "Aristotle",
-    "Stoicism",
-    "Pre-Socratics",
-    "Hellenistic literature",
-    "late antiquity",
-    "Koine Greek",
-    "NLP dataset"
-  ],
-  "creator": {
-    "@type": "Organization",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org",
-    "sameAs": "https://github.com/eulogikon"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org"
-  },
-  "size": {
-    "@type": "QuantitativeValue",
-    "unitText": "works",
-    "value": 4055
-  },
-  "variableMeasured": [
-    {
-      "@type": "PropertyValue",
-      "name": "authors",
-      "value": 1353
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "works",
-      "value": 4055
-    }
-  ],
-  "distribution": [
-    {
-      "@type": "DataDownload",
-      "name": "Machine-readable manifest (JSON)",
-      "description": "Full nested index of every author and work with metadata and per-format file paths.",
-      "encodingFormat": "application/json",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Manifest (CSV)",
-      "description": "One row per work; convenient for spreadsheet and grep workflows.",
-      "encodingFormat": "text/csv",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Compact author index (JSON)",
-      "description": "Compact one-row-per-author index, sized for LLM context windows.",
-      "encodingFormat": "application/json",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Compact work index (CSV)",
-      "description": "Compact one-row-per-work index, sized for LLM context windows.",
-      "encodingFormat": "text/csv",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Manifest (Markdown)",
-      "description": "Human-readable index grouped by domain and affiliation, with a full author and work listing.",
-      "encodingFormat": "text/markdown",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/MANIFEST.md"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "LLM entry point",
-      "description": "llms.txt entry point and lookup guide for AI assistants.",
-      "encodingFormat": "text/plain",
-      "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Zenodo archival snapshot",
-      "description": "Versioned archival distribution with DOI.",
-      "encodingFormat": "application/zip",
-      "contentUrl": "https://zenodo.org/records/20335421"
-    },
-    {
-      "@type": "DataDownload",
-      "name": "Hugging Face dataset",
-      "description": "Parquet distribution for machine learning and data processing workflows.",
-      "encodingFormat": "application/x-parquet",
-      "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-    }
-  ],
-  "citation": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/CITATION.cff",
-  "includedInDataCatalog": {
-    "@type": "DataCatalog",
-    "name": "Eulogikon",
-    "url": "https://eulogikon.org"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://eulogikon.org/#organization",
-      "name": "Eulogikon",
-      "url": "https://eulogikon.org",
-      "description": "Eulogikon 是一座专注于古希腊文学的数字图书馆。它对希腊文学遗产——自荷马至古代晚期——加以甄选、整理并免费发布：既以 eulogikon.org 作为阅读与检索平台，也以这座开放、可引用的数据仓库呈现。所有内容均释放至公共领域，学者、学生、开发者与 AI 系统皆可不受限制地加以使用。",
-      "sameAs": [
-        "https://github.com/eulogikon",
-        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
-      ]
-    },
-    {
-      "@type": "CollectionPage",
-      "@id": "https://eulogikon.github.io/ancient-greek-texts/zh/#webpage",
-      "url": "https://eulogikon.github.io/ancient-greek-texts/zh/",
-      "name": "古希腊文献：Eulogikon 收录 1,353 位作者、4,055 部作品的公共领域语料库",
-      "description": "Eulogikon 收藏的古希腊文学公共领域档案：1,353 位作者、4,055 部作品，自荷马至古代晚期，提供 PDF、Markdown 和纯文本格式。",
-      "inLanguage": "zh-Hans",
-      "isPartOf": {
-        "@type": "WebSite",
-        "name": "Eulogikon",
-        "url": "https://eulogikon.org"
-      },
-      "about": {
-        "@id": "https://github.com/eulogikon/ancient-greek-texts"
-      },
-      "publisher": {
-        "@id": "https://eulogikon.org/#organization"
-      },
-      "primaryImageOfPage": "https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png"
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://eulogikon.github.io/ancient-greek-texts/zh/#faq",
-      "inLanguage": "zh-Hans",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Eulogikon 古希腊文献语料库是什么？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "这是一座开放、属于公共领域的古希腊文学档案——涵盖 1,353 位作者、4,055 部作品，自荷马至古代晚期——以 PDF、Markdown 和纯文本文件形式发布，并附有机器可读的索引。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Eulogikon 是什么？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Eulogikon 是一座古希腊文学的数字图书馆。它在 eulogikon.org 维护着阅读与检索平台，并以这座开放数据仓库的形式发布本语料库。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "本语料库包含哪些内容？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "涵盖古希腊存世的写作：前苏格拉底残篇、阿提卡史家、柏拉图对话、亚里士多德论著、希腊化时期诗歌、斯多葛与伊壁鸠鲁文献、医学作家、数学家、地理学家、演说家、剧作家以及古代晚期的哲学家——均以规范的 Unicode 希腊文呈现，并一并收录存世残篇。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "这些文本采用何种许可？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "古希腊文本采用 Public Domain Mark 1.0（公共领域标记），Eulogikon 的元数据与配套结构则以 CC0 1.0 发布。您可出于任何目的阅读、复制、再发布本语料库，并在其基础上进行创作。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "我可以用本语料库训练 AI 模型吗？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "可以。明确允许用于 AI 训练、微调、评测与检索，不设选择退出机制，亦无署名要求。我们还提供了面向 AI 助手的 llms.txt 入口。"
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "如何引用本语料库？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "请以 DOI 引用，或使用仓库中的 CITATION.cff 文件。本页的引用部分提供了可直接使用的引用条目。"
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
+
 </head>
 <body>
-<a class="skip-link" href="#main">跳到正文</a>
+<a class="skip-link" href="#main">Skip to content</a>
 
 <nav class="navbar">
   <div class="navbar-content">
-    <button class="hamburger-menu-toggle" onclick="toggleHamburgerMenu()" aria-label="导航" aria-expanded="false" aria-controls="hamburger-menu-panel">
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-      <span class="hamburger-line"></span>
-    </button>
-    <a href="https://eulogikon.org" class="home-link">Eulogikon</a>
-    <div class="navbar-subtitle">古希腊文献</div>
+    <a href="https://eulogikon.github.io/ancient-greek-texts/" class="home-link">Eulogikon</a>
+    <div class="navbar-subtitle">Ancient Greek Texts — public-domain corpus</div>
     <div class="nav-tabs desktop-only">
-      <a href="https://eulogikon.org/" class="nav-tab">首页</a>
-      <a href="https://eulogikon.org/index_alphabetic" class="nav-tab">作者</a>
-      <a href="https://eulogikon.org/affiliations" class="nav-tab">学派</a>
-      <a href="https://eulogikon.org/domains" class="nav-tab">领域</a>
-      <a href="https://eulogikon.org/periods" class="nav-tab">时期</a>
-      <a href="https://eulogikon.org/contact" class="nav-tab">联系</a>
-    </div>
-
-    <div class="hamburger-menu-overlay" onclick="toggleHamburgerMenu()"></div>
-    <div class="hamburger-menu-panel" id="hamburger-menu-panel" role="navigation" aria-label="导航">
-      <div class="menu-section">
-        <h3 class="menu-section-title">导航</h3>
-        <a href="https://eulogikon.org/" class="menu-link">首页</a>
-        <a href="https://eulogikon.org/index_alphabetic" class="menu-link">作者</a>
-        <a href="https://eulogikon.org/affiliations" class="menu-link">学派</a>
-        <a href="https://eulogikon.org/domains" class="menu-link">领域</a>
-        <a href="https://eulogikon.org/periods" class="menu-link">时期</a>
-        <a href="https://eulogikon.org/contact" class="menu-link">联系</a>
-      </div>
-      <div class="menu-section">
-        <h3 class="menu-section-title">其他语言</h3>
-        <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans" aria-current="page">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
-    </ul>
-      </div>
+      <a href="https://eulogikon.github.io/ancient-greek-texts/" class="nav-tab">Home</a>
+      <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/" class="nav-tab">Catalog</a>
+      <a href="https://eulogikon.org" class="nav-tab">Reading site</a>
     </div>
   </div>
 </nav>
 
 <div class="lang-bar">
-  <nav class="lang-switcher" aria-label="选择语言">
+  <nav class="lang-switcher" aria-label="Languages">
     <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans" aria-current="page">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/" hreflang="en" lang="en">English</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/zh/" hreflang="zh-Hans" lang="zh-Hans" aria-current="page">中文</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/es/" hreflang="es" lang="es">Español</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/fr/" hreflang="fr" lang="fr">Français</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/de/" hreflang="de" lang="de">Deutsch</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/ja/" hreflang="ja" lang="ja">日本語</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/pt/" hreflang="pt" lang="pt">Português</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/ru/" hreflang="ru" lang="ru">Русский</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/it/" hreflang="it" lang="it">Italiano</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+      <li><a href="https://eulogikon.github.io/ancient-greek-texts/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
     </ul>
   </nav>
 </div>
@@ -346,159 +80,64 @@
 <div class="container">
   <div class="content-wrapper">
     <main id="main">
-      <section class="hero">
-        <h1>古希腊文献</h1>
-        <p class="tagline">古希腊存世的文学作品，自荷马至古代晚期——一座开放、属于公共领域的语料库，以规范的 Unicode 希腊文呈现。</p>
-        <p class="stats">
-          <span class="stat"><strong>1,353</strong> 位作者</span>
-          <span class="dot" aria-hidden="true">·</span>
-          <span class="stat"><strong>4,055</strong> 部作品</span>
-        </p>
-        <p class="badge">公共领域</p>
-        <p class="lead">这里是 Eulogikon 的开放数据仓库——一座古希腊文学的数字图书馆。阅读、检索与浏览功能位于 eulogikon.org；本仓库即档案本身，每一篇文本都是可下载的文件。无需登录，免费使用，绝无付费墙。</p>
-      </section>
+      
+<section class="hero">
+  <h1>Ancient Greek Texts — public-domain corpus</h1>
+  <p class="tagline">A public-domain digital library of ancient Greek literature.</p>
+  <p class="stats">
+    <span class="stat"><strong>1,353</strong> authors</span>
+    <span aria-hidden="true">·</span>
+    <span class="stat"><strong>4,055</strong> works</span>
+  </p>
+  <p class="badge">Public Domain Mark 1.0</p>
+  <p class="lead">The surviving literary works of ancient Greece, cleaned and structured for readers, researchers, and machine learning.</p>
+</section>
 
-      <section>
-        <h2>关于 Eulogikon</h2>
-        <p>Eulogikon 是一座专注于古希腊文学的数字图书馆。它对希腊文学遗产——自荷马至古代晚期——加以甄选、整理并免费发布：既以 eulogikon.org 作为阅读与检索平台，也以这座开放、可引用的数据仓库呈现。所有内容均释放至公共领域，学者、学生、开发者与 AI 系统皆可不受限制地加以使用。</p>
-      </section>
+<section>
+  <h2>Catalog</h2>
+  <p>Browse the corpus by author, domain, period, or school.</p>
+  <div class="browse-grid">
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/zh/">
+      <strong>Browse by author</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/zh/domains/">
+      <strong>Browse by domain</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/zh/periods/">
+      <strong>Browse by period</strong>
+    </a>
+    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/catalog/zh/affiliations/">
+      <strong>Browse by affiliation</strong>
+    </a>
+  </div>
+</section>
 
-      <section>
-        <h2>关于本语料库</h2>
-        <p>本语料库涵盖古希腊写作的完整脉络：前苏格拉底残篇、阿提卡史家、柏拉图对话、亚里士多德论著、希腊化时期诗歌、斯多葛与伊壁鸠鲁文献、医学作家、数学家、地理学家、演说家、剧作家以及古代晚期的哲学家。凡仅存残篇者，残篇亦一并收录。</p>
-        <p>每部作品均以三种格式发布——PDF、Markdown 和纯文本。Markdown 文件提供最完整的阅读形式，保留规范的 Unicode 希腊文及其结构。</p>
-      </section>
+<section>
+  <h2>Download formats</h2>
+  <p>Every work is available in three formats:</p>
+  <ul>
+    <li>PDF</li>
+    <li>Markdown</li>
+    <li>Plain text</li>
+  </ul>
+</section>
 
-      <section>
-        <h2>本仓库的组织方式</h2>
-        <p>每个文件都按可预测的规则命名，并存放于扁平的目录中。请勿通过爬取文本目录来了解其内容——应使用索引文件，其中列出了每一位作者和每一部作品。</p>
+<section>
+  <h2>Dataset</h2>
+  <p>The corpus is released as a structured dataset with machine-readable manifests.</p>
+  <ul>
+    <li><a href="https://github.com/eulogikon/ancient-greek-texts">GitHub repository</a></li>
+    <li><a href="https://doi.org/10.5281/zenodo.20335421">Zenodo / DOI</a></li>
+    <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">Hugging Face dataset</a></li>
+  </ul>
+</section>
 
-        <h3>目录</h3>
-        <div class="table-wrap">
-          <table>
-            <thead><tr><th scope="col">路径</th><th scope="col">内容</th></tr></thead>
-            <tbody>
-              <tr><td><code lang="en">grc/</code></td><td>希腊文原典——每部作品一个文件（PDF、Markdown、纯文本）。</td></tr>
-              <tr><td><code lang="en">en/</code></td><td>英文作者页——生平、年代、方言、领域与学派归属。</td></tr>
-              <tr><td><code lang="en">domains/</code></td><td>按主题领域（哲学、历史、戏剧……）分组的文本，PDF 格式。</td></tr>
-              <tr><td><code lang="en">affiliations/</code></td><td>按哲学学派（斯多葛、柏拉图派……）分组的文本，PDF 格式。</td></tr>
-            </tbody>
-          </table>
-        </div>
-
-        <h3>索引与元数据——从这里开始</h3>
-        <div class="table-wrap">
-          <table>
-            <thead><tr><th scope="col">路径</th><th scope="col">内容</th></tr></thead>
-            <tbody>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/llms.txt"><code>llms.txt</code></a></td><td>面向 AI 助手的精选入口；指向各个精简查询文件。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.authors.json"><code>manifest.authors.json</code></a></td><td>每一位作者的精简索引。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.works.min.csv"><code>manifest.works.min.csv</code></a></td><td>每一部作品的精简索引（每行一条，便于 grep 检索）。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/MANIFEST.md"><code>MANIFEST.md</code></a></td><td>按领域与学派分组、便于人工阅读的全部作者与作品索引。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.json"><code>manifest.json</code></a></td><td>完整的机器可读清单。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/manifest.csv"><code>manifest.csv</code></a></td><td>以每部作品一行形式呈现的清单，含文件路径。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/dataset.jsonld"><code>dataset.jsonld</code></a></td><td>供 Google 数据集搜索使用的 schema.org 元数据。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/CITATION.cff"><code>CITATION.cff</code></a></td><td>引用元数据（CFF）。</td></tr>
-              <tr><td><a lang="en" href="https://github.com/eulogikon/ancient-greek-texts/blob/main/README.md"><code>README.md</code></a></td><td>完整的概览与使用指南。</td></tr>
-            </tbody>
-          </table>
-        </div>
-
-        <p class="naming"><strong>文件命名.</strong> 文件名将便于阅读的显示字符串与稳定的标识符组合在一起。作品文件为 {work}-{eul_wid}（例如 plato-republic-ffk-ag）；作者文件为 {author}-{eul_aid}（例如 plato-ffk）。显示字符串只为便利；标识符（eul_wid / eul_aid）才是引用文本的稳定句柄。两者均可通过清单文件解析。</p>
-      </section>
-
-      <section>
-        <h2>获取数据</h2>
-        <p>在线阅读、克隆整个语料库，或获取归档版本与机器学习发行版。</p>
-        <ul class="links">
-          <li><a href="https://eulogikon.org">
-            <span class="link-title">在线阅读</span>
-            <span class="link-desc">提供全文检索，并可按作者、年代、领域与学派浏览。</span></a></li>
-          <li><a href="https://github.com/eulogikon/ancient-greek-texts">
-            <span class="link-title">GitHub 仓库</span>
-            <span class="link-desc">克隆或下载全部文件，无需构建步骤。</span></a></li>
-          <li><a href="https://zenodo.org/records/20335421">
-            <span class="link-title">Zenodo 归档</span>
-            <span class="link-desc">带 DOI、可引用、带版本的归档快照。</span></a></li>
-          <li><a href="https://huggingface.co/datasets/eulogikon/ancient-greek-texts">
-            <span class="link-title">Hugging Face</span>
-            <span class="link-desc">以 Parquet 格式提供的数据集，适用于机器学习流程。</span></a></li>
-        </ul>
-      </section>
-
-      <section>
-        <h2>常见问题</h2>
-        <dl class="faq">
-          <dt>Eulogikon 古希腊文献语料库是什么？</dt>
-          <dd>这是一座开放、属于公共领域的古希腊文学档案——涵盖 1,353 位作者、4,055 部作品，自荷马至古代晚期——以 PDF、Markdown 和纯文本文件形式发布，并附有机器可读的索引。</dd>
-          <dt>Eulogikon 是什么？</dt>
-          <dd>Eulogikon 是一座古希腊文学的数字图书馆。它在 eulogikon.org 维护着阅读与检索平台，并以这座开放数据仓库的形式发布本语料库。</dd>
-          <dt>本语料库包含哪些内容？</dt>
-          <dd>涵盖古希腊存世的写作：前苏格拉底残篇、阿提卡史家、柏拉图对话、亚里士多德论著、希腊化时期诗歌、斯多葛与伊壁鸠鲁文献、医学作家、数学家、地理学家、演说家、剧作家以及古代晚期的哲学家——均以规范的 Unicode 希腊文呈现，并一并收录存世残篇。</dd>
-          <dt>这些文本采用何种许可？</dt>
-          <dd>古希腊文本采用 Public Domain Mark 1.0（公共领域标记），Eulogikon 的元数据与配套结构则以 CC0 1.0 发布。您可出于任何目的阅读、复制、再发布本语料库，并在其基础上进行创作。</dd>
-          <dt>我可以用本语料库训练 AI 模型吗？</dt>
-          <dd>可以。明确允许用于 AI 训练、微调、评测与检索，不设选择退出机制，亦无署名要求。我们还提供了面向 AI 助手的 llms.txt 入口。</dd>
-          <dt>如何引用本语料库？</dt>
-          <dd>请以 DOI 引用，或使用仓库中的 CITATION.cff 文件。本页的引用部分提供了可直接使用的引用条目。</dd>
-        </dl>
-      </section>
-
-      <section>
-        <h2>如何引用</h2>
-        <p>请以 DOI 引用本语料库，或使用仓库中的 CITATION.cff 文件。</p>
-        <p class="doi">DOI: <a lang="en" href="https://doi.org/10.5281/zenodo.20335421">10.5281/zenodo.20335421</a></p>
-        <pre class="citation" lang="en">Eulogikon (2026). Eulogikon: Ancient Greek Texts Corpus (v2026.06.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20335421</pre>
-      </section>
-
-      <section>
-        <h2>许可</h2>
-        <p>古希腊文本：Public Domain Mark 1.0（公共领域标记）。Eulogikon 的元数据与配套结构：CC0 1.0。明确允许用于 AI 训练、微调、评测与检索，不设选择退出机制，亦无署名要求。</p>
-      </section>
     </main>
+
+    <footer class="site-footer">
+      <p>Public-domain texts from Homer to late antiquity. Generated by Eulogikon.</p>
+    </footer>
   </div>
 </div>
-
-<footer class="site-footer">
-  <p class="footer-tagline"><strong>Eulogikon</strong> — 开放数据仓库。</p>
-  <p class="footer-meta">公共领域语料库 · 自荷马至古代晚期</p>
-  <nav class="footer-langs" aria-label="其他语言">
-    <span class="footer-langs-label">其他语言:</span>
-    <ul class="lang-list">
-      <li><a href="../" hreflang="en" lang="en">English</a></li>
-      <li><a href="../zh/" hreflang="zh-Hans" lang="zh-Hans" aria-current="page">中文</a></li>
-      <li><a href="../hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
-      <li><a href="../es/" hreflang="es" lang="es">Español</a></li>
-      <li><a href="../fr/" hreflang="fr" lang="fr">Français</a></li>
-      <li><a href="../de/" hreflang="de" lang="de">Deutsch</a></li>
-      <li><a href="../ja/" hreflang="ja" lang="ja">日本語</a></li>
-      <li><a href="../pt/" hreflang="pt" lang="pt">Português</a></li>
-      <li><a href="../ru/" hreflang="ru" lang="ru">Русский</a></li>
-      <li><a href="../it/" hreflang="it" lang="it">Italiano</a></li>
-      <li><a href="../el/" hreflang="el" lang="el">Ελληνικά</a></li>
-      <li><a href="../tr/" hreflang="tr" lang="tr">Türkçe</a></li>
-    </ul>
-  </nav>
-</footer>
-
-<script>
-  function toggleHamburgerMenu() {
-    const toggle = document.querySelector('.hamburger-menu-toggle');
-    const panel = document.querySelector('.hamburger-menu-panel');
-    const overlay = document.querySelector('.hamburger-menu-overlay');
-    if (!toggle || !panel || !overlay) return;
-    const isOpen = panel.classList.contains('open');
-    toggle.classList.toggle('active');
-    panel.classList.toggle('open');
-    overlay.classList.toggle('visible');
-    toggle.setAttribute('aria-expanded', String(!isOpen));
-    document.body.style.overflow = isOpen ? '' : 'hidden';
-  }
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && document.querySelector('.hamburger-menu-panel.open')) {
-      toggleHamburgerMenu();
-    }
-  });
-</script>
 </body>
 </html>
