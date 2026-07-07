@@ -15,6 +15,12 @@ tags:
 
 # Ancient Greek Texts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20335421.svg)](https://doi.org/10.5281/zenodo.20335421)
+[![License: Public Domain Mark 1.0](https://img.shields.io/badge/License-Public%20Domain%20Mark%201.0-brightgreen.svg)](https://creativecommons.org/publicdomain/mark/1.0/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-yellow)](https://huggingface.co/datasets/eulogikon/ancient-greek-texts)
+[![Website](https://img.shields.io/badge/read-eulogikon.org-1f6feb)](https://eulogikon.org)
+[![Catalog](https://img.shields.io/badge/browse-catalog-8250df)](https://eulogikon.github.io/ancient-greek-texts/)
+
 The surviving literary works of ancient Greece — 1,353 authors and 4,055 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
@@ -218,6 +224,7 @@ Corrections and issues with scaffolding, metadata structure, or file naming can 
 | | |
 |---|---|
 | Reading site | [eulogikon.org](https://eulogikon.org) |
+| Browse catalog | [eulogikon.github.io/ancient-greek-texts](https://eulogikon.github.io/ancient-greek-texts/) |
 | Organisation | [github.com/eulogikon](https://github.com/eulogikon) |
 | GitHub data store | [github.com/eulogikon/ancient-greek-texts](https://github.com/eulogikon/ancient-greek-texts) |
 | Zenodo archive | [zenodo.org/records/20335421](https://zenodo.org/records/20335421) |

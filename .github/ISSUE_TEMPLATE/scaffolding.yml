@@ -1,0 +1,47 @@
+name: Scaffolding / metadata issue
+description: Report a problem with file naming, manifests, indexes, the docs site, or repo structure — NOT the text content itself.
+labels: ["scaffolding"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Use this for issues with the **scaffolding** around the corpus: manifest
+        files, indexes, filenames, identifiers, the catalog/Pages site, or the
+        docs. Corrections to the **Greek text or author metadata** are handled
+        upstream at [eulogikon.org](https://eulogikon.org) — please report those
+        there instead.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which area?
+      options:
+        - manifest.json / manifest.csv
+        - manifest.authors.json / manifest.works.min.csv
+        - MANIFEST.md
+        - llms.txt
+        - dataset.jsonld / CITATION.cff
+        - File naming / identifiers (eul_aid / eul_wid)
+        - Catalog / GitHub Pages site
+        - README or other docs
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: Affected file or URL
+      placeholder: e.g. manifest.works.min.csv, or grc/plato-republic-ffk-ag.grc.md
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      description: Describe the problem and, if you can, the expected result.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is a scaffolding/metadata issue, not a correction to the Greek text or translation.
+          required: true

@@ -1,1 +1,22 @@
+# PDFs are binary
 *.pdf binary
+
+# ---------------------------------------------------------------------------
+# GitHub Linguist: this is a public-domain text corpus, not a code project.
+# Exclude generated corpus, indexes, and the docs/catalog site from language
+# stats so the repo isn't misreported (e.g. as "Shell").
+# ---------------------------------------------------------------------------
+
+grc/**            linguist-documentation
+en/**             linguist-documentation
+domains/**        linguist-generated
+affiliations/**   linguist-generated
+docs/**           linguist-vendored
+
+manifest.json          linguist-generated
+manifest.csv           linguist-generated
+manifest.authors.json  linguist-generated
+manifest.works.min.csv linguist-generated
+MANIFEST.md            linguist-generated
+dataset.jsonld         linguist-generated
+llms.txt               linguist-documentation

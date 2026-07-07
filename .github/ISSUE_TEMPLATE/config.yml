@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Text or translation correction
+    url: https://eulogikon.org
+    about: >-
+      The Greek texts and author metadata in this repository are generated
+      upstream. Corrections to the text itself are fixed at eulogikon.org and
+      flow back here automatically — please report them there, not as an issue.
+  - name: Questions & dataset use
+    url: https://github.com/eulogikon/ancient-greek-texts/discussions
+    about: >-
+      Ask how to use the dataset, share a project, or start a general
+      discussion. (Requires Discussions to be enabled on the repo.)
