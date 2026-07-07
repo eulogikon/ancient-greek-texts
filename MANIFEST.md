@@ -2868,7 +2868,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 
 ## Full author + work listing
 
-Each entry below shows the author's display string and Eulogikon author ID (`eul_aid`), followed by every work with its Eulogikon work ID (`eul_wid`) and links to the Greek text in each published format (`.pdf`, `.md`, `.txt`), all sharing the same stem.
+Each entry below shows the author's display string and Eulogikon author ID (`eul_aid`), followed by every work with its Eulogikon work ID (`eul_wid`) and links to the Greek text in each published format (`.pdf`, `.md`, `.txt`), all sharing the same file name.
 
 ### Abydenus the Historian — `abydenus-the-historian` [`jlu`]
 _Ἀβυδηνὸς ὁ ἱστορικός · Hellenistic · Ionic (frg) · History_
