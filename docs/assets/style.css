@@ -371,6 +371,35 @@ code {
 .footer-langs .lang-list a:hover { opacity: 1; text-decoration: underline; }
 .footer-langs .lang-list [aria-current="page"] { color: #fff; opacity: 1; }
 
+/* ---------- Catalog browse cards (pilot landing pages) ---------- */
+.browse-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.browse-card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--hairline-2);
+  border-radius: 8px;
+  padding: 1.25rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.browse-card:hover {
+  border-color: var(--gold);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+.browse-card strong {
+  display: block;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: var(--gold-dark);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
   .home-link { font-size: 2.5em; }
