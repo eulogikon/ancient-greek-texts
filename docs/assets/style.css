@@ -236,6 +236,8 @@ main section:first-child { margin-top: 0; }
 .tagline {
   color: var(--muted);
   font-size: 1.12em;
+  line-height: 1.55;
+  min-height: calc(1.12em * 1.55);
   max-width: 38rem;
   margin: 0 auto 1.1rem;
 }
