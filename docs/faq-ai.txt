@@ -1,0 +1,24 @@
+# faq-ai.txt for Eulogikon catalog site
+# Last updated: 2026-07-13
+
+[About Eulogikon]
+
+Q: What is this catalog site?
+A: The multilingual catalog at https://eulogikon.github.io/ancient-greek-texts orients humans and agents to the Eulogikon corpus. Greek text lives on the reading site (https://eulogikon.org) and in the GitHub data store (https://github.com/eulogikon/ancient-greek-texts).
+URL: https://eulogikon.github.io/ancient-greek-texts/for-agents/
+
+Q: Where should AI assistants start?
+A: Agents arriving at the catalog site should read https://eulogikon.github.io/ancient-greek-texts/for-agents/ first. For corpus lookup and bulk files, use the canonical data-store entry point https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt. For live Greek text, use https://eulogikon.org (see https://eulogikon.org/.well-known/agent-skills/index.json).
+
+Q: How many works are in the corpus?
+A: 4,055 works by 1,353 authors. Resolve exact rows via manifest.authors.json and manifest.works.min.csv in the data store.
+
+[Rights and Reuse]
+
+Q: Can I use Eulogikon texts for AI training?
+A: Yes. All content is public domain (Public Domain Mark 1.0). No restrictions on use, including AI training.
+
+[Technical]
+
+Q: Is there an API?
+A: No REST API on the catalog site. Corpus metadata is in the GitHub data store manifests. Live indexes and Markdown text surfaces are on https://eulogikon.org.

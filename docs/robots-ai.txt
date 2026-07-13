@@ -1,0 +1,38 @@
+# robots-ai.txt — AI-specific crawl guidance for Eulogikon catalog site
+
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 5
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 5
+
+User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 5
+
+Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml
+
+Discovery: https://eulogikon.github.io/ancient-greek-texts/for-agents/
+Discovery: https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt
+Discovery: https://eulogikon.org/llms-full.txt
+Discovery: https://eulogikon.github.io/ancient-greek-texts/ai.txt
+Discovery: https://eulogikon.github.io/ancient-greek-texts/ai.json
+Discovery: https://eulogikon.org/.well-known/agent-skills/index.json

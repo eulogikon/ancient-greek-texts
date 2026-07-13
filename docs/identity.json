@@ -1,0 +1,33 @@
+{
+    "$schema": "https://www.ai-visibility.org.uk/specifications/identity-json/v1/identity-json.schema.json",
+    "name": "Eulogikon",
+    "type": "Organization",
+    "url": "https://eulogikon.github.io/ancient-greek-texts",
+    "description": "Eulogikon catalog site for a public-domain corpus of ancient Greek texts — 1,353 authors and 4,055 works — with links to the reading site and downloadable data store.",
+    "alternateNames": [
+        "EuLogikon"
+    ],
+    "logo": "https://eulogikon.github.io/ancient-greek-texts/assets/favicon.svg",
+    "sameAs": [
+        "https://eulogikon.org",
+        "https://github.com/eulogikon/ancient-greek-texts",
+        "https://doi.org/10.5281/zenodo.20418549"
+    ],
+    "contactPoints": [
+        {
+            "contactType": "general enquiries",
+            "url": "https://eulogikon.org/contact"
+        }
+    ],
+    "knowsAbout": [
+        "Ancient Greek literature",
+        "Classical studies",
+        "Digital humanities",
+        "Public domain texts"
+    ],
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "metadata": {
+        "version": "1.0",
+        "lastUpdated": "2026-07-13"
+    }
+}

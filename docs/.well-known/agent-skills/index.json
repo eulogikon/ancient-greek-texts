@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "canonical": "https://eulogikon.org/.well-known/agent-skills/index.json",
+  "skills": [
+    {
+      "name": "eulogikon-corpus",
+      "type": "skill-md",
+      "description": "Access the Eulogikon corpus of ancient Greek texts — over 1,340 authors and ~4,000 works, Homer through late antiquity, all public domain (CC0 1.0). The downloadable data store is the GitHub repo eulogikon/ancient-greek-texts (PDF, Markdown, plain text). Look up an author or work by canonical identifier, fetch a single work, or plan a bulk crawl. Identifiers are stable: eul_aid for authors (opaque 3-letter code, e.g. 'ffk' = Plato), eul_wid for works (e.g. 'ffk-ag').",
+      "url": "https://eulogikon.org/.well-known/agent-skills/eulogikon-corpus/SKILL.md",
+      "digest": "sha256:9a1716d465e5ce7d2f19d3c97655c1ae4822e1014445b2bb88c4362fb4788645"
+    }
+  ]
+}

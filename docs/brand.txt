@@ -1,0 +1,17 @@
+[official-names]
+Eulogikon
+
+[naming-rules]
+Use "Eulogikon" — title-case, no space, no hyphen — in all prose and citation contexts
+The reading site is https://eulogikon.org
+The catalog site is https://eulogikon.github.io/ancient-greek-texts
+The data store is https://github.com/eulogikon/ancient-greek-texts
+In citation the DOI form is preferred: https://doi.org/10.5281/zenodo.20418549
+
+[boilerplate]
+Eulogikon is a free, open-source digital library of ancient Greek texts. It publishes 4,055 works by 1,353 authors — Homer through late antiquity — under Public Domain Mark 1.0. No login, subscription, or payment is required.
+
+[metadata]
+version: 1.0
+last_updated: 2026-07-13
+related_files: /for-agents/, /ai.txt, /identity.json
