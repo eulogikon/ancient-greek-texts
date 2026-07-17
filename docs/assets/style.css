@@ -425,43 +425,42 @@ pre code { font-size: 0.9em; }
   color: var(--gold-dark);
 }
 
+/* ---------- HTML sitemap ---------- */
+.sitemap-list {
+  columns: 2 18rem;
+  column-gap: 2.5rem;
+  padding-left: 1.25rem;
+}
+.sitemap-list li {
+  break-inside: avoid;
+  margin-bottom: 0.45rem;
+}
+
 /* ---------- Hero call-to-action ---------- */
 .hero-cta {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
   justify-content: center;
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
 }
-.btn {
+.hero-cta .btn {
   display: inline-block;
   padding: 0.75rem 1.35rem;
   border-radius: 8px;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
-}
-.btn-primary {
   background: var(--gold-dark);
   color: #fff;
   border: 1px solid var(--gold-dark);
+  transition: background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
 }
-.btn-primary:hover {
+.hero-cta .btn:hover {
   background: var(--gold);
   border-color: var(--gold);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   text-decoration: none;
   color: #fff;
-}
-.btn-secondary {
-  background: var(--card);
-  color: var(--ink);
-  border: 1px solid var(--hairline-2);
-}
-.btn-secondary:hover {
-  border-color: var(--gold);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
-  text-decoration: none;
 }
 
 /* ---------- Link cards ---------- */
@@ -491,10 +490,6 @@ pre code { font-size: 0.9em; }
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   transform: translateY(-1px);
   text-decoration: none;
-}
-.links-primary a {
-  border-color: var(--gold);
-  background: linear-gradient(180deg, #fffdf8 0%, var(--card) 100%);
 }
 .link-title {
   display: block;
