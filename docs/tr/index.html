@@ -31,6 +31,17 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Eulogikon — Eski Yunanca metinler: 1.353 yazar ve 4.055 eserden oluşan kamu malı bir derlem.">
 <meta property="og:locale" content="tr">
+<meta property="og:locale:alternate" content="en">
+<meta property="og:locale:alternate" content="zh_Hans">
+<meta property="og:locale:alternate" content="hi">
+<meta property="og:locale:alternate" content="es">
+<meta property="og:locale:alternate" content="fr">
+<meta property="og:locale:alternate" content="de">
+<meta property="og:locale:alternate" content="ja">
+<meta property="og:locale:alternate" content="pt">
+<meta property="og:locale:alternate" content="ru">
+<meta property="og:locale:alternate" content="it">
+<meta property="og:locale:alternate" content="el">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta name="twitter:image:alt" content="Eulogikon — Eski Yunanca metinler: 1.353 yazar ve 4.055 eserden oluşan kamu malı bir derlem.">
@@ -41,48 +52,97 @@
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- Preload the critical Source Sans Pro subset for this language's hero text. -->
 
 <link rel="preload" as="font" type="font/woff2" crossorigin
       href="https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lujVj9_mf.woff2">
 
-<!-- Always preload Latin 400 for navigation and fallback body text. -->
 <link rel="preload" as="font" type="font/woff2" crossorigin
       href="https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
 
 <link rel="stylesheet" href="../assets/style.css">
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@context": "https://schema.org",
-      "@type": "WebSite",
       "@id": "https://eulogikon.github.io/ancient-greek-texts/#website",
+      "@type": "WebSite",
+      "alternateName": "Eski Yunanca Metinler",
+      "inLanguage": "tr",
       "name": "Eulogikon",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
       "url": "https://eulogikon.github.io/ancient-greek-texts"
     },
     {
       "@context": "https://schema.org",
-      "@type": "Dataset",
       "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
-      "name": "Eski Yunanca Metinler",
-      "description": "Eski Yunan edebiyatının açık, kamu malı bir arşividir — Homeros’tan geç antik çağa uzanan 1.353 yazar ve 4.055 eser; PDF, Markdown ve düz metin dosyaları ile makine tarafından okunabilir dizinler hâlinde yayımlanmıştır.",
-      "url": "https://github.com/eulogikon/ancient-greek-texts",
-      "inLanguage": [
-        "tr",
-        "grc"
+      "@type": "Dataset",
+      "creator": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "description": "Eski Yunan edebiyatının açık, kamu malı arşivi — Homeros’tan geç antik çağa uzanan 1.353 yazar ve 4.055 eser; PDF, Markdown ve düz metin dosyaları ile makine tarafından okunabilir dizinler hâlinde yayımlanmış.",
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
+          "description": "Yapay zekâ yardımcıları için derlenmiş giriş noktası; kompakt arama dosyalarına yönlendirir.",
+          "encodingFormat": "text/plain",
+          "name": "LLM giriş noktası (llms.txt)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+          "description": "Tam makine tarafından okunabilir manifest.",
+          "encodingFormat": "application/json",
+          "name": "Makine tarafından okunabilir manifest (JSON)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://zenodo.org/records/20335421",
+          "encodingFormat": "application/zip",
+          "name": "Zenodo archival snapshot"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts",
+          "encodingFormat": "application/x-parquet",
+          "name": "Hugging Face dataset"
+        }
       ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20335421"
+      },
+      "inLanguage": "grc",
+      "isAccessibleForFree": true,
       "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "name": "Eski Yunanca Metinler",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "sameAs": [
+        "https://eulogikon.org",
+        "https://doi.org/10.5281/zenodo.20335421",
+        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      ],
       "size": {
         "@type": "QuantitativeValue",
         "unitText": "works",
         "value": 4055
       },
+      "url": "https://github.com/eulogikon/ancient-greek-texts",
       "variableMeasured": [
         {
           "@type": "PropertyValue",
@@ -94,44 +154,31 @@
           "name": "works",
           "value": 4055
         }
-      ],
-      "distribution": [
-        {
-          "@type": "DataDownload",
-          "name": "LLM giriş noktası (llms.txt)",
-          "description": "Yapay zekâ yardımcıları için derlenmiş giriş noktası; kompakt arama dosyalarına yönlendirir.",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
-          "encodingFormat": "text/plain"
-        },
-        {
-          "@type": "DataDownload",
-          "name": "Makine tarafından okunabilir manifest (JSON)",
-          "description": "Tam makine tarafından okunabilir manifest.",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
-          "encodingFormat": "application/json"
-        }
       ]
     },
     {
       "@context": "https://schema.org",
-      "@type": "WebPage",
       "@id": "https://eulogikon.github.io/ancient-greek-texts/tr/#webpage",
-      "url": "https://eulogikon.github.io/ancient-greek-texts/tr/",
-      "name": "Eski Yunanca metinler — Eulogikon’un 1.353 yazar ve 4.055 eserden oluşan kamuya açık derlemi",
+      "@type": "WebPage",
+      "about": {
+        "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
+      },
       "description": "Eulogikon’un eski Yunan edebiyatı için kamuya açık arşivi — Homeros’tan geç antik çağa 1.353 yazar ve 4.055 eser; PDF, Markdown ve düz metin biçiminde.",
       "inLanguage": "tr",
+      "isAccessibleForFree": true,
       "isPartOf": {
         "@id": "https://eulogikon.github.io/ancient-greek-texts/#website"
       },
-      "about": {
-        "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
-      }
+      "name": "Eski Yunanca metinler — Eulogikon’un 1.353 yazar ve 4.055 eserden oluşan kamuya açık derlemi",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png"
+      },
+      "url": "https://eulogikon.github.io/ancient-greek-texts/tr/"
     }
   ]
 }
 </script>
-
-
 </head>
 <body>
 <a class="skip-link" href="#main">İçeriğe geç</a>
@@ -140,7 +187,7 @@
   <div class="navbar-content">
     <a href="https://eulogikon.github.io/ancient-greek-texts/tr/" class="home-link">Eulogikon</a>
     <div class="navbar-subtitle">Eski Yunanca Metinler — Kamu malı</div>
-    <div class="nav-tabs desktop-only">
+    <div class="nav-tabs">
       <a href="https://eulogikon.github.io/ancient-greek-texts/tr/" class="nav-tab">Ana sayfa</a>
       
       <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/" class="nav-tab">Yapay zekâ ajanları için</a>
@@ -171,9 +218,8 @@
 <div class="container">
   <div class="content-wrapper">
     <main id="main">
-      
-<section class="hero">
-  <h1>Eski Yunanca Metinler — Kamu malı</h1>
+      <section class="hero">
+  <h1>Eski Yunanca Metinler</h1>
   <p class="tagline">Eski Yunan’ın günümüze ulaşan edebî eserleri — Homeros’tan geç antik çağa, temiz Unicode Yunancasıyla açık ve kamu malı bir derlem.</p>
   <p class="stats">
     <span class="stat"><strong>1.353</strong> yazar</span>
@@ -222,41 +268,37 @@
   </ul>
 </section>
 
-<section>
-  <h2>Catalog</h2>
-  <p>Browse the corpus by author, domain, period, or school.</p>
-  
-</section>
 
-<section>
-  <h2>Download formats</h2>
-  <p>Every work is available in three formats:</p>
-  <ul>
+
+<section class="formats">
+  <h2>İndirme biçimleri</h2>
+  <p>Her eser üç biçimde sunulur:</p>
+  <ul class="format-chips">
     <li>PDF</li>
     <li>Markdown</li>
-    <li>Plain text</li>
+    <li>Düz metin</li>
   </ul>
 </section>
 
     </main>
-
-    <footer class="site-footer">
-      <p>Kamu malı derlem · Homeros’tan geç antik çağa</p>
-      <nav class="footer-links" aria-label="Discovery">
-        <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">Yapay zekâ ajanları için</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Site haritası</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org">Okuma sitesi</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org/contact">İletişim</a>
-      </nav>
-    </footer>
   </div>
 </div>
+
+<footer class="site-footer">
+  <p class="footer-tagline">Kamu malı derlem · Homeros’tan geç antik çağa</p>
+  <nav class="footer-links" aria-label="Alt bilgi gezintisi">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">Yapay zekâ ajanları için</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Site haritası</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org">Okuma sitesi</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org/contact">İletişim</a>
+  </nav>
+</footer>
 </body>
 </html>

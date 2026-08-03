@@ -31,6 +31,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="For AI Agents | Eulogikon">
 <meta property="og:locale" content="en_US">
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta name="twitter:image:alt" content="For AI Agents | Eulogikon">
@@ -41,92 +42,84 @@
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- Preload the critical Source Sans Pro subset for this language's hero text. -->
 
-<!-- Always preload Latin 400 for navigation and fallback body text. -->
 <link rel="preload" as="font" type="font/woff2" crossorigin
       href="https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
-
 <meta name="ai-train" content="yes">
 <link rel="agent-skills" type="application/json" href="https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/index.json">
-
 <link rel="stylesheet" href="../assets/style.css">
-
 <script type="application/ld+json">
 [
   {
     "@context": "https://schema.org",
-    "@type": "WebPage",
     "@id": "https://eulogikon.github.io/ancient-greek-texts/for-agents/#webpage",
-    "name": "For Agents",
-    "url": "https://eulogikon.github.io/ancient-greek-texts/for-agents/",
+    "@type": "WebPage",
     "description": "Eulogikon catalog for AI agents: 1,353 authors and 4,055 ancient Greek works. Pointers to canonical discovery on the reading site and GitHub data store.",
     "inLanguage": [
       "en"
     ],
     "isAccessibleForFree": true,
-    "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "name": "For Agents",
+    "url": "https://eulogikon.github.io/ancient-greek-texts/for-agents/"
   },
   {
     "@context": "https://schema.org",
-    "@type": "DataCatalog",
     "@id": "https://eulogikon.github.io/ancient-greek-texts/#data-catalog",
-    "name": "Eulogikon Ancient Greek Text Catalog",
-    "url": "https://eulogikon.github.io/ancient-greek-texts",
+    "@type": "DataCatalog",
     "dataset": {
       "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
-    }
+    },
+    "name": "Eulogikon Ancient Greek Text Catalog",
+    "url": "https://eulogikon.github.io/ancient-greek-texts"
   },
   {
     "@context": "https://schema.org",
-    "@type": "Dataset",
     "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
-    "name": "Eulogikon Ancient Greek Text Corpus",
-    "url": "https://github.com/eulogikon/ancient-greek-texts",
+    "@type": "Dataset",
     "description": "A free public-domain corpus of 4,055 ancient Greek works by 1,353 authors.",
-    "inLanguage": [
-      "en",
-      "grc"
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
+        "description": "Canonical data-store entry for AI assistants.",
+        "encodingFormat": "text/plain",
+        "name": "LLM entry point (llms.txt)"
+      },
+      {
+        "@type": "DataDownload",
+        "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+        "encodingFormat": "application/json",
+        "name": "Machine-readable manifest (JSON)"
+      },
+      {
+        "@type": "DataDownload",
+        "contentUrl": "https://eulogikon.org/llms-full.txt",
+        "description": "Metadata census on the reading site.",
+        "encodingFormat": "text/plain",
+        "name": "Full corpus census (llms-full.txt)"
+      }
     ],
-    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
     "identifier": {
       "@type": "PropertyValue",
       "propertyID": "DOI",
       "value": "10.5281/zenodo.20335421"
     },
+    "inLanguage": "grc",
+    "isAccessibleForFree": true,
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "name": "Eulogikon Ancient Greek Text Corpus",
     "sameAs": [
       "https://eulogikon.org",
       "https://doi.org/10.5281/zenodo.20335421",
       "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
     ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "name": "LLM entry point (llms.txt)",
-        "description": "Canonical data-store entry for AI assistants.",
-        "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
-        "encodingFormat": "text/plain"
-      },
-      {
-        "@type": "DataDownload",
-        "name": "Machine-readable manifest (JSON)",
-        "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
-        "encodingFormat": "application/json"
-      },
-      {
-        "@type": "DataDownload",
-        "name": "Full corpus census (llms-full.txt)",
-        "description": "Metadata census on the reading site.",
-        "contentUrl": "https://eulogikon.org/llms-full.txt",
-        "encodingFormat": "text/plain"
-      }
-    ]
+    "url": "https://github.com/eulogikon/ancient-greek-texts"
   }
 ]
 </script>
-
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -135,7 +128,7 @@
   <div class="navbar-content">
     <a href="https://eulogikon.github.io/ancient-greek-texts/" class="home-link">Eulogikon</a>
     <div class="navbar-subtitle">Ancient Greek Texts — Public Domain</div>
-    <div class="nav-tabs desktop-only">
+    <div class="nav-tabs">
       <a href="https://eulogikon.github.io/ancient-greek-texts/" class="nav-tab">Home</a>
       
       <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/" class="nav-tab">Catalog</a>
@@ -168,8 +161,7 @@
 <div class="container">
   <div class="content-wrapper">
     <main id="main">
-      
-<section class="hero">
+      <section class="hero">
   <h1>For AI Agents</h1>
   <p class="lead">Orientation for programmatic access to the Eulogikon corpus — 1,353 authors, 4,055 works, all public domain.</p>
 </section>
@@ -238,24 +230,24 @@
 </section>
 
     </main>
-
-    <footer class="site-footer">
-      <p>Public-domain corpus · Homer through late antiquity</p>
-      <nav class="footer-links" aria-label="Discovery">
-        <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">For Agents</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Sitemap</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org">Reading site</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org/contact">Contact</a>
-      </nav>
-    </footer>
   </div>
 </div>
+
+<footer class="site-footer">
+  <p class="footer-tagline">Public-domain corpus · Homer through late antiquity</p>
+  <nav class="footer-links" aria-label="Footer navigation">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">For Agents</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Sitemap</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org">Reading site</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org/contact">Contact</a>
+  </nav>
+</footer>
 </body>
 </html>

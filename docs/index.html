@@ -31,6 +31,17 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1,353 authors and 4,055 works.">
 <meta property="og:locale" content="en">
+<meta property="og:locale:alternate" content="zh_Hans">
+<meta property="og:locale:alternate" content="hi">
+<meta property="og:locale:alternate" content="es">
+<meta property="og:locale:alternate" content="fr">
+<meta property="og:locale:alternate" content="de">
+<meta property="og:locale:alternate" content="ja">
+<meta property="og:locale:alternate" content="pt">
+<meta property="og:locale:alternate" content="ru">
+<meta property="og:locale:alternate" content="it">
+<meta property="og:locale:alternate" content="el">
+<meta property="og:locale:alternate" content="tr">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta name="twitter:image:alt" content="Eulogikon — Ancient Greek Texts: a public-domain corpus of 1,353 authors and 4,055 works.">
@@ -41,45 +52,94 @@
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- Preload the critical Source Sans Pro subset for this language's hero text. -->
 
-<!-- Always preload Latin 400 for navigation and fallback body text. -->
 <link rel="preload" as="font" type="font/woff2" crossorigin
       href="https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"></noscript>
 
 <link rel="stylesheet" href="assets/style.css">
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@context": "https://schema.org",
-      "@type": "WebSite",
       "@id": "https://eulogikon.github.io/ancient-greek-texts/#website",
+      "@type": "WebSite",
+      "alternateName": "Ancient Greek Texts",
+      "inLanguage": "en",
       "name": "Eulogikon",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
       "url": "https://eulogikon.github.io/ancient-greek-texts"
     },
     {
       "@context": "https://schema.org",
-      "@type": "Dataset",
       "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
-      "name": "Ancient Greek Texts",
-      "description": "It is an open, public-domain archive of ancient Greek literature — 1,353 authors and 4,055 works spanning Homer through late antiquity — published as PDF, Markdown, and plain-text files with machine-readable indexes.",
-      "url": "https://github.com/eulogikon/ancient-greek-texts",
-      "inLanguage": [
-        "en",
-        "grc"
+      "@type": "Dataset",
+      "creator": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "description": "Open public-domain archive of ancient Greek literature — 1,353 authors and 4,055 works spanning Homer through late antiquity — published as PDF, Markdown, and plain-text files with machine-readable indexes.",
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
+          "description": "Curated entry point for AI assistants; points to the compact lookup files.",
+          "encodingFormat": "text/plain",
+          "name": "LLM entry point (llms.txt)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+          "description": "Full machine-readable manifest.",
+          "encodingFormat": "application/json",
+          "name": "Machine-readable manifest (JSON)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://zenodo.org/records/20335421",
+          "encodingFormat": "application/zip",
+          "name": "Zenodo archival snapshot"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts",
+          "encodingFormat": "application/x-parquet",
+          "name": "Hugging Face dataset"
+        }
       ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20335421"
+      },
+      "inLanguage": "grc",
+      "isAccessibleForFree": true,
       "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "name": "Ancient Greek Texts",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "sameAs": [
+        "https://eulogikon.org",
+        "https://doi.org/10.5281/zenodo.20335421",
+        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      ],
       "size": {
         "@type": "QuantitativeValue",
         "unitText": "works",
         "value": 4055
       },
+      "url": "https://github.com/eulogikon/ancient-greek-texts",
       "variableMeasured": [
         {
           "@type": "PropertyValue",
@@ -91,44 +151,31 @@
           "name": "works",
           "value": 4055
         }
-      ],
-      "distribution": [
-        {
-          "@type": "DataDownload",
-          "name": "LLM entry point (llms.txt)",
-          "description": "Curated entry point for AI assistants; points to the compact lookup files.",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt",
-          "encodingFormat": "text/plain"
-        },
-        {
-          "@type": "DataDownload",
-          "name": "Machine-readable manifest (JSON)",
-          "description": "Full machine-readable manifest.",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
-          "encodingFormat": "application/json"
-        }
       ]
     },
     {
       "@context": "https://schema.org",
-      "@type": "WebPage",
       "@id": "https://eulogikon.github.io/ancient-greek-texts/#webpage",
-      "url": "https://eulogikon.github.io/ancient-greek-texts/",
-      "name": "Ancient Greek Texts — Eulogikon’s public-domain corpus of 1,353 authors and 4,055 works",
+      "@type": "WebPage",
+      "about": {
+        "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
+      },
       "description": "Eulogikon’s public-domain archive of ancient Greek literature — 1,353 authors and 4,055 works, Homer to late antiquity, as PDF, Markdown, and plain text.",
       "inLanguage": "en",
+      "isAccessibleForFree": true,
       "isPartOf": {
         "@id": "https://eulogikon.github.io/ancient-greek-texts/#website"
       },
-      "about": {
-        "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
-      }
+      "name": "Ancient Greek Texts — Eulogikon’s public-domain corpus of 1,353 authors and 4,055 works",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png"
+      },
+      "url": "https://eulogikon.github.io/ancient-greek-texts/"
     }
   ]
 }
 </script>
-
-
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -137,7 +184,7 @@
   <div class="navbar-content">
     <a href="https://eulogikon.github.io/ancient-greek-texts/" class="home-link">Eulogikon</a>
     <div class="navbar-subtitle">Ancient Greek Texts — Public Domain</div>
-    <div class="nav-tabs desktop-only">
+    <div class="nav-tabs">
       <a href="https://eulogikon.github.io/ancient-greek-texts/" class="nav-tab">Home</a>
       
       <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/" class="nav-tab">Catalog</a>
@@ -170,9 +217,8 @@
 <div class="container">
   <div class="content-wrapper">
     <main id="main">
-      
-<section class="hero">
-  <h1>Ancient Greek Texts — Public Domain</h1>
+      <section class="hero">
+  <h1>Ancient Greek Texts</h1>
   <p class="tagline">The surviving literary works of ancient Greece, Homer through late antiquity — an open, public-domain corpus in clean Unicode Greek.</p>
   <p class="stats">
     <span class="stat"><strong>1,353</strong> authors</span>
@@ -221,16 +267,12 @@
   </ul>
 </section>
 
-<section>
-  <h2>Catalog</h2>
-  <p>Browse the corpus by author, domain, period, or school.</p>
-  
-</section>
 
-<section>
+
+<section class="formats">
   <h2>Download formats</h2>
   <p>Every work is available in three formats:</p>
-  <ul>
+  <ul class="format-chips">
     <li>PDF</li>
     <li>Markdown</li>
     <li>Plain text</li>
@@ -238,24 +280,24 @@
 </section>
 
     </main>
-
-    <footer class="site-footer">
-      <p>Public-domain corpus · Homer through late antiquity</p>
-      <nav class="footer-links" aria-label="Discovery">
-        <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">For Agents</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Sitemap</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org">Reading site</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
-        <span aria-hidden="true">·</span>
-        <a href="https://eulogikon.org/contact">Contact</a>
-      </nav>
-    </footer>
   </div>
 </div>
+
+<footer class="site-footer">
+  <p class="footer-tagline">Public-domain corpus · Homer through late antiquity</p>
+  <nav class="footer-links" aria-label="Footer navigation">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/for-agents/">For Agents</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt">llms.txt</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.github.io/ancient-greek-texts/sitemap.html">Sitemap</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org">Reading site</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://github.com/eulogikon/ancient-greek-texts">GitHub</a>
+    <span aria-hidden="true">·</span>
+    <a href="https://eulogikon.org/contact">Contact</a>
+  </nav>
+</footer>
 </body>
 </html>
