@@ -882,6 +882,94 @@ pre code { font-size: 0.9em; }
   transform: translateY(-1px);
 }
 
+/* ---------- Corpus scale comparison ---------- */
+.corpus-compare .compare-intro {
+  max-width: 42rem;
+  color: var(--dark-2);
+}
+
+.compare-metrics {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 0;
+  display: grid;
+  gap: 1.15rem;
+}
+
+.compare-metric {
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--hairline-2);
+  border-radius: 8px;
+  background: var(--card);
+}
+
+.compare-metric-label {
+  margin: 0 0 0.7rem;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+
+.compare-bars {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.compare-row {
+  display: grid;
+  grid-template-columns: minmax(7rem, 14rem) 1fr auto;
+  align-items: center;
+  gap: 0.5rem 0.9rem;
+}
+
+.compare-row-name {
+  font-size: 0.9em;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.compare-row--ours .compare-row-name {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.compare-track {
+  display: block;
+  height: 0.7rem;
+  border-radius: 999px;
+  background: var(--hairline);
+  overflow: hidden;
+}
+
+.compare-fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--lighter);
+}
+
+.compare-row--ours .compare-fill {
+  background: var(--gold);
+}
+
+.compare-row-value {
+  font-size: 0.95em;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.compare-row--ours .compare-row-value { font-weight: 600; }
+
+.compare-note {
+  margin-top: 1rem;
+  font-size: 0.88em;
+  line-height: 1.5;
+  color: var(--muted);
+  max-width: 42rem;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
   .home-link { font-size: 2.25em; }
@@ -890,4 +978,14 @@ pre code { font-size: 0.9em; }
   .hero h1 { font-size: 1.7em; }
   .lang-list { font-size: 0.82em; gap: 1px 2px; }
   .lang-list a { padding: 2px 6px; }
+}
+
+@media (max-width: 768px) {
+  .compare-row {
+    grid-template-columns: 1fr auto;
+  }
+  .compare-row-name {
+    grid-column: 1 / -1;
+    margin-bottom: -0.2rem;
+  }
 }
