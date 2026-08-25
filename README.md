@@ -21,7 +21,7 @@ tags:
 [![Website](https://img.shields.io/badge/read-eulogikon.org-1f6feb)](https://eulogikon.org)
 [![Catalog](https://img.shields.io/badge/browse-catalog-8250df)](https://eulogikon.github.io/ancient-greek-texts/)
 
-The surviving literary works of ancient Greece — 1,353 authors and 4,055 works, spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
+The surviving literary works of ancient Greece — 1,353 authors and 4,055 works (≈47 million words), spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek.
 
 This is the data store for [Eulogikon](https://eulogikon.org): the reading site, search, and browse experience live there. This repository holds the corpus as downloadable files.
 
@@ -31,9 +31,9 @@ No logins. No fees. No paywalls. Public Domain Mark 1.0.
 
 ## What's here
 
-**1,353 authors · 4,055 works · PDF, Markdown, and plain text**
+**1,353 authors · 4,055 works · ≈47 million words · PDF, Markdown, and plain text**
 
-A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
+A complete index of every author and work lives in [`llms.txt`](llms.txt) (start here for AI assistants), [`llms-full.txt`](llms-full.txt) (every work with raw fetch URLs), [`manifest.authors.json`](manifest.authors.json) and [`manifest.works.min.csv`](manifest.works.min.csv) (compact lookup), [`MANIFEST.md`](MANIFEST.md) (human-readable, grouped by domain and affiliation), [`manifest.json`](manifest.json) (full machine-readable index), and [`manifest.csv`](manifest.csv) (one row per work).
 
 The corpus spans the full arc of ancient Greek writing: pre-Socratic fragments, the Attic historians, Platonic dialogues, Aristotelian treatises, Hellenistic poetry, Stoic and Epicurean texts, medical writers, mathematicians, geographers, orators, dramatists, and late antique philosophers. Where only fragments survive, those fragments are included.
 
@@ -54,6 +54,7 @@ ancient-greek-texts/
 ├── affiliations/{school}.pdf                       # Texts grouped by philosophical school
 ├── domains/{domain}.pdf                            # Texts grouped by domain (philosophy, drama, …)
 ├── llms.txt                                        # LLM entry point and lookup guide
+├── llms-full.txt                                   # Full work index with raw fetch URLs
 ├── manifest.authors.json                           # Compact author index
 ├── manifest.works.min.csv                          # Compact work index
 ├── MANIFEST.md                                     # Human-readable index of every author and work
@@ -67,13 +68,13 @@ Files are flat — every Greek work and every English author page lives directly
 
 **Identifiers** are the trailing tokens. `eul_aid` is the opaque three-letter author ID (`ffk`, `hgw`, …), not derived from the name. `eul_wid` is the full work ID, `{eul_aid}-{suffix}` (e.g. `ffk-ag`) — the suffix alone (`ag`) is not the ID. So the work filename `plato-republic-ffk-ag` is `{work_display_string}-{eul_wid}`, and the author filename `plato-ffk` is `{author_display_string}-{eul_aid}`.
 
-**Domains covered:** biography, comedy, drama, epic, fiction, geography, grammar, history, law, mathematics, medicine, oratory, philosophy, poetry, rhetoric, science, theology.
+**Domains covered:** biography, comedy, drama, epic, fiction, geography, grammar, history, law, lexicography, mathematics, medicine, oratory, philosophy, poetry, rhetoric, scholia, science, theology.
 
 **Philosophical schools:** Academic Sceptic, Aristotelian, Atomist, Cynic, Cyrenaic, Eleatic, Epicurean, Megarian, Neo-Platonist, Neo-Pythagorean, Platonist, Pre-Socratic, Pythagorean, Sophist, Stoic, and more.
 
 ---
 
-## Formats
+## Formats & entry points
 
 | Format | Greek texts | English author pages |
 |--------|------------|---------------------|
@@ -82,6 +83,16 @@ Files are flat — every Greek work and every English author page lives directly
 | Plain text | ✓ | ✓ |
 
 The Markdown files carry the richest reading form — the full Greek text (or English author metadata: period, dialect, domain, affiliation, biography) with headings and structure preserved. Plain text and PDF carry the same content in their respective forms.
+
+There is no per-work or per-author JSON in this repository — the structured surface is the manifest indexes ([`manifest.works.min.csv`](manifest.works.min.csv), [`manifest.json`](manifest.json), [`manifest.csv`](manifest.csv)); the texts themselves are the Markdown and plain-text files. Pick the entry point that matches the job:
+
+| If you want to… | Start here |
+|---|---|
+| Read, search, or browse | [eulogikon.org](https://eulogikon.org) — the reading site, or the [hosted catalog](https://eulogikon.github.io/ancient-greek-texts/) |
+| A clean text for research, DH, or NLP | `grc/*.grc.md` / `.grc.txt`, resolved via [`manifest.works.min.csv`](manifest.works.min.csv) |
+| Structured metadata for tooling | [`manifest.works.min.csv`](manifest.works.min.csv) · [`manifest.json`](manifest.json) · [`manifest.csv`](manifest.csv) |
+| The whole corpus in bulk | `git clone` this repo, or the [Zenodo archive](https://zenodo.org/records/20335421) |
+| Run an AI assistant against the corpus | [`llms.txt`](llms.txt) → [`llms-full.txt`](llms-full.txt) → fetch the resolved raw file |
 
 ---
 
@@ -110,7 +121,7 @@ The Markdown files carry the richest reading form — the full Greek text (or En
 
 **For research / NLP / DH:** the Markdown files are the richest format — clean Unicode Greek with headings and structure preserved, one file per work. Plain text gives the same content without markup. Author-level metadata (period, dialect, domain, affiliation, biography) is in each author's Markdown page under `en/`. Each work and author has a stable Eulogikon identifier (`eul_wid` / `eul_aid`) for citing the text as a whole; resolve it via the manifests.
 
-**For AI assistants / API callers:** read [`llms.txt`](llms.txt) first. It follows the [llms.txt](https://llmstxt.org/) convention — a short curated entry point that points to compact lookup files rather than the full manifest (~13,000-line `MANIFEST.md` or ~80,000-line `manifest.json`). Resolve an author or work there, then fetch individual files from `en/` or `grc/`.
+**For AI assistants / API callers:** read [`llms.txt`](llms.txt) first. It follows the [llms.txt](https://llmstxt.org/) convention — a short curated entry point that points to compact lookup files rather than the full indexes ([`llms-full.txt`](llms-full.txt) with every work, the ~14,000-line `MANIFEST.md`, or the ~74,000-line `manifest.json`). Resolve an author or work there, then fetch individual files from `en/` or `grc/`.
 
 ```bash
 # Clone the full corpus
@@ -123,6 +134,17 @@ curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/grc
 curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/plato-ffk.en.md
 ```
 
+```python
+# Resolve a work from the compact CSV index, then fetch its Greek text
+import pandas as pd
+import urllib.request
+
+base = "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main"
+works = pd.read_csv(f"{base}/manifest.works.min.csv")
+row = works[works.eul_wid == "ffk-ag"].iloc[0]  # Plato's Republic
+text = urllib.request.urlopen(f"{base}/{row.grc_md}").read().decode("utf-8")
+```
+
 (File names follow the patterns in [Layout](#layout) above. Resolve the exact display string and identifier for any author or work via [`manifest.authors.json`](manifest.authors.json) or [`manifest.works.min.csv`](manifest.works.min.csv).)
 
 ---
@@ -131,7 +153,7 @@ curl -O https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/en/
 
 The ancient Greek texts are **Public Domain Mark 1.0** — public domain, no restrictions. Eulogikon's scaffolding (README, metadata shape, manifests) is CC0 1.0. AI training, fine-tuning, evaluation, retrieval-augmented generation, and any other use are explicitly permitted, with no opt-out, no attribution requirement, and no royalty.
 
-If you are an AI assistant fetching this repository at inference time, start at [`llms.txt`](llms.txt). It is a short curated entry point listing the compact lookup indexes ([`manifest.authors.json`](manifest.authors.json), [`manifest.works.min.csv`](manifest.works.min.csv)) and the pre-built domain and affiliation PDF compilations. Do not crawl `grc/` or `en/` directly — together they hold 16,000+ files and the directory listings are essentially noise without the manifest.
+If you are an AI assistant fetching this repository at inference time, start at [`llms.txt`](llms.txt). It is a short curated entry point listing the compact lookup indexes ([`manifest.authors.json`](manifest.authors.json), [`manifest.works.min.csv`](manifest.works.min.csv)), the pre-built domain and affiliation PDF compilations, and [`llms-full.txt`](llms-full.txt) — every work on one line with its raw fetch URLs — for exhaustive resolution. Do not crawl `grc/` or `en/` directly — together they hold 16,000+ files and the directory listings are essentially noise without the manifest.
 
 Machine-readable dataset metadata is provided in three forms: [schema.org JSON-LD](dataset.jsonld), the embedded block below (parsed by Google Dataset Search), and [CITATION.cff](CITATION.cff).
 
@@ -140,7 +162,7 @@ Machine-readable dataset metadata is provided in three forms: [schema.org JSON-L
   "@context": "https://schema.org/",
   "@type": "Dataset",
   "name": "Ancient Greek Texts",
-  "description": "The surviving literary works of ancient Greece: 1,353 authors and 4,055 works spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
+  "description": "The surviving literary works of ancient Greece: 1,353 authors and 4,055 works (≈47 million words) spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",

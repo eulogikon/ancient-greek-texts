@@ -10,6 +10,7 @@ Complete index of every author and work in this repository. This file is generat
 
 - Authors: **1353**
 - Works: **4055**
+- Greek words (whitespace tokens across `grc/*.grc.txt`): **47,347,849**
 - Domains (PDF compilations): **19**
 - Affiliations (PDF compilations): **25**
 
@@ -18,6 +19,7 @@ Each author has three files in `en/` (`.pdf`, `.md`, `.txt`); each work has thre
 ## Sibling indexes
 
 - [`llms.txt`](llms.txt) — LLM entry point and lookup guide
+- [`llms-full.txt`](llms-full.txt) — full work index with raw fetch URLs
 - [`manifest.authors.json`](manifest.authors.json) — compact author index
 - [`manifest.works.min.csv`](manifest.works.min.csv) — compact work index
 - [`manifest.json`](manifest.json) — full machine-readable index
