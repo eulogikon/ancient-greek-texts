@@ -91,7 +91,7 @@ There is no per-work or per-author JSON in this repository — the structured su
 | Read, search, or browse | [eulogikon.org](https://eulogikon.org) — the reading site, or the [hosted catalog](https://eulogikon.github.io/ancient-greek-texts/) |
 | A clean text for research, DH, or NLP | `grc/*.grc.md` / `.grc.txt`, resolved via [`manifest.works.min.csv`](manifest.works.min.csv) |
 | Structured metadata for tooling | [`manifest.works.min.csv`](manifest.works.min.csv) · [`manifest.json`](manifest.json) · [`manifest.csv`](manifest.csv) |
-| The whole corpus in bulk | `git clone` this repo, or the [Zenodo archive](https://zenodo.org/records/20335421) |
+| The whole corpus in bulk | `git clone` this repo, the [Zenodo archive](https://zenodo.org/records/20335421), or the [Hugging Face dataset](https://huggingface.co/datasets/eulogikon/ancient-greek-texts) (parquet: `works` / `authors`) |
 | Run an AI assistant against the corpus | [`llms.txt`](llms.txt) → [`llms-full.txt`](llms-full.txt) → fetch the resolved raw file |
 
 ---
@@ -143,6 +143,14 @@ base = "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main"
 works = pd.read_csv(f"{base}/manifest.works.min.csv")
 row = works[works.eul_wid == "ffk-ag"].iloc[0]  # Plato's Republic
 text = urllib.request.urlopen(f"{base}/{row.grc_md}").read().decode("utf-8")
+
+# Or load the whole corpus as parquet from Hugging Face
+from datasets import load_dataset
+
+corpus = load_dataset(
+    "eulogikon/ancient-greek-texts", "works", split="train"
+)  # one row per work: identifiers, metadata, full Greek text
+print(corpus[0]["title_english"])
 ```
 
 (File names follow the patterns in [Layout](#layout) above. Resolve the exact display string and identifier for any author or work via [`manifest.authors.json`](manifest.authors.json) or [`manifest.works.min.csv`](manifest.works.min.csv).)
