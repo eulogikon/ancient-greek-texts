@@ -1,17 +1,17 @@
 # faq-ai.txt for Eulogikon catalog site
-# Last updated: 2026-08-17
+# Last updated: 2026-08-30
 
 [About Eulogikon]
 
 Q: What is this catalog site?
-A: The multilingual catalog at https://eulogikon.github.io/ancient-greek-texts orients humans and agents to the Eulogikon corpus. Greek text lives on the reading site (https://eulogikon.org) and in the GitHub data store (https://github.com/eulogikon/ancient-greek-texts).
+A: The multilingual catalog at https://eulogikon.github.io/ancient-greek-texts orients humans and agents to the Eulogikon corpus. Greek text files live in the GitHub data store (https://github.com/eulogikon/ancient-greek-texts); agents start on this origin.
 URL: https://eulogikon.github.io/ancient-greek-texts/for-agents/
 
 Q: Where should AI assistants start?
-A: Agents arriving at the catalog site should read https://eulogikon.github.io/ancient-greek-texts/for-agents/ first. For corpus lookup and bulk files, use the canonical data-store entry point https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt. For live Greek text, use https://eulogikon.org (see https://eulogikon.org/.well-known/agent-skills/index.json).
+A: Read https://eulogikon.github.io/ancient-greek-texts/llms.txt, then https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/eulogikon-ancient-greek-texts/SKILL.md for full instructions. Resolve works via https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json and https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv on raw GitHub.
 
 Q: How many works are in the corpus?
-A: 4,055 works by 1,353 authors. Resolve exact rows via manifest.authors.json and manifest.works.min.csv in the data store.
+A: 4,055 works by 1,353 authors. Resolve exact rows via manifest.authors.json and manifest.works.min.csv on raw GitHub.
 
 [Rights and Reuse]
 
@@ -21,4 +21,4 @@ A: Yes. All content is public domain (Public Domain Mark 1.0). No restrictions o
 [Technical]
 
 Q: Is there an API?
-A: No REST API on the catalog site. Corpus metadata is in the GitHub data store manifests. Live indexes and Markdown text surfaces are on https://eulogikon.org.
+A: No REST API on the catalog site. Corpus metadata is in the GitHub data store manifests; fetch Greek files from raw GitHub URLs named in the skill.

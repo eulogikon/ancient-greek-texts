@@ -31,8 +31,8 @@ Crawl-delay: 5
 Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml
 
 Discovery: https://eulogikon.github.io/ancient-greek-texts/for-agents/
-Discovery: https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt
-Discovery: https://eulogikon.org/llms-full.txt
+Discovery: https://eulogikon.github.io/ancient-greek-texts/llms.txt
+Discovery: https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/index.json
 Discovery: https://eulogikon.github.io/ancient-greek-texts/ai.txt
 Discovery: https://eulogikon.github.io/ancient-greek-texts/ai.json
-Discovery: https://eulogikon.org/.well-known/agent-skills/index.json
+Discovery: https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/index.json

@@ -4,14 +4,12 @@
 User-agent: *
 Allow: /
 
-Content-Signal: search=yes, ai-train=yes, ai-input=yes
-
 Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml
 
 # AI agent discovery surfaces (informational; not parsed as directives):
 #   Catalog for-agents page:
 #     https://eulogikon.github.io/ancient-greek-texts/for-agents/
-#   Canonical llms.txt (data store, raw GitHub):
-#     https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt
-#   Agent Skills index (reading site, canonical):
-#     https://eulogikon.org/.well-known/agent-skills/index.json
+#   Catalog llms.txt (this origin):
+#     https://eulogikon.github.io/ancient-greek-texts/llms.txt
+#   Agent Skills index (this origin):
+#     https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/index.json

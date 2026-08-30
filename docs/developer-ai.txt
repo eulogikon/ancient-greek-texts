@@ -1,29 +1,37 @@
 [overview]
 The Eulogikon catalog site at https://eulogikon.github.io/ancient-greek-texts is a statically generated GitHub Pages site.
-It provides multilingual discovery and browse pages. It does not host Greek text.
+It provides multilingual discovery and browse pages plus agent discovery on this origin.
+Greek text files live in the same GitHub repository; fetch them via raw GitHub URLs.
 
 Three public surfaces:
-- Catalog site (https://eulogikon.github.io/ancient-greek-texts) — this site; start at /for-agents/
-- Reading site (https://eulogikon.org) — live Greek text, /data/*.json indexes, /works/*.md
-- Data store (https://github.com/eulogikon/ancient-greek-texts) — bulk PDF, Markdown, plain text; canonical llms.txt at https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt
+- Reading site (https://eulogikon.org) — the human reading interface for the Greek text
+- Catalog site (https://eulogikon.github.io/ancient-greek-texts) — start at /for-agents/ and /llms.txt on this origin
+- Data store (https://github.com/eulogikon/ancient-greek-texts) — bulk PDF, Markdown, and plain text at raw GitHub paths
+
+The catalog and the data store have no reading interface; they are for
+discovery and download. Reading happens on the reading site.
 
 There is no REST API on the catalog site. GitHub Pages does not support HTTP Link
 headers or Accept: text/markdown content negotiation.
 
 [public-areas]
 - / — Multilingual landing pages
-- /for-agents/ — Agent and developer orientation (English)
-- /el/catalog/, /es/catalog/ — Pilot catalog browse (Greek and Spanish UI)
+- /for-agents/ — Agent orientation (English)
+- /llms.txt — Agent entry point on this origin
+- /el/catalog/ — Full catalog browse (el UI)
+- /es/catalog/ — Full catalog browse (es UI)
+- /zh/catalog/ — Full catalog browse (zh UI)
+
 - /ai.txt, /ai.json, /identity.json, /brand.txt, /faq-ai.txt, /developer-ai.txt
-- /.well-known/agent-skills/index.json — Pointer to canonical skill on reading site
+- /.well-known/agent-skills/index.json — Agent Skills on this origin
 - /sitemap.xml
 
 [documentation]
 - https://eulogikon.github.io/ancient-greek-texts/for-agents/ — catalog agent entry
-- https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/llms.txt — data store llms.txt (canonical)
-- https://eulogikon.org/llms-full.txt — full corpus census on reading site
-- https://eulogikon.org/.well-known/agent-skills/eulogikon-corpus/SKILL.md — canonical Agent Skills instructions
-- https://eulogikon.org/data/works.json — live work index on reading site
+- https://eulogikon.github.io/ancient-greek-texts/llms.txt — catalog llms.txt (this origin)
+- https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/eulogikon-ancient-greek-texts/SKILL.md — Agent Skills instructions on this origin
+- https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json — compact author index (raw GitHub)
+- https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv — compact work index (raw GitHub)
 
 [identifiers]
 eul_aid: opaque author identifier. Stable; never reissued.
