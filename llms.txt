@@ -14,6 +14,7 @@ Recommended flow for AI assistants:
 3. Resolve a work via [`manifest.works.min.csv`](https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv) — grep by `author_display_string` (e.g. `,plato,`) or title, then fetch the `grc_md` path for the Greek text.
 4. For a thematic bundle (philosophy, drama, history; Stoic, Platonist, Pre-Socratic, …) load the pre-built compilation PDF from `domains/` or `affiliations/` listed below.
 5. Load one corpus file at a time. Markdown is the richest text format; plain text and PDF carry the same content.
+6. **To read one passage instead of a whole work**, use an HTTP `Range` request — raw.githubusercontent.com answers `206 Partial Content` on every path here. `manifest.works.min.csv` carries `grc_md_bytes` (the file's exact size) and `grc_md_text_offset` (the byte at which the Greek body opens). Inside the body each passage is introduced by `### {reference}` on its own line, in document order, so a few ranged reads locate any passage without downloading the file — for the largest works that is the difference between 12 MB and a few KB. These offsets describe THESE files only: the reading site at https://eulogikon.org serves a different byte stream for the same work.
 
 File naming:
 
