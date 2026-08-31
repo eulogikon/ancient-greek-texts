@@ -10,7 +10,7 @@ Complete index of every author and work in this repository. This file is generat
 
 - Authors: **1358**
 - Works: **4060**
-- Greek words (whitespace tokens across `grc/*.grc.txt`): **44,071,155**
+- Greek words (whitespace tokens across `grc/*.grc.txt`): **44,071,889**
 - Domains (PDF compilations): **19**
 - Affiliations (PDF compilations): **25**
 
